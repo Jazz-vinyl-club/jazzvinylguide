@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-import json, os, re, sys
+import json, os, re, sys, urllib.request, urllib.error
+from datetime import datetime
 
 try:
     import markdown
@@ -12,6 +13,22 @@ CONTENT_DIR = os.path.join(BASE_DIR, "_content")
 OUTPUT_DIR  = BASE_DIR
 ALBUMS_FILE = os.path.join(BASE_DIR, "albums.json")
 GITHUB_BASE = "https://github.com/Jazz-vinyl-club/jazzvinylguide/edit/main/_content"
+GITHUB_API  = "https://api.github.com/repos/Jazz-vinyl-club/jazzvinylguide/commits"
+
+def get_last_updated(content_file):
+    """Fetch last commit date for a file from GitHub API."""
+    try:
+        url = f"{GITHUB_API}?path=_content/{content_file}&per_page=1"
+        req = urllib.request.Request(url, headers={"Accept": "application/vnd.github.v3+json"})
+        with urllib.request.urlopen(req, timeout=5) as r:
+            commits = json.loads(r.read())
+            if commits:
+                date_str = commits[0]['commit']['committer']['date']
+                dt = datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%SZ")
+                return dt.strftime("%B %Y")
+    except Exception:
+        pass
+    return None
 
 def site_header():
     return '''<header class="site-header">
@@ -122,6 +139,9 @@ def build_album(album):
     else:
         cover_html = ''
 
+    last_updated = get_last_updated(album['content_file'])
+    updated_html = f'<p class="last-updated">Last updated: {last_updated}</p>' if last_updated else ''
+
     github_url = f"{GITHUB_BASE}/{album['content_file']}"
     body = f'''<div class="album-page">
   <header class="album-header">
@@ -147,6 +167,7 @@ def build_album(album):
     <div class="contribute-banner">
       <p><strong>Know something we don't?</strong> Spotted an error or have a pressing to add?</p>
       <a class="btn" href="{github_url}" target="_blank" rel="noopener">Edit this page on GitHub</a>
+      {updated_html}
     </div>
   </article>
 </div>'''
