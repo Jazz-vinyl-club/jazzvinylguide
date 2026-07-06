@@ -2,7 +2,7 @@
 
 ## Summary
 
-*Time Out* was recorded at Columbia's 30th Street Studio in New York City across three sessions in June, July, and August 1959 — the same converted Presbyterian church, the same engineer (Fred Plaut), and overlapping with the sessions for *Kind of Blue* and *Mingus Ah Um*. It is the first jazz album to sell one million copies, certified double platinum by the RIAA, and the only jazz album to produce a mainstream pop hit (Paul Desmond's "Take Five" at #25 on the Billboard Hot 100). Columbia's label executives initially refused to release it; Brubeck convinced them by first recording the conventional *Gone with the Wind*.
+*Time Out* was recorded at Columbia's 30th Street Studio in New York City across three sessions in June, July, and August 1959 – the same converted Presbyterian church, the same engineer (Fred Plaut), and overlapping with the sessions for *Kind of Blue* and *Mingus Ah Um*. It is the first jazz album to sell one million copies, certified double platinum by the RIAA, and the only jazz album to produce a mainstream pop hit (Paul Desmond's "Take Five" at #25 on the Billboard Hot 100). Columbia's label executives initially refused to release it; Brubeck convinced them by first recording the conventional *Gone with the Wind*.
 
 The album's sonic character is defined by the 30th Street Studio's vast acoustic: Brubeck's piano has an earthy resonance, Desmond's alto is feathered but focused, Joe Morello's drums have ideal weight and shimmer, and Eugene Wright's bass – the most commonly criticised element of lesser pressings – is either present and grounded or frustratingly buried depending on the cut. The stereo image places Brubeck slightly left, Desmond slightly right, rhythm section centred – less artificially wide than some Columbia jazz of the period, but still with a notable left-right spread. The mono collapses this into a more unified presentation that many seasoned collectors prefer. *Time Out* is also one of the most bootlegged jazz titles in the EU budget market – DOL, Waxtime, Vinyl Passion and similar grey-market pressings should be avoided.
 
@@ -67,19 +67,19 @@ The community is divided. The stereo has been the default for all major reissues
 
 ## The reissue hierarchy
 
-### Classic Records 45rpm 4LP (1995 / 2000 / 2008) — the first great reissues
+### Classic Records 45rpm 4LP (1995 / 2000 / 2008) – the first great reissues
 
 Classic Records issued *Time Out* in three distinct 45rpm editions, all on 4×single-sided LPs (one track per side at 45rpm):
 
-**1995 edition (180g):** Bernie Grundman mastering from the original tapes. Pressed by Classic Records. The pioneering audiophile reissue — proof that the recording had more to offer than any standard LP had delivered. Market: **$100–$250** for a clean 4LP set.
+**1995 edition (180g):** Bernie Grundman mastering from the original tapes. Pressed by Classic Records. The pioneering audiophile reissue – proof that the recording had more to offer than any standard LP had delivered. Market: **$100–$250** for a clean 4LP set.
 
 **2000 edition (200g Quiex SV-P):** Same Grundman mastering, repressed on Classic Records' proprietary 200g Quiex SV-P vinyl compound. Wider groove, quieter surface than 180g. Generally considered the best of the three Classic editions. Market: **$150–$300**.
 
 **2008 edition (Clarity SV-P II clear vinyl):** Same mastering again, on Classic Records' final vinyl compound iteration. Some collectors find the clarity vinyl more analytically neutral; others prefer the Quiex warmth. Market: **$150–$350** depending on condition.
 
-All three Classic editions use single-sided pressings with the track listing across four discs. The packaging is spartan by modern standards — the original Classic was issued without a gatefold, leading some to describe it as "four records in white sleeves."
+All three Classic editions use single-sided pressings with the track listing across four discs. The packaging is spartan by modern standards – the original Classic was issued without a gatefold, leading some to describe it as "four records in white sleeves."
 
-### Analogue Productions APJ 8192-45 45rpm 2LP (2012) — the current audiophile benchmark
+### Analogue Productions APJ 8192-45 45rpm 2LP (2012) – the current audiophile benchmark
 
 **Cat. APJ 8192-45** | UPC **753088819278** | Format: 2×200g 45rpm, Stoughton tip-on gatefold with session photos, QRP pressing. **Mastered by Bernie Grundman, AAA, from the original analog master tapes.** The first time *Time Out* was issued in a gatefold jacket.
 
@@ -93,19 +93,19 @@ Multiple Discogs owners confirm the wide dynamic range and detailed percussion: 
 
 Note on vinyl weight: while originally issued on 200g, pressings since approximately 2021–2022 have been on 180g. Sonically equivalent per community reports. **Still in print via Acoustic Sounds; ~$80–$100 new.**
 
-### Analogue Productions AAPJ 8192 33rpm 180g (2015) — the single-disc option
+### Analogue Productions AAPJ 8192 33rpm 180g (2015) – the single-disc option
 
 **Cat. AAPJ 8192** | UPC **753088819216** | Format: single 180g LP at 33⅓, Stoughton tip-on gatefold with same session photos as 45rpm edition. **Mastered by Bernie Grundman, AAA**, from the same original tapes. Same QRP pressing.
 
-Note: the cover of this edition erroneously states "RECORDING IS DESIGNED FOR USE ON 45 RPM STEREOPHONIC REPRODUCERS" — a copy-paste error from the 45rpm cover art; the vinyl is indeed 33⅓. This causes frequent Discogs confusion; check the label, not the cover.
+Note: the cover of this edition erroneously states "RECORDING IS DESIGNED FOR USE ON 45 RPM STEREOPHONIC REPRODUCERS" – a copy-paste error from the 45rpm cover art; the vinyl is indeed 33⅓. This causes frequent Discogs confusion; check the label, not the cover.
 
-The 33rpm Grundman mastering is essentially the same mastering decision applied to a single-disc format. The 45rpm advantage in groove width translates to marginally better transient detail and bass definition on the 45; the 33rpm is more convenient and considerably cheaper. [Waxhaw Wax](https://waxhawwax.com/dave-brubeck-quartet-time-out/): "Analogue Productions 45 RPM (2012): Pressed at QRP, quieter vinyl and rounder tone — many prefer it for balance." The same verdict applies to the 33rpm at slightly reduced resolution. **Still in print; ~$35–$45 new.**
+The 33rpm Grundman mastering is essentially the same mastering decision applied to a single-disc format. The 45rpm advantage in groove width translates to marginally better transient detail and bass definition on the 45; the 33rpm is more convenient and considerably cheaper. [Waxhaw Wax](https://waxhawwax.com/dave-brubeck-quartet-time-out/): "Analogue Productions 45 RPM (2012): Pressed at QRP, quieter vinyl and rounder tone – many prefer it for balance." The same verdict applies to the 33rpm at slightly reduced resolution. **Still in print; ~$35–$45 new.**
 
 ---
 
 ## The cover art story: Neil Fujita and the reluctant label
 
-The abstract painting on *Time Out*'s cover is by **S. Neil Fujita** — the same designer responsible for the covers of *Kind of Blue* and *Mingus Ah Um*, all released in 1959. The geometric abstraction for *Time Out* uses overlapping shapes in red, blue, green, and yellow against a cream ground. Columbia's sales executives initially refused this cover, insisting jazz albums needed a photograph of the artist. Brubeck held firm. The cover became one of the most recognised in jazz history, and Fujita's three Columbia covers of 1959 represent a peak moment in jazz graphic design.
+The abstract painting on *Time Out*'s cover is by **S. Neil Fujita** – the same designer responsible for the covers of *Kind of Blue* and *Mingus Ah Um*, all released in 1959. The geometric abstraction for *Time Out* uses overlapping shapes in red, blue, green, and yellow against a cream ground. Columbia's sales executives initially refused this cover, insisting jazz albums needed a photograph of the artist. Brubeck held firm. The cover became one of the most recognised in jazz history, and Fujita's three Columbia covers of 1959 represent a peak moment in jazz graphic design.
 
 Later pressings of *Time Out* added text to the cover that does not appear on first-year copies: **"Featuring Take Five, Blue Rondo à la Turk"** and an oval circle around the catalogue number. The absence of this text, plus the presence of the original clean cover with no superimposed typography, is a first-year pressing marker for the stereo CS 8192.
 
@@ -160,13 +160,13 @@ Later pressings of *Time Out* added text to the cover that does not appear on fi
 |---|---|---|---|---|---|---|---|
 | **S** | AP 45rpm 2LP | **APJ 8192-45** | 2012 | Stereo, 45rpm, 2×180–200g | Original tapes → Bernie Grundman, AAA, QRP | Current benchmark; piano and bass authority; ~$80–100 new | [Discogs](https://www.discogs.com/release/3791080-The-Dave-Brubeck-Quartet-Time-Out) |
 | **S** | Original Six Eye stereo, no CBS | **CS 8192** | 1959 | Stereo, 33⅓ | Scully/Westrex lacquer, Fred Plaut, 30th Street | 1A/1A stampers; natural air; $200–$500 NM | [Discogs](https://www.discogs.com/master/34081-The-Dave-Brubeck-Quartet-Time-Out) |
-| **A** | Classic Records 200g Quiex SV-P 4LP 45rpm | CS 8192 (Classic) | 2000 | Stereo, 45rpm, 4×200g | Original tapes → Bernie Grundman, AAA | Best Classic edition; 4 single-sided LPs; OOP $150–$300 | — |
+| **A** | Classic Records 200g Quiex SV-P 4LP 45rpm | CS 8192 (Classic) | 2000 | Stereo, 45rpm, 4×200g | Original tapes → Bernie Grundman, AAA | Best Classic edition; 4 single-sided LPs; OOP $150–$300 | – |
 | **A** | Dutch Fontana 682 065 TL | 682 065 TL | 1959 | Stereo, 33⅓ | Philips Holland pressing | LJC: "CBS 6-eye shrivels before the Fontana"; $80–$200 NM | [Discogs](https://www.discogs.com/master/34081-The-Dave-Brubeck-Quartet-Time-Out) |
 | **B** | AP 33rpm 180g | **AAPJ 8192** | 2015 | Stereo, 33⅓, 180g | Original tapes → Bernie Grundman, AAA, QRP | Best-value modern; single LP; ~$35–40 new | [Discogs](https://www.discogs.com/release/7632519-The-Dave-Brubeck-Quartet-Time-Out) |
 | **B** | Original Six Eye mono, no CBS | **CL 1397** | 1959 | Mono, 33⅓ | Scully/Westrex lacquer, Fred Plaut | Discrete mono mix; unified ensemble; $150–$350 NM | [Discogs](https://www.discogs.com/master/34081-The-Dave-Brubeck-Quartet-Time-Out) |
-| **B** | Classic Records 180g 4LP 45rpm | CS 8192 (Classic) | 1995 | Stereo, 45rpm, 4×180g | Original tapes → Bernie Grundman, AAA | Original Classic edition; OOP $100–$250 | — |
-| **C** | Classic Records Clarity SV-P II 4LP 45rpm | CS 8192 (Classic) | 2008 | Stereo, 45rpm, 4×200g clear | Original tapes → Bernie Grundman, AAA | Clear vinyl; analytically neutral character; OOP $150–$350 | — |
+| **B** | Classic Records 180g 4LP 45rpm | CS 8192 (Classic) | 1995 | Stereo, 45rpm, 4×180g | Original tapes → Bernie Grundman, AAA | Original Classic edition; OOP $100–$250 | – |
+| **C** | Classic Records Clarity SV-P II 4LP 45rpm | CS 8192 (Classic) | 2008 | Stereo, 45rpm, 4×200g clear | Original tapes → Bernie Grundman, AAA | Clear vinyl; analytically neutral character; OOP $150–$350 | – |
 | **C** | CBS Six Eye stereo | CS 8192 | 1961–62 | Stereo, 33⅓ | Later stampers; CBS overprint | Noticeably inferior to non-CBS Six Eye; $50–$120 | [Discogs](https://www.discogs.com/master/34081-The-Dave-Brubeck-Quartet-Time-Out) |
 | **C** | European CBS/Columbia represses | CS 8192 / CBS 32792 | 1970s–80s | Stereo, 33⅓ | Repress lacquers | Holland CBS 32792 praised for punchy sound; $20–$60 | [Discogs](https://www.discogs.com/master/34081-The-Dave-Brubeck-Quartet-Time-Out) |
-| **D** | 1970s–80s US Columbia represses | CS 8192 | 1970s–80s | Stereo, 33⅓ | Neumann-era Columbia lathes | Thinner, brighter; budget listening only | — |
-| **F** | EU grey-market (DOL, Waxtime, Vinyl Passion) | Various | 2000s+ | Various | Digital rip, unlicensed | Not licensed; "digitally sourced" | — |
+| **D** | 1970s–80s US Columbia represses | CS 8192 | 1970s–80s | Stereo, 33⅓ | Neumann-era Columbia lathes | Thinner, brighter; budget listening only | – |
+| **F** | EU grey-market (DOL, Waxtime, Vinyl Passion) | Various | 2000s+ | Various | Digital rip, unlicensed | Not licensed; "digitally sourced" | – |
