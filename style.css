@@ -92,6 +92,15 @@ a:hover { color: var(--paper); }
 .album-content table { width: 100%; border-collapse: collapse; font-size: 0.875rem; margin: 1.25rem 0 1.75rem; }
 .album-content .table-wrap { overflow-x: auto; display: block; border: 1px solid var(--border); margin: 1.25rem 0 1.75rem; }
 .album-content .table-wrap table { margin: 0; border: none; }
+/* Tier table column widths */
+.album-content table th:nth-child(1) { width: 50px; }
+.album-content table th:nth-child(2) { width: 180px; }
+.album-content table th:nth-child(3) { width: 110px; }
+.album-content table th:nth-child(4) { width: 60px; }
+.album-content table th:nth-child(5) { width: 130px; }
+.album-content table th:nth-child(6) { width: 180px; }
+.album-content table th:nth-child(7) { min-width: 160px; }
+.album-content table th:nth-child(8) { width: 80px; }
 .album-content table th { font-family: var(--mono); font-size: 0.65rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--grey); padding: 0.6rem 0.875rem; text-align: left; border-bottom: 1px solid var(--border); background: var(--surface-2); white-space: nowrap; }
 .album-content table td { padding: 0.6rem 0.875rem; border-bottom: 1px solid var(--border); color: var(--paper-dim); vertical-align: top; }
 .album-content table tr:last-child td { border-bottom: none; }
