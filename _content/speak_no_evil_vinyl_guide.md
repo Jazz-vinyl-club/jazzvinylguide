@@ -78,11 +78,11 @@ After Liberty Records acquired Blue Note in 1966, pressings show "A Division of 
 
 ## Buyer's guide by budget
 
-**Under $35:** The **Blue Note Classic Vinyl BST 84194** — Kevin Gray mastering, 180g, Optimal pressing. The recommended starting point for any listener.
+**Under $35:** The [**Blue Note Classic Vinyl BST 84194**](https://www.discogs.com/release/16941774) — Kevin Gray mastering, 180g, Optimal pressing. The recommended starting point for any listener.
 
-**$150+:** The **Music Matters 33rpm AAA mono** — when available, this is the definitive listening copy. Seek the 2015 pressing specifically.
+**$150+:** The [**Music Matters 33rpm AAA mono**](https://www.discogs.com/release/7248785) — when available, this is the definitive listening copy. Seek the 2015 pressing specifically.
 
-**$200–$500:** An original **New York USA label stereo or mono first pressing** with Van Gelder stamp and Plastylite ear. Understand that truly clean VG+ copies require careful inspection.
+**$200–$500:** An original [**New York USA label stereo or mono first pressing**](https://www.discogs.com/release/4088476) with Van Gelder stamp and Plastylite ear. Understand that truly clean VG+ copies require careful inspection.
 
 ---
 
