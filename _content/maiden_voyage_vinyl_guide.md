@@ -68,11 +68,11 @@ Labels read "A Division of Liberty Records Inc." Van Gelder stamps remain on man
 
 ## Buyer's guide by budget
 
-**Under $35:** The **Blue Note Classic Vinyl BST 84195** — Kevin Gray mastering, Optimal pressing. The recommended starting point.
+**Under $35:** The [**Blue Note Classic Vinyl BST 84195**](https://www.discogs.com/release/18566068) — Kevin Gray mastering, Optimal pressing. The recommended starting point.
 
-**$150–$250:** The **Music Matters 33rpm AAA** if found at a reasonable secondary price — worth pursuing for its native stereo AAA mastering.
+**$150–$250:** The [**Music Matters 33rpm AAA**](https://www.discogs.com/release/4354025) if found at a reasonable secondary price — worth pursuing for its native stereo AAA mastering.
 
-**$200–$500:** An original **New York USA BST 84195 stereo** in honest VG+ or better, with Van Gelder stamp and Plastylite ear confirmed.
+**$200–$500:** An original [**New York USA BST 84195 stereo**](https://www.discogs.com/master/32314-Herbie-Hancock-Maiden-Voyage) in honest VG+ or better, with Van Gelder stamp and Plastylite ear confirmed.
 
 ---
 
