@@ -140,14 +140,12 @@ def build_album(album):
     if mbid:
         cover_html = f'''    <figure class="album-header__cover">
       <img src="https://coverartarchive.org/release-group/{mbid}/front-500" alt="{title} album cover" width="160" height="160" loading="lazy" onerror="this.style.display='none'">
-      <figcaption>© respective label — fair use</figcaption>
     </figure>'''
     else:
         cover_path = os.path.join(BASE_DIR, "covers", f"{slug}.jpg")
         if os.path.exists(cover_path):
             cover_html = f'''    <figure class="album-header__cover">
       <img src="/covers/{slug}.jpg" alt="{title} album cover" width="160" height="160" loading="lazy">
-      <figcaption>© respective label — fair use</figcaption>
     </figure>'''
         else:
             cover_html = ''
