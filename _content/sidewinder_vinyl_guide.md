@@ -86,9 +86,9 @@ The "Bob Crenshaw" cover misspelling appears on all original pressings; this is 
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Music Matters 45rpm 2LP stereo | **MM33 BNST-84157** | c.2012 | Stereo, 45rpm, 2×180g | Orig stereo tape → Kevin Gray, AAA, RTI | 3,500 copies; $150–$300 secondary | [Discogs](https://www.discogs.com/release/6011184-Lee-Morgan-The-Sidewinder) |
-| **A** | Original BST 84157 stereo, NY USA label | **BST 84157** | 1964 | Stereo, 33⅓ | RVG / Plastylite; native stereo | VAN GELDER stamp + ear required; $100–$300 NM | [Discogs](https://www.discogs.com/release/579852-Lee-Morgan-The-Sidewinder) |
-| **A** | Original BLP 4157 mono, NY USA label | **BLP 4157** | 1964 | Mono, 33⅓ | RVG / Plastylite; native mono | Same authentication; $100–$250 NM | [Discogs](https://www.discogs.com/release/16046297-Lee-Morgan-The-Sidewinder) |
-| **B** | Blue Note Classic Vinyl 180g | **BST 84157** | c.2020 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Budget entry; $20–$30 new | [Discogs](https://www.discogs.com/master/192306-Lee-Morgan-The-Sidewinder) |
-| **C** | Liberty-era pressing (with VG stamp) | **BST 84157** | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $30–$80 VG+ | [Discogs](https://www.discogs.com/master/192306-Lee-Morgan-The-Sidewinder) |
+| **S** | Music Matters 45rpm 2LP stereo | MM33 BNST-84157 | c.2012 | Stereo, 45rpm, 2×180g | Orig stereo tape → Kevin Gray, AAA, RTI | 3,500 copies; $150–$300 secondary | [Discogs](https://www.discogs.com/release/6011184-Lee-Morgan-The-Sidewinder) |
+| **A** | Original BST 84157 stereo, NY USA label | BST 84157 | 1964 | Stereo, 33⅓ | RVG / Plastylite; native stereo | VAN GELDER stamp + ear required; $100–$300 NM | [Discogs](https://www.discogs.com/release/579852-Lee-Morgan-The-Sidewinder) |
+| **A** | Original BLP 4157 mono, NY USA label | BLP 4157 | 1964 | Mono, 33⅓ | RVG / Plastylite; native mono | Same authentication; $100–$250 NM | [Discogs](https://www.discogs.com/release/16046297-Lee-Morgan-The-Sidewinder) |
+| **B** | Blue Note Classic Vinyl 180g | BST 84157 | c.2020 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Budget entry; $20–$30 new | [Discogs](https://www.discogs.com/master/192306-Lee-Morgan-The-Sidewinder) |
+| **C** | Liberty-era pressing (with VG stamp) | BST 84157 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $30–$80 VG+ | [Discogs](https://www.discogs.com/master/192306-Lee-Morgan-The-Sidewinder) |
 | **D** | 1970s–80s general reissues | Various | 1970s–80s | Stereo, 33⅓ | Various | Not recommended | – |
