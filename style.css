@@ -71,7 +71,7 @@ a:hover { color: var(--paper); }
 .album-header__cover figcaption { font-family: var(--mono); font-size: 0.6rem; color: var(--grey); margin-top: 0.4rem; text-align: left; }
 
 /* Album summary */
-.album-summary { grid-column: 2; padding: 3rem 0 0; margin-bottom: 0; max-width: 680px; color: var(--paper-dim); font-size: 0.9625rem; line-height: 1.7; }
+.album-summary { grid-column: 2; padding: 2rem 0; border-bottom: 1px solid var(--border); margin-bottom: 2rem; max-width: 680px; color: var(--paper-dim); font-size: 0.9625rem; line-height: 1.7; }
 .album-summary p { margin-bottom: 0.85rem; color: var(--paper-dim); font-size: 0.9625rem; }
 .album-summary p:last-child { margin-bottom: 0; }
 .album-summary strong { color: var(--paper); font-weight: 600; }
