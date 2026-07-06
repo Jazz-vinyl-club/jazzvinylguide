@@ -50,8 +50,8 @@ a:hover { color: var(--paper); }
 .album-card { background: var(--black); padding: 1rem 1.75rem; display: flex; align-items: center; gap: 1.5rem; color: var(--paper); transition: background 0.15s; border-bottom: 1px solid var(--border); }
 .album-card:hover { background: var(--surface); color: var(--paper); }
 .album-card__label { font-family: var(--mono); font-size: 0.7rem; color: var(--grey); letter-spacing: 0.08em; text-transform: uppercase; white-space: nowrap; min-width: 120px; margin-bottom: 0; }
-.album-card__title { font-family: var(--serif); font-size: 1.2rem; line-height: 1.2; margin-bottom: 0; flex: 1; min-width: 180px; }
-.album-card__artist { font-size: 0.875rem; color: var(--gold); margin-bottom: 0; width: 220px; flex-shrink: 0; text-align: left; }
+.album-card__title { font-family: var(--serif); font-size: 1.05rem; line-height: 1.2; margin: 0; width: 280px; flex-shrink: 0; }
+.album-card__artist { font-size: 0.875rem; color: var(--gold); margin-bottom: 0; flex: 1; text-align: left; white-space: nowrap; }
 .album-card__meta { font-size: 0.8rem; color: var(--grey-light); white-space: nowrap; }
 .album-card__arrow { display: inline-block; margin-top: 0; font-family: var(--mono); font-size: 0.75rem; color: var(--gold-dim); white-space: nowrap; margin-left: auto; }
 .album-card:hover .album-card__arrow { color: var(--gold); }
