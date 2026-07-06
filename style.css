@@ -55,7 +55,7 @@ a:hover { color: var(--paper); }
 
 /* Album page layout */
 .album-page { max-width: var(--max-w); margin: 0 auto; padding: 0 2rem; display: grid; grid-template-columns: var(--sidebar-w) 1fr; column-gap: 3.5rem; row-gap: 0; }
-.album-header { grid-column: 1 / -1; padding: 3rem 0 2.5rem; border-bottom: 1px solid var(--border); margin-bottom: 0; display: flex; align-items: flex-start; gap: 2rem; justify-content: space-between; }
+.album-header { grid-column: 1 / -1; padding: 3rem 0 2.5rem; border-bottom: 1px solid var(--border); margin-bottom: 3rem; display: flex; align-items: flex-start; gap: 2rem; justify-content: space-between; }
 .album-header__content { flex: 1; }
 .album-header__back { font-family: var(--mono); font-size: 0.7rem; color: var(--grey); letter-spacing: 0.12em; text-transform: uppercase; display: inline-block; margin-bottom: 1.5rem; }
 .album-header__back:hover { color: var(--gold); }
