@@ -192,6 +192,7 @@ a:hover { color: var(--paper); }
 .album-summary {
   grid-column: 1 / -1;
   padding: 0 0 2rem;
+  margin-top: -1rem;
   border-bottom: 1px solid var(--border);
   margin-bottom: 2rem;
   color: var(--paper-dim);
