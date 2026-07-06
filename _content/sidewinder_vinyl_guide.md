@@ -72,13 +72,13 @@ The "Bob Crenshaw" cover misspelling appears on all original pressings; this is 
 
 ## Buyer's guide by budget
 
-**Under $30:** The **Blue Note Classic Vinyl BST 84157** — Kevin Gray mastering, Optimal pressing. The recommended starting point.
+**Under $30:** The [**Blue Note Classic Vinyl BST 84157**](https://www.discogs.com/release/16941774) — Kevin Gray mastering, Optimal pressing. The recommended starting point.
 
-**$50–$150:** A **Liberty-era pressing with Van Gelder stamp** for the budget collector who wants period metal, or a good-condition VG+ original.
+**$50–$150:** A [**Liberty-era pressing with Van Gelder stamp**](https://www.discogs.com/master/32356-Lee-Morgan-The-Sidewinder) for the budget collector who wants period metal, or a good-condition VG+ original.
 
-**$150–$300:** The **Music Matters 45rpm stereo** — the definitive modern version; worth seeking for serious listeners.
+**$150–$300:** The [**Music Matters 45rpm stereo**](https://www.discogs.com/release/6011184) — the definitive modern version; worth seeking for serious listeners.
 
-**$100–$300:** An original **New York USA label stereo** in honest VG+ condition — plentiful on the market relative to other Blue Note originals, making it achievable without exceptional outlay.
+**$100–$300:** An original [**New York USA label stereo**](https://www.discogs.com/release/579852) in honest VG+ condition — plentiful on the market relative to other Blue Note originals, making it achievable without exceptional outlay.
 
 ---
 
