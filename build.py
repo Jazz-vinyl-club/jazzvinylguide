@@ -66,7 +66,9 @@ def html_shell(title, description, body):
 
 def _render(text):
     md = markdown.Markdown(extensions=['tables', 'fenced_code'])
-    return md.convert(text)
+    html = md.convert(text)
+    html = html.replace('<table>', '<div class="table-wrap"><table>').replace('</table>', '</table></div>')
+    return html
 
 def strip_preamble(lines):
     if lines and lines[0].startswith('# '):
