@@ -1,7 +1,5 @@
 # Mingus Ah Um on Vinyl: The Definitive Pressing Guide
 
----
-
 ## Summary
 
 *Mingus Ah Um* is Charles Mingus's most beloved album and one of the defining recordings of 1959 jazz — a year that also gave us *Kind of Blue* and *Time Out*, recorded in the same studio by the same engineer. The album carries a unique complication: the original 1959 pressings present edited versions of six of the nine tracks. Collectors therefore face a genuine choice between the authentic 1959 tube sound on vinyl (with shorter performances) and the complete, unedited music available only on modern reissues.
