@@ -76,8 +76,8 @@ Labels read "A Division of Liberty Records Inc." Van Gelder stamps remain on man
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | Original BST 84185 stereo, NY USA label | **BST 84185** | 1964 | Stereo, 33⅓ | RVG / Plastylite | VAN GELDER stamp + ear required; $150–$400 NM | [Discogs](https://www.discogs.com/release/2019742-Horace-Silver-Song-For-My-Father) |
-| **A** | Original BLP 4185 mono, NY USA label | **BLP 4185** | 1964 | Mono, 33⅓ | RVG / Plastylite | Same authentication; $150–$350 NM | [Discogs](https://www.discogs.com/release/3346498-Horace-Silver-Song-For-My-Father) |
-| **B** | Blue Note Classic Vinyl 180g | **ST-84185** | 2020 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Only widely available modern reissue; $20–$35 | [Discogs](https://www.discogs.com/release/16953990-Horace-Silver-Song-For-My-Father) |
-| **C** | Liberty-era pressing (with VG stamp) | **BST 84185** | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $30–$80 VG+ | [Discogs](https://www.discogs.com/master/43527-Horace-Silver-Song-For-My-Father) |
+| **A** | Original BST 84185 stereo, NY USA label | BST 84185 | 1964 | Stereo, 33⅓ | RVG / Plastylite | VAN GELDER stamp + ear required; $150–$400 NM | [Discogs](https://www.discogs.com/release/2019742-Horace-Silver-Song-For-My-Father) |
+| **A** | Original BLP 4185 mono, NY USA label | BLP 4185 | 1964 | Mono, 33⅓ | RVG / Plastylite | Same authentication; $150–$350 NM | [Discogs](https://www.discogs.com/release/3346498-Horace-Silver-Song-For-My-Father) |
+| **B** | Blue Note Classic Vinyl 180g | ST-84185 | 2020 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Only widely available modern reissue; $20–$35 | [Discogs](https://www.discogs.com/release/16953990-Horace-Silver-Song-For-My-Father) |
+| **C** | Liberty-era pressing (with VG stamp) | BST 84185 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $30–$80 VG+ | [Discogs](https://www.discogs.com/master/43527-Horace-Silver-Song-For-My-Father) |
 | **D** | Generic European reissues | Various | 1970s+ | Stereo, 33⅓ | Various | Not recommended; Classic Vinyl is better | – |
