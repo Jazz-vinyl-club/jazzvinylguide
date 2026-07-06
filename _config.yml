@@ -16,7 +16,6 @@ defaults:
       layout: album
 
 markdown: kramdown
-highlighter: rouge
 
 plugins:
   - jekyll-feed
