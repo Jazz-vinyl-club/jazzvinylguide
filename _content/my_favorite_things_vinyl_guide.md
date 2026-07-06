@@ -172,16 +172,16 @@ The 2022 Kevin Gray 60th Anniversary 2LP gives most listeners their best practic
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Original mono white-fan, no ® | **A-1361** | 1961 | Mono, 33⅓ | RVG-era Atlantic lacquer, ankh MGM press | True first mono; unified ensemble; $300–$600 NM | — |
-| **S** | ERC true mono | ERC edition | 2021 | Mono, 33⅓ | Original mono master tape, vintage London lacquer | 300 copies only; $400–$1,000+ resale | — |
+| **S** | Original mono white-fan, no ® | **A-1361** | 1961 | Mono, 33⅓ | RVG-era Atlantic lacquer, ankh MGM press | True first mono; unified ensemble; $300–$600 NM | – |
+| **S** | ERC true mono | ERC edition | 2021 | Mono, 33⅓ | Original mono master tape, vintage London lacquer | 300 copies only; $400–$1,000+ resale | – |
 | **A** | AP Atlantic 75 45rpm 2LP | **APA 011-45** | 2024 | Stereo, 45rpm, 2×180g | Original master → Ryan K. Smith, AAA, QRP | Current stereo pinnacle; ~$80–$100 new | [Discogs](https://www.discogs.com/release/29987361-John-Coltrane-My-Favorite-Things) |
 | **A** | ORG Music 45rpm 2LP | **ORGM-1080** | 2013 | Stereo, 45rpm, 2×180g | Original tapes → Bernie Grundman, AAA, Pallas | Former benchmark; poor jacket; OOP $200–$400 | [Discogs](https://www.discogs.com/release/5109867-John-Coltrane-My-Favorite-Things) |
 | **A** | Rhino 60th Anniv. 2LP (Stereo+Mono) | **R1 666923** | 2022 | Mono + Stereo, 33⅓, 2×180g | Original tapes → Kevin Gray at Cohearent, Optimal | Best value; includes original mono master; ~$35–$40 | [Discogs](https://www.discogs.com/release/23290832-John-Coltrane-My-Favorite-Things) |
-| **B** | Original mono white-fan, with ® | A-1361 | 1961 | Mono, 33⅓ | Second mono pressing | Very close to first; $150–$350 NM | — |
-| **B** | Rhino/Grundman 180g 33rpm | SD-1361 / 8122798049 | 2010 | Stereo, 33⅓, 180g | Original tapes → Bernie Grundman, AAA, Optimal | Quieter than ORG; better packaged; OOP $60–$120 | — |
+| **B** | Original mono white-fan, with ® | A-1361 | 1961 | Mono, 33⅓ | Second mono pressing | Very close to first; $150–$350 NM | – |
+| **B** | Rhino/Grundman 180g 33rpm | SD-1361 / 8122798049 | 2010 | Stereo, 33⅓, 180g | Original tapes → Bernie Grundman, AAA, Optimal | Quieter than ORG; better packaged; OOP $60–$120 | – |
 | **C** | Original stereo SD-1361 white-fan | **SD-1361** | 1961 | Stereo, 33⅓ | 1961 Atlantic lacquer | Hard-panned; vintage character; $200–$400 NM | [Discogs](https://www.discogs.com/master/46560-John-Coltrane-My-Favorite-Things) |
-| **C** | Japanese Victor/JVC pressings | P-6030A, P-7505A | 1970s–80s | Stereo, 33⅓ | Japanese tape copy | Dead-quiet vinyl; $40–$120 NM with obi | — |
-| **C** | Black-fan mono or stereo variants | A-1361 / SD-1361 | 1962–66 | Mono or stereo, 33⅓ | Later Atlantic lacquers | Still decent; often oversold as "originals"; $50–$150 | — |
-| **D** | 1970s orange/green Atlantic represses | SD-1361 | 1970s | Stereo, 33⅓ | Oil-crisis vinyl; late lacquers | Budget listening only | — |
-| **F** | EU grey-market (DOL, Waxtime, etc.) | Various | 2010s+ | Various | CD/digital rip | Not licensed; no tape access | — |
-| **F** | Black-fan pressings sold as "originals" | A-1361 / SD-1361 | 1962–66 | Varies | Later lacquers | Often misrepresented; verify white fan for true originals | — |
+| **C** | Japanese Victor/JVC pressings | P-6030A, P-7505A | 1970s–80s | Stereo, 33⅓ | Japanese tape copy | Dead-quiet vinyl; $40–$120 NM with obi | – |
+| **C** | Black-fan mono or stereo variants | A-1361 / SD-1361 | 1962–66 | Mono or stereo, 33⅓ | Later Atlantic lacquers | Still decent; often oversold as "originals"; $50–$150 | – |
+| **D** | 1970s orange/green Atlantic represses | SD-1361 | 1970s | Stereo, 33⅓ | Oil-crisis vinyl; late lacquers | Budget listening only | – |
+| **F** | EU grey-market (DOL, Waxtime, etc.) | Various | 2010s+ | Various | CD/digital rip | Not licensed; no tape access | – |
+| **F** | Black-fan pressings sold as "originals" | A-1361 / SD-1361 | 1962–66 | Varies | Later lacquers | Often misrepresented; verify white fan for true originals | – |
