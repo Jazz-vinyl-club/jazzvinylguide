@@ -87,9 +87,9 @@ The history of *Birth of the Cool* reissues is largely disappointing. A 2019 rei
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Blue Note Tone Poet 180g mono | **Tone Poet series** | 2026 | Mono, 33⅓, 180g | Orig Capitol phono reel tapes → Kevin Gray, AAA, RTI | Davis centennial; PoPsie photography gatefold; $50–$70 | [Discogs](https://www.discogs.com/master/62308-Miles-Davis-Birth-Of-The-Cool) |
-| **A** | Original Capitol T-762 mono, turquoise "Long Playing" only | **T-762** | 1957 | Mono, 33⅓ | Original Capitol metalwork; Scranton pressing | Rarest first state; $200–$600 NM | [Discogs](https://www.discogs.com/release/5456857-Miles-Davis-Birth-Of-The-Cool) |
-| **B** | Capitol T-762 mono, "Long Playing High Fidelity" | **T-762** | 1957–58 | Mono, 33⅓ | Original Capitol metalwork | Sonically equivalent to first; $60–$200 VG+ | [Discogs](https://www.discogs.com/release/4609609-Miles-Davis-Birth-Of-The-Cool) |
-| **C** | Later Capitol pressings (orange swirl, etc.) | **T-762** | 1960s+ | Mono, 33⅓ | Later metalwork | Adequate; not preferred | [Discogs](https://www.discogs.com/master/62308-Miles-Davis-Birth-Of-The-Cool) |
+| **S** | Blue Note Tone Poet 180g mono | Tone Poet series | 2026 | Mono, 33⅓, 180g | Orig Capitol phono reel tapes → Kevin Gray, AAA, RTI | Davis centennial; PoPsie photography gatefold; $50–$70 | [Discogs](https://www.discogs.com/master/62308-Miles-Davis-Birth-Of-The-Cool) |
+| **A** | Original Capitol T-762 mono, turquoise "Long Playing" only | T-762 | 1957 | Mono, 33⅓ | Original Capitol metalwork; Scranton pressing | Rarest first state; $200–$600 NM | [Discogs](https://www.discogs.com/release/5456857-Miles-Davis-Birth-Of-The-Cool) |
+| **B** | Capitol T-762 mono, "Long Playing High Fidelity" | T-762 | 1957–58 | Mono, 33⅓ | Original Capitol metalwork | Sonically equivalent to first; $60–$200 VG+ | [Discogs](https://www.discogs.com/release/4609609-Miles-Davis-Birth-Of-The-Cool) |
+| **C** | Later Capitol pressings (orange swirl, etc.) | T-762 | 1960s+ | Mono, 33⅓ | Later metalwork | Adequate; not preferred | [Discogs](https://www.discogs.com/master/62308-Miles-Davis-Birth-Of-The-Cool) |
 | **F** | Any rechanneled "stereo" version | Various | Various | Fake stereo | Electronically processed mono | Never — these are 1949–50 mono recordings | – |
 | **F** | 2019 Capitol/UMe reissue | Various | 2019 | Mono, 33⅓ | Digital source | Widely panned; avoid | – |
