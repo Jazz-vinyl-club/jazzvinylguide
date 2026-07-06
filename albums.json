@@ -1,0 +1,93 @@
+[
+  {
+    "slug": "kind-of-blue",
+    "title": "Kind of Blue",
+    "artist": "Miles Davis",
+    "label": "Columbia",
+    "year": 1959,
+    "recorded": "March 2 & April 22, 1959",
+    "original_cat": "CL 1355 / CS 8163",
+    "wikipedia": "Kind_of_Blue",
+    "description": "Every significant pressing of Miles Davis's Kind of Blue \u2014 the speed error, tape provenance, and a full reissue hierarchy from original Six Eye to AP UHQR.",
+    "content_file": "kind_of_blue_vinyl_guide.md",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/MilesDavisKindofBlue.jpg/300px-MilesDavisKindofBlue.jpg"
+  },
+  {
+    "slug": "a-love-supreme",
+    "title": "A Love Supreme",
+    "artist": "John Coltrane",
+    "label": "Impulse!",
+    "year": 1965,
+    "recorded": "December 9, 1964",
+    "original_cat": "A-77 / AS-77",
+    "wikipedia": "A_Love_Supreme",
+    "description": "Pressing guide for A Love Supreme \u2014 the Abbey Road safety tape, mono vs stereo, and every reissue from original orange Impulse! to the AP UHQR.",
+    "content_file": "a_love_supreme_vinyl_guide.md",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/John_Coltrane_-_A_Love_Supreme.jpg/300px-John_Coltrane_-_A_Love_Supreme.jpg"
+  },
+  {
+    "slug": "sunday-at-the-village-vanguard",
+    "title": "Sunday at the Village Vanguard",
+    "artist": "Bill Evans Trio",
+    "label": "Riverside",
+    "year": 1961,
+    "recorded": "June 25, 1961",
+    "original_cat": "RLP 376 / RLP 9376",
+    "wikipedia": "Sunday_at_the_Village_Vanguard",
+    "description": "Pressing guide for Sunday at the Village Vanguard \u2014 single 2-track session, mono vs stereo, and every reissue from original Riverside to the AP UHQR.",
+    "content_file": "sunday_at_the_village_vanguard_vinyl_guide.md",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Sunday_at_the_Village_Vanguard.jpg/300px-Sunday_at_the_Village_Vanguard.jpg"
+  },
+  {
+    "slug": "getz-gilberto",
+    "title": "Getz/Gilberto",
+    "artist": "Stan Getz & Jo\u00e3o Gilberto",
+    "label": "Verve",
+    "year": 1964,
+    "recorded": "March 18\u201319, 1963",
+    "original_cat": "V-8545 / V6-8545",
+    "wikipedia": "Getz/Gilberto",
+    "description": "Pressing guide for Getz/Gilberto \u2014 the channel reversal problem, Phil Ramone's original master tape, and every pressing from 1964 Verve to the Impex 1Step.",
+    "content_file": "getz_gilberto_vinyl_guide.md",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Getzgilberto.jpg/300px-Getzgilberto.jpg"
+  },
+  {
+    "slug": "my-favorite-things",
+    "title": "My Favorite Things",
+    "artist": "John Coltrane",
+    "label": "Atlantic",
+    "year": 1961,
+    "recorded": "October 21\u201326, 1960",
+    "original_cat": "A-1361 / SD-1361",
+    "wikipedia": "My_Favorite_Things_(John_Coltrane_album)",
+    "description": "Pressing guide for My Favorite Things \u2014 the lost and found mono master, Atlantic label hierarchy, and every pressing from original white fan to the AP Atlantic 75 series.",
+    "content_file": "my_favorite_things_vinyl_guide.md",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/MyFavoriteThingsColtrane.jpg/300px-MyFavoriteThingsColtrane.jpg"
+  },
+  {
+    "slug": "mingus-ah-um",
+    "title": "Mingus Ah Um",
+    "artist": "Charles Mingus",
+    "label": "Columbia",
+    "year": 1959,
+    "recorded": "May 5 & 12, 1959",
+    "original_cat": "CL 1370 / CS 8171",
+    "wikipedia": "Mingus_Ah_Um",
+    "description": "Pressing guide for Mingus Ah Um \u2014 the edit problem, Six Eye identification, and every pressing from original Columbia to the ORG 45rpm and MoFi One-Step.",
+    "content_file": "mingus_ah_um_vinyl_guide.md",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Mingus_Ah_Um.jpg/300px-Mingus_Ah_Um.jpg"
+  },
+  {
+    "slug": "moanin",
+    "title": "Moanin'",
+    "artist": "Art Blakey and the Jazz Messengers",
+    "label": "Blue Note",
+    "year": 1959,
+    "recorded": "October 30, 1958",
+    "original_cat": "BLP 4003 / BST 84003",
+    "wikipedia": "Moanin'_(Art_Blakey_album)",
+    "description": "Pressing guide for Moanin' \u2014 Blue Note original identification, the A vs A-1 matrix debate, and every pressing from original Van Gelder to Music Matters SRX.",
+    "content_file": "moanin_vinyl_guide.md",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Art_Blakey_Moanin.jpg/300px-Art_Blakey_Moanin.jpg"
+  }
+]
