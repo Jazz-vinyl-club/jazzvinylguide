@@ -201,3 +201,12 @@ a:hover { color: var(--paper); }
   padding-top: 0 !important;
   border-top: none !important;
 }
+
+/* Album card cover thumbnail */
+.album-card__cover {
+  width: 44px;
+  height: 44px;
+  object-fit: cover;
+  flex-shrink: 0;
+  display: block;
+}
