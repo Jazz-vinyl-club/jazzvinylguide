@@ -88,7 +88,7 @@ For most collectors the mono A-77 is now the more sought-after original – rare
 ## Modern audiophile reissues (2001–2026)
 
 **Speakers Corner AS-77 (2001)**
-Cat. AS-77 / 050155-1. Single 180g LP, orange/black label facsimile, gatefold. Kevin Gray at AcousTech, AAA, from a US analog master tape sourced before the June 2008 UMG fire. Pressed at Pallas (Germany). Long out of print; **$100–250** used. Warm, quiet, well-balanced; Fremer's 2023 verdict finds it "sweet, soft and distant" next to the Sterling Sound cuts, but it was the audiophile reference for a decade.
+Cat. AS-77. Single 180g LP, orange/black label facsimile, gatefold. Kevin Gray at AcousTech, AAA, from a US analog master tape sourced before the June 2008 UMG fire. Pressed at Pallas (Germany). Long out of print; **$100–250** used. Warm, quiet, well-balanced; Fremer's 2023 verdict finds it "sweet, soft and distant" next to the Sterling Sound cuts, but it was the audiophile reference for a decade.
 
 **Analogue Productions 45rpm 2LP (2010)**
 Cat. AIPJ 77, UPC 753088007774. 2×180–200g at 45rpm, gatefold tip-on. Kevin Gray at AcousTech, AAA, from a pre-2008-fire US-side tape. Pressed at QRP. Out of print at **$150–400** used. [Wayne Garcia (*The Absolute Sound*)](https://www.theabsolutesound.com): "As good as the original Impulse pressing sounds, Analogue Productions' release will leave lovers of this record pinned to their seats." Fremer (2023 revisit) finds the piano "muffled, the toms soft and distant, the cymbals lacking shimmer." Still excellent – warmer and less analytical than the later Ryan Smith cuts.
@@ -109,7 +109,7 @@ Mastered from Erick Labson's 1995 digital remaster, lacquers cut at The Masterin
 Cat. B0034291-01, UPC **602438499984**. The October 2, 1965 Penthouse Club performance with Pharoah Sanders and Carlos Ward. Mastered by Kevin Reeves from a 50-year-old amateur tape. Historically essential; sonically compromised – Coltrane buried in the mix. Not a substitute for the studio album. **$34** new.
 
 **2025 60th-Anniversary Mono Edition**
-UPC **602478371004**. Single 180g mono LP, gatefold tip-on. **Ryan K. Smith at Sterling Sound, AAA**, cut from the original analog mono tape – the first new mono cut in over fifty years. Pressed at RTI. List **~$40**. Reviews consistently positive; the answer for listeners who want mono presentation without spending $600+ on an original A-77.
+UPC **A-77**. Single 180g mono LP, gatefold tip-on. **Ryan K. Smith at Sterling Sound, AAA**, cut from the original analog mono tape – the first new mono cut in over fifty years. Pressed at RTI. List **~$40**. Reviews consistently positive; the answer for listeners who want mono presentation without spending $600+ on an original A-77.
 
 **Supersense Archival Tape Edition No. 3 (2021)**
 Limited 999-unit single-sided lacquer edition cut in real time onto Japanese lacquer blanks from a claimed original US master tape. ~€500–€1,000. Plays quietly, requires very high gain, wears rapidly. Interesting curio, not for daily use.
@@ -164,10 +164,10 @@ Four factors dominate, in descending order. **Tape generation:** the Abbey Road 
 | **S** | AP UHQR 45rpm 2LP box | AUHQR 0007-45 | 2023 | Stereo, 45rpm, 2×200g Clarity Vinyl | Abbey Road 1965 safety → Ryan K. Smith, AAA | Current sonic pinnacle; 10,000 copies; $200+ resale | [Discogs](https://www.discogs.com/release/27972597-John-Coltrane-A-Love-Supreme) |
 | **S** | Original Impulse! mono | **A-77** | 1965 | Mono fold-down, 33⅓ | RVG lacquer from 2-track stereo master | Hum-free; intimate dense sound; $400–$800 NM | [Discogs](https://www.discogs.com/master/32287-John-Coltrane-A-Love-Supreme) |
 | **A** | Verve Acoustic Sounds Series | **B0032077-01** (SKU: AIMP 7701) | 2020 | Stereo, 33⅓, 180g | Abbey Road 1965 safety → Ryan K. Smith, AAA | Best value buy; ~$40 new; universal recommendation | [Discogs](https://www.discogs.com/release/19942006-John-Coltrane-A-Love-Supreme) |
-| **A** | 2025 60th-Anniversary Mono | 602478371004 | 2025 | Mono, 33⅓, 180g | Original mono tape → Ryan K. Smith, AAA | First modern mono cut; RTI press; ~$40 new | [Discogs](https://www.discogs.com/release/33121785-John-Coltrane-A-Love-Supreme) |
+| **A** | 2025 60th-Anniversary Mono | A-77 | 2025 | Mono, 33⅓, 180g | Original mono tape → Ryan K. Smith, AAA | First modern mono cut; RTI press; ~$40 new | [Discogs](https://www.discogs.com/release/33121785-John-Coltrane-A-Love-Supreme) |
 | **A** | Original Impulse! stereo | **AS-77** | 1965 | Stereo, 33⅓ | RVG lacquer – but 60 Hz hum throughout | Wide soundstage; hum is a real flaw; $150–$400 NM | [Discogs](https://www.discogs.com/master/32287-John-Coltrane-A-Love-Supreme) |
 | **A** | AP 45rpm 2LP | **AIPJ 77** | 2010 | Stereo, 45rpm, 2×180g | Pre-2008 US tape → Kevin Gray, AAA | Warmer/softer character; OOP, $150–$400 | [Discogs](https://www.discogs.com/release/3496063-John-Coltrane-A-Love-Supreme) |
-| **B** | Speakers Corner 180g | AS-77 / 050155-1 | 2001 | Stereo, 33⅓, 180g | Pre-2008 US tape → Kevin Gray, AAA | Former decade-long reference; OOP, $100–$250 | [Discogs](https://www.discogs.com/release/2856904-John-Coltrane-A-Love-Supreme) |
+| **B** | Speakers Corner 180g | AS-77 | 2001 | Stereo, 33⅓, 180g | Pre-2008 US tape → Kevin Gray, AAA | Former decade-long reference; OOP, $100–$250 | [Discogs](https://www.discogs.com/release/2856904-John-Coltrane-A-Love-Supreme) |
 | **B** | Japanese Nippon Columbia | YP-8527-AI | 1976 | Stereo, 33⅓ | Japanese tape copy | Warmest Japanese cut; often preferred by collectors; $50–$100 with obi | [Discogs](https://www.discogs.com/master/32287-John-Coltrane-A-Love-Supreme) |
 | **B** | Japanese Toshiba-EMI | IMP-88060 | 1973 | Stereo, 33⅓ | Japanese tape copy | Highly praised on Discogs; $40–$90 with obi | [Discogs](https://www.discogs.com/master/32287-John-Coltrane-A-Love-Supreme) |
 | **B** | Late orange-and-black represses | A-77 / AS-77 | 1966–68 | Mono or stereo, 33⅓ | RVG stamps still present; close to first press | Check for 1501 Broadway inner for earliest copies | [Discogs](https://www.discogs.com/master/32287-John-Coltrane-A-Love-Supreme) |
