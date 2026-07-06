@@ -74,13 +74,13 @@ Later mono pressings show the "New York USA" address adopted in 1963. These are 
 
 ## Buyer's guide by budget
 
-**Under $30:** The **Blue Note Classic Vinyl BLP 1595** — Kevin Gray cut, Optimal pressing, mono. The correct starting point.
+**Under $30:** The [**Blue Note Classic Vinyl BLP 1595**](https://www.discogs.com/release/16941781) — Kevin Gray cut, Optimal pressing, mono. The correct starting point.
 
-**$80–$150:** The **AP 45rpm 2LP** — AAA mastering, excellent sound; the serious listener's choice when the One-Step is unavailable.
+**$80–$150:** The [**AP 45rpm 2LP**](https://www.discogs.com/master/46560-Cannonball-Adderley-Somethin-Else) — AAA mastering, excellent sound; the serious listener's choice when the One-Step is unavailable.
 
-**$300–$500:** The **MoFi UltraDisc One-Step UD1S 2-022** — the definitive version when condition and provenance are confirmed.
+**$300–$500:** The [**MoFi UltraDisc One-Step UD1S 2-022**](https://www.discogs.com/release/13949563) — the definitive version when condition and provenance are confirmed.
 
-**$400+:** An original **47 West 63rd (no "Inc.") first pressing** with RVG etched and Plastylite P — for the collector who wants both the document and the sound.
+**$400+:** An original [**47 West 63rd (no "Inc.") first pressing**](https://www.discogs.com/master/46560-Cannonball-Adderley-Somethin-Else) with RVG etched and Plastylite P — for the collector who wants both the document and the sound.
 
 ---
 
