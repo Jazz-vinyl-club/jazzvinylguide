@@ -244,4 +244,4 @@ Any seller advertising these should be treated with deep scepticism:
 - The **mono originals share the speed error** — both mono and stereo were mixed from the same fast prime three-track tape
 - **88697638941** is not a standalone barcode; it is Sony's parallel catalogue reference co-printed on MOVLP019 copies, derived from EAN 886976389413
 - The **Sony mono 88883761031 shipped November 29, 2013** (RSD Black Friday), not 2014 — though 2014-dated retail stock reflects the subsequent unnumbered general pressing
-- The **Columbia 1970s reissue sequence runs KCS 8163 (1974) → PC 8163** (mid-1970s onward); there is no JCS 8163 for this title
+- The **Columbia 1970s reissue sequence runs KCS 8163 (1974) → PC 8163** (mid-1970s onward); there is no JCS 8163 for this title.
