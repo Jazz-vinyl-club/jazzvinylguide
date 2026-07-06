@@ -27,7 +27,7 @@ The stereo mix of *My Favorite Things* is **hard-panned** in a manner that many 
 
 ### The lost and found mono master
 
-For decades the mono master tape of *My Favorite Things* was believed destroyed in an Atlantic Records studio fire. When Rhino released *The Atlantic Years in Mono* box set in 2016, the title was conspicuously absent – present only as a 7" 45rpm single of the title track. **In 2021, The Electric Recording Company (ERC) announced that the original mono master tape had been found** – it had not been destroyed but rather been re-boxed in a plain, unlabelled case and lost in storage. Warner Music Group confirmed the authenticity based on the edits on the tape. ERC released a strictly limited **300-copy true mono edition** in 2021. The **2022 Rhino 60th Anniversary 2LP** then made the mono available commercially for the first time on LP, as LP2 alongside the stereo on LP1.
+For decades the mono master tape of *My Favorite Things* was believed destroyed in an Atlantic Records studio fire. When Rhino released *The Atlantic Years in Mono* box set in 2016, the title was conspicuously absent – present only as a 7" 45rpm single of the title track. **In 2021, The Electric Recording Company (ERC) announced that the original mono master tape had been found** – it had not been destroyed but rather been re-boxed in a plain, unlabelled case and lost in storage. Warner Music Group confirmed the authenticity based on the edits on the tape. ERC released a strictly limited **300-copy true mono edition** in 2021. The [**2022 Rhino 60th Anniversary 2LP**](https://www.discogs.com/release/23290832) then made the mono available commercially for the first time on LP, as LP2 alongside the stereo on LP1.
 
 ---
 
@@ -154,17 +154,17 @@ The 2022 Kevin Gray 60th Anniversary 2LP gives most listeners their best practic
 
 ## Buyer's guide by budget
 
-**Under $50:** The **2022 Rhino/Kevin Gray 60th Anniversary 2LP** (~$35–40) is the clear recommendation. It includes both the stereo Kevin Gray remaster and the mono from the original mono master tape. For a casual listener or someone new to this album, it comprehensively solves the format question at once. Pressing quality (Optimal, Germany) is very good. The mono alone is worth the price.
+**Under $50:** The [**2022 Rhino/Kevin Gray 60th Anniversary 2LP**](https://www.discogs.com/release/23290832) (~$35–40) is the clear recommendation. It includes both the stereo Kevin Gray remaster and the mono from the original mono master tape. For a casual listener or someone new to this album, it comprehensively solves the format question at once. Pressing quality (Optimal, Germany) is very good. The mono alone is worth the price.
 
-**$50–$120:** The **Rhino/Grundman 180g 33rpm (EU, 2010)** remains an excellent pressing at used-market prices – Grundman's AAA mastering from the original tapes on quiet 180g vinyl, tip-on jacket. Better packaged than the ORG 45rpm at a fraction of the cost, and sonically very close.
+**$50–$120:** The [**Rhino/Grundman 180g 33rpm (EU, 2010)**](https://www.discogs.com/release/3897169) remains an excellent pressing at used-market prices – Grundman's AAA mastering from the original tapes on quiet 180g vinyl, tip-on jacket. Better packaged than the ORG 45rpm at a fraction of the cost, and sonically very close.
 
-**$80–$150:** The **AP Atlantic 75 45rpm 2LP (AAPA 011-45)** is the current new-production pinnacle for stereo listening, combining Ryan K. Smith's Sterling Sound mastering with QRP pressing and Stoughton packaging. Buy this if you want the best available stereo presentation from new stock.
+**$80–$150:** The [**AP Atlantic 75 45rpm 2LP (AAPA 011-45)**](https://www.discogs.com/release/30049555) is the current new-production pinnacle for stereo listening, combining Ryan K. Smith's Sterling Sound mastering with QRP pressing and Stoughton packaging. Buy this if you want the best available stereo presentation from new stock.
 
-**$200–$400:** The **ORG Music 45rpm 2LP (ORGM-1080)** on the resale market remains competitive with the AP as a pure-sonic proposition, if you can accept the poor jacket. Grundman's take on this recording has a loyal following. A **NM white-fan mono A-1361** original also becomes accessible in this range – the holy grail for mono enthusiasts, offering a listening experience the modern reissues approximate but cannot fully replicate.
+**$200–$400:** The [**ORG Music 45rpm 2LP (ORGM-1080)**](https://www.discogs.com/release/5109867) on the resale market remains competitive with the AP as a pure-sonic proposition, if you can accept the poor jacket. Grundman's take on this recording has a loyal following. A [**NM white-fan mono A-1361**](https://www.discogs.com/release/13040821) original also becomes accessible in this range – the holy grail for mono enthusiasts, offering a listening experience the modern reissues approximate but cannot fully replicate.
 
-**$400+:** Genuine **first-pressing white-fan mono with ankh deadwax** in NM condition; or the **ERC true mono** if a copy can be found. Both represent the highest collector tier for this album.
+**$400+:** Genuine [**first-pressing white-fan mono with ankh deadwax**](https://www.discogs.com/release/13040821) in NM condition; or the **ERC true mono** if a copy can be found. Both represent the highest collector tier for this album.
 
-**The one-copy answer:** The **2022 Rhino 60th Anniversary 2LP** for most people – it gives you both formats from the best available tapes at a price that makes sense. If stereo-only listening from the best possible source is your aim, the **AP AAPA 011-45** is the current answer. If budget allows, pair them.
+**The one-copy answer:** The [**2022 Rhino 60th Anniversary 2LP**](https://www.discogs.com/release/23290832) for most people – it gives you both formats from the best available tapes at a price that makes sense. If stereo-only listening from the best possible source is your aim, the [**AP AAPA 011-45**](https://www.discogs.com/release/30049555) is the current answer. If budget allows, pair them.
 
 ---
 
