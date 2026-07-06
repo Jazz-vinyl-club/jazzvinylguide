@@ -139,7 +139,7 @@ The 1987 OJC reissue is an analogue pressing. The Broken Record shootout finds "
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
 | **S** | AP 200g/180g mono 33rpm | PRLP 7079 | 2013/2022 | Mono, 33⅓, 200g/180g | Orig tapes → Kevin Gray, AAA, QRP | Definitive modern pressing; "Sonny Rollins nirvana"; $60–$90 | [Discogs](https://www.discogs.com/release/4403277-Sonny-Rollins-Saxophone-Colossus) |
-| **A** | Original yellow label, 446 W. 50th | **PRLP 7079** | 1956 | Mono, 33⅓ | RVG / Abbey Manufacturing | First pressing; RVG hand-etched; groove wear pervasive; $400–$900 NM | [Discogs](https://www.discogs.com/release/3934932-Sonny-Rollins-Saxophone-Colossus) |
+| **A** | Original yellow label, 446 W. 50th | PRLP 7079 | 1956 | Mono, 33⅓ | RVG / Abbey Manufacturing | First pressing; RVG hand-etched; groove wear pervasive; $400–$900 NM | [Discogs](https://www.discogs.com/release/3934932-Sonny-Rollins-Saxophone-Colossus) |
 | **A** | AP 45rpm 2LP | PRLP 7079 | 2004 | Mono, 45rpm, 2×180g | Orig tapes → Kevin Gray, AAA, QRP | Excellent; superseded by 33rpm for soundstage; $100–$150 | [Discogs](https://www.discogs.com/release/3197967-Sonny-Rollins-Saxophone-Colossus) |
 | **A** | DCC GZS-1062 180g | GZS-1062 | 1995 | Mono, 33⅓, 180g | Orig tapes → Steve Hoffman, tube cut, RTI | Audiophile predecessor; tube-cut character; $60–$120 | [Discogs](https://www.discogs.com/release/4085008-Sonny-Rollins-Saxophone-Colossus) |
 | **B** | UK Esquire 32-045 | 32-045 | c.1958 | Mono, 33⅓ | RVG / Abbey metal parts | RVG hand-etched; shallow but genuine; £80–£200 | [Discogs](https://www.discogs.com/release/3934957-Sonny-Rollins-Saxophone-Colossus) |
