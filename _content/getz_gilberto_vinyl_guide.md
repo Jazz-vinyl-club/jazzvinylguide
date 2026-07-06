@@ -177,16 +177,16 @@ Three characteristics of the recording define the pressing hierarchy:
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Channels | Notes |
 |---|---|---|---|---|---|---|---|
-| **S** | AP 45rpm 2LP | **AP-8545** / B0015625-01 | 2011 | Stereo, 45rpm, 2×200g | Ramone's 1963 original mixdown → George Marino, AAA, QRP | **Correct (Astrud LEFT)** | Only pressing with true original tape + correct orientation; OOP, $150–$400 | — |
+| **S** | AP 45rpm 2LP | **AP-8545** / B0015625-01 | 2011 | Stereo, 45rpm, 2×200g | Ramone's 1963 original mixdown → George Marino, AAA, QRP | **Correct (Astrud LEFT)** | Only pressing with true original tape + correct orientation; OOP, $150–$400 | – |
 | **S** | Impex 1Step 45rpm 2LP | **IMP6041-1** | 2024 | Stereo, 45rpm, 2×180g VR900 | "New master" EQ copy → Bernie Grundman, 1Step | **Reversed (Astrud RIGHT)** | Best pressing quality; contested vs AP on balance; $129.99; 7,500 copies | [Discogs](https://www.discogs.com/release/31429743-Stan-Getz-João-Gilberto-Getz-Gilberto) |
 | **A** | Verve Acoustic Sounds Series 33rpm | **B0031690-01** | 2020 | Stereo, 33⅓, 180g | Original analog tapes → Ryan K. Smith at Sterling, AAA, QRP | **Correct (Astrud LEFT)** | Best-value pressing; ~$35 new; still in print | [Discogs](https://www.discogs.com/release/16222993-Stan-Getz-João-Gilberto-Getz-Gilberto) |
 | **A** | US Verve stereo original, deep-groove RE-1 | **V6-8545** | 1964 | Stereo, 33⅓ | 1964 tube lacquer, EQ cutting copy | **Reversed** | Tape-fresh 1964 energy; NM $200–$500 | [Discogs](https://www.discogs.com/master/36108-Stan-Getz-João-Gilberto-Getz-Gilberto) |
-| **B** | US Verve stereo, non-deep-groove RE-1 | V6-8545 | 1964 | Stereo, 33⅓ | 1964 tube lacquer, EQ copy | Reversed | Excellent but slightly later; NM $100–$300 | — |
-| **B** | Mobile Fidelity 200g 33rpm | MFSL 1-xxx | Various | Stereo, 33⅓, 200g | EQ copy derivatives → MoFi mastering | Reversed | Post-MoFi-gate caveat applies; still good; $80–$150 | — |
-| **B** | UK Verve stereo | SVLP 9004 | 1964–66 | Stereo, 33⅓ | UK Polydor pressing | Reversed | Good pressing quality; $80–$200 NM | — |
-| **C** | US Verve stereo RE-2 through RE-6 | V6-8545 | 1964–67 | Stereo, 33⅓ | Later lacquers from EQ copy | Reversed | Diminishing returns; still decent; $50–$150 | — |
-| **C** | Japanese Polydor/Universal pressings | MJ-7069, various | 1970s–2000s | Stereo, 33⅓ | Japanese tape copy | Reversed | Quiet vinyl; collectable; $40–$120 with obi | — |
-| **D** | 1970s–2000s European Verve/Polydor/PolyGram | Various | 1970s–2000s | Stereo, 33⅓ | EQ copy derivatives | Reversed | Variable quality; background noise only | — |
-| **F** | Back to Black 2014 | Various | 2014 | Stereo, 33⅓, 180g | Non-original digital source | Reversed | Worst of the modern reissues; skip | — |
-| **F** | 2018 generic Verve LP | Various | 2018 | Stereo, 33⅓ | Pressed overseas from non-original | Reversed | No merit at any price | — |
-| **F** | DOL and EU grey-market pirates | Various | 2010s+ | Various | CD/digital rip | N/A | Not licensed; digitally sourced | — |
+| **B** | US Verve stereo, non-deep-groove RE-1 | V6-8545 | 1964 | Stereo, 33⅓ | 1964 tube lacquer, EQ copy | Reversed | Excellent but slightly later; NM $100–$300 | – |
+| **B** | Mobile Fidelity 200g 33rpm | MFSL 1-xxx | Various | Stereo, 33⅓, 200g | EQ copy derivatives → MoFi mastering | Reversed | Post-MoFi-gate caveat applies; still good; $80–$150 | – |
+| **B** | UK Verve stereo | SVLP 9004 | 1964–66 | Stereo, 33⅓ | UK Polydor pressing | Reversed | Good pressing quality; $80–$200 NM | – |
+| **C** | US Verve stereo RE-2 through RE-6 | V6-8545 | 1964–67 | Stereo, 33⅓ | Later lacquers from EQ copy | Reversed | Diminishing returns; still decent; $50–$150 | – |
+| **C** | Japanese Polydor/Universal pressings | MJ-7069, various | 1970s–2000s | Stereo, 33⅓ | Japanese tape copy | Reversed | Quiet vinyl; collectable; $40–$120 with obi | – |
+| **D** | 1970s–2000s European Verve/Polydor/PolyGram | Various | 1970s–2000s | Stereo, 33⅓ | EQ copy derivatives | Reversed | Variable quality; background noise only | – |
+| **F** | Back to Black 2014 | Various | 2014 | Stereo, 33⅓, 180g | Non-original digital source | Reversed | Worst of the modern reissues; skip | – |
+| **F** | 2018 generic Verve LP | Various | 2018 | Stereo, 33⅓ | Pressed overseas from non-original | Reversed | No merit at any price | – |
+| **F** | DOL and EU grey-market pirates | Various | 2010s+ | Various | CD/digital rip | N/A | Not licensed; digitally sourced | – |
