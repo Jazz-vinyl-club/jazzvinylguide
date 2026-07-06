@@ -120,7 +120,7 @@ With only 300 copies and ERC's customary audiophile-grade process, this is a col
 
 ---
 
-## The mono vs. stereo debate, specific to this recording
+## Mono vs. stereoing
 
 This is more cleanly resolved than on most titles in this series. **Mono is the preferred format for this album among serious collectors**, for reasons specific to the recording:
 
