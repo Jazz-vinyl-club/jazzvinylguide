@@ -90,9 +90,9 @@ After Liberty Records acquired Blue Note in 1966, pressings show "A Division of 
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Music Matters 33rpm AAA mono | **MM33-84194** | 2015 | Mono, 33⅓, 180g | Orig mono tape → Kevin Gray, AAA, QRP | Definitive modern mono; collector benchmark | [Discogs](https://www.discogs.com/release/7248785-Wayne-Shorter-Speak-No-Evil) |
-| **A** | Original BST 84194 stereo, NY USA label | **BST 84194** | 1966 | Stereo, 33⅓ | RVG / Plastylite; native stereo tape | VAN GELDER stamp + Plastylite ear required; $200–$500 NM | [Discogs](https://www.discogs.com/release/4088476-Wayne-Shorter-Speak-No-Evil) |
-| **A** | Original BLP 4194 mono, NY USA label | **BLP 4194** | 1966 | Mono, 33⅓ | RVG / Plastylite; native mono tape | VAN GELDER stamp + Plastylite ear required; $200–$450 NM | [Discogs](https://www.discogs.com/release/5052985-Wayne-Shorter-Speak-No-Evil) |
-| **B** | Blue Note Classic Vinyl 180g | **BST 84194** | 2020 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Excellent value; minor QC variation reported | [Discogs](https://www.discogs.com/release/16941774-Wayne-Shorter-Speak-No-Evil) |
-| **C** | Liberty/UA era pressing | **BST 84194** | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check for VAN GELDER stamp; decent budget option | [Discogs](https://www.discogs.com/master/51893-Wayne-Shorter-Speak-No-Evil) |
+| **S** | Music Matters 33rpm AAA mono | MM33-84194 | 2015 | Mono, 33⅓, 180g | Orig mono tape → Kevin Gray, AAA, QRP | Definitive modern mono; collector benchmark | [Discogs](https://www.discogs.com/release/7248785-Wayne-Shorter-Speak-No-Evil) |
+| **A** | Original BST 84194 stereo, NY USA label | BST 84194 | 1966 | Stereo, 33⅓ | RVG / Plastylite; native stereo tape | VAN GELDER stamp + Plastylite ear required; $200–$500 NM | [Discogs](https://www.discogs.com/release/4088476-Wayne-Shorter-Speak-No-Evil) |
+| **A** | Original BLP 4194 mono, NY USA label | BLP 4194 | 1966 | Mono, 33⅓ | RVG / Plastylite; native mono tape | VAN GELDER stamp + Plastylite ear required; $200–$450 NM | [Discogs](https://www.discogs.com/release/5052985-Wayne-Shorter-Speak-No-Evil) |
+| **B** | Blue Note Classic Vinyl 180g | BST 84194 | 2020 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Excellent value; minor QC variation reported | [Discogs](https://www.discogs.com/release/16941774-Wayne-Shorter-Speak-No-Evil) |
+| **C** | Liberty/UA era pressing | BST 84194 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check for VAN GELDER stamp; decent budget option | [Discogs](https://www.discogs.com/master/51893-Wayne-Shorter-Speak-No-Evil) |
 | **D** | Generic European reissues | Various | 1970s+ | Stereo, 33⅓ | Various | Not recommended; inferior to Classic Vinyl | – |
