@@ -79,13 +79,13 @@ Pressed after Blue Note's acquisition by Liberty Records. Labels read "A Divisio
 
 ## Buyer's guide by budget
 
-**Under $30:** The **Blue Note Classic Vinyl BLP 4163** — Kevin Gray mastering, Optimal pressing, mono. The correct entry point.
+**Under $30:** The [**Blue Note Classic Vinyl BLP 4163**](https://www.discogs.com/release/16219694) — Kevin Gray mastering, Optimal pressing, mono. The correct entry point.
 
-**$45–$65:** The **Blue Note Tone Poet 180g mono** — the finest available version at a fair price. This is the recommended purchase for most collectors.
+**$45–$65:** The [**Blue Note Tone Poet 180g mono**](https://www.discogs.com/release/23196534) — the finest available version at a fair price. This is the recommended purchase for most collectors.
 
-**$150–$250:** The **Music Matters 33rpm AAA mono** if found at a reasonable secondary market price. Excellent, but the Tone Poet is now the primary recommendation.
+**$150–$250:** The [**Music Matters 33rpm AAA mono**](https://www.discogs.com/release/6192516) if found at a reasonable secondary market price. Excellent, but the Tone Poet is now the primary recommendation.
 
-**$300+:** An original **New York USA BLP 4163 mono** in honest VG+ or better. Seek the VAN GELDER stamp and Plastylite ear.
+**$300+:** An original [**New York USA BLP 4163 mono**](https://www.discogs.com/master/32350-Eric-Dolphy-Out-To-Lunch) in honest VG+ or better. Seek the VAN GELDER stamp and Plastylite ear.
 
 ---
 
