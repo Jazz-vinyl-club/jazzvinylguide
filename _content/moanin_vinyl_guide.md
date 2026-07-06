@@ -1,7 +1,5 @@
 # Moanin' on Vinyl: The Definitive Pressing Guide
 
-*Art Blakey and the Jazz Messengers – Blue Note BLP 4003 / BST 84003 (1959)*
-
 ## Summary
 
 *Moanin'* was recorded on October 30, 1958 at Rudy Van Gelder's Hackensack studio – a single session that produced one of the definitive hard bop albums, and one of Blue Note's best-engineered recordings. Van Gelder's Telefunken tube condensers captured Art Blakey's explosive drumming, Lee Morgan's trumpet, and Benny Golson's tenor with remarkable immediacy and presence. The album is known informally as *Moanin'* after its opening track, though its original 1959 release was self-titled.
