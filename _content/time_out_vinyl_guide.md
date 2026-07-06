@@ -1,7 +1,5 @@
 # Time Out on Vinyl: The Definitive Pressing Guide
 
-*The Dave Brubeck Quartet — Columbia CL 1397 / CS 8192 (1959)*
-
 ## Summary
 
 *Time Out* was recorded at Columbia's 30th Street Studio in New York City across three sessions in June, July, and August 1959 — the same converted Presbyterian church, the same engineer (Fred Plaut), and overlapping with the sessions for *Kind of Blue* and *Mingus Ah Um*. It is the first jazz album to sell one million copies, certified double platinum by the RIAA, and the only jazz album to produce a mainstream pop hit (Paul Desmond's "Take Five" at #25 on the Billboard Hot 100). Columbia's label executives initially refused to release it; Brubeck convinced them by first recording the conventional *Gone with the Wind*.
