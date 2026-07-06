@@ -5,7 +5,7 @@
 
 ## Summary
 
-*My Favorite Things* was recorded across three sessions in October 1960 at Atlantic Records' 56th Street studio, engineered by Tom Dowd and Nesuhi Ertegun for Atlantic. It was Coltrane's first recording on soprano saxophone and his commercial breakthrough as a leader. Tom Dowd's engineering gives the piano a distinctive atmospheric, slightly ghostly quality distinct from the RVG sound of the Impulse! recordings.
+*My Favorite Things* was recorded across three sessions in October 1960 at Atlantic Records' 56th Street studio, engineered by Tom Dowd and Phil Iehle, produced by Nesuhi Ertegun for Atlantic. It was Coltrane's first recording on soprano saxophone and his commercial breakthrough as a leader. Tom Dowd's engineering gives the piano a distinctive atmospheric, slightly ghostly quality distinct from the RVG sound of the Impulse! recordings.
 
 The stereo mix is hard-panned – saxophone and piano split far left and right – which many listeners find fatiguing, making the mono presentation particularly compelling for this title. For decades the original mono master was believed lost in a studio fire; it was rediscovered in 2021 in an unlabelled storage case and used for the first time on the 2022 Rhino 60th Anniversary 2LP. The 2013 ORG 45rpm Bernie Grundman mastering remains the sonic benchmark for stereo; the 2024 Analogue Productions Atlantic 75 45rpm is the current new-production standard. EU grey-market pressings (Waxtime, DOL) should be avoided – the Atlantic catalogue is licensed through Rhino/Warner.
 
@@ -80,7 +80,7 @@ One caveat: the jacket on the ORG is widely criticised as cheaply made – "plai
 
 ### Analogue Productions Atlantic 75 Series 45rpm 2LP (2024)
 
-**Cat. AAPA 011-45** (Acoustic Sounds SKU: AAAPA 011-45) | Barcode: **753088751172** | Format: 2×180g 45rpm, Stoughton tip-on gatefold. **Mastered by Ryan K. Smith at Sterling Sound, AAA, from the original master tape.** Pressed at **QRP**. Released March 29, 2024 as part of AP's Atlantic 75th Anniversary series. Stereo only.
+**Cat. AAPA 011-45** (Acoustic Sounds SKU: AAPA 011-45) | Barcode: **753088751172** | Format: 2×180g 45rpm, Stoughton tip-on gatefold. **Mastered by Ryan K. Smith at Sterling Sound, AAA, from the original master tape.** Pressed at **QRP**. Released March 29, 2024 as part of AP's Atlantic 75th Anniversary series. Stereo only.
 
 Discogs community responses immediately after release: "This is the absolute best I have ever heard this album!! Kudos to Chad and Ryan K Smith!! Beautifully done!!" Multiple buyers confirm dead-quiet surfaces from QRP and excellent presentation via Stoughton's tip-on gatefold. A direct comparison from one owner who has the ORG, the 2022 Kevin Gray 60th, and now the AP: "The cover is definitely nicer on the AP!!" (the ORG's famously poor jacket is frequently mentioned as a reason to prefer the AP). One dissenting voice on Discogs prefers the 1975 Monarch stereo pressing over both the ORG and AP 45rpm editions – a minority view but indicative that some listeners respond differently to the vintage lacquer character.
 
@@ -114,7 +114,7 @@ With only 300 copies and ERC's customary audiophile-grade process, this is a col
 
 **1975 Monarch pressing (stereo):** One Discogs community member who compared the ORG 45 and AP 45 concluded they prefer the 1975 Monarch pressing above both: "the high-pitched instruments and piano sound much fresher." This is a minority but noteworthy view; the vintage lacquer character of mid-1970s Atlantic reissues occasionally earns passionate defenders.
 
-**Japanese pressings:** Atlantic Japan/Victor Japan pressings from the late 1970s–early 1980s (P-6030A, P-7505A series) carry the standard praise for Japanese vinyl quality – dead-quiet surfaces, faithful reproduction. One Discogs reviewer: "Such a clean sounding pressing on my good sound system. Love the sound stage." Market: **$40–$120 NM** with obi.
+**Japanese pressings:** Atlantic Japan/Victor Japan pressings from the late 1970s–early 1980s (P-6030A, P-7505A series) carry the standard praise for Japanese vinyl quality – dead-quiet surfaces, faithful reproduction. One Discogs reviewer: "Such a clean sounding pressing on my good sound system. Love the sound stage." Market: **$40–$120 NM** with obi strip.
 
 **Back-catalogue 33rpm Rhino (late 1990s–2000s):** Standard-weight, variable quality. The Tom Port/Better Records community occasionally finds standout copies but overall these are not recommended over the 2010 Grundman 180g.
 
@@ -172,16 +172,16 @@ The 2022 Kevin Gray 60th Anniversary 2LP gives most listeners their best practic
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Original mono white-fan, no ® | **A-1361** | 1961 | Mono, 33⅓ | RVG-era Atlantic lacquer, ankh MGM press | True first mono; unified ensemble; $300–$600 NM | – |
-| **S** | ERC true mono | ERC edition | 2021 | Mono, 33⅓ | Original mono master tape, vintage London lacquer | 300 copies only; $400–$1,000+ resale | – |
-| **A** | AP Atlantic 75 45rpm 2LP | **AAAPA 011-45** | 2024 | Stereo, 45rpm, 2×180g | Original master → Ryan K. Smith, AAA, QRP | Current stereo pinnacle; ~$80–$100 new | [Discogs](https://www.discogs.com/release/29987361-John-Coltrane-My-Favorite-Things) |
+| **S** | Original mono white-fan, no ® | **A-1361** | 1961 | Mono, 33⅓ | Tom Dowd lacquer, MGM Custom pressing | True first mono; unified ensemble; $300–$600 NM | [Discogs](https://www.discogs.com/release/13040821-John-Coltrane-My-Favorite-Things) |
+| **S** | ERC true mono | ERC 2021 | 2021 | Mono, 33⅓ | Original mono master tape, ERC London lacquer | 300 copies; $400–$1,000+ resale | – |
+| **A** | AP Atlantic 75 45rpm 2LP | **AAPA 011-45** | 2024 | Stereo, 45rpm, 2×180g | Original master → Ryan K. Smith, AAA, QRP | Current stereo pinnacle; ~$80–$100 new | [Discogs](https://www.discogs.com/release/29987361-John-Coltrane-My-Favorite-Things) |
 | **A** | ORG Music 45rpm 2LP | **ORGM-1080** | 2013 | Stereo, 45rpm, 2×180g | Original tapes → Bernie Grundman, AAA, Pallas | Former benchmark; poor jacket; OOP $200–$400 | [Discogs](https://www.discogs.com/release/5109867-John-Coltrane-My-Favorite-Things) |
 | **A** | Rhino 60th Anniv. 2LP (Stereo+Mono) | **R1 666923** | 2022 | Mono + Stereo, 33⅓, 2×180g | Original tapes → Kevin Gray at Cohearent, Optimal | Best value; includes original mono master; ~$35–$40 | [Discogs](https://www.discogs.com/release/23290832-John-Coltrane-My-Favorite-Things) |
-| **B** | Original mono white-fan, with ® | A-1361 | 1961 | Mono, 33⅓ | Second mono pressing | Very close to first; $150–$350 NM | – |
-| **B** | Rhino/Grundman 180g 33rpm | SD-1361 | 2010 | Stereo, 33⅓, 180g | Original tapes → Bernie Grundman, AAA, Optimal | Quieter than ORG; better packaged; OOP $60–$120 | – |
-| **C** | Original stereo SD-1361 white-fan | **SD-1361** | 1961 | Stereo, 33⅓ | 1961 Atlantic lacquer | Hard-panned; vintage character; $200–$400 NM | [Discogs](https://www.discogs.com/master/46560-John-Coltrane-My-Favorite-Things) |
-| **C** | Japanese Victor/JVC pressings | P-6030A, P-7505A | 1970s–80s | Stereo, 33⅓ | Japanese tape copy | Dead-quiet vinyl; $40–$120 NM with obi | – |
-| **C** | Black-fan mono or stereo variants | A-1361 / SD-1361 | 1962–66 | Mono or stereo, 33⅓ | Later Atlantic lacquers | Still decent; often oversold as "originals"; $50–$150 | – |
-| **D** | 1970s orange/green Atlantic represses | SD-1361 | 1970s | Stereo, 33⅓ | Oil-crisis vinyl; late lacquers | Budget listening only | – |
+| **B** | Original mono white-fan, with ® | A-1361 | 1961 | Mono, 33⅓ | Second mono pressing | Very close to first; $150–$350 NM | [Discogs](https://www.discogs.com/release/4632226-John-Coltrane-My-Favorite-Things) |
+| **B** | Rhino/Grundman 180g 33rpm | SD-1361 | 2010 | Stereo, 33⅓, 180g | Original tapes → Bernie Grundman, AAA, Optimal | Better packaged than ORG; same mastering; OOP $60–$120 | [Discogs](https://www.discogs.com/release/3897169-John-Coltrane-My-Favorite-Things) |
+| **C** | Original stereo SD-1361 white-fan | **SD-1361** | 1961 | Stereo, 33⅓ | 1961 Atlantic lacquer | Hard-panned; vintage character; $200–$400 NM | [Discogs](https://www.discogs.com/release/4186775-John-Coltrane-My-Favorite-Things) |
+| **C** | Japanese Atlantic pressings | P-6030A / P-7505A | 1972 / 1976 | Stereo, 33⅓ | Japanese tape copy | Dead-quiet vinyl; $40–$120 NM with obi | [Discogs](https://www.discogs.com/release/2929861-John-Coltrane-My-Favorite-Things) |
+| **C** | Black-fan mono or stereo variants | A-1361 / SD-1361 | 1962–66 | Mono or stereo, 33⅓ | Later Atlantic lacquers | Still decent; often oversold as "originals"; $50–$150 | [Discogs](https://www.discogs.com/release/8509196-John-Coltrane-My-Favorite-Things) |
+| **D** | 1970s orange/green Atlantic represses | SD-1361 | 1970s | Stereo, 33⅓ | Oil-crisis vinyl; late lacquers | Budget listening only | [Discogs](https://www.discogs.com/release/410609-John-Coltrane-My-Favorite-Things) |
 | **F** | EU grey-market (DOL, Waxtime, etc.) | Various | 2010s+ | Various | CD/digital rip | Not licensed; no tape access | – |
 | **F** | Black-fan pressings sold as "originals" | A-1361 / SD-1361 | 1962–66 | Varies | Later lacquers | Often misrepresented; verify white fan for true originals | – |
