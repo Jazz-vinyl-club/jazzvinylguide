@@ -96,9 +96,9 @@ After ABC Paramount absorbed Impulse! more fully, label text changed. These are 
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | AP AIPJ 35 45rpm 2LP (QRP) | **AIPJ 35** | 2011 | Stereo, 45rpm, 2×180g | Orig tapes → Kevin Gray, AAA, QRP | Definitive modern; $80–$150 | [Discogs](https://www.discogs.com/release/2975405-Mingus-The-Black-Saint-And-The-Sinner-Lady) |
-| **A** | Original AS-35 stereo, orange/black rim | **AS-35** | 1963 | Stereo, 33⅓ | LW + RVG metalwork; first series | LW+RVG in deadwax required; $150–$400 NM | [Discogs](https://www.discogs.com/release/572717-Mingus-The-Black-Saint-And-The-Sinner-Lady) |
-| **A** | Acoustic Sounds/Verve 180g 33rpm | **B0033602-01** | 2021 | Stereo, 33⅓, 180g | Orig tapes → Ryan K. Smith, Sterling Sound, QRP | Fremer 10/11; $30–$45 new | [Discogs](https://www.discogs.com/release/21029962-Mingus-The-Black-Saint-And-The-Sinner-Lady) |
-| **B** | Speakers Corner 180g 33rpm | **AS-35** | 2001 | Stereo, 33⅓, 180g | Orig tapes; Decca/Buckingham code deadwax | Slightly more immediate than 2021; OOP | [Discogs](https://www.discogs.com/release/1704128-Mingus-The-Black-Saint-And-The-Sinner-Lady) |
-| **C** | Original A-35 mono, orange/black rim | **A-35** | 1963 | Mono, 33⅓ | LW + RVG metalwork | Stereo preferred for this album; $100–$300 NM | [Discogs](https://www.discogs.com/release/6046217-Mingus-The-Black-Saint-And-The-Sinner-Lady) |
+| **S** | AP AIPJ 35 45rpm 2LP (QRP) | AIPJ 35 | 2011 | Stereo, 45rpm, 2×180g | Orig tapes → Kevin Gray, AAA, QRP | Definitive modern; $80–$150 | [Discogs](https://www.discogs.com/release/2975405-Mingus-The-Black-Saint-And-The-Sinner-Lady) |
+| **A** | Original AS-35 stereo, orange/black rim | AS-35 | 1963 | Stereo, 33⅓ | LW + RVG metalwork; first series | LW+RVG in deadwax required; $150–$400 NM | [Discogs](https://www.discogs.com/release/572717-Mingus-The-Black-Saint-And-The-Sinner-Lady) |
+| **A** | Acoustic Sounds/Verve 180g 33rpm | B0033602-01 | 2021 | Stereo, 33⅓, 180g | Orig tapes → Ryan K. Smith, Sterling Sound, QRP | Fremer 10/11; $30–$45 new | [Discogs](https://www.discogs.com/release/21029962-Mingus-The-Black-Saint-And-The-Sinner-Lady) |
+| **B** | Speakers Corner 180g 33rpm | AS-35 | 2001 | Stereo, 33⅓, 180g | Orig tapes; Decca/Buckingham code deadwax | Slightly more immediate than 2021; OOP | [Discogs](https://www.discogs.com/release/1704128-Mingus-The-Black-Saint-And-The-Sinner-Lady) |
+| **C** | Original A-35 mono, orange/black rim | A-35 | 1963 | Mono, 33⅓ | LW + RVG metalwork | Stereo preferred for this album; $100–$300 NM | [Discogs](https://www.discogs.com/release/6046217-Mingus-The-Black-Saint-And-The-Sinner-Lady) |
 | **D** | ABC Paramount corporate-era pressings | Various | 1970s | Stereo, 33⅓ | Later metalwork | Noticeably inferior; avoid | – |
