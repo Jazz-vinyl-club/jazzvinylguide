@@ -196,6 +196,6 @@ For most buyers choosing among modern stereo reissues, the 33rpm format (Music M
 | **B** | Classic Records 200g mono | BST 84003 | 1997 | **Mono**, 33⅓, 200g | Original tapes → Bernie Grundman | Only modern mono; excellent; OOP $150–$300 | [Discogs](https://www.discogs.com/master/62462-Art-Blakey-And-The-Jazz-Messengers-Art-Blakey-And-The-Jazz-Messengers) |
 | **C** | Blue Note Classic Vinyl 2021 | **0746568** | 2021 | Stereo, 33⅓, 180g | Original tapes → Kevin Gray, Optimal | Best-value modern; non-fill QC risk; ~$30 new | [Discogs](https://www.discogs.com/release/18150907-Art-Blakey-The-Jazz-Messengers-Moanin) |
 | **C** | Japanese King Records GXF | GXF-3002 | 1970s–80s | Stereo or mono | Copy tape → Japanese pressing | Dead-quiet vinyl; $80–$200 with OBI | [Discogs](https://www.discogs.com/master/62462-Art-Blakey-And-The-Jazz-Messengers-Art-Blakey-And-The-Jazz-Messengers) |
-| **D** | Liberty / UA / Capitol represses | BST 84003 | 1970s–80s | Stereo, 33⅓ | Copy tape, declining quality | Sonically inferior; budget listening only | — |
-| **F** | EU grey-market (Waxtime, DOL) | Various | 2000s+ | Various | Digital rip, unlicensed | Not licensed; digital source | — |
-| **F** | "United Artists Music" copies | BST 84003 | 1975–78 | Stereo, 33⅓ | Late repressing | Sometimes sold as "originals"; inferior sound | — |
+| **D** | Liberty / UA / Capitol represses | BST 84003 | 1970s–80s | Stereo, 33⅓ | Copy tape, declining quality | Sonically inferior; budget listening only | – |
+| **F** | EU grey-market (Waxtime, DOL) | Various | 2000s+ | Various | Digital rip, unlicensed | Not licensed; digital source | – |
+| **F** | "United Artists Music" copies | BST 84003 | 1975–78 | Stereo, 33⅓ | Late repressing | Sometimes sold as "originals"; inferior sound | – |
