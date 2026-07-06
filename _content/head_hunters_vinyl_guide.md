@@ -100,10 +100,10 @@ Music On Vinyl issued *Head Hunters* under their Columbia catalogue licence. The
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | AP 45rpm 2LP | **AAPJ 084-45** | 2015/2021 | Stereo, 45rpm, 2×180g | Orig tapes → Ryan K. Smith, AAA, QRP | "Punches you in the face"; AnalogPlanet 10/11; $80–$120 | [Discogs](https://www.discogs.com/release/18271585-Herbie-Hancock-Head-Hunters) |
-| **A** | AP 200g/180g 33rpm | **AAPJ 084** | 2015/2021/22 | Stereo, 33⅓, 180g/200g | Orig tapes → Ryan K. Smith, AAA, QRP | Same mastering; strong value; $35–$55 new | [Discogs](https://www.discogs.com/release/18271585-Herbie-Hancock-Head-Hunters) |
-| **A** | Original 1973 US, first metalwork | **KC 32731** | 1973 | Stereo, 33⅓ | Catero/Columbia lacquer | -1A/-1A Pitman/Terre Haute; still ~$20–$60 NM | [Discogs](https://www.discogs.com/release/31381-Herbie-Hancock-Head-Hunters) |
+| **S** | AP 45rpm 2LP | AAPJ 084-45 | 2015/2021 | Stereo, 45rpm, 2×180g | Orig tapes → Ryan K. Smith, AAA, QRP | "Punches you in the face"; AnalogPlanet 10/11; $80–$120 | [Discogs](https://www.discogs.com/release/18271585-Herbie-Hancock-Head-Hunters) |
+| **A** | AP 200g/180g 33rpm | AAPJ 084 | 2015/2021/22 | Stereo, 33⅓, 180g/200g | Orig tapes → Ryan K. Smith, AAA, QRP | Same mastering; strong value; $35–$55 new | [Discogs](https://www.discogs.com/release/18271585-Herbie-Hancock-Head-Hunters) |
+| **A** | Original 1973 US, first metalwork | KC 32731 | 1973 | Stereo, 33⅓ | Catero/Columbia lacquer | -1A/-1A Pitman/Terre Haute; still ~$20–$60 NM | [Discogs](https://www.discogs.com/release/31381-Herbie-Hancock-Head-Hunters) |
 | **B** | CBS/Sony Japan pressing | Various | 1970s–80s | Stereo, 33⅓ | CBS/Sony Japan, Shizuoka plant | Shizuoka = world-class pressing quality; $40–$80 obi | [Discogs](https://www.discogs.com/master/19493-Herbie-Hancock-Head-Hunters) |
 | **C** | Music On Vinyl MOV | Various | 2009 | Stereo, 33⅓, 180g | PCM digital source | Below AP; decent surfaces; $15–$25 used | [Discogs](https://www.discogs.com/master/19493-Herbie-Hancock-Head-Hunters) |
-| **C** | Quadraphonic SQ matrix | **PCQ 32731** | 1974 | Quad/stereo, 33⅓ | Original Columbia quad mix | Different mix with added elements; $15–$40 | [Discogs](https://www.discogs.com/master/19493-Herbie-Hancock-Head-Hunters) |
+| **C** | Quadraphonic SQ matrix | PCQ 32731 | 1974 | Quad/stereo, 33⅓ | Original Columbia quad mix | Different mix with added elements; $15–$40 | [Discogs](https://www.discogs.com/master/19493-Herbie-Hancock-Head-Hunters) |
 | **D** | Late 1970s+ Columbia reprints | KC/PC 32731 | 1975+ | Stereo, 33⅓ | Later-generation Columbia lacquer | Later matrix generations; still functional | – |
