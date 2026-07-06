@@ -155,9 +155,9 @@ def build_album(album):
 
     github_url = f"{GITHUB_BASE}/{album['content_file']}"
     body = f'''<div class="album-page">
+  <a class="album-header__back" href="/">← All Albums</a>
   <header class="album-header">
     <div class="album-header__content">
-      <a class="album-header__back" href="/">← All Albums</a>
       <div class="album-header__label">{label} · {year}</div>
       <h1 class="album-header__title">{title}</h1>
       <p class="album-header__artist">{artist}</p>
