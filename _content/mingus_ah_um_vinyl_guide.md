@@ -2,6 +2,15 @@
 
 ---
 
+## Summary
+
+*Mingus Ah Um* is Charles Mingus's most beloved album and one of the defining recordings of 1959 jazz — a year that also gave us *Kind of Blue* and *Time Out*, recorded in the same studio by the same engineer. The album carries a unique complication: the original 1959 pressings present edited versions of six of the nine tracks. Collectors therefore face a genuine choice between the authentic 1959 tube sound on vinyl (with shorter performances) and the complete, unedited music available only on modern reissues.
+
+For vinyl, the Columbia Six Eye stereo (CS 8171) with deep groove delivers the irreplaceable sound of the 30th Street Studio — Mingus's bass resonating in that 100-foot church ceiling, Dannie Richmond's drums filling the room. Modern reissues offer the complete music from the three-track tapes, with the ORG 130 45rpm standing as the unimpeachable audiophile reference.
+
+**Best early pressing for audiophiles:** [Columbia Six Eye CS 8171 stereo with deep groove](https://www.discogs.com/release/10486052-Charles-Mingus-Mingus-Ah-Um) — the 1959 tube original, edited but sonically extraordinary. **Best modern pressing for audiophiles:** [ORG 130 45rpm 2LP](https://www.discogs.com/release/4143037-Charles-Mingus-Mingus-Ah-Um) — Bernie Grundman AAA, RTI, full unedited tracks. **Best-value modern:** [Music on Vinyl MOVLP065](https://www.discogs.com/release/2447595-Charles-Mingus-Mingus-Ah-Um) — ~$30 new, dead-quiet 180g, full unedited tracks.
+
+
 ## Recording history and tape provenance
 
 *Mingus Ah Um* was recorded across two sessions at **Columbia's 30th Street Studio in New York City**: **May 5, 1959** (tracks A1, B1–B4) and **May 12, 1959** (tracks A2–A5). Produced by **Teo Macero**, engineered by **Fred Plaut**, and released in October 1959. Personnel: Charles Mingus (bass), Booker Ervin (tenor sax), John Handy (alto sax, tenor sax, clarinet), Shafi Hadi — born Curtis Porter (alto sax, tenor sax), Willie Dennis (trombone), Jimmy Knepper (trombone), Horace Parlan (piano), Dannie Richmond (drums). The S. Neil Fujita abstract painting on the cover, like his design for Kind of Blue, has become inseparable from the record.
@@ -19,7 +28,7 @@ This creates an unusual split:
 - **Vintage Six Eye originals (mono CL 1370 or stereo CS 8171):** Edited tracks. Historically significant, sonically stunning from 30th Street tubes and Scully/Westrex lathes — but you are hearing a shorter, sometimes significantly shorter, version of the music.
 - **All modern vinyl reissues (from the 1990s onward):** Full, unedited tracks from the three-track session tapes, mixed by Bob Belden in the 1990s on an original Presto tube tape recorder to stereo. Stereo only — there is no unedited mono mix on vinyl.
 
-LondonJazzCollector: "You will be short-changed musically compared with The Evil Silver Disk. When Columbia first issued the album in 1959, six of the album's nine songs were edited in order to fit them on the LP, shortened by several minutes." Jazzwise: "Six tracks of the original mono release were edited down. That original mono LP was also released in stereo, whereas this stereo is the posthumous reissue including not only all the unedited tracks but three extra items unreleased until 1979."
+[LondonJazzCollector](https://londonjazzcollector.wordpress.com): "You will be short-changed musically compared with The Evil Silver Disk. When Columbia first issued the album in 1959, six of the album's nine songs were edited in order to fit them on the LP, shortened by several minutes." [Jazzwise](https://www.jazzwise.com): "Six tracks of the original mono release were edited down. That original mono LP was also released in stereo, whereas this stereo is the posthumous reissue including not only all the unedited tracks but three extra items unreleased until 1979."
 
 The choice is therefore not simply about sonics but about musical content. Most collectors choose to own at least one of each: an original Six Eye for the authentic 1959 tube sound, and a modern reissue for the complete music.
 
@@ -144,18 +153,18 @@ The practical conclusion: **vintage mono for the 1959 listening experience; mode
 
 ## Pressing tier summary
 
-| Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes |
-|---|---|---|---|---|---|---|
-| **S** | Original Six Eye stereo, deep groove | **CS 8171** | 1959 | Stereo, 33⅓ | Scully/Westrex lacquer, tube-era Columbia | Edited tracks; deep groove = first press; $300–$600 NM |
-| **S** | ORG 45rpm 2LP | **ORG 130** | 2012 | Stereo, 45rpm, 2×180g | Original 3-track mix → Bernie Grundman, AAA, RTI | Full unedited; pure analog; 2,500 copies; OOP $300–$600 |
-| **A** | MoFi UltraDisc One-Step | **UD1S 2-010** | 2020 | Stereo, 45rpm, 2×180g SuperVinyl | Original tape → DSD 256 → Krieg Wunderlich, RTI | Best pressing quality; DSD proviso; 6,000 copies; $350–$550 |
-| **A** | Original Six Eye mono | **CL 1370** | 1959 | Mono, 33⅓ | Scully/Westrex lacquer, tube-era Columbia | Edited tracks; true mono mix; $200–$500 NM |
-| **B** | Classic Records 200g Quiex SV-P | CS 8171 (Classic) | 2000s | Stereo, 33⅓, 200g | Original tapes → Bernie Grundman, AAA, RTI | Full unedited; excellent; OOP $150–$300 |
-| **B** | Classic Records 180g | CS 8171 (Classic) | 1990s | Stereo, 33⅓, 180g | Original tapes → Bernie Grundman, AAA, RTI | Full unedited; excellent; OOP $80–$150 |
-| **C** | Music on Vinyl 180g | **MOVLP065** | 2010 | Stereo, 33⅓, 180g | 3-track mix → unknown (possibly digital) | Full unedited; best-value modern; ~$25–35 new |
-| **C** | Non-deep-groove Six Eye stereo | CS 8171 | 1959–61 | Stereo, 33⅓ | Later Scully/Westrex lacquers | Edited; still very good; $150–$300 NM |
-| **C** | 1971 Columbia repress | CS 8171 | 1971 | Stereo, 33⅓ | Early repress lacquers | Top-end heavy; bass recessed; $20–$50 |
-| **D** | 1970s–80s Columbia represses | CS 8171 | 1970s–80s | Stereo, 33⅓ | Neumann-era Columbia lathes | Noticeably thinner; budget only |
-| **Avoid** | UK Philips pressing | BBL 7340 / SBBL 507 | 1960s | Mono/Stereo, 33⅓ | UK copy tape | "Tame and withholding, dull" (LJC) |
-| **Avoid** | EU grey-market (DOL, Waxtime, JazzWax, etc.) | Various | 2000s+ | Various | Digital rip, unlicensed | Not licensed; "sounds more like a CD" |
-| **Avoid** | 1987 Columbia Jazz Masterpieces CJ 40648 | CJ 40648 | 1987 | Stereo, 33⅓ | Digital remaster, Vlado Meller | CD-era digital mastering on vinyl |
+| Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
+|---|---|---|---|---|---|---|---|
+| **S** | Original Six Eye stereo, deep groove | **CS 8171** | 1959 | Stereo, 33⅓ | Scully/Westrex lacquer, tube-era Columbia | Edited tracks; deep groove = first press; $300–$600 NM | [Discogs](https://www.discogs.com/release/10486052-Charles-Mingus-Mingus-Ah-Um) |
+| **S** | ORG 45rpm 2LP | **ORG 130** | 2012 | Stereo, 45rpm, 2×180g | Original 3-track mix → Bernie Grundman, AAA, RTI | Full unedited; pure analog; 2,500 copies; OOP $300–$600 | [Discogs](https://www.discogs.com/release/4143037-Charles-Mingus-Mingus-Ah-Um) |
+| **A** | MoFi UltraDisc One-Step | **UD1S 2-010** | 2020 | Stereo, 45rpm, 2×180g SuperVinyl | Original tape → DSD 256 → Krieg Wunderlich, RTI | Best pressing quality; DSD proviso; 6,000 copies; $350–$550 | [Discogs](https://www.discogs.com/release/14857369-Charles-Mingus-Mingus-Ah-Um) |
+| **A** | Original Six Eye mono | **CL 1370** | 1959 | Mono, 33⅓ | Scully/Westrex lacquer, tube-era Columbia | Edited tracks; true mono mix; $200–$500 NM | [Discogs](https://www.discogs.com/master/65014-Charles-Mingus-Mingus-Ah-Um) |
+| **B** | Classic Records 200g Quiex SV-P | CS 8171 (Classic) | 2000s | Stereo, 33⅓, 200g | Original tapes → Bernie Grundman, AAA, RTI | Full unedited; excellent; OOP $150–$300 | [Discogs](https://www.discogs.com/release/1981568-Charles-Mingus-Mingus-Ah-Um) |
+| **B** | Classic Records 180g | CS 8171 (Classic) | 1990s | Stereo, 33⅓, 180g | Original tapes → Bernie Grundman, AAA, RTI | Full unedited; excellent; OOP $80–$150 | [Discogs](https://www.discogs.com/release/11547530-Charles-Mingus-Mingus-Ah-Um) |
+| **C** | Music on Vinyl 180g | **MOVLP065** | 2010 | Stereo, 33⅓, 180g | 3-track mix → unknown (possibly digital) | Full unedited; best-value modern; ~$25–35 new | [Discogs](https://www.discogs.com/release/2447595-Charles-Mingus-Mingus-Ah-Um) |
+| **C** | Non-deep-groove Six Eye stereo | CS 8171 | 1959–61 | Stereo, 33⅓ | Later Scully/Westrex lacquers | Edited; still very good; $150–$300 NM | [Discogs](https://www.discogs.com/master/65014-Charles-Mingus-Mingus-Ah-Um) |
+| **C** | 1971 Columbia repress | CS 8171 | 1971 | Stereo, 33⅓ | Early repress lacquers | Top-end heavy; bass recessed; $20–$50 | [Discogs](https://www.discogs.com/release/3541016-Charles-Mingus-Mingus-Ah-Um) |
+| **D** | 1970s–80s Columbia represses | CS 8171 | 1970s–80s | Stereo, 33⅓ | Neumann-era Columbia lathes | Noticeably thinner; budget only | — |
+| **F** | UK Philips pressing | BBL 7340 / SBBL 507 | 1960s | Mono/Stereo, 33⅓ | UK copy tape | "Tame and withholding, dull" (LJC) | — |
+| **F** | EU grey-market (DOL, Waxtime, JazzWax, etc.) | Various | 2000s+ | Various | Digital rip, unlicensed | Not licensed; "sounds more like a CD" | — |
+| **F** | 1987 Columbia Jazz Masterpieces CJ 40648 | CJ 40648 | 1987 | Stereo, 33⅓ | Digital remaster, Vlado Meller | CD-era digital mastering on vinyl | — |
