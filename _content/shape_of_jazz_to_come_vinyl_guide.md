@@ -6,8 +6,6 @@
 
 The stereo presentation is musically essential for this album in a way that differs from most jazz of the era. Coleman hard-pans the horns – Ornette and Cherry on opposite extremes of the stereo field – creating the dramatic shock of "Lonely Woman," where bass and drums establish an atmospheric stillness before the two horns blaze in from hard left and right. The mono collapses this to a more unified ensemble picture. Both formats have strong advocates; unlike some Atlantic stereo albums of the period, the hard panning here was clearly intentional and is intrinsic to the music's drama.
 
-The Atlantic tape library was largely preserved through Warner's acquisition and has remained accessible. No catastrophic tape-loss event comparable to the ABC/Impulse fire applies here, meaning reissues have drawn from genuine first-generation source material. The three best modern options are the ORG 45rpm 2LP (Bernie Grundman, Pallas), the Speakers Corner 180g (Kevin Gray, Pallas), and the VMP Classics mono 180g (Ryan K. Smith, RTI). The consensus leans toward the VMP for listeners who prefer mono and the ORG for stereo, though both the Speakers Corner and ORG have documented pressing quality issues that require attention.
-
 **Best early pressing for audiophiles:** [Original stereo Atlantic SD 1317 bullseye label](https://www.discogs.com/release/488973-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) – green, blue and black bullseye, 157 West 57 Street address; the original dramatic stereo presentation.
 
 **Best modern pressing for audiophiles:** [ORG Music ORGM-1099 45rpm 2LP](https://www.discogs.com/release/4427710-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) – Bernie Grundman, AAA, Pallas; the audiophile stereo benchmark.
@@ -58,7 +56,7 @@ The counterargument – well made by multiple Discogs reviewers – is that the 
 
 ### Later Atlantic label variants (1960s–70s)
 
-**Plum/orange white fan label (from ~1962):** The bullseye was replaced by the plum/orange label with a white fan design. Copies of 1317/SD 1317 in this format are second pressings but still excellent sounding and sonically very close to originals. One collector who owns a 1966 US reissue alongside the Speakers Corner finds the 1966 Atlantic superior in "sharp attack" — a minority view, but the 1960s reprints are genuinely good. These trade for **$30–$80** in clean condition.
+**Plum/orange white fan label (from ~1962):** The bullseye was replaced by the plum/orange label with a white fan design. Copies of 1317/SD 1317 in this format are second pressings but still excellent sounding and sonically very close to originals. One collector who owns a 1966 US reissue alongside the Speakers Corner finds the 1966 Atlantic superior in "sharp attack" – a minority view, but the 1960s reprints are genuinely good. These trade for **$30–$80** in clean condition.
 
 **Green/red Warner-era labels (1970s):** Later pressings on thin vinyl with degraded masters. [Fred Kaplan (Stereophile)](https://www.stereophile.com/content/ithe-shape-jazz-comei-45rpm) called these the "dreadful 1970s Atlantic pressings" when noting that ORG reproduced those labels on their reissue rather than the bullseye original. Sonically inferior; avoid.
 
@@ -70,11 +68,11 @@ NM **stereo SD 1317 bullseye label** first press: **$200–$500**. NM **mono 131
 
 ## The reissue hierarchy
 
-### Rhino 180g 33rpm (c.2008) — a sleeper
+### Rhino 180g 33rpm (c.2008) – a sleeper
 
 A 180g reissue on the Rhino/Atlantic catalogue. [Fred Kaplan (Stereophile)](https://www.stereophile.com/content/ithe-shape-jazz-comei-45rpm) praised it before the ORG existed, writing that it "sounds in every way better than the original pressing, which itself sounds quite good." He later revised upward to the ORG. One collector who owns both a 1966 Atlantic and the Speakers Corner considers the 1966 Atlantic superior to the Kevin Gray cut, though this is a minority view. **$15–$30** used.
 
-### ORG Music ORGM-1099 45rpm 2LP (2013) — the stereo audiophile benchmark
+### ORG Music ORGM-1099 45rpm 2LP (2013) – the stereo audiophile benchmark
 
 **Cat. ORGM-1099** | Format: 2×180g 45rpm, gatefold. **Mastered by Bernie Grundman, AAA, from the original master tapes.** Pressed at **Pallas** (Germany). The first serious audiophile treatment of this title.
 
@@ -86,17 +84,17 @@ Multiple Discogs owners with the ORG: "Sound is stellar, it is truly outstanding
 
 **$80–$150** on the secondary market.
 
-### Speakers Corner SD 1317 180g 33rpm (2021) — Kevin Gray stereo
+### Speakers Corner SD 1317 180g 33rpm (2021) – Kevin Gray stereo
 
 **Cat. Atlantic SD 1317 / Speakers Corner** | Format: single 180g LP at 33⅓. **Mastered by Kevin Gray at Cohearent Audio (KPG), AAA, from the original analog master tapes.** Pressed at **Pallas** (Germany).
 
-**Known issues with this pressing:** The entire first pressing run has swapped labels — Side A label on Side B and vice versa — documented by multiple owners and confirmed by the Speakers Corner catalogue. Beyond the label swap, a meaningful minority of buyers report quality control problems: some copies were badly dished (warped), and at least one copy had an audio error where the horns enter early on "Lonely Woman." Discogs: "I'm confused because i've seen nothing but failures in this pressing. The first 3 I had were badly dished. The 4th one had an audio error where the horns come in early on Lonely Woman." Other owners report no issues whatsoever and praise it highly: "None distortion, Extremely well balanced, dynamic and clear, Very quiet and perfectly silent." As with the ORG, Pallas pressing consistency is variable.
+**Known issues with this pressing:** The entire first pressing run has swapped labels – Side A label on Side B and vice versa – documented by multiple owners and confirmed by the Speakers Corner catalogue. Beyond the label swap, a meaningful minority of buyers report quality control problems: some copies were badly dished (warped), and at least one copy had an audio error where the horns enter early on "Lonely Woman." Discogs: "I'm confused because i've seen nothing but failures in this pressing. The first 3 I had were badly dished. The 4th one had an audio error where the horns come in early on Lonely Woman." Other owners report no issues whatsoever and praise it highly: "None distortion, Extremely well balanced, dynamic and clear, Very quiet and perfectly silent." As with the ORG, Pallas pressing consistency is variable.
 
 **Sound:** Those who receive a good copy are enthusiastic. "Kevin Gray, AAA and Pallas a winning combination." "Perfect record, mix, master and pressing. One of the best sounding records in my collection." One dissenting view from a collector who prefers a 1966 Atlantic: "terrific but a little too robust, lacking the sharp attack of a copy closer in time to the original tape." This reflects system-dependent responses to Kevin Gray's characteristic warmth.
 
 **~$35–$50 new** (widely available). Despite the QC concerns, at this price it remains an excellent choice if you receive a good copy.
 
-### VMP Classics VMP-C058 mono 180g (2022) — the current consensus best
+### VMP Classics VMP-C058 mono 180g (2022) – the current consensus best
 
 **Cat. VMP-C058** | Format: single 180g LP at 33⅓, tip-on sleeve. **Mastered by Ryan K. Smith at Sterling Sound, AAA, from the original mono master tapes.** Pressed at **RTI**. Released as the VMP Classics Record of the Month for October 2022. Includes a listening notes booklet by Marcus J. Moore and a VMP obi strip.
 
@@ -112,21 +110,21 @@ The case for the VMP is not purely sonic – it is also curatorial. The mono was
 
 Two distinct periods and manufacturers are worth distinguishing:
 
-### Victor ATL-5038 mono (c.1960) — earliest Japanese issue
+### Victor ATL-5038 mono (c.1960) – earliest Japanese issue
 
 Pressed by **Victor Record Company Ltd., Japan** under licence from Atlantic via Cosdel Inc., this is the earliest Japanese release, in mono (cat. ATL-5038). It carries "Full dynamics frequency spectrum" on the label and comes with an insert with Japanese liner notes. As a very early licence pressed from tape rather than metal parts, sound quality varies but these are collector curiosities. **$100–$200 with insert.**
 
-### Warner Bros.-Pioneer P-6004A stereo (1971) — first stereo Japanese issue
+### Warner Bros.-Pioneer P-6004A stereo (1971) – first stereo Japanese issue
 
 Pressed by **Warner Bros.-Pioneer Corporation** (WBP had acquired Atlantic's Japanese distribution) under the "Jazz Age" series. Cat. P-6004A alongside legacy SD 1317 numbering. Label notes: "Made by Warner Bros.-Pioneer Corporation, Japan under license from Atlantic Recording Corp. U.S.A." Comes with insert. Matrix: P-6004A1 / P-6004A2 with Japanese pressing suffixes. **$50–$100 with insert.**
 
-### Warner-Pioneer P-7510A stereo (1976) — "Jazz-Forever Excellent" series
+### Warner-Pioneer P-7510A stereo (1976) – "Jazz-Forever Excellent" series
 
-**Cat. P-7510A** | Released November 25, 1976 by **Warner-Pioneer Corporation**. Part of the "Jazz-Forever Excellent" series (also listed in the "Pick Up Your Music" series). Format: stereo LP, gatefold-adjacent presentation, with **obi strip** and a **4-page insert** containing Japanese liner notes and Coleman's discography. Label design: Atlantic green/white/blue bullseye — reproducing the original label aesthetic.
+**Cat. P-7510A** | Released November 25, 1976 by **Warner-Pioneer Corporation**. Part of the "Jazz-Forever Excellent" series (also listed in the "Pick Up Your Music" series). Format: stereo LP, gatefold-adjacent presentation, with **obi strip** and a **4-page insert** containing Japanese liner notes and Coleman's discography. Label design: Atlantic green/white/blue bullseye – reproducing the original label aesthetic.
 
-Matrix: **P-7510A1 ST-A-59175 H** (Side A) and **P-7510A2 ST-A-59176 H** (Side B). The "H" suffix indicates the Japanese pressing plant's metalwork generation. The underlying matrices are the original AVCO Atlantic stampers, meaning this pressing was made from metal parts derived from the original 1959 lacquers — the same source as early US pressings.
+Matrix: **P-7510A1 ST-A-59175 H** (Side A) and **P-7510A2 ST-A-59176 H** (Side B). The "H" suffix indicates the Japanese pressing plant's metalwork generation. The underlying matrices are the original AVCO Atlantic stampers, meaning this pressing was made from metal parts derived from the original 1959 lacquers – the same source as early US pressings.
 
-This is the Japanese pressing most frequently cited in collector discussions. Discogs reviewers compare it directly with the Speakers Corner: "This pressing sounds great to me — nice balance between bass, mids and highs, and excellent separation. Love the sound of Ornette's sax on this pressing, and Haden's basslines also really pop here. Compared to my Speaker Corners version, this Japanese one sounds more alive, 'hot', and engaged. Dead silent vinyl."
+This is the Japanese pressing most frequently cited in collector discussions. Discogs reviewers compare it directly with the Speakers Corner: "This pressing sounds great to me – nice balance between bass, mids and highs, and excellent separation. Love the sound of Ornette's sax on this pressing, and Haden's basslines also really pop here. Compared to my Speaker Corners version, this Japanese one sounds more alive, 'hot', and engaged. Dead silent vinyl."
 
 The P-7510A is the Japanese pressing to seek for this title. **$50–$120 NM with obi.**
 
@@ -167,5 +165,5 @@ The P-7510A is the Japanese pressing to seek for this title. **$50–$120 NM wit
 | **B** | 1960s plum/orange Atlantic | SD 1317 / 1317 | 1962–68 | Stereo or mono, 33⅓ | Period Atlantic lacquer | Close to original; laminated cover; $30–$80 NM | [Discogs](https://www.discogs.com/master/47813-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
 | **C** | Warner Bros.-Pioneer P-6004A | **P-6004A** | 1971 | Stereo, 33⅓ | Warner-Pioneer Japanese lacquer | "Jazz Age" series; earlier Japan issue; $40–$80 with insert | [Discogs](https://www.discogs.com/release/2997973-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
 | **C** | Rhino 180g | SD 1317 | c.2008 | Stereo, 33⅓, 180g | Atlantic tapes → Rhino mastering | Solid entry-level; Kaplan praised it pre-ORG; $15–$30 | [Discogs](https://www.discogs.com/master/47813-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
-| **D** | 1970s Warner/Atlantic green-red | SD 1317 | 1970s | Stereo, 33⅓ | Degraded masters, thin vinyl | "Dreadful" (Kaplan); avoid | — |
-| **F** | EU grey-market (DOL, Waxtime) | Various | 2000s+ | Various | Digital rip, unlicensed | Unverified provenance; not licensed | — |
+| **D** | 1970s Warner/Atlantic green-red | SD 1317 | 1970s | Stereo, 33⅓ | Degraded masters, thin vinyl | "Dreadful" (Kaplan); avoid | – |
+| **F** | EU grey-market (DOL, Waxtime) | Various | 2000s+ | Various | Digital rip, unlicensed | Unverified provenance; not licensed | – |
