@@ -80,7 +80,7 @@ One caveat: the jacket on the ORG is widely criticised as cheaply made – "plai
 
 ### Analogue Productions Atlantic 75 Series 45rpm 2LP (2024)
 
-**Cat. APA 011-45** (Acoustic Sounds SKU: AAPA 011-45) | Barcode: **753088751172** | Format: 2×180g 45rpm, Stoughton tip-on gatefold. **Mastered by Ryan K. Smith at Sterling Sound, AAA, from the original master tape.** Pressed at **QRP**. Released March 29, 2024 as part of AP's Atlantic 75th Anniversary series. Stereo only.
+**Cat. AAPA 011-45** (Acoustic Sounds SKU: AAAPA 011-45) | Barcode: **753088751172** | Format: 2×180g 45rpm, Stoughton tip-on gatefold. **Mastered by Ryan K. Smith at Sterling Sound, AAA, from the original master tape.** Pressed at **QRP**. Released March 29, 2024 as part of AP's Atlantic 75th Anniversary series. Stereo only.
 
 Discogs community responses immediately after release: "This is the absolute best I have ever heard this album!! Kudos to Chad and Ryan K Smith!! Beautifully done!!" Multiple buyers confirm dead-quiet surfaces from QRP and excellent presentation via Stoughton's tip-on gatefold. A direct comparison from one owner who has the ORG, the 2022 Kevin Gray 60th, and now the AP: "The cover is definitely nicer on the AP!!" (the ORG's famously poor jacket is frequently mentioned as a reason to prefer the AP). One dissenting voice on Discogs prefers the 1975 Monarch stereo pressing over both the ORG and AP 45rpm editions – a minority view but indicative that some listeners respond differently to the vintage lacquer character.
 
@@ -158,13 +158,13 @@ The 2022 Kevin Gray 60th Anniversary 2LP gives most listeners their best practic
 
 **$50–$120:** The **Rhino/Grundman 180g 33rpm (EU, 2010)** remains an excellent pressing at used-market prices – Grundman's AAA mastering from the original tapes on quiet 180g vinyl, tip-on jacket. Better packaged than the ORG 45rpm at a fraction of the cost, and sonically very close.
 
-**$80–$150:** The **AP Atlantic 75 45rpm 2LP (APA 011-45)** is the current new-production pinnacle for stereo listening, combining Ryan K. Smith's Sterling Sound mastering with QRP pressing and Stoughton packaging. Buy this if you want the best available stereo presentation from new stock.
+**$80–$150:** The **AP Atlantic 75 45rpm 2LP (AAPA 011-45)** is the current new-production pinnacle for stereo listening, combining Ryan K. Smith's Sterling Sound mastering with QRP pressing and Stoughton packaging. Buy this if you want the best available stereo presentation from new stock.
 
 **$200–$400:** The **ORG Music 45rpm 2LP (ORGM-1080)** on the resale market remains competitive with the AP as a pure-sonic proposition, if you can accept the poor jacket. Grundman's take on this recording has a loyal following. A **NM white-fan mono A-1361** original also becomes accessible in this range – the holy grail for mono enthusiasts, offering a listening experience the modern reissues approximate but cannot fully replicate.
 
 **$400+:** Genuine **first-pressing white-fan mono with ankh deadwax** in NM condition; or the **ERC true mono** if a copy can be found. Both represent the highest collector tier for this album.
 
-**The one-copy answer:** The **2022 Rhino 60th Anniversary 2LP** for most people – it gives you both formats from the best available tapes at a price that makes sense. If stereo-only listening from the best possible source is your aim, the **AP APA 011-45** is the current answer. If budget allows, pair them.
+**The one-copy answer:** The **2022 Rhino 60th Anniversary 2LP** for most people – it gives you both formats from the best available tapes at a price that makes sense. If stereo-only listening from the best possible source is your aim, the **AP AAPA 011-45** is the current answer. If budget allows, pair them.
 
 ---
 
@@ -174,11 +174,11 @@ The 2022 Kevin Gray 60th Anniversary 2LP gives most listeners their best practic
 |---|---|---|---|---|---|---|---|
 | **S** | Original mono white-fan, no ® | **A-1361** | 1961 | Mono, 33⅓ | RVG-era Atlantic lacquer, ankh MGM press | True first mono; unified ensemble; $300–$600 NM | – |
 | **S** | ERC true mono | ERC edition | 2021 | Mono, 33⅓ | Original mono master tape, vintage London lacquer | 300 copies only; $400–$1,000+ resale | – |
-| **A** | AP Atlantic 75 45rpm 2LP | **APA 011-45** | 2024 | Stereo, 45rpm, 2×180g | Original master → Ryan K. Smith, AAA, QRP | Current stereo pinnacle; ~$80–$100 new | [Discogs](https://www.discogs.com/release/29987361-John-Coltrane-My-Favorite-Things) |
+| **A** | AP Atlantic 75 45rpm 2LP | **AAAPA 011-45** | 2024 | Stereo, 45rpm, 2×180g | Original master → Ryan K. Smith, AAA, QRP | Current stereo pinnacle; ~$80–$100 new | [Discogs](https://www.discogs.com/release/29987361-John-Coltrane-My-Favorite-Things) |
 | **A** | ORG Music 45rpm 2LP | **ORGM-1080** | 2013 | Stereo, 45rpm, 2×180g | Original tapes → Bernie Grundman, AAA, Pallas | Former benchmark; poor jacket; OOP $200–$400 | [Discogs](https://www.discogs.com/release/5109867-John-Coltrane-My-Favorite-Things) |
 | **A** | Rhino 60th Anniv. 2LP (Stereo+Mono) | **R1 666923** | 2022 | Mono + Stereo, 33⅓, 2×180g | Original tapes → Kevin Gray at Cohearent, Optimal | Best value; includes original mono master; ~$35–$40 | [Discogs](https://www.discogs.com/release/23290832-John-Coltrane-My-Favorite-Things) |
 | **B** | Original mono white-fan, with ® | A-1361 | 1961 | Mono, 33⅓ | Second mono pressing | Very close to first; $150–$350 NM | – |
-| **B** | Rhino/Grundman 180g 33rpm | SD-1361 / 8122798049 | 2010 | Stereo, 33⅓, 180g | Original tapes → Bernie Grundman, AAA, Optimal | Quieter than ORG; better packaged; OOP $60–$120 | – |
+| **B** | Rhino/Grundman 180g 33rpm | SD-1361 | 2010 | Stereo, 33⅓, 180g | Original tapes → Bernie Grundman, AAA, Optimal | Quieter than ORG; better packaged; OOP $60–$120 | – |
 | **C** | Original stereo SD-1361 white-fan | **SD-1361** | 1961 | Stereo, 33⅓ | 1961 Atlantic lacquer | Hard-panned; vintage character; $200–$400 NM | [Discogs](https://www.discogs.com/master/46560-John-Coltrane-My-Favorite-Things) |
 | **C** | Japanese Victor/JVC pressings | P-6030A, P-7505A | 1970s–80s | Stereo, 33⅓ | Japanese tape copy | Dead-quiet vinyl; $40–$120 NM with obi | – |
 | **C** | Black-fan mono or stereo variants | A-1361 / SD-1361 | 1962–66 | Mono or stereo, 33⅓ | Later Atlantic lacquers | Still decent; often oversold as "originals"; $50–$150 | – |
