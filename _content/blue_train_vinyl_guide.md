@@ -83,13 +83,13 @@ A companion **Blue Train: The Complete Masters 2LP stereo** (with seven alternat
 
 ## Buyer's guide by budget
 
-**Under $30:** The **Blue Note Classic Vinyl BLP 1577 mono** — Kevin Gray mastering, Optimal pressing. The starting point.
+**Under $30:** The [**Blue Note Classic Vinyl BLP 1577 mono**](https://www.discogs.com/release/16219695) — Kevin Gray mastering, Optimal pressing. The starting point.
 
-**$45–$65:** The **Blue Note Tone Poet mono (2022)** — the definitive modern version. This is the recommended purchase for any serious listener.
+**$45–$65:** The [**Blue Note Tone Poet mono (2022)**](https://www.discogs.com/release/23760082) — the definitive modern version. This is the recommended purchase for any serious listener.
 
-**$200–$400:** The **Music Matters SRX MM33 BLP-1577** if found at a fair secondary price — excellent, but the Tone Poet has largely supplanted it.
+**$200–$400:** The [**Music Matters SRX MM33 BLP-1577**](https://www.discogs.com/release/5193282) if found at a fair secondary price — excellent, but the Tone Poet has largely supplanted it.
 
-**$400+:** An original **47 West 63rd BLP 1577 mono** (ideally NY23 label, no "Inc.") in honest VG+ or better — the collector's grail for this title.
+**$400+:** An original [**47 West 63rd BLP 1577 mono**](https://www.discogs.com/release/11786823) (ideally NY23 label, no "Inc.") in honest VG+ or better — the collector's grail for this title.
 
 ---
 
