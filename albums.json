@@ -10,7 +10,8 @@
     "wikipedia": "Kind_of_Blue",
     "description": "Every significant pressing of Miles Davis's Kind of Blue \u2014 the speed error, tape provenance, and a full reissue hierarchy from original Six Eye to AP UHQR.",
     "content_file": "kind_of_blue_vinyl_guide.md",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/MilesDavisKindofBlue.jpg/300px-MilesDavisKindofBlue.jpg"
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/MilesDavisKindofBlue.jpg/300px-MilesDavisKindofBlue.jpg",
+    "mbid": "8e8a594f-2175-38c7-a871-abb68ec363e7"
   },
   {
     "slug": "a-love-supreme",
@@ -23,7 +24,8 @@
     "wikipedia": "A_Love_Supreme",
     "description": "Pressing guide for A Love Supreme \u2014 the Abbey Road safety tape, mono vs stereo, and every reissue from original orange Impulse! to the AP UHQR.",
     "content_file": "a_love_supreme_vinyl_guide.md",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/John_Coltrane_-_A_Love_Supreme.jpg/300px-John_Coltrane_-_A_Love_Supreme.jpg"
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/John_Coltrane_-_A_Love_Supreme.jpg/300px-John_Coltrane_-_A_Love_Supreme.jpg",
+    "mbid": "77cf47ba-58cd-3f3d-a5f9-79bf89860421"
   },
   {
     "slug": "sunday-at-the-village-vanguard",
@@ -36,7 +38,8 @@
     "wikipedia": "Sunday_at_the_Village_Vanguard",
     "description": "Pressing guide for Sunday at the Village Vanguard \u2014 single 2-track session, mono vs stereo, and every reissue from original Riverside to the AP UHQR.",
     "content_file": "sunday_at_the_village_vanguard_vinyl_guide.md",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Sunday_at_the_Village_Vanguard.jpg/300px-Sunday_at_the_Village_Vanguard.jpg"
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Sunday_at_the_Village_Vanguard.jpg/300px-Sunday_at_the_Village_Vanguard.jpg",
+    "mbid": "79a8fca9-2678-3c9c-a18f-b6f715d2375d"
   },
   {
     "slug": "getz-gilberto",
@@ -49,7 +52,8 @@
     "wikipedia": "Getz/Gilberto",
     "description": "Pressing guide for Getz/Gilberto \u2014 the channel reversal problem, Phil Ramone's original master tape, and every pressing from 1964 Verve to the Impex 1Step.",
     "content_file": "getz_gilberto_vinyl_guide.md",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Getzgilberto.jpg/300px-Getzgilberto.jpg"
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Getzgilberto.jpg/300px-Getzgilberto.jpg",
+    "mbid": "b248d212-aace-3c3e-a23d-e13aaac1f87a"
   },
   {
     "slug": "my-favorite-things",
@@ -62,7 +66,8 @@
     "wikipedia": "My_Favorite_Things_(John_Coltrane_album)",
     "description": "Pressing guide for My Favorite Things \u2014 the lost and found mono master, Atlantic label hierarchy, and every pressing from original white fan to the AP Atlantic 75 series.",
     "content_file": "my_favorite_things_vinyl_guide.md",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/MyFavoriteThingsColtrane.jpg/300px-MyFavoriteThingsColtrane.jpg"
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/MyFavoriteThingsColtrane.jpg/300px-MyFavoriteThingsColtrane.jpg",
+    "mbid": "b60cdf20-74b7-3bed-b233-0f4818235895"
   },
   {
     "slug": "mingus-ah-um",
@@ -75,7 +80,8 @@
     "wikipedia": "Mingus_Ah_Um",
     "description": "Pressing guide for Mingus Ah Um \u2014 the edit problem, Six Eye identification, and every pressing from original Columbia to the ORG 45rpm and MoFi One-Step.",
     "content_file": "mingus_ah_um_vinyl_guide.md",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Mingus_Ah_Um.jpg/300px-Mingus_Ah_Um.jpg"
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Mingus_Ah_Um.jpg/300px-Mingus_Ah_Um.jpg",
+    "mbid": "48ec720b-2fc2-35dd-8130-5b186c4abcbc"
   },
   {
     "slug": "moanin",
@@ -88,7 +94,8 @@
     "wikipedia": "Moanin'_(Art_Blakey_album)",
     "description": "Pressing guide for Moanin' \u2014 Blue Note original identification, the A vs A-1 matrix debate, and every pressing from original Van Gelder to Music Matters SRX.",
     "content_file": "moanin_vinyl_guide.md",
-    "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Art_Blakey_Moanin.jpg/300px-Art_Blakey_Moanin.jpg"
+    "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Art_Blakey_Moanin.jpg/300px-Art_Blakey_Moanin.jpg",
+    "mbid": "e809b0f3-5683-3248-b39a-e7ee8e86d2d9"
   },
   {
     "slug": "time-out",
@@ -101,6 +108,7 @@
     "wikipedia": "Time_Out_(album)",
     "cover_url": "",
     "description": "Collector-grade vinyl pressing guide for The Dave Brubeck Quartet's Time Out \u2014 Columbia Six Eye identification, Classic Records and Analogue Productions reissue hierarchy, and buyer's guide.",
-    "content_file": "time_out_vinyl_guide.md"
+    "content_file": "time_out_vinyl_guide.md",
+    "mbid": "035a7881-3e2c-39d2-b110-fe26a4de94e5"
   }
 ]
