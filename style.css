@@ -54,8 +54,8 @@ a:hover { color: var(--paper); }
 .album-card:hover .album-card__arrow { color: var(--gold); }
 
 /* Album page layout */
-.album-page { max-width: var(--max-w); margin: 0 auto; padding: 0 2rem; display: grid; grid-template-columns: var(--sidebar-w) 1fr; column-gap: 3.5rem; row-gap: 3rem; }
-.album-header { grid-column: 1 / -1; padding: 3rem 0 2.5rem; border-bottom: 1px solid var(--border); margin-bottom: 3rem; display: flex; align-items: flex-start; gap: 2rem; justify-content: space-between; }
+.album-page { max-width: var(--max-w); margin: 0 auto; padding: 0 2rem; display: grid; grid-template-columns: var(--sidebar-w) 1fr; column-gap: 3.5rem; row-gap: 0; }
+.album-header { grid-column: 1 / -1; padding: 3rem 0 2.5rem; border-bottom: 1px solid var(--border); margin-bottom: 0; display: flex; align-items: flex-start; gap: 2rem; justify-content: space-between; }
 .album-header__content { flex: 1; }
 .album-header__back { font-family: var(--mono); font-size: 0.7rem; color: var(--grey); letter-spacing: 0.12em; text-transform: uppercase; display: inline-block; margin-bottom: 1.5rem; }
 .album-header__back:hover { color: var(--gold); }
@@ -71,7 +71,7 @@ a:hover { color: var(--paper); }
 .album-header__cover figcaption { font-family: var(--mono); font-size: 0.6rem; color: var(--grey); margin-top: 0.4rem; text-align: left; }
 
 /* Album summary */
-.album-summary { grid-column: 2; padding: 0; margin-bottom: 0; max-width: 680px; color: var(--paper-dim); font-size: 0.9625rem; line-height: 1.7; }
+.album-summary { grid-column: 2; padding: 3rem 0 0; margin-bottom: 0; max-width: 680px; color: var(--paper-dim); font-size: 0.9625rem; line-height: 1.7; }
 .album-summary p { margin-bottom: 0.85rem; color: var(--paper-dim); font-size: 0.9625rem; }
 .album-summary p:last-child { margin-bottom: 0; }
 .album-summary strong { color: var(--paper); font-weight: 600; }
