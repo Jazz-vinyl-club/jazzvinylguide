@@ -116,7 +116,7 @@ Columbia/Legacy has issued several anniversary editions digitally sourced. The 4
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
 | **S** | MoFi UltraDisc One-Step 55th | MFSL UD1S-109 | 2025 | Stereo, 33⅓, 2×180g | Orig tapes → DSD64 → Wunderlich, FRP | 5,000 copies; lowest noise floor; ~$125–$150 | [Discogs](https://www.discogs.com/master/8260-Miles-Davis-Bitches-Brew) |
-| **A** | Original two-eye 360 Sound, low matrix | **GP 26** | 1970 | Stereo, 33⅓ | Original Columbia mix master | -1J matrices; Sanctuary error = earliest; $150–$400 NM | [Discogs](https://www.discogs.com/release/37006-Miles-Davis-Bitches-Brew) |
+| **A** | Original two-eye 360 Sound, low matrix | GP 26 | 1970 | Stereo, 33⅓ | Original Columbia mix master | -1J matrices; Sanctuary error = earliest; $150–$400 NM | [Discogs](https://www.discogs.com/release/37006-Miles-Davis-Bitches-Brew) |
 | **A** | MoFi MFSL 2-439 180g 2LP | MFSL 2-439 | 2014/2023 | Stereo, 33⅓, 2×180g | Orig tapes → DSD64 → Wunderlich, RTI/FRP | Disclosed DSD; widely praised; $50–$80 | [Discogs](https://www.discogs.com/release/5804415-Miles-Davis-Bitches-Brew) |
 | **A** | Japanese CBS/Sony 1980s | 20AP 1425/26 | c.1981 | Stereo, 33⅓ | CBS/Sony Japan cut, Shizuoka pressing | Some prefer to MoFi; exceptional vinyl quality; $50–$120 obi | [Discogs](https://www.discogs.com/master/8260-Miles-Davis-Bitches-Brew) |
 | **B** | Early red/orange Columbia ring label | GP 26 / PG 26 | 1970–75 | Stereo, 33⅓ | Period Columbia lacquer | Sonically close to two-eye; $25–$60 | [Discogs](https://www.discogs.com/master/8260-Miles-Davis-Bitches-Brew) |
