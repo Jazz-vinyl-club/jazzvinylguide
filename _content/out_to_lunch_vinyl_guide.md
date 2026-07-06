@@ -93,10 +93,10 @@ Pressed after Blue Note's acquisition by Liberty Records. Labels read "A Divisio
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Tone Poet 180g mono | **B0035204-01** | 2022 | Mono, 33⅓, 180g | Orig mono tape → Kevin Gray, AAA, RTI | Current definitive reissue; $45–$65 | [Discogs](https://www.discogs.com/release/23196534-Eric-Dolphy-Out-To-Lunch) |
-| **A** | Original BLP 4163 mono, NY USA label | **BLP 4163** | 1964 | Mono, 33⅓ | RVG / Plastylite | VAN GELDER stamp + ear required; $300–$700 NM | [Discogs](https://www.discogs.com/release/4521399-Eric-Dolphy-Out-To-Lunch) |
-| **A** | Music Matters 33rpm AAA mono | **MM33-84163** | 2014 | Mono, 33⅓, 180g | Orig mono tape → Kevin Gray, AAA, QRP | OOP; excellent; $150–$250 secondary | [Discogs](https://www.discogs.com/release/6192516-Eric-Dolphy-Out-To-Lunch) |
-| **B** | Japanese King GXF-3009 | **GXF-3009** | 1977 | Mono, 33⅓ | Licensed Japanese pressing | Quiet surfaces, warm; $60–$150 NM | [Discogs](https://www.discogs.com/release/2216318-Eric-Dolphy-Out-To-Lunch) |
-| **B** | Blue Note Classic Vinyl 180g | **BLP 4163** | 2020 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Budget entry point; $20–$30 | [Discogs](https://www.discogs.com/release/16219694-Eric-Dolphy-Out-To-Lunch) |
-| **C** | Liberty-era BST 84163 stereo | **BST 84163** | 1966–70 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; not preferred for listening | [Discogs](https://www.discogs.com/master/28730-Eric-Dolphy-Out-To-Lunch) |
+| **S** | Tone Poet 180g mono | B0035204-01 | 2022 | Mono, 33⅓, 180g | Orig mono tape → Kevin Gray, AAA, RTI | Current definitive reissue; $45–$65 | [Discogs](https://www.discogs.com/release/23196534-Eric-Dolphy-Out-To-Lunch) |
+| **A** | Original BLP 4163 mono, NY USA label | BLP 4163 | 1964 | Mono, 33⅓ | RVG / Plastylite | VAN GELDER stamp + ear required; $300–$700 NM | [Discogs](https://www.discogs.com/release/4521399-Eric-Dolphy-Out-To-Lunch) |
+| **A** | Music Matters 33rpm AAA mono | MM33-84163 | 2014 | Mono, 33⅓, 180g | Orig mono tape → Kevin Gray, AAA, QRP | OOP; excellent; $150–$250 secondary | [Discogs](https://www.discogs.com/release/6192516-Eric-Dolphy-Out-To-Lunch) |
+| **B** | Japanese King GXF-3009 | GXF-3009 | 1977 | Mono, 33⅓ | Licensed Japanese pressing | Quiet surfaces, warm; $60–$150 NM | [Discogs](https://www.discogs.com/release/2216318-Eric-Dolphy-Out-To-Lunch) |
+| **B** | Blue Note Classic Vinyl 180g | BLP 4163 | 2020 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Budget entry point; $20–$30 | [Discogs](https://www.discogs.com/release/16219694-Eric-Dolphy-Out-To-Lunch) |
+| **C** | Liberty-era BST 84163 stereo | BST 84163 | 1966–70 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; not preferred for listening | [Discogs](https://www.discogs.com/master/28730-Eric-Dolphy-Out-To-Lunch) |
 | **D** | 1970s–90s Blue Note reissues | Various | Various | Various | Dubs or digital transfers | Avoid; Classic Vinyl is better at same price | – |
