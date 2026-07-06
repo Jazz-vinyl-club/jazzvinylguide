@@ -88,11 +88,11 @@ Music On Vinyl issued *Head Hunters* under their Columbia catalogue licence. The
 
 ## Buyer's guide by budget
 
-**Under $30:** A clean **original 1973 Columbia KC 32731** with first-generation metalwork, Pitman or Terre Haute plant, -1A/-1A matrices. One of the better deals in jazz vinyl collecting; originals remain affordable because the album sold massively.
+**Under $30:** A clean [**original 1973 Columbia KC 32731**](https://www.discogs.com/release/31381) with first-generation metalwork, Pitman or Terre Haute plant, -1A/-1A matrices. One of the better deals in jazz vinyl collecting; originals remain affordable because the album sold massively.
 
-**$35–$55:** The **AP 180g 33rpm** – the modern audiophile standard, same mastering as the 45rpm, available new.
+**$35–$55:** The [**AP 180g 33rpm**](https://www.discogs.com/release/7495983) – the modern audiophile standard, same mastering as the 45rpm, available new.
 
-**$80–$120:** The **AP 45rpm 2LP** – the definitive version. The upgrade from the 33rpm is audible on any decent system; if *Head Hunters* is important to you, the 45rpm is worth the premium.
+**$80–$120:** The [**AP 45rpm 2LP**](https://www.discogs.com/release/10453858) – the definitive version. The upgrade from the 33rpm is audible on any decent system; if *Head Hunters* is important to you, the 45rpm is worth the premium.
 
 ---
 
