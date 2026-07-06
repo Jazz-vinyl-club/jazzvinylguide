@@ -142,7 +142,7 @@ a:hover { color: var(--paper); }
   flex-shrink: 0;
   text-align: left;
   order: -1;
-  padding-top: 3rem;
+  padding-top: 2.75rem;
 }
 
 .album-header__cover img {
