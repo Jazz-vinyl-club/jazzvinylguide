@@ -158,15 +158,15 @@ Earlier Japanese audiophile pressing in the SX68 series; matrix SOPL-155A1. Heav
 
 ## Buyer's guide by budget
 
-**Under $60:** The **AP AAPJ 8163BLU 2LP (2025)** at ~$50–$60 new – Grundman lineage, speed-corrected, tip-on gatefold, QRP. The entry point into the authoritative source chain. Add the **Sony 88883761031 mono** at $30–$80 for the other half of the picture.
+**Under $60:** The [**AP AAPJ 8163BLU 2LP (2025)**](https://www.discogs.com/release/35596555) at ~$50–$60 new – Grundman lineage, speed-corrected, tip-on gatefold, QRP. The entry point into the authoritative source chain. Add the [**Sony 88883761031 mono**](https://www.discogs.com/release/5166551) at $30–$80 for the other half of the picture.
 
-**$150–$250:** The **AP UHQR 33rpm** for a step up in pressing luxury from the same source. Ultrasonically clean before first play; Clarity Vinyl surface noise often clears after cleaning.
+**$150–$250:** The [**AP UHQR 33rpm**](https://www.discogs.com/release/18884065) for a step up in pressing luxury from the same source. Ultrasonically clean before first play; Clarity Vinyl surface noise often clears after cleaning.
 
-**$200–$350:** The **AP UHQR 45rpm** is the definitive modern pressing. Worth every penny if the music matters to you and you have the system to appreciate it.
+**$200–$350:** The [**AP UHQR 45rpm**](https://www.discogs.com/release/24373778) is the definitive modern pressing. Worth every penny if the music matters to you and you have the system to appreciate it.
 
-**$400–$700:** A clean **Columbia CS 8163 six-eye stereo** original for the tube-cut, period character no reissue fully recovers.
+**$400–$700:** A clean [**Columbia CS 8163 six-eye stereo**](https://www.discogs.com/release/9322816) original for the tube-cut, period character no reissue fully recovers.
 
-**$250–$600:** A clean **Columbia CL 1355 six-eye mono** – the bass-forward, intimate presentation many experienced collectors consider the definitive listening copy regardless of pressing generation.
+**$250–$600:** A clean [**Columbia CL 1355 six-eye mono**](https://www.discogs.com/release/2252871) – the bass-forward, intimate presentation many experienced collectors consider the definitive listening copy regardless of pressing generation.
 
 **The MoFi question:** Still a musical pressing worth having if acquired cheaply ($80–$120 used). Not worth premium prices now that the AP 2025 undercuts it on both price and provenance.
 
