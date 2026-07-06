@@ -1,7 +1,5 @@
 # The Shape of Jazz to Come on Vinyl: The Definitive Pressing Guide
 
-*Ornette Coleman — Atlantic 1317 / SD 1317 (1959)*
-
 ## Summary
 
 *The Shape of Jazz to Come* was recorded on May 22, 1959 at Radio Recorders in Hollywood, California – a single session engineered by Bones Howe and produced by Nesuhi Ertegun for Atlantic Records. The quartet of Ornette Coleman (alto saxophone), Don Cherry (cornet), Charlie Haden (bass), and Billy Higgins (drums) recorded the album that would permanently alter the direction of jazz. Coleman had originally wanted to title the album *Focus on Sanity* after its fourth track; Ertegun chose the final title to signal its ambition.
