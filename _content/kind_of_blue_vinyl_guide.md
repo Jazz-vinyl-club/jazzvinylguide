@@ -8,9 +8,9 @@ A tape machine error on March 2 ran the prime three-track deck roughly 2.4% slow
 
 **Best early pressing for audiophiles:** [Columbia CS 8163 six-eye stereo](https://www.discogs.com/release/1353040-Miles-Davis-Kind-Of-Blue) – black "Stereo Fidelity" label; earliest 1E/1K matrices; uncorrected speed.
 
-**Best modern pressing for audiophiles:** [Analogue Productions UHQR 45rpm 2LP (UHQR 0004-45, 2022)](https://www.discogs.com/release/24373778-Miles-Davis-Kind-Of-Blue) – Grundman metal parts, 200g Clarity Vinyl, QRP; consensus best.
+**Best modern pressing for audiophiles:** [Analogue Productions UHQR 45rpm 2LP (AUHQR 0004-45, 2022)](https://www.discogs.com/release/24373778-Miles-Davis-Kind-Of-Blue) – Grundman metal parts, 200g Clarity Vinyl, QRP; consensus best.
 
-**Best-value modern:** [Analogue Productions AAPJ 8163 2LP (2025)](https://www.discogs.com/release/35666779-Miles-Davis-Kind-of-Blue) – same Grundman lineage, speed-corrected, ~$50–$60 new.
+**Best-value modern:** [Analogue Productions AAPJ 8163BLU 2LP (2025)](https://www.discogs.com/release/35666779-Miles-Davis-Kind-of-Blue) – same Grundman lineage, speed-corrected, ~$50–$60 new.
 
 
 ## Recording history and tape provenance
@@ -96,13 +96,13 @@ Bernie Grundman's 1995 direct cut from the three-track session master is the fou
 
 [Discogs r18884065](https://www.discogs.com/release/18884065-Miles-Davis-Kind-Of-Blue) | Format: single 200g Clarity Vinyl, 33⅓, stereo, speed-corrected, numbered to 25,000, hand-pressed on Finebilt press at QRP. Grundman metal parts. Michael Fremer (AnalogPlanet): "Quite clearly and obviously this new UHQR Kind of Blue sourced from Bernie Grundman's 'live' mix from the 3-track master, directly to lacquer sounds best compared to two early '6-Eyes,' Classic's own double 180g set and that label's single-sided 45rpm set, and Mobile Fidelity's double 45 boxed edition." Fred Kaplan (Stereophile, August 2021): the UHQR 33 is "the best-sounding Kind of Blue ever, superior in every way to all previous pressings, including the original… Cobb's drumkit is spooky real." Some copies reported with Clarity Vinyl surface noise that responds to ultrasonic cleaning. **~$100 MSRP; $150–$250 secondary.**
 
-**Analogue Productions UHQR 45rpm 2LP (UHQR 0004-45, 2022)**
+**Analogue Productions UHQR 45rpm 2LP (AUHQR 0004-45, 2022)**
 
 [Discogs r24373778](https://www.discogs.com/release/24373778-Miles-Davis-Kind-Of-Blue) | Format: 2×200g Clarity Vinyl, 45rpm, stereo, speed-corrected, numbered to 25,000, QRP. Grundman metal parts. The current consensus best pressing of *Kind of Blue* in any format.
 
 Fred Kaplan (TrackingAngle.com): 11/11 music and 11/11 sound – "Everything is more present, more brassy, woody, or metallic, depending on the instrument. There's a more palpable sense of a human being blowing through a mouthpiece, plucking a string, coaxing a keyboard, or tapping a snare drum." Mike Hobson (Classic Records founder): "The Analogue Productions UHQR pressing from the same metal parts has taken it up a notch and gotten us even closer to the sound on those 1/2-inch analog session master tapes." **~$150 MSRP; $200–$350 secondary.**
 
-**Analogue Productions AAPJ 8163 2LP (2025)**
+**Analogue Productions AAPJ 8163BLU 2LP (2025)**
 
 [Discogs r35666779](https://www.discogs.com/release/35666779-Miles-Davis-Kind-of-Blue) (black vinyl) | [r35596555](https://www.discogs.com/release/35596555-Miles-Davis-Kind-of-Blue) (blue vinyl, 1,500 copies) | Format: 2×180g, 33⅓ (except Side 4), gatefold tip-on by Stoughton, QRP.
 
@@ -158,7 +158,7 @@ Earlier Japanese audiophile pressing in the SX68 series; matrix SOPL-155A1. Heav
 
 ## Buyer's guide by budget
 
-**Under $60:** The **AP AAPJ 8163 2LP (2025)** at ~$50–$60 new – Grundman lineage, speed-corrected, tip-on gatefold, QRP. The entry point into the authoritative source chain. Add the **Sony 88883761031 mono** at $30–$80 for the other half of the picture.
+**Under $60:** The **AP AAPJ 8163BLU 2LP (2025)** at ~$50–$60 new – Grundman lineage, speed-corrected, tip-on gatefold, QRP. The entry point into the authoritative source chain. Add the **Sony 88883761031 mono** at $30–$80 for the other half of the picture.
 
 **$150–$250:** The **AP UHQR 33rpm** for a step up in pressing luxury from the same source. Ultrasonically clean before first play; Clarity Vinyl surface noise often clears after cleaning.
 
@@ -176,12 +176,12 @@ Earlier Japanese audiophile pressing in the SX68 series; matrix SOPL-155A1. Heav
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | AP UHQR 45rpm 2LP | **UHQR 0004-45** | 2022 | Stereo, 45rpm, 2×200g Clarity | Grundman 1995 metal → QRP | Kaplan 11/11 (TrackingAngle); $200–$350 | [Discogs](https://www.discogs.com/release/24373778-Miles-Davis-Kind-Of-Blue) |
+| **S** | AP UHQR 45rpm 2LP | **AUHQR 0004-45** | 2022 | Stereo, 45rpm, 2×200g Clarity | Grundman 1995 metal → QRP | Kaplan 11/11 (TrackingAngle); $200–$350 | [Discogs](https://www.discogs.com/release/24373778-Miles-Davis-Kind-Of-Blue) |
 | **S** | Sony 180g mono (RSD numbered) | **88883761031** | 2013 | Mono, 33⅓, 180g | 2013 fold-down → Ryan K. Smith, RTI | Definitive modern mono; Fremer: "a necessity"; $30–$80 | [Discogs](https://www.discogs.com/release/5164493-Miles-Davis-Kind-Of-Blue) |
 | **A** | Columbia CS 8163 six-eye stereo | **CS 8163** | 1959 | Stereo, 33⅓ | Fred Plaut / Columbia lacquer, uncorrected | Earliest 1E/1K matrices; $400–$700 NM | [Discogs](https://www.discogs.com/release/1353040-Miles-Davis-Kind-Of-Blue) |
 | **A** | Columbia CL 1355 six-eye mono | **CL 1355** | 1959 | Mono, 33⅓ | Fred Plaut / Columbia lacquer, uncorrected | 1A–1D matrices with Side 2 label error; $250–$600 NM | [Discogs](https://www.discogs.com/release/2252871-Miles-Davis-Kind-Of-Blue) |
-| **A** | AP UHQR 33rpm | **UHQR 0004** | 2021 | Stereo, 33⅓, 200g Clarity | Grundman 1995 metal → QRP | Kaplan 11/11 (Stereophile); Fremer: "clearly and obviously" best; $150–$250 | [Discogs](https://www.discogs.com/release/18884065-Miles-Davis-Kind-Of-Blue) |
-| **A** | AP AAPJ 8163 2LP | **AAPJ 8163** | 2025 | Stereo, 33⅓+45rpm, 2×180g | Grundman 1995 metal → QRP | Best value in Grundman lineage; Smotroff 10/11; ~$50–$60 new | [Discogs](https://www.discogs.com/release/35666779-Miles-Davis-Kind-of-Blue) |
+| **A** | AP UHQR 33rpm | **AUHQR 0004** | 2021 | Stereo, 33⅓, 200g Clarity | Grundman 1995 metal → QRP | Kaplan 11/11 (Stereophile); Fremer: "clearly and obviously" best; $150–$250 | [Discogs](https://www.discogs.com/release/18884065-Miles-Davis-Kind-Of-Blue) |
+| **A** | AP AAPJ 8163BLU 2LP | **AAPJ 8163BLU** | 2025 | Stereo, 33⅓+45rpm, 2×180g | Grundman 1995 metal → QRP | Best value in Grundman lineage; Smotroff 10/11; ~$50–$60 new | [Discogs](https://www.discogs.com/release/35666779-Miles-Davis-Kind-of-Blue) |
 | **B** | Classic Records 4×45rpm box | **CS 8163-45** | 1999 | Stereo, 45rpm, 4×LP single-sided | Grundman 1995 metal, Clarity Vinyl | Kaplan: "very close to Six-Eye"; OOP $500–$1,500 | [Discogs](https://www.discogs.com/release/5189885-Miles-Davis-Kind-Of-Blue) |
 | **B** | Classic Records 180g 33rpm | **CS 8163** 180g | 1995 | Stereo, 33⅓, 2×180g | Grundman 1995 metal | First vinyl speed-corrected release; incl. alternate take at 45rpm; $150–$350 | [Discogs](https://www.discogs.com/release/3841623-Miles-Davis-Kind-Of-Blue) |
 | **B** | MoFi MFSL 2-45011 45rpm 2LP | **MFSL 2-45011** | 2015/2020/2021 | Stereo, 45rpm, 2×180g | Wilder 1997 → DSD-64 → Wunderlich, RTI | DSD step disclosed 2022; $150–$300 | [Discogs](https://www.discogs.com/release/7303082-Miles-Davis-Kind-Of-Blue) |
