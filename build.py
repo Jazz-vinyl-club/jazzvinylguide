@@ -33,7 +33,7 @@ def get_last_updated(content_file):
 def site_header():
     return '''<header class="site-header">
   <div class="site-header__inner">
-    <a class="site-logo" href="/">Jazz <span>Vinyl</span> Guide</a>
+    <a class="site-logo" href="/"><img src="/logo.png" alt="Jazz Vinyl Guide" height="40"></a>
     <nav class="site-nav">
       <a href="/">Albums</a>
       <a href="/about.html">About</a>
