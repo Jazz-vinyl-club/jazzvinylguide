@@ -27,7 +27,7 @@ def site_header():
 
 def site_footer():
     return '''<footer class="site-footer">
-  <p><a href="https://jazzvinylguide.com">jazzvinylguide.com</a> — Collector-grade pressing guides for essential jazz albums. <a href="/contribute.html">Contribute an edit</a>.</p>
+  <p><a href="https://jazzvinylguide.com">jazzvinylguide.com</a> — Collector-grade pressing guides. <a href="/contribute.html">Contribute</a>.</p>
 </footer>'''
 
 def html_shell(title, description, body):
@@ -42,30 +42,50 @@ def html_shell(title, description, body):
 </head>
 <body>
 {site_header()}
-<main>
-{body}
-</main>
+<main>{body}</main>
 {site_footer()}
 <script src="/main.js"></script>
 </body>
 </html>'''
 
-def md_to_html(md_text):
-    lines = md_text.split('\n')
+def _render(text):
+    md = markdown.Markdown(extensions=['tables', 'fenced_code'])
+    return md.convert(text)
+
+def strip_preamble(lines):
     if lines and lines[0].startswith('# '):
         lines = lines[1:]
     if lines and re.match(r'^\*[^*]+\*\s*$', lines[0].strip()):
         lines = lines[1:]
-    text = '\n'.join(lines)
-    md = markdown.Markdown(extensions=['tables', 'fenced_code'])
-    return md.convert(text)
+    return lines
+
+def extract_summary(md_text):
+    lines = strip_preamble(md_text.split('\n'))
+    summary_lines, rest_lines = [], []
+    in_summary = found = False
+    for line in lines:
+        if line.strip() == '## Summary':
+            in_summary = found = True
+            continue
+        if in_summary:
+            if line.startswith('## '):
+                in_summary = False
+                rest_lines.append(line)
+            else:
+                summary_lines.append(line)
+        else:
+            rest_lines.append(line)
+    if not found:
+        return '', _render('\n'.join(lines))
+    return _render('\n'.join(summary_lines).strip()), _render('\n'.join(rest_lines))
 
 def build_index(albums):
     rows = ""
     for a in albums:
-        cover_thumb = f'<img src="/covers/{a["slug"]}.jpg" alt="{a["title"]}" class="album-card__cover">' if os.path.exists(os.path.join(BASE_DIR, 'covers', f'{a["slug"]}.jpg')) else ''
+        cp = os.path.join(BASE_DIR, "covers", f"{a['slug']}.jpg")
+        thumb = f'<img src="/covers/{a["slug"]}.jpg" alt="{a["title"]}" class="album-card__cover">' if os.path.exists(cp) else ''
         rows += f'''    <a class="album-card" href="/albums/{a['slug']}.html">
-      {cover_thumb}
+      {thumb}
       <h2 class="album-card__title">{a['title']}</h2>
       <p class="album-card__artist">{a['artist']}</p>
       <p class="album-card__meta">{a['label']} · {a['year']}</p>
@@ -81,22 +101,17 @@ def build_index(albums):
     out = os.path.join(OUTPUT_DIR, "index.html")
     with open(out, 'w') as f:
         f.write(html_shell("Jazz Vinyl Guide", "Collector-grade vinyl pressing guides for essential jazz albums.", body))
-    print(f"  ✓ index.html")
+    print("  ✓ index.html")
 
 def build_album(album):
-    slug   = album['slug']
-    title  = album['title']
-    artist = album['artist']
-    label  = album['label']
-    year   = album['year']
-
-    content_path = os.path.join(CONTENT_DIR, album['content_file'])
-    if not os.path.exists(content_path):
-        print(f"  ⚠ Missing: {content_path}")
-        return
-    with open(content_path, 'r') as f:
+    slug, title, artist, label, year = album['slug'], album['title'], album['artist'], album['label'], album['year']
+    cp = os.path.join(CONTENT_DIR, album['content_file'])
+    if not os.path.exists(cp):
+        print(f"  ⚠ Missing: {cp}"); return
+    with open(cp, 'r') as f:
         md_text = f.read()
-    content_html = md_to_html(md_text)
+
+    summary_html, content_html = extract_summary(md_text)
 
     cover_path = os.path.join(BASE_DIR, "covers", f"{slug}.jpg")
     if os.path.exists(cover_path):
@@ -106,10 +121,8 @@ def build_album(album):
     </figure>'''
     else:
         cover_html = ''
-        print(f"  ⚠ No cover for {slug}")
 
     github_url = f"{GITHUB_BASE}/{album['content_file']}"
-
     body = f'''<div class="album-page">
   <header class="album-header">
     <div class="album-header__content">
@@ -124,7 +137,7 @@ def build_album(album):
     </div>
 {cover_html}
   </header>
-  <div class="album-summary" id="album-summary"></div>
+  <div class="album-summary" id="album-summary">{summary_html}</div>
   <aside class="album-toc">
     <p class="album-toc__heading">On this page</p>
     <ul class="album-toc__list" id="toc-list"></ul>
@@ -151,15 +164,15 @@ def main():
     if target:
         match = [a for a in albums if a['slug'] == target]
         if not match:
-            print(f"Not found: {target}")
-            sys.exit(1)
+            print(f"Not found: {target}"); sys.exit(1)
+        print(f"Building {target}...")
         build_album(match[0])
         build_index(albums)
     else:
         print("Building all pages...")
         build_index(albums)
-        for album in albums:
-            build_album(album)
+        for a in albums:
+            build_album(a)
     print("\nDone.")
 
 if __name__ == "__main__":

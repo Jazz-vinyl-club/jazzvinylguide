@@ -48,11 +48,10 @@ a:hover { color: var(--paper); }
 .albums-section__heading { display: none; }
 .album-grid { display: grid; grid-template-columns: 1fr; gap: 0; background: var(--border); border: 1px solid var(--border); }
 .album-card { background: var(--black); padding: 1rem 1.75rem; display: flex; align-items: center; gap: 1.5rem; color: var(--paper); transition: background 0.15s; border-bottom: 1px solid var(--border); }
-.album-card:last-child { border-bottom: none; }
 .album-card:hover { background: var(--surface); color: var(--paper); }
 .album-card__label { font-family: var(--mono); font-size: 0.7rem; color: var(--grey); letter-spacing: 0.08em; text-transform: uppercase; white-space: nowrap; min-width: 120px; margin-bottom: 0; }
-.album-card__title { font-family: var(--serif); font-size: 1.05rem; line-height: 1.2; margin: 0; width: 280px; flex-shrink: 0; }
-.album-card__artist { font-size: 0.875rem; color: var(--gold); margin-bottom: 0; flex: 1; text-align: left; white-space: nowrap; }
+.album-card__title { font-family: var(--serif); font-size: 1.2rem; line-height: 1.2; margin-bottom: 0; flex: 1; min-width: 180px; }
+.album-card__artist { font-size: 0.875rem; color: var(--gold); margin-bottom: 0; width: 220px; flex-shrink: 0; text-align: left; }
 .album-card__meta { font-size: 0.8rem; color: var(--grey-light); white-space: nowrap; }
 .album-card__arrow { display: inline-block; margin-top: 0; font-family: var(--mono); font-size: 0.75rem; color: var(--gold-dim); white-space: nowrap; margin-left: auto; }
 .album-card:hover .album-card__arrow { color: var(--gold); }
@@ -60,7 +59,7 @@ a:hover { color: var(--paper); }
 /* Album page */
 .album-page { max-width: var(--max-w); margin: 0 auto; padding: 0 2rem; display: grid; grid-template-columns: var(--sidebar-w) 1fr; column-gap: 3.5rem; }
 .album-header { grid-column: 1 / -1; padding: 3rem 0 2.5rem; border-bottom: 1px solid var(--border); margin-bottom: 3rem; }
-.album-header__back { font-family: var(--mono); font-size: 0.7rem; color: var(--grey); letter-spacing: 0.12em; text-transform: uppercase; display: block; margin-bottom: 0.75rem; grid-column: 1 / -1; }
+.album-header__back { font-family: var(--mono); font-size: 0.7rem; color: var(--grey); letter-spacing: 0.12em; text-transform: uppercase; display: inline-block; margin-bottom: 1.5rem; }
 .album-header__back:hover { color: var(--gold); }
 .album-header__label { font-family: var(--mono); font-size: 0.7rem; color: var(--gold); letter-spacing: 0.18em; text-transform: uppercase; margin-bottom: 0.75rem; }
 .album-header__title { font-family: var(--serif); font-size: clamp(2rem, 5vw, 3.5rem); line-height: 1.1; margin-bottom: 0.5rem; }
@@ -131,7 +130,7 @@ a:hover { color: var(--paper); }
   display: flex;
   align-items: flex-start;
   gap: 2rem;
-  flex-direction: row;
+  justify-content: space-between;
 }
 
 .album-header__content {
@@ -140,9 +139,8 @@ a:hover { color: var(--paper); }
 
 .album-header__cover {
   flex-shrink: 0;
-  text-align: left;
-  order: -1;
-  padding-top: 2.5rem;
+  text-align: right;
+  padding-top: 0;
 }
 
 .album-header__cover img {
@@ -150,6 +148,7 @@ a:hover { color: var(--paper); }
   height: 160px;
   object-fit: cover;
   display: block;
+  margin-left: auto;
   box-shadow: 0 2px 12px rgba(0,0,0,0.12);
 }
 
@@ -158,7 +157,7 @@ a:hover { color: var(--paper); }
   font-size: 0.6rem;
   color: var(--grey);
   margin-top: 0.4rem;
-  text-align: left;
+  text-align: right;
 }
 
 @media (max-width: 768px) {
@@ -181,14 +180,20 @@ a:hover { color: var(--paper); }
 /* ── Album summary section ── */
 .album-summary {
   grid-column: 1 / -1;
-  padding: 1.5rem 0;
+  padding: 1.5rem 0 2rem;
   border-bottom: 1px solid var(--border);
   margin-bottom: 2rem;
   color: var(--paper-dim);
   font-size: 0.9625rem;
   line-height: 1.7;
-  min-height: 0;
 }
+
+.album-summary p { margin-bottom: 0.85rem; color: var(--paper-dim); font-size: 0.9625rem; }
+.album-summary p:last-child { margin-bottom: 0; }
+.album-summary strong { color: var(--paper); font-weight: 600; }
+.album-summary a { color: var(--gold); }
+.album-summary a:hover { color: var(--paper); }
+.album-summary:empty { display: none; }
 
 /* Fix table double bottom border */
 .album-content table tr:last-child td { border-bottom: none; }
@@ -200,13 +205,4 @@ a:hover { color: var(--paper); }
   margin-top: 0 !important;
   padding-top: 0 !important;
   border-top: none !important;
-}
-
-/* Album card cover thumbnail */
-.album-card__cover {
-  width: 44px;
-  height: 44px;
-  object-fit: cover;
-  flex-shrink: 0;
-  display: block;
 }
