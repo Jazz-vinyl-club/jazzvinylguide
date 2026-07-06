@@ -75,11 +75,11 @@ The history of *Birth of the Cool* reissues is largely disappointing. A 2019 rei
 
 ## Buyer's guide by budget
 
-**Under $70:** The **Blue Note Tone Poet 180g mono (2026)** — the only currently recommended modern pressing, and for most listeners the best available version of this music on vinyl.
+**Under $70:** The [**Blue Note Tone Poet 180g mono (2026)**](https://www.discogs.com/release/37415985) — the only currently recommended modern pressing, and for most listeners the best available version of this music on vinyl.
 
-**$80–$250:** A clean **second-press Capitol T-762** ("Long Playing High Fidelity" label) in VG+ condition — the budget audiophile's original.
+**$80–$250:** A clean [**second-press Capitol T-762**](https://www.discogs.com/release/4609609) ("Long Playing High Fidelity" label) in VG+ condition — the budget audiophile's original.
 
-**$200–$600:** A **first-press Capitol T-762** (turquoise, "Long Playing" only) in honest VG+ or better — the collector's grail.
+**$200–$600:** A [**first-press Capitol T-762**](https://www.discogs.com/release/5456857) (turquoise, "Long Playing" only) in honest VG+ or better — the collector's grail.
 
 ---
 
