@@ -82,7 +82,7 @@ Understanding which tape source underlies each reissue is essential to evaluatin
 
 ### Analogue Productions 45rpm 2LP (2011) – the benchmark corrected-channel reissue
 
-**Cat. AP-8545 / B0015625-01** | Barcode: **753088854514** | Format: 2×200g 45rpm, gatefold, numbered limited edition + unnumbered repress. **Mastered by George Marino at Sterling Sound, AAA, from Phil Ramone's original 1963 stereo mixdown master – the true original master tape, unused since 1980.** Pressed at QRP. Matrix: (AVRJ).MG-V6-8545-A/B/C/D Sterling.
+**Cat. AP-8545** | Barcode: **753088854514** | Format: 2×200g 45rpm, gatefold, numbered limited edition + unnumbered repress. **Mastered by George Marino at Sterling Sound, AAA, from Phil Ramone's original 1963 stereo mixdown master – the true original master tape, unused since 1980.** Pressed at QRP. Matrix: (AVRJ).MG-V6-8545-A/B/C/D Sterling.
 
 This is the first and only pressing to use the true original master tape AND to present the correct channel orientation. [Vinyl Gourmet](https://blog.vinylgourmet.com) review: "What we are getting from this reissue is not only a double LP cut at 45rpm but also the fact that this is the very first time we can appreciate this LP with the original Phil Ramone mix-down channel orientation... Never before did Getz/Gilberto reach the market with such careful production and fidelity to the source." SoundStage! Ultra: "Analogue Productions has stripped off the gauze to reveal the original focus and image of this remarkable meeting of musicians. If you love and cherish Getz/Gilberto, but have one of the editions that were made from anything that was not the original master tape, you ain't heard nothin' yet. Scrap those editions." [Fremer (Tracking Angle, 2024)](https://trackingangle.com): "Until this Impex 1Step, my two faves were the original, which in some ways still can't be beat, and the double 45 Analogue Productions edition cut by George Marino."
 
@@ -177,12 +177,12 @@ Three characteristics of the recording define the pressing hierarchy:
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Channels | Notes |
 |---|---|---|---|---|---|---|---|
-| **S** | AP 45rpm 2LP | **AP-8545** / B0015625-01 | 2011 | Stereo, 45rpm, 2×200g | Ramone's 1963 original mixdown → George Marino, AAA, QRP | **Correct (Astrud LEFT)** | Only pressing with true original tape + correct orientation; OOP, $150–$400 | – |
+| **S** | AP 45rpm 2LP | **AP-8545** | 2011 | Stereo, 45rpm, 2×200g | Ramone's 1963 original mixdown → George Marino, AAA, QRP | **Correct (Astrud LEFT)** | Only pressing with true original tape + correct orientation; OOP, $150–$400 | – |
 | **S** | Impex 1Step 45rpm 2LP | **IMP6041-1** | 2024 | Stereo, 45rpm, 2×180g VR900 | "New master" EQ copy → Bernie Grundman, 1Step | **Reversed (Astrud RIGHT)** | Best pressing quality; contested vs AP on balance; $129.99; 7,500 copies | [Discogs](https://www.discogs.com/release/31429743-Stan-Getz-João-Gilberto-Getz-Gilberto) |
 | **A** | Verve Acoustic Sounds Series 33rpm | **B0031690-01** | 2020 | Stereo, 33⅓, 180g | Original analog tapes → Ryan K. Smith at Sterling, AAA, QRP | **Correct (Astrud LEFT)** | Best-value pressing; ~$35 new; still in print | [Discogs](https://www.discogs.com/release/16222993-Stan-Getz-João-Gilberto-Getz-Gilberto) |
 | **A** | US Verve stereo original, deep-groove RE-1 | **V6-8545** | 1964 | Stereo, 33⅓ | 1964 tube lacquer, EQ cutting copy | **Reversed** | Tape-fresh 1964 energy; NM $200–$500 | [Discogs](https://www.discogs.com/master/36108-Stan-Getz-João-Gilberto-Getz-Gilberto) |
 | **B** | US Verve stereo, non-deep-groove RE-1 | V6-8545 | 1964 | Stereo, 33⅓ | 1964 tube lacquer, EQ copy | Reversed | Excellent but slightly later; NM $100–$300 | – |
-| **B** | Mobile Fidelity 200g 33rpm | MFSL 1-xxx | Various | Stereo, 33⅓, 200g | EQ copy derivatives → MoFi mastering | Reversed | Post-MoFi-gate caveat applies; still good; $80–$150 | – |
+| **B** | Mobile Fidelity 200g 33rpm | MFSL 1-208 | Various | Stereo, 33⅓, 200g | EQ copy derivatives → MoFi mastering | Reversed | Post-MoFi-gate caveat applies; still good; $80–$150 | – |
 | **B** | UK Verve stereo | SVLP 9004 | 1964–66 | Stereo, 33⅓ | UK Polydor pressing | Reversed | Good pressing quality; $80–$200 NM | – |
 | **C** | US Verve stereo RE-2 through RE-6 | V6-8545 | 1964–67 | Stereo, 33⅓ | Later lacquers from EQ copy | Reversed | Diminishing returns; still decent; $50–$150 | – |
 | **C** | Japanese Polydor/Universal pressings | MJ-7069, various | 1970s–2000s | Stereo, 33⅓ | Japanese tape copy | Reversed | Quiet vinyl; collectable; $40–$120 with obi | – |
