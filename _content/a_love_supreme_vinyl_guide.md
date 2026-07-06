@@ -179,4 +179,4 @@ Four factors dominate, in descending order. **Tape generation:** the Abbey Road 
 | **D** | MCA split red/black | MCA-5660 | 1986 | Stereo, 33⅓ | Digital (Artisan Sound Recorders) | Perfectly listenable; digital-era cut | [Discogs](https://www.discogs.com/master/32287-John-Coltrane-A-Love-Supreme) |
 | **D** | ABC green bullseye label | A-77 / AS-77 | 1975–79 | Stereo, 33⅓ | Bell Sound-derived | Least interesting variant; thin vinyl | [Discogs](https://www.discogs.com/master/32287-John-Coltrane-A-Love-Supreme) |
 | **F** | Impulse! GR-155 | GR-155 | 2015 | Stereo, 33⅓ | Digital (1995 Labson remaster) | **Documented right-channel ringing flaw on all copies** | [Discogs](https://www.discogs.com/release/4773442-John-Coltrane-A-Love-Supreme) |
-| **F** | EU grey-market pirates | Various | 2010s+ | Various | CD or MP3 rip | DOL, Doxy, Waxtime, Vinyl Passion, Not Now, etc. Not licensed | — |
+| **F** | EU grey-market pirates | Various | 2010s+ | Various | CD or MP3 rip | DOL, Doxy, Waxtime, Vinyl Passion, Not Now, etc. Not licensed | – |
