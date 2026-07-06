@@ -98,8 +98,12 @@ def extract_summary(md_text):
 def build_index(albums):
     rows = ""
     for a in albums:
-        cp = os.path.join(BASE_DIR, "covers", f"{a['slug']}.jpg")
-        thumb = f'<img src="/covers/{a["slug"]}.jpg" alt="{a["title"]}" class="album-card__cover">' if os.path.exists(cp) else ''
+        mbid = a.get('mbid', '')
+        if mbid:
+            thumb = f'<img src="https://coverartarchive.org/release-group/{mbid}/front-250" alt="{a[\"title\"]}" class="album-card__cover" loading="lazy" onerror="this.style.display=\'none\'">' 
+        else:
+            cp = os.path.join(BASE_DIR, "covers", f"{a['slug']}.jpg")
+            thumb = f'<img src="/covers/{a["slug"]}.jpg" alt="{a["title"]}" class="album-card__cover">' if os.path.exists(cp) else ''
         rows += f'''    <a class="album-card" href="/albums/{a['slug']}.html">
       {thumb}
       <h2 class="album-card__title">{a['title']}</h2>
