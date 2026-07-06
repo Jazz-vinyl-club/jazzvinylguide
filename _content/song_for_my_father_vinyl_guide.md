@@ -64,11 +64,11 @@ Labels read "A Division of Liberty Records Inc." Van Gelder stamps remain on man
 
 ## Buyer's guide by budget
 
-**Under $35:** The **Blue Note Classic Vinyl BST 84185** — the only broadly recommended modern option for this title. Kevin Gray mastering, Optimal pressing.
+**Under $35:** The [**Blue Note Classic Vinyl BST 84185**](https://www.discogs.com/release/16953990) — the only broadly recommended modern option for this title. Kevin Gray mastering, Optimal pressing.
 
-**$30–$80:** A **Liberty-era pressing** with Van Gelder stamp for the budget-conscious collector who wants an original-era copy.
+**$30–$80:** A [**Liberty-era pressing**](https://www.discogs.com/master/155008-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) with Van Gelder stamp for the budget-conscious collector who wants an original-era copy.
 
-**$150–$400:** An original **New York USA label pressing** in honest VG+ or better, with Van Gelder stamp and Plastylite ear confirmed.
+**$150–$400:** An original [**New York USA label pressing**](https://www.discogs.com/release/3346498) in honest VG+ or better, with Van Gelder stamp and Plastylite ear confirmed.
 
 ---
 
