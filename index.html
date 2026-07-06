@@ -1,0 +1,31 @@
+---
+layout: default
+title: Jazz Vinyl Guide
+description: Collector-grade vinyl pressing guides for essential jazz albums — recording history, original pressing identification, reissue hierarchies, and buyer's guides.
+---
+
+<section class="hero">
+  <p class="hero__eyebrow">jazzvinylguide.com</p>
+  <h1 class="hero__title">The pressing matters as much as the <em>performance</em></h1>
+  <p class="hero__sub">Collector-grade guides to every significant pressing of essential jazz albums — recording history, original identification, reissue hierarchies, and honest buyer's guides by budget.</p>
+  <div class="hero__rule"></div>
+</section>
+
+<section class="albums-section">
+  <p class="albums-section__heading">Guides — {{ site.albums | size }} albums</p>
+  <div class="album-grid">
+    {% assign sorted_albums = site.albums | sort: 'title' %}
+    {% for album in sorted_albums %}
+    <a class="album-card" href="{{ album.url | relative_url }}">
+      <p class="album-card__label">{{ album.label }} · {{ album.year }}</p>
+      <h2 class="album-card__title">{{ album.title }}</h2>
+      <p class="album-card__artist">{{ album.artist }}</p>
+      <div class="album-card__meta">
+        <span>{{ album.original_cat }}</span>
+        <span>{{ album.recorded }}</span>
+      </div>
+      <span class="album-card__arrow">Read guide →</span>
+    </a>
+    {% endfor %}
+  </div>
+</section>

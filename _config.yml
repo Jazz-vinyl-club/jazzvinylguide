@@ -1,0 +1,30 @@
+title: Jazz Vinyl Guide
+description: Collector-grade vinyl pressing guides for essential jazz albums — recording history, original pressing identification, reissue hierarchies, and buyer's guides.
+url: "https://jazzvinylguide.com"
+baseurl: ""
+
+collections:
+  albums:
+    output: true
+    permalink: /albums/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: albums
+    values:
+      layout: album
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules

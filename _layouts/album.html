@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="album-page">
+
+  <header class="album-header">
+    <a class="album-header__back" href="{{ '/' | relative_url }}">← All Albums</a>
+    <div class="album-header__label">{{ page.label }} · {{ page.year }}</div>
+    <h1 class="album-header__title">{{ page.title }}</h1>
+    <p class="album-header__artist">{{ page.artist }}</p>
+    <div class="album-header__facts">
+      <span>Recorded:</span> {{ page.recorded }} &nbsp;
+      <span>Label:</span> {{ page.original_label }} &nbsp;
+      <span>Cat#:</span> {{ page.original_cat }}
+    </div>
+  </header>
+
+  <aside class="album-toc" aria-label="Table of contents">
+    <p class="album-toc__heading">On this page</p>
+    <ul class="album-toc__list" id="toc-list">
+      <!-- populated by JS -->
+    </ul>
+  </aside>
+
+  <article class="album-content" id="album-content">
+    {{ content }}
+
+    <div class="contribute-banner">
+      <p><strong>Know something we don't?</strong> Spotted an error or have a pressing to add? Every guide is a living document.</p>
+      <a class="btn" href="{{ site.github_edit_url }}/{{ page.path }}">Edit this page on GitHub</a>
+    </div>
+  </article>
+
+</div>
