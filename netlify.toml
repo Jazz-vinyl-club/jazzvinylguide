@@ -1,5 +1,9 @@
 [build]
+  command = "pip install markdown && python3 build.py"
   publish = "."
+
+[build.environment]
+  PYTHON_VERSION = "3.11"
 
 [[headers]]
   for = "/*"
