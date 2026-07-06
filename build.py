@@ -99,13 +99,16 @@ def build_index(albums):
     rows = ""
     for a in albums:
         mbid = a.get('mbid', '')
-        if mbid:
-            title_esc = a['title']
+        cover_url = a.get('cover_url', '')
+        title_esc = a['title']
+        slug_val = a['slug']
+        title_val = a['title']
+        if cover_url:
+            thumb = f'<img src="{cover_url}" alt="{title_esc}" class="album-card__cover" loading="lazy" onerror="this.style.display:none">'
+        elif mbid:
             thumb = f'<img src="https://coverartarchive.org/release-group/{mbid}/front-250" alt="{title_esc}" class="album-card__cover" loading="lazy" onerror="this.style.display:none">'
         else:
             cp = os.path.join(BASE_DIR, "covers", f"{a['slug']}.jpg")
-            slug_val = a['slug']
-            title_val = a['title']
             thumb = f'<img src="/covers/{slug_val}.jpg" alt="{title_val}" class="album-card__cover">' if os.path.exists(cp) else ''
         rows += f'''    <a class="album-card" href="/albums/{a['slug']}.html">
       {thumb}
@@ -137,7 +140,13 @@ def build_album(album):
     summary_html, content_html = extract_summary(md_text)
 
     mbid = album.get('mbid', '')
-    if mbid:
+    cover_url = album.get('cover_url', '')
+    if cover_url:
+        cover_html = f'''    <figure class="album-header__cover">
+      <img src="{cover_url}" alt="{title} album cover" width="160" height="160" loading="lazy" onerror="this.style.display='none'">
+      <figcaption>© respective label — fair use</figcaption>
+    </figure>'''
+    elif mbid:
         cover_html = f'''    <figure class="album-header__cover">
       <img src="https://coverartarchive.org/release-group/{mbid}/front-500" alt="{title} album cover" width="160" height="160" loading="lazy" onerror="this.style.display='none'">
       <figcaption>© respective label — fair use</figcaption>
