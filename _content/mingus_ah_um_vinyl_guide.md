@@ -143,15 +143,15 @@ The practical conclusion: **vintage mono for the 1959 listening experience; mode
 
 ## Buyer's guide by budget
 
-**Under $35:** The **Music on Vinyl MOVLP065** (~$25–35 new) is the answer. Dead-quiet 180g pressing, full unedited tracks, widely available. Its provenance is debated (possible digital cut) but the sonic results have won over most listeners. This is genuinely excellent for the price.
+**Under $35:** The [**Music on Vinyl MOVLP065**](https://www.discogs.com/release/2447595) (~$25–35 new) is the answer. Dead-quiet 180g pressing, full unedited tracks, widely available. Its provenance is debated (possible digital cut) but the sonic results have won over most listeners. This is genuinely excellent for the price.
 
-**$80–$200:** The **Classic Records 180g or 200g** on the used market gives you a confirmed-analog Grundman mastering at 33⅓ in excellent packaging. The 200g Quiex SV-P is particularly prized. Also in this range: a clean **Columbia Six Eye CS 8171 stereo** (non-deep-groove) – edited tracks but with genuine 1959 tube energy that no modern reissue fully matches.
+**$80–$200:** The [**Classic Records 180g or 200g**](https://www.discogs.com/release/1981568) on the used market gives you a confirmed-analog Grundman mastering at 33⅓ in excellent packaging. The 200g Quiex SV-P is particularly prized. Also in this range: a clean [**Columbia Six Eye CS 8171 stereo**](https://www.discogs.com/master/65014-Charles-Mingus-Mingus-Ah-Um) (non-deep-groove) – edited tracks but with genuine 1959 tube energy that no modern reissue fully matches.
 
-**$200–$400:** The **MoFi UD1S 2-010** at current resale prices (~$350–400) delivers the best pressing quality currently available – SuperVinyl, RTI, 45rpm, Wunderlich lacquers. The DSD intermediate proviso applies but the sonic results are not in dispute. Also in this range: a **NM deep-groove Six Eye CS 8171 stereo** (edited but tube-authentic) or a genuine **NM Six Eye mono CL 1370**.
+**$200–$400:** The [**MoFi UD1S 2-010**](https://www.discogs.com/release/14857369) at current resale prices (~$350–400) delivers the best pressing quality currently available – SuperVinyl, RTI, 45rpm, Wunderlich lacquers. The DSD intermediate proviso applies but the sonic results are not in dispute. Also in this range: a [**NM deep-groove Six Eye CS 8171 stereo**](https://www.discogs.com/release/10486052) (edited but tube-authentic) or a genuine [**NM Six Eye mono CL 1370**](https://www.discogs.com/master/65014-Charles-Mingus-Mingus-Ah-Um).
 
-**$300–$600:** The **ORG 130** on the secondary market is the pure AAA benchmark – Grundman, RTI, 45rpm, 2,500 copies. This is what audiophile conviction sounds like. If you find one at $300, buy it.
+**$300–$600:** The [**ORG 130**](https://www.discogs.com/release/4143037) on the secondary market is the pure AAA benchmark – Grundman, RTI, 45rpm, 2,500 copies. This is what audiophile conviction sounds like. If you find one at $300, buy it.
 
-**The one-copy answer:** For most listeners, the **Music on Vinyl MOVLP065** fills 85% of the musical and sonic need at $30. For the dedicated step-up, the **MoFi UD1S** (accepting its provenance) or the **ORG 130** (accepting secondary-market pricing) are the completists' answers. For vintage character and the 1959 studio sound in edited form, a **NM Six Eye stereo CS 8171** with deep groove.
+**The one-copy answer:** For most listeners, the [**Music on Vinyl MOVLP065**](https://www.discogs.com/release/2447595) fills 85% of the musical and sonic need at $30. For the dedicated step-up, the **MoFi UD1S** (accepting its provenance) or the [**ORG 130**](https://www.discogs.com/release/4143037) (accepting secondary-market pricing) are the completists' answers. For vintage character and the 1959 studio sound in edited form, a **NM Six Eye stereo CS 8171** with deep groove.
 
 ---
 
@@ -160,7 +160,7 @@ The practical conclusion: **vintage mono for the 1959 listening experience; mode
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
 | **S** | Original Six Eye stereo, deep groove | **CS 8171** | 1959 | Stereo, 33⅓ | Scully/Westrex lacquer, tube-era Columbia | Edited tracks; deep groove = first press; $300–$600 NM | [Discogs](https://www.discogs.com/release/10486052-Charles-Mingus-Mingus-Ah-Um) |
-| **S** | ORG 45rpm 2LP | **ORG 130** | 2012 | Stereo, 45rpm, 2×180g | Original 3-track mix → Bernie Grundman, AAA, RTI | Full unedited; pure analog; 2,500 copies; OOP $300–$600 | [Discogs](https://www.discogs.com/release/4143037-Charles-Mingus-Mingus-Ah-Um) |
+| **S** | ORG 45rpm 2LP | [**ORG 130**](https://www.discogs.com/release/4143037) | 2012 | Stereo, 45rpm, 2×180g | Original 3-track mix → Bernie Grundman, AAA, RTI | Full unedited; pure analog; 2,500 copies; OOP $300–$600 | [Discogs](https://www.discogs.com/release/4143037-Charles-Mingus-Mingus-Ah-Um) |
 | **A** | MoFi UltraDisc One-Step | **UD1S 2-010** | 2020 | Stereo, 45rpm, 2×180g SuperVinyl | Original tape → DSD 256 → Krieg Wunderlich, RTI | Best pressing quality; DSD proviso; 6,000 copies; $350–$550 | [Discogs](https://www.discogs.com/release/14857369-Charles-Mingus-Mingus-Ah-Um) |
 | **A** | Original Six Eye mono | **CL 1370** | 1959 | Mono, 33⅓ | Scully/Westrex lacquer, tube-era Columbia | Edited tracks; true mono mix; $200–$500 NM | [Discogs](https://www.discogs.com/master/65014-Charles-Mingus-Mingus-Ah-Um) |
 | **B** | Classic Records 200g Quiex SV-P | CS 8171 (Classic) | 2000s | Stereo, 33⅓, 200g | Original tapes → Bernie Grundman, AAA, RTI | Full unedited; excellent; OOP $150–$300 | [Discogs](https://www.discogs.com/release/1981568-Charles-Mingus-Mingus-Ah-Um) |
