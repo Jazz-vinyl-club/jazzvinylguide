@@ -81,7 +81,8 @@ a:hover { color: var(--paper); }
 
 /* TOC */
 .album-toc { position: sticky; top: 1.5rem; align-self: start; padding-bottom: 3rem; max-height: calc(100vh - 3rem); overflow-y: auto; }
-.album-toc__heading { font-family: var(--mono); font-size: 0.65rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--grey); margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+.album-toc__heading { font-family: var(--mono); font-size: 0.65rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--grey); margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); display: block; text-decoration: none; }
+.album-toc__heading:hover { color: var(--gold); }
 .album-toc__list { list-style: none; display: flex; flex-direction: column; gap: 0.1rem; }
 .album-toc__list a { display: block; font-size: 0.8rem; color: var(--grey-light); padding: 0.3rem 0 0.3rem 0.75rem; line-height: 1.4; border-left: 2px solid transparent; transition: all 0.15s; }
 .album-toc__list a:hover, .album-toc__list a.active { color: var(--paper); border-left-color: var(--gold); }
