@@ -1,19 +1,8 @@
 [build]
-  command = "bundle install && bundle exec jekyll build"
-  publish = "_site"
-
-[build.environment]
-  JEKYLL_ENV = "production"
-
-[[redirects]]
-  from = "/admin"
-  to = "/admin/"
-  status = 301
+  publish = "."
 
 [[headers]]
   for = "/*"
   [headers.values]
     X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block"
     X-Content-Type-Options = "nosniff"
-    Referrer-Policy = "strict-origin-when-cross-origin"
