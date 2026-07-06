@@ -97,10 +97,10 @@ A companion **Blue Train: The Complete Masters 2LP stereo** (with seven alternat
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Tone Poet 180g mono | **B0035204-01** | 2022 | Mono, 33⅓, 180g | Orig mono tape → Kevin Gray, AAA, RTI | Definitive reissue; Francis Wolff gatefold; $45–$65 | [Discogs](https://www.discogs.com/release/23760082-John-Coltrane-Blue-Train) |
-| **A** | Original BLP 1577 mono, 47W63rd NY23 no-Inc. | **BLP 1577** | 1957 | Mono, 33⅓ | RVG / Plastylite; native mono | Rarest label state; $400–$1,200 NM | [Discogs](https://www.discogs.com/release/11786823-John-Coltrane-Blue-Train) |
-| **A** | Music Matters SRX 33rpm mono | **MM33 BLP-1577** | c.2012 | Mono, 33⅓, 180g | Orig mono tape → Kevin Gray, AAA, QRP | OOP; $200–$400 secondary | [Discogs](https://www.discogs.com/release/5193282-John-Coltrane-Blue-Train) |
-| **B** | Original BLP 1577 mono, later 47W63rd/43W61st | **BLP 1577** | 1958–62 | Mono, 33⅓ | RVG / Plastylite | Still first-gen metal; $100–$400 by address/condition | [Discogs](https://www.discogs.com/release/8922419-John-Coltrane-Blue-Train) |
-| **B** | Blue Note Classic Vinyl 180g mono | **BLP 1577** | 2020 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Budget entry; $20–$30 | [Discogs](https://www.discogs.com/release/16219695-John-Coltrane-Blue-Train) |
-| **C** | BST 1577 stereo original | **BST 1577** | 1960 | Stereo, 33⅓ | RVG / Plastylite; native stereo | Hard-left horn placement; not preferred for listening | [Discogs](https://www.discogs.com/master/32208-John-Coltrane-Blue-Train) |
+| **S** | Tone Poet 180g mono | B0035204-01 | 2022 | Mono, 33⅓, 180g | Orig mono tape → Kevin Gray, AAA, RTI | Definitive reissue; Francis Wolff gatefold; $45–$65 | [Discogs](https://www.discogs.com/release/23760082-John-Coltrane-Blue-Train) |
+| **A** | Original BLP 1577 mono, 47W63rd NY23 no-Inc. | BLP 1577 | 1957 | Mono, 33⅓ | RVG / Plastylite; native mono | Rarest label state; $400–$1,200 NM | [Discogs](https://www.discogs.com/release/11786823-John-Coltrane-Blue-Train) |
+| **A** | Music Matters SRX 33rpm mono | MM33 BLP-1577 | c.2012 | Mono, 33⅓, 180g | Orig mono tape → Kevin Gray, AAA, QRP | OOP; $200–$400 secondary | [Discogs](https://www.discogs.com/release/5193282-John-Coltrane-Blue-Train) |
+| **B** | Original BLP 1577 mono, later 47W63rd/43W61st | BLP 1577 | 1958–62 | Mono, 33⅓ | RVG / Plastylite | Still first-gen metal; $100–$400 by address/condition | [Discogs](https://www.discogs.com/release/8922419-John-Coltrane-Blue-Train) |
+| **B** | Blue Note Classic Vinyl 180g mono | BLP 1577 | 2020 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Budget entry; $20–$30 | [Discogs](https://www.discogs.com/release/16219695-John-Coltrane-Blue-Train) |
+| **C** | BST 1577 stereo original | BST 1577 | 1960 | Stereo, 33⅓ | RVG / Plastylite; native stereo | Hard-left horn placement; not preferred for listening | [Discogs](https://www.discogs.com/master/32208-John-Coltrane-Blue-Train) |
 | **D** | 1970s–80s general reissues | Various | 1970s–80s | Stereo, 33⅓ | Various | Not recommended | – |
