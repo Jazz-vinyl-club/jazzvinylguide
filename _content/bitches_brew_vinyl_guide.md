@@ -99,15 +99,15 @@ Columbia/Legacy has issued several anniversary editions digitally sourced. The 4
 
 ## Buyer's guide by budget
 
-**Under $40:** A clean early **red/orange Columbia ring label (1970–72)** with low matrix numbers – analogue, period vinyl, close to the two-eye in sound. The most practical original-era option.
+**Under $40:** A clean early [**red/orange Columbia ring label (1970–72)**](https://www.discogs.com/release/11481689) with low matrix numbers – analogue, period vinyl, close to the two-eye in sound. The most practical original-era option.
 
-**$50–$80:** The **MoFi MFSL 2-439** – the modern reference, widely available, broadly praised.
+**$50–$80:** The [**MoFi MFSL 2-439**](https://www.discogs.com/release/5804415) – the modern reference, widely available, broadly praised.
 
-**$80–$150:** A clean **two-eye 360 Sound original** with low matrices and the Sanctuary error. The analog purist's choice.
+**$80–$150:** A clean [**two-eye 360 Sound original**](https://www.discogs.com/release/37006) with low matrices and the Sanctuary error. The analog purist's choice.
 
-**$50–$120:** A **Japanese CBS/Sony 1980s pressing with obi** – often rated above the MoFi by direct comparison; Shizuoka pressing quality is exceptional.
+**$50–$120:** A [**Japanese CBS/Sony 1980s pressing with obi**](https://www.discogs.com/master/8260-Miles-Davis-Bitches-Brew) – often rated above the MoFi by direct comparison; Shizuoka pressing quality is exceptional.
 
-**$125–$150:** The **MoFi UltraDisc One-Step 55th Anniversary** (if available) – lowest noise floor, best pressing quality in the MoFi lineage.
+**$125–$150:** The [**MoFi UltraDisc One-Step 55th Anniversary**](https://www.discogs.com/release/33848460) (if available) – lowest noise floor, best pressing quality in the MoFi lineage.
 
 ---
 
