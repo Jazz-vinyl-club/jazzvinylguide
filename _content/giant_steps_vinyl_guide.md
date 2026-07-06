@@ -10,7 +10,7 @@ The recording sits at the centre of an unresolved collector debate about mono vs
 
 **Best modern pressing for audiophiles:** [Rhino Hi-Fi mono 180g (2026)](https://www.discogs.com/release/36150202-John-Coltrane-Giant-Steps) – Kevin Gray, AAA, Optimal; current mono benchmark.
 
-**Best-value modern:** [Rhino 60th Anniversary 180g stereo (2020)](https://www.discogs.com/release/30051634-John-Coltrane-Giant-Steps) – Ryan K. Smith, widely praised at ~$25–$30.
+**Best-value modern:** [Rhino 60th Anniversary 2LP (2020)](https://www.discogs.com/release/15928051-John-Coltrane-Giant-Steps) – Ryan K. Smith, AAA, 2LP deluxe with alt takes; ~$35–$50.
 
 
 ## Recording history and tape provenance
@@ -85,11 +85,11 @@ One Discogs owner who compared directly with the 2020 Rhino 60th Anniversary ste
 
 ### Kevin Gray / Acoustech 180g 33rpm stereo (c.2005)
 
-**Cat. Rhino R1-71984 / r1151131** | Format: single 180g stereo, Rainbo pressing. Mastered by Kevin Gray at AcousTech Mastering, indicated on the hype sticker. This is the older Kevin Gray stereo cut. LJC notes it shows "evidence that the tape is no longer in good condition" with audible flutter absent on 1970s reissues. One Discogs reviewer found it warm but "lacked some high-end sparkle." One reviewer who owns both this and the AP 75 45rpm: "The copy I settled on before was that Kevin Gray cut at Acoustech which was very warm but lacked some high-end sparkle." The pressing quality (Rainbo) received complaints. **$15–$30 used.**
+**Cat. R1-75203** | Format: single 180g stereo, Rainbo pressing. Mastered by Kevin Gray at AcousTech Mastering, indicated on the hype sticker. This is the older Kevin Gray stereo cut. LJC notes it shows "evidence that the tape is no longer in good condition" with audible flutter absent on 1970s reissues. One Discogs reviewer found it warm but "lacked some high-end sparkle." One reviewer who owns both this and the AP 75 45rpm: "The copy I settled on before was that Kevin Gray cut at Acoustech which was very warm but lacked some high-end sparkle." The pressing quality (Rainbo) received complaints. **$15–$30 used.**
 
 ### Rhino 60th Anniversary 180g 33rpm stereo (2020)
 
-**Cat. R1-1311 / 0603497843091** | Format: single 180g LP, 33⅓, gatefold. **Mastered by Ryan K. Smith at Sterling Sound, AAA, from the original master tape.** Stereo. Comes in a replica sleeve with replica bullseye labels. Includes booklet by Ashley Kahn.
+**Cat. SD 1311** | Format: 2×180g, 33⅓, deluxe gatefold. **Mastered by Ryan K. Smith at Sterling Sound, AAA, from the original master tape.** Stereo. 2LP set – LP1 contains the original album; LP2 contains eight alternate takes. Comes in a replica sleeve with replica bullseye labels on the discs. Includes booklet by Ashley Kahn.
 
 The current stereo benchmark at an accessible price. Discogs: "I spent much of my first listen to this record with my hand over my heart, my head tilted back, my eyes closed, and my jaw dropped... I've certainly never heard it with such clarity and power." Another comparing it to the AP 75 45rpm: "The Rhino Stereo 33 perhaps even is overall preferable... the Rhino has a smidge more punch." The Ryan K. Smith mastering is the same engineer as the AP 75th edition; differences are attributable to the 45rpm speed advantage, not a different source. **~$25–$35 new.**
 
@@ -107,11 +107,11 @@ The current stereo benchmark at an accessible price. Discogs: "I spent much of m
 
 ### Rhino mono 180g (2017)
 
-**Cat. r10456756** | Format: single 180g mono, 33⅓, tip-on jacket. No mastering credit is listed and the deadwax offers no stamp. Despite this, it has accumulated very strong reviews: "Mastering wise this just has more life to the playing than the stereo which is abit softer." "Sounds better than the original mono vinyl pressing." "For Giant Steps in mono this is the new standard from what I've heard." One owner who compared it to a clean orange/purple deep-groove Atlantic mono found "the differences are negligible." A useful, affordable mono option while awaiting a properly credited audiophile mono pressing. **~$15–$25 used.**
+**Cat. 1311** (Rhino mono 2017) | Format: single 180g mono, 33⅓, tip-on jacket. No mastering credit is listed and the deadwax offers no stamp. Despite this, it has accumulated very strong reviews: "Mastering wise this just has more life to the playing than the stereo which is abit softer." "Sounds better than the original mono vinyl pressing." "For Giant Steps in mono this is the new standard from what I've heard." One owner who compared it to a clean orange/purple deep-groove Atlantic mono found "the differences are negligible." A useful, affordable mono option while awaiting a properly credited audiophile mono pressing. **~$15–$25 used.**
 
 ### Rhino Hi-Fi mono 180g (2026)
 
-**Cat. r36150202** | Part of Rhino's "Start Your Ear Off Right" series. Format: single 180g mono, 33⅓. **Mastered by Kevin Gray at Cohearent Audio, AAA from original master tapes. Pressed at Optimal Media.** Heavyweight gatefold jacket with alternate art from the original French pressing. This is the first properly credited, all-analogue mono cut of *Giant Steps*.
+**Cat. RHF 1311** | Part of Rhino's "Start Your Ear Off Right" series. Format: single 180g mono, 33⅓. **Mastered by Kevin Gray at Cohearent Audio, AAA from original master tapes. Pressed at Optimal Media.** Heavyweight gatefold jacket with alternate art from the original French pressing. This is the first properly credited, all-analogue mono cut of *Giant Steps*.
 
 The reception has been divided: most owners praise it highly – "truly remarkable pressing... the drums come through a lot clearer too. Very warm pressing, really sounds like Coltrane and his band are in the room with you." However one owner who also has the 2017 Rhino mono finds the 2026 "a softer listen. Clean, solid and safe. But maybe a bit too safe and soft. The 2017 is abit more fiery." For those who prefer warmth and refinement, this is the current best mono option. For those who want more forward, punchy mono, the 2017 may suit better – an unusual situation. **~$30–$40 new.**
 
@@ -119,7 +119,7 @@ The reception has been divided: most owners praise it highly – "truly remarkab
 
 ## Japanese pressings
 
-The 2018 Warner Music Japan mono reissue (**r12605728**) is the most praised specific Japanese pressing in collector discussions. One owner: "This is, hands down, THE best pressing I have and have ever heard! The sound is spectacular... rich, fat and deep with no noise at all... the sound is much better than my old murky US blue/green stereo issue. Detailed, still natural and 'live' sounding." The master engineer confirmed in an interview that "I did not use any digital equipment at all." This is a highly recommended pressing for those who can find it. **$60–$120 with obi.**
+The 2018 Warner Music Japan mono reissue (**WPJR-10029**) is the most praised specific Japanese pressing in collector discussions. One owner: "This is, hands down, THE best pressing I have and have ever heard! The sound is spectacular... rich, fat and deep with no noise at all... the sound is much better than my old murky US blue/green stereo issue. Detailed, still natural and 'live' sounding." The master engineer confirmed in an interview that "I did not use any digital equipment at all." This is a highly recommended pressing for those who can find it. **$60–$120 with obi.**
 
 Toshiba-EMI pressed Atlantic Coltrane titles throughout the 1970s–80s and these are consistently praised for dead-quiet vinyl. The early 1970s black label Toshiba copies are the ones to seek; later Warner-Pioneer issues are also good. **$40–$80 with obi.**
 
@@ -151,17 +151,17 @@ Toshiba-EMI pressed Atlantic Coltrane titles throughout the 1970s–80s and thes
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Rhino Hi-Fi mono 180g | r36150202 | 2026 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, AAA, Optimal | First properly credited AAA mono; warm character; ~$30–$40 | [Discogs](https://www.discogs.com/release/36150202-John-Coltrane-Giant-Steps) |
-| **S** | AP Atlantic 75 45rpm 2LP | **AAPA 010-45** | 2024 | Stereo, 45rpm, 2×180g | Orig tape → Ryan K. Smith, AAA, QRP | Best stereo; hard-panning inherent to mix; ~$50–$80 | [Discogs](https://www.discogs.com/release/30051634-John-Coltrane-Giant-Steps) |
-| **A** | Original mono black label | **1311** | 1960 | Mono, 33⅓, deep groove | Tom Dowd / Atlantic lacquer | Preferred format; Coltrane centred; $400–$800 NM | [Discogs](https://www.discogs.com/release/2155244-John-Coltrane-Giant-Steps) |
-| **A** | 2018 Warner Music Japan mono | r12605728 | 2018 | Mono, 33⅓ | All-analogue Japanese cut | Engineer confirmed no digital; "best pressing I've heard"; $60–$120 | [Discogs](https://www.discogs.com/release/12605728-John-Coltrane-Giant-Steps) |
-| **A** | Rhino 60th Anniversary 180g | R1-1311 | 2020 | Stereo, 33⅓, 180g | Orig tape → Ryan K. Smith, AAA | Same engineer as AP; strong reviews; ~$25–$35 | [Discogs](https://www.discogs.com/release/30051634-John-Coltrane-Giant-Steps) |
-| **B** | Original stereo bullseye | **SD 1311** | 1960 | Stereo, 33⅓, deep groove | Tom Dowd / Atlantic lacquer | Blue/green bullseye; hard-panned stereo; $200–$500 NM | [Discogs](https://www.discogs.com/release/2011442-John-Coltrane-Giant-Steps) |
-| **B** | AP Atlantic 75 33rpm 180g | **AAPA 010** | 2024 | Stereo, 33⅓, 180g | Orig tape → Ryan K. Smith, AAA, QRP | Same mastering as 45rpm; more affordable; ~$30–$40 | [Discogs](https://www.discogs.com/master/32236-John-Coltrane-Giant-Steps) |
-| **B** | Rhino mono 180g | r10456756 | 2017 | Mono, 33⅓, 180g | Unlisted mastering | No credit; still very well reviewed; fiery character; ~$15–$25 | [Discogs](https://www.discogs.com/release/10456756-John-Coltrane-Giant-Steps) |
-| **B** | 1960s plum/orange Atlantic | SD 1311/1311 | 1962–68 | Stereo or mono, 33⅓ | Period Atlantic lacquer | "AT/GP" variants particularly good; $20–$60 | [Discogs](https://www.discogs.com/master/32236-John-Coltrane-Giant-Steps) |
+| **S** | Rhino Hi-Fi mono 180g | RHF 1311 | 2026 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, AAA, Optimal | First properly credited AAA mono; warm character; ~$30–$40 | [Discogs](https://www.discogs.com/release/36150202-John-Coltrane-Giant-Steps) |
+| **S** | AP Atlantic 75 45rpm 2LP | AAPA 010-45 | 2024 | Stereo, 45rpm, 2×180g | Orig tape → Ryan K. Smith, AAA, QRP | Best stereo; hard-panning inherent to mix; ~$50–$80 | [Discogs](https://www.discogs.com/release/30051634-John-Coltrane-Giant-Steps) |
+| **A** | Original mono black label | 1311 | 1960 | Mono, 33⅓, deep groove | Tom Dowd / Atlantic lacquer | Preferred format; Coltrane centred; $400–$800 NM | [Discogs](https://www.discogs.com/release/2155244-John-Coltrane-Giant-Steps) |
+| **A** | 2018 Warner Music Japan mono | WPJR-10029 | 2018 | Mono, 33⅓ | All-analogue Japanese cut | Engineer confirmed no digital; "best pressing I've heard"; $60–$120 | [Discogs](https://www.discogs.com/release/12605728-John-Coltrane-Giant-Steps) |
+| **A** | Rhino 60th Anniversary 2LP | SD 1311 | 2020 | Stereo, 33⅓, 2×180g | Orig tape → Ryan K. Smith, AAA | 2LP deluxe with 8 alt takes; strong reviews; ~$35–$50 | [Discogs](https://www.discogs.com/release/15928051-John-Coltrane-Giant-Steps) |
+| **B** | Original stereo bullseye | SD 1311 | 1960 | Stereo, 33⅓, deep groove | Tom Dowd / Atlantic lacquer | Blue/green bullseye; hard-panned stereo; $200–$500 NM | [Discogs](https://www.discogs.com/release/2011442-John-Coltrane-Giant-Steps) |
+| **B** | AP Atlantic 75 33rpm 180g | AAPA 010 | 2024 | Stereo, 33⅓, 180g | Orig tape → Ryan K. Smith, AAA, QRP | Same mastering as 45rpm; more affordable; ~$30–$40 | [Discogs](https://www.discogs.com/master/32236-John-Coltrane-Giant-Steps) |
+| **B** | Rhino mono 180g | 1311 | 2017 | Mono, 33⅓, 180g | Unlisted mastering | No credit; well reviewed; fiery character; ~$15–$25 | [Discogs](https://www.discogs.com/release/10456756-John-Coltrane-Giant-Steps) |
+| **B** | 1960s plum/orange Atlantic | SD 1311 / 1311 | 1962–68 | Stereo or mono, 33⅓ | Period Atlantic lacquer | "AT/GP" deadwax variants particularly good; $20–$60 | [Discogs](https://www.discogs.com/master/32236-John-Coltrane-Giant-Steps) |
 | **B** | Japanese Toshiba-EMI | Various | 1970s–80s | Stereo or mono, 33⅓ | Japanese tape copy | Dead-quiet vinyl; $40–$80 with obi | [Discogs](https://www.discogs.com/master/32236-John-Coltrane-Giant-Steps) |
-| **C** | Heavyweight Champion 12LP box | **R1 71984** | 1995/2000 | Stereo, 33⅓, 150g | Gene Paul / Rhino, AAA | Full Atlantic Coltrane context; $200–$400 box | [Discogs](https://www.discogs.com/release/3415863-John-Coltrane-The-Heavyweight-Champion-The-Complete-Atlantic-Recordings) |
+| **C** | Heavyweight Champion 12LP box | R1 71984 | 1995/2000 | Stereo, 33⅓, 150g | Gene Paul / Rhino, AAA | Full Atlantic Coltrane context; $200–$400 box | [Discogs](https://www.discogs.com/release/3415863-John-Coltrane-The-Heavyweight-Champion-The-Complete-Atlantic-Recordings) |
 | **C** | 1970s red/green Warner Atlantic | SD 1311 | 1970s | Stereo, 33⅓ | Later Atlantic/Warner lacquer | AT/GP variants good; others avoid | [Discogs](https://www.discogs.com/master/32236-John-Coltrane-Giant-Steps) |
-| **D** | Kevin Gray/Acoustech 180g | r1151131 | c.2005 | Stereo, 33⅓, 180g | Kevin Gray, Acoustech/Rainbo | Tape deterioration audible; variable pressing; $15–$30 | [Discogs](https://www.discogs.com/release/1151131-John-Coltrane-Giant-Steps) |
+| **D** | Kevin Gray/Acoustech 180g | R1-75203 | c.2003 | Stereo, 33⅓, 180g | Kevin Gray, AcousTech/RTI | Tape deterioration audible; variable pressing; $15–$30 | [Discogs](https://www.discogs.com/release/1151131-John-Coltrane-Giant-Steps) |
 | **F** | EU grey-market (DOL etc.) | Various | 2000s+ | Various | Unlicensed, unverified source | Avoid | – |
