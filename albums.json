@@ -89,5 +89,18 @@
     "description": "Pressing guide for Moanin' \u2014 Blue Note original identification, the A vs A-1 matrix debate, and every pressing from original Van Gelder to Music Matters SRX.",
     "content_file": "moanin_vinyl_guide.md",
     "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Art_Blakey_Moanin.jpg/300px-Art_Blakey_Moanin.jpg"
+  },
+  {
+    "slug": "time-out",
+    "title": "Time Out",
+    "artist": "The Dave Brubeck Quartet",
+    "label": "Columbia",
+    "year": "1959",
+    "recorded": "June 25, July 1 & August 18, 1959",
+    "original_cat": "CL 1397 / CS 8192",
+    "wikipedia": "Time_Out_(album)",
+    "cover_url": "",
+    "description": "Collector-grade vinyl pressing guide for The Dave Brubeck Quartet's Time Out \u2014 Columbia Six Eye identification, Classic Records and Analogue Productions reissue hierarchy, and buyer's guide.",
+    "content_file": "time_out_vinyl_guide.md"
   }
 ]
