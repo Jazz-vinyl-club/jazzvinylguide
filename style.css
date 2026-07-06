@@ -51,7 +51,7 @@ a:hover { color: var(--paper); }
 .album-card:hover { background: var(--surface); color: var(--paper); }
 .album-card__label { font-family: var(--mono); font-size: 0.7rem; color: var(--grey); letter-spacing: 0.08em; text-transform: uppercase; white-space: nowrap; min-width: 120px; margin-bottom: 0; }
 .album-card__title { font-family: var(--serif); font-size: 1.2rem; line-height: 1.2; margin-bottom: 0; flex: 1; min-width: 180px; }
-.album-card__artist { font-size: 0.875rem; color: var(--gold); margin-bottom: 0; flex: 1; min-width: 160px; }
+.album-card__artist { font-size: 0.875rem; color: var(--gold); margin-bottom: 0; width: 220px; flex-shrink: 0; text-align: left; }
 .album-card__meta { font-size: 0.8rem; color: var(--grey-light); white-space: nowrap; }
 .album-card__arrow { display: inline-block; margin-top: 0; font-family: var(--mono); font-size: 0.75rem; color: var(--gold-dim); white-space: nowrap; margin-left: auto; }
 .album-card:hover .album-card__arrow { color: var(--gold); }
@@ -68,7 +68,7 @@ a:hover { color: var(--paper); }
 .album-header__facts span { color: var(--paper-dim); }
 
 /* TOC */
-.album-toc { position: sticky; top: 1.5rem; align-self: start; padding-bottom: 3rem; }
+.album-toc { position: sticky; top: 1.5rem; align-self: start; padding-bottom: 3rem; max-height: calc(100vh - 3rem); overflow-y: auto; }
 .album-toc__heading { font-family: var(--mono); font-size: 0.65rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--grey); margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
 .album-toc__list { list-style: none; display: flex; flex-direction: column; gap: 0.1rem; }
 .album-toc__list a { display: block; font-size: 0.8rem; color: var(--grey-light); padding: 0.3rem 0 0.3rem 0.75rem; line-height: 1.4; border-left: 2px solid transparent; transition: all 0.15s; }
@@ -78,6 +78,7 @@ a:hover { color: var(--paper); }
 .album-content { min-width: 0; padding-bottom: 5rem; }
 .album-content h2 { font-family: var(--serif); font-size: 1.6rem; color: var(--paper); margin: 2.5rem 0 1rem; padding-top: 2.5rem; border-top: 1px solid var(--border); line-height: 1.2; }
 .album-content h2:first-child { margin-top: 0; padding-top: 0; border-top: none; }
+.album-content > h2:first-of-type { margin-top: 0; padding-top: 0; border-top: none; }
 .album-content h3 { font-family: var(--serif); font-size: 1.15rem; font-style: italic; color: var(--gold); margin: 2rem 0 0.75rem; }
 .album-content p { margin-bottom: 1.1rem; color: var(--paper-dim); font-size: 0.9625rem; }
 .album-content strong { color: var(--paper); font-weight: 600; }
@@ -88,7 +89,9 @@ a:hover { color: var(--paper); }
 .album-content blockquote { border-left: 2px solid var(--gold-dim); margin: 1.5rem 0; padding: 0.75rem 1.25rem; background: var(--surface); font-style: italic; font-size: 0.9rem; color: var(--paper-dim); }
 
 /* Tables */
-.album-content table { width: 100%; border-collapse: collapse; font-size: 0.875rem; margin: 1.25rem 0 1.75rem; overflow-x: auto; display: block; }
+.album-content table { width: 100%; border-collapse: collapse; font-size: 0.875rem; margin: 1.25rem 0 1.75rem; }
+.album-content .table-wrap { overflow-x: auto; display: block; border: 1px solid var(--border); margin: 1.25rem 0 1.75rem; }
+.album-content .table-wrap table { margin: 0; border: none; }
 .album-content table th { font-family: var(--mono); font-size: 0.65rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--grey); padding: 0.6rem 0.875rem; text-align: left; border-bottom: 1px solid var(--border); background: var(--surface-2); white-space: nowrap; }
 .album-content table td { padding: 0.6rem 0.875rem; border-bottom: 1px solid var(--border); color: var(--paper-dim); vertical-align: top; }
 .album-content table tr:last-child td { border-bottom: none; }
@@ -137,7 +140,7 @@ a:hover { color: var(--paper); }
 .album-header__cover {
   flex-shrink: 0;
   text-align: right;
-  padding-top: 0.25rem;
+  padding-top: 0;
 }
 
 .album-header__cover img {
@@ -145,6 +148,7 @@ a:hover { color: var(--paper); }
   height: 160px;
   object-fit: cover;
   display: block;
+  margin-left: auto;
   box-shadow: 0 2px 12px rgba(0,0,0,0.12);
 }
 
@@ -171,4 +175,28 @@ a:hover { color: var(--paper); }
     width: 140px;
     height: 140px;
   }
+}
+
+/* ── Album summary section ── */
+.album-summary {
+  grid-column: 1 / -1;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 2rem;
+  color: var(--paper-dim);
+  font-size: 0.9625rem;
+  line-height: 1.7;
+  min-height: 0;
+}
+
+/* Fix table double bottom border */
+.album-content table tr:last-child td { border-bottom: none; }
+.album-content table { border-bottom: none; }
+
+/* Fix first h2 — no top border or padding ever */
+.album-content h2:first-child,
+.album-content > h2:first-of-type {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  border-top: none !important;
 }
