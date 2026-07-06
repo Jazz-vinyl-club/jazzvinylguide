@@ -88,9 +88,9 @@ Later mono pressings show the "New York USA" address adopted in 1963. These are 
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | MoFi UltraDisc One-Step 45rpm | **UD1S 2-022** | 2019 | Mono, 45rpm, 2×180g | One-step from orig mono tape, QRP | 5,000 numbered; OOP; $300–$500 secondary | [Discogs](https://www.discogs.com/release/13949563-Cannonball-Adderley-Somethin-Else) |
-| **A** | Original BLP 1595 mono, 47 W 63rd no-Inc. | **BLP 1595** | 1958 | Mono, 33⅓ | RVG etched / Plastylite P | First pressing; $400–$900 NM | [Discogs](https://www.discogs.com/release/982633-Cannonball-Adderley-Somethin-Else) |
-| **A** | AP 45rpm 2LP | **AP-81595** | c.2003 | Mono, 45rpm, 2×180g | Orig mono tape → Kevin Gray, AAA, QRP | Excellent; $80–$150 secondary | [Discogs](https://www.discogs.com/release/2552019-Cannonball-Adderley-Somethin-Else) |
-| **B** | Blue Note Classic Vinyl 180g mono | **771706** | 2020 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Budget entry point; $20–$30 | [Discogs](https://www.discogs.com/release/16941781-Cannonball-Adderley-Somethin-Else) |
-| **C** | NY USA label mono reissue | **BLP 1595** | 1963–67 | Mono, 33⅓ | RVG metal (if stamped) | Later pressing; decent budget option | [Discogs](https://www.discogs.com/master/37768-Cannonball-Adderley-Somethin-Else) |
-| **D** | BST 81595 rechanneled stereo | **BST 81595** | 1960s+ | Fake stereo | Rechanneled from mono | Artificial separation; not recommended | – |
+| **S** | MoFi UltraDisc One-Step 45rpm | UD1S 2-022 | 2019 | Mono, 45rpm, 2×180g | One-step from orig mono tape, QRP | 5,000 numbered; OOP; $300–$500 secondary | [Discogs](https://www.discogs.com/release/13949563-Cannonball-Adderley-Somethin-Else) |
+| **A** | Original BLP 1595 mono, 47 W 63rd no-Inc. | BLP 1595 | 1958 | Mono, 33⅓ | RVG etched / Plastylite P | First pressing; $400–$900 NM | [Discogs](https://www.discogs.com/release/982633-Cannonball-Adderley-Somethin-Else) |
+| **A** | AP 45rpm 2LP | AP-81595 | c.2003 | Mono, 45rpm, 2×180g | Orig mono tape → Kevin Gray, AAA, QRP | Excellent; $80–$150 secondary | [Discogs](https://www.discogs.com/release/2552019-Cannonball-Adderley-Somethin-Else) |
+| **B** | Blue Note Classic Vinyl 180g mono | 771706 | 2020 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Budget entry point; $20–$30 | [Discogs](https://www.discogs.com/release/16941781-Cannonball-Adderley-Somethin-Else) |
+| **C** | NY USA label mono reissue | BLP 1595 | 1963–67 | Mono, 33⅓ | RVG metal (if stamped) | Later pressing; decent budget option | [Discogs](https://www.discogs.com/master/37768-Cannonball-Adderley-Somethin-Else) |
+| **D** | BST 81595 rechanneled stereo | BST 81595 | 1960s+ | Fake stereo | Rechanneled from mono | Artificial separation; not recommended | – |
