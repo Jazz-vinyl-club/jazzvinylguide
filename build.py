@@ -63,7 +63,9 @@ def md_to_html(md_text):
 def build_index(albums):
     rows = ""
     for a in albums:
+        cover_thumb = f'<img src="/covers/{a["slug"]}.jpg" alt="{a["title"]}" class="album-card__cover">' if os.path.exists(os.path.join(BASE_DIR, 'covers', f'{a["slug"]}.jpg')) else ''
         rows += f'''    <a class="album-card" href="/albums/{a['slug']}.html">
+      {cover_thumb}
       <h2 class="album-card__title">{a['title']}</h2>
       <p class="album-card__artist">{a['artist']}</p>
       <p class="album-card__meta">{a['label']} · {a['year']}</p>
