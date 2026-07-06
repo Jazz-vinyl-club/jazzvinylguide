@@ -110,5 +110,19 @@
     "description": "Collector-grade vinyl pressing guide for The Dave Brubeck Quartet's Time Out \u2014 Columbia Six Eye identification, Classic Records and Analogue Productions reissue hierarchy, and buyer's guide.",
     "content_file": "time_out_vinyl_guide.md",
     "mbid": "035a7881-3e2c-39d2-b110-fe26a4de94e5"
+  },
+  {
+    "slug": "shape-of-jazz-to-come",
+    "title": "The Shape of Jazz to Come",
+    "artist": "Ornette Coleman",
+    "label": "Atlantic",
+    "year": "1959",
+    "recorded": "May 22, 1959",
+    "original_cat": "1317 / SD 1317",
+    "wikipedia": "The_Shape_of_Jazz_to_Come",
+    "cover_url": "",
+    "mbid": "5879cfca-e1d0-3ef4-8014-3b284832ed18",
+    "description": "Collector-grade vinyl pressing guide for Ornette Coleman's The Shape of Jazz to Come \u2014 Atlantic bullseye label identification, ORG, Speakers Corner and VMP reissue hierarchy, and buyer's guide.",
+    "content_file": "shape_of_jazz_to_come_vinyl_guide.md"
   }
 ]
