@@ -142,12 +142,12 @@ a:hover { color: var(--paper); }
   flex-shrink: 0;
   text-align: left;
   order: -1;
-  padding-top: 2.25rem;
+  padding-top: 3rem;
 }
 
 .album-header__cover img {
-  width: 120px;
-  height: 120px;
+  width: 160px;
+  height: 160px;
   object-fit: cover;
   display: block;
   box-shadow: 0 2px 12px rgba(0,0,0,0.12);
