@@ -193,6 +193,7 @@ a:hover { color: var(--paper); }
   grid-column: 1 / -1;
   padding: 0 0 2rem;
   margin-top: -1rem;
+  max-width: 680px;
   border-bottom: 1px solid var(--border);
   margin-bottom: 2rem;
   color: var(--paper-dim);
