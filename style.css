@@ -87,7 +87,7 @@ a:hover { color: var(--paper); }
 .album-toc__list a:hover, .album-toc__list a.active { color: var(--paper); border-left-color: var(--gold); }
 
 /* Content */
-.album-content { min-width: 0; padding-bottom: 5rem; max-width: 680px; }
+.album-content { min-width: 0; padding-bottom: 5rem; max-width: 680px; overflow: visible; }
 .album-content h2 { font-family: var(--serif); font-size: 1.6rem; color: var(--paper); margin: 2.5rem 0 1rem; padding-top: 2.5rem; border-top: 1px solid var(--border); line-height: 1.2; }
 .album-content h2:first-child, .album-content > h2:first-of-type { margin-top: 0 !important; padding-top: 0 !important; border-top: none !important; }
 .album-content h3 { font-family: var(--serif); font-size: 1.15rem; font-style: italic; color: var(--gold); margin: 2rem 0 0.75rem; }
@@ -100,8 +100,8 @@ a:hover { color: var(--paper); }
 .album-content blockquote { border-left: 2px solid var(--gold-dim); margin: 1.5rem 0; padding: 0.75rem 1.25rem; background: var(--surface); font-style: italic; font-size: 0.9rem; color: var(--paper-dim); }
 
 /* Tables — scroll wrapper lets table exceed the 680px prose column */
-.album-content .table-wrap { overflow-x: auto; margin: 1.25rem 0 1.75rem; -webkit-overflow-scrolling: touch; }
-.album-content table { width: 100%; min-width: 820px; border-collapse: collapse; font-size: 0.8125rem; border-bottom: none; table-layout: fixed; }
+.album-content .table-wrap { overflow-x: auto; margin: 1.25rem 0 1.75rem; -webkit-overflow-scrolling: touch; width: min(100vw - 4rem, calc(var(--max-w) - var(--sidebar-w) - 3.5rem - 4rem)); max-width: none; }
+.album-content table { width: 100%; border-collapse: collapse; font-size: 0.8125rem; border-bottom: none; table-layout: fixed; }
 .album-content table th { font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--grey); padding: 0.55rem 0.75rem; text-align: left; border-bottom: 1px solid var(--border); background: var(--surface-2); white-space: nowrap; overflow: hidden; }
 .album-content table td { padding: 0.55rem 0.75rem; border-bottom: 1px solid var(--border); color: var(--paper-dim); vertical-align: top; overflow-wrap: break-word; word-break: break-word; }
 .album-content table tr:last-child td { border-bottom: none; }
