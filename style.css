@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --black:      #111111;
+  --surface:    #1a1a1a;
+  --surface-2:  #222222;
+  --border:     #2e2e2e;
+  --gold:       #C9A84C;
+  --gold-dim:   #8a7035;
+  --red:        #8B1A1A;
+  --paper:      #F0EBE0;
+  --paper-dim:  #b8b0a0;
+  --grey:       #666666;
+  --grey-light: #888888;
+  --serif:  'DM Serif Display', Georgia, serif;
+  --sans:   'Inter', system-ui, sans-serif;
+  --mono:   'DM Mono', 'Courier New', monospace;
+  --max-w:  1160px;
+  --sidebar-w: 220px;
+}
+
+html { font-size: 16px; scroll-behavior: smooth; }
+body { background: var(--black); color: var(--paper); font-family: var(--sans); line-height: 1.7; -webkit-font-smoothing: antialiased; }
+a { color: var(--gold); text-decoration: none; transition: color 0.15s; }
+a:hover { color: var(--paper); }
+
+/* Header */
+.site-header { border-bottom: 1px solid var(--border); padding: 0 2rem; }
+.site-header__inner { max-width: var(--max-w); margin: 0 auto; display: flex; align-items: center; justify-content: space-between; height: 60px; }
+.site-logo { font-family: var(--serif); font-size: 1.15rem; color: var(--paper); }
+.site-logo span { color: var(--gold); }
+.site-nav { display: flex; gap: 1.75rem; }
+.site-nav a { font-size: 0.8125rem; font-weight: 500; color: var(--grey-light); letter-spacing: 0.06em; text-transform: uppercase; }
+.site-nav a:hover { color: var(--paper); }
+
+/* Hero */
+.hero { border-bottom: 1px solid var(--border); padding: 5rem 2rem 4rem; text-align: center; }
+.hero__eyebrow { font-family: var(--mono); font-size: 0.75rem; color: var(--gold); letter-spacing: 0.18em; text-transform: uppercase; margin-bottom: 1.25rem; }
+.hero__title { font-family: var(--serif); font-size: clamp(2.5rem, 6vw, 4.5rem); line-height: 1.1; color: var(--paper); max-width: 800px; margin: 0 auto 1.5rem; }
+.hero__title em { font-style: italic; color: var(--gold); }
+.hero__sub { font-size: 1.05rem; color: var(--paper-dim); max-width: 560px; margin: 0 auto 2.5rem; }
+.hero__rule { width: 48px; height: 1px; background: var(--gold-dim); margin: 0 auto; }
+
+/* Album grid */
+.albums-section { max-width: var(--max-w); margin: 0 auto; padding: 3.5rem 2rem; }
+.albums-section__heading { font-family: var(--mono); font-size: 0.7rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--grey); margin-bottom: 2rem; padding-bottom: 0.75rem; border-bottom: 1px solid var(--border); }
+.album-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1px; background: var(--border); border: 1px solid var(--border); }
+.album-card { background: var(--black); padding: 1.75rem; display: block; color: var(--paper); transition: background 0.15s; }
+.album-card:hover { background: var(--surface); color: var(--paper); }
+.album-card__label { font-family: var(--mono); font-size: 0.7rem; color: var(--grey); letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 0.5rem; }
+.album-card__title { font-family: var(--serif); font-size: 1.4rem; line-height: 1.2; margin-bottom: 0.35rem; }
+.album-card__artist { font-size: 0.875rem; color: var(--gold); margin-bottom: 1rem; }
+.album-card__meta { font-size: 0.8rem; color: var(--grey-light); }
+.album-card__arrow { display: inline-block; margin-top: 1.25rem; font-family: var(--mono); font-size: 0.75rem; color: var(--gold-dim); }
+.album-card:hover .album-card__arrow { color: var(--gold); }
+
+/* Album page */
+.album-page { max-width: var(--max-w); margin: 0 auto; padding: 0 2rem; display: grid; grid-template-columns: var(--sidebar-w) 1fr; column-gap: 3.5rem; }
+.album-header { grid-column: 1 / -1; padding: 3rem 0 2.5rem; border-bottom: 1px solid var(--border); margin-bottom: 3rem; }
+.album-header__back { font-family: var(--mono); font-size: 0.7rem; color: var(--grey); letter-spacing: 0.12em; text-transform: uppercase; display: inline-block; margin-bottom: 1.5rem; }
+.album-header__back:hover { color: var(--gold); }
+.album-header__label { font-family: var(--mono); font-size: 0.7rem; color: var(--gold); letter-spacing: 0.18em; text-transform: uppercase; margin-bottom: 0.75rem; }
+.album-header__title { font-family: var(--serif); font-size: clamp(2rem, 5vw, 3.5rem); line-height: 1.1; margin-bottom: 0.5rem; }
+.album-header__artist { font-size: 1.1rem; color: var(--paper-dim); margin-bottom: 1.5rem; }
+.album-header__facts { display: flex; flex-wrap: wrap; gap: 0.5rem 1.5rem; font-family: var(--mono); font-size: 0.75rem; color: var(--grey-light); }
+.album-header__facts span { color: var(--paper-dim); }
+
+/* TOC */
+.album-toc { position: sticky; top: 1.5rem; align-self: start; padding-bottom: 3rem; }
+.album-toc__heading { font-family: var(--mono); font-size: 0.65rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--grey); margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+.album-toc__list { list-style: none; display: flex; flex-direction: column; gap: 0.1rem; }
+.album-toc__list a { display: block; font-size: 0.8rem; color: var(--grey-light); padding: 0.3rem 0 0.3rem 0.75rem; line-height: 1.4; border-left: 2px solid transparent; transition: all 0.15s; }
+.album-toc__list a:hover, .album-toc__list a.active { color: var(--paper); border-left-color: var(--gold); }
+
+/* Content */
+.album-content { min-width: 0; padding-bottom: 5rem; }
+.album-content h2 { font-family: var(--serif); font-size: 1.6rem; color: var(--paper); margin: 3rem 0 1rem; padding-top: 3rem; border-top: 1px solid var(--border); line-height: 1.2; }
+.album-content h2:first-child { margin-top: 0; padding-top: 0; border-top: none; }
+.album-content h3 { font-family: var(--serif); font-size: 1.15rem; font-style: italic; color: var(--gold); margin: 2rem 0 0.75rem; }
+.album-content p { margin-bottom: 1.1rem; color: var(--paper-dim); font-size: 0.9625rem; }
+.album-content strong { color: var(--paper); font-weight: 600; }
+.album-content ul, .album-content ol { margin: 0.75rem 0 1.1rem 1.25rem; color: var(--paper-dim); font-size: 0.9625rem; }
+.album-content li { margin-bottom: 0.35rem; }
+.album-content code { font-family: var(--mono); font-size: 0.85em; color: var(--gold); background: var(--surface-2); padding: 0.1em 0.4em; border-radius: 3px; }
+.album-content blockquote { border-left: 2px solid var(--gold-dim); margin: 1.5rem 0; padding: 0.75rem 1.25rem; background: var(--surface); font-style: italic; font-size: 0.9rem; color: var(--paper-dim); }
+
+/* Tables */
+.album-content table { width: 100%; border-collapse: collapse; font-size: 0.875rem; margin: 1.25rem 0 1.75rem; overflow-x: auto; display: block; }
+.album-content table th { font-family: var(--mono); font-size: 0.65rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--grey); padding: 0.6rem 0.875rem; text-align: left; border-bottom: 1px solid var(--border); background: var(--surface-2); white-space: nowrap; }
+.album-content table td { padding: 0.6rem 0.875rem; border-bottom: 1px solid var(--border); color: var(--paper-dim); vertical-align: top; }
+.album-content table tr:last-child td { border-bottom: none; }
+.album-content table tr:hover td { background: var(--surface); }
+
+/* Contribute banner */
+.contribute-banner { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--gold); padding: 1.25rem 1.5rem; margin: 3rem 0 0; display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
+.contribute-banner p { margin: 0; font-size: 0.875rem; color: var(--paper-dim); }
+.contribute-banner strong { color: var(--paper); }
+.btn { display: inline-block; font-family: var(--mono); font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.6rem 1.2rem; border: 1px solid var(--gold-dim); color: var(--gold); transition: all 0.15s; white-space: nowrap; }
+.btn:hover { background: var(--gold); color: var(--black); border-color: var(--gold); }
+
+/* Footer */
+.site-footer { border-top: 1px solid var(--border); padding: 2rem; text-align: center; }
+.site-footer p { font-size: 0.78rem; color: var(--grey); }
+.site-footer a { color: var(--grey-light); }
+.site-footer a:hover { color: var(--gold); }
+
+/* Responsive */
+@media (max-width: 768px) {
+  .album-page { grid-template-columns: 1fr; }
+  .album-header { grid-column: 1; }
+  .album-toc { display: none; }
+  .album-grid { grid-template-columns: 1fr; }
+  .site-nav { display: none; }
+  .hero { padding: 3rem 2rem 2.5rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition-duration: 0.01ms !important; }
+  html { scroll-behavior: auto; }
+}

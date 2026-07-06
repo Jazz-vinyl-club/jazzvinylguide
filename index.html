@@ -1,31 +1,89 @@
----
-layout: default
-title: Jazz Vinyl Guide
-description: Collector-grade vinyl pressing guides for essential jazz albums — recording history, original pressing identification, reissue hierarchies, and buyer's guides.
----
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jazz Vinyl Guide — Jazz Vinyl Guide</title>
+  <meta name="description" content="Collector-grade vinyl pressing guides for essential jazz albums.">
+  <link rel="stylesheet" href="/style.css">
+  
+</head>
+<body>
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="site-logo" href="/">Jazz <span>Vinyl</span> Guide</a>
+    <nav class="site-nav">
+      <a href="/">Albums</a>
+      <a href="/about.html">About</a>
+      <a href="/contribute.html">Contribute</a>
+    </nav>
+  </div>
+</header>
+<main>
 <section class="hero">
   <p class="hero__eyebrow">jazzvinylguide.com</p>
   <h1 class="hero__title">The pressing matters as much as the <em>performance</em></h1>
   <p class="hero__sub">Collector-grade guides to every significant pressing of essential jazz albums — recording history, original identification, reissue hierarchies, and honest buyer's guides by budget.</p>
   <div class="hero__rule"></div>
 </section>
-
 <section class="albums-section">
-  <p class="albums-section__heading">Guides — {{ site.albums | size }} albums</p>
+  <p class="albums-section__heading">Guides — 7 albums</p>
   <div class="album-grid">
-    {% assign sorted_albums = site.albums | sort: 'title' %}
-    {% for album in sorted_albums %}
-    <a class="album-card" href="{{ album.url | relative_url }}">
-      <p class="album-card__label">{{ album.label }} · {{ album.year }}</p>
-      <h2 class="album-card__title">{{ album.title }}</h2>
-      <p class="album-card__artist">{{ album.artist }}</p>
-      <div class="album-card__meta">
-        <span>{{ album.original_cat }}</span>
-        <span>{{ album.recorded }}</span>
-      </div>
+    <a class="album-card" href="/albums/kind-of-blue.html">
+      <p class="album-card__label">Columbia · 1959</p>
+      <h2 class="album-card__title">Kind of Blue</h2>
+      <p class="album-card__artist">Miles Davis</p>
+      <p class="album-card__meta">CL 1355 / CS 8163 &nbsp;·&nbsp; March 2 & April 22, 1959</p>
       <span class="album-card__arrow">Read guide →</span>
     </a>
-    {% endfor %}
+    <a class="album-card" href="/albums/a-love-supreme.html">
+      <p class="album-card__label">Impulse! · 1965</p>
+      <h2 class="album-card__title">A Love Supreme</h2>
+      <p class="album-card__artist">John Coltrane</p>
+      <p class="album-card__meta">A-77 / AS-77 &nbsp;·&nbsp; December 9, 1964</p>
+      <span class="album-card__arrow">Read guide →</span>
+    </a>
+    <a class="album-card" href="/albums/sunday-at-the-village-vanguard.html">
+      <p class="album-card__label">Riverside · 1961</p>
+      <h2 class="album-card__title">Sunday at the Village Vanguard</h2>
+      <p class="album-card__artist">Bill Evans Trio</p>
+      <p class="album-card__meta">RLP 376 / RLP 9376 &nbsp;·&nbsp; June 25, 1961</p>
+      <span class="album-card__arrow">Read guide →</span>
+    </a>
+    <a class="album-card" href="/albums/getz-gilberto.html">
+      <p class="album-card__label">Verve · 1964</p>
+      <h2 class="album-card__title">Getz/Gilberto</h2>
+      <p class="album-card__artist">Stan Getz & João Gilberto</p>
+      <p class="album-card__meta">V-8545 / V6-8545 &nbsp;·&nbsp; March 18–19, 1963</p>
+      <span class="album-card__arrow">Read guide →</span>
+    </a>
+    <a class="album-card" href="/albums/my-favorite-things.html">
+      <p class="album-card__label">Atlantic · 1961</p>
+      <h2 class="album-card__title">My Favorite Things</h2>
+      <p class="album-card__artist">John Coltrane</p>
+      <p class="album-card__meta">A-1361 / SD-1361 &nbsp;·&nbsp; October 21–26, 1960</p>
+      <span class="album-card__arrow">Read guide →</span>
+    </a>
+    <a class="album-card" href="/albums/mingus-ah-um.html">
+      <p class="album-card__label">Columbia · 1959</p>
+      <h2 class="album-card__title">Mingus Ah Um</h2>
+      <p class="album-card__artist">Charles Mingus</p>
+      <p class="album-card__meta">CL 1370 / CS 8171 &nbsp;·&nbsp; May 5 & 12, 1959</p>
+      <span class="album-card__arrow">Read guide →</span>
+    </a>
+    <a class="album-card" href="/albums/moanin.html">
+      <p class="album-card__label">Blue Note · 1959</p>
+      <h2 class="album-card__title">Moanin'</h2>
+      <p class="album-card__artist">Art Blakey and the Jazz Messengers</p>
+      <p class="album-card__meta">BLP 4003 / BST 84003 &nbsp;·&nbsp; October 30, 1958</p>
+      <span class="album-card__arrow">Read guide →</span>
+    </a>
   </div>
 </section>
+</main>
+<footer class="site-footer">
+  <p><a href="https://jazzvinylguide.com">jazzvinylguide.com</a> — Collector-grade pressing guides for essential jazz albums. <a href="/contribute.html">Contribute an edit</a>.</p>
+</footer>
+<script src="/main.js"></script>
+</body>
+</html>
