@@ -124,5 +124,57 @@
     "mbid": "5879cfca-e1d0-3ef4-8014-3b284832ed18",
     "description": "Collector-grade vinyl pressing guide for Ornette Coleman's The Shape of Jazz to Come \u2014 Atlantic bullseye label identification, ORG, Speakers Corner and VMP reissue hierarchy, and buyer's guide.",
     "content_file": "shape_of_jazz_to_come_vinyl_guide.md"
+  },
+  {
+    "slug": "giant-steps",
+    "title": "Giant Steps",
+    "artist": "John Coltrane",
+    "label": "Atlantic",
+    "year": "1960",
+    "recorded": "May 4-5 and December 2, 1959",
+    "original_cat": "1311 / SD 1311",
+    "wikipedia": "Giant_Steps",
+    "mbid": "2cdca11d-3e45-3152-93e5-4d2a4ddb1bc6",
+    "description": "Collector-grade vinyl pressing guide for John Coltrane's Giant Steps \u2014 Atlantic black label identification, mono vs. stereo analysis, AP Atlantic 75 and Rhino 60th Anniversary reissue hierarchy, and buyer's guide.",
+    "content_file": "giant_steps_vinyl_guide.md"
+  },
+  {
+    "slug": "bitches-brew",
+    "title": "Bitches Brew",
+    "artist": "Miles Davis",
+    "label": "Columbia",
+    "year": "1970",
+    "recorded": "August 19-21, 1969",
+    "original_cat": "GP 26",
+    "wikipedia": "Bitches_Brew",
+    "mbid": "a9e30282-5b37-3f92-b897-b9659a1a312b",
+    "description": "Collector-grade vinyl pressing guide for Miles Davis's Bitches Brew \u2014 Columbia 360 Sound two-eye label identification, Mobile Fidelity and One-Step reissue hierarchy, tape provenance, and buyer's guide.",
+    "content_file": "bitches_brew_vinyl_guide.md"
+  },
+  {
+    "slug": "saxophone-colossus",
+    "title": "Saxophone Colossus",
+    "artist": "Sonny Rollins",
+    "label": "Prestige",
+    "year": "1956",
+    "recorded": "June 22, 1956",
+    "original_cat": "PRLP 7079",
+    "wikipedia": "Saxophone_Colossus",
+    "mbid": "cf29d6a2-a18a-3bb6-a861-495148baee1f",
+    "description": "Collector-grade vinyl pressing guide for Sonny Rollins's Saxophone Colossus \u2014 Prestige yellow label identification, RVG stamp authentication, Analogue Productions 200g and European pressing hierarchy, and buyer's guide.",
+    "content_file": "saxophone_colossus_vinyl_guide.md"
+  },
+  {
+    "slug": "head-hunters",
+    "title": "Head Hunters",
+    "artist": "Herbie Hancock",
+    "label": "Columbia",
+    "year": "1973",
+    "recorded": "October 1973",
+    "original_cat": "KC 32731",
+    "wikipedia": "Head_Hunters",
+    "mbid": "322f18bb-5491-38e9-9044-c0a468651eec",
+    "description": "Collector-grade vinyl pressing guide for Herbie Hancock's Head Hunters \u2014 Columbia KC 32731 original pressing identification, Analogue Productions 45rpm and 33rpm reissue hierarchy, and buyer's guide.",
+    "content_file": "head_hunters_vinyl_guide.md"
   }
 ]
