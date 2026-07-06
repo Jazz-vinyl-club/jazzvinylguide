@@ -143,15 +143,15 @@ Toshiba-EMI pressed Atlantic Coltrane titles throughout the 1970s–80s and thes
 
 ## Buyer's guide by budget
 
-**Under $35:** The **Rhino 60th Anniversary 180g stereo** (2020) for stereo, or the **Rhino mono 2017** for mono. Both excellent value.
+**Under $35:** The [**Rhino 60th Anniversary 180g stereo (2020)**](https://www.discogs.com/release/15928051) for stereo, or the [**Rhino mono 2017**](https://www.discogs.com/release/10456756) for mono. Both excellent value.
 
-**~$30–$40 new:** The **Rhino Hi-Fi mono 2026** (Kevin Gray, AAA) if you want a properly analogue mono pressing; the **AP Atlantic 75 33rpm** if you want the same engineer as the 45rpm at half the price.
+**~$30–$40 new:** The [**Rhino Hi-Fi mono 2026**](https://www.discogs.com/master/32236-John-Coltrane-Giant-Steps) (Kevin Gray, AAA) if you want a properly analogue mono pressing; the [**AP Atlantic 75 33rpm**](https://www.discogs.com/release/30051634) if you want the same engineer as the 45rpm at half the price.
 
-**$50–$80:** The **AP Atlantic 75 45rpm 2LP** for the stereo audiophile summit. Know that you're buying into the hard-panned stereo mix; if that doesn't suit you, the Rhino stereo 33 is the more enjoyable listen for most ears.
+**$50–$80:** The [**AP Atlantic 75 45rpm 2LP**](https://www.discogs.com/release/30051634) for the stereo audiophile summit. Know that you're buying into the hard-panned stereo mix; if that doesn't suit you, the Rhino stereo 33 is the more enjoyable listen for most ears.
 
-**$200–$500:** A clean **mono black label deep groove** original for the authentic tube-cut mono experience. Ultrasonically clean before playing.
+**$200–$500:** A clean [**mono black label deep groove**](https://www.discogs.com/master/32236-John-Coltrane-Giant-Steps) original for the authentic tube-cut mono experience. Ultrasonically clean before playing.
 
-**$60–$120:** The **2018 Warner Music Japan mono** is an outstanding analogue pressing at a reasonable price and receives some of the strongest reviews of any modern pressing.
+**$60–$120:** The [**2018 Warner Music Japan mono**](https://www.discogs.com/release/12737773) is an outstanding analogue pressing at a reasonable price and receives some of the strongest reviews of any modern pressing.
 
 ---
 
