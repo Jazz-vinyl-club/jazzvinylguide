@@ -99,22 +99,23 @@ a:hover { color: var(--paper); }
 .album-content hr { display: none; }
 .album-content blockquote { border-left: 2px solid var(--gold-dim); margin: 1.5rem 0; padding: 0.75rem 1.25rem; background: var(--surface); font-style: italic; font-size: 0.9rem; color: var(--paper-dim); }
 
-/* Tables */
-.album-content table { width: 100%; border-collapse: collapse; font-size: 0.875rem; margin: 1.25rem 0 1.75rem; border-bottom: none; }
-.album-content table th { font-family: var(--mono); font-size: 0.65rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--grey); padding: 0.6rem 0.875rem; text-align: left; border-bottom: 1px solid var(--border); background: var(--surface-2); white-space: nowrap; }
-.album-content table td { padding: 0.6rem 0.875rem; border-bottom: 1px solid var(--border); color: var(--paper-dim); vertical-align: top; }
+/* Tables — scroll wrapper lets table exceed the 680px prose column */
+.album-content .table-wrap { overflow-x: auto; margin: 1.25rem 0 1.75rem; -webkit-overflow-scrolling: touch; }
+.album-content table { width: 100%; min-width: 820px; border-collapse: collapse; font-size: 0.8125rem; border-bottom: none; table-layout: fixed; }
+.album-content table th { font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--grey); padding: 0.55rem 0.75rem; text-align: left; border-bottom: 1px solid var(--border); background: var(--surface-2); white-space: nowrap; overflow: hidden; }
+.album-content table td { padding: 0.55rem 0.75rem; border-bottom: 1px solid var(--border); color: var(--paper-dim); vertical-align: top; overflow-wrap: break-word; word-break: break-word; }
 .album-content table tr:last-child td { border-bottom: none; }
 .album-content table tr:hover td { background: var(--surface); }
 
-/* Tier table column widths */
-.album-content table th:nth-child(1) { width: 50px; }
-.album-content table th:nth-child(2) { width: 180px; }
-.album-content table th:nth-child(3) { width: 110px; }
-.album-content table th:nth-child(4) { width: 60px; }
-.album-content table th:nth-child(5) { width: 130px; }
-.album-content table th:nth-child(6) { width: 180px; }
-.album-content table th:nth-child(7) { min-width: 160px; }
-.album-content table th:nth-child(8) { width: 80px; }
+/* Tier table column widths — 8 columns, min-width 820px total */
+.album-content table th:nth-child(1), .album-content table td:nth-child(1) { width: 44px; }
+.album-content table th:nth-child(2), .album-content table td:nth-child(2) { width: 16%; }
+.album-content table th:nth-child(3), .album-content table td:nth-child(3) { width: 10%; }
+.album-content table th:nth-child(4), .album-content table td:nth-child(4) { width: 48px; }
+.album-content table th:nth-child(5), .album-content table td:nth-child(5) { width: 11%; }
+.album-content table th:nth-child(6), .album-content table td:nth-child(6) { width: 18%; }
+.album-content table th:nth-child(7), .album-content table td:nth-child(7) { width: 22%; }
+.album-content table th:nth-child(8), .album-content table td:nth-child(8) { width: 72px; }
 
 /* Contribute banner */
 .contribute-banner { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--gold); padding: 1.25rem 1.5rem; margin: 3rem 0 0; display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
