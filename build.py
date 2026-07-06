@@ -172,7 +172,7 @@ def build_album(album):
   </header>
   <div class="album-summary" id="album-summary">{summary_html}</div>
   <aside class="album-toc">
-    <p class="album-toc__heading">On this page</p>
+    <a class="album-toc__heading album-toc__top" href="#">↑ Top</a>
     <ul class="album-toc__list" id="toc-list"></ul>
   </aside>
   <article class="album-content" id="album-content">
