@@ -168,17 +168,17 @@ For most buyers choosing among modern stereo reissues, the 33rpm format (Music M
 
 ## Buyer's guide by budget
 
-**Under $35:** The **Blue Note Classic Vinyl 2021 (0746568)** at ~$28–30 new is the current answer. Kevin Gray mastering from the original tapes, 180g Optimal pressing. Accept that QC is variable – inspect for non-fill. Sonically excellent when pressed correctly.
+**Under $35:** The [**Blue Note Classic Vinyl 2021 (0746568)**](https://www.discogs.com/release/18979266) at ~$28–30 new is the current answer. Kevin Gray mastering from the original tapes, 180g Optimal pressing. Accept that QC is variable – inspect for non-fill. Sonically excellent when pressed correctly.
 
-**$50–$150:** The **Japanese King Records GXF pressing** with OBI gives you excellent surfaces, faithful reproduction, and a beautiful object – a valid alternative to the Classic Vinyl if you prefer quiet vinyl over the Optimal QC lottery. Also in this range: the **Classic Records 200g Grundman mono**, if you prefer the mono presentation.
+**$50–$150:** The [**Japanese King Records GXF pressing**](https://www.discogs.com/master/32360-Art-Blakey-The-Jazz-Messengers-Moanin) with OBI gives you excellent surfaces, faithful reproduction, and a beautiful object – a valid alternative to the Classic Vinyl if you prefer quiet vinyl over the Optimal QC lottery. Also in this range: the [**Classic Records 200g Grundman mono**](https://www.discogs.com/master/32360-Art-Blakey-The-Jazz-Messengers-Moanin), if you prefer the mono presentation.
 
-**$150–$350:** The **AP 2011 QRP 200g repress (AP-84003)** is the 45rpm reference – Gray/Hoffman mastering, 200g QRP, best pressing quality of the stereo reissues. The **Music Matters 33rpm (MMBST-84003)** sits in the same price range on the secondary market and is many listeners' preferred everyday pressing for its balance and RTI quality.
+**$150–$350:** The [**AP 2011 QRP 200g repress (AP-84003)**](https://www.discogs.com/release/3538756) is the 45rpm reference – Gray/Hoffman mastering, 200g QRP, best pressing quality of the stereo reissues. The [**Music Matters 33rpm (MMBST-84003)**](https://www.discogs.com/release/7248785) sits in the same price range on the secondary market and is many listeners' preferred everyday pressing for its balance and RTI quality.
 
-**$350–$700:** The **AP 2008 original RTI numbered edition** (AP 84003) and **NM stereo Six Eye BST 84003 with INC+®** both appear in this range – the original for its historical status and the AP for its sonic achievement.
+**$350–$700:** The [**AP 2008 original RTI numbered edition (AP 84003)**](https://www.discogs.com/release/1619024) and **NM stereo Six Eye BST 84003 with INC+®** both appear in this range – the original for its historical status and the AP for its sonic achievement.
 
-**$600+:** NM **original mono BLP 4003 Six Eye** without ® – the holy grail. A properly graded NM copy approaches the original studio sound as closely as any vinyl ever will. The "no ® INC" copies in genuine NM condition are now seldom encountered at any price.
+**$600+:** NM [**original mono BLP 4003 Six Eye**](https://www.discogs.com/master/32360-Art-Blakey-The-Jazz-Messengers-Moanin) without ® – the holy grail. A properly graded NM copy approaches the original studio sound as closely as any vinyl ever will. The "no ® INC" copies in genuine NM condition are now seldom encountered at any price.
 
-**The one-copy answer:** For most listeners, the **Blue Note Classic Vinyl Series (0746568)** at $30 covers the essential listening experience. For serious collection, the **Music Matters 33rpm (MMBST-84003)** is the superior modern pressing if budget and secondary-market availability allow. For the ultimate: the **AP 2011 QRP 200g (AP-84003)**.
+**The one-copy answer:** For most listeners, the **Blue Note Classic Vinyl Series (0746568)** at $30 covers the essential listening experience. For serious collection, the [**Music Matters 33rpm (MMBST-84003)**](https://www.discogs.com/release/7248785) is the superior modern pressing if budget and secondary-market availability allow. For the ultimate: the **AP 2011 QRP 200g (AP-84003)**.
 
 ---
 
