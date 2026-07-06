@@ -44,7 +44,7 @@ NM/NM **mono A-77** originals with Van Gelder deadwax, laminated gatefold and co
 
 ---
 
-## The mono vs. stereo debate, specific to this record
+## Mono vs. stereo
 
 Because the mono is a fold-down of the same 2-track master, the difference is not the mix but the presentation. **Stereo (RVG cut):** Coltrane hard left, Jones's drums hard right, Tyner left-of-center, Garrison right-of-center, nothing in the middle – wide and dramatic, but with the 60 Hz hum baked in, fatiguing on headphones. **Mono:** Coltrane centered, denser and more forward, tympani and gong with more body, and – crucially – **no hum**. [Fred Kaplan (Stereophile, 2025)](https://www.stereophile.com): **"Mono's density, force, and focus fire the music forward like a pistol shot. My UHQR 45rpm stereo version offers bigger images, more detail, and a soundstage, but in stereo, this music floats as much as it punches, more ethereal than visceral. The mono release hits head and body hard."**
 
