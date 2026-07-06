@@ -12,7 +12,6 @@ The central fact for collectors is the master tape situation. Around 1971–73, 
 
 **Best-value modern:** [Verve Acoustic Sounds Series B0032077-01](https://www.discogs.com/release/19942006-John-Coltrane-A-Love-Supreme) – Ryan K. Smith, AAA, from the Abbey Road safety tape; ~$40 new, the universal recommendation.
 
-
 ## Recording, mastering and the disappearing master tape
 
 *A Love Supreme* was recorded in a single afternoon and evening on **December 9, 1964** at Rudy Van Gelder's studio in Englewood Cliffs, New Jersey, with Coltrane (tenor), McCoy Tyner (piano), Jimmy Garrison (bass) and Elvin Jones (drums, gong, tympani), produced by Bob Thiele. A second session on December 10 captured three overdubs onto the master: Coltrane's "a love supreme" vocal chant on *Acknowledgement*, a corrective long note on *Resolution*, and sax/bass/drum overdubs on the final thirty seconds of *Psalm*. A second-day sextet session with Archie Shepp and Art Davis produced material later released on the 2015 *Complete Masters* box.
@@ -116,22 +115,6 @@ Limited 999-unit single-sided lacquer edition cut in real time onto Japanese lac
 
 ---
 
-## Buyer's guide by budget
-
-For **under $30**, the pragmatic choice is a clean [**MCA 1980 yellow-label reissue (MCA-29017)**](https://www.discogs.com/release/3746898) – Steve Hoffman's endorsed budget pick – or a used copy of the Japanese Victor VIM-4610 if you can source one from Japan. Both give you a decent all-analog presentation without spending serious money. Skip the 2015 Impulse! GR-155 entirely despite its cheap availability; the documented right-channel ringing makes it actively worse than a budget MCA reissue.
-
-At **$30–75**, the answer is simple and near-unanimous: [**2020 Verve Acoustic Sounds Series 33⅓ (B0032077-01)**](https://www.discogs.com/release/16026339). It is the best-value pressing in the catalogue's history and the universal recommendation for any serious listener who doesn't want to pay audiophile premiums. If mono is your preference, add the [**2025 60th-anniversary mono edition**](https://www.discogs.com/release/33073218). Both are Ryan K. Smith AAA cuts from the Abbey Road safety tape. A clean Japanese Toshiba IMP-88060 or Nippon Columbia YP-8527-AI with obi also fits this tier if you want a warmer, more vintage character.
-
-At **$75–200**, the out-of-print [**Speakers Corner 2001 180g (050155-1)**](https://www.discogs.com/release/2856904) is worth hunting for if you find it at a fair price – Kevin Gray's warmer, rounder character suits some systems better than Ryan Smith's more analytical Sterling Sound cut. A clean late orange-and-black 1966–68 US pressing with VAN GELDER stamps in the deadwax lives here as well, giving you genuine RVG metalwork without first-press pricing. A NM UK HMV stereo (CSD 1605) or mono (CLP 1869) also fits this tier – cut locally at EMI from the same Abbey Road tape now used for modern reissues.
-
-At **$200–500**, the [**Analogue Productions UHQR 45rpm 2LP box (AUHQR 0007-45)**](https://www.discogs.com/release/27972597) is available on the resale market and represents the current outright sonic pinnacle. This is the target for anyone who wants the best available sound, full stop. A clean stereo AS-77 original with RVG deadwax also lands in this range, provided you accept the 60 Hz hum as either tolerable or part of the record's character. Mid-condition A-77 mono originals occasionally surface here too.
-
-At **$500–2,000+**, the target is an [**NM A-77 mono original**](https://www.discogs.com/master/32287-John-Coltrane-A-Love-Supreme) with all correct first-press indicators – 1501 Broadway inner sleeve topping out at A-50, laminated white-spine gatefold, VAN GELDER + LW hand-etched in the deadwax. The mono original delivers a presentation no modern reissue can fully replicate: the density, the hum-free silence between notes, the sense of RVG cutting directly from the live reel. This is collector territory – as much about provenance and the ritual of ownership as about sonic superiority over the 2020 AS Series. A pristine NM AS-77 stereo with matching provenance also fits this tier for those who accept the hum.
-
-**The pragmatic two-copy solution** endorsed by Kaplan, Fremer, and the Steve Hoffman forum consensus: the [**2020 Acoustic Sounds Series 33⅓ for stereo**](https://www.discogs.com/release/16026339) and the **2025 60th-anniversary mono for mono**, total outlay ~$80, covers the album completely in both formats from the best available source tape. Everything above that is about the audiophile experience of diminishing returns – still meaningful, but the gap between the AS Series and the UHQR is smaller than the gap between the AS Series and anything that came before it.
-
----
-
 ## Confirmed phantom releases – pressings that DO NOT exist
 
 - **No Classic Records 200g Quiex SV-P or 45rpm box** – frequently confused with Speakers Corner, which filled that audiophile role
@@ -154,6 +137,22 @@ At **$500–2,000+**, the target is an [**NM A-77 mono original**](https://www.d
 ## What actually makes a pressing superior
 
 Four factors dominate, in descending order. **Tape generation:** the Abbey Road 1965 flat copy used by Ryan K. Smith outperforms the pre-2008 US "master" used by Speakers Corner and the 2010 AP, which outperforms the Bell Sound-derived tape used for late ABC/early MCA reissues. **Mastering chain:** AAA cuts preserve the 3D imaging; digital-intermediate cuts sound flatter. **Cutting engineer philosophy:** Van Gelder emphasises upper midrange, forward horns, less warmth; Kevin Gray tends warmer and softer; Ryan Smith extracts more air and low-end while retaining transient snap. **Pressing plant and vinyl compound:** QRP and Pallas dominate the audiophile tier; Clarity Vinyl offers the lowest noise floor; weight alone means little.
+
+---
+
+## Buyer's guide by budget
+
+For **under $30**, the pragmatic choice is a clean [**MCA 1980 yellow-label reissue (MCA-29017)**](https://www.discogs.com/release/3746898) – Steve Hoffman's endorsed budget pick – or a used copy of the Japanese Victor VIM-4610 if you can source one from Japan. Both give you a decent all-analog presentation without spending serious money. Skip the 2015 Impulse! GR-155 entirely despite its cheap availability; the documented right-channel ringing makes it actively worse than a budget MCA reissue.
+
+At **$30–75**, the answer is simple and near-unanimous: [**2020 Verve Acoustic Sounds Series 33⅓ (B0032077-01)**](https://www.discogs.com/release/16026339). It is the best-value pressing in the catalogue's history and the universal recommendation for any serious listener who doesn't want to pay audiophile premiums. If mono is your preference, add the [**2025 60th-anniversary mono edition**](https://www.discogs.com/release/33073218). Both are Ryan K. Smith AAA cuts from the Abbey Road safety tape. A clean Japanese Toshiba IMP-88060 or Nippon Columbia YP-8527-AI with obi also fits this tier if you want a warmer, more vintage character.
+
+At **$75–200**, the out-of-print [**Speakers Corner 2001 180g (050155-1)**](https://www.discogs.com/release/2856904) is worth hunting for if you find it at a fair price – Kevin Gray's warmer, rounder character suits some systems better than Ryan Smith's more analytical Sterling Sound cut. A clean late orange-and-black 1966–68 US pressing with VAN GELDER stamps in the deadwax lives here as well, giving you genuine RVG metalwork without first-press pricing. A NM UK HMV stereo (CSD 1605) or mono (CLP 1869) also fits this tier – cut locally at EMI from the same Abbey Road tape now used for modern reissues.
+
+At **$200–500**, the [**Analogue Productions UHQR 45rpm 2LP box (AUHQR 0007-45)**](https://www.discogs.com/release/27972597) is available on the resale market and represents the current outright sonic pinnacle. This is the target for anyone who wants the best available sound, full stop. A clean stereo AS-77 original with RVG deadwax also lands in this range, provided you accept the 60 Hz hum as either tolerable or part of the record's character. Mid-condition A-77 mono originals occasionally surface here too.
+
+At **$500–2,000+**, the target is an [**NM A-77 mono original**](https://www.discogs.com/master/32287-John-Coltrane-A-Love-Supreme) with all correct first-press indicators – 1501 Broadway inner sleeve topping out at A-50, laminated white-spine gatefold, VAN GELDER + LW hand-etched in the deadwax. The mono original delivers a presentation no modern reissue can fully replicate: the density, the hum-free silence between notes, the sense of RVG cutting directly from the live reel. This is collector territory – as much about provenance and the ritual of ownership as about sonic superiority over the 2020 AS Series. A pristine NM AS-77 stereo with matching provenance also fits this tier for those who accept the hum.
+
+**The pragmatic two-copy solution** endorsed by Kaplan, Fremer, and the Steve Hoffman forum consensus: the [**2020 Acoustic Sounds Series 33⅓ for stereo**](https://www.discogs.com/release/16026339) and the **2025 60th-anniversary mono for mono**, total outlay ~$80, covers the album completely in both formats from the best available source tape. Everything above that is about the audiophile experience of diminishing returns – still meaningful, but the gap between the AS Series and the UHQR is smaller than the gap between the AS Series and anything that came before it.
 
 ---
 
