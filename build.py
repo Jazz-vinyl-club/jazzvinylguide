@@ -100,10 +100,13 @@ def build_index(albums):
     for a in albums:
         mbid = a.get('mbid', '')
         if mbid:
-            thumb = f'<img src="https://coverartarchive.org/release-group/{mbid}/front-250" alt="{a[\"title\"]}" class="album-card__cover" loading="lazy" onerror="this.style.display=\'none\'">' 
+            title_esc = a['title']
+            thumb = f'<img src="https://coverartarchive.org/release-group/{mbid}/front-250" alt="{title_esc}" class="album-card__cover" loading="lazy" onerror="this.style.display:none">'
         else:
             cp = os.path.join(BASE_DIR, "covers", f"{a['slug']}.jpg")
-            thumb = f'<img src="/covers/{a["slug"]}.jpg" alt="{a["title"]}" class="album-card__cover">' if os.path.exists(cp) else ''
+            slug_val = a['slug']
+            title_val = a['title']
+            thumb = f'<img src="/covers/{slug_val}.jpg" alt="{title_val}" class="album-card__cover">' if os.path.exists(cp) else ''
         rows += f'''    <a class="album-card" href="/albums/{a['slug']}.html">
       {thumb}
       <h2 class="album-card__title">{a['title']}</h2>
