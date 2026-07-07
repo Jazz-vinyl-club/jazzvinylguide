@@ -267,7 +267,7 @@ def build_status(albums):
         "<div class=\"status-page\">"
         "<h1 class=\"status-title\">Guide Status &amp; Update Log</h1>"
         "<p class=\"status-subtitle\">Auto-generated on every build. Last built: " + gen + ".</p>"
-        "<table class=\"status-table\">"
+        "<table class=\"status-table\"><colgroup><col><col><col><col><col></colgroup>"
         "<thead><tr><th>Album</th><th>Artist</th><th>First Drafted</th>"
         "<th>Detail Upgrade</th><th>Fact-Check</th></tr></thead>"
         "<tbody>" + rows + "</tbody></table></div>"
