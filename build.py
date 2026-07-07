@@ -236,9 +236,10 @@ def build_status(albums):
     auto_fc  = {"kind_of_blue", "speak_no_evil"}
     rewrites = {"head_hunters", "speak_no_evil", "out_to_lunch", "birth_of_the_cool"}
     upgrades = {
-        "a_love_supreme", "getz_gilberto", "giant_steps", "head_hunters", "kind_of_blue",
-        "mingus_ah_um", "moanin", "my_favorite_things", "out_to_lunch", "birth_of_the_cool",
-        "shape_of_jazz_to_come", "speak_no_evil", "sunday_at_the_village_vanguard", "time_out"
+        "a_love_supreme", "bitches_brew", "birth_of_the_cool", "getz_gilberto",
+        "giant_steps", "head_hunters", "kind_of_blue", "mingus_ah_um", "moanin",
+        "my_favorite_things", "out_to_lunch", "shape_of_jazz_to_come", "speak_no_evil",
+        "sunday_at_the_village_vanguard", "time_out"
     }
     rows = ""
     for a in albums:
