@@ -10,7 +10,7 @@ The story of the concert's near-cancellation is inseparable from the music. Prom
 
 **Best modern pressing for audiophiles:** [ECM 50th Anniversary tip-on gatefold (2025)](https://www.discogs.com/master/71081-Keith-Jarrett-The-K%C3%B6ln-Concert) – newest authorised reissue with 8-page booklet and art print.
 
-**Best-value modern:** [2010 German 180g ECM reissue (ECM 1064/65)](https://www.discogs.com/release/3979641-Keith-Jarrett-The-K%C3%B6ln-Concert) – Pallas pressing, analogue, widely available.
+**Best-value modern:** [2010 German 180g ECM reissue (ECM 1064/65)](https://www.discogs.com/release/3979641-Keith-Jarrett-The-K%C3%B6ln-Concert) – Pallas pressing, widely available.
 
 
 ## Recording history and tape provenance
@@ -48,7 +48,7 @@ The more common original ECM pressings use the abbreviated "ECM" label logo and 
 
 ### US Polydor pressing
 
-**Cat. 2625 031** (US cat# applied by Polydor distribution). The US copies were pressed at Sterling or Columbia plants from ECM-supplied masters. Tonally slightly drier than the German pressings; the Polydor rim text and label design distinguish them. **$20–$60.**
+**Cat. 2-25002** (US catalogue number, Polydor distribution). The US copies were mastered at Sterling Sound and pressed at various US plants, including Columbia's facilities, from ECM-supplied masters. Tonally slightly drier than the German pressings; the Polydor rim text and label design distinguish them. **$20–$60.**
 
 ---
 
@@ -56,7 +56,7 @@ The more common original ECM pressings use the abbreviated "ECM" label logo and 
 
 ### ECM 2010 German 180g reissue – the reference modern pressing
 
-**Cat. ECM 1064/65** | Format: 180g 2LP, 33⅓, gatefold. **Analogue mastering; pressed at Pallas in Germany.** ECM's 2010 reissue used the original master tapes and the Pallas plant, long regarded as among the finest in Europe. This pressing is widely available, consistently praised, and represents the best combination of accessibility and fidelity. **€25–€45 new or secondary.**
+**Cat. ECM 1064/65** | Format: 180g 2LP, 33⅓, gatefold. **Pressed at Pallas in Germany.** ECM's 2010 reissue used the original master tapes and the Pallas plant, long regarded as among the finest in Europe. ECM does not publicly specify the mastering chain for this reissue, and collector consensus on audiophile forums rates it very highly without confirming an all-analogue path. This pressing is widely available, consistently praised, and represents the best combination of accessibility and fidelity. **€25–€45 new or secondary.**
 
 ### ECM 50th Anniversary edition (2025)
 
@@ -86,9 +86,9 @@ The more common original ECM pressings use the abbreviated "ECM" label logo and 
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | 2010 ECM 180g Pallas | ECM 1064/65 | 2010 | Stereo, 33⅓, 180g, 2LP | Orig tapes → Pallas, Germany | Definitive modern pressing; €25–€45 | [Discogs](https://www.discogs.com/release/3979641-Keith-Jarrett-The-K%C3%B6ln-Concert) |
+| **S** | 2010 ECM 180g Pallas | ECM 1064/65 | 2010 | Stereo, 33⅓, 180g, 2LP | Orig tapes → Pallas, Germany (mastering chain unconfirmed) | Definitive modern pressing; €25–€45 | [Discogs](https://www.discogs.com/release/3979641-Keith-Jarrett-The-K%C3%B6ln-Concert) |
 | **A** | Original German "ECM Records" label | ECM 1064/65 ST | 1975 | Stereo, 33⅓, 2LP | Orig tapes; first pressing | "Urheber-" rim; short runout; €100–€250 NM | [Discogs](https://www.discogs.com/release/8735978-Keith-Jarrett-The-K%C3%B6ln-Concert) |
 | **A** | Original German "ECM" label ("Alle" rim) | ECM 1064/65 ST | 1975–76 | Stereo, 33⅓, 2LP | Orig tapes; same metalwork | Sonically equivalent to first; €40–€120 | [Discogs](https://www.discogs.com/release/8735978-Keith-Jarrett-The-K%C3%B6ln-Concert) |
 | **B** | ECM 50th Anniversary (2025) | ECM 1064/65 | 2025 | Stereo, 33⅓, 180g, 2LP | Orig tapes; tip-on gatefold | 8-page booklet + art print; €50–€80 | [Discogs](https://www.discogs.com/master/71081-Keith-Jarrett-The-K%C3%B6ln-Concert) |
-| **C** | US Polydor pressing | 2625 031 | 1975–78 | Stereo, 33⅓, 2LP | Polydor plant; ECM masters | Slightly drier tonally; $20–$60 | [Discogs](https://www.discogs.com/release/1259362-Keith-Jarrett-The-K%C3%B6ln-Concert) |
+| **C** | US Polydor pressing | 2-25002 | 1975–78 | Stereo, 33⅓, 2LP | Mastered Sterling Sound; various US plants | Slightly drier tonally; $20–$60 | [Discogs](https://www.discogs.com/release/1259362-Keith-Jarrett-The-K%C3%B6ln-Concert) |
 | **D** | Non-German 1970s–80s pressings | Various | 1970s–80s | Stereo, 33⅓, 2LP | Copy tapes; local plants | Avoid; 2010 Pallas is better for same price | – |
