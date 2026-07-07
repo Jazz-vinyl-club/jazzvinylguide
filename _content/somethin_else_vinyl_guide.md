@@ -82,11 +82,11 @@ Later mono pressings show the "New York USA" address adopted in 1963. Earlier co
 
 **Under $30:** The [**Blue Note Classic Vinyl BLP 1595**](https://www.discogs.com/release/16941781) – Kevin Gray cut, Optimal pressing, mono. The correct starting point.
 
-**$80–$150:** The [**AP 45rpm 2LP**](https://www.discogs.com/master/46560-Cannonball-Adderley-Somethin-Else) – AAA mastering, excellent sound; the serious listener's choice when the One-Step is unavailable.
+**$80–$150:** The [**AP 45rpm 2LP**](https://www.discogs.com/master/118117-Cannonball-Adderley-Somethin-Else) – AAA mastering, excellent sound; the serious listener's choice when the One-Step is unavailable.
 
 **$300–$500:** The [**MoFi UltraDisc One-Step UD1S 2-022**](https://www.discogs.com/release/13949563) – the definitive version when condition and provenance are confirmed.
 
-**$400+:** An original [**47 West 63rd (no "Inc.") first pressing**](https://www.discogs.com/master/46560-Cannonball-Adderley-Somethin-Else) with RVG etched and Plastylite P – for the collector who wants both the document and the sound.
+**$400+:** An original [**47 West 63rd (no "Inc.") first pressing**](https://www.discogs.com/master/118117-Cannonball-Adderley-Somethin-Else) with RVG etched and Plastylite P – for the collector who wants both the document and the sound.
 
 ---
 
@@ -98,5 +98,5 @@ Later mono pressings show the "New York USA" address adopted in 1963. Earlier co
 | **A** | Original BLP 1595 mono, 47 W 63rd no-Inc. | BLP 1595 | 1958 | Mono, 33⅓ | RVG etched / Plastylite P | First pressing; $400–$900 NM | [Discogs](https://www.discogs.com/release/982633-Cannonball-Adderley-Somethin-Else) |
 | **A** | AP 45rpm 2LP | AP-81595 | 2010 | Mono, 45rpm, 2×180g | Orig mono tape → Kevin Gray & Steve Hoffman, AAA, QRP | Excellent; $80–$150 secondary | [Discogs](https://www.discogs.com/release/2552019-Cannonball-Adderley-Somethin-Else) |
 | **B** | Blue Note Classic Vinyl 180g mono | B0032209-01 | 2020 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Budget entry point; $20–$30 | [Discogs](https://www.discogs.com/release/16941781-Cannonball-Adderley-Somethin-Else) |
-| **C** | NY USA label mono reissue | BLP 1595 | 1963–67 | Mono, 33⅓ | RVG stampers (earlier copies); later copies may differ | Earlier NY USA copies decent; later ownership runs variable | [Discogs](https://www.discogs.com/master/37768-Cannonball-Adderley-Somethin-Else) |
+| **C** | NY USA label mono reissue | BLP 1595 | 1963–67 | Mono, 33⅓ | RVG stampers (earlier copies); later copies may differ | Earlier NY USA copies decent; later ownership runs variable | [Discogs](https://www.discogs.com/master/118117-Cannonball-Adderley-Somethin-Else) |
 | **D** | BST 81595 rechanneled stereo | BST 81595 | 1960s+ | Fake stereo | Rechanneled from mono | Artificial separation; not recommended | – |
