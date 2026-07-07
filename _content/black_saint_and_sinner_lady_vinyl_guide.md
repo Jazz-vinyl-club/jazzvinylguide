@@ -2,9 +2,9 @@
 
 ## Summary
 
-*The Black Saint and the Sinner Lady* was recorded in a single extraordinary session on **January 20, 1963**, in New York City. Produced by Bob Thiele; engineered by Bob Simpson (not Van Gelder). Released July 1963 on Impulse! Records as both mono (A-35) and stereo (AS-35). Personnel: Charles Mingus (bass, piano), Charlie Mariano (alto saxophone), Jaki Byard (piano), Jay Berliner (guitar), Don Butterfield (tuba and contrabass trombone), Dick Hafer (tenor saxophone and flute), Quentin Jackson (trombone), Jerome Richardson (soprano saxophone, baritone saxophone, flute), Rolf Ericson (trumpet), Richard Williams (trumpet), Dannie Richmond (drums). A single continuous composition in six movements, partially conceived as a ballet; the liner notes include contributions from Mingus himself and his psychotherapist Edmund Pollock, Ph.D. Widely considered Mingus's masterwork. The Penguin Guide awarded it a Crown — the publication's highest accolade.
+*The Black Saint and the Sinner Lady* was recorded in a single extraordinary session on **January 20, 1963**, in New York City. Produced by Bob Thiele; engineered by Bob Simpson (not Van Gelder). Released July 1963 on Impulse! Records as both mono (A-35) and stereo (AS-35). Personnel: Charles Mingus (bass, piano), Charlie Mariano (alto saxophone), Jaki Byard (piano), Jay Berliner (guitar), Don Butterfield (tuba and contrabass trombone), Dick Hafer (tenor saxophone and flute), Quentin Jackson (trombone), Jerome Richardson (soprano saxophone, baritone saxophone, flute), Rolf Ericson (trumpet), Richard Williams (trumpet), Dannie Richmond (drums). A single continuous composition in six movements, partially conceived as a ballet; the liner notes include contributions from Mingus himself and his psychotherapist Edmund Pollock, Ph.D. Widely considered Mingus's masterwork. The Penguin Guide awarded it a Crown – the publication's highest accolade.
 
-The album is notable for being among the first jazz recordings to use overdubbing as a compositional technique, creating an orchestral density that a conventional live recording could not have achieved. Bob Simpson's engineering — not RVG's — gives it a slightly different character from the typical Impulse! sound: wide, transparent, and dynamically large, described by one reviewer as an "RCA Living Stereo packed in orange and black Impulse clothing." Original first-series Impulse! pressings (orange and black rim, LW stamp from Longwear Plating, RVG lacquer cut) are the collector standard. The Analogue Productions 45rpm 2LP is the modern audiophile reference.
+The album is notable for being among the first jazz recordings to use overdubbing as a compositional technique, creating an orchestral density that a conventional live recording could not have achieved. Bob Simpson's engineering – not RVG's – gives it a slightly different character from the typical Impulse! sound: wide, transparent, and dynamically large, described by one reviewer as an "RCA Living Stereo packed in orange and black Impulse clothing." Original first-series Impulse! pressings (orange and black rim, LW stamp from Longwear Plating, RVG lacquer cut) are the collector standard. The Analogue Productions 45rpm 2LP is the modern audiophile reference.
 
 **Best early pressing for audiophiles:** [Original Impulse! AS-35 stereo, orange/black label, RVG + LW](https://www.discogs.com/release/572717-Mingus-The-Black-Saint-And-The-Sinner-Lady) – first-series pressing, gatefold, Longwear metalwork.
 
@@ -15,11 +15,13 @@ The album is notable for being among the first jazz recordings to use overdubbin
 
 ## Recording history and tape provenance
 
-The session was recorded in a single day — an astonishing feat given the complexity of the composition and the eleven-piece ensemble. Mingus had prepared the musicians through a six-week Village Vanguard residency in 1963, during which the work had evolved from a written score into something shaped by the players' personalities and improvisational voices. By the time they entered the studio, the music was internalised but still alive.
+The session was recorded in a single day – January 20, 1963 – an astonishing feat given the complexity of the composition and the eleven-piece ensemble. Mingus had prepared the musicians through a six-week Village Vanguard residency in late 1962, during which the work evolved from a written score into something shaped by the players' personalities. By the time they entered the studio, the music was internalised but still alive.
 
-**The overdubbing:** This is among the first jazz albums to use studio overdubbing as a compositional tool rather than a repair mechanism. Mingus and Thiele used overdubs to build the orchestral density across certain passages — a creative decision that divided opinion but is now regarded as integral to the album's character. The "studio production" quality makes it slightly alien from the typical jazz live-in-room listening experience; the reward is a recorded sonic reality that no live acoustic could achieve.
+The album is structured as a single continuous work in six parts – Mingus conceived it partly as a ballet score. The six movements are: "Solo Dancer," "Duet Solo Dancers," "Group Dancers," "Trio and Group Dancers," "Single Solos and Group Dance," and "Group and Solo Dance." The arc moves from intimate to orchestral and back, with the ensemble's density used as a compositional tool – adding and subtracting voices in ways that no conventional jazz structure would permit. The liner notes are extraordinary: Mingus provided his own extended analytical commentary alongside a contribution from his psychotherapist, Edmund Pollock, Ph.D., who analysed the music in psychological terms. This combination of composer's statement and clinical analysis was unprecedented in jazz liner notes and remains one of the most unusual documents in the genre's history.
 
-**Engineering:** Bob Simpson's work gives the album its distinctive signature. Michael Fremer described it as having "a sonic draw" with originals — "warmer original versus more transparent reissue." The wide stereo spread (hard left and right in the 1963 style) opens the ensemble in a way that works exceptionally well here, given the layered instrumental writing.
+**The overdubbing:** This is among the first jazz albums to use studio overdubbing as a compositional tool rather than a repair mechanism. Mingus and Thiele used overdubs to build the orchestral density across certain passages – a creative decision that divided opinion but is now regarded as integral to the album's character. The "studio production" quality makes it slightly alien from the typical jazz live-in-room listening experience; the reward is a recorded sonic reality that no live acoustic could achieve.
+
+**Engineering:** Bob Simpson's work gives the album its distinctive signature. [Michael Fremer](https://www.analogplanet.com) described it as having "a sonic draw" with originals – "warmer original versus more transparent reissue." The wide stereo spread (hard left and right in the 1963 style) opens the ensemble in a way that works exceptionally well here, given the layered instrumental writing.
 
 **Label variants:** The first-series Impulse! pressings (catalogue A-35 mono, AS-35 stereo) have the orange and black rim label with small "Impulse! Records Inc." text at the foot. First pressings lack the "-A" or "-B" suffix in the catalogue number on the label itself (later pressings added it). All genuine first-series copies carry the **LW** (Longwear Plating Co.) stamp in the deadwax and typically **RVG** (Van Gelder cut the lacquers). The ABC Paramount corporate label text at the foot of the label is present on all first-series Impulse! releases.
 
@@ -60,7 +62,7 @@ After ABC Paramount absorbed Impulse! more fully, label text changed. These are 
 
 ### Analogue Productions AIPJ 35 45rpm 2×180g (2011) – the audiophile benchmark
 
-**Cat. AIPJ 35** | Format: 2×180g LP, 45rpm. **Mastered by Kevin Gray at AcousTech/Cohearent Audio, AAA, from the original analogue master tapes.** First pressing at RTI (limited and numbered); later QRP pressing. The RTI run was limited to 2,500 copies; the QRP repress followed demand. Both are excellent, with the QRP noted as the quieter pressing. Vinyl Gourmet: "Sonics that will have you convinced Mingus and his compadres are playing in your room." Michael Fremer: "warmer original versus more transparent reissue — but the reissue is pressed on far quieter vinyl and given a choice I'd take the reissue."
+**Cat. AIPJ 35** | Format: 2×180g LP, 45rpm. **Mastered by Kevin Gray at AcousTech/Cohearent Audio, AAA, from the original analogue master tapes.** First pressing at RTI (limited and numbered); later QRP pressing. The RTI run was limited to 2,500 copies; the QRP repress followed demand. Both are excellent, with the QRP noted as the quieter pressing. Vinyl Gourmet: "Sonics that will have you convinced Mingus and his compadres are playing in your room." Michael Fremer: "warmer original versus more transparent reissue – but the reissue is pressed on far quieter vinyl and given a choice I'd take the reissue."
 
 **AIPJ 35 (RTI first run): $200–$400 secondary. QRP repress: $80–$150.**
 
@@ -78,15 +80,15 @@ After ABC Paramount absorbed Impulse! more fully, label text changed. These are 
 
 **ABC Paramount corporate-era Impulse! pressings:** These 1970s reissues are noticeably inferior to the first series and to all modern audiophile options. Recognisable by the changed label design.
 
-**Italian Vega pressing:** A 1960s French Vega pressing exists (A 35, no RVG stamp); despite being contemporary with the original, it was made from a locally prepared master rather than US stampers and is sonically inferior.
+**Italian Vega pressing:** A 1960s Italian Vega pressing exists (A 35, no RVG stamp); despite being contemporary with the original, it was made from a locally prepared master rather than US stampers and is sonically inferior.
 
 ---
 
 ## Buyer's guide by budget
 
-**Under $45:** The [**Acoustic Sounds/Verve 180g (2021)**](https://www.discogs.com/release/21029962) — Ryan K. Smith at Sterling Sound, original tapes, QRP pressing. The correct purchase for most listeners at any budget level.
+**Under $45:** The [**Acoustic Sounds/Verve 180g (2021)**](https://www.discogs.com/release/21029962) – Ryan K. Smith at Sterling Sound, original tapes, QRP pressing. The correct purchase for most listeners at any budget level.
 
-**$80–$150:** The [**AP AIPJ 35 QRP repress**](https://www.discogs.com/release/2975405) or the [**Speakers Corner 180g**](https://www.discogs.com/release/1704128) — either is a meaningful step up for revealing systems.
+**$80–$150:** The [**AP AIPJ 35 QRP repress**](https://www.discogs.com/release/2975405) or the [**Speakers Corner 180g**](https://www.discogs.com/release/1704128) – either is a meaningful step up for revealing systems.
 
 **$150–$400:** An original [**AS-35 first-series stereo**](https://www.discogs.com/release/572717) in honest VG+ condition. The warmth and presence of the original is real; the trade-off is surface noise on most copies.
 
