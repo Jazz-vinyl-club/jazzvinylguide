@@ -176,7 +176,7 @@ a:hover { color: var(--paper); }
 .status-table col:nth-child(4) { width: 17%; }
 .status-table col:nth-child(5) { width: 18%; }
 .status-table th { font-family: var(--mono); font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--grey); padding: 0.6rem 1rem; text-align: left; border-bottom: 2px solid var(--border); background: var(--surface-2); white-space: nowrap; }
-.status-table td { padding: 0.65rem 1rem; border-bottom: 1px solid var(--border); vertical-align: top; overflow-wrap: break-word; line-height: 1.4; }
+.status-table td { padding: 0.65rem 1rem; border-bottom: 1px solid var(--border); vertical-align: top; overflow-wrap: break-word; line-height: 1.5; }
 .status-table tr:hover td { background: var(--surface-2); }
 .status-yes { color: var(--paper); }
 .status-no { color: var(--grey); }
