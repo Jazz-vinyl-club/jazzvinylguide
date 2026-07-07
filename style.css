@@ -169,10 +169,15 @@ a:hover { color: var(--paper); }
 .status-page { max-width: var(--max-w); margin: 0 auto; padding: 3rem 2rem; }
 .status-title { font-family: var(--serif); font-size: 1.8rem; margin-bottom: 0.5rem; }
 .status-subtitle { color: var(--grey); font-size: 0.85rem; margin-bottom: 2rem; }
-.status-table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
-.status-table th { font-family: var(--mono); font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--grey); padding: 0.5rem 1rem; text-align: left; border-bottom: 2px solid var(--border); background: var(--surface-2); }
-.status-table td { padding: 0.6rem 1rem; border-bottom: 1px solid var(--border); vertical-align: top; }
-.status-table tr:hover td { background: var(--surface); }
+.status-table { width: 100%; border-collapse: collapse; font-size: 0.875rem; table-layout: fixed; }
+.status-table col:nth-child(1) { width: 28%; }
+.status-table col:nth-child(2) { width: 22%; }
+.status-table col:nth-child(3) { width: 15%; }
+.status-table col:nth-child(4) { width: 17%; }
+.status-table col:nth-child(5) { width: 18%; }
+.status-table th { font-family: var(--mono); font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--grey); padding: 0.6rem 1rem; text-align: left; border-bottom: 2px solid var(--border); background: var(--surface-2); white-space: nowrap; }
+.status-table td { padding: 0.65rem 1rem; border-bottom: 1px solid var(--border); vertical-align: middle; overflow-wrap: break-word; }
+.status-table tr:hover td { background: var(--surface-2); }
 .status-yes { color: var(--paper); }
 .status-no { color: var(--grey); }
-.status-date { font-size: 0.75rem; color: var(--grey); display: block; margin-top: 0.15rem; }
+.status-date { font-size: 0.75rem; color: var(--grey); display: block; margin-top: 0.2rem; font-family: var(--mono); }
