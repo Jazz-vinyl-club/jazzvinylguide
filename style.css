@@ -113,7 +113,7 @@ a:hover { color: var(--paper); }
 .album-content table th:nth-child(1), .album-content table td:nth-child(1) { width: 44px; }
 .album-content table th:nth-child(2), .album-content table td:nth-child(2) { width: 16%; }
 .album-content table th:nth-child(3), .album-content table td:nth-child(3) { width: 10%; }
-.album-content table th:nth-child(4), .album-content table td:nth-child(4) { width: 48px; }
+.album-content table th:nth-child(4), .album-content table td:nth-child(4) { width: 62px; white-space: nowrap; }
 .album-content table th:nth-child(5), .album-content table td:nth-child(5) { width: 11%; }
 .album-content table th:nth-child(6), .album-content table td:nth-child(6) { width: 18%; }
 .album-content table th:nth-child(7), .album-content table td:nth-child(7) { width: 22%; }
