@@ -101,6 +101,10 @@ def build_index(albums):
     rows = ""
     for a in albums:
         mbid = a.get('mbid', '')
+        title_lower  = a['title'].lower().replace('"', '&quot;')
+        artist_lower = a['artist'].lower().replace('"', '&quot;')
+        label_lower  = a['label'].lower().replace('"', '&quot;')
+        year_val     = str(a['year'])
         if mbid:
             title_esc = a['title']
             thumb = f'<img src="https://coverartarchive.org/release-group/{mbid}/front-250" alt="{title_esc}" class="album-card__cover" loading="lazy" onerror="this.style.display:none">'
@@ -109,7 +113,7 @@ def build_index(albums):
             slug_val = a['slug']
             title_val = a['title']
             thumb = f'<img src="/covers/{slug_val}.jpg" alt="{title_val}" class="album-card__cover">' if os.path.exists(cp) else ''
-        rows += f'''    <a class="album-card" href="/albums/{a['slug']}.html">
+        rows += f'''    <a class="album-card" href="/albums/{a['slug']}.html" data-title="{title_lower}" data-artist="{artist_lower}" data-label="{label_lower}" data-year="{year_val}">
       {thumb}
       <h2 class="album-card__title">{a['title']}</h2>
       <p class="album-card__artist">{a['artist']}</p>
@@ -120,8 +124,19 @@ def build_index(albums):
   <h1 class="hero__title">Collector-grade guides for essential jazz albums</h1>
 </section>
 <section class="albums-section">
-  <div class="album-grid">
+  <div class="albums-controls">
+    <input class="albums-search" id="albumSearch" type="search" placeholder="Search albums, artists, labels…" autocomplete="off" spellcheck="false">
+    <div class="albums-sort">
+      <span class="albums-sort__label">Sort by</span>
+      <button class="albums-sort__btn active" data-sort="default">Default</button>
+      <button class="albums-sort__btn" data-sort="title">Title</button>
+      <button class="albums-sort__btn" data-sort="artist">Artist</button>
+      <button class="albums-sort__btn" data-sort="year">Year</button>
+    </div>
+  </div>
+  <div class="album-grid" id="albumGrid">
 {rows}  </div>
+  <p class="albums-no-results" id="albumsNoResults" style="display:none">No albums match your search.</p>
 </section>'''
     out = os.path.join(OUTPUT_DIR, "index.html")
     with open(out, 'w') as f:
