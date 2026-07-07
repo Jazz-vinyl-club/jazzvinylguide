@@ -206,6 +206,78 @@ def build_album(album):
         f.write(html_shell(title, album['description'], body))
     print(f"  ✓ albums/{slug}.html")
 
+
+def fetch_commit_dates(filename):
+    """Fetch first and last commit dates for a content file."""
+    try:
+        import os as _os
+        tok = _os.environ.get("GITHUB_TOKEN", "")
+        api_url = GITHUB_API + "?path=_content/" + filename + "&per_page=100"
+        hdr = {"Authorization": "token " + tok, "Accept": "application/vnd.github.v3+json"}
+        req = urllib.request.Request(api_url, headers=hdr)
+        with urllib.request.urlopen(req, timeout=10) as r:
+            commits = json.loads(r.read())
+        if not commits:
+            return None, None
+        return (commits[-1]["commit"]["committer"]["date"][:10],
+                commits[0]["commit"]["committer"]["date"][:10])
+    except Exception:
+        return None, None
+
+
+def build_status(albums):
+    """Build the hidden status/tracking page at /status.html."""
+    print("  Building status page...")
+    manual_fc = {
+        "a_love_supreme", "getz_gilberto", "giant_steps", "head_hunters",
+        "kind_of_blue", "mingus_ah_um", "moanin", "my_favorite_things",
+        "shape_of_jazz_to_come", "speak_no_evil", "sunday_at_the_village_vanguard", "time_out"
+    }
+    auto_fc  = {"kind_of_blue", "speak_no_evil"}
+    rewrites = {"head_hunters", "speak_no_evil", "out_to_lunch", "birth_of_the_cool"}
+    upgrades = {
+        "a_love_supreme", "getz_gilberto", "giant_steps", "head_hunters", "kind_of_blue",
+        "mingus_ah_um", "moanin", "my_favorite_things", "out_to_lunch", "birth_of_the_cool",
+        "shape_of_jazz_to_come", "speak_no_evil", "sunday_at_the_village_vanguard", "time_out"
+    }
+    rows = ""
+    for a in albums:
+        slug = a["slug"].replace("-", "_")
+        first, last = fetch_commit_dates(a["content_file"])
+        d = last or ""
+        if slug in rewrites:
+            dc = "<td class=\"status-yes\">Full rewrite<br><span class=\"status-date\">" + d + "</span></td>"
+        elif slug in upgrades:
+            dc = "<td class=\"status-yes\">Updated<br><span class=\"status-date\">" + d + "</span></td>"
+        else:
+            dc = "<td class=\"status-no\">&#8212;</td>"
+        if slug in auto_fc and slug in manual_fc:
+            fc = "<td class=\"status-yes\">Manual + Automated<br><span class=\"status-date\">" + d + "</span></td>"
+        elif slug in manual_fc:
+            fc = "<td class=\"status-yes\">Manual<br><span class=\"status-date\">" + d + "</span></td>"
+        else:
+            fc = "<td class=\"status-no\">&#8212;</td>"
+        link = "<a href=\"/albums/" + a["slug"] + ".html\">" + a["title"] + "</a>"
+        rows += ("<tr><td>" + link + "</td><td>" + a["artist"] + "</td>"
+                 + "<td class=\"status-date\">" + (first or "&#8212;") + "</td>"
+                 + dc + fc + "</tr>\n")
+    from datetime import datetime, timezone
+    gen = datetime.now(timezone.utc).strftime("%B %d, %Y at %H:%M UTC")
+    body = (
+        "<div class=\"status-page\">"
+        "<h1 class=\"status-title\">Guide Status &amp; Update Log</h1>"
+        "<p class=\"status-subtitle\">Auto-generated on every build. Last built: " + gen + ".</p>"
+        "<table class=\"status-table\">"
+        "<thead><tr><th>Album</th><th>Artist</th><th>First Drafted</th>"
+        "<th>Detail Upgrade</th><th>Fact-Check</th></tr></thead>"
+        "<tbody>" + rows + "</tbody></table></div>"
+    )
+    out = os.path.join(OUTPUT_DIR, "status.html")
+    with open(out, "w") as f:
+        f.write(html_shell("Guide Status", "Internal status tracking for jazzvinylguide.com.", body))
+    print("  \u2713 status.html")
+
+
 def main():
     with open(ALBUMS_FILE) as f:
         albums = json.load(f)
@@ -220,6 +292,7 @@ def main():
     else:
         print("Building all pages...")
         build_index(albums)
+        build_status(albums)
         for a in albums:
             build_album(a)
     print("\nDone.")
