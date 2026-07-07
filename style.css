@@ -94,6 +94,7 @@ a:hover { color: var(--paper); }
 .album-content h3 { font-family: var(--serif); font-size: 1.15rem; font-style: italic; color: var(--gold); margin: 2rem 0 0.75rem; }
 .album-content p { margin-bottom: 1.1rem; color: var(--paper-dim); font-size: 0.9625rem; }
 .album-content strong { color: var(--paper); font-weight: 600; }
+.album-content strong a, .album-content a strong { color: var(--gold); }
 .album-content ul, .album-content ol { margin: 0.75rem 0 1.1rem 1.25rem; color: var(--paper-dim); font-size: 0.9625rem; }
 .album-content li { margin-bottom: 0.35rem; }
 .album-content code { font-family: var(--mono); font-size: 0.85em; color: var(--gold); background: var(--surface-2); padding: 0.1em 0.4em; border-radius: 3px; }
