@@ -8,7 +8,7 @@ The album's dual origin – Silver's 1964 trip to Brazil as a guest of Sergio Me
 
 Both mono and stereo originals are worthwhile. The Blue Note Classic Vinyl is the most accessible modern option, though Discogs reviews document significant QC issues with this title specifically – dished vinyl, distortion on "Lonely Woman," and flutter on some copies. Finding a clean copy is important.
 
-**Best early pressing for audiophiles:** [Original Blue Note BLP 4185 mono, New York USA label](https://www.discogs.com/release/3346498-The-Horace-Silver-Quintet-Song-For-My-Father) – Van Gelder stamp, Plastylite ear; $150–$400 NM.
+**Best early pressing for audiophiles:** [Original Blue Note BLP 4185 mono, NY USA label](https://www.discogs.com/release/2019742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) – deep groove both sides, Van Gelder stamp, Plastylite ear; $150–$400 NM.
 
 **Best modern pressing for audiophiles:** [Blue Note Classic Vinyl BST 84185 180g (2020)](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father) – Kevin Gray, Optimal, 180g; inspect before purchase.
 
@@ -78,7 +78,7 @@ Note: r2019742 on Discogs shows a "43 West 61st" address pressing with a "25 Yea
 
 **$30–$80:** A [**Liberty-era pressing with Van Gelder stamp**](https://www.discogs.com/master/155008-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) for an affordable period-metal copy without Classic Vinyl QC risk.
 
-**$150–$400:** An original [**New York USA label pressing**](https://www.discogs.com/release/3346498-The-Horace-Silver-Quintet-Song-For-My-Father) in honest VG+, with Van Gelder stamp and Plastylite ear confirmed – the definitive listening copy.
+**$150–$400:** An original [**New York USA label pressing**](https://www.discogs.com/release/2019742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) in honest VG+, with Van Gelder stamp and Plastylite ear confirmed – the definitive listening copy.
 
 ---
 
@@ -86,8 +86,8 @@ Note: r2019742 on Discogs shows a "43 West 61st" address pressing with a "25 Yea
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | Original BLP 4185 mono, NY USA label | BLP 4185 | 1964–65 | Mono, 33⅓ | RVG / Plastylite | VAN GELDER + ear required; $150–$350 NM | [Discogs](https://www.discogs.com/release/3346498-The-Horace-Silver-Quintet-Song-For-My-Father) |
-| **A** | Original BST 84185 stereo, NY USA label | BST 84185 | 1964–65 | Stereo, 33⅓ | RVG / Plastylite | Same authentication; $150–$400 NM | [Discogs](https://www.discogs.com/release/2019742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
+| **A** | Original BLP 4185 mono, NY USA label | BLP 4185 | 1964–65 | Mono, 33⅓ | RVG / Plastylite | VAN GELDER + ear required; $150–$350 NM | [Discogs](https://www.discogs.com/release/2019742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
+| **A** | Original BST 84185 stereo, NY USA label | BST 84185 | 1964–65 | Stereo, 33⅓ | RVG / Plastylite | DG Side 1 only; $150–$400 NM | [Discogs](https://www.discogs.com/release/2400742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
 | **B** | Blue Note Classic Vinyl 180g | BST 84185 | 2020 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | QC issues documented – inspect or buy with return policy; $20–$35 | [Discogs](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
 | **C** | Liberty-era pressing (with VG stamp) | BST 84185 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $30–$80 VG+ | [Discogs](https://www.discogs.com/master/155008-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
 | **D** | Generic European reissues | Various | 1970s+ | Stereo, 33⅓ | Various | Not recommended | – |
