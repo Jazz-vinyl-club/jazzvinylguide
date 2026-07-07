@@ -164,3 +164,15 @@ a:hover { color: var(--paper); }
 .albums-sort__btn:hover { border-color: var(--gold); color: var(--gold); }
 .albums-sort__btn.active { border-color: var(--gold); color: var(--gold); background: var(--surface-2); }
 .albums-no-results { color: var(--grey); font-size: 0.875rem; padding: 2rem 0; text-align: center; }
+
+/* Status / tracking page */
+.status-page { max-width: var(--max-w); margin: 0 auto; padding: 3rem 2rem; }
+.status-title { font-family: var(--serif); font-size: 1.8rem; margin-bottom: 0.5rem; }
+.status-subtitle { color: var(--grey); font-size: 0.85rem; margin-bottom: 2rem; }
+.status-table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
+.status-table th { font-family: var(--mono); font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--grey); padding: 0.5rem 1rem; text-align: left; border-bottom: 2px solid var(--border); background: var(--surface-2); }
+.status-table td { padding: 0.6rem 1rem; border-bottom: 1px solid var(--border); vertical-align: top; }
+.status-table tr:hover td { background: var(--surface); }
+.status-yes { color: var(--paper); }
+.status-no { color: var(--grey); }
+.status-date { font-size: 0.75rem; color: var(--grey); display: block; margin-top: 0.15rem; }
