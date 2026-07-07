@@ -2,9 +2,9 @@
 
 ## Summary
 
-*Somethin' Else* was recorded on **March 9, 1958**, at Van Gelder Studio in Hackensack, New Jersey — the last session before Van Gelder's move to Englewood Cliffs. Personnel: Cannonball Adderley (alto saxophone), Miles Davis (trumpet, on loan from Columbia Records), Hank Jones (piano, on loan from Capitol Records), Sam Jones (bass), Art Blakey (drums). Produced by Alfred Lion. This was nominally Adderley's date, but Davis's contractual situation with Columbia made him a guest — which is why the back cover notes he "performs by courtesy of Columbia Records." In practice, Davis leads the session as he would his own, and the album sounds more like a preview of Kind of Blue than a straightforward Adderley hard bop date.
+*Somethin' Else* was recorded on **March 9, 1958**, at Van Gelder Studio in Hackensack, New Jersey – the last session before Van Gelder's move to Englewood Cliffs. Personnel: Cannonball Adderley (alto saxophone), Miles Davis (trumpet, on loan from Columbia Records), Hank Jones (piano, on loan from Capitol Records), Sam Jones (bass), Art Blakey (drums). Produced by Alfred Lion. This was nominally Adderley's date, but Davis's contractual situation with Columbia made him a guest – which is why the back cover notes he "performs by courtesy of Columbia Records." In practice, Davis leads the session as he would his own, and the album sounds more like a preview of Kind of Blue than a straightforward Adderley hard bop date.
 
-The original mono — recorded in the final months of Van Gelder's parents' Hackensack living room — is the definitive presentation. The mono tape captures Davis's muted trumpet with extraordinary intimacy and places Blakey's drums in the room with the listener. The Analogue Productions 45rpm 2LP and the MoFi UltraDisc One-Step are the two premium modern options; the Blue Note Classic Vinyl offers daily-listener quality at a fraction of the price.
+The original mono – recorded in the final months of Van Gelder's parents' Hackensack living room – is the definitive presentation. The mono tape captures Davis's muted trumpet with extraordinary intimacy and places Blakey's drums in the room with the listener. The Analogue Productions 45rpm 2LP and the MoFi UltraDisc One-Step are the two premium modern options; the Blue Note Classic Vinyl offers daily-listener quality at a fraction of the price.
 
 **Best early pressing for audiophiles:** [Original Blue Note BLP 1595 mono, 47 West 63rd label](https://www.discogs.com/release/982633-Cannonball-Adderley-Somethin-Else) – deep groove both sides, RVG etched, Plastylite P.
 
@@ -15,9 +15,15 @@ The original mono — recorded in the final months of Van Gelder's parents' Hack
 
 ## Recording history and tape provenance
 
-The Hackensack studio — in the living room of Rudy Van Gelder's parents' house on Prospect Avenue — was the site of hundreds of Prestige and Blue Note sessions between 1952 and 1959. By March 1958 Van Gelder was already planning the move to Englewood Cliffs, but the Hackensack room's acoustic character — intimate, warm, with a slightly live quality from the domestic space — remained fully intact. The March 1958 date produced one of the last great Hackensack sessions.
+The Hackensack studio – in the living room of Rudy Van Gelder's parents' house on Prospect Avenue – was the site of hundreds of Prestige and Blue Note sessions between 1952 and 1959. By March 1958 Van Gelder was already planning the move to Englewood Cliffs, but the Hackensack room's acoustic character – intimate, warm, with a slightly live quality from the domestic space – remained fully intact. The March 1958 date produced one of the last great Hackensack sessions.
 
-**Stereo note:** *Somethin' Else* was originally issued only in mono (BLP 1595). A stereo version (BST 81595) was released later — the stereo is considered a rechanneled fold-down of the mono master, not a native stereo recording, and is universally considered inferior. The mono is the only recommended listening format.
+The session's context is inseparable from its sound. Adderley had disbanded his own quintet in 1957 to join Miles Davis's group – the same band that had just recorded *Milestones* and would go on to record *Kind of Blue* the following year. Davis returned the favour here by appearing as a nominal sideman on Adderley's Blue Note date, but in practice he led the session: Davis called most of the tunes, wrote the title track, and played the head melodies on "Autumn Leaves" and "Love for Sale" with Hank Jones while Adderley sat out until his solo choruses. At the end of "One for Daddy-O," Davis can be heard asking producer Alfred Lion: "Is that what you wanted, Alfred?" It is one of the few times Davis recorded as a sideman after the mid-1950s.
+
+[LJC describes](https://londonjazzcollector.wordpress.com/2013/03/20/somethin-else-cannonball-adderley-1958-blue-note/) the Hackensack recording as "one of Van Gelder's finest recordings, perfectly balancing dynamic and tonal range with intimacy." The album opens with "Autumn Leaves" – Davis told Leonard Feather in the original liner notes: "All my inspiration today comes from Ahmad Jamal, the Chicago pianist. I got the idea for this treatment of 'Autumn Leaves' from him." Hank Jones's extended closing on that track is widely singled out as one of the most elegant piano passages in Blue Note's catalogue. "One for Daddy-O" was written by Nat Adderley for Chicago radio DJ Holmes "Daddy-O" Daylie. The Penguin Guide to Jazz selected *Somethin' Else* as part of its Core Collection.
+
+The album was originally released in **August 1958** as BLP 1595. A bonus track from the session – listed as "Alison's Uncle" (actually Hank Jones's "Bangoon," named after Nat Adderley's newborn daughter Alison) – has appeared on CD and some later reissues but was not on the original LP.
+
+**Stereo note:** *Somethin' Else* was originally issued only in mono (BLP 1595). A stereo version (BST 81595) was released later – the stereo is considered a rechanneled fold-down of the mono master, not a native stereo recording, and is universally considered inferior. The mono is the only recommended listening format.
 
 **Tape provenance:** The original Alfred Lion–era tapes are in the Blue Note/Universal archive. Analogue Productions, MoFi, and the Blue Note Classic Vinyl series all worked from the original analogue mono master tape.
 
@@ -36,7 +42,7 @@ Blue Note in 1958 used the **47 West 63rd, New York 23** address on labels. Auth
 - **Plastylite P** (the "ear") in the deadwax
 - Matrix: **BN-LP-1595-A (P) 9 M RVG** and **BN-LP-1595-B (P) 9 M RVG**
 - Laminated sleeve (front only typical)
-- Back cover: "John Coltrane performs by courtesy of Prestige" — wait, no. Back cover notes Miles Davis "by courtesy of Columbia Records" and Hank Jones "by courtesy of Capitol Records"
+- Back cover notes Miles Davis "performs by courtesy of Columbia Records" and Hank Jones "performs by courtesy of Capitol Records"
 
 Label address progression for BLP 1595: earliest copies have **47 West 63rd** (no "Inc."); later copies transition to **47 West 63rd Inc.** then to **43 West 61st** (after 1960 address change). The 47 West 63rd no-"Inc." copies are the original first pressing.
 
@@ -52,7 +58,7 @@ Later mono pressings show the "New York USA" address adopted in 1963. These are 
 
 ### MoFi UltraDisc One-Step 45rpm 2LP (2019) – the ultimate modern version
 
-**Cat. UD1S 2-022** | Format: 2×180g LP, 45rpm, gatefold box. **One-step lacquer-to-stamper plating (no mother, no electroform intermediate) from the original mono master tape at MoFi's own mastering facility. Pressed at QRP.** Limited to 5,000 numbered copies; now out of print. The one-step process is MoFi's most technically demanding output — fewer generations between tape and groove, with correspondingly low noise floor and high dynamic resolution. This is widely considered the finest vinyl version of *Somethin' Else*. **$300–$500 secondary.**
+**Cat. UD1S 2-022** | Format: 2×180g LP, 45rpm, gatefold box. **One-step lacquer-to-stamper plating (no mother, no electroform intermediate) from the original mono master tape at MoFi's own mastering facility. Pressed at QRP.** Limited to 5,000 numbered copies; now out of print. Note: the MoFi-gate (2022) disclosure confirmed MoFi's standard mastering chain involves a DSD intermediate step. The UD1S One-Step format is not immune – the same DSD-to-analog chain applies. This does not negate the sonic quality, but collectors should be aware the chain is not purely analog. The one-step process is MoFi's most technically demanding output – fewer generations between tape and groove, with correspondingly low noise floor and high dynamic resolution. This is widely considered the finest vinyl version of *Somethin' Else*. **$300–$500 secondary.**
 
 ### Analogue Productions 45rpm 2LP – the audiophile predecessor
 
@@ -74,13 +80,13 @@ Later mono pressings show the "New York USA" address adopted in 1963. These are 
 
 ## Buyer's guide by budget
 
-**Under $30:** The [**Blue Note Classic Vinyl BLP 1595**](https://www.discogs.com/release/16941781) — Kevin Gray cut, Optimal pressing, mono. The correct starting point.
+**Under $30:** The [**Blue Note Classic Vinyl BLP 1595**](https://www.discogs.com/release/16941781) – Kevin Gray cut, Optimal pressing, mono. The correct starting point.
 
-**$80–$150:** The [**AP 45rpm 2LP**](https://www.discogs.com/master/46560-Cannonball-Adderley-Somethin-Else) — AAA mastering, excellent sound; the serious listener's choice when the One-Step is unavailable.
+**$80–$150:** The [**AP 45rpm 2LP**](https://www.discogs.com/master/46560-Cannonball-Adderley-Somethin-Else) – AAA mastering, excellent sound; the serious listener's choice when the One-Step is unavailable.
 
-**$300–$500:** The [**MoFi UltraDisc One-Step UD1S 2-022**](https://www.discogs.com/release/13949563) — the definitive version when condition and provenance are confirmed.
+**$300–$500:** The [**MoFi UltraDisc One-Step UD1S 2-022**](https://www.discogs.com/release/13949563) – the definitive version when condition and provenance are confirmed.
 
-**$400+:** An original [**47 West 63rd (no "Inc.") first pressing**](https://www.discogs.com/master/46560-Cannonball-Adderley-Somethin-Else) with RVG etched and Plastylite P — for the collector who wants both the document and the sound.
+**$400+:** An original [**47 West 63rd (no "Inc.") first pressing**](https://www.discogs.com/master/46560-Cannonball-Adderley-Somethin-Else) with RVG etched and Plastylite P – for the collector who wants both the document and the sound.
 
 ---
 
