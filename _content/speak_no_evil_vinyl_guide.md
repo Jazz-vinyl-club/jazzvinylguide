@@ -2,13 +2,13 @@
 
 ## Summary
 
-*Speak No Evil* was recorded on **Christmas Eve, December 24, 1964**, at Van Gelder Studio in Englewood Cliffs, New Jersey. Engineered by **Rudy Van Gelder**, produced by **Alfred Lion**. Personnel: Wayne Shorter (tenor saxophone), Freddie Hubbard (trumpet), Herbie Hancock (piano), Ron Carter (bass), Elvin Jones (drums). Released in **June 1966** on Blue Note (BLP 4194 mono / BST 84194 stereo). It was Shorter's sixth album as a leader and his third Blue Note recording session in the space of a single year – 1964 also saw *Night Dreamer* (April) and *JuJu* (August), before Shorter joined the Miles Davis Quintet that summer.
+*Speak No Evil* was recorded on **Christmas Eve, December 24, 1964**, at Van Gelder Studio in Englewood Cliffs, New Jersey. Engineered by **Rudy Van Gelder**, produced by **Alfred Lion**. Personnel: Wayne Shorter (tenor saxophone), Freddie Hubbard (trumpet), Herbie Hancock (piano), Ron Carter (bass), Elvin Jones (drums). Released in **June 1966** on Blue Note (BLP 4194 mono / BST 84194 stereo). It was Shorter's sixth album as a leader and his third Blue Note recording session in the space of a single year – 1964 also saw *Night Dreamer* (April) and *JuJu* (August). Shorter had joined the Miles Davis Quintet in **September 1964**, several months before this session; *Speak No Evil* was thus one of his first Blue Note dates as a member of Miles's group.
 
 The album features six Shorter originals: "Witch Hunt," "Fee-Fi-Fo-Fum," "Dance Cadaverous," the title track, "Infant Eyes," and "Wild Flower." The session was a perfectionist one – LondonJazzCollector documents that [two tracks went to extraordinary take counts](https://londonjazzcollector.wordpress.com/2015/12/02/wayne-shorter-speak-no-evil-1964-blue-note-mm33/): Fee-Fi-Fo-Fum reached Take 25 and Dance Cadaverous Take 27. The cover photograph features Shorter's first wife, Teruko (Irene) Nakagami, whom he met in 1961.
 
 The Penguin Guide to Jazz selected it as part of its Core Collection, calling it "by far Shorter's most satisfying record." Murray Horwitz [said in 2001](https://en.wikipedia.org/wiki/Speak_No_Evil_(Wayne_Shorter_album)): "Speak No Evil is sort of a consolidation of Wayne Shorter's compositional excellence. It's so thorough and consistent and wide-ranging. It's almost a manifesto for his ideas."
 
-**Best early pressing for audiophiles:** [Original BST 84194 stereo, New York USA label, with Plastylite ear](https://www.discogs.com/release/382469-Wayne-Shorter-Speak-No-Evil) – VAN GELDER stamp, deep groove; the collector benchmark.
+**Best early pressing for audiophiles:** [Original BST 84194 stereo, New York USA label, with Plastylite ear](https://www.discogs.com/release/382469-Wayne-Shorter-Speak-No-Evil) – VAN GELDER stamp; the collector benchmark.
 
 **Best modern pressing:** [Music Matters 45rpm 2LP stereo (MMBST-84194, 2012)](https://www.discogs.com/release/3771718-Wayne-Shorter-Speak-No-Evil) – Kevin Gray / Steve Hoffman, RTI; or the [33rpm SRX stereo (2020)](https://www.discogs.com/release/15529480-Wayne-Shorter-Speak-No-Evil) – Kevin Gray, QRP. Both are AAA from the original stereo tape.
 
@@ -40,9 +40,10 @@ The most sought-after first pressings carry the **"Blue Note Records Inc. • Ne
 - Blue and white labels
 - **Plastylite ear** (the "P" etching) in the deadwax
 - **VAN GELDER** stamped in the deadwax
-- Deep groove labels
+- Non-laminated gatefold sleeve (Blue Note had ceased laminated covers by this era)
 - Matrix: **BNST-84194-A VAN GELDER P** / **BNST-84194-B VAN GELDER P**
-- Laminated gatefold sleeve
+
+Note: *Speak No Evil* was released in 1966; Blue Note had phased out both deep groove labels and laminated covers by approximately 1963–64, so first pressings of this title do not carry those features.
 
 These are the sonic benchmark. Discogs reviewer: "If you want to buy only one Wayne Shorter album, this is it! A true masterpiece from start to finish." Another notes that original stereo copies have a notably wide panning – the balance tends to sit quite right-heavy in some copies. **NM: $250–$600. VG+: $100–$300.**
 
@@ -56,11 +57,11 @@ The mono is somewhat less sought-after than the stereo on the secondary market (
 
 ### Liberty and United Artists era (1966–1973)
 
-After Liberty Records acquired Blue Note in 1966, pressings show "A Division of Liberty Records Inc." on the label. Van Gelder stamps remain on many early Liberty pressings (these used original metalwork), making them sonically acceptable. Later United Artists pressings (1971–73, [r7778903](https://www.discogs.com/release/7778903-Wayne-Shorter-Speak-No-Evil)) were repressed from Van Gelder plates but without the stamp; still usable. **Liberty with VG stamp: $30–$80 VG+. UA without stamp: $15–$40.**
+After Liberty Records acquired Blue Note in 1966, pressings show "A Division of Liberty Records Inc." on the label. Van Gelder stamps remain on many early Liberty pressings (these used original metalwork), making them sonically acceptable. Later United Artists pressings (1971–73, [r7778903](https://www.discogs.com/release/7778903-Wayne-Shorter-Speak-No-Evil)) vary: those that used original Van Gelder–cut metalwork will carry the VAN GELDER stamp and are sonically close to the Liberty copies; those without the stamp were cut from new lacquers by other engineers and are noticeably inferior. Always check the deadwax – the stamp is the key indicator. **Liberty/UA with VG stamp: $30–$80 VG+. UA without stamp: $15–$40.**
 
 ### French Pathé Marconi pressing (1983)
 
-A [pre-DMM French pressing](https://www.discogs.com/release/1367801-Wayne-Shorter-Speak-No-Evil) from Pathé Marconi that receives strong collector reviews for a European issue: "I like this pressing very much... sounds wonderful." Bright but not harsh; a recommended affordable alternative when originals are out of reach. **$30–$60.**
+A [French pressing from Pathé Marconi](https://www.discogs.com/release/1367801-Wayne-Shorter-Speak-No-Evil) that receives strong collector reviews for a European issue: "I like this pressing very much... sounds wonderful." Bright but not harsh. Note that Pathé Marconi was an early adopter of Direct Metal Mastering (DMM) technology from 1982 onward; this 1983 pressing may be a DMM cut rather than a conventional lacquer — check the deadwax for DMM identification. A recommended affordable alternative when originals are out of reach. **$30–$60.**
 
 ---
 
@@ -76,7 +77,7 @@ A [pre-DMM French pressing](https://www.discogs.com/release/1367801-Wayne-Shorte
 
 ### Music Matters 33rpm stereo – standard and SRX editions
 
-**Cat. MMBST-84194** | The [2015 standard 33rpm](https://www.discogs.com/release/15015100-Wayne-Shorter-Speak-No-Evil) and [2020 SRX pressing](https://www.discogs.com/release/15529480-Wayne-Shorter-Speak-No-Evil) both use Kevin Gray's mastering from the original stereo tape, pressed at QRP. The SRX pressing uses a different vinyl formulation. Both are excellent and considerably more affordable than the 45rpm. **$100–$200 secondary market.**
+**Cat. MMBST-84194** | The [2015 standard 33rpm](https://www.discogs.com/release/15015100-Wayne-Shorter-Speak-No-Evil) uses Kevin Gray's mastering from the original stereo tape, pressed at **RTI**. The [2020 SRX pressing](https://www.discogs.com/release/15529480-Wayne-Shorter-Speak-No-Evil) uses the same Kevin Gray mastering, pressed at **QRP**, with a different vinyl formulation. Both are excellent and considerably more affordable than the 45rpm. **$100–$200 secondary market.**
 
 ### Blue Note Classic Vinyl 180g (2021) – the accessible modern option
 
@@ -90,7 +91,7 @@ Limited to 3,000 copies. 180g blue vinyl ([r31430060](https://www.discogs.com/re
 
 ## Pressings to avoid
 
-**United Artists/Liberty era without Van Gelder stamp:** The later UA pressings (1971–73) were cut from secondary metalwork, sometimes without the original Van Gelder plates. Without the VAN GELDER stamp in the deadwax these are inferior to the Classic Vinyl at its current price.
+**United Artists/Liberty era without Van Gelder stamp:** The later UA pressings (1971–73) cut from new lacquers — identifiable by the absence of the VAN GELDER stamp in the deadwax — are inferior to the Classic Vinyl at its current price. UA copies *with* the VAN GELDER stamp used original metalwork and are a different matter entirely (see tier C above).
 
 **1970s Capitol/EMI "MASTERED BY LIBERTY" pressings:** These were cut by Capitol/EMI engineers using their own equipment – no Van Gelder involvement. Identified by the "MASTERED BY LIBERTY" stamp. Noticeably thinner-sounding than originals or the Classic Vinyl.
 
@@ -102,11 +103,11 @@ Limited to 3,000 copies. 180g blue vinyl ([r31430060](https://www.discogs.com/re
 
 **Under $35:** The [**Blue Note Classic Vinyl BST 84194 (2021)**](https://www.discogs.com/release/16941774-Wayne-Shorter-Speak-No-Evil) – Kevin Gray, 180g, Optimal. The recommended starting point; consistently flat and quiet, and among the best-received releases in the series.
 
-**$100–$200:** The [**Music Matters 33rpm SRX stereo (2020)**](https://www.discogs.com/release/15529480-Wayne-Shorter-Speak-No-Evil) if found at a reasonable price. Same Kevin Gray mastering, superior pressing quality to the Classic Vinyl.
+**$100–$200:** The [**Music Matters 33rpm SRX stereo (2020)**](https://www.discogs.com/release/15529480-Wayne-Shorter-Speak-No-Evil) if found at a reasonable price. Same Kevin Gray mastering, QRP pressing, superior pressing quality to the Classic Vinyl.
 
 **$200–$400:** The [**Music Matters 45rpm 2LP (MMBST-84194, 2012)**](https://www.discogs.com/release/3771718-Wayne-Shorter-Speak-No-Evil) on the secondary market – the audiophile statement for this album in stereo; luxurious presentation. Also in this range: a [**New York USA label stereo BST 84194 (with Plastylite)**](https://www.discogs.com/release/382469-Wayne-Shorter-Speak-No-Evil) in honest VG+ condition – the vintage collector option with Van Gelder's original tube-era lacquer.
 
-**$400+:** NM [**first pressing BST 84194 with Plastylite and deep groove**](https://www.discogs.com/release/382469-Wayne-Shorter-Speak-No-Evil) in genuine NM condition – for the collector who wants both provenance and the original Van Gelder cut. Or a [**BLP 4194 first mono pressing**](https://www.discogs.com/release/5052985-Wayne-Shorter-Speak-No-Evil) for the compressed, organic mono experience.
+**$400+:** NM [**first pressing BST 84194 with Plastylite**](https://www.discogs.com/release/382469-Wayne-Shorter-Speak-No-Evil) in genuine NM condition – for the collector who wants both provenance and the original Van Gelder cut. Or a [**BLP 4194 first mono pressing**](https://www.discogs.com/release/5052985-Wayne-Shorter-Speak-No-Evil) for the compressed, organic mono experience.
 
 ---
 
@@ -117,11 +118,11 @@ Limited to 3,000 copies. 180g blue vinyl ([r31430060](https://www.discogs.com/re
 | **S** | Music Matters 45rpm 2LP stereo | MMBST-84194 | 2012 | Stereo, 45rpm, 2×180g | Orig stereo tape → Kevin Gray / Steve Hoffman, RTI | Audiophile pinnacle; "luxurious widescreen presentation" (LJC); OOP $200–$400 | [Discogs](https://www.discogs.com/release/3771718-Wayne-Shorter-Speak-No-Evil) |
 | **A** | Original BST 84194 stereo, NY USA + Plastylite | BST 84194 | 1966 | Stereo, 33⅓ | RVG / Plastylite; native stereo tape | VAN GELDER + Plastylite ear required; $250–$600 NM | [Discogs](https://www.discogs.com/release/382469-Wayne-Shorter-Speak-No-Evil) |
 | **A** | Original BLP 4194 mono, NY USA label | BLP 4194 | 1966 | Mono, 33⅓ | RVG / Plastylite; native mono tape | "Organic vitality unique to VG mono mastering" (LJC); $200–$450 NM | [Discogs](https://www.discogs.com/release/5052985-Wayne-Shorter-Speak-No-Evil) |
-| **B** | Music Matters 33rpm stereo (2015) | MMBST-84194 | 2015 | Stereo, 33⅓, 180g | Orig stereo tape → Kevin Gray, QRP | Same mastering as 45rpm; OOP $80–$150 | [Discogs](https://www.discogs.com/release/15015100-Wayne-Shorter-Speak-No-Evil) |
+| **B** | Music Matters 33rpm stereo (2015) | MMBST-84194 | 2015 | Stereo, 33⅓, 180g | Orig stereo tape → Kevin Gray, RTI | Same mastering as 45rpm; OOP $80–$150 | [Discogs](https://www.discogs.com/release/15015100-Wayne-Shorter-Speak-No-Evil) |
 | **B** | Music Matters 33rpm SRX stereo (2020) | MMBST-84194 | 2020 | Stereo, 33⅓, 180g | Orig stereo tape → Kevin Gray, QRP | SRX vinyl formulation; OOP $100–$200 | [Discogs](https://www.discogs.com/release/15529480-Wayne-Shorter-Speak-No-Evil) |
 | **B** | Original BST 84194, NY USA (no Plastylite) | BST 84194 | 1966 | Stereo, 33⅓ | RVG, no Plastylite; second pressing | Sonically very close to first; $120–$250 NM | [Discogs](https://www.discogs.com/release/16727037-Wayne-Shorter-Speak-No-Evil) |
 | **B** | Blue Note Classic Vinyl 180g | BST 84194 | 2021 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Excellent value; "hard to improve on the original"; $20–$35 new | [Discogs](https://www.discogs.com/release/16941774-Wayne-Shorter-Speak-No-Evil) |
 | **C** | Liberty/UA era with Van Gelder stamp | BST 84194 | 1966–71 | Stereo, 33⅓ | RVG (if stamped); original metalwork | Check for VAN GELDER stamp; $30–$80 VG+ | [Discogs](https://www.discogs.com/release/8406468-Wayne-Shorter-Speak-No-Evil) |
-| **C** | French Pathé Marconi (1983, pre-DMM) | BST 84194 | 1983 | Stereo, 33⅓ | French pressing, pre-DMM | "Sounds wonderful"; bright but not harsh; $30–$60 | [Discogs](https://www.discogs.com/release/1367801-Wayne-Shorter-Speak-No-Evil) |
+| **C** | French Pathé Marconi (1983) | BST 84194 | 1983 | Stereo, 33⅓ | French pressing; may be DMM — check deadwax | "Sounds wonderful"; bright but not harsh; $30–$60 | [Discogs](https://www.discogs.com/release/1367801-Wayne-Shorter-Speak-No-Evil) |
 | **D** | UA/Capitol "MASTERED BY LIBERTY" | BST 84194 | 1973+ | Stereo, 33⅓ | Capitol/EMI remastering, no VG | EMI engineers, no Van Gelder involvement; below Classic Vinyl | – |
 | **D** | Generic European budget reissues | Various | 1970s+ | Stereo, 33⅓ | Various, no tape access | Not recommended over Classic Vinyl | – |
