@@ -58,7 +58,7 @@ Both cut on Scully lathes by Fred Plaut.
 - NM stereo CS 8192 CBS six-eye: **$50–$120**
 - NM mono CL 1397 six-eye, no CBS: **$150–$350**
 
-**The Dutch Fontana pressing:** [LJC's head-to-head](https://londonjazzcollector.wordpress.com/2013/03/15/dave-brubeck-time-out-1959-fontana/) compared a Dutch Fontana 682 065 TL (Philips Holland pressing) against a CBS six-eye: "The Fontana: a delight, Morello's cymbals sparkle and sizzle, Brubeck's piano resonates, notes have attack and decay, transients, musically, everything flows, draws you in. The CBS Six Eye shrivels before the Fontana." Matrix: AA 682 065 1L/2L. An undervalued alternative. **$80–$200 NM.** [Discogs r3518844](https://www.discogs.com/release/3518844-The-Dave-Brubeck-Quartet-Time-Out)
+**The Dutch Fontana pressing:** [LJC's head-to-head](https://londonjazzcollector.wordpress.com/2013/03/15/dave-brubeck-time-out-1959-fontana/) compared a Dutch Fontana 682 065 TL (Philips Holland pressing) against a CBS-overprinted six-eye. The Fontana won convincingly: "a delight, Morello's cymbals sparkle and sizzle, Brubeck's piano resonates, notes have attack and decay, transients, musically, everything flows, draws you in. The CBS Six Eye shrivels before the Fontana." **Importantly, the Fontana 682 065 TL is a MONO pressing** — the "TL" suffix in the Dutch Fontana/Philips catalogue denotes mono. LJC was comparing his mono Fontana against a CBS-overprinted six-eye stereo; the comparison speaks to the quality of the Fontana pressing and the mediocrity of the CBS six-eye, not to stereo vs. mono superiority. Collectors seeking a stereo Fontana should look for the YL or 885-series catalogue numbers. Matrix: AA 682 065 1L/2L. An undervalued mono alternative. **$80–$200 NM.** [Discogs r3518844](https://www.discogs.com/release/3518844-The-Dave-Brubeck-Quartet-Time-Out)
 
 ---
 
@@ -86,7 +86,7 @@ Both were standard double-sided single LPs at 33⅓rpm. Market: **$60–$150** f
 
 **2000 edition (200g Quiex SV-P):** Same Bernie Grundman mastering, now on 4×single-sided LPs at 45rpm. One track per side, in the Classic Records single-sided format. Widely considered the best-sounding Classic edition. Market: **$150–$300.**
 
-**2008 edition (Clarity SV-P II clear vinyl):** Same mastering again, on Classic Records' final vinyl compound iteration. Some collectors find the clear vinyl more analytically neutral; others prefer the Quiex warmth. Market: **$150–$350.**
+**2008 edition (Clarity SV-P II clear vinyl):** Same Bernie Grundman mastering and same metal stampers as the 2000 Quiex SV-P. The only difference is the vinyl compound — Clarity SV-P II omits carbon black, producing a clear disc. Some collectors find this more analytically neutral; others prefer the Quiex warmth. The mastering is identical. Market: **$150–$350.**
 
 Note: Both 4LP boxes reused the 1995 single-LP jacket artwork with "Copyright 1995" – this caused widespread dating confusion; the 4LP 45rpm format was first released in 2000, not 1995.
 
@@ -144,7 +144,7 @@ The 33rpm version delivers the same Grundman mastering at slightly reduced groov
 
 **$100–$300:** A [**clean NM stereo six-eye CS 8192, no CBS**](https://www.discogs.com/master/34081-The-Dave-Brubeck-Quartet-Time-Out) – Fred Plaut's original lacquer from the 30th Street Studio. The original has a specific air around the instruments, particularly Morello's drums, that reissues approximate but don't quite replicate.
 
-**$150–$350:** The [**Dutch Fontana 682 065 TL**](https://www.discogs.com/master/34081-The-Dave-Brubeck-Quartet-Time-Out) or a [**Classic Records 200g Quiex SV-P 4LP 45rpm (2000 edition)**](https://www.discogs.com/master/34081-The-Dave-Brubeck-Quartet-Time-Out) – both serious listening experiences for different reasons.
+**$150–$350:** A [**Classic Records 200g Quiex SV-P 4LP 45rpm (2000 edition)**](https://www.discogs.com/master/34081-The-Dave-Brubeck-Quartet-Time-Out) – the best Classic edition. For mono listeners: the [**Dutch Fontana 682 065 TL**](https://www.discogs.com/release/3518844-The-Dave-Brubeck-Quartet-Time-Out) is a mono pressing (TL = mono in the Fontana catalogue) praised by LJC for exceptional pressing quality.
 
 ---
 
@@ -163,12 +163,12 @@ The 33rpm version delivers the same Grundman mastering at slightly reduced groov
 |---|---|---|---|---|---|---|---|
 | **S** | AP 45rpm 2LP | APJ 8192-45 | 2012 | Stereo, 45rpm, 2×180–200g | Original tapes → Bernie Grundman, AAA, QRP | Garcia 5/5; piano/bass authority; ~$80–100 new | [Discogs](https://www.discogs.com/release/3791080-The-Dave-Brubeck-Quartet-Time-Out) |
 | **S** | Original six-eye stereo, no CBS | CS 8192 | 1959 | Stereo, 33⅓ | Scully/Westrex lacquer, Fred Plaut | Early matrix, no CBS; $200–$500 NM | [Discogs](https://www.discogs.com/release/4327349-The-Dave-Brubeck-Quartet-Time-Out) |
-| **A** | Dutch Fontana | 682 065 TL | c.1960 | Stereo, 33⅓ | Philips Holland pressing | LJC: "CBS 6-eye shrivels before the Fontana"; $80–$200 NM | [Discogs](https://www.discogs.com/release/3518844-The-Dave-Brubeck-Quartet-Time-Out) |
+| **B** | Dutch Fontana mono | 682 065 TL | c.1960 | **Mono**, 33⅓ | Philips Holland pressing | TL = mono in Fontana catalogue; LJC comparison vs CBS six-eye (not no-CBS original); $80–$200 NM | [Discogs](https://www.discogs.com/release/3518844-The-Dave-Brubeck-Quartet-Time-Out) |
 | **A** | Classic Records 200g Quiex SV-P 4LP 45rpm | CS 8192 (Classic) | 2000 | Stereo, 45rpm, 4×200g | Original tapes → Bernie Grundman, AAA | Best Classic edition; 4 single-sided LPs; OOP $150–$300 | [Discogs](https://www.discogs.com/master/34081-The-Dave-Brubeck-Quartet-Time-Out) |
 | **B** | AP 33rpm 180g | AAPJ 8192 | 2015 | Stereo, 33⅓, 180g | Original tapes → Bernie Grundman, AAA, QRP | Best-value modern; note cover typo says 45rpm; ~$35–40 new | [Discogs](https://www.discogs.com/release/7632519-The-Dave-Brubeck-Quartet-Time-Out) |
 | **B** | Original six-eye mono, no CBS | CL 1397 | 1959 | Mono, 33⅓ | Scully/Westrex lacquer, Fred Plaut | Discrete mono mix; unified ensemble; $150–$350 NM | [Discogs](https://www.discogs.com/release/4078103-The-Dave-Brubeck-Quartet-Time-Out) |
 | **B** | Classic Records 180g 33rpm | CS 8192 (Classic) | 1995 | Stereo, 33⅓, 180g/200g | Original tapes → Bernie Grundman, AAA | Original Classic single-LP edition; OOP $60–$150 | [Discogs](https://www.discogs.com/master/34081-The-Dave-Brubeck-Quartet-Time-Out) |
-| **C** | Classic Records Clarity SV-P II 4LP 45rpm | CS 8192 (Classic) | 2008 | Stereo, 45rpm, 4×200g clear | Original tapes → Bernie Grundman, AAA | Clear vinyl; analytically neutral; OOP $150–$350 | [Discogs](https://www.discogs.com/master/34081-The-Dave-Brubeck-Quartet-Time-Out) |
+| **B** | Classic Records Clarity SV-P II 4LP 45rpm | CS 8192 (Classic) | 2008 | Stereo, 45rpm, 4×200g clear | Original tapes → Bernie Grundman, AAA | Same stampers as 2000 Quiex edition; clear vinyl; some prefer Quiex warmth; OOP $150–$350 | [Discogs](https://www.discogs.com/master/34081-The-Dave-Brubeck-Quartet-Time-Out) |
 | **C** | CBS six-eye stereo | CS 8192 | 1961–62 | Stereo, 33⅓ | Later stampers; CBS overprint | Noticeably inferior; $50–$120 | [Discogs](https://www.discogs.com/release/2261853-The-Dave-Brubeck-Quartet-Time-Out) |
 | **C** | Holland CBS/Columbia represses | CBS 32792 | 1970s–80s | Stereo, 33⅓ | Repress lacquers | Well-regarded by some Discogs users; $20–$60 | [Discogs](https://www.discogs.com/master/34081-The-Dave-Brubeck-Quartet-Time-Out) |
 | **D** | 1970s–80s US Columbia represses | CS 8192 | 1970s–80s | Stereo, 33⅓ | Later Columbia lathes | Thinner, brighter; budget listening only | – |
