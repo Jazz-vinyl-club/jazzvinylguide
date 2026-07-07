@@ -104,8 +104,8 @@ a:hover { color: var(--paper); }
 /* Tables — scroll wrapper lets table exceed the 680px prose column */
 .album-content .table-wrap { overflow-x: auto; margin: 1.25rem 0 1.75rem; -webkit-overflow-scrolling: touch; width: min(100vw - 4rem, calc(var(--max-w) - var(--sidebar-w) - 3.5rem - 4rem)); max-width: none; }
 .album-content table { width: 100%; border-collapse: collapse; font-size: 0.8125rem; border-bottom: none; table-layout: fixed; }
-.album-content table th { font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--grey); padding: 0.55rem 0.75rem; text-align: left; border-bottom: 1px solid var(--border); background: var(--surface-2); white-space: nowrap; overflow: hidden; }
-.album-content table td { padding: 0.55rem 0.75rem; border-bottom: 1px solid var(--border); color: var(--paper-dim); vertical-align: top; overflow-wrap: break-word; word-break: break-word; }
+.album-content table th { font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--grey); padding: 0.55rem 1rem; text-align: left; border-bottom: 1px solid var(--border); background: var(--surface-2); white-space: nowrap; overflow: hidden; }
+.album-content table td { padding: 0.55rem 1rem; border-bottom: 1px solid var(--border); color: var(--paper-dim); vertical-align: top; overflow-wrap: break-word; word-break: break-word; }
 .album-content table tr:last-child td { border-bottom: none; }
 .album-content table tr:hover td { background: var(--surface); }
 
