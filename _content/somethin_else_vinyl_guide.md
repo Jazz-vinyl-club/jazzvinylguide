@@ -2,91 +2,105 @@
 
 ## Summary
 
-*Somethin' Else* was recorded on **March 9, 1958**, at Van Gelder Studio in Hackensack, New Jersey – one of the landmark late Hackensack sessions, recorded more than a year before Van Gelder completed his move to Englewood Cliffs in late 1959. Personnel: Cannonball Adderley (alto saxophone), Miles Davis (trumpet, on loan from Columbia Records), Hank Jones (piano, on loan from Capitol Records), Sam Jones (bass), Art Blakey (drums). Produced by Alfred Lion. This was nominally Adderley's date, but Davis's contractual situation with Columbia made him a guest – which is why the back cover notes he "performs by courtesy of Columbia Records." In practice, Davis leads the session as he would his own, and the album sounds more like a preview of Kind of Blue than a straightforward Adderley hard bop date.
+*Somethin' Else* was recorded on **March 9, 1958**, at Van Gelder Studio in Hackensack, New Jersey – one of the final landmark sessions at Van Gelder's Hackensack facility before his move to Englewood Cliffs in late 1959. Personnel: Cannonball Adderley (alto saxophone), Miles Davis (trumpet, by courtesy of Columbia Records), Hank Jones (piano, by courtesy of Capitol Records), Sam Jones (bass), Art Blakey (drums). Produced by **Alfred Lion**. Released on **Blue Note in August 1958** as BLP 1595 – Adderley's only recording for the label.
 
-The original mono – recorded at Van Gelder's Hackensack studio, still in its full acoustic prime – is the definitive presentation. The mono tape captures Davis's muted trumpet with extraordinary intimacy and places Blakey's drums in the room with the listener. The Analogue Productions 45rpm 2LP and the MoFi UltraDisc One-Step are the two premium modern options; the Blue Note Classic Vinyl offers daily-listener quality at a fraction of the price.
+This was nominally Adderley's date, but Davis's contractual arrangement with Columbia made him a guest – which is why the back cover states he "performs by courtesy of Columbia Records." In practice Davis led the session: he called most of the tunes, wrote the title track, and played the head melodies on "Autumn Leaves" and "Love for Sale" with Hank Jones while Adderley sat out until his solo choruses. It is one of the few times Davis recorded as a sideman after the mid-1950s. [AllMusic](https://www.allmusic.com/album/somethin-else-mw0000247835) calls it "one of the most gloriously laid-back blowing sessions of the hard bop era… in which both horn players are at their peak of lyrical invention." The Penguin Guide to Jazz selected it for the Core Collection.
 
-**Best early pressing for audiophiles:** [Original Blue Note BLP 1595 mono, 47 West 63rd label](https://www.discogs.com/release/982633-Cannonball-Adderley-Somethin-Else) – deep groove both sides, RVG etched, Plastylite P.
+The original mono is the definitive presentation – the only format recommended for listening. The mono tape captures Davis's muted trumpet with extraordinary intimacy and places Blakey's drums in the room with the listener. The Analogue Productions 45rpm 2LP and the MoFi UltraDisc One-Step are the two premium modern options; the Blue Note Classic Vinyl offers daily-listener quality at a fraction of the price.
 
-**Best modern pressing for audiophiles:** [MoFi UltraDisc One-Step 45rpm 2LP (2019)](https://www.discogs.com/release/13949563-Cannonball-Adderley-Somethin-Else) – one-step plating, 180g, QRP, strictly limited.
+**Best early pressing for audiophiles:** [Original Blue Note BLP 1595 mono, 47 West 63rd label](https://www.discogs.com/release/982633-Cannonball-Adderley-Somethin-Else) – deep groove both sides, RVG etched, Plastylite P; $400–$900 NM.
 
-**Best-value modern:** [Blue Note Classic Vinyl BLP 1595 (2020)](https://www.discogs.com/release/16941781-Cannonball-Adderley-Somethin-Else) – Kevin Gray, Optimal, 180g, around $25.
+**Best modern pressing for audiophiles:** [MoFi UltraDisc One-Step 45rpm 2LP (2019)](https://www.discogs.com/release/13949563-Cannonball-Adderley-Somethin-Else) – one-step plating, 180g, QRP, 5,000 numbered copies.
+
+**Best-value modern:** [Blue Note Classic Vinyl BLP 1595 (2020)](https://www.discogs.com/release/16941781-Cannonball-Adderley-Somethin-Else) – Kevin Gray, Optimal, 180g; ~$25 new.
 
 
 ## Recording history and tape provenance
 
-The Hackensack studio – in the living room of Rudy Van Gelder's parents' house on Prospect Avenue – was the site of hundreds of Prestige and Blue Note sessions between 1952 and 1959. Van Gelder would not complete his move to the new Englewood Cliffs facility until late 1959; the March 1958 date was thus recorded well within the studio's active life, and the room's acoustic character – intimate, warm, with a slightly live quality from the domestic space – remained fully intact. The March 1958 date produced one of the last great Hackensack sessions.
+Adderley had disbanded his own quintet in 1957 to join Miles Davis's group – the band that had just recorded *Milestones* and would record *Kind of Blue* the following year. Davis returned the favour by appearing on Adderley's Blue Note date. The working title for the session was "Cannonball Adderley's Five Stars."
 
-The session's context is inseparable from its sound. Adderley had disbanded his own quintet in 1957 to join Miles Davis's group – the same band that had just recorded *Milestones* and would go on to record *Kind of Blue* the following year. Davis returned the favour here by appearing as a nominal sideman on Adderley's Blue Note date, but in practice he led the session: Davis called most of the tunes, wrote the title track, and played the head melodies on "Autumn Leaves" and "Love for Sale" with Hank Jones while Adderley sat out until his solo choruses. At the end of "One for Daddy-O," Davis can be heard asking producer Alfred Lion: "Is that what you wanted, Alfred?" It is one of the few times Davis recorded as a sideman after the mid-1950s.
+The Hackensack studio – in the living room of Rudy Van Gelder's parents' house on Prospect Avenue – had been the site of hundreds of Prestige and Blue Note sessions since 1952. The room's acoustic character was intimate and warm, with a slightly live domestic quality that Van Gelder understood completely. [LJC calls](https://londonjazzcollector.wordpress.com/2013/03/20/somethin-else-cannonball-adderley-1958-blue-note/) it "one of Van Gelder's finest recordings, perfectly balancing dynamic and tonal range with intimacy."
 
-[LJC describes](https://londonjazzcollector.wordpress.com/2013/03/20/somethin-else-cannonball-adderley-1958-blue-note/) the Hackensack recording as "one of Van Gelder's finest recordings, perfectly balancing dynamic and tonal range with intimacy." The album opens with "Autumn Leaves" – Davis told Leonard Feather in the original liner notes: "All my inspiration today comes from Ahmad Jamal, the Chicago pianist. I got the idea for this treatment of 'Autumn Leaves' from him." Hank Jones's extended closing on that track is widely singled out as one of the most elegant piano passages in Blue Note's catalogue. "One for Daddy-O" was written by Nat Adderley for Chicago radio DJ Holmes "Daddy-O" Daylie. The Penguin Guide to Jazz selected *Somethin' Else* as part of its Core Collection.
+Davis led the session in everything but name: he called most of the tunes, played the head melodies on "Autumn Leaves" and "Love for Sale" with Hank Jones while Adderley sat out, and at the end of "One for Daddy-O" can be heard asking Alfred Lion directly: "Is that what you wanted, Alfred?" The album's five tracks each carry his unmistakable imprint even as sideman. His opening of "Autumn Leaves" with muted trumpet – slow, spacious, and slightly melancholic – sets the tone for the entire session. In Leonard Feather's original liner notes, Davis said: "All my inspiration today comes from Ahmad Jamal, the Chicago pianist. I got the idea for this treatment of 'Autumn Leaves' from him." Hank Jones's extended unaccompanied closing on "Autumn Leaves" is widely considered one of the most elegant piano passages in Blue Note's catalogue.
 
-The album was originally released in **August 1958** as BLP 1595. Two bonus tracks from the session have appeared on CD and some later reissues but were not on the original LP: "Bangoon" (a Hank Jones composition named after Nat Adderley's newborn daughter Alison) and "Alison's Uncle" (an alternate take of "Bangoon").
+"Love for Sale" was recorded by Davis's own Columbia band three months later, though that version remained unreleased for nearly two decades. "One for Daddy-O" was written by Nat Adderley for Chicago radio DJ Holmes "Daddy-O" Daylie. The title track – written by Davis – was described in the original liner notes as "a phrase of praise." "Dancing in the Dark" is Adderley's individual showcase; Davis told Feather: "I made him play this because I remembered hearing Sarah Vaughan do it like this." Critic A.B. Spellman called the album "near perfect, with not a wrong note nor throwaway song in its grooves."
 
-**Stereo note:** *Somethin' Else* was originally issued only in mono (BLP 1595). A stereo version (BST 81595) was released later – this is an electronically reprocessed (rechanneled) mono master, not a native stereo recording, and is universally considered inferior. The mono is the only recommended listening format.
+**The bonus track situation:** The original LP contains five tracks. A bonus track – Hank Jones's "Bangoon" (named after Nat Adderley's newborn daughter Alison) – appeared on CD and later reissues under the title "Alison's Uncle," then correctly as "Bangoon" on subsequent issues. It was not on the original LP.
 
-**Tape provenance:** The original Alfred Lion–era tapes are in the Blue Note/Universal archive. Analogue Productions, MoFi, and the Blue Note Classic Vinyl series all worked from the original analogue mono master tape.
+**Cover design:** Reid Miles designed the purely typographic cover – no photographs, almost certainly due to the contractual complexities of Davis and Hank Jones appearing on a Blue Note record under contract to other labels. LJC notes the compositional elegance of the design: Miles gave "Cannonball Adderley" two lines (Cannonball condensed, Adderley spaced) to contain the longer name within the rectangular grid, while "Art Blakey" at the bottom anchors the dynamic diagonal created by the diminishing first names and lengthening last names.
+
+**Stereo note:** BLP 1595 was originally issued mono only. A stereo version (BST 81595) was released later – electronically reprocessed from the mono master, not a native stereo recording. It is universally considered inferior and should be avoided. The original mono is the only recommended listening format.
+
+**Tape provenance:** The original Alfred Lion–era tapes are in the Blue Note/Universal archive in good condition. Analogue Productions, MoFi, and the Blue Note Classic Vinyl series all confirm working from the original analogue mono master tape.
 
 ---
 
 ## Original US Blue Note pressings
 
-**Catalogue: BLP 1595** (mono only; stereo BST 81595 is a rechanneled version)
+**Catalogue: BLP 1595** (mono only; stereo BST 81595 is rechanneled)
 
 ### First mono pressing – 47 West 63rd label
 
-Blue Note in 1958 used the **47 West 63rd, New York 23** address on labels. Authentication points for the earliest copies of BLP 1595:
+Blue Note in 1958 used the **47 West 63rd, New York 23** address on labels. Authentication markers for the earliest BLP 1595 copies:
 
 - **Blue and white label** with deep groove (both sides on earliest copies)
-- **RVG etched** (hand-written) in the deadwax
-- **Plastylite P** (the "ear") stamped in the deadwax – separate from the etched matrix string
-- Matrix: **BN-LP-1595-A** and **BN-LP-1595-B**, with **9 M RVG** etched alongside; the **P** (Plastylite ear) is stamped separately
-- Laminated sleeve (front only typical)
-- Back cover notes Miles Davis "performs by courtesy of Columbia Records" and Hank Jones "performs by courtesy of Capitol Records"
+- **RVG** hand-etched in the deadwax
+- **Plastylite P** ("ear") stamped separately in the deadwax
+- Matrix: **BN-LP-1595-A** / **BN-LP-1595-B**, with **9 M RVG** etched; the **P** stamped separately
+- Laminated front sleeve
+- Back cover: Miles Davis "performs by courtesy of Columbia Records"; Hank Jones "performs by courtesy of Capitol Records"
 
-Label address progression for BLP 1595: earliest copies have **47 West 63rd** (no "Inc."); later copies transition to **47 West 63rd Inc.** then to **43 West 61st** (after 1960 address change). The 47 West 63rd no-"Inc." copies are the original first pressing.
+**Label address sequence:** Earliest copies: **47 West 63rd** (no "Inc." or ®); slightly later: **47 West 63rd Inc.** with ®; after 1960 address change: **43 West 61st**; post-1963: **New York USA**. The 47 West 63rd no-"Inc." copies are the first pressing. Note: some copies show the ® on side 1 but not side 2 (or vice versa) – a known variant documented on Discogs from simultaneous pressing runs.
+
+Discogs community: "I'm surprised this OG First Press doesn't go for more money: it's both one of the greatest/popular jazz albums of all time and it's on the Blue Note label. Kind of an undervalued dollar steal in 2026." The [Skeptical Audiophile](https://ontherecord.co/2026/03/18/cannonball-adderley-somethin-else/) calls the best original copies "a triumph for Rudy Van Gelder" with "Tubey Magical Midrange that modern records can barely begin to reproduce."
 
 **NM originals: $400–$900. VG+: $200–$500.**
 
 ### New York USA address pressings (post-1963)
 
-Later mono pressings show the "New York USA" address adopted in 1963. Earlier copies in this run often utilized original RVG-cut stampers and are sonically very close to originals; however, as Blue Note changed ownership through Liberty (1966), United Artists, and later EMI, subsequent pressings may have been cut from copy tapes or by other engineers. **$100–$250 VG+.**
+Later mono pressings show the "New York USA" address. Earlier copies in this run used original RVG-cut stampers and are sonically very close to originals. As Blue Note changed ownership through Liberty (1966), United Artists, and later EMI, subsequent pressings may have been cut from copy tapes. Check the deadwax for the RVG stamp. **$100–$250 VG+.**
 
 ---
 
 ## The reissue hierarchy
 
-### MoFi UltraDisc One-Step 45rpm 2LP (2019) – the ultimate modern version
+### MoFi UltraDisc One-Step 45rpm 2LP (2019) – the current summit
 
-**Cat. UD1S 2-022** | Format: 2×180g LP, 45rpm, gatefold box. **One-step lacquer-to-stamper plating (no mother, no electroform intermediate) from the original mono master tape at MoFi's own mastering facility. Pressed at QRP.** Limited to 5,000 numbered copies; now out of print. Note: the MoFi-gate (2022) disclosure confirmed MoFi's standard mastering chain involves a DSD intermediate step. The UD1S One-Step format is not immune – the same DSD-to-analog chain applies. This does not negate the sonic quality, but collectors should be aware the chain is not purely analog. The one-step process is MoFi's most technically demanding output – fewer generations between tape and groove, with correspondingly low noise floor and high dynamic resolution. This is widely considered the finest vinyl version of *Somethin' Else*. **$300–$500 secondary.**
+**Cat. UD1S 2-022** | Format: 2×180g LP, 45rpm, gatefold box set. **One-step lacquer-to-stamper plating from the original mono master tape. Pressed at QRP.** Limited to 5,000 numbered copies; out of print. The one-step process cuts stampers directly from lacquers, bypassing the standard father-mother-stamper chain, giving a lower noise floor and finer groove resolution.
 
-### Analogue Productions 45rpm 2LP – the audiophile predecessor
+**MoFi-gate provenance note:** The 2022 disclosure confirmed MoFi's mastering chain involves a DSD intermediate step even on the UD1S format – the chain is analog tape → DSD → analog console → lathe, not fully analog. This does not negate the pressing quality, but collectors seeking a confirmed AAA chain should note this. Discogs: "Overall great instrument separation, but the soundstage is a bit marred by occasional right channel distortion from the miking of Blakey's cymbals on 'Daddy-O.' Even with that, this is now my go-to listen for this legendary album." Another owner who compared against the AP: "I've heard and owned three audiophile versions of this record and this one-step is easily my least favourite… For my personal taste the AP takes the prize. There is so much air between the instruments, the soundstage is wide and expansive." **$300–$500 secondary market.**
 
-**Cat. AP-81595** | Format: 2×45rpm LP, 180g, gatefold. **Mastered by Kevin Gray and Steve Hoffman, AAA, from the original mono master tape. Pressed at QRP.** The AP 45rpm set preceded the MoFi One-Step and established the benchmark before it. Still excellent and more accessible on the secondary market. **$80–$150 secondary.**
+### Analogue Productions 45rpm 2LP (2010) – the AAA benchmark
 
-### Blue Note Classic Vinyl 180g (2020) – the recommended daily listener
+**Cat. AP-81595** | Format: 2×200g LP, 45rpm, gatefold. **Mastered by Kevin Gray and Steve Hoffman at AcousTech, AAA, from the original mono master tape. Pressed at QRP.** The Vinyl Gourmet review describes the mastering sessions: "As much as I'd love to relay all kinds of anecdotes about the challenges Steve Hoffman and Kevin Gray encounter during the mastering sessions, I witness none. These boys know the sound of the facility and the Van Gelder masters like the backs of their hands... Back home a month later, I unpack some test pressings Chad Kassem has sent me… I hear the most realistic-sounding drums ever reproduced by my system."
 
-**Cat. B0032209-01** | Format: 180g LP, 33⅓, mono. **Mastered by Kevin Gray at Cohearent Audio. Pressed at Optimal in Germany.** The Classic Vinyl series delivers Kevin Gray's work at the most accessible price. **$20–$30 new.**
+Discogs owners: "Every bit as good as you would expect it to be. If you love this album, then you want this pressing." "Quite possibly the best jazz pressing I own, simply stunning." A direct AP vs MoFi comparison on Discogs: "The AP takes the prize. There is so much air between the instruments, the soundstage is wide and expansive. The audio has that 'it sounds like they are in the room' vibe. The bass/low end is fantastic on this release, tight and pronounced." Given that the AP is fully AAA and the MoFi involves a DSD step, many informed collectors now rate the AP above the One-Step. **$80–$150 secondary.**
+
+### Blue Note Classic Vinyl 180g mono (2020) – the recommended entry point
+
+**Cat. B0032209-01** | Format: 180g LP, 33⅓, mono. **Mastered by Kevin Gray at Cohearent Audio, from the original mono master tape. Pressed at Optimal in Germany.** Delivers Kevin Gray's mastering at the most accessible price point. Discogs: "Отличный релиз, саксофон и трампет просто великолепно звучат. Тяжёлый, абсолютно ровный винил." ("Excellent release, sax and trumpet sound wonderful. Heavy, absolutely flat vinyl.") **~$20–$30 new.**
 
 ---
 
 ## Pressings to avoid
 
-**BST 81595 stereo:** An electronically reprocessed (rechanneled) mono master; artificial stereo separation that distorts the ensemble balance. Worth avoiding in favour of any mono version.
+**BST 81595 rechanneled stereo:** Electronically reprocessed from the mono master. Artificial stereo separation distorts the ensemble balance – drums and bass in one channel, horns and piano in another. Avoid in favour of any mono version.
 
-**1970s–80s generic Blue Note reissues:** Various Liberty, United Artists, and later Blue Note/EMI reissues from this era were often cut from dubs. Not recommended when the Classic Vinyl is available.
+**Liberty, United Artists, and EMI-era reissues:** Various reissues from the 1966–1990s period were cut from dubs or by engineers without access to the original Van Gelder tapes. Not recommended when the Classic Vinyl is available at $25 new.
+
+**Generic European budget reissues:** Various unlicensed or poorly sourced EU pressings. Avoid.
 
 ---
 
 ## Buyer's guide by budget
 
-**Under $30:** The [**Blue Note Classic Vinyl BLP 1595**](https://www.discogs.com/release/16941781) – Kevin Gray cut, Optimal pressing, mono. The correct starting point.
+**Under $30:** The [**Blue Note Classic Vinyl BLP 1595 (2020)**](https://www.discogs.com/release/16941781-Cannonball-Adderley-Somethin-Else) – Kevin Gray, Optimal pressing, mono. The correct starting point.
 
-**$80–$150:** The [**AP 45rpm 2LP**](https://www.discogs.com/master/118117-Cannonball-Adderley-Somethin-Else) – AAA mastering, excellent sound; the serious listener's choice when the One-Step is unavailable.
+**$80–$150:** The [**AP 45rpm 2LP (AP-81595)**](https://www.discogs.com/release/2552019-Cannonball-Adderley-Somethin-Else) – fully AAA, Kevin Gray and Steve Hoffman, QRP. Many experienced collectors rate this above the MoFi One-Step for its confirmed analog chain. The serious listener's choice.
 
-**$300–$500:** The [**MoFi UltraDisc One-Step UD1S 2-022**](https://www.discogs.com/release/13949563) – the definitive version when condition and provenance are confirmed.
+**$200–$500:** The [**MoFi UltraDisc One-Step UD1S 2-022 (2019)**](https://www.discogs.com/release/13949563-Cannonball-Adderley-Somethin-Else) – finest pressing quality, lowest noise floor; the DSD provenance caveat applies. Out of print.
 
-**$400+:** An original [**47 West 63rd (no "Inc.") first pressing**](https://www.discogs.com/master/118117-Cannonball-Adderley-Somethin-Else) with RVG etched and Plastylite P – for the collector who wants both the document and the sound.
+**$400+:** An original [**47 West 63rd (no "Inc.") BLP 1595 first pressing**](https://www.discogs.com/release/982633-Cannonball-Adderley-Somethin-Else) with RVG etched and Plastylite P – Van Gelder's original tube-era lacquer, the most direct connection to the session.
 
 ---
 
@@ -94,9 +108,10 @@ Later mono pressings show the "New York USA" address adopted in 1963. Earlier co
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | MoFi UltraDisc One-Step 45rpm | UD1S 2-022 | 2019 | Mono, 45rpm, 2×180g | One-step from orig mono tape, QRP | 5,000 numbered; OOP; $300–$500 secondary | [Discogs](https://www.discogs.com/release/13949563-Cannonball-Adderley-Somethin-Else) |
-| **A** | Original BLP 1595 mono, 47 W 63rd no-Inc. | BLP 1595 | 1958 | Mono, 33⅓ | RVG etched / Plastylite P | First pressing; $400–$900 NM | [Discogs](https://www.discogs.com/release/982633-Cannonball-Adderley-Somethin-Else) |
-| **A** | AP 45rpm 2LP | AP-81595 | 2010 | Mono, 45rpm, 2×180g | Orig mono tape → Kevin Gray & Steve Hoffman, AAA, QRP | Excellent; $80–$150 secondary | [Discogs](https://www.discogs.com/release/2552019-Cannonball-Adderley-Somethin-Else) |
-| **B** | Blue Note Classic Vinyl 180g mono | B0032209-01 | 2020 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Budget entry point; $20–$30 | [Discogs](https://www.discogs.com/release/16941781-Cannonball-Adderley-Somethin-Else) |
-| **C** | NY USA label mono reissue | BLP 1595 | 1963–67 | Mono, 33⅓ | RVG stampers (earlier copies); later copies may differ | Earlier NY USA copies decent; later ownership runs variable | [Discogs](https://www.discogs.com/master/118117-Cannonball-Adderley-Somethin-Else) |
+| **S** | AP 45rpm 2LP | AP-81595 | 2010 | Mono, 45rpm, 2×200g | Orig mono tape → Kevin Gray & Steve Hoffman, AAA, QRP | Fully AAA; many prefer to MoFi; $80–$150 secondary | [Discogs](https://www.discogs.com/release/2552019-Cannonball-Adderley-Somethin-Else) |
+| **S** | MoFi UltraDisc One-Step 45rpm | UD1S 2-022 | 2019 | Mono, 45rpm, 2×180g | Orig mono tape → DSD → lathe, QRP | One-step plating; DSD chain; 5,000 copies; $300–$500 | [Discogs](https://www.discogs.com/release/13949563-Cannonball-Adderley-Somethin-Else) |
+| **A** | Original BLP 1595 mono, 47 W 63rd no-Inc. | BLP 1595 | 1958 | Mono, 33⅓ | RVG / Plastylite P; first pressing | Deep groove; $400–$900 NM | [Discogs](https://www.discogs.com/release/982633-Cannonball-Adderley-Somethin-Else) |
+| **B** | Blue Note Classic Vinyl 180g mono | B0032209-01 | 2020 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Best value; ~$20–$30 new | [Discogs](https://www.discogs.com/release/16941781-Cannonball-Adderley-Somethin-Else) |
+| **C** | NY USA label mono reissue | BLP 1595 | 1963–67 | Mono, 33⅓ | RVG stampers (earlier copies) | Check deadwax for RVG stamp; $100–$250 VG+ | [Discogs](https://www.discogs.com/master/118117-Cannonball-Adderley-Somethin-Else) |
 | **D** | BST 81595 rechanneled stereo | BST 81595 | 1960s+ | Fake stereo | Rechanneled from mono | Artificial separation; not recommended | – |
+| **D** | Liberty / UA / EMI reissues | Various | 1966–90s | Mono, 33⅓ | Dubs or secondary metalwork | Not recommended over Classic Vinyl | – |
