@@ -2,9 +2,9 @@
 
 ## Summary
 
-*The Köln Concert* was recorded live on **January 24, 1975**, at the Cologne Opera House (Oper Köln), West Germany. Solo piano improvisation by Keith Jarrett; produced by Manfred Eicher. Recording engineer: Martin Wieland, using Neumann U 67 microphones and a Bösendorfer 290 Imperial grand piano (the only piano available — notably unsuitable for the venue, worn in the upper registers and weakly voiced in the bass). Released November 30, 1975 on ECM. The Köln Concert became the best-selling solo piano album in history and the best-selling jazz album ever, with over four million copies sold. In 2025 it was inducted into the Library of Congress National Recording Registry.
+*The Köln Concert* was recorded live on **January 24, 1975**, at the Cologne Opera House (Oper Köln), West Germany. Solo piano improvisation by Keith Jarrett; produced by Manfred Eicher. Recording engineer: Martin Wieland, using Neumann U 67 microphones and a Bösendorfer 290 Imperial grand piano (the only piano available – notably unsuitable for the venue, worn in the upper registers and weakly voiced in the bass). Released November 30, 1975 on ECM. The Köln Concert became the best-selling solo piano album in history and the best-selling jazz album ever, with over four million copies sold. In 2025 it was inducted into the Library of Congress National Recording Registry.
 
-The story of the concert's near-cancellation is inseparable from the music. The 17-year-old promoter Vera Brandes had ordered a Bösendorfer 290 Imperial; a smaller, unsuitable instrument arrived instead. Jarrett nearly refused to play. The resulting improvisation — partly driven by his efforts to work around the piano's weaknesses — became an unrepeatable document of creative necessity.
+The story of the concert's near-cancellation is inseparable from the music. Promoter Vera Brandes – then 18 and already Germany's youngest professional concert promoter – had ordered a Bösendorfer 290 Imperial; a smaller, unsuitable instrument arrived instead. Jarrett nearly refused to play. The resulting improvisation – partly driven by his efforts to work around the piano's weaknesses – became an unrepeatable document of creative necessity.
 
 **Best early pressing for audiophiles:** [Original German ECM 1064/65 ST, laminated gatefold, short runout](https://www.discogs.com/release/8735978-Keith-Jarrett-The-K%C3%B6ln-Concert) – the first issue, identifiable by "ECM Records" logo and "Urheber-" rim text.
 
@@ -15,9 +15,13 @@ The story of the concert's near-cancellation is inseparable from the music. The 
 
 ## Recording history and tape provenance
 
-Jarrett's residency on the ECM label had produced several well-regarded solo and quartet albums, but nothing had prepared either him or Manfred Eicher for what the Cologne concert produced. The piano's deficiencies forced Jarrett to avoid the extreme registers and play in a more percussive, rhythmically driven style in the lower-mid range — the result, paradoxically, was a performance of unusual harmonic density and rhythmic momentum.
+Jarrett was 29 at the time of the concert, already well established through his work with Charles Lloyd's quartet, Miles Davis's electric bands, and a series of ECM solo recordings including *Facing You* (1971) and *Bremen/Lausanne* (1973). But nothing in his discography had prepared either him or Eicher for what the Cologne concert produced.
 
-Eicher captured the concert in excellent fidelity for a live recording of the period. The tape is in good condition and has been a consistent source for all authorised reissues. The two-LP gatefold format — Part I on disc one, Part IIa, IIb, and IIc on disc two — is the original and correct presentation.
+The piano's deficiencies forced Jarrett to avoid the tinny upper registers and work in the lower-mid range with propulsive left-hand ostinato figures – a strategy that gave the performance its trance-like, rhythmically driven character. [Tim Harford's 2019 *Cautionary Tales* podcast](https://timharford.com/2019/09/cautionary-tales-ep-1-too-big-to-fail/) describes it well: "The substandard instrument forced Jarrett away from the tinny high notes and into the middle register. His left hand produced rumbling, repetitive bass riffs as a way of conveying up the piano's lack of resonance. Both of these elements gave the performance an almost trance-like quality." Part I opens with a simple motif in G major that expands over 26 minutes into a rich soundscape; Part II, spread across three sides, is more urgent and rhythmically driven, building to an extended climax. Vera Brandes recalled: "Everybody in the room knew that this was not the Cologne opera anymore, this was a cathedral."
+
+Eicher captured the concert with ECM engineer Martin Wieland using two Neumann U 67 microphones – excellent fidelity for a live recording of the period. The tape is in good condition and has been a consistent source for all authorised reissues. The two-LP gatefold format – Part I on disc one, Parts IIa, IIb, and IIc on disc two – is the original and correct presentation.
+
+In 2018 Jarrett suffered two severe strokes that left him partially paralysed and unable to play with his left hand. He has not performed publicly since. The 2025 film [*Köln 75*](https://www.imdb.com/title/tt14852728/) (dir. Ido Fluk), with John Magaro as Jarrett and Mala Emde as Brandes, dramatises the events of that evening – though it was made without Jarrett's cooperation and features none of the original concert music.
 
 **Label variants on German originals:** The earliest copies carry "ECM Records" in the label logo and "Urheber-" text in the rim (an early German pressing convention). Slightly later copies replace "ECM Records" with "ECM" only and update the rim text to "Alle." Both are sonically equivalent and from the same pressing plant and mastering. The "Urheber-" copies command a small premium. Later German pressings (Polydor distribution era) can be identified by different runout matrix stamps.
 
@@ -70,11 +74,11 @@ The more common original ECM pressings use the abbreviated "ECM" label logo and 
 
 ## Buyer's guide by budget
 
-**Under €45:** The [**2010 ECM 180g Pallas pressing**](https://www.discogs.com/release/3979641) — this is the recommended listening copy and available at reasonable prices. Not significantly inferior to an original for most systems.
+**Under €45:** The [**2010 ECM 180g Pallas pressing**](https://www.discogs.com/release/3979641) – this is the recommended listening copy and available at reasonable prices. Not significantly inferior to an original for most systems.
 
 **€100–€250:** A clean original [**"ECM Records" label first pressing**](https://www.discogs.com/release/8735978) for the completist collector. Verify the Urheber- rim text and short runout.
 
-**€25–€80:** The [**ECM 50th Anniversary (2025)**](https://www.discogs.com/master/270267-Keith-Jarrett-The-K%C3%B6ln-Concert) — if the commemorative packaging appeals and you want the most recent official edition.
+**€25–€80:** The [**ECM 50th Anniversary (2025)**](https://www.discogs.com/master/270267-Keith-Jarrett-The-K%C3%B6ln-Concert) – if the commemorative packaging appeals and you want the most recent official edition.
 
 ---
 
