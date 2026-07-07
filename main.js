@@ -1,6 +1,7 @@
 (function () {
   'use strict';
 
+  // ── TOC for album pages ───────────────────────────────────────────────────
   var content = document.getElementById('album-content');
   var tocList = document.getElementById('toc-list');
 
@@ -37,4 +38,61 @@
 
     headings.forEach(function (h) { observer.observe(h); });
   }
+
+  // ── Album index search + sort ─────────────────────────────────────────────
+  var grid      = document.getElementById('albumGrid');
+  var searchEl  = document.getElementById('albumSearch');
+  var sortBtns  = document.querySelectorAll('.albums-sort__btn');
+  var noResults = document.getElementById('albumsNoResults');
+
+  if (!grid || !searchEl) return;
+
+  var cards = Array.from(grid.querySelectorAll('.album-card'));
+  var currentSort = 'default';
+  var originalOrder = cards.slice(); // preserve DOM order for "Default"
+
+  function getVal(card, key) {
+    return card.dataset[key] || '';
+  }
+
+  function applyFilter() {
+    var query = searchEl.value.trim().toLowerCase();
+    var visible = 0;
+    cards.forEach(function (card) {
+      var match = !query ||
+        getVal(card, 'title').includes(query) ||
+        getVal(card, 'artist').includes(query) ||
+        getVal(card, 'label').includes(query) ||
+        getVal(card, 'year').includes(query);
+      card.style.display = match ? '' : 'none';
+      if (match) visible++;
+    });
+    if (noResults) noResults.style.display = visible === 0 ? 'block' : 'none';
+  }
+
+  function applySort(key) {
+    var sorted;
+    if (key === 'default') {
+      sorted = originalOrder.slice();
+    } else {
+      sorted = cards.slice().sort(function (a, b) {
+        return getVal(a, key).localeCompare(getVal(b, key));
+      });
+    }
+    sorted.forEach(function (card) { grid.appendChild(card); });
+    cards = sorted;
+  }
+
+  searchEl.addEventListener('input', applyFilter);
+
+  sortBtns.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      sortBtns.forEach(function (b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      currentSort = btn.dataset.sort;
+      applySort(currentSort);
+      applyFilter();
+    });
+  });
+
 })();
