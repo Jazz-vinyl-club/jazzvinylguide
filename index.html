@@ -22,50 +22,60 @@
   <h1 class="hero__title">Collector-grade guides for essential jazz albums</h1>
 </section>
 <section class="albums-section">
-  <div class="album-grid">
-    <a class="album-card" href="/albums/kind-of-blue.html">
+  <div class="albums-controls">
+    <input class="albums-search" id="albumSearch" type="search" placeholder="Search albums, artists, labels…" autocomplete="off" spellcheck="false">
+    <div class="albums-sort">
+      <span class="albums-sort__label">Sort by</span>
+      <button class="albums-sort__btn active" data-sort="default">Default</button>
+      <button class="albums-sort__btn" data-sort="title">Title</button>
+      <button class="albums-sort__btn" data-sort="artist">Artist</button>
+      <button class="albums-sort__btn" data-sort="year">Year</button>
+    </div>
+  </div>
+  <div class="album-grid" id="albumGrid">
+    <a class="album-card" data-title="kind of blue" data-artist="miles davis" data-label="columbia" data-year="1959" href="/albums/kind-of-blue.html">
       <img src="/covers/kind-of-blue.jpg" alt="Kind of Blue" class="album-card__cover">
       <h2 class="album-card__title">Kind of Blue</h2>
       <p class="album-card__artist">Miles Davis</p>
       <p class="album-card__meta">Columbia · 1959</p>
       <span class="album-card__arrow">Read full guide →</span>
     </a>
-    <a class="album-card" href="/albums/a-love-supreme.html">
+    <a class="album-card" data-title="a love supreme" data-artist="john coltrane" data-label="impulse!" data-year="1965" href="/albums/a-love-supreme.html">
       <img src="/covers/a-love-supreme.jpg" alt="A Love Supreme" class="album-card__cover">
       <h2 class="album-card__title">A Love Supreme</h2>
       <p class="album-card__artist">John Coltrane</p>
       <p class="album-card__meta">Impulse! · 1965</p>
       <span class="album-card__arrow">Read full guide →</span>
     </a>
-    <a class="album-card" href="/albums/sunday-at-the-village-vanguard.html">
+    <a class="album-card" data-title="sunday at the village vanguard" data-artist="bill evans trio" data-label="riverside" data-year="1961" href="/albums/sunday-at-the-village-vanguard.html">
       <img src="/covers/sunday-at-the-village-vanguard.jpg" alt="Sunday at the Village Vanguard" class="album-card__cover">
       <h2 class="album-card__title">Sunday at the Village Vanguard</h2>
       <p class="album-card__artist">Bill Evans Trio</p>
       <p class="album-card__meta">Riverside · 1961</p>
       <span class="album-card__arrow">Read full guide →</span>
     </a>
-    <a class="album-card" href="/albums/getz-gilberto.html">
+    <a class="album-card" data-title="getz/gilberto" data-artist="stan getz & joão gilberto" data-label="verve" data-year="1964" href="/albums/getz-gilberto.html">
       <img src="/covers/getz-gilberto.jpg" alt="Getz/Gilberto" class="album-card__cover">
       <h2 class="album-card__title">Getz/Gilberto</h2>
       <p class="album-card__artist">Stan Getz & João Gilberto</p>
       <p class="album-card__meta">Verve · 1964</p>
       <span class="album-card__arrow">Read full guide →</span>
     </a>
-    <a class="album-card" href="/albums/my-favorite-things.html">
+    <a class="album-card" data-title="my favorite things" data-artist="john coltrane" data-label="atlantic" data-year="1961" href="/albums/my-favorite-things.html">
       <img src="/covers/my-favorite-things.jpg" alt="My Favorite Things" class="album-card__cover">
       <h2 class="album-card__title">My Favorite Things</h2>
       <p class="album-card__artist">John Coltrane</p>
       <p class="album-card__meta">Atlantic · 1961</p>
       <span class="album-card__arrow">Read full guide →</span>
     </a>
-    <a class="album-card" href="/albums/mingus-ah-um.html">
+    <a class="album-card" data-title="mingus ah um" data-artist="charles mingus" data-label="columbia" data-year="1959" href="/albums/mingus-ah-um.html">
       <img src="/covers/mingus-ah-um.jpg" alt="Mingus Ah Um" class="album-card__cover">
       <h2 class="album-card__title">Mingus Ah Um</h2>
       <p class="album-card__artist">Charles Mingus</p>
       <p class="album-card__meta">Columbia · 1959</p>
       <span class="album-card__arrow">Read full guide →</span>
     </a>
-    <a class="album-card" href="/albums/moanin.html">
+    <a class="album-card" data-title="moanin'" data-artist="art blakey and the jazz messengers" data-label="blue note" data-year="1959" href="/albums/moanin.html">
       <img src="/covers/moanin.jpg" alt="Moanin'" class="album-card__cover">
       <h2 class="album-card__title">Moanin'</h2>
       <p class="album-card__artist">Art Blakey and the Jazz Messengers</p>
@@ -73,6 +83,7 @@
       <span class="album-card__arrow">Read full guide →</span>
     </a>
   </div>
+  <p class="albums-no-results" id="albumsNoResults" style="display:none">No albums match your search.</p>
 </section></main>
 <footer class="site-footer">
   <p><a href="https://jazzvinylguide.com">jazzvinylguide.com</a> — Collector-grade pressing guides. <a href="/contribute.html">Contribute</a>.</p>
