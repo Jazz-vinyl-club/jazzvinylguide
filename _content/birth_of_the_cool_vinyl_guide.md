@@ -42,7 +42,7 @@ The earliest identified copies:
 - **"Long Playing"** text only at the bottom (no "High Fidelity")
 - Rim text: **"Manufactured By Capitol Records Inc • Hollywood, California • U.S.A."**
 - Runouts: **machine-stamped** (not hand-etched); **Scranton anvil symbol** identifies the pressing plant
-- Matrix: **T1-762 D2#2** (Side A) / **T2-762 D1** (Side B)
+- Matrix: **T1-762 D2#2** (Side A) / **T2-762 D1** (Side B) – example numbers for a Scranton pressing; matrix suffixes vary by stamper and plant
 - Laminated front sleeve
 
 **NM first-press originals: $200–$600. VG+: $80–$250.**
