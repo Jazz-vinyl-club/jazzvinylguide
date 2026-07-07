@@ -10,3 +10,8 @@
   [headers.values]
     X-Frame-Options = "DENY"
     X-Content-Type-Options = "nosniff"
+
+[[headers]]
+  for = "/status.html"
+  [headers.values]
+    X-Robots-Tag = "noindex"
