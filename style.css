@@ -152,3 +152,15 @@ a:hover { color: var(--paper); }
   *, *::before, *::after { transition-duration: 0.01ms !important; }
   html { scroll-behavior: auto; }
 }
+
+/* Album index controls */
+.albums-controls { display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+.albums-search { flex: 1; min-width: 200px; max-width: 360px; padding: 0.55rem 0.9rem; border: 1px solid var(--border); border-radius: 4px; background: var(--surface); color: var(--paper); font-family: var(--sans); font-size: 0.875rem; outline: none; transition: border-color 0.15s; }
+.albums-search:focus { border-color: var(--gold); }
+.albums-search::placeholder { color: var(--grey); }
+.albums-sort { display: flex; align-items: center; gap: 0.5rem; }
+.albums-sort__label { font-size: 0.75rem; color: var(--grey); text-transform: uppercase; letter-spacing: 0.08em; white-space: nowrap; }
+.albums-sort__btn { padding: 0.35rem 0.75rem; border: 1px solid var(--border); border-radius: 4px; background: transparent; color: var(--grey-light); font-family: var(--sans); font-size: 0.75rem; cursor: pointer; transition: all 0.15s; white-space: nowrap; }
+.albums-sort__btn:hover { border-color: var(--gold); color: var(--gold); }
+.albums-sort__btn.active { border-color: var(--gold); color: var(--gold); background: var(--surface-2); }
+.albums-no-results { color: var(--grey); font-size: 0.875rem; padding: 2rem 0; text-align: center; }
