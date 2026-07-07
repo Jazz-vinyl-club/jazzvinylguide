@@ -207,8 +207,8 @@ def build_album(album):
     print(f"  ✓ albums/{slug}.html")
 
 
-def fetch_commit_dates(filename):
-    """Fetch first and last commit dates for a content file."""
+def fetch_commit_history(filename):
+    """Fetch full commit history for a content file from GitHub API."""
     try:
         import os as _os
         tok = _os.environ.get("GITHUB_TOKEN", "")
@@ -218,43 +218,41 @@ def fetch_commit_dates(filename):
         with urllib.request.urlopen(req, timeout=10) as r:
             commits = json.loads(r.read())
         if not commits:
-            return None, None
-        return (commits[-1]["commit"]["committer"]["date"][:10],
-                commits[0]["commit"]["committer"]["date"][:10])
+            return None, None, []
+        first = commits[-1]["commit"]["committer"]["date"][:10]
+        last  = commits[0]["commit"]["committer"]["date"][:10]
+        messages = [c["commit"]["message"].lower() for c in commits]
+        return first, last, messages
     except Exception:
-        return None, None
+        return None, None, []
+
+def classify_status(first, last, messages):
+    """Dynamically classify a guide's status from its commit history."""
+    updated = first != last if (first and last) else False
+    all_msgs = " ".join(messages)
+    is_rewrite = any(w in all_msgs for w in ["rewrite", "full content upgrade", "full upgrade"])
+    is_auto_fc = any(w in all_msgs for w in ["automated fact-check", "gemini", "pipeline"])
+    is_manual_fc = any(w in all_msgs for w in ["fact-check", "fact check", "fix ", "correct", "fixes"])
+    return updated, is_rewrite, is_manual_fc, is_auto_fc
 
 
 def build_status(albums):
     """Build the hidden status/tracking page at /status.html."""
     print("  Building status page...")
-    manual_fc = {
-        "a_love_supreme", "getz_gilberto", "giant_steps", "head_hunters",
-        "kind_of_blue", "mingus_ah_um", "moanin", "my_favorite_things",
-        "shape_of_jazz_to_come", "speak_no_evil", "sunday_at_the_village_vanguard", "time_out"
-    }
-    auto_fc  = {"kind_of_blue", "speak_no_evil"}
-    rewrites = {"head_hunters", "speak_no_evil", "out_to_lunch", "birth_of_the_cool"}
-    upgrades = {
-        "a_love_supreme", "bitches_brew", "birth_of_the_cool", "getz_gilberto",
-        "giant_steps", "head_hunters", "kind_of_blue", "mingus_ah_um", "moanin",
-        "my_favorite_things", "out_to_lunch", "shape_of_jazz_to_come", "speak_no_evil",
-        "sunday_at_the_village_vanguard", "time_out"
-    }
     rows = ""
     for a in albums:
-        slug = a["slug"].replace("-", "_")
-        first, last = fetch_commit_dates(a["content_file"])
+        first, last, messages = fetch_commit_history(a["content_file"])
+        updated, is_rewrite, is_manual_fc, is_auto_fc = classify_status(first, last, messages)
         d = last or ""
-        if slug in rewrites:
+        if is_rewrite:
             dc = "<td class=\"status-yes\">Full rewrite<br><span class=\"status-date\">" + d + "</span></td>"
-        elif slug in upgrades:
+        elif updated:
             dc = "<td class=\"status-yes\">Updated<br><span class=\"status-date\">" + d + "</span></td>"
         else:
             dc = "<td class=\"status-no\">&#8212;</td>"
-        if slug in auto_fc and slug in manual_fc:
+        if is_auto_fc and is_manual_fc:
             fc = "<td class=\"status-yes\">Manual + Automated<br><span class=\"status-date\">" + d + "</span></td>"
-        elif slug in manual_fc:
+        elif is_manual_fc:
             fc = "<td class=\"status-yes\">Manual<br><span class=\"status-date\">" + d + "</span></td>"
         else:
             fc = "<td class=\"status-no\">&#8212;</td>"
