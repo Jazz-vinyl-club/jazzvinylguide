@@ -246,15 +246,15 @@ def build_status(albums):
         first, last = fetch_commit_dates(a["content_file"])
         d = last or ""
         if slug in rewrites:
-            dc = "<td class=\"status-yes\">Full rewrite<br><span class=\"status-date\">" + d + "</span></td>"
+            dc = "<td class=\"status-yes\">Full rewrite</td>"
         elif slug in upgrades:
-            dc = "<td class=\"status-yes\">Updated<br><span class=\"status-date\">" + d + "</span></td>"
+            dc = "<td class=\"status-yes\">Updated</td>"
         else:
             dc = "<td class=\"status-no\">&#8212;</td>"
         if slug in auto_fc and slug in manual_fc:
-            fc = "<td class=\"status-yes\">Manual + Automated<br><span class=\"status-date\">" + d + "</span></td>"
+            fc = "<td class=\"status-yes\">Manual + Automated</td>"
         elif slug in manual_fc:
-            fc = "<td class=\"status-yes\">Manual<br><span class=\"status-date\">" + d + "</span></td>"
+            fc = "<td class=\"status-yes\">Manual</td>"
         else:
             fc = "<td class=\"status-no\">&#8212;</td>"
         link = "<a href=\"/albums/" + a["slug"] + ".html\">" + a["title"] + "</a>"
