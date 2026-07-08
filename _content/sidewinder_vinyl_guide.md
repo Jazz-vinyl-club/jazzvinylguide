@@ -2,22 +2,30 @@
 
 ## Summary
 
-*The Sidewinder* was recorded in a single session on **December 21, 1963**, at Van Gelder Studio in Englewood Cliffs, New Jersey. Personnel: Lee Morgan (trumpet), Joe Henderson (tenor saxophone), Barry Harris (piano, on loan from Riverside Records), Bob Cranshaw (bass), Billy Higgins (drums). Produced by Alfred Lion. Released July 1964 on Blue Note as BLP 4157 (mono) and BST 84157 (stereo). The title track became Blue Note's best-selling single ever, eventually reaching number 81 on the Billboard Hot 100 in January 1965. The album saved Blue Note from near-bankruptcy and ushered in the boogaloo era – Morgan had essentially written the most infectious 24-bar blues riff in jazz. Bob Cranshaw's name is misspelled as "Bob Crenshaw" on the cover; this error was not corrected until the Blue Note 85th Anniversary reissue decades later.
+*The Sidewinder* was recorded in a single session on **December 21, 1963**, at Van Gelder Studio in Englewood Cliffs, New Jersey. Personnel: Lee Morgan (trumpet), Joe Henderson (tenor saxophone), Barry Harris (piano, by courtesy of Riverside Records), Bob Cranshaw (bass), Billy Higgins (drums). Produced by Alfred Lion. Released July 1964 on Blue Note as BLP 4157 (mono) and BST 84157 (stereo). The Penguin Guide to Jazz selected it for the Core Collection and awarded the title track a Crown, calling it "a glorious 24-bar theme as sinuous and stinging as the beast of the title." Bob Cranshaw's name is misspelled as "Bob Crenshaw" on the cover; not corrected until the Blue Note 85th Anniversary edition in 2024.
 
-This was Morgan's full comeback after his earlier Blue Note tenure and career difficulties. Joe Henderson, just discharged from the US Army, makes one of his earliest major recorded appearances. Original New York USA label pressings are the collector target; both mono and stereo have advocates, though the stereo's wide staging makes it the more common listening choice. Blue Note's own Tone Poet series has not yet addressed this title; the Blue Note Classic Vinyl is the current accessible option.
+This was Morgan's full comeback after years away from the scene. The title track – reportedly written on a scrap of paper in the bathroom of Van Gelder's studio to fill space on the album – became Blue Note's best-selling record ever and saved the label from near-bankruptcy. Original New York USA label pressings are the collector target; both mono and stereo are native recordings with strong advocates. The Blue Note Classic Vinyl is the current accessible modern option.
 
-**Best early pressing for audiophiles:** [Original Blue Note BST 84157 stereo, New York USA label](https://www.discogs.com/release/16046297-Lee-Morgan-The-Sidewinder) – deep groove, Van Gelder stamp, Plastylite ear.
+**Best early pressing for audiophiles:** [Original Blue Note BST 84157 stereo, New York USA label](https://www.discogs.com/release/1946625-Lee-Morgan-The-Sidewinder) – deep groove, Van Gelder stamp, Plastylite ear.
 
 **Best modern pressing for audiophiles:** [Music Matters 45rpm 2LP stereo (MM33 BNST-84157)](https://www.discogs.com/release/6011184-Lee-Morgan-The-Sidewinder) – Kevin Gray, AAA, RTI, gatefold.
 
-**Best-value modern:** [Blue Note Classic Vinyl BST 84157 180g](https://www.discogs.com/master/192306-Lee-Morgan-The-Sidewinder) – Kevin Gray, Optimal, 180g, ~$25.
+**Best-value modern:** [Blue Note Classic Vinyl BST 84157 180g](https://www.discogs.com/release/16312236-Lee-Morgan-The-Sidewinder) – Kevin Gray, Optimal, 180g, ~$25.
 
 
 ## Recording history and tape provenance
 
-The Sidewinder session was Morgan's first as Blue Note leader in several years – his career had stalled due to personal difficulties including heroin addiction, and Alfred Lion signed him back on the strength of his recent sideman work. The title track was conceived as a straightforward 24-bar blues with a boogaloo shuffle groove – Morgan wrote it essentially as filler, in a style deliberately more accessible than the modal jazz dominating the early 1960s. It connected immediately with radio programmers and jukebox operators, reaching No. 81 on the Billboard Hot 100 in January 1965 and becoming Blue Note's best-selling single ever. The album saved Blue Note from near-bankruptcy at a critical moment for the label.
+Lee Morgan was born in Philadelphia on **July 10, 1938**. His sister gave him his first trumpet on his 13th birthday; by 15 he was sitting in with Dizzy Gillespie's big band. He joined Art Blakey's Jazz Messengers at 18, debuted as a Blue Note leader the same year, and recorded *Candy* and *The Cooker* in 1957–58 – still considered among the finest hard bop trumpet records of the era. According to Morgan's biographer Tom Perchard, it was Blakey who introduced him to heroin. Drug problems forced Morgan to leave the Messengers in 1961; he returned to Philadelphia and spent most of the next two years away from music. He returned to New York in late 1963, recorded as a sideman on Grachan Moncur's *Evolution*, and then walked into Van Gelder's studio on December 21 for this session.
 
-Joe Henderson had just been discharged from the US Army and this was among his earliest major Blue Note appearances. His work on The Sidewinder established the harmonic and melodic vocabulary he would develop across a series of landmark Blue Note dates throughout 1964–67. The rhythm section – Higgins and Cranshaw – is among the most lockstep pairings in hard bop; Cranshaw's underrated contribution to the album's commercial appeal is the elastic walking bass that makes the title track immediately danceable.
+The title track was reportedly written on a scrap of paper in the bathroom of Van Gelder's studio to fill space on the album. Named not for the snake but for a television villain, it is a 24-bar blues with a boogaloo shuffle groove. [LJC notes](https://londonjazzcollector.wordpress.com/2018/02/08/lee-morgan-the-sidewinder-1964-blue-note/) a "surprise change to a minor chord in bars 17–18, which gives it a piquancy that pulls it out from the ordinary." The single was edited to 45rpm length and, in October 1965, used as the background theme for Chrysler's World Series TV commercials – without Morgan's permission. After he threatened to sue, Chrysler agreed to pull the ad. The title track reached No. 81 on the Billboard Hot 100 in January 1965; the album reached No. 25 on the Billboard 200 and the Top 10 on the R&B chart. Sales were enough to rescue Blue Note from near-bankruptcy.
+
+The album's commercial success had a dark side: Blue Note shelved Morgan's next two completed albums – the abstract *Search for the New Land* and *Tom Cat* – to avoid cannibalising Sidewinder sales, then pressured Morgan to record Sidewinder-style follow-ups. *The Rumproller* (1965) tried to replicate it; commercial lightning didn't strike twice.
+
+Joe Henderson had just been discharged from the US Army and this was among his earliest major Blue Note appearances. His work here established the harmonic vocabulary he would develop across landmark Blue Note dates throughout 1964–67. The rhythm section – Higgins and Cranshaw – is among the most lockstep pairings in hard bop; Cranshaw's underrated elastic walking bass is central to the title track's danceability.
+
+**Track notes:** "The Sidewinder" opens the album with the 24-bar boogaloo theme. "Totem Pole" follows in E-flat minor with a call-and-response trumpet/tenor head. "Gary's Notebook" is a blues-steeped swinger with Morgan and Henderson weaving around each other. "Boy, What a Night" is in ¾ time – band chatter can be heard in the background during the recording. "Hocus-Pocus" closes with straight-ahead hard bop where Higgins tumbles freely while the horns carry the melody.
+
+**Morgan's death:** On February 19, 1972, Morgan was shot and killed at Slugs' Saloon in Manhattan by Helen Moore, his common-law wife, who had nursed him through his addiction recovery. He was 33. The 2016 documentary [*I Called Him Morgan*](https://www.imdb.com/title/tt4044364/) (dir. Kasper Collin) tells the full story.
 
 **Barry Harris courtesy credit:** Harris was under contract to Riverside Records, hence the "Barry Harris performs by courtesy of Riverside Records" note on the back cover. The same situation had arisen with Miles Davis and Hank Jones on Cannonball Adderley's *Somethin' Else* – a common Blue Note practice when using musicians contracted elsewhere.
 
@@ -74,13 +82,13 @@ The **"Bob Crenshaw"** cover misspelling (for Bob Cranshaw) appears on all origi
 
 ## Buyer's guide by budget
 
-**Under $30:** The [**Blue Note Classic Vinyl BST 84157**](https://www.discogs.com/release/16312236) – Kevin Gray mastering, Optimal pressing. The recommended starting point.
+**Under $30:** The [**Blue Note Classic Vinyl BST 84157**](https://www.discogs.com/release/16312236-Lee-Morgan-The-Sidewinder) – Kevin Gray mastering, Optimal pressing. The recommended starting point.
 
-**$50–$150:** A [**Liberty-era pressing with Van Gelder stamp**](https://www.discogs.com/master/192306-Lee-Morgan-The-Sidewinder) for the budget collector who wants period metal, or a good-condition VG+ original.
+**$50–$150:** A [**Liberty-era pressing with Van Gelder stamp**](https://www.discogs.com/release/13630870-Lee-Morgan-The-Sidewinder) for the budget collector who wants period metal, or a good-condition VG+ original.
 
-**$150–$300:** The [**Music Matters 45rpm stereo**](https://www.discogs.com/release/6011184) – the definitive modern version; worth seeking for serious listeners.
+**$150–$300:** The [**Music Matters 45rpm stereo**](https://www.discogs.com/release/6011184-Lee-Morgan-The-Sidewinder) – the definitive modern version; worth seeking for serious listeners.
 
-**$100–$300:** An original [**New York USA label stereo**](https://www.discogs.com/release/579852) in honest VG+ condition – plentiful on the market relative to other Blue Note originals, making it achievable without exceptional outlay.
+**$100–$300:** An original [**New York USA label stereo BST 84157**](https://www.discogs.com/release/1946625-Lee-Morgan-The-Sidewinder) in honest VG+ condition – plentiful on the market relative to other Blue Note originals, making it achievable without exceptional outlay.
 
 ---
 
@@ -89,7 +97,7 @@ The **"Bob Crenshaw"** cover misspelling (for Bob Cranshaw) appears on all origi
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
 | **S** | Music Matters 45rpm 2LP stereo | MM33 BNST-84157 | c.2012 | Stereo, 45rpm, 2×180g | Orig stereo tape → Kevin Gray, AAA, RTI | 3,500 copies; $150–$300 secondary | [Discogs](https://www.discogs.com/release/6011184-Lee-Morgan-The-Sidewinder) |
-| **A** | Original BST 84157 stereo, NY USA label | BST 84157 | 1964 | Stereo, 33⅓ | RVG / Plastylite; native stereo | VAN GELDER stamp + ear required; $100–$300 NM | [Discogs](https://www.discogs.com/master/192306-Lee-Morgan-The-Sidewinder) |
+| **A** | Original BST 84157 stereo, NY USA label | BST 84157 | 1964 | Stereo, 33⅓ | RVG / Plastylite; native stereo | No deep groove; VAN GELDER + ear required; $100–$300 NM | [Discogs](https://www.discogs.com/release/1946625-Lee-Morgan-The-Sidewinder) |
 | **A** | Original BLP 4157 mono, NY USA label | BLP 4157 | 1964 | Mono, 33⅓ | RVG / Plastylite; native mono | Same authentication; $100–$250 NM | [Discogs](https://www.discogs.com/release/16046297-Lee-Morgan-The-Sidewinder) |
 | **B** | Blue Note Classic Vinyl 180g | BST 84157 | c.2020 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Budget entry; $20–$30 new | [Discogs](https://www.discogs.com/release/16312236-Lee-Morgan-The-Sidewinder) |
 | **C** | Liberty-era pressing (with VG stamp) | BST 84157 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $30–$80 VG+ | [Discogs](https://www.discogs.com/master/192306-Lee-Morgan-The-Sidewinder) |
