@@ -90,7 +90,9 @@ Japanese licensed pressings of *Maiden Voyage* – particularly the **King/Toshi
 
 **Under $35:** The [**Blue Note Classic Vinyl BST 84195 (2021)**](https://www.discogs.com/release/20316430-Herbie-Hancock-Maiden-Voyage) – Kevin Gray mastering, Optimal pressing, consistently good reviews. The recommended starting point.
 
-**$40–$100:** A [**Japanese King or Toshiba pressing with obi**](https://www.discogs.com/master/47828-Herbie-Hancock-Maiden-Voyage) – dead-quiet vinyl, warm character, excellent value for a vintage-flavoured alternative.
+**$40–$80:** A [**King/Toshiba standard 33rpm pressing (1976)**](https://www.discogs.com/release/6513605-Herbie-Hancock-Maiden-Voyage) with obi – dead-quiet vinyl, warm character, excellent value.
+
+**$80–$150:** The [**King "Masterpiece Special Replica" 200g (1983)**](https://www.discogs.com/release/6454559-Herbie-Hancock-Maiden-Voyage) – premium Japanese pressing, thick vinyl, replica US presentation.
 
 **$150–$250:** The [**Music Matters SRX 33rpm AAA (MM33 BNST-84195)**](https://www.discogs.com/release/14993652-Herbie-Hancock-Maiden-Voyage) – the current definitive modern version, better than the AP per Stereophile. Worth seeking.
 
@@ -111,6 +113,7 @@ Japanese licensed pressings of *Maiden Voyage* – particularly the **King/Toshi
 | **A** | Original BST 84195 stereo, NY USA label | BST 84195 | 1965 | Stereo, 33⅓ | RVG / Plastylite; native stereo | Deep groove Side A; VAN GELDER + ear required; $200–$500 NM | [Discogs](https://www.discogs.com/release/1407692-Herbie-Hancock-Maiden-Voyage) |
 | **A** | Original BLP 4195 mono, NY USA label | BLP 4195 | 1965 | Mono, 33⅓ | RVG / Plastylite; native mono | Deep groove Side A; $200–$450 NM | [Discogs](https://www.discogs.com/release/1907831-Herbie-Hancock-Maiden-Voyage) |
 | **B** | Blue Note Classic Vinyl 180g | BST 84195 | 2021 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Consistently good reviews; $20–$35 new | [Discogs](https://www.discogs.com/release/20316430-Herbie-Hancock-Maiden-Voyage) |
-| **B** | Japanese King/Toshiba pressing | Various | 1970s–80s | Stereo, 33⅓ | Licensed Japanese pressing | Dead-quiet vinyl; warm character; $40–$100 with obi | [Discogs](https://www.discogs.com/master/47828-Herbie-Hancock-Maiden-Voyage) |
+| **B** | King Masterpiece Special Replica 200g | BST-84195 (King) | 1983 | Stereo, 33⅓, 200g | Licensed; heavy vinyl; replica US presentation | SJ Seal; no Japanese imprints; $80–$150 with obi | [Discogs](https://www.discogs.com/release/6454559-Herbie-Hancock-Maiden-Voyage) |
+| **B** | King/Toshiba standard 33rpm | GXF series | 1976 | Stereo, 33⅓ | Licensed Japanese pressing | Dead-quiet vinyl; warm; $40–$80 with obi | [Discogs](https://www.discogs.com/release/6513605-Herbie-Hancock-Maiden-Voyage) |
 | **C** | Liberty-era pressing (with VG stamp) | BST 84195 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $40–$100 VG+ | [Discogs](https://www.discogs.com/master/51553-Herbie-Hancock-Maiden-Voyage) |
 | **D** | Generic 1970s–80s reissues | Various | 1970s–80s | Stereo, 33⅓ | Various | Avoid; Classic Vinyl is better | – |
