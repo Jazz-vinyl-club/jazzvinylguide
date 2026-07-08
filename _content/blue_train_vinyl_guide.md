@@ -111,7 +111,7 @@ A companion **Blue Train: The Complete Masters 2LP stereo** (cat. B0035204-01, s
 
 **$60–$120:** A [**Japanese King GXK-8055 (1978)**](https://www.discogs.com/release/2912145-John-Coltrane-Blue-Train) with obi – LJC's preferred Japanese option; "closer to the originals" than Toshiba pressings; dead-quiet King vinyl.
 
-**$150–$300:** The [**Music Matters original 33rpm (MMBLP-1577)**](https://www.discogs.com/release/5349832-John-Coltrane-Blue-Train) – the first MM pressing, 3,500 copies, RTI, Vinyl Gourmet TOP 100. The more commonly traded MM version.
+**$150–$300:** The [**Music Matters original 33rpm (MMBLP-1577)**](https://www.discogs.com/release/5349832-John-Coltrane-Blue-Train) – the first MM pressing, 3,500 copies, RTI. The more commonly traded MM version.
 
 **$200–$400:** The [**Music Matters SRX repress**](https://www.discogs.com/release/13207671-John-Coltrane-Blue-Train) – same Kevin Gray mastering on proprietary ultra-low-noise SRX vinyl. Lower noise floor than the original pressing.
 
@@ -125,7 +125,7 @@ A companion **Blue Train: The Complete Masters 2LP stereo** (cat. B0035204-01, s
 |---|---|---|---|---|---|---|---|
 | **S** | Tone Poet 180g mono | B0035204-01 | 2022 | Mono, 33⅓, 180g | Orig mono tape → Kevin Gray, AAA, RTI | Definitive reissue; Francis Wolff gatefold; $45–$65 | [Discogs](https://www.discogs.com/release/24504497-John-Coltrane-Blue-Train) |
 | **A** | Original BLP 1577 mono, 47W63rd NY23 no-Inc. | BLP 1577 | 1957–58 | Mono, 33⅓ | RVG / Plastylite; native mono | Rarest label state; $400–$1,200 NM | [Discogs](https://www.discogs.com/release/11786823-John-Coltrane-Blue-Train) |
-| **A** | Music Matters 33rpm mono (original) | MMBLP-1577 | 2010–11 | Mono, 33⅓, 180g | Orig mono tape → Kevin Gray, AAA, RTI | 3,500 copies; Vinyl Gourmet TOP 100; OOP $150–$300 | [Discogs](https://www.discogs.com/release/5349832-John-Coltrane-Blue-Train) |
+| **A** | Music Matters 33rpm mono (original) | MMBLP-1577 | 2010–11 | Mono, 33⅓, 180g | Orig mono tape → Kevin Gray, AAA, RTI | 3,500 copies; Vinyl Gourmet-selected; OOP $150–$300 | [Discogs](https://www.discogs.com/release/5349832-John-Coltrane-Blue-Train) |
 | **A** | Music Matters SRX repress | MMBLP-1577 (SRX) | c.2014 | Mono, 33⅓, ~180g | Same mastering; SRX compound, QRP | Lower noise floor; OOP $200–$400 | [Discogs](https://www.discogs.com/release/13207671-John-Coltrane-Blue-Train) |
 | **B** | Original BLP 1577 mono, later 47W63rd/43W61st | BLP 1577 | 1958–62 | Mono, 33⅓ | RVG / Plastylite | Still first-gen metal; $100–$400 by address/condition | [Discogs](https://www.discogs.com/release/8922419-John-Coltrane-Blue-Train) |
 | **A** | Analogue Productions 45rpm 2LP stereo | ABNJ-81577 | 2008/2013 | Stereo, 45rpm, 2×200g | Orig stereo tape → Kevin Gray & Hoffman, AcousTech, QRP | TAS Super LP; stereo counterpart to Tone Poet mono; $100–$200 | [Discogs](https://www.discogs.com/release/9908455-John-Coltrane-Blue-Train) |
