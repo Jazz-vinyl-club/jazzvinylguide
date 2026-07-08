@@ -75,6 +75,10 @@ A detailed direct comparison on [Discogs](https://www.discogs.com/release/245044
 
 A companion **Blue Train: The Complete Masters 2LP stereo** (cat. B0035204-01, same Kevin Gray mastering) includes seven alternate and incomplete takes, four previously unreleased – essential for the Coltrane scholar, supplementary for the listening collector.
 
+### Analogue Productions 45rpm 2LP stereo (2008/2013) – highly regarded stereo alternative
+
+**Cat. ABNJ-81577** | Format: 2×200g LP, 45rpm, stereo, gatefold. **Mastered by Kevin Gray and Steve Hoffman at AcousTech. Pressed at QRP.** Originally issued in 2008 (r2360084, 180g), repressed in 2013 (r9908455, 200g) at QRP. The AP is stereo (the Tone Poet mono and Music Matters are mono) – for listeners who prefer the stereo presentation with full separation, this is the benchmark. TAS rated it a "Super LP" and one of its top 50 Buyer's Guide picks. One owner who owns all three major modern pressings: "The AP version bests them both. It's not some outrageous difference, it's just a little more aggressive, wide open and alive." Another Discogs owner bluntly: "This SMOKES OUT the Tone Poet release." The AP is stereo, the Tone Poet is mono – they are not direct competitors but serve different format preferences. **$100–$200 secondary.**
+
 ### Blue Note Classic Vinyl 180g mono (2020) – the accessible entry point
 
 **Cat. BLP 1577** | Format: 180g LP, 33⅓, mono. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes. Pressed at Optimal in Germany.** The budget-accessible Kevin Gray cut. [Discogs](https://www.discogs.com/release/16188585-John-Coltrane-Blue-Train) owners are enthusiastic: "Sounds great and is really well pressed – as good as any audiophile pressing I've heard at double the price." One experienced collector who compared it directly to a late 1970s original: "I prefer the late 70s white-b pressing. The sound is a good deal richer. The Classic makes instruments sound almost as if they're in isolation booths; on the period pressing, they sound as if they're all there together." A useful data point: the Classic Vinyl is the right choice for regular listening; the Tone Poet rewards careful listening on a resolving system. **$20–$30 new.**
@@ -91,7 +95,7 @@ A companion **Blue Train: The Complete Masters 2LP stereo** (cat. B0035204-01, s
 
 **Stereo for primary listening:** BST 1577 is not a fold-down – it is a native stereo recording – but the hard-left horn placement makes it an uncomfortable listening experience for most. Mono is the strongly recommended format.
 
-**Blue Note 75th Anniversary pressing (2014, Back To Black):** This pressing — cat. B0020560-01 — was part of Blue Note's 2014 anniversary reissue campaign pressed by Back To Black in Germany. [Discogs](https://www.discogs.com/release/12844652-John-Coltrane-Blue-Train) reviews are mixed: "unfortunately not as quiet as other Blue Note recent pressings I got from classic series — some quite audible clicks and pops all over and a loud static in quiet parts." Dead wax is reportedly identical to other Back To Black pressings, suggesting a digital source. The Classic Vinyl at a similar or lower price is significantly better. Avoid.
+**Blue Note 75th Anniversary pressing (2014, Back To Black):** This pressing – cat. B0020560-01 – was part of Blue Note's 2014 anniversary reissue campaign pressed by Back To Black in Germany. [Discogs](https://www.discogs.com/release/12844652-John-Coltrane-Blue-Train) reviews are mixed: "unfortunately not as quiet as other Blue Note recent pressings I got from classic series – some quite audible clicks and pops all over and a loud static in quiet parts." Dead wax is reportedly identical to other Back To Black pressings, suggesting a digital source. The Classic Vinyl at a similar or lower price is significantly better. Avoid.
 
 **1970s–80s general reissues:** Various Blue Note/Liberty/United Artists reissues from this era are not recommended. The Classic Vinyl at the same price point is a better choice.
 
@@ -102,6 +106,8 @@ A companion **Blue Train: The Complete Masters 2LP stereo** (cat. B0035204-01, s
 **Under $30:** The [**Blue Note Classic Vinyl BLP 1577 mono**](https://www.discogs.com/release/16188585-John-Coltrane-Blue-Train) – Kevin Gray mastering, Optimal pressing. The starting point.
 
 **$45–$65:** The [**Blue Note Tone Poet mono (2022)**](https://www.discogs.com/release/24504497-John-Coltrane-Blue-Train) – the definitive modern version. This is the recommended purchase for any serious listener.
+
+**$100–$200:** The [**Analogue Productions 45rpm 2LP stereo (ABNJ-81577)**](https://www.discogs.com/release/9908455-John-Coltrane-Blue-Train) – Kevin Gray and Steve Hoffman, 200g QRP. The stereo counterpart to the Tone Poet mono; TAS Super LP. For listeners who prefer the stereo presentation.
 
 **$60–$120:** A [**Japanese King GXK-8055 (1978)**](https://www.discogs.com/release/2912145-John-Coltrane-Blue-Train) with obi – LJC's preferred Japanese option; "closer to the originals" than Toshiba pressings; dead-quiet King vinyl.
 
@@ -119,8 +125,9 @@ A companion **Blue Train: The Complete Masters 2LP stereo** (cat. B0035204-01, s
 | **A** | Original BLP 1577 mono, 47W63rd NY23 no-Inc. | BLP 1577 | 1957–58 | Mono, 33⅓ | RVG / Plastylite; native mono | Rarest label state; $400–$1,200 NM | [Discogs](https://www.discogs.com/release/11786823-John-Coltrane-Blue-Train) |
 | **A** | Music Matters SRX 33rpm mono | MM33 BLP-1577 | c.2012 | Mono, 33⅓, 180g | Orig mono tape → Kevin Gray, AAA, QRP | OOP; $200–$400 secondary | [Discogs](https://www.discogs.com/release/13207671-John-Coltrane-Blue-Train) |
 | **B** | Original BLP 1577 mono, later 47W63rd/43W61st | BLP 1577 | 1958–62 | Mono, 33⅓ | RVG / Plastylite | Still first-gen metal; $100–$400 by address/condition | [Discogs](https://www.discogs.com/release/8922419-John-Coltrane-Blue-Train) |
+| **A** | Analogue Productions 45rpm 2LP stereo | ABNJ-81577 | 2008/2013 | Stereo, 45rpm, 2×200g | Orig stereo tape → Kevin Gray & Hoffman, AcousTech, QRP | TAS Super LP; stereo counterpart to Tone Poet mono; $100–$200 | [Discogs](https://www.discogs.com/release/9908455-John-Coltrane-Blue-Train) |
 | **B** | Blue Note Classic Vinyl 180g mono | BLP 1577 | 2020 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Budget entry; $20–$30 | [Discogs](https://www.discogs.com/release/16188585-John-Coltrane-Blue-Train) |
 | **B** | Japanese King GXK-8055 mono | GXK-8055 | 1978 | Mono, 33⅓, 180g | Licensed Japanese pressing; King Record Co. | LJC: "closer to originals"; dead-quiet; $60–$120 with obi | [Discogs](https://www.discogs.com/release/2912145-John-Coltrane-Blue-Train) |
 | **C** | BST 1577 stereo original | BST 1577 | 1960 | Stereo, 33⅓ | RVG / Plastylite; native stereo | Hard-left horn placement; not preferred for listening | [Discogs](https://www.discogs.com/release/7303391-John-Coltrane-Blue-Train) |
 | **D** | 1970s–80s general reissues | Various | 1970s–80s | Stereo, 33⅓ | Various | Not recommended | – |
-| **F** | Blue Note 75th Anniversary (Back To Black) | B0020560-01 | 2014 | Mono, 33⅓, 180g | Digital source (Back To Black) | Mixed reviews; clicks/pops; avoid — Classic Vinyl is better | [Discogs](https://www.discogs.com/release/12844652-John-Coltrane-Blue-Train) |
+| **F** | Blue Note 75th Anniversary (Back To Black) | B0020560-01 | 2014 | Mono, 33⅓, 180g | Digital source (Back To Black) | Mixed reviews; clicks/pops; avoid – Classic Vinyl is better | [Discogs](https://www.discogs.com/release/12844652-John-Coltrane-Blue-Train) |
