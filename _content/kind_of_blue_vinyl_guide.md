@@ -142,11 +142,11 @@ Pre-2022 it drew strong praise. Post-2022, comparisons against the UHQR 45rpm ha
 
 ## Japanese pressings
 
-**CBS/Sony 18AP 2056 (1981)**
+**[CBS/Sony 18AP 2056 (1981)](https://www.discogs.com/release/2110043-Miles-Davis-Kind-Of-Blue)**
 
-Stereo, uncorrected speed (predates 1992 discovery); heavy dead-quiet Japanese vinyl, obi strip and insert. Consistently praised on Discogs for clear, well-defined sound and exceptional pressing quality. **NM with obi: $50–$150.**
+Stereo, uncorrected speed (predates 1992 discovery); heavy dead-quiet Japanese vinyl, SJ Seal of Approval, obi strip and insert. Consistently praised on Discogs for clear, well-defined sound and exceptional pressing quality. **NM with obi: $50–$150.**
 
-**CBS/Sony SOPL 155 SX68 Mark II (1972)**
+**[CBS/Sony SOPL 155 SX68 Mark II (1972)](https://www.discogs.com/release/3492952-Miles-Davis-Kind-Of-Blue)**
 
 Earlier Japanese audiophile pressing in the SX68 series; matrix SOPL-155A1. Heavy and quiet; generally well-regarded. **NM with obi: $40–$120.**
 
@@ -191,11 +191,11 @@ Earlier Japanese audiophile pressing in the SX68 series; matrix SOPL-155A1. Heav
 | **B** | Classic Records 4×45rpm box | CS 8163-45 | 1999 | Stereo, 45rpm, 4×LP single-sided | Grundman 1995 metal, Clarity Vinyl | Kaplan: "very close to Six-Eye"; OOP $500–$1,500 | [Discogs](https://www.discogs.com/release/5189885-Miles-Davis-Kind-Of-Blue) |
 | **B** | Classic Records 180g 33rpm | CS 8163 180g | 1995 | Stereo, 33⅓, 2×180g | Grundman 1995 metal | First vinyl speed-corrected release; incl. alternate take at 45rpm; $150–$350 | [Discogs](https://www.discogs.com/release/3841623-Miles-Davis-Kind-Of-Blue) |
 | **B** | MoFi MFSL 2-45011 45rpm 2LP | MFSL 2-45011 | 2015/2020/2021 | Stereo, 45rpm, 2×180g | Wilder 1997 → DSD-64 → Wunderlich, RTI | DSD step disclosed 2022; $150–$300 | [Discogs](https://www.discogs.com/release/7303082-Miles-Davis-Kind-Of-Blue) |
-| **B** | CBS/Sony 18AP 2056 Japan | 18AP 2056 | 1981 | Stereo, 33⅓ | Japanese CBS/Sony lacquer | Dead-quiet; obi; uncorrected speed; $50–$150 | [Discogs](https://www.discogs.com/master/5460-Miles-Davis-Kind-Of-Blue) |
+| **B** | CBS/Sony 18AP 2056 Japan | 18AP 2056 | 1981 | Stereo, 33⅓ | Japanese CBS/Sony lacquer | Dead-quiet; SJ Seal; obi; uncorrected speed; $50–$150 | [Discogs](https://www.discogs.com/release/2110043-Miles-Davis-Kind-Of-Blue) |
 | **B** | Columbia two-eye 360 Sound (early, black-text) | CS 8163 | 1962–65 | Stereo, 33⅓ | Tube-cut Columbia lacquer | Tom Port: essentially equivalent to six-eye; $100–$250 NM | [Discogs](https://www.discogs.com/master/5460-Miles-Davis-Kind-Of-Blue) |
 | **C** | Columbia two-eye 360 Sound (late, white-text) | CS 8163 | 1966–70 | Stereo, 33⅓ | Solid-state Columbia lacquer | Audible step down from early two-eyes; $50–$150 NM | [Discogs](https://www.discogs.com/master/5460-Miles-Davis-Kind-Of-Blue) |
 | **C** | Music on Vinyl MOVLP019 | MOVLP019 | 2010 | Stereo, 33⅓, 2×180g | Wilder 1997 → 24/96 PCM → George Marino, Optimal | Digitally sourced; dead-silent surfaces; $30–$60 | [Discogs](https://www.discogs.com/release/2506823-Miles-Davis-Kind-Of-Blue) |
-| **C** | CBS/Sony SOPL 155 Japan | SOPL 155 | 1972 | Stereo, 33⅓ | Japanese CBS/Sony lacquer | SX68 series; quiet and warm; $40–$120 | [Discogs](https://www.discogs.com/master/5460-Miles-Davis-Kind-Of-Blue) |
+| **C** | CBS/Sony SOPL 155 Japan | SOPL 155 | 1972 | Stereo, 33⅓ | Japanese CBS/Sony lacquer | Earlier pressing; SX68 series; quiet and warm; $40–$120 | [Discogs](https://www.discogs.com/release/3492952-Miles-Davis-Kind-Of-Blue) |
 | **C** | Sony 180g mono (unnumbered) | 88883761031 | 2013 | Mono, 33⅓, 180g | 2013 mono remix (3-track) → Ryan K. Smith, RTI | Same mastering as RSD numbered; lower price | [Discogs](https://www.discogs.com/release/5142904-Miles-Davis-Kind-Of-Blue) |
 | **D** | Columbia PC 8163 red label | PC 8163 | 1974+ | Stereo, 33⅓ | Later Columbia lacquer | Occasional high praise; worth buying at $15–$40 | [Discogs](https://www.discogs.com/release/226414-Miles-Davis-Kind-Of-Blue) |
 | **F** | EU public-domain (DOL, Doxy etc.) | Various | 2000s+ | Various | CD rip or worse, unlicensed | Not licensed from Sony; avoid | – |
