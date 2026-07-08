@@ -6,7 +6,7 @@
 
 The original US Columbia first pressing is the audiophile collector target, with the Terre Haute plant pressings consistently rated above those from other plants. The **ORG 2LP 45rpm (2011)** – Bernie Grundman from the original analog master tapes – is the definitive modern reference and ranked **#19 on Vinyl Gourmet's Audiophile TOP 100**. The Music on Vinyl 180g is the best-value option.
 
-**Best early pressing for audiophiles:** [Original US Columbia PC 34418 – Terre Haute plant pressing](https://www.discogs.com/release/14499497-Weather-Report-Heavy-Weather) – AL-34418-A matrix, "TA" or no plant code in runout; $30–$80 NM.
+**Best early pressing for audiophiles:** [Original US Columbia PC 34418 – Terre Haute plant pressing](https://www.discogs.com/release/877385-Weather-Report-Heavy-Weather) – AL-34418-A matrix, "TA" or no plant code in runout; $30–$80 NM.
 
 **Best modern pressing for audiophiles:** [ORG ORGM-2009 2LP 45rpm 180g (2011)](https://www.discogs.com/release/3526540-Weather-Report-Heavy-Weather) – Bernie Grundman, original analog master tapes, RTI; 2,500 numbered copies; $150–$300 secondary.
 
@@ -87,7 +87,7 @@ A 2023 repress on **peach coloured vinyl** (r28540660, 1,500 numbered copies) us
 
 **Under $40:** The [**Music on Vinyl MOVLP088 180g (2011)**](https://www.discogs.com/release/4332389-Weather-Report-Heavy-Weather) – warm, musical, widely available. The right starting point for most listeners.
 
-**$30–$80:** An original [**US Columbia PC 34418 – Terre Haute pressing**](https://www.discogs.com/release/14499497-Weather-Report-Heavy-Weather) in VG+ – the period-analog option; check the deadwax for "TA" or no plant code. "Much more dynamic, better low end and just so much more alive sounding" than other plant pressings.
+**$30–$80:** An original [**US Columbia PC 34418 – Terre Haute pressing**](https://www.discogs.com/release/877385-Weather-Report-Heavy-Weather) in VG+ – the period-analog option; check the deadwax for "TA" or no plant code. "Much more dynamic, better low end and just so much more alive sounding" than other plant pressings.
 
 **$40–$100:** A [**Japanese CBS/Sony 25AP 357 (1977)**](https://www.discogs.com/release/13432557-Weather-Report-Heavy-Weather) with yellow obi – "brilliant sounding"; "better dynamics than US copy"; dead-quiet CBS/Sony vinyl.
 
@@ -102,7 +102,7 @@ A 2023 repress on **peach coloured vinyl** (r28540660, 1,500 numbered copies) us
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
 | **S** | ORG 2LP 45rpm 180g | ORGM-2009 | 2011 | Stereo, 45rpm, 2×180g | Orig analog tapes → Bernie Grundman, RTI | Vinyl Gourmet #19; Fremer-reviewed; 2,500 copies; $150–$300 | [Discogs](https://www.discogs.com/release/3526540-Weather-Report-Heavy-Weather) |
-| **A** | Original US Columbia – Terre Haute press | PC 34418 | 1977 | Stereo, 33⅓ | Original Columbia lacquer; Terre Haute plant | "TA" or no plant code in deadwax; $30–$80 NM | [Discogs](https://www.discogs.com/release/14499497-Weather-Report-Heavy-Weather) |
+| **A** | Original US Columbia – Terre Haute press | PC 34418 | 1977 | Stereo, 33⅓ | Original Columbia lacquer; Terre Haute plant | "TA" or no plant code in deadwax; $30–$80 NM | [Discogs](https://www.discogs.com/release/877385-Weather-Report-Heavy-Weather) |
 | **B** | Japanese CBS/Sony 25AP 357 | 25AP 357 | 1977 | Stereo, 33⅓ | Japanese CBS/Sony pressing | "Better dynamics than US copy"; dead-quiet; $40–$100 with obi | [Discogs](https://www.discogs.com/release/13432557-Weather-Report-Heavy-Weather) |
 | **B** | Speakers Corner SC 34418 180g | SC 34418 | 2000s | Stereo, 33⅓, 180g | Licensed; Pallas pressing | Quiet Pallas vinyl; good European option; $60–$120 | [Discogs](https://www.discogs.com/release/2342633-Weather-Report-Heavy-Weather) |
 | **B** | Music on Vinyl MOVLP088 180g | MOVLP088 | 2011 | Stereo, 33⅓, 180g | Licensed Sony; EU pressing | Warm with boosted bass; best-value modern; $25–$40 | [Discogs](https://www.discogs.com/release/4332389-Weather-Report-Heavy-Weather) |
