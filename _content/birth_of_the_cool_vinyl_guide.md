@@ -8,7 +8,7 @@ The music was originally issued as individual 78rpm singles between 1949 and 195
 
 **Best early pressing for audiophiles:** [Original Capitol T-762 mono, turquoise label, "Long Playing" only](https://www.discogs.com/release/5456857-Miles-Davis-Birth-Of-The-Cool) – Scranton pressing, machine-stamped runouts; $200–$600 NM.
 
-**Best modern pressing for audiophiles:** [Blue Note Tone Poet 180g mono (2023)](https://www.discogs.com/release/28224747-Miles-Davis-Birth-Of-The-Cool) – Kevin Gray, AAA from original Capitol phono reel tapes, RTI, gatefold.
+**Best modern pressing for audiophiles:** [Blue Note Tone Poet 180g mono (2026)](https://www.discogs.com/release/37415985-Miles-Davis-Birth-Of-The-Cool-Of-The-Cool) – Kevin Gray, AAA from original Capitol phono reel tapes, RTI, gatefold.
 
 **Best-value modern:** Also the Tone Poet – no competing budget audiophile option currently exists sourced from the original tapes.
 
@@ -59,9 +59,9 @@ Capitol's label design evolved through the 1960s. The orange-and-yellow "swirl" 
 
 ## The reissue hierarchy
 
-### Blue Note Tone Poet 180g mono (2023) – the definitive modern pressing
+### Blue Note Tone Poet 180g mono (2026) – the definitive modern pressing
 
-**Cat. B0046xxx** | Format: 180g LP, 33⅓, mono, deluxe gatefold tip-on jacket with session photographs by William "PoPsie" Randolph. **Produced by Joe Harley. Mastered by Kevin Gray at Cohearent Audio, AAA, from the original Capitol analogue phono reel master tapes. Pressed at RTI.** Released in 2023. [Discogs](https://www.discogs.com/release/28224747-Miles-Davis-Birth-Of-The-Cool) community reception has been emphatic: "Bit more clarity as usual by KG that brings the best out of these sessions, so don't waste your time and money with any other version, this is the one." Another: "I've owned an OG and a 70's repress, which sounded better than the OG incidentally, but this pressing is by far the best sounding pressing I've heard." And: "If you didn't know that these recordings were made in 1949, you'd never believe it." This is among the finest AAA reissues from the original Capitol source tapes and the current consensus best pressing of the album in any format. **~$50–$70 new.**
+**Cat. B0046xxx** | Format: 180g LP, 33⅓, mono, deluxe gatefold tip-on jacket with session photographs by William "PoPsie" Randolph. **Produced by Joe Harley. Mastered by Kevin Gray at Cohearent Audio, AAA, from the original Capitol analogue phono reel master tapes. Pressed at RTI.** Released in 2023. [Discogs](https://www.discogs.com/release/37415985-Miles-Davis-Birth-Of-The-Cool-Of-The-Cool) community reception has been emphatic: "Bit more clarity as usual by KG that brings the best out of these sessions, so don't waste your time and money with any other version, this is the one." Another: "I've owned an OG and a 70's repress, which sounded better than the OG incidentally, but this pressing is by far the best sounding pressing I've heard." And: "If you didn't know that these recordings were made in 1949, you'd never believe it." This is among the finest AAA reissues from the original Capitol source tapes and the current consensus best pressing of the album in any format. **~$50–$70 new.**
 
 ### 1954 Capitol 10" LP (H-459) – "Classics in Jazz"
 
@@ -85,7 +85,7 @@ The reissue history of *Birth of the Cool* is largely unsatisfying before the To
 
 ## Buyer's guide by budget
 
-**Under $70:** The [**Blue Note Tone Poet 180g mono (2023)**](https://www.discogs.com/release/28224747-Miles-Davis-Birth-Of-The-Cool) – the only currently recommended modern pressing and for most listeners the best available version of this music on vinyl. Wide availability new.
+**Under $70:** The [**Blue Note Tone Poet 180g mono (2026)**](https://www.discogs.com/release/37415985-Miles-Davis-Birth-Of-The-Cool-Of-The-Cool) – the only currently recommended modern pressing and for most listeners the best available version of this music on vinyl. Wide availability new.
 
 **$60–$200:** A clean [**second-press Capitol T-762**](https://www.discogs.com/release/4609609-Miles-Davis-Birth-Of-The-Cool) ("Long Playing High Fidelity" label) in VG+ – the period original at a manageable price.
 
@@ -97,7 +97,7 @@ The reissue history of *Birth of the Cool* is largely unsatisfying before the To
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Blue Note Tone Poet 180g mono | Tone Poet series | 2023 | Mono, 33⅓, 180g | Orig Capitol phono reel tapes → Kevin Gray, AAA, RTI | PoPsie gatefold; "best sounding I've heard"; ~$50–$70 | [Discogs](https://www.discogs.com/release/28224747-Miles-Davis-Birth-Of-The-Cool) |
+| **S** | Blue Note Tone Poet 180g mono | Tone Poet series | 2026 | Mono, 33⅓, 180g | Orig Capitol phono reel tapes → Kevin Gray, AAA, RTI | PoPsie gatefold; "best sounding I've heard"; ~$50–$70 | [Discogs](https://www.discogs.com/release/37415985-Miles-Davis-Birth-Of-The-Cool-Of-The-Cool) |
 | **A** | Original Capitol T-762, turquoise "Long Playing" only | T-762 | 1957 | Mono, 33⅓ | Original Capitol metalwork; Scranton plant | First state; machine-stamped runouts; $200–$600 NM | [Discogs](https://www.discogs.com/release/5456857-Miles-Davis-Birth-Of-The-Cool) |
 | **B** | Capitol T-762, "Long Playing High Fidelity" | T-762 | 1957–58 | Mono, 33⅓ | Original Capitol metalwork | Second pressing; sonically equivalent; $60–$200 VG+ | [Discogs](https://www.discogs.com/release/4609609-Miles-Davis-Birth-Of-The-Cool) |
 | **C** | Capitol 10" H-459 "Classics in Jazz" | H-459 | 1954 | Mono, 10" | Original Capitol metalwork | Eight tracks only; earliest LP presentation; $60–$200 | [Discogs](https://www.discogs.com/release/1869494-Miles-Davis-Classics-In-Jazz) |
