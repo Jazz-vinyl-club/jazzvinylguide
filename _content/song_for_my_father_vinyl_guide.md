@@ -2,13 +2,13 @@
 
 ## Summary
 
-*Song for My Father* was recorded across three sessions, all at Van Gelder Studio, Englewood Cliffs, New Jersey: **October 31, 1963** (tracks featuring Blue Mitchell, Junior Cook, Gene Taylor, Roy Brooks); **January 28, 1964** (additional tracks with the same quintet); and **October 26, 1964** (the title track and remainder of the album, with a new quintet: Carmell Jones, Joe Henderson, Teddy Smith, Roger Humphries). Horace Silver (piano) leads all sessions. Produced by Alfred Lion; released on **Blue Note in 1965** as BLP 4185 (mono) and BST 84185 (stereo).
+*Song for My Father* was recorded across two sessions, both at Van Gelder Studio, Englewood Cliffs, New Jersey: **October 31, 1963** (tracks featuring Blue Mitchell, Junior Cook, Gene Taylor, Roy Brooks); and **October 26, 1964** (the title track and remainder of the album, with a new quintet: Carmell Jones, Joe Henderson, Teddy Smith, Roger Humphries). Horace Silver (piano) leads all sessions. Produced by Alfred Lion; released on **Blue Note in 1965** as BLP 4185 (mono) and BST 84185 (stereo).
 
 The title track fuses a bossa nova rhythm absorbed from Silver's 1964 trip to Brazil with a melody drawn from his Cape Verdean family heritage – his father's folk music from the island of Maio. It became a jazz standard and one of Blue Note's most commercially successful records of the decade. The cover is a Francis Wolff photograph of Silver's father, John Tavares Silva.
 
 Both mono and stereo originals are worthwhile. The Blue Note Classic Vinyl is the most accessible modern option, though Discogs reviews document significant QC issues with this title specifically – dished vinyl, distortion on "Lonely Woman," and flutter on some copies. Finding a clean copy is important.
 
-**Best early pressing for audiophiles:** [Original Blue Note BLP 4185 mono, NY USA label](https://www.discogs.com/release/2019742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) – deep groove both sides, Van Gelder stamp, Plastylite ear; $150–$400 NM.
+**Best early pressing for audiophiles:** [Original Blue Note BLP 4185 mono, NY USA label](https://www.discogs.com/release/2019742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) – deep groove Side 1, Van Gelder stamp, Plastylite ear; $150–$400 NM.
 
 **Best modern pressing for audiophiles:** [Blue Note Classic Vinyl BST 84185 180g (2020)](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father) – Kevin Gray, Optimal, 180g; inspect before purchase.
 
@@ -17,9 +17,9 @@ Both mono and stereo originals are worthwhile. The Blue Note Classic Vinyl is th
 
 ## Recording history and tape provenance
 
-Horace Silver was born in Norwalk, Connecticut in 1928 to John Tavares Silva, a Cape Verdean immigrant who played guitar and sang at family gatherings, and an Irish-Black American mother. He came up through the Stan Getz Quartet (1950–51) and co-founded the Jazz Messengers with Art Blakey in 1954 before launching his own quintet at Blue Note in 1956. By 1964 he had produced a run of Blue Note classics – *Blowin' the Blues Away*, *Horace-Scope*, *The Cape Verdean Blues* – and was one of the label's most reliably commercial artists.
+Horace Silver was born in Norwalk, Connecticut in 1928 to John Tavares Silva, a Cape Verdean immigrant who played guitar and sang at family gatherings, and an Irish-Black American mother. He came up through the Stan Getz Quartet (1950–51) and co-founded the Jazz Messengers with Art Blakey in 1954 before launching his own quintet at Blue Note in 1956. By 1964 he had produced a run of Blue Note classics – *Blowin' the Blues Away*, *Horace-Scope*, *The Tokyo Blues* – and was one of the label's most reliably commercial artists.
 
-In early 1964 Silver visited Brazil as a guest of pianist Sergio Mendes during Carnival. In his autobiography *Let's Get to the Nitty Gritty* (2006), he recalled: "After returning home from my visit with Sergio... I was haunted by the bossa nova rhythm I had heard in Brazil... I sat down at the piano for a few hours and came up with a new song using the bossa nova rhythm. However, the melody didn't sound Brazilian to me; it sounded more like some of the old Cape Verdean melodies my dad had played." He immediately dedicated it to his father. The album peaked at No. 95 on the Billboard 200 – exceptional for a jazz record in the middle of Beatlemania. The opening bassline was later sampled by Steely Dan for "Rikki Don't Lose That Number" (1974), and the horn riff borrowed by Stevie Wonder for "Don't You Worry 'Bout a Thing."
+In early 1964 Silver visited Brazil as a guest of pianist Sergio Mendes during Carnival. In his autobiography *Let's Get to the Nitty Gritty* (2006), he recalled: "After returning home from my visit with Sergio... I was haunted by the bossa nova rhythm I had heard in Brazil... I sat down at the piano for a few hours and came up with a new song using the bossa nova rhythm. However, the melody didn't sound Brazilian to me; it sounded more like some of the old Cape Verdean melodies my dad had played." He immediately dedicated it to his father. The album peaked at No. 95 on the Billboard 200 – exceptional for a jazz record in the middle of Beatlemania. The opening bassline was later interpolated by Steely Dan for "Rikki Don't Lose That Number" (1974), and the horn riff borrowed by Stevie Wonder for "Don't You Worry 'Bout a Thing."
 
 By October 1964, Silver was transitioning between quintets. His older band – Mitchell, Cook, Taylor, Brooks – had been together five years and contributed "Calcutta Cutie" and "Lonely Woman" from the October 1963 session. The newer group, built around Henderson and Jones, recorded the title track, "The Natives Are Restless Tonight," "The Kicker," and "Que Pasa?" The contrast between the two lineups is audible: the older band is bluesier and looser; Henderson and Jones bring a more open, searching modal quality.
 
@@ -27,11 +27,11 @@ By October 1964, Silver was transitioning between quintets. His older band – M
 
 **Joe Henderson's solo:** Henderson's solo on the title track is cited by musicologists as a masterclass in motivic development – [Wikipedia notes](https://en.wikipedia.org/wiki/Song_for_My_Father_(composition)) that it is "one of the great motivically based solos in recorded jazz; all derived from his three opening notes." Henderson was in his early Blue Note period and this performance helped establish his reputation.
 
-**"The Kicker"** is the only non-Silver track – composed by Joe Henderson – and features a furious drum solo from Roger Humphries, who was 20 at the time. **"Que Pasa?"** closes the original LP; **"Lonely Woman"** is an unaccompanied Silver trio ballad from 1963, delivered with uncommon restraint. **"Calcutta Cutie"** (also 1963) opens with a slow feel that accelerates into swing, showcasing Silver's guitar-like piano interjections.
+**"The Kicker"** is the only non-Silver track – composed by Joe Henderson – and features a furious drum solo from Roger Humphries, who was 20 at the time. **"Que Pasa?"** closes the original LP; **"Lonely Woman"** is a piano trio ballad from 1963, featuring Silver, Gene Taylor on bass, and Roy Brooks on drums, delivered with uncommon restraint. **"Calcutta Cutie"** (also 1963) opens with a slow feel that accelerates into swing, showcasing Silver's guitar-like piano interjections.
 
 **Cover:** Designed by Reid Miles with a Francis Wolff photograph of John Tavares Silva – dignified, pipe in hand, the image an embodiment of the album's emotional source. Leonard Feather wrote the original liner notes, drawing on direct quotes from Silver about the Brazilian and Cape Verdean origins.
 
-**Tape provenance:** The original Alfred Lion–era tapes are in the Blue Note/Universal archive. Kevin Gray sourced from the original analogue master tapes for the Classic Vinyl. The Discogs documentation of distortion on "Lonely Woman" in some Classic Vinyl copies suggests a possible tape transfer issue rather than a pressing defect – an important caveat.
+**Tape provenance:** The original Alfred Lion–era tapes are in the Blue Note/Universal archive. Kevin Gray sourced from the original analogue master tapes for the Classic Vinyl. The Discogs documentation of distortion on "Lonely Woman" in some Classic Vinyl copies suggests a possible issue in the mastering or transfer chain – an important caveat, though the precise cause remains unconfirmed and is widely discussed among collectors.
 
 ### Mono vs. stereo
 
@@ -50,11 +50,11 @@ Blue Note's **"New York USA"** label was in use from 1963–67. Authentication m
 - **"Blue Note Records Inc. • New York USA"** on labels
 - **Van Gelder stamp** in the deadwax
 - **Plastylite P** ("ear") in the deadwax
-- Deep groove labels on earliest copies
+- Deep groove labels on earliest copies (typically Side 1 only for this 1965 release)
 - Matrix: **BNST-84185-A VAN GELDER P** / **BNST-84185-B VAN GELDER P** (stereo); **BNL-4185-A VAN GELDER P** / **BNL-4185-B VAN GELDER P** (mono)
-- Gatefold sleeve with inner sleeve liner notes; some copies have "25 Years Blue Note" or "27 Years Blue Note" inner sleeve – these are later pressings, useful for dating
+- Standard single sleeve with liner notes on the back cover; some copies have "25 Years Blue Note" or "27 Years Blue Note" inner sleeve – the "25 Years" sleeve is consistent with an original 1965 first pressing; the "27 Years" sleeve indicates a slightly later pressing within the original NY USA label era (1966–67)
 
-Note: r2019742 on Discogs shows a "43 West 61st" address pressing with a "25 Years" inner sleeve – this is an earlier-era label variant (1964–65), not the New York USA address. Both are original-era. The true NY USA copies (post-1963) are the standard first pressing for most BN 4000-series titles.
+Note: r2019742 on Discogs shows a "43 West 61st" address pressing – this is the standard first pressing label for this title. True first pressings of *Song for My Father* (1965) feature "43 West 61st St., New York 23" on the label combined with "Blue Note Records Inc. • New York USA" in the rim text; these are not mutually exclusive but appear together on the same label. The true NY USA copies are the standard first pressing for most BN 4000-series titles released from late 1962 through mid-1966.
 
 **NM originals: $150–$400. VG+: $75–$200.**
 
@@ -68,7 +68,7 @@ Note: r2019742 on Discogs shows a "43 West 61st" address pressing with a "25 Yea
 
 ### Blue Note Classic Vinyl 180g (2020) – the only modern option
 
-**Cat. BST 84185** | Format: 180g LP, 33⅓. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes. Pressed at Optimal in Germany.** This is the only widely available modern audiophile reissue of this title – no Music Matters or Tone Poet edition has been released. Kevin Gray's mastering is good; however, [Discogs community reviews](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father) document recurring QC issues with this specific pressing: dished vinyl, audible flutter on some copies (attributed to a possible tape transfer issue), and distortion on "Lonely Woman." One owner: "Ok so I bought this release and right away noticed issues with A1, especially flutter. I then started reading and apparently the tape was damaged during a transfer. Today I got a clean OG mono and can confirm that there are no issues whatsoever in the OG." Another: "Mine is very dished and it's very audibly noticeable." **Inspect before buying, or buy from a seller with return policy. $20–$35 new.**
+**Cat. BST 84185** | Format: 180g LP, 33⅓. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes. Pressed at Optimal in Germany.** This is the only widely available modern audiophile reissue of this title – no Music Matters or Tone Poet edition has been released. Kevin Gray's mastering is good; however, [Discogs community reviews](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father) document recurring QC issues with this specific pressing: dished vinyl, audible flutter on some copies (with collectors widely speculating about a possible tape transfer issue as the cause, though this remains unconfirmed), and distortion on "Lonely Woman." One owner: "Ok so I bought this release and right away noticed issues with A1, especially flutter. I then started reading and apparently the tape was damaged during a transfer. Today I got a clean OG mono and can confirm that there are no issues whatsoever in the OG." Another: "Mine is very dished and it's very audibly noticeable." **Inspect before buying, or buy from a seller with return policy. $20–$35 new.**
 
 ---
 
@@ -94,8 +94,8 @@ Note: r2019742 on Discogs shows a "43 West 61st" address pressing with a "25 Yea
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | Original BLP 4185 mono, NY USA label | BLP 4185 | 1964–65 | Mono, 33⅓ | RVG / Plastylite | VAN GELDER + ear required; $150–$350 NM | [Discogs](https://www.discogs.com/release/2019742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
-| **A** | Original BST 84185 stereo, NY USA label | BST 84185 | 1964–65 | Stereo, 33⅓ | RVG / Plastylite | DG Side 1 only; $150–$400 NM | [Discogs](https://www.discogs.com/release/2400742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
+| **A** | Original BLP 4185 mono, NY USA label | BLP 4185 | 1965 | Mono, 33⅓ | RVG / Plastylite | VAN GELDER + ear required; $150–$350 NM | [Discogs](https://www.discogs.com/release/2019742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
+| **A** | Original BST 84185 stereo, NY USA label | BST 84185 | 1965 | Stereo, 33⅓ | RVG / Plastylite | DG Side 1 only; $150–$400 NM | [Discogs](https://www.discogs.com/release/2400742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
 | **B** | Blue Note Classic Vinyl 180g | BST 84185 | 2020 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | QC issues documented – inspect or buy with return policy; $20–$35 | [Discogs](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
 | **C** | Liberty-era pressing (with VG stamp) | BST 84185 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $30–$80 VG+ | [Discogs](https://www.discogs.com/master/155008-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
 | **D** | Generic European reissues | Various | 1970s+ | Stereo, 33⅓ | Various | Not recommended | – |
