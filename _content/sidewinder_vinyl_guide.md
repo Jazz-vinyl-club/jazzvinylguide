@@ -100,5 +100,5 @@ The **"Bob Crenshaw"** cover misspelling (for Bob Cranshaw) appears on all origi
 | **A** | Original BST 84157 stereo, NY USA label | BST 84157 | 1964 | Stereo, 33⅓ | RVG / Plastylite; native stereo | No deep groove; VAN GELDER + ear required; $100–$300 NM | [Discogs](https://www.discogs.com/release/1946625-Lee-Morgan-The-Sidewinder) |
 | **A** | Original BLP 4157 mono, NY USA label | BLP 4157 | 1964 | Mono, 33⅓ | RVG / Plastylite; native mono | Same authentication; $100–$250 NM | [Discogs](https://www.discogs.com/release/16046297-Lee-Morgan-The-Sidewinder) |
 | **B** | Blue Note Classic Vinyl 180g | BST 84157 | c.2020 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Budget entry; $20–$30 new | [Discogs](https://www.discogs.com/release/16312236-Lee-Morgan-The-Sidewinder) |
-| **C** | Liberty-era pressing (with VG stamp) | BST 84157 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $30–$80 VG+ | [Discogs](https://www.discogs.com/master/192306-Lee-Morgan-The-Sidewinder) |
+| **C** | Liberty-era pressing (with VG stamp) | BST 84157 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $30–$80 VG+ | [Discogs](https://www.discogs.com/release/13630870-Lee-Morgan-The-Sidewinder) |
 | **D** | 1970s–80s general reissues | Various | 1970s–80s | Stereo, 33⅓ | Various | Not recommended | – |
