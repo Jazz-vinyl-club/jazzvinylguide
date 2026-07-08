@@ -27,6 +27,8 @@ The sessions at Devonshire Sound Studios were shaped by the studio's acoustic ch
 
 **Tape provenance:** The original analog master tapes are held by Sony Music. The ORG 2011 pressing is confirmed to have been mastered by Bernie Grundman directly from the original analog master tapes. Music on Vinyl's sourcing is not explicitly documented but the pressing's sonic quality suggests a good-generation tape source.
 
+**Cover design:** The cover illustration is by **Lou Beach** with design by **Nancy Donald** – the artwork was nominated for a Grammy Award. The abstract, painterly imagery fits the album's fusion of jazz and pop accessibility without explicitly illustrating either. The cover has become one of the most iconic in jazz fusion.
+
 **Birdland's cultural afterlife:** Maynard Ferguson recorded a famous big band version in 1977; Manhattan Transfer released a vocal version with lyrics by Jon Hendricks in 1979. The song has been performed and covered more than almost any jazz fusion composition.
 
 ### Stereo note
