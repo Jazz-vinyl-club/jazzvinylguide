@@ -2,9 +2,7 @@
 
 ## Summary
 
-*Heavy Weather* was recorded between **late 1976 and early 1977** at Devonshire Sound Studios, North Hollywood, California. Personnel: Joe Zawinul (keyboards, synthesizers, melodica, guitar, tabla, vocals), Wayne Shorter (soprano and tenor saxophone), Jaco Pastorius (fretless bass, mandocello, drums, steel drums, vocals), Alex Acuña (drums, congas), Manolo Badrena (percussion). Produced by Joe Zawinul; co-produced by Jaco Pastorius; additional production by Wayne Shorter; engineered by Ron Malo. Released **March 1977** on Columbia Records as **PC 34418**. Weather Report's seventh album, and by far their most commercially successful – by 1991 it had sold over one million copies in the US alone, making it one of the best-selling jazz albums in Columbia's history. DownBeat gave it five stars and its readers voted it jazz album of the year.
-
-The album is dominated by "Birdland," Zawinul's tribute to the legendary New York jazz club, which became a genuine commercial crosshit and jazz standard. Jaco Pastorius – then 25 – is the most transformative presence: his fretless bass gives the album its melodic bottom and harmonic fluidity. "Teen Town," which he wrote and on which he plays bass, drums, and every other part himself, remains among the most celebrated bass performances on record. Joe Zawinul later said: "I heard him play only four bars and I knew history was being made."
+*Heavy Weather* was recorded between **late 1976 and early 1977** at Devonshire Sound Studios, North Hollywood, California. Personnel: Joe Zawinul (keyboards, synthesizers, melodica, guitar, tabla, vocals), Wayne Shorter (soprano and tenor saxophone), Jaco Pastorius (fretless bass, mandocello, drums, steel drums, vocals), Alex Acuña (drums, congas), Manolo Badrena (percussion). Produced by Joe Zawinul; co-produced by Jaco Pastorius; additional production by Wayne Shorter; engineered by Ron Malo. Released **March 1977** on Columbia Records as **PC 34418**. Weather Report's seventh album, and by far their most commercially successful – by 1991 it had sold over one million copies in the US alone, making it one of the best-selling jazz albums in Columbia's history. The album is dominated by "Birdland," Zawinul's tribute to the legendary New York jazz club, which became a jazz standard and the most recognisable Weather Report composition. Jaco Pastorius – then 25 – is the most transformative presence: his fretless bass gives the album its melodic bottom and harmonic fluidity. "Teen Town," which he wrote and on which he plays bass, drums, and every other part himself, remains among the most celebrated bass performances on record. Zawinul later said: "I heard him play only four bars and I knew history was being made."
 
 The original US Columbia first pressing is the audiophile collector target, with the Terre Haute plant pressings consistently rated above those from other plants. The **ORG 2LP 45rpm (2011)** – Bernie Grundman from the original analog master tapes – is the definitive modern reference and ranked **#19 on Vinyl Gourmet's Audiophile TOP 100**. The Music on Vinyl 180g is the best-value option.
 
@@ -31,6 +29,10 @@ The sessions at Devonshire Sound Studios were shaped by the studio's acoustic ch
 
 **Birdland's cultural afterlife:** Maynard Ferguson recorded a famous big band version in 1977; Manhattan Transfer released a vocal version with lyrics by Jon Hendricks in 1979. The song has been performed and covered more than almost any jazz fusion composition.
 
+### Stereo note
+
+*Heavy Weather* was recorded and released in stereo only – there is no mono version. The 1977 Columbia pressing uses a standard two-channel stereo mix engineered by Ron Malo. All reissues are stereo. This is not a consideration for buyers.
+
 ---
 
 ## Original US Columbia pressings
@@ -55,6 +57,10 @@ Later pressings with barcode on the rear cover are sonically equivalent to the o
 
 A direct comparison from Discogs against the Music on Vinyl pressing: "Compared to the Music On Vinyl reissue I had sworn by til now, this has upped the game in several areas. You kinda just know it's gonna be special when the living legend that is Bernie Grundman signs his full name in the deadwax. What's most apparent is a HUGE dynamic range, HUGE soundstaging front to back, side to side and height wise and a tonal believability I've never heard from this recording... in every other way the ORG is better." Now out of print. **$150–$300 secondary.** [Discogs r3526540](https://www.discogs.com/release/3526540-Weather-Report-Heavy-Weather)
 
+### Japanese CBS/Sony 25AP 357 (1977) – the vintage alternative
+
+**Cat. 25AP 357** | Format: 33⅓, stereo, obi strip with yellow obi and one-sided brown insert with Japanese liner notes. **CBS/Sony Inc., Tokyo Japan.** Released simultaneously with the US edition in 1977. [Discogs](https://www.discogs.com/release/13432557-Weather-Report-Heavy-Weather) owners are enthusiastic: "Yeah this is a brilliant sounding pressing of a brilliant album. The dynamics of this record will truly blow you away. I haven't heard a US pressing but I would honestly be shocked if there was any version of this album with better instrument separation and punch." Another: "Surprisingly sounds better than the US copy. It's brighter and has better dynamics." Dead-quiet CBS/Sony vinyl. Note: some Japanese copies list Jaco Pastorius as appearing "by courtesy of Epic Records," reflecting his solo contract status at the time. **$40–$100 NM with obi.**
+
 ### Speakers Corner SC 34418 180g – the European alternative
 
 **Cat. SC 34418** | Format: 180g LP, 33⅓, single LP, gatefold. **Pressed at Pallas, Germany.** The Speakers Corner edition is a well-regarded European audiophile pressing, available at a more accessible secondary price than the ORG. Pallas vinyl is consistently quiet and flat. [Discogs r2342633](https://www.discogs.com/release/2342633-Weather-Report-Heavy-Weather)
@@ -71,6 +77,8 @@ A 2023 repress on **peach coloured vinyl** (r28540660, 1,500 numbered copies) us
 
 **1980s CBS/Columbia reissues and half-speed masters:** Various 1980s Columbia half-speed master editions exist; while well-intentioned, they tend to soften transients and are not preferred. The original Terre Haute pressing or the ORG is a better choice at any price point.
 
+**Tone Poet note:** As of mid-2026, Blue Note has not released a Tone Poet edition of *Heavy Weather* – this is a Columbia/Sony title, not a Blue Note recording, making a Tone Poet release unlikely.
+
 **Generic EU reissues (DOL, Waxtime, and similar):** Not licensed, not from original master tapes. Avoid.
 
 ---
@@ -80,6 +88,8 @@ A 2023 repress on **peach coloured vinyl** (r28540660, 1,500 numbered copies) us
 **Under $40:** The [**Music on Vinyl MOVLP088 180g (2011)**](https://www.discogs.com/release/4332389-Weather-Report-Heavy-Weather) – warm, musical, widely available. The right starting point for most listeners.
 
 **$30–$80:** An original [**US Columbia PC 34418 – Terre Haute pressing**](https://www.discogs.com/release/14499497-Weather-Report-Heavy-Weather) in VG+ – the period-analog option; check the deadwax for "TA" or no plant code. "Much more dynamic, better low end and just so much more alive sounding" than other plant pressings.
+
+**$40–$100:** A [**Japanese CBS/Sony 25AP 357 (1977)**](https://www.discogs.com/release/13432557-Weather-Report-Heavy-Weather) with yellow obi – "brilliant sounding"; "better dynamics than US copy"; dead-quiet CBS/Sony vinyl.
 
 **$60–$120:** The [**Speakers Corner SC 34418 180g**](https://www.discogs.com/release/2342633-Weather-Report-Heavy-Weather) – Pallas pressing, quiet vinyl, good European alternative to the ORG when the ORG is out of reach.
 
@@ -93,6 +103,7 @@ A 2023 repress on **peach coloured vinyl** (r28540660, 1,500 numbered copies) us
 |---|---|---|---|---|---|---|---|
 | **S** | ORG 2LP 45rpm 180g | ORGM-2009 | 2011 | Stereo, 45rpm, 2×180g | Orig analog tapes → Bernie Grundman, RTI | Vinyl Gourmet #19; Fremer-reviewed; 2,500 copies; $150–$300 | [Discogs](https://www.discogs.com/release/3526540-Weather-Report-Heavy-Weather) |
 | **A** | Original US Columbia – Terre Haute press | PC 34418 | 1977 | Stereo, 33⅓ | Original Columbia lacquer; Terre Haute plant | "TA" or no plant code in deadwax; $30–$80 NM | [Discogs](https://www.discogs.com/release/14499497-Weather-Report-Heavy-Weather) |
+| **B** | Japanese CBS/Sony 25AP 357 | 25AP 357 | 1977 | Stereo, 33⅓ | Japanese CBS/Sony pressing | "Better dynamics than US copy"; dead-quiet; $40–$100 with obi | [Discogs](https://www.discogs.com/release/13432557-Weather-Report-Heavy-Weather) |
 | **B** | Speakers Corner SC 34418 180g | SC 34418 | 2000s | Stereo, 33⅓, 180g | Licensed; Pallas pressing | Quiet Pallas vinyl; good European option; $60–$120 | [Discogs](https://www.discogs.com/release/2342633-Weather-Report-Heavy-Weather) |
 | **B** | Music on Vinyl MOVLP088 180g | MOVLP088 | 2011 | Stereo, 33⅓, 180g | Licensed Sony; EU pressing | Warm with boosted bass; best-value modern; $25–$40 | [Discogs](https://www.discogs.com/release/4332389-Weather-Report-Heavy-Weather) |
 | **B** | Original US Columbia – other plants | PC 34418 | 1977 | Stereo, 33⅓ | Original Columbia lacquer; Pitman/Santa Maria/Carrollton | Check plant code; Pitman and Santa Maria acceptable; $20–$50 | [Discogs](https://www.discogs.com/release/10355513-Weather-Report-Heavy-Weather) |
