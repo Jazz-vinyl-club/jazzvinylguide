@@ -21,6 +21,8 @@ Alfred Lion gave Coltrane the full Blue Note session treatment: sufficient rehea
 
 The Five Spot residency with Monk had been crucial. Through six months playing Monk's angular, rhythmically displaced compositions, Coltrane had developed a fluency with unusual harmonic intervals and phrase lengths that Hackensack captured in full. The "sheets of sound" approach Paul Bley had named – dense, rushing cascades of notes covering chordal territory at speed – is audible in embryo on the title track and "Locomotion," both of which anticipate *Giant Steps*.
 
+**Track notes:** The title track opens in E-flat with a boppish riff; Coltrane's solo is among the most concentrated performances of his Prestige period. "Moment's Notice" is the most harmonically advanced track – the rapid chord changes presage *Giant Steps* directly, and [LJC calls it](https://londonjazzcollector.wordpress.com/2020/04/30/in-search-of-the-blue-train/) "a harmonic hurdle race, every few bars a new obstacle." "Locomotion" is a straight blues; Morgan's muted solo is frequently cited. "I'm Old Fashioned" is the album's only standard – a Jerome Kern/Johnny Mercer ballad, with Coltrane unusually gentle. "Lazy Bird" is an up-tempo dedication to Charlie Parker, with complex changes that show Coltrane building toward *Giant Steps*-era density.
+
 **Hackensack acoustic character:** September 1957 was Van Gelder's last full year at the Hackensack studio before the 1959 move to Englewood Cliffs. The close-miked domestic room gives *Blue Train* a particular intimacy – Coltrane's tenor is in the room with the listener in a way that no subsequent Blue Note session quite replicated. This character is most apparent in the mono.
 
 **The mono question:** Van Gelder ran separate mono and stereo microphone chains and tape machines for the 1957 Hackensack sessions – the mono is not a fold-down of the stereo but a native recording. Most serious collectors strongly prefer the mono for *Blue Train* specifically: the tight mono soundfield concentrates Coltrane's tenor, the ensemble horn lines are compellingly dense, and the rhythm section anchor is more immediate. The stereo's hard-left horn arrangement – all three horns in the left channel, a 1957 RVG convention he later moved away from – is considered a weakness by many listeners.
@@ -49,7 +51,7 @@ The earliest copies of BLP 1577 are identifiable by the **"New York 23"** suffix
 - Matrix: **RVG BN-LP-1577-A P 9 M** / **RVG BN-LP-1577-B P 9 M**
 - Laminated sleeve (dull greenish-blue photo; later covers have a brighter blue)
 
-The NY23 label copies are the rarest state. LJC has documented the address chronology in detail; the absence of "Inc." is the critical identifier for the first pressing.
+The NY23 label copies are the rarest state. [LJC has documented](https://londonjazzcollector.wordpress.com/2020/04/30/in-search-of-the-blue-train/) that some BLP 1577 copies have a **mixed label** – NY23 on one side and 47W63rd on the other. This is a known manufacturing quirk from label stock changeovers, not a flaw; LJC notes these "are found with auctions of Blue Train." The absence of "Inc." after "Blue Note Records" remains the critical identifier for the first pressing. LJC also identifies a useful cover dating tool: the clarity of **Curtis Fuller's skin** on the back cover photograph. Earliest copies show perfect clear skin; as pressing generations advanced the photographic plate degraded – slight blemish with "Inc." era, significant deterioration by Liberty era. Top condition NY23 copies now sell above $6,000.
 
 **NM originals (NY23): $400–$1,200. VG+: $200–$600.**
 
@@ -67,13 +69,21 @@ All still carry the RVG stamp and Plastylite ear if from original metalwork. The
 
 ### Blue Note Tone Poet 180g mono (2022) – the current definitive reissue
 
-**Cat. B0035204-01** | Format: 180g LP, 33⅓, mono, gatefold tip-on jacket. **Produced by Joe Harley. Mastered by Kevin Gray at Cohearent Audio, AAA, from the original mono master tape. Pressed at RTI.** The Tone Poet mono of *Blue Train* is the most acclaimed modern reissue of this title. Kevin Gray accessed the original tapes in excellent condition and the result is widely regarded as superior to all earlier reissues. Tracking Angle: "in every way the best sounding, most historically complete, visually stunning Blue Train ever." The gatefold includes Francis Wolff session photography. **$45–$65 new.**
+**Cat. B0035204-01** | Format: 180g LP, 33⅓, mono, gatefold tip-on jacket. **Produced by Joe Harley. Mastered by Kevin Gray at Cohearent Audio, AAA, from the original mono master tape. Pressed at RTI.** The Tone Poet mono of *Blue Train* is the most acclaimed modern reissue of this title. Tracking Angle: "in every way the best sounding, most historically complete, visually stunning Blue Train ever." The gatefold includes Francis Wolff session photography and an essay.
 
-A companion **Blue Train: The Complete Masters 2LP stereo** (with seven alternate and incomplete takes, four previously unreleased) is available separately – useful for the Coltrane scholar but not the listening collector.
+A detailed direct comparison on [Discogs](https://www.discogs.com/release/23760082-John-Coltrane-Blue-Train) between the Tone Poet mono and Music Matters SRX mono found them "virtually identical" when level-matched: "The MMJ is slightly louder from what I can tell which may be why some seem to prefer it but when level matched I can't tell them apart even when instantly switching over samples. The only difference I could pick out is some specific EQ to Blue Train and Moment's Notice where the MMJ gives slightly more focus to the Sax on the intro track while the TP highlights the drum cymbals more." The Tone Poet's availability at retail price makes it the straightforward recommendation. **$45–$65 new.**
+
+A companion **Blue Train: The Complete Masters 2LP stereo** (cat. B0035204-01, same Kevin Gray mastering) includes seven alternate and incomplete takes, four previously unreleased – essential for the Coltrane scholar, supplementary for the listening collector.
 
 ### Blue Note Classic Vinyl 180g mono (2020) – the accessible entry point
 
-**Cat. BLP 1577** | Format: 180g LP, 33⅓, mono. **Mastered by Kevin Gray at Cohearent Audio. Pressed at Optimal in Germany.** The budget-accessible Kevin Gray cut. Most listeners will not find a significant gap between this and the Tone Poet for normal listening conditions, though the Tone Poet is the superior pressing on resolving systems. **$20–$30 new.**
+**Cat. BLP 1577** | Format: 180g LP, 33⅓, mono. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes. Pressed at Optimal in Germany.** The budget-accessible Kevin Gray cut. [Discogs](https://www.discogs.com/release/16219695-John-Coltrane-Blue-Train) owners are enthusiastic: "Sounds great and is really well pressed – as good as any audiophile pressing I've heard at double the price." One experienced collector who compared it directly to a late 1970s original: "I prefer the late 70s white-b pressing. The sound is a good deal richer. The Classic makes instruments sound almost as if they're in isolation booths; on the period pressing, they sound as if they're all there together." A useful data point: the Classic Vinyl is the right choice for regular listening; the Tone Poet rewards careful listening on a resolving system. **$20–$30 new.**
+
+---
+
+### Japanese King GXK-8055 (1978) – the vintage analogue alternative
+
+**Cat. GXK-8055** | Format: 180g LP, 33⅓, mono, gatefold with 12"×12" insert. **King Record Co. Ltd, Japan.** The King Records Japanese pressing of *Blue Train* is the most sought-after vintage alternative to the US originals. [LJC notes](https://londonjazzcollector.wordpress.com/record-labels-guide/blue-note-in-japan/japanese-pressings/) that King pressings are "closer to the originals" with "a more forward presentation" compared to Toshiba (which is "brighter sounding"). The 1978 King edition includes a 12"×12" insert with Japanese liner notes on one side and a Blue Note catalogue on the other. [Discogs](https://www.discogs.com/release/2912145-John-Coltrane-Blue-Train) owners: "Also have a NM pressing of this and it's impeccable. I look forward to comparing it to the Tone Poet." Dead-quiet King vinyl. **$60–$120 NM with obi.**
 
 ---
 
@@ -91,6 +101,8 @@ A companion **Blue Train: The Complete Masters 2LP stereo** (with seven alternat
 
 **$45–$65:** The [**Blue Note Tone Poet mono (2022)**](https://www.discogs.com/release/23760082-John-Coltrane-Blue-Train) – the definitive modern version. This is the recommended purchase for any serious listener.
 
+**$60–$120:** A [**Japanese King GXK-8055 (1978)**](https://www.discogs.com/release/2912145-John-Coltrane-Blue-Train) with obi – LJC's preferred Japanese option; "closer to the originals" than Toshiba pressings; dead-quiet King vinyl.
+
 **$200–$400:** The [**Music Matters SRX MM33 BLP-1577**](https://www.discogs.com/release/5193282-John-Coltrane-Blue-Train) if found at a fair secondary price – excellent, but the Tone Poet has largely supplanted it.
 
 **$400+:** An original [**47 West 63rd BLP 1577 mono**](https://www.discogs.com/release/11786823-John-Coltrane-Blue-Train) (ideally NY23 label, no "Inc.") in honest VG+ or better – the collector's grail for this title.
@@ -106,5 +118,6 @@ A companion **Blue Train: The Complete Masters 2LP stereo** (with seven alternat
 | **A** | Music Matters SRX 33rpm mono | MM33 BLP-1577 | c.2012 | Mono, 33⅓, 180g | Orig mono tape → Kevin Gray, AAA, QRP | OOP; $200–$400 secondary | [Discogs](https://www.discogs.com/release/5193282-John-Coltrane-Blue-Train) |
 | **B** | Original BLP 1577 mono, later 47W63rd/43W61st | BLP 1577 | 1958–62 | Mono, 33⅓ | RVG / Plastylite | Still first-gen metal; $100–$400 by address/condition | [Discogs](https://www.discogs.com/release/8922419-John-Coltrane-Blue-Train) |
 | **B** | Blue Note Classic Vinyl 180g mono | BLP 1577 | 2020 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Budget entry; $20–$30 | [Discogs](https://www.discogs.com/release/16219695-John-Coltrane-Blue-Train) |
+| **B** | Japanese King GXK-8055 mono | GXK-8055 | 1978 | Mono, 33⅓, 180g | Licensed Japanese pressing; King Record Co. | LJC: "closer to originals"; dead-quiet; $60–$120 with obi | [Discogs](https://www.discogs.com/release/2912145-John-Coltrane-Blue-Train) |
 | **C** | BST 1577 stereo original | BST 1577 | 1960 | Stereo, 33⅓ | RVG / Plastylite; native stereo | Hard-left horn placement; not preferred for listening | [Discogs](https://www.discogs.com/master/32208-John-Coltrane-Blue-Train) |
 | **D** | 1970s–80s general reissues | Various | 1970s–80s | Stereo, 33⅓ | Various | Not recommended | – |
