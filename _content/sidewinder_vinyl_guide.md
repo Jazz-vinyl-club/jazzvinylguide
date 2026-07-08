@@ -64,11 +64,15 @@ The **"Bob Crenshaw"** cover misspelling (for Bob Cranshaw) appears on all origi
 
 ### Music Matters 45rpm 2LP stereo (MM33 BNST-84157) – the audiophile benchmark
 
-**Cat. MM33 BNST-84157** | Format: 2×180g LP, 45rpm, stereo, gatefold tip-on jacket. **Mastered by Kevin Gray at Cohearent Audio, AAA, from the original stereo master tape. Pressed at RTI (first run); limited to 3,500 copies.** The Music Matters 45rpm edition of *The Sidewinder* is widely cited as one of the highlights of the label's Blue Note series. The matrix reads: **MM33 BNST-84157-A P RR&KPG@CA 22336.2(3)**. One reviewer: "On My Rig, These BN Music Matters And Definitive 45 RPM Titles Are Simply Amazing." Limited pressing numbers mean secondary prices have risen. **$150–$300 secondary.**
+**Cat. MM33 BNST-84157** | Format: 2×180g LP, 45rpm, stereo, gatefold tip-on jacket. **Mastered by Kevin Gray at Cohearent Audio, AAA, from the original stereo master tape. Pressed at RTI (first run); limited to 3,500 copies.** The Music Matters 45rpm edition of *The Sidewinder* is widely cited as one of the highlights of the label's Blue Note series. The matrix reads: **MM33 BNST-84157-A P RR&KPG@CA 22336.2(3)**. [Discogs](https://www.discogs.com/release/6011184-Lee-Morgan-The-Sidewinder) owners: "On My Rig, These BN Music Matters And Definitive 45 RPM Titles Are Simply Amazing." Another: "This pressing is incredible – it made me appreciate how great Billy Higgins was. You can hear every little detail of what he's doing on the kit." Out of print; secondary prices reflect the quality. **$150–$300 secondary.**
 
 ### Blue Note Classic Vinyl 180g – the accessible modern option
 
-**Cat. BST 84157** | Format: 180g LP, 33⅓, stereo. **Mastered by Kevin Gray at Cohearent Audio. Pressed at Optimal in Germany.** The standard accessible entry point. Kevin Gray's work on The Sidewinder is well-regarded. **$20–$30 new.**
+**Cat. BST 84157** | Format: 180g LP, 33⅓, stereo. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes. Pressed at Optimal in Germany.** The [Blue Note store](https://store.bluenote.com/products/lee-morgan-the-sidewinder-lp-blue-note-classic-vinyl-edition) describes it as "all-analog, mastered by Kevin Gray from the original master tapes." [Discogs](https://www.discogs.com/release/16312236-Lee-Morgan-The-Sidewinder) community is enthusiastic: "KPG's mastering is wonderful and Optimal's pressing is perfect." Another: "Absolutely a 10 out of 10 for the price – balanced, quiet, and richly detailed sound." And, for perspective on what you're getting vs an original: "I was perfectly happy with the BN Classics reissue, which sounds good. But then I found a fairly priced VG+ copy of the original mono and I have no need for the Classics reissue anymore. This thing is bursting with energy compared to the BN Classics." **$20–$30 new.**
+
+### Japanese Toshiba pressing (1976) – the vintage alternative
+
+**Cat. BST-84157** (Toshiba) | Format: 33⅓, stereo, obi strip. **Toshiba Musical Industries, Japan.** The first true Japanese pressing of *The Sidewinder*, issued in 1976 by Toshiba under licence from Blue Note/Liberty. Japanese pressings from this era are known for dead-quiet surfaces and faithful reproduction. Note: earlier copies distributed by Toshiba in 1966–68 were US Liberty pressings sold with Japanese obis – not true domestic pressings; inspect the label text to confirm. **$40–$80 NM with obi.** [Discogs r6462527](https://www.discogs.com/release/6462527-Lee-Morgan-The-Sidewinder)
 
 ---
 
@@ -77,6 +81,8 @@ The **"Bob Crenshaw"** cover misspelling (for Bob Cranshaw) appears on all origi
 **Liberty/UA pressings without Van Gelder stamp:** Some later pressings in the Liberty era were cut from dubs. Inspect deadwax before buying.
 
 **1970s–80s general reissues:** Various Blue Note/Liberty/United Artists compilations and reissues from this period are not recommended when the Classic Vinyl is available.
+
+**Tone Poet note:** As of mid-2026, Blue Note has not released a Tone Poet edition of *The Sidewinder*. Given the album's commercial importance to the label's history, a Tone Poet edition would be expected to be exceptional if and when it appears.
 
 ---
 
@@ -87,6 +93,8 @@ The **"Bob Crenshaw"** cover misspelling (for Bob Cranshaw) appears on all origi
 **$50–$150:** A [**Liberty-era pressing with Van Gelder stamp**](https://www.discogs.com/release/13630870-Lee-Morgan-The-Sidewinder) for the budget collector who wants period metal, or a good-condition VG+ original.
 
 **$150–$300:** The [**Music Matters 45rpm stereo**](https://www.discogs.com/release/6011184-Lee-Morgan-The-Sidewinder) – the definitive modern version; worth seeking for serious listeners.
+
+**$40–$80:** A [**Japanese Toshiba pressing (1976)**](https://www.discogs.com/release/6462527-Lee-Morgan-The-Sidewinder) with obi – the first true domestic Japanese pressing; dead-quiet vinyl and warm character.
 
 **$100–$300:** An original [**New York USA label stereo BST 84157**](https://www.discogs.com/release/1946625-Lee-Morgan-The-Sidewinder) in honest VG+ condition – plentiful on the market relative to other Blue Note originals, making it achievable without exceptional outlay.
 
@@ -100,5 +108,6 @@ The **"Bob Crenshaw"** cover misspelling (for Bob Cranshaw) appears on all origi
 | **A** | Original BST 84157 stereo, NY USA label | BST 84157 | 1964 | Stereo, 33⅓ | RVG / Plastylite; native stereo | No deep groove; VAN GELDER + ear required; $100–$300 NM | [Discogs](https://www.discogs.com/release/1946625-Lee-Morgan-The-Sidewinder) |
 | **A** | Original BLP 4157 mono, NY USA label | BLP 4157 | 1964 | Mono, 33⅓ | RVG / Plastylite; native mono | Same authentication; $100–$250 NM | [Discogs](https://www.discogs.com/release/16046297-Lee-Morgan-The-Sidewinder) |
 | **B** | Blue Note Classic Vinyl 180g | BST 84157 | c.2020 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Budget entry; $20–$30 new | [Discogs](https://www.discogs.com/release/16312236-Lee-Morgan-The-Sidewinder) |
+| **B** | Japanese Toshiba pressing | BST-84157 (Toshiba) | 1976 | Stereo, 33⅓ | Licensed Japanese pressing | First true Japanese pressing; dead-quiet vinyl; $40–$80 with obi | [Discogs](https://www.discogs.com/release/6462527-Lee-Morgan-The-Sidewinder) |
 | **C** | Liberty-era pressing (with VG stamp) | BST 84157 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $30–$80 VG+ | [Discogs](https://www.discogs.com/release/13630870-Lee-Morgan-The-Sidewinder) |
 | **D** | 1970s–80s general reissues | Various | 1970s–80s | Stereo, 33⅓ | Various | Not recommended | – |
