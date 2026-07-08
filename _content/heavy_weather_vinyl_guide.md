@@ -41,9 +41,11 @@ The sessions at Devonshire Sound Studios were shaped by the studio's acoustic ch
 
 Released March 1977. Single LP, gatefold sleeve with insert. Columbia used three primary pressing plants in 1977: **Terre Haute, Indiana** ("TA" or no plant code); **Pitman, New Jersey** ("P"); and **Santa Maria, California** ("S" backwards). Pressing plant is identifiable from a stamp in the dead wax.
 
-The **Terre Haute pressing** is consistently preferred by collectors for this title. Matrix for Side A typically reads: **AL-34418-1A** (or 1B, 1C etc.). One Discogs owner comparing Terre Haute against other plants: "The Terre Haute presses blow all others out of the water for this album. Much more dynamic, better low end and just so much more alive sounding." The TA pressing shows "TA" or no code stamped in addition to the matrix. The Carrollton, Georgia pressing can be identified by "G1" etched in the runouts.
+The **Terre Haute pressing** is generally preferred by collectors for this title. Matrix for Side A typically reads: **AL-34418-1A** (or 1B, 1C etc.). The TA pressing shows "TA" or no code stamped in addition to the matrix. The Carrollton, Georgia pressing can be identified by "G1" etched in the runouts. One owner rates it "the best american press in my collection"; another with a low-numbered ORG prefers their US OG for "musicality, dynamics and sound coherence" over the ORG's analytical precision.
 
-Later pressings with barcode on the rear cover are sonically equivalent to the original but indicate a post-1981 repress. Originals have no barcode. **NM originals: $30–$80; VG+: $15–$40.**
+Note: the Discogs aggregate rating for original pressings (4.25/5 from ~1,000 ratings) reflects all condition grades and matrix variants – the best low-matrix NM copies outperform the average significantly. Originals vary; condition and matrix suffix matter. The Japanese CBS/Sony (see below) is a strong alternative that some experienced listeners prefer to the US original at lower cost.
+
+Later pressings with barcode on the rear cover indicate a post-1981 repress. Originals have no barcode. **NM originals: $30–$80; VG+: $15–$40.**
 
 ---
 
