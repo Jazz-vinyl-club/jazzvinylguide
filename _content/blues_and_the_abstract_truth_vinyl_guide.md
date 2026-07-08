@@ -4,7 +4,7 @@
 
 *The Blues and the Abstract Truth* was recorded on **February 23, 1961** at Van Gelder Studio, Englewood Cliffs, New Jersey. Personnel: Oliver Nelson (alto saxophone, tenor saxophone, arranger); Freddie Hubbard (trumpet); Eric Dolphy (alto saxophone, flute); George Barrow (baritone saxophone); Bill Evans (piano); Paul Chambers (bass); Roy Haynes (drums). Produced by **Creed Taylor**. Engineered by **Rudy Van Gelder**. Released **October 1961** on Impulse! Records as **A-5** (mono) and **AS-5** (stereo). The album title was Creed Taylor's own invention, not Nelson's.
 
-One of the most distinguished personnel lists in all of jazz – Evans and Chambers fresh from the *Kind of Blue* sessions, Dolphy at the height of his powers, Hubbard just 22 years old. "Stolen Moments" became an immediate jazz standard and has been covered by dozens of artists from Frank Zappa to Steely Dan. DownBeat gave the album four and a half stars on release in December 1961. The Penguin Guide selected it for the Core Collection. In 2026 it was added to the Library of Congress National Recording Registry.
+One of the most distinguished personnel lists in all of jazz – Evans and Chambers fresh from the *Kind of Blue* sessions, Dolphy at the height of his powers, Hubbard just 22 years old. "Stolen Moments" became an immediate jazz standard and has been covered by dozens of artists from Frank Zappa to Steely Dan. The Penguin Guide selected it for the Core Collection.
 
 Both the original mono (A-5) and stereo (AS-5) are highly regarded. The stereo is the more commonly collected version; the mono is preferred by those who favour midrange density. All major modern reissues – Analogue Productions, Speakers Corner, and the Acoustic Sounds Series – are derived from the original analogue master tapes and differ primarily in character rather than quality. The Acoustic Sounds 180g (2021) is the current reference; the Speakers Corner (2003) is often preferred for its warmer character.
 
@@ -27,9 +27,15 @@ Van Gelder's Englewood Cliffs studio, by 1961 fully settled and in its mature pe
 
 **The two cover states:** The album was originally released with an **abstract graphic cover** designed in keeping with the album's title. Shortly after release, Impulse! replaced this with a **blue portrait photograph of Nelson** (by Pete Turner). Both laminated gatefold covers span the original orange/black label pressing. The revised blue portrait cover is the more commonly encountered version today; the abstract cover is rarer and commands a premium.
 
+**Critical reception and legacy:** DownBeat's Don DeMicheal gave the album four and a half stars in the December 21, 1961 issue: "Nelson's playing is like his writing: thoughtful, unhackneyed, and well-constructed. Hubbard steals the solo honors with some of his best playing on record." AllMusic awarded it five stars, describing it as "a must buy for all jazz fans." The Jazz Journal International called it "one of the essential post-bop recordings." In 2026 it was selected by the Library of Congress for the National Recording Registry as culturally, historically or aesthetically significant.
+
 **Oliver Nelson's later career:** The album's success led Nelson to move to Los Angeles in 1967 to pursue Hollywood arranging and film scoring work. Creed Taylor lamented: "I hated to see him go to Hollywood, where he kind of evaporated." Nelson died of a heart attack in Los Angeles in 1975, aged 43.
 
 **Tape provenance:** The original Impulse! master tapes are in the Universal Music archive. Van Gelder himself cut the lacquers for the original issue. Analogue Productions, Speakers Corner, and Acoustic Sounds all confirm working from the original analogue master tapes. The tape is in good condition; there are no documented deterioration issues.
+
+### Mono vs. stereo
+
+The original release was issued in both mono (A-5) and stereo (AS-5). Both were recorded simultaneously by Van Gelder running separate chains. The stereo is the more commonly collected format: the wide placement of instruments across the stereo field is one of the recording's great pleasures, and all modern reissues are stereo. The mono is preferred by collectors who favour midrange density and a more concentrated ensemble sound. Neither is clearly superior – it is a matter of listening preference. For most buyers, stereo is the recommendation.
 
 ---
 
@@ -81,6 +87,12 @@ Impulse! moved through several label design changes: the **black/red rim** label
 
 ---
 
+### Japanese pressing (1981) – the vintage alternative
+
+A 1981 Japanese pressing of *The Blues and the Abstract Truth* exists on the ABC/Impulse! Japan imprint. Japanese Impulse! pressings from this era are known for dead-quiet vinyl and warm reproduction. **$40–$80 NM with obi.** [Discogs r7218138](https://www.discogs.com/release/7218138)
+
+---
+
 ## Pressings to avoid
 
 **ABC, MCA, and GRP-era reissues (1970s–90s):** Pressed from secondary sources or digital transfers. Not recommended when the Acoustic Sounds is available new at $35.
@@ -94,6 +106,8 @@ Impulse! moved through several label design changes: the **black/red rim** label
 ## Buyer's guide by budget
 
 **Under $40:** The [**Acoustic Sounds Series 180g (2021)**](https://www.discogs.com/release/19292413-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) – Ryan K. Smith, QRP, AAA. Universally praised; the straightforward recommendation for any listener.
+
+**$40–$80:** A [**Japanese ABC/Impulse! pressing (1981)**](https://www.discogs.com/release/7218138) with obi – dead-quiet Japanese vinyl; warm and faithful.
 
 **$80–$150:** The [**Speakers Corner 180g (2003)**](https://www.discogs.com/release/1700545-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) if found at a good secondary price – Kevin Gray, Pallas, warmer and fuller than the Acoustic Sounds. Preferred by some for its "tubey magic."
 
@@ -115,6 +129,7 @@ Impulse! moved through several label design changes: the **black/red rim** label
 | **B** | Speakers Corner 180g | IMP A-5 | 2003 | Stereo, 33⅓, 180g | Orig tapes → Kevin Gray, Pallas | Warmer/fuller than Acoustic Sounds; OOP $80–$150 | [Discogs](https://www.discogs.com/release/1700545-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) |
 | **B** | AP 45rpm 2LP 180g RTI | AAIMP 5 | 2009 | Stereo, 45rpm, 2×180g | Orig tapes → Kevin Gray, AAA, RTI | 1,500 numbered; OOP $100–$200 | [Discogs](https://www.discogs.com/release/3775239-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) |
 | **B** | Original A-5 mono, orange/black label | A-5 | 1961 | Mono, 33⅓ | RVG / original Impulse! lacquer | Van Gelder stamp; preferred for midrange density; $200–$500 NM | [Discogs](https://www.discogs.com/master/56196-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) |
+| **C** | Japanese ABC/Impulse! pressing | Various | 1981 | Stereo, 33⅓ | Licensed Japanese pressing | Dead-quiet vinyl; $40–$80 with obi | [Discogs](https://www.discogs.com/release/7218138) |
 | **C** | Later Impulse! black/red rim pressings | AS-5 | c.1968+ | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $40–$120 VG+ | [Discogs](https://www.discogs.com/master/56196-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) |
 | **D** | ABC/MCA/GRP reissues | Various | 1970s–90s | Stereo, 33⅓ | Various | Not recommended over Acoustic Sounds at $35 | – |
 | **F** | Generic EU reissues (DOL, Waxtime, etc.) | Various | 2000s+ | Various | Digital, unlicensed | Avoid | – |
