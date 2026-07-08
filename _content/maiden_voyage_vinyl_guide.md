@@ -2,7 +2,7 @@
 
 ## Summary
 
-*Maiden Voyage* was recorded on **March 17, 1965**, at Van Gelder Studio in Englewood Cliffs, New Jersey. Personnel: Herbie Hancock (piano), Freddie Hubbard (trumpet), George Coleman (tenor saxophone), Ron Carter (bass), Tony Williams (drums). Produced by Alfred Lion. Released **April 1965** on Blue Note as BLP 4195 (mono) and BST 84195 (stereo). Inducted into the **Grammy Hall of Fame in 1999**.
+*Maiden Voyage* was recorded on **March 17, 1965**, at Van Gelder Studio in Englewood Cliffs, New Jersey. Personnel: Herbie Hancock (piano), Freddie Hubbard (trumpet), George Coleman (tenor saxophone), Ron Carter (bass), Tony Williams (drums). Produced by Alfred Lion. Released in **1965** on Blue Note as BLP 4195 (mono) and BST 84195 (stereo). Inducted into the **Grammy Hall of Fame in 1999**.
 
 Five Hancock originals, each built around a sustained nautical metaphor and the "sus chord" harmonic language he had developed in the Miles Davis Quintet. "Dolphin Dance" has become one of the most widely studied piano compositions in jazz pedagogy. The album is widely considered Hancock's finest achievement as a Blue Note leader.
 
@@ -16,8 +16,6 @@ The stereo is widely preferred for this title – Tony Williams's drumming and t
 
 
 ## Recording history and tape provenance
-
-An earlier attempt at this album – a session held at Blue Note with the same lineup but Stu Martin on drums instead of Tony Williams – was abandoned. No tapes from that date have ever surfaced; it exists only as an entry in the Blue Note session files.
 
 Hancock had been in the Miles Davis Quintet since 1963, and by early 1965 the experience had fundamentally shaped his approach to accompaniment and space. As [Blue Note's own profile](https://www.bluenote.com/spotlight/herbie-hancocks-maiden-voyage/) describes: "Among Hancock's tasks in that group was to create expansive landscapes for Davis; the pianist stoked and framed what became epic discussions by drawing on a range of sources... In the Davis fold he learned about space and subtlety, about how something small and slight, like a three-note chord, could trigger torrents of spontaneous creativity."
 
@@ -66,7 +64,7 @@ Note: r1907831 on Discogs is listed as Mono (DG Side 1) – the stereo original 
 
 ### Analogue Productions AP-84195 45rpm 2LP (2010) – the earlier audiophile benchmark
 
-**Cat. AP-84195** | Format: 2×180g LP, 45rpm, numbered. **Mastered by Kevin Gray and Steve Hoffman at AcousTech, AAA, from the original master tapes. Pressed at RTI.** Limited to 2,500 numbered copies; now out of print. The AP preceded the Music Matters 33rpm by a few years. [Stereophile](https://www.stereophile.com/content/herbie-hancock-maiden-voyage) noted the Music Matters 33rpm sounds "more transparent, airy, and dynamic" than the AP 45rpm, attributing this to improved equipment at Cohearent Audio. The AP remains an excellent pressing – just not the current reference. **$150–$300 secondary.**
+**Cat. AP-84195** | Format: 2×180g LP, 45rpm, numbered. **Mastered by Kevin Gray and Steve Hoffman at AcousTech, AAA, from a safety copy of the master tapes. Pressed at RTI.** Limited to 2,500 numbered copies; now out of print. The AP preceded the Music Matters 33rpm by a few years. [Stereophile](https://www.stereophile.com/content/herbie-hancock-maiden-voyage) noted the Music Matters 33rpm sounds "more transparent, airy, and dynamic" than the AP 45rpm, attributing this to improved equipment at Cohearent Audio and, crucially, the fact that the AP 45rpm was mastered from a safety copy of the master tape while the Music Matters 33rpm was sourced from the original master tape. The AP remains an excellent pressing – just not the current reference. **$150–$300 secondary.**
 
 ### Japanese King/Toshiba pressings (1970s–80s) – the vintage alternative
 
@@ -108,8 +106,8 @@ Japanese licensed pressings of *Maiden Voyage* – particularly the **King/Toshi
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Music Matters SRX 33rpm AAA stereo | MM33 BNST-84195 | c.2013 | Stereo, 33⅓, 180g | Orig stereo tape → Kevin Gray, AAA, QRP | Stereophile: best modern version; OOP; $150–$250 | [Discogs](https://www.discogs.com/release/14993652-Herbie-Hancock-Maiden-Voyage) |
-| **A** | AP 45rpm 2LP | AP-84195 | 2010 | Stereo, 45rpm, 2×180g | Orig tapes → Kevin Gray & Hoffman, AcousTech, RTI | 2,500 copies; OOP; $150–$300 secondary | [Discogs](https://www.discogs.com/release/3327141-Herbie-Hancock-Maiden-Voyage) |
+| **S** | Music Matters SRX 33rpm AAA stereo | MM33 BNST-84195 | 2019 | Stereo, 33⅓, 180g | Orig stereo tape → Kevin Gray, AAA, QRP | Stereophile: best modern version; OOP; $150–$250 | [Discogs](https://www.discogs.com/release/14993652-Herbie-Hancock-Maiden-Voyage) |
+| **A** | AP 45rpm 2LP | AP-84195 | 2010 | Stereo, 45rpm, 2×180g | Safety copy of orig tapes → Kevin Gray & Hoffman, AcousTech, RTI | 2,500 copies; OOP; $150–$300 secondary | [Discogs](https://www.discogs.com/release/3327141-Herbie-Hancock-Maiden-Voyage) |
 | **A** | Original BST 84195 stereo, NY USA label | BST 84195 | 1965 | Stereo, 33⅓ | RVG / Plastylite; native stereo | Deep groove Side A; VAN GELDER + ear required; $200–$500 NM | [Discogs](https://www.discogs.com/release/1407692-Herbie-Hancock-Maiden-Voyage) |
 | **A** | Original BLP 4195 mono, NY USA label | BLP 4195 | 1965 | Mono, 33⅓ | RVG / Plastylite; native mono | Deep groove Side A; $200–$450 NM | [Discogs](https://www.discogs.com/release/1907831-Herbie-Hancock-Maiden-Voyage) |
 | **B** | Blue Note Classic Vinyl 180g | BST 84195 | 2021 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Consistently good reviews; $20–$35 new | [Discogs](https://www.discogs.com/release/20316430-Herbie-Hancock-Maiden-Voyage) |
