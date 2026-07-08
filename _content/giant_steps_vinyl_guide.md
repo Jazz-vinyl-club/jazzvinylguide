@@ -42,7 +42,7 @@ There is a persistent and widespread belief that stereo first pressings of *Gian
 
 - **Mono first pressing (1311):** Unambiguously uses Atlantic's **deep groove black label** with silver lettering, "Long Playing Unbreakable." This is consistent with LJC's Atlantic labelography showing the black label was used for titles in this catalogue range at the time of mono release.
 
-- **Stereo first pressing (SD 1311):** Uses Atlantic's **bullseye label** — green upper half and blue lower half, divided by a white horizontal bar containing the Atlantic fan logo, with concentric rings around the spindle hole. The stereo was not released simultaneously with the mono; it followed in early 1960. By that point, the bullseye was in use for new stereo releases. The Into Somethin' blog author owns a deep-groove bullseye copy where the earliest variant has "STEREO" printed in blue/white text — a key indicator of the first stereo copies.
+- **Stereo first pressing (SD 1311):** Uses Atlantic's **bullseye label** – green upper half and blue lower half, divided by a white horizontal bar containing the Atlantic fan logo, with concentric rings around the spindle hole. The stereo was not released simultaneously with the mono; it followed in early 1960. By that point, the bullseye was in use for new stereo releases. The Into Somethin' blog author owns a deep-groove bullseye copy where the earliest variant has "STEREO" printed in blue/white text – a key indicator of the first stereo copies.
 
 Green-label copies of Giant Steps in the bullseye era that have been represented as "first pressings" are almost certainly escaped copies from **The Heavyweight Champion** box set or audiophile reissues.
 
@@ -69,9 +69,9 @@ LJC, who owned both a stereo and a mono original, sold the stereo: "the separati
 
 ### Later Atlantic label variants
 
-**Plum/orange white fan label (1960s):** Second pressings; excellent sound and very affordable at **$20–$60**. LJC notes orange/red Atlantic pressings of this title sound "absolutely stellar" and praises the George Piros-mastered 1970s copies (look for "AT/GP" in deadwax — AT = Atlantic Studios, GP = George Piros the mastering engineer, not Art Taylor the drummer) as better than the 2005 Kevin Gray Rhino reissue.
+**Plum/orange white fan label (1960s):** Second pressings; excellent sound and very affordable at **$20–$60**. LJC notes orange/red Atlantic pressings of this title sound "absolutely stellar" and praises the George Piros-mastered 1970s copies (look for "AT/GP" in deadwax – AT = Atlantic Studios, GP = George Piros the mastering engineer, not Art Taylor the drummer) as better than the 2005 Kevin Gray Rhino reissue.
 
-**Red/green Warner-era (1970s):** Thin vinyl but the "AT/GP" (Atlantic Studios/George Piros) deadwax variants are notably dynamic. Note: AT stands for Atlantic Studios, not Art Taylor — the session drummer's name is a coincidence. Discogs and LJC forum voices recommend these ahead of some modern reissues. Worth buying if the price is right.
+**Red/green Warner-era (1970s):** Thin vinyl but the "AT/GP" (Atlantic Studios/George Piros) deadwax variants are notably dynamic. Note: AT stands for Atlantic Studios, not Art Taylor – the session drummer's name is a coincidence. Discogs and LJC forum voices recommend these ahead of some modern reissues. Worth buying if the price is right.
 
 ---
 
@@ -115,7 +115,7 @@ There is also a companion **Rhino Reserve mono** edition (**Cat. RM1 1311**) in 
 
 ### Rhino mono 180g (2017)
 
-**Cat. 1311** (Rhino mono 2017) | Format: single 180g mono, 33⅓, tip-on jacket. The mastering credit is not printed on the sleeve, and some copies show no deadwax stamp — but other owners report finding "KPG@CA" (Kevin Gray at Cohearent Audio) hand-etched in the runout, suggesting this may be an uncredited Kevin Gray cut. Community consensus is divided on what the deadwax shows. Despite the uncertainty, it has accumulated very strong reviews: "Mastering wise this just has more life to the playing than the stereo which is abit softer." "Sounds better than the original mono vinyl pressing." "For Giant Steps in mono this is the new standard from what I've heard." One owner who compared it to a clean orange/purple deep-groove Atlantic mono found "the differences are negligible." If the KPG@CA attribution is confirmed on your copy, this may already be a Kevin Gray AAA cut — giving it more provenance than the "no credit" description suggests. **~$15–$25 used.**
+**Cat. 1311** (Rhino mono 2017) | Format: single 180g mono, 33⅓, tip-on jacket. The mastering credit is not printed on the sleeve, and some copies show no deadwax stamp – but other owners report finding "KPG@CA" (Kevin Gray at Cohearent Audio) hand-etched in the runout, suggesting this may be an uncredited Kevin Gray cut. Community consensus is divided on what the deadwax shows. Despite the uncertainty, it has accumulated very strong reviews: "Mastering wise this just has more life to the playing than the stereo which is abit softer." "Sounds better than the original mono vinyl pressing." "For Giant Steps in mono this is the new standard from what I've heard." One owner who compared it to a clean orange/purple deep-groove Atlantic mono found "the differences are negligible." If the KPG@CA attribution is confirmed on your copy, this may already be a Kevin Gray AAA cut – giving it more provenance than the "no credit" description suggests. **~$15–$25 used.**
 
 ### Rhino Hi-Fi mono 180g (2026)
 
@@ -170,7 +170,8 @@ Toshiba-EMI pressed Atlantic Coltrane titles throughout the 1970s–80s and thes
 | **B** | Rhino Reserve mono 180g gatefold | RM1 1311 | 2025 | Mono, 33⅓, 180g | Kevin Gray, Optimal | Gatefold; "by far the best pressing"; companion to RES1 1311 | [Discogs](https://www.discogs.com/master/32236-John-Coltrane-Giant-Steps) |
 | **B** | Rhino mono 180g | 1311 | 2017 | Mono, 33⅓, 180g | Possibly Kevin Gray (KPG@CA reported on some copies) | Some copies show KPG@CA deadwax; fiery character; well reviewed; ~$15–$25 | [Discogs](https://www.discogs.com/release/10456756-John-Coltrane-Giant-Steps) |
 | **B** | 1960s plum/orange Atlantic | SD 1311 / 1311 | 1962–68 | Stereo or mono, 33⅓ | Period Atlantic lacquer | "AT/GP" (Atlantic Studios/George Piros) deadwax variants particularly good; $20–$60 | [Discogs](https://www.discogs.com/master/32236-John-Coltrane-Giant-Steps) |
-| **B** | Japanese Toshiba-EMI | Various | 1970s–80s | Stereo or mono, 33⅓ | Japanese tape copy | Dead-quiet vinyl; $40–$80 with obi | [Discogs](https://www.discogs.com/master/32236-John-Coltrane-Giant-Steps) |
+| **B** | Japanese Warner-Pioneer SD-1311 | SD-1311 / P-series | 1972–75 | Stereo, 33⅓ | Licensed Japanese pressing | "Jazz Age" obi; JIS 〄 stamp; "noticeably better than the US 70s pressing"; $40–$80 with obi | [Discogs](https://www.discogs.com/release/4055226-John-Coltrane-Giant-Steps) |
+| **C** | Japanese Toshiba-EMI later pressings | Various | late 1970s–80s | Stereo or mono, 33⅓ | Licensed Japanese pressing | Dead-quiet vinyl; good value; $25–$60 with obi | [Discogs](https://www.discogs.com/master/32236-John-Coltrane-Giant-Steps) |
 | **C** | Heavyweight Champion 12LP box | R1 71984 | 1995/2000 | Stereo, 33⅓, 150g | Gene Paul / Rhino, AAA | Full Atlantic Coltrane context; $200–$400 box | [Discogs](https://www.discogs.com/release/3415863-John-Coltrane-The-Heavyweight-Champion-The-Complete-Atlantic-Recordings) |
 | **C** | 1970s red/green Warner Atlantic | SD 1311 | 1970s | Stereo, 33⅓ | Later Atlantic/Warner lacquer | AT/GP variants good; others avoid | [Discogs](https://www.discogs.com/master/32236-John-Coltrane-Giant-Steps) |
 | **D** | Kevin Gray/Acoustech 180g | R1-75203 | c.2003 | Stereo, 33⅓, 180g | Kevin Gray, AcousTech/RTI | Tape deterioration audible; variable pressing; $15–$30 | [Discogs](https://www.discogs.com/release/1151131-John-Coltrane-Giant-Steps) |
