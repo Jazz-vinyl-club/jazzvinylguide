@@ -79,11 +79,11 @@ Impulse! moved through several label design changes: the **black/red rim** label
 
 ### Analogue Productions 45rpm 2LP – 200g QRP pressing (2010)
 
-**Cat. AAIMP 5** | Format: 2×200g LP, 45rpm, gatefold. **Mastered by Kevin Gray, from the original master tapes. Pressed at QRP.** The upgraded AP pressing on 200g QRP vinyl followed the original 2009 RTI pressing. Dennis Davis in Hi-Fi+ (Issue 68): "Let me cut to the chase here and recommend that you buy two copies – one to enjoy and the other to hold for resale, because some day Acoustic Sounds' licence will run out and lots of jazz fans will be kicking themselves for not buying a copy. Kevin Gray has turned out a perfect remastering job and this is my choice for reissue of the year." Recording = 10/10; Music = 10/10. Now OOP; secondary prices have risen since the Acoustic Sounds Series took over as the accessible modern reference. **$150–$300 secondary.** [Discogs r2940887](https://www.discogs.com/release/2940887-Oliver-Nelson-The-Blues-And-The-Abstract-Truth)
+**Cat. AAIMP 5** | Format: 2×200g LP, 45rpm, gatefold. **Mastered by Kevin Gray and Steve Hoffman at AcousTech, from the original master tapes. Pressed at QRP.** The upgraded AP pressing on 200g QRP vinyl followed the original 2009 RTI pressing. Dennis Davis in Hi-Fi+ (Issue 68): "Let me cut to the chase here and recommend that you buy two copies – one to enjoy and the other to hold for resale, because some day Acoustic Sounds' licence will run out and lots of jazz fans will be kicking themselves for not buying a copy. Kevin Gray has turned out a perfect remastering job and this is my choice for reissue of the year." Recording = 10/10; Music = 10/10. Now OOP; secondary prices have risen since the Acoustic Sounds Series took over as the accessible modern reference. **$150–$300 secondary.** [Discogs r2940887](https://www.discogs.com/release/2940887-Oliver-Nelson-The-Blues-And-The-Abstract-Truth)
 
 ### Analogue Productions 45rpm 2LP – 180g RTI pressing (2009)
 
-**Cat. AAIMP 5** | Format: 2×180g LP, 45rpm, gatefold, first 1,500 numbered. **Mastered by Kevin Gray, from the original master tapes. Pressed at RTI.** The original AP pressing, slightly earlier than the 200g QRP version. Same mastering; QRP vinyl is generally preferred for its lower noise floor. **$100–$200 secondary.** [Discogs r3775239](https://www.discogs.com/release/3775239-Oliver-Nelson-The-Blues-And-The-Abstract-Truth)
+**Cat. AAIMP 5** | Format: 2×180g LP, 45rpm, gatefold, first 1,500 numbered. **Mastered by Kevin Gray and Steve Hoffman at AcousTech, from the original master tapes. Pressed at RTI.** The original AP pressing, slightly earlier than the 200g QRP version. Same mastering; QRP vinyl is generally preferred for its lower noise floor. **$100–$200 secondary.** [Discogs r3775239](https://www.discogs.com/release/3775239-Oliver-Nelson-The-Blues-And-The-Abstract-Truth)
 
 ---
 
@@ -94,6 +94,8 @@ A 1981 Japanese pressing of *The Blues and the Abstract Truth* exists on the ABC
 ---
 
 ## Pressings to avoid
+
+**UK EMI pressings:** The UK Stateside/HMV mono and stereo pressings from the 1960s are cut from copy tapes rather than the original Van Gelder master. [LJC](https://londonjazzcollector.wordpress.com/2011/11/26/oliver-nelson-the-blues-and-the-abstract-truth-1961/) notes they "sound pale in comparison to the Van Gelder sourced master." Not recommended when the Acoustic Sounds is available at $35.
 
 **ABC, MCA, and GRP-era reissues (1970s–90s):** Pressed from secondary sources or digital transfers. Not recommended when the Acoustic Sounds is available new at $35.
 
@@ -124,10 +126,10 @@ A 1981 Japanese pressing of *The Blues and the Abstract Truth* exists on the ABC
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
 | **S** | Acoustic Sounds Series 180g | AS-5 | 2021 | Stereo, 33⅓, 180g | Orig tapes → Ryan K. Smith, Sterling Sound, AAA, QRP | Universally praised; ~$35 new | [Discogs](https://www.discogs.com/release/19292413-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) |
-| **A** | AP 45rpm 2LP 200g QRP | AAIMP 5 | 2010 | Stereo, 45rpm, 2×200g | Orig tapes → Kevin Gray, AAA, QRP | Hi-Fi+ 10/10; OOP $150–$300 | [Discogs](https://www.discogs.com/release/2940887-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) |
+| **A** | AP 45rpm 2LP 200g QRP | AAIMP 5 | 2010 | Stereo, 45rpm, 2×200g | Orig tapes → Kevin Gray & Hoffman, AcousTech, AAA, QRP | Hi-Fi+ 10/10; OOP $150–$300 | [Discogs](https://www.discogs.com/release/2940887-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) |
 | **A** | Original AS-5 stereo, orange/black label | AS-5 | 1961 | Stereo, 33⅓ | RVG / original Impulse! lacquer | Van Gelder stamp; abstract or portrait cover; $150–$400 NM | [Discogs](https://www.discogs.com/release/12434112-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) |
 | **B** | Speakers Corner 180g | IMP A-5 | 2003 | Stereo, 33⅓, 180g | Orig tapes → Kevin Gray, Pallas | Warmer/fuller than Acoustic Sounds; OOP $80–$150 | [Discogs](https://www.discogs.com/release/1700545-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) |
-| **B** | AP 45rpm 2LP 180g RTI | AAIMP 5 | 2009 | Stereo, 45rpm, 2×180g | Orig tapes → Kevin Gray, AAA, RTI | 1,500 numbered; OOP $100–$200 | [Discogs](https://www.discogs.com/release/3775239-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) |
+| **B** | AP 45rpm 2LP 180g RTI | AAIMP 5 | 2009 | Stereo, 45rpm, 2×180g | Orig tapes → Kevin Gray & Hoffman, AcousTech, AAA, RTI | 1,500 numbered; OOP $100–$200 | [Discogs](https://www.discogs.com/release/3775239-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) |
 | **B** | Original A-5 mono, orange/black label | A-5 | 1961 | Mono, 33⅓ | RVG / original Impulse! lacquer | Van Gelder stamp; preferred for midrange density; $200–$500 NM | [Discogs](https://www.discogs.com/master/56196-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) |
 | **C** | Japanese ABC/Impulse! pressing | Various | 1981 | Stereo, 33⅓ | Licensed Japanese pressing | Dead-quiet vinyl; $40–$80 with obi | [Discogs](https://www.discogs.com/release/7218138) |
 | **C** | Later Impulse! black/red rim pressings | AS-5 | c.1968+ | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $40–$120 VG+ | [Discogs](https://www.discogs.com/master/56196-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) |
