@@ -6,7 +6,7 @@
 
 The defining collector issue is the stereo channel reversal. On virtually every commercially released version – from the 1964 original through the 2024 Impex 1Step – the left and right channels are swapped from Ramone's original mixdown. On most pressings, Astrud Gilberto's voice is pinned hard right; on the correctly channelled 2011 Analogue Productions 45rpm and the 2020 Acoustic Sounds Series, she is correctly on the left. Both camps have passionate defenders. The AP uses the true original master tape unused since 1980; the Impex uses a superior pressing format but the reversed copy tape. Choose based on whether you prioritise tape provenance or pressing format.
 
-**Best early pressing for audiophiles:** [US stereo Verve V6-8545 deep-groove](https://www.discogs.com/master/36108-Stan-Getz-Jo%C3%A3o-Gilberto-Getz-Gilberto) – RE-1 matrix, reversed channels but genuine 1964 RVG-era lacquer; $200–$500 NM.
+**Best early pressing for audiophiles:** [US stereo Verve V6-8545 deep-groove](https://www.discogs.com/master/36108-Stan-Getz-Jo%C3%A3o-Gilberto-Getz-Gilberto) – RE-1 matrix, reversed channels but genuine 1964 original lacquer; $200–$500 NM.
 
 **Best modern pressing for audiophiles:** [Analogue Productions AP-8545 45rpm 2LP](https://www.discogs.com/release/11129763-Stan-Getz-Jo%C3%A3o-Gilberto-Featuring-Antonio-Carlos-Jobim-Getz-Gilberto) – correct channels, true original master, George Marino, AAA; the consensus reference.
 
@@ -14,7 +14,7 @@ The defining collector issue is the stereo channel reversal. On virtually every 
 
 ## Recording history, tape provenance and the channel-reversal problem
 
-*Getz/Gilberto* was recorded on **March 18 and 19, 1963** at **A&R Recording Studios in New York City**, engineered by **Phil Ramone** and produced by **Creed Taylor** for Verve Records. The personnel were Stan Getz (tenor saxophone), João Gilberto (guitar and vocals), Antonio Carlos Jobim (piano and, on a few tracks, guitar), Astrud Gilberto (vocals on two tracks), Tommy Williams (bass) – also credited as Sebastião Neto in some editions, and Milton Banana (drums). The album was released in **March 1964** – held back nearly a year by Creed Taylor, by which point the Beatles had overtaken the charts, yet the album still peaked at #2 on the Billboard charts and spent 96 weeks there. It won four Grammy Awards in 1965, including Album of the Year – the first non-American album ever to receive that honour.
+*Getz/Gilberto* was recorded on **March 18 and 19, 1963** at **A&R Recording Studios in New York City**, engineered by **Phil Ramone** and produced by **Creed Taylor** for Verve Records. The personnel were Stan Getz (tenor saxophone), João Gilberto (guitar and vocals), Antonio Carlos Jobim (piano and, on a few tracks, guitar), Astrud Gilberto (vocals on two tracks), Tommy Williams (bass), and Milton Banana (drums). The album was released in **March 1964** – held back nearly a year by Creed Taylor, by which point the Beatles had overtaken the charts, yet the album still peaked at #2 on the Billboard charts and spent 96 weeks there. It won four Grammy Awards in 1965, including Album of the Year – the first non-American album ever to receive that honour.
 
 Ramone, aware of how special the session was, recorded the master at an unusually high speed: **30 ips (inches per second), double the standard professional 15 ips rate**, specifically to reduce tape hiss and maximise dynamic range in the quiet passages. This is one reason the recording has sounded consistently excellent across decades of reissues – the fundamental tape quality is exceptional.
 
@@ -34,20 +34,20 @@ This creates the central collector's dilemma for this album: **do you want the c
 
 ## Original US Verve pressings (1964)
 
-The album was issued in **stereo only for commercial purposes** – a mono version (V-8545) exists but is rare and considered secondary. The primary commercial release is:
+The album was issued commercially in both **mono (V-8545)** and **stereo (V6-8545)** in 1964. The mono version is considered secondary by most collectors and audiophiles; the primary collectible release is:
 
 - **Stereo: V6-8545** (the "V6" prefix denoting Verve stereo)
-- **Mono: V-8545** (rare; same performances, channels collapsed)
+- **Mono: V-8545** (same performances, channels collapsed)
 
 ### Label identification
 
-The original Verve label of 1964 is the distinctive **Verve "trumpet" label** – black with a gold trumpet graphic at top and "VERVE" in large gold letters. Footer reads "Polydor-Verve Recording" or similar MGM/Polydor language depending on sub-variant. The **gatefold jacket** is standard for all original pressings; the famous Olga Albizu abstract painting cover is consistent across variants. No barcode on any 1964 original.
+The original Verve label of 1964 is the distinctive **Verve "trumpet" label** – black with a gold trumpet graphic at top and "VERVE" in large gold letters. Footer reads **"MGM Records – A Division of Metro-Goldwyn-Mayer, Inc."** or similar MGM-related language. The **gatefold jacket** is standard for all original pressings; the famous Olga Albizu abstract painting cover is consistent across variants. No barcode on any 1964 original.
 
 **First pressing markers:** The earliest stereo copies carry matrix codes in the format **V6-8545 SIDE-1 63-VGS-560 RE-1** and **V6-8545 SIDE-2 63-VGS-561 RE-1** hand-etched in the deadwax. The "RE-1" suffix identifies the first lacquer generation. Crucially, **some but not all first-year pressings carry a deep groove** – Discogs documents two deep-groove variants distinguishable by label typography: one with "Antonio Carlos Jobim" in mixed case, one with "ANTONIO CARLOS JOBIM" in all-caps. Track A2 ("Doralice") copyright attribution also varies between "ASCAP" and "BMI" across variants, providing another sorting tool. The deep-groove copies are the earliest.
 
 Later 1964–66 US pressings show "RE-2," "RE-3," "RE-4" through "RE-6" lacquer suffixes, all progressively later. A transitional variant exists with the label catalogue number reading **"V6-8545"** with unusual font width and hyphens between track titles and durations – described in Discogs as "generally looks like a transitional variation between early V6-8545 and later V6/8545." Some copies have a sticker reading **"V/V6-8545 Contains The Hit Record of THE GIRL FROM IPANEMA"** – this sticker indicates early commercial period but is not a definitive first-press marker.
 
-From **mid-1966** onward, Verve labels transition to the **MGM Distribution** footer ("MGM Records – A Division of Metro-Goldwyn-Mayer, Inc."), which is how to identify post-1966 pressings. These are sonically very similar to first pressings and are collectable but not original-year copies.
+From **mid-1966** onward, Verve labels transition to a **Polydor distribution** footer, which is how to identify post-1966 pressings. These are sonically very similar to first pressings and are collectable but not original-year copies.
 
 ### Market values
 
@@ -65,7 +65,7 @@ UK Verve pressings appeared on the **Verve label distributed by Polydor** in the
 
 Understanding which tape source underlies each reissue is essential to evaluating them:
 
-**Source 1 – Phil Ramone's original 3-track master (1963):** Recorded to 3-track tape, mixed by Ramone to 2-track stereo at the session. This is the true first-generation recording. Unused for any commercial release after ~1980; rediscovered by the AP team around 2010–11.
+**Source 1 – Phil Ramone's original 3-track multitrack recording (1963):** The raw multitrack tape from which the 2-track stereo mixdown master was created. This tape itself is not directly used for stereo LP cutting; it is the source from which Source 2 was made.
 
 **Source 2 – Phil Ramone's original stereo mixdown (the "true" original master):** The 2-track stereo mix Ramone made directly from the 3-track. This is what AP used for the 2011 45rpm pressing. It had correct channel orientation. The tape had not been used commercially since ~1980.
 
@@ -184,7 +184,7 @@ Three characteristics of the recording define the pressing hierarchy:
 | **S** | AP 45rpm 2LP | AP-8545 | 2011 | Stereo, 45rpm, 2×200g | Ramone's 1963 original mixdown → George Marino, AAA, QRP | **Correct (Astrud LEFT)** | Only pressing with true original tape + correct orientation; OOP, $150–$400 | – |
 | **S** | Impex 1Step 45rpm 2LP | IMP6041-1 | 2024 | Stereo, 45rpm, 2×180g VR900 | "New master" EQ copy → Bernie Grundman, 1Step | **Reversed (Astrud RIGHT)** | Best pressing quality; contested vs AP on balance; $129.99; 7,500 copies | [Discogs](https://www.discogs.com/release/29941381-Stan-Getz-Jo%C3%A3o-Gilberto-Featuring-Antonio-Carlos-Jobim-Getz-Gilberto) |
 | **A** | Verve Acoustic Sounds Series 33rpm | B0031690-01 | 2020 | Stereo, 33⅓, 180g | Original analog tapes → Ryan K. Smith at Sterling, AAA, QRP | **Correct (Astrud LEFT)** | Best-value pressing; ~$35 new; still in print | [Discogs](https://www.discogs.com/release/15833366-Stan-Getz-Joao-Gilberto-Featuring-Antonio-Carlos-Jobim-Getz-Gilberto) |
-| **B** | Speakers Corner 180g (Kevin Gray) | V6-8545 | 1999/2007 | Stereo, 33⅝, 180g | Original 1963 master tape → Kevin Gray, flat cut, Pallas | **Correct (Astrud LEFT)** | OOP; Hoffman: "best version of the original mix"; $60–$200 | [Discogs](https://www.discogs.com/release/1695530-Stan-Getz-Joao-Gilberto-Featuring-Antonio-Carlos-Jobim-GetzGilberto) |
+| **B** | Speakers Corner 180g (Kevin Gray) | V6-8545 | 1999/2007 | Stereo, 33⅓, 180g | Original 1963 master tape → Kevin Gray, flat cut, Pallas | **Correct (Astrud LEFT)** | OOP; Hoffman: "best version of the original mix"; $60–$200 | [Discogs](https://www.discogs.com/release/1695530-Stan-Getz-Joao-Gilberto-Featuring-Antonio-Carlos-Jobim-GetzGilberto) |
 | **B** | US Verve stereo original, deep-groove RE-1 | V6-8545 | 1964 | Stereo, 33⅓ | 1964 tube lacquer, EQ cutting copy | **Reversed** | Tape-fresh 1964 energy; reversed channels; NM $200–$500 | [Discogs](https://www.discogs.com/master/36108-Stan-Getz-João-Gilberto-Getz-Gilberto) |
 | **B** | US Verve stereo, non-deep-groove RE-1 | V6-8545 | 1964 | Stereo, 33⅓ | 1964 tube lacquer, EQ copy | Reversed | Excellent but slightly later; NM $100–$300 | – |
 | **B** | Mobile Fidelity 200g 33rpm | MFSL 1-208 | Various | Stereo, 33⅓, 200g | EQ copy derivatives → MoFi mastering | Reversed | Post-MoFi-gate caveat applies; still good; $80–$150 | – |
