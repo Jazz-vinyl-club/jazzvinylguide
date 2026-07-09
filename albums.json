@@ -323,13 +323,13 @@
     "artist": "Thelonious Monk",
     "label": "Riverside",
     "year": 1957,
-    "recorded": "October 9, 1956",
+    "recorded": "October 9, October 15 & December 7, 1956",
     "original_cat": "RLP 12-226",
-    "wikipedia": "",
-    "description": "Collector-grade vinyl pressing guide for Brilliant Corners by Thelonious Monk.",
+    "wikipedia": "Brilliant_Corners",
+    "description": "Collector-grade vinyl pressing guide for Brilliant Corners by Thelonious Monk \u2013 the mono-only recording, the fake-stereo RLP 1174 curiosity, and a full reissue hierarchy from the original Riverside pressing to ERC.",
     "content_file": "brilliant_corners_vinyl_guide.md",
     "cover_url": "",
-    "mbid": "c0d6e3b6-71f3-3b61-83ab-b53e745059a2"
+    "mbid": "764d0d9e-68b1-39fe-b1d1-eda104926777"
   },
   {
     "slug": "sketches-of-spain",
