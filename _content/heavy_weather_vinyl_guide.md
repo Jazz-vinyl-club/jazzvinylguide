@@ -89,7 +89,7 @@ A 2023 repress on **peach coloured vinyl** (r28540660, 1,500 numbered copies) us
 
 ## Buyer's guide by budget
 
-**Under $40:** The [**Music on Vinyl MOVLP088 180g (2011)**](https://www.discogs.com/release/4332389-Weather-Report-Heavy-Weather) – warm, musical, widely available. The right starting point for most listeners.
+**$25–$40:** The [**Music on Vinyl MOVLP088 180g (2011)**](https://www.discogs.com/release/4332389-Weather-Report-Heavy-Weather) – warm, musical, widely available. The right starting point for most listeners.
 
 **$30–$80:** An original [**US Columbia PC 34418 – Terre Haute pressing**](https://www.discogs.com/release/877385-Weather-Report-Heavy-Weather) in VG+ – the period-analog option; check the deadwax for "T" or no plant code. "Much more dynamic, better low end and just so much more alive sounding" than other plant pressings.
 
