@@ -4,7 +4,7 @@
 
 *In a Silent Way* was recorded in a single session on **February 18, 1969** at CBS 30th Street Studio B, Manhattan, New York City. Personnel: Miles Davis (trumpet); Wayne Shorter (soprano saxophone); John McLaughlin (electric guitar); Herbie Hancock (electric piano); Chick Corea (electric piano); Joe Zawinul (organ); Dave Holland (bass); Tony Williams (drums). Produced by **Teo Macero**; engineered by **Stan Tonkel**. Released **July 30, 1969** on Columbia Records as **CS 9875**. Widely considered Davis's first full fusion recording and the beginning of his electric period.
 
-The album exists in two layers: what was recorded on February 18, and what Macero and Davis assembled from those recordings over the following months. The session produced **40 reels of tape**; Macero condensed these into two side-long suites – "Shhh / Peaceful" and "In a Silent Way / It's About That Time" – using razor-blade splicing, looping, and repetition techniques borrowed from contemporary classical music. None of the musicians were satisfied with the session as it happened. Zawinul called it "so much noodling around." Macero took the tapes and later brought Davis into the edit suite, where they worked until Davis said "that's my record" and refused to budge. What emerged was the first album in which Davis fully embraced the studio as a compositional instrument – the calm before *Bitches Brew*.
+The album exists in two layers: what was recorded on February 18, and what Macero and Davis assembled from those recordings over the following months. The session lasted approximately three hours; Macero condensed the material into two side-long suites – "Shhh / Peaceful" and "In a Silent Way / It's About That Time" – using razor-blade splicing, looping, and repetition techniques borrowed from contemporary classical music. None of the musicians were satisfied with the session as it happened. Zawinul called it "so much noodling around." Macero took the tapes and later brought Davis into the edit suite, where they worked until Davis said "that's my record" and refused to budge. What emerged was the first album in which Davis fully embraced the studio as a compositional instrument – the calm before *Bitches Brew*.
 
 The original US Columbia 360 Sound two-eye pressing is the collector target. The Mobile Fidelity 180g (2013) is the only audiophile reissue of note, with divided opinion on whether the DSD chain serves the album's quiet, textured character. Japanese CBS/Sony pressings from 1977 are consistently praised for their faithful, spacious reproduction.
 
@@ -12,7 +12,7 @@ The original US Columbia 360 Sound two-eye pressing is the collector target. The
 
 **Best modern pressing for audiophiles:** [Mobile Fidelity MFSL 1-377 180g (2013)](https://www.discogs.com/release/4712200-Miles-Davis-In-A-Silent-Way) – original master tapes → DSD 64 → RTI; numbered; $40–$80 secondary.
 
-**Best-value modern:** [Japanese CBS/Sony XXAP 700 (1977)](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way) – faithful, spacious, dead-quiet; $30–$80 with obi.
+**Best-value modern:** [Japanese CBS/Sony 25AP 770 (1977)](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way) – faithful, spacious, dead-quiet; $30–$80 with obi.
 
 
 ## Recording history and tape provenance
@@ -23,7 +23,7 @@ The personnel assembled for the February 18 session reflected Davis's new thinki
 
 Stan Tonkel engineered the session with the tape machine running continuously – standard Davis practice by this point. The ensemble was given minimal direction: Davis communicated with glances, nods, and hand signals rather than written charts or verbal instruction. What was captured was extended free exploration with loose harmonic anchors. [Jarrett House North](https://jarretthousenorth.com/2022/08/20/miles-davis-in-a-silent-way/) writes: "The music that the group recorded on that day has the sound of exploration – for years there was no way to hear the tracks as originally recorded, because Teo Macero was on hand to lend the finishing touch to the masterpiece by combining several songs into two album-side-long sonatas."
 
-**The Macero edit:** Macero took the 40 reels, listened to everything, and assembled two suites using classical sonata form as his structural model – exposition, development, recapitulation. The first and third sections of each side-long track are the same performance, looped back; the middle section is different material from the session. This meant the album's opening and closing feel like a return – a sense of resolution that was entirely Macero's invention rather than anything Davis's group had played. Jazz critic John Ballon wrote: "It took a force like Teo to splice together a cohesive album out of so many inspired pieces. Not only did Teo have the balls to stand up to Miles on creative decisions, he had the right. And Miles knew it."
+**The Macero edit:** Macero listened to everything recorded in that three-hour session, and assembled two suites using classical sonata form as his structural model – exposition, development, recapitulation. The first and third sections of each side-long track are the same performance, looped back; the middle section is different material from the session. This meant the album's opening and closing feel like a return – a sense of resolution that was entirely Macero's invention rather than anything Davis's group had played. Jazz critic John Ballon wrote: "It took a force like Teo to splice together a cohesive album out of so many inspired pieces. Not only did Teo have the balls to stand up to Miles on creative decisions, he had the right. And Miles knew it."
 
 [Nick Southall in Stylus Magazine (2003)](http://www.stylusmagazine.com/articles/miles-davis/in-a-silent-way.htm) described the impact: "Behind the scenes, Miles and Teo took the tapes of the In a Silent Way sessions and transformed some beautiful, folk-tinged, melody-driven sets into two exquisite, beguiling and otherworldly pieces of music. Using techniques that pre-dated the proliferation of tape loops, cut-ups, edits and sequencing in rock, pop, hip hop and dance music, Miles and Teo took apart the original recording and reassembled them outside of any traditional or accepted jazz structure or melodic framework."
 
@@ -35,7 +35,7 @@ Stan Tonkel engineered the session with the tape machine running continuously �
 
 **Tape provenance:** The original Columbia master tapes are held by Sony Music. Mobile Fidelity confirmed working from the original master tapes via a 1/4" / 15 IPS analog master to DSD 64 chain. The DSD step is confirmed – the 2022 MoFi disclosure applies. The 40 original session reels are documented as being in good condition as of the 2001 Complete Sessions box.
 
-**The Complete Sessions (2001):** Columbia Legacy released a 3CD box (*The Complete In a Silent Way Sessions*, C3K 65362) in 2001 containing the full unedited session recordings alongside the album. This is the only way to hear the material as originally recorded – without Macero's editing – and it fundamentally changes how the album is understood. The box is not available on vinyl.
+**The Complete Sessions (2001):** Columbia Legacy released a 3CD box (*The Complete In a Silent Way Sessions*, C3K 65362) in 2001 containing the full unedited session recordings alongside the album. A 5LP vinyl edition ([Discogs MQ5-209](https://www.discogs.com/master/65158-Miles-Davis-The-Complete-In-A-Silent-Way-Sessions)) was also released. This is the only way to hear the material as originally recorded – without Macero's editing – and it fundamentally changes how the album is understood.
 
 ---
 
@@ -69,17 +69,17 @@ The 1971 repress uses the Columbia one-eye label design. [Discogs r15107481](htt
 
 ### Mobile Fidelity MFSL 1-377 180g (2013) – the only audiophile modern reissue
 
-**Cat. MFSL 1-377** | Format: 180g LP, 33⅓, stereo, numbered. **Mastered at Mobile Fidelity Sound Lab, Sebastopol CA. Source: original master tapes → 1/4" / 15 IPS analog → DSD 64 → analog console → lathe. Pressed at RTI.** Part of MoFi's Miles Davis Catalog Restoration Series. The 2022 MoFi disclosure confirmed the DSD intermediate step applies to this pressing.
+**Cat. MFSL 1-377** | Format: 180g LP, 33⅓, stereo, numbered. **Mastered at Mobile Fidelity Sound Lab, Sebastopol CA. Source: original master tapes → 1/4" / 15 IPS analog → DSD 64 → analog console → lathe. Pressed at RTI.** Mastered by Krieg Wunderlich. Part of MoFi's Miles Davis Catalog Restoration Series. The 2022 MoFi disclosure confirmed the DSD intermediate step applies to this pressing.
 
-Community opinion is divided. One Discogs owner ([r4712200](https://www.discogs.com/release/4712200-Miles-Davis-In-A-Silent-Way)): "This is a significant upgrade on the Sony Legacy/MOV issues I've had... increased bass presence, richer mids and silkier uppers." A sharply contrasting view: "The MFSL lacks everything: no bass, no dynamics, compressed and reduced high tones (especially poor on the electric piano, the trumpet and the cymbals)." A third: "If you want a fabulous sounding reissue of this LP look no further than the first CBS digital remaster from 1987. Will likely cost half the price too."
+Michael Fremer reviewed it for Analog Planet and rated it 10/10 for music and 8/10 for sound: "I draw that conclusion after comparing this to two early originals and a Japanese Sony pressing... [I]t is a genre-defining classic." Community opinion is otherwise divided. One Discogs owner ([r4712200](https://www.discogs.com/release/4712200-Miles-Davis-In-A-Silent-Way)): "This is a significant upgrade on the Sony Legacy/MOV issues I've had... increased bass presence, richer mids and silkier uppers." A sharply contrasting view: "The MFSL lacks everything: no bass, no dynamics, compressed and reduced high tones (especially poor on the electric piano, the trumpet and the cymbals)." A third: "If you want a fabulous sounding reissue of this LP look no further than the first CBS digital remaster from 1987. Will likely cost half the price too."
 
 The album's quiet, textured character – sustained tones, minimal attack, deep electric piano – may be particularly sensitive to the DSD chain's ceiling. Buyers who prioritise the original's atmosphere over hi-fi fireworks should consider an original pressing or the Japanese CBS/Sony as alternatives. Numbered; still available new from Acoustic Sounds at $39. **$40–$80 secondary.**
 
 A **revised edition** ([r33400274](https://www.discogs.com/release/33400274-Miles-Davis-In-A-Silent-Way)) with a new barcode and explicit DSD disclosure on the packaging was issued subsequently. Both are sonically identical; the revised edition is more transparent about the mastering chain.
 
-### Japanese CBS/Sony XXAP 700 (1977) – the vintage alternative
+### Japanese CBS/Sony 25AP 770 (1977) – the vintage alternative
 
-**Cat. XXAP 700 series** | Format: 33⅓, stereo, obi strip. **CBS/Sony Inc., Tokyo Japan.** The 1977 Japanese pressing of *In a Silent Way* is consistently praised for its faithful, spacious reproduction. [Discogs r3548638](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way) community note: "The mastering feels very close to the original tape character with minimal digital processing. No loudness, no harsh EQ, no listening fatigue. For listeners who value atmosphere and analog realism over modern hi-fi fireworks, this is easily a reference-quality version of the album." Dynamic Range measurement: DR12. One owner: "Most of the time, to my ears, a 1970s reissue is better than a modern recording." Dead-quiet CBS/Sony vinyl. **$30–$80 NM with obi.** [Discogs r3548638](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way)
+**Cat. 25AP 770** | Format: 33⅓, stereo, obi strip. **CBS/Sony Inc., Tokyo Japan.** The 1977 Japanese CBS/Sony pressing (cat. **25AP 770**, part of the xxAP 700 series) is consistently praised for its faithful, spacious reproduction. [Discogs r3548638](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way) "The mastering feels very close to the original tape character with minimal digital processing. No loudness, no harsh EQ, no listening fatigue. For listeners who value atmosphere and analog realism over modern hi-fi fireworks, this is easily a reference-quality version of the album." Dynamic Range measurement: DR12. One owner: "Most of the time, to my ears, a 1970s reissue is better than a modern recording." Dead-quiet CBS/Sony vinyl. **$30–$80 NM with obi.** [Discogs r3548638](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way)
 
 ---
 
@@ -89,11 +89,7 @@ A **revised edition** ([r33400274](https://www.discogs.com/release/33400274-Mile
 
 **Generic EU reissues (DOL, Waxtime):** Unlicensed or poorly sourced. Avoid. **Music on Vinyl editions:** Licensed but typically sourced from digital files provided by the licensor rather than analog masters; sonically inferior to the MoFi, Japanese CBS/Sony, or original pressings. Not recommended.
 
-**Tone Poet / Acoustic Sounds note:** No Tone Poet or Acoustic Sounds Series edition exists for this title. *In a Silent Way* is a Columbia/Sony title, not a Blue Note recording, making a Tone Poet release impossible. An Acoustic Sounds Series Columbia/Sony reissue is conceivable but has not been announced as of mid-2026.
 
-**Analogue Productions:** No AP edition exists for this title.
-
-**Classic Records:** No Classic Records edition exists.
 
 ---
 
@@ -101,7 +97,7 @@ A **revised edition** ([r33400274](https://www.discogs.com/release/33400274-Mile
 
 **$20–$50:** A clean [**1971 Columbia one-eye pressing with original stampers**](https://www.discogs.com/release/15107481-Miles-Davis-In-A-Silent-Way) – same lacquer as the two-eye; accessible.
 
-**$30–$80:** A [**Japanese CBS/Sony XXAP 700 (1977)**](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way) with obi – DR12 dynamic range, faithful to the tape, analog realism preferred by many over the MoFi.
+**$30–$80:** A [**Japanese CBS/Sony 25AP 770 (1977)**](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way) with obi – DR12 dynamic range, faithful to the tape, analog realism preferred by many over the MoFi.
 
 **$39 new:** The [**Mobile Fidelity MFSL 1-377 180g (2013)**](https://www.discogs.com/release/4712200-Miles-Davis-In-A-Silent-Way) from Acoustic Sounds – the only dedicated audiophile reissue; noted DSD chain.
 
@@ -115,7 +111,7 @@ A **revised edition** ([r33400274](https://www.discogs.com/release/33400274-Mile
 |---|---|---|---|---|---|---|---|
 | **A** | Original US Columbia 360 Sound two-eye | CS 9875 | 1969 | Stereo, 33⅓ | Columbia mastering | XSM-150308/9 matrices; $60–$200 NM | [Discogs](https://www.discogs.com/release/654119-Miles-Davis-In-A-Silent-Way) |
 | **B** | Mobile Fidelity MFSL 1-377 180g | MFSL 1-377 | 2013 | Stereo, 33⅓, 180g | Orig tapes → DSD 64 → RTI | Divided opinion; DSD chain; numbered; ~$39 new | [Discogs](https://www.discogs.com/release/4712200-Miles-Davis-In-A-Silent-Way) |
-| **B** | Japanese CBS/Sony XXAP 700 | XXAP 700 | 1977 | Stereo, 33⅓ | Licensed Japanese pressing | DR12; "reference quality"; $30–$80 with obi | [Discogs](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way) |
+| **B** | Japanese CBS/Sony 25AP 770 | 25AP 770 | 1977 | Stereo, 33⅓ | Licensed Japanese pressing | DR12; "reference quality"; $30–$80 with obi | [Discogs](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way) |
 | **B** | European/Dutch CBS original | S 63630 | 1969 | Stereo, 33⅓ | CBS European lacquer | "Fresh, big, warm, punchy"; significant discount vs US; $30–$80 VG+ | [Discogs](https://www.discogs.com/release/395634-Miles-Davis-In-A-Silent-Way) |
 | **C** | 1971 Columbia one-eye reissue | CS 9875 | 1971 | Stereo, 33⅓ | Same stampers as two-eye | Check for original stampers; $20–$50 VG+ | [Discogs](https://www.discogs.com/release/15107481-Miles-Davis-In-A-Silent-Way) |
 | **D** | 1980s–90s Columbia reissues | Various | 1980s–90s | Stereo, 33⅓ | Digital transfers | Not recommended | – |
