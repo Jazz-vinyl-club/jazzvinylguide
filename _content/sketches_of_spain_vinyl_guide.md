@@ -2,7 +2,7 @@
 
 ## Summary
 
-*Sketches of Spain* was recorded across three sessions at Columbia's 30th Street Studio in New York City – November 15, November 20, 1959, and March 10, 1960 – and released July 18, 1960 as Columbia CL 1480 (mono) / CS 8271 (stereo). Miles Davis (trumpet, flugelhorn) is joined by a 19 to 21-piece orchestra arranged and conducted by Gil Evans, with a rhythm section of Paul Chambers (bass), Jimmy Cobb (drums), and Elvin Jones (percussion). Teo Macero produced – already established as Davis's primary producer following *Kind of Blue* earlier that year – with Irving Townsend also credited; Fred Plaut engineered.
+*Sketches of Spain* was recorded across three sessions at Columbia's 30th Street Studio in New York City – November 15, November 20, 1959, and March 10, 1960 – and released July 18, 1960 as Columbia CL 1480 (mono) / CS 8271 (stereo). Miles Davis (trumpet, flugelhorn) is joined by a 19 to 21-piece orchestra arranged and conducted by Gil Evans, with a rhythm section of Paul Chambers (bass), Jimmy Cobb (drums), and Elvin Jones (percussion). Teo Macero produced – his first Miles Davis session – with Irving Townsend also credited; Fred Plaut engineered.
 
 Unlike the two earlier Davis–Evans collaborations (*Miles Ahead* is available in both mono and stereo, though its early two-track stereo mix is considered less sophisticated than Columbia's later stereo work; *Porgy and Bess* is generally considered to sound better in mono), Columbia had true stereo recording fully sorted by this session, and the stereo mix is the one most collectors and mastering engineers treat as definitive. The collector conversation here centers on Bernie Grundman's 1998 Classic Records cut versus Mobile Fidelity's more recent restorations, with the increasingly hard-to-find original six-eye stereo pressing as the vintage benchmark.
 
@@ -49,11 +49,11 @@ Columbia issued this title in Japan early – **SL-1017 (1960)** and **YS-153 / 
 
 ### Mobile Fidelity UltraDisc One-Step 33⅓rpm (2025) – the current reference
 
-**65th Anniversary Edition** | Format: Stereo, 180g, one-step, 2025 | **Mastered from the original 1/4", 15ips analog master tape (DSD64 intermediate step, analog console, lathe), pressed at Fidelity Record Pressing on MoFi SuperVinyl.** Limited to 5,000 numbered copies, housed in a deluxe foil-stamped slipcase.
+**65th Anniversary Edition** | Format: Stereo, 180g, one-step, 2025 | **Mastered from the original 1/4", 15ips analog master tape (DSD64 intermediate step, analog console, lathe), pressed at Fidelity Record Pressing.** Limited to 5,000 numbered copies, housed in a deluxe foil-stamped slipcase. Unusually, MoFi chose standard 180g black vinyl over its proprietary SuperVinyl for this release after direct A/B comparison, judging it to sound better on this particular recording. Rated 4.5/5 for music and 4/5 for sonics by The Absolute Sound in its January 2026 issue.
 
 ### Mobile Fidelity MFSL 1-375 (2013) – the widely available standard-bearer
 
-**Cat. MFSL 1-375** | Format: Stereo, 180g, numbered, 2013 | **Half-speed mastered by Krieg Wunderlich (assisted by Shawn Britton) from the 1/4", 15ips analog master via DSD64, on MoFi's Gain 2 Ultra Analog System.** Pressed at RTI (Record Technology Incorporated). Consistently praised in Discogs reviews and widely regarded as an excellent, still-obtainable modern pressing; the only recurring complaint is an occasional non-fill pressing defect reported by a minority of buyers. [Discogs](https://www.discogs.com/release/4923105-Miles-Davis-Sketches-Of-Spain)
+**Cat. MFSL 1-375** | Format: Stereo, 180g, numbered, 2013 | **Half-speed mastered by Krieg Wunderlich (assisted by Shawn Britton) from the 1/4", 15ips analog master via DSD64, on MoFi's Gain 2 Ultra Analog System.** Manufactured for MoFi by Sony Music Entertainment rather than pressed at MoFi's usual RTI. Consistently praised in Discogs reviews and widely regarded as an excellent, still-obtainable modern pressing; the only recurring complaint is an occasional non-fill pressing defect reported by a minority of buyers. [Discogs](https://www.discogs.com/release/4923105-Miles-Davis-Sketches-Of-Spain)
 
 ### Classic Records (1998) – the AAA benchmark
 
@@ -90,10 +90,10 @@ A red-vinyl reissue (catalog 350234) circulating from a European public-domain l
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Mobile Fidelity UltraDisc One-Step | 65th Anniversary Edition | 2025 | Stereo, 180g, one-step | Analog master tape, Fidelity Record Pressing | Numbered/5,000; pressed on MoFi SuperVinyl | [MoFi](https://mofi.com/shop/music/vinyl/miles-davis-sketches-of-spain-numbered-180g-vinyl-lp/) |
+| **S** | Mobile Fidelity UltraDisc One-Step | 65th Anniversary Edition | 2025 | Stereo, 180g, one-step | Analog master tape, Fidelity Record Pressing | Numbered/5,000; TAS 4.5/4 (Jan 2026) | [MoFi](https://mofi.com/shop/music/vinyl/miles-davis-sketches-of-spain-numbered-180g-vinyl-lp/) |
 | **A** | Classic Records 200g SV-P | CS 8271 | 1998 | Stereo, 200g | Bernie Grundman, licensed from Sony | Forward, immediate; some find the top end hot | [Discogs](https://www.discogs.com/release/2426187-Miles-Davis-Sketches-Of-Spain) |
 | **A** | Classic Records 45rpm 4LP | CS 8271-45 | 1998 | Stereo, 45rpm, 4×LP | Bernie Grundman, licensed from Sony | Scarce; no strong documented critical consensus | [Discogs](https://www.discogs.com/release/5876487-Miles-Davis-Sketches-Of-Spain) |
-| **A** | Mobile Fidelity MFSL 1-375 | MFSL 1-375 | 2013 | Stereo, 180g | Krieg Wunderlich, pressed by RTI | Best-value modern standard-bearer; widely available | [Discogs](https://www.discogs.com/release/4923105-Miles-Davis-Sketches-Of-Spain) |
+| **A** | Mobile Fidelity MFSL 1-375 | MFSL 1-375 | 2013 | Stereo, 180g | Krieg Wunderlich, manufactured by Sony for MoFi | Best-value modern standard-bearer; widely available | [Discogs](https://www.discogs.com/release/4923105-Miles-Davis-Sketches-Of-Spain) |
 | **B** | Original Columbia six-eye stereo | CS 8271 | 1960 | Stereo | Original 1960 Columbia mastering | Deep groove; unusually affordable for a six-eye Davis original | [Discogs](https://www.discogs.com/release/4239636-Miles-Davis-Sketches-Of-Spain) |
 | **B** | Music On Vinyl | MOVLP029 / MOVLP692 | 2009 / 2013 | Stereo / Mono, 180g | Licensed from Sony, pressed by Record Industry | Stereo (029) and mono (692) are separate releases | [Discogs](https://www.discogs.com/release/4798295-Miles-Sketches-Of-Spain) |
 | **C** | Original Columbia six-eye mono | CL 1480 | 1960 | Mono | Original 1960 Columbia mastering | Less sought than the stereo for this particular title | [Discogs](https://www.discogs.com/release/1914353-Miles-Davis-Sketches-Of-Spain) |

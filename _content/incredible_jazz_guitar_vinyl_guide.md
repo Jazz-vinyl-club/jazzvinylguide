@@ -4,10 +4,10 @@
 
 *The Incredible Jazz Guitar of Wes Montgomery* was recorded January 26 and 28, 1960 at Reeves Sound Studios in New York City and released that April as Riverside RLP 12-320 (mono) / RLP 1169 (stereo). Montgomery (guitar) is joined by Tommy Flanagan (piano), Percy Heath (bass), and Albert "Tootie" Heath (drums). Orrin Keepnews produced; Jack Higgins engineered.
 
-This is the rare case where buying a reissue means accepting a real, well-documented compromise: the original 1960 master tape went missing sometime in the 1960s or 70s, and for decades every reissue – vinyl and CD alike – was cut from a "mother dub" made from surviving metal parts rather than the tape itself, producing results collectors have described as everything from dull to boxy. In 2023, Craft Recordings' engineers turned up a Japanese-made stereo copy tape in the vault and used it for a new cut, but even that is a copy, not the lost original – and reception has been genuinely split between listeners who consider it the best version since 1960 and others who still prefer a clean original pressing.
+This is the rare case where buying a reissue means accepting a real, well-documented compromise: the original 1960 master tape went missing sometime in the 1960s or 70s, and for decades every reissue – vinyl and CD alike – was cut from a "mother dub" made from surviving metal parts rather than the tape itself, producing results collectors have described as everything from dull to boxy. In 2025, Craft Recordings' engineers turned up a Japanese-made stereo copy tape in the vault and used it for a new cut, but even that is a copy, not the lost original – and reception has been genuinely split between listeners who consider it the best version since 1960 and others who still prefer a clean original pressing.
 
 **Best early pressing for audiophiles:** [Original Riverside mono, RLP 12-320](https://www.discogs.com/release/1340330-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) – deep groove, small blue labels without "Inc." after Bill Grauer Productions; median around $108, up to $300 for clean copies.
-**Best modern pressing for audiophiles:** [Craft Recordings / Original Jazz Classics, CR00850 (2023)](https://www.discogs.com/release/33275373-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) – the first reissue in decades cut from an actual tape rather than the old mother dub, though opinions on the result are divided.
+**Best modern pressing for audiophiles:** [Craft Recordings / Original Jazz Classics, CR00850 (2025)](https://www.discogs.com/release/33275373-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) – the first reissue in decades cut from an actual tape rather than the old mother dub, though opinions on the result are divided.
 **Best-value modern:** [Original Jazz Classics OJC-036](https://www.discogs.com/release/468353-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) – widely available, inexpensive, and a known quantity.
 
 ## Recording history and tape provenance
@@ -18,7 +18,7 @@ The album blends four Montgomery originals with covers: Sonny Rollins's "Airegin
 
 The album became widely regarded as the high-water mark of Montgomery's studio career. AllMusic's Michael G. Nastos wrote that it "established Montgomery as the most formidable modern guitarist of the era." The Penguin Guide to Jazz named it to its Core Collection, Down Beat gave Montgomery its 1960 "New Star" award largely on the strength of this record, and in 2017 the Library of Congress added it to the National Recording Registry as culturally, historically, and aesthetically significant.
 
-The tape story is the thing every prospective buyer needs to understand. At some point after the original pressings – collector consensus points to the 1960s or 70s – the master tape was lost. Every reissue since, including the CD era and the long-running OJC-036 vinyl line (mastered by Gary Hobish, in print in various forms from 1982 into the 2000s), was cut from a "mother dub" made from surviving stamper metalwork rather than the tape – a generation loss baked permanently into the sound, variously described by collectors as dull, boxed-in, or lacking top and bottom end. It's telling that when Analogue Productions built its Fantasy/Riverside Top 100 Jazz 45rpm series in the 2000s, this title – despite its stature – was left out, presumably for lack of usable source material. In 2023, Craft Recordings' engineers located a Japanese-made stereo copy tape in the vault, A/B'd it against what they had, and used it for a new Kevin Gray cut (CR00850) – the first reissue in decades sourced from tape rather than metalwork. It is a copy, not the lost original, and listener reaction has split sharply between those who hear real improvement and those who still prefer a clean vintage pressing or even find an old CD more satisfying.
+The tape story is the thing every prospective buyer needs to understand. At some point after the original pressings – collector consensus points to the 1960s or 70s – the master tape was lost. Every reissue since, including the CD era and the long-running OJC-036 vinyl line (mastered by Gary Hobish, in print in various forms from 1982 into the 2000s), was cut from a "mother dub" made from surviving stamper metalwork rather than the tape – a generation loss baked permanently into the sound, variously described by collectors as dull, boxed-in, or lacking top and bottom end. It's telling that when Analogue Productions built its Fantasy/Riverside Top 100 Jazz 45rpm series in the 2000s, this title – despite its stature – was left out, presumably for lack of usable source material. In 2025, Craft Recordings' engineers located a Japanese-made stereo copy tape in the vault, A/B'd it against what they had, and used it for a new Kevin Gray cut (CR00850) – the first reissue in decades sourced from tape rather than metalwork. It is a copy, not the lost original, and listener reaction has split sharply between those who hear real improvement and those who still prefer a clean vintage pressing or even find an old CD more satisfying.
 
 ---
 
@@ -39,13 +39,13 @@ Collectors who've compared US pressings against contemporaneous UK Riverside pre
 
 ## The reissue hierarchy
 
-### Craft Recordings / Original Jazz Classics (2023) – first tape-sourced reissue in decades
+### Craft Recordings / Original Jazz Classics (2025) – first tape-sourced reissue in decades
 
-**Cat. CR00850** | Format: Stereo, 180g, 2023 | **Lacquers cut by Kevin Gray at Cohearent Audio from a newly located Japanese analog stereo tape copy, plated and pressed at RTI, Stoughton tip-on jacket with obi.** This is a genuinely contested release: some listeners call it a revelation and the best the album has sounded since 1960, while others describe it as boxy, rolled-off, or barely different from the old OJC pressings – with a vocal minority preferring an old OJC CD outright. Buy it for the packaging and the fact that it's tape-sourced rather than metalwork-sourced, but go in with tempered expectations.
+**Cat. CR00850** | Format: Stereo, 180g, 2025 | **Lacquers cut by Kevin Gray at Cohearent Audio from a newly located Japanese analog stereo tape copy, plated and pressed at RTI, Stoughton tip-on jacket with obi.** This is a genuinely contested release: some listeners call it a revelation and the best the album has sounded since 1960, while others describe it as boxy, rolled-off, or barely different from the old OJC pressings – with a vocal minority preferring an old OJC CD outright. Buy it for the packaging and the fact that it's tape-sourced rather than metalwork-sourced, but go in with tempered expectations.
 
 ### Milestone "While We're Young" (1973) – a well-regarded twofer
 
-**Cat. Milestone 47003** | Format: Stereo (sounds close to mono), 2LP, 1973 | A Fantasy-Milestone two-LP set pairing this album's music with other Montgomery material on orange labels. Several long-time collectors rate its balance favorably against both the OJC vinyl line and the 2023 Craft reissue, describing it as less emphatic in the top end and more listenable overall, despite being sourced from the same compromised lineage.
+**Cat. Milestone 47003** | Format: Stereo (sounds close to mono), 2LP, 1973 | A Fantasy-Milestone two-LP set pairing this album's music with other Montgomery material on orange labels. Several long-time collectors rate its balance favorably against both the OJC vinyl line and the 2025 Craft reissue, describing it as less emphatic in the top end and more listenable overall, despite being sourced from the same compromised lineage.
 
 ### Original Jazz Classics OJC-036 (1982–2000s) – the known-quantity budget option
 
@@ -55,7 +55,7 @@ Collectors who've compared US pressings against contemporaneous UK Riverside pre
 
 ## Japanese pressings
 
-Riverside issued this title in Japan multiple times – **SR-7009 (1962, stereo)**, **MW-2034 (1971)**, **SMJ-6046 (1974, Milestone/Riverside)**, and **VIJ-104 / RS-104 (1984)** – but none has developed the kind of dedicated audiophile reputation that would justify recommending one over a US original or the 2023 Craft cut, given that all postdate the tape loss just as the domestic reissues do.
+Riverside issued this title in Japan multiple times – **SR-7009 (1962, stereo)**, **MW-2034 (1971)**, **SMJ-6046 (1974, Milestone/Riverside)**, and **VIJ-104 / RS-104 (1984)** – but none has developed the kind of dedicated audiophile reputation that would justify recommending one over a US original or the 2025 Craft cut, given that all postdate the tape loss just as the domestic reissues do.
 
 ---
 
@@ -68,7 +68,7 @@ A 2022 reissue on the UK public-domain label Not Now Music (barcode 506034858333
 ## Buyer's guide by budget
 
 **Under $30:** [Original Jazz Classics, OJC-036](https://www.discogs.com/release/468353-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) – the cheapest legitimate way onto vinyl, even with its narrow imaging.
-**$30–$60:** [Craft Recordings / OJC, CR00850 (2023)](https://www.discogs.com/release/33275373-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) – the current pressing, tape-sourced but divisive; new copies run $30–60.
+**$30–$60:** [Craft Recordings / OJC, CR00850 (2025)](https://www.discogs.com/release/33275373-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) – the current pressing, tape-sourced but divisive; new copies run $30–60.
 **$60–$120:** The Milestone *While We're Young* twofer (47003) – secondhand, generally well-regarded for its balance.
 **$120+:** A clean original – [mono RLP 12-320](https://www.discogs.com/release/1340330-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) or [stereo RLP 1169](https://www.discogs.com/release/6024135-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) – still, by most informed accounts, the best-sounding way to hear this recording.
 
@@ -81,6 +81,6 @@ A 2022 reissue on the UK public-domain label Not Now Music (barcode 506034858333
 | **S** | Original Riverside mono | RLP 12-320 | 1960 | Mono | Original 1960 Riverside mastering | Small blue labels, no "Inc."; the tape was still intact | [Discogs](https://www.discogs.com/release/1340330-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) |
 | **S** | Original Riverside stereo | RLP 1169 | 1960 | Stereo | Original 1960 Riverside mastering | Genuine stereo from the actual sessions, pre-tape-loss | [Discogs](https://www.discogs.com/release/6024135-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) |
 | **A** | Milestone "While We're Young" twofer | 47003 | 1973 | Stereo (mono-like) | Fantasy-Milestone, source generation uncertain | Well-regarded balance among post-tape-loss pressings | – |
-| **B** | Craft Recordings / OJC | CR00850 | 2023 | Stereo, 180g | Kevin Gray, cut from a discovered Japanese tape copy | First tape-sourced reissue in decades; reception genuinely divided | [Discogs](https://www.discogs.com/release/33275373-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) |
+| **B** | Craft Recordings / OJC | CR00850 | 2025 | Stereo, 180g | Kevin Gray, cut from a discovered Japanese tape copy | First tape-sourced reissue in decades; reception genuinely divided | [Discogs](https://www.discogs.com/release/33275373-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) |
 | **B** | Original Jazz Classics | OJC-036 | 1982 | Stereo | Gary Hobish, from the mother dub | Narrow, forward image; cheap and reliable | [Discogs](https://www.discogs.com/release/468353-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) |
 | **C** | Japanese Riverside reissue | SR-7009 | 1962 | Stereo | Japanese pressing, post-original | No specific audiophile distinction found; a curiosity | [Discogs](https://www.discogs.com/release/13964933-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) |
