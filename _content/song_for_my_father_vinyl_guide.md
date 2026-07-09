@@ -82,7 +82,7 @@ Note: r2019742 on Discogs shows a "43 West 61st" address pressing – this is th
 
 ## Buyer's guide by budget
 
-**Under $35:** The [**Blue Note Classic Vinyl BST 84185 (2020)**](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father) – the only current modern option. Kevin Gray mastering, Optimal pressing. Buy with a return policy given documented QC variation.
+**$25–$35:** The [**Blue Note Classic Vinyl BST 84185 (2020)**](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father) – the only current modern option. Kevin Gray mastering, Optimal pressing. Buy with a return policy given documented QC variation.
 
 **$30–$80:** A [**Liberty-era pressing with Van Gelder stamp**](https://www.discogs.com/master/155008-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) for an affordable period-metal copy without Classic Vinyl QC risk.
 
