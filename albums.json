@@ -337,13 +337,13 @@
     "artist": "Miles Davis",
     "label": "Columbia",
     "year": 1960,
-    "recorded": "Nov 1959 & Mar 1960",
+    "recorded": "November 15 & 20, 1959 and March 10, 1960",
     "original_cat": "CL 1480 / CS 8271",
-    "wikipedia": "",
-    "description": "Collector-grade vinyl pressing guide for Sketches of Spain by Miles Davis.",
+    "wikipedia": "Sketches_of_Spain",
+    "description": "Collector-grade vinyl pressing guide for Sketches of Spain by Miles Davis \u2013 six-eye stereo identification, the Classic Records vs. Mobile Fidelity mastering lineages, and a full reissue hierarchy.",
     "content_file": "sketches_of_spain_vinyl_guide.md",
     "cover_url": "",
-    "mbid": "1b7a58ef-3e00-367a-94ac-c23e4be97dc9"
+    "mbid": "966fede2-31b2-3b6a-ab50-4a650d3bb97d"
   },
   {
     "slug": "heavy-weather",
@@ -421,13 +421,13 @@
     "artist": "Wes Montgomery",
     "label": "Riverside",
     "year": 1960,
-    "recorded": "January 26–28, 1960",
-    "original_cat": "RLP 320",
-    "wikipedia": "",
-    "description": "Collector-grade vinyl pressing guide for The Incredible Jazz Guitar of Wes Montgomery by Wes Montgomery.",
+    "recorded": "January 26 & 28, 1960",
+    "original_cat": "RLP 12-320 / RLP 1169",
+    "wikipedia": "The_Incredible_Jazz_Guitar_of_Wes_Montgomery",
+    "description": "Collector-grade vinyl pressing guide for The Incredible Jazz Guitar of Wes Montgomery \u2013 the lost master tape, the mother-dub reissue lineage, and the 2025 Craft Recordings tape-sourced remaster.",
     "content_file": "incredible_jazz_guitar_vinyl_guide.md",
     "cover_url": "",
-    "mbid": "ec51a3c5-81a9-3a33-b26c-f3b8d09d5b8c"
+    "mbid": "ba93a16f-97a6-3167-ba35-ddfccc75ceb7"
   },
   {
     "slug": "clifford-brown-max-roach",
