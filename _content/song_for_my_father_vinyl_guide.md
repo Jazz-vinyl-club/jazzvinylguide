@@ -6,13 +6,13 @@
 
 The title track fuses a bossa nova rhythm absorbed from Silver's 1964 trip to Brazil with a melody drawn from his Cape Verdean family heritage – his father's folk music from the island of Maio. It became a jazz standard and one of Blue Note's most commercially successful records of the decade. The cover is a Francis Wolff photograph of Silver's father, John Tavares Silva.
 
-Both mono and stereo originals are worthwhile. The Blue Note Classic Vinyl is the most accessible modern option, though Discogs reviews document significant QC issues with this title specifically – dished vinyl, distortion on "Lonely Woman," and flutter on some copies. Finding a clean copy is important.
+Both mono and stereo originals are worthwhile. The title track has a well-documented tape problem – a piano speed/warble issue present on every reissue since the original pressings, including the Blue Note Classic Vinyl – which Music Matters specifically commissioned custom restoration work to fix for their 2010 45rpm edition. Absent that pressing, buyers should expect the warble on modern reissues and originals alike.
 
 **Best early pressing for audiophiles:** [Original Blue Note BLP 4185 mono, NY USA label](https://www.discogs.com/release/2019742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) – deep groove Side 1, Van Gelder stamp, Plastylite ear; $150–$400 NM.
 
-**Best modern pressing for audiophiles:** [Blue Note Classic Vinyl BST 84185 180g (2020)](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father) – Kevin Gray, Optimal, 180g; inspect before purchase.
+**Best modern pressing for audiophiles:** [Music Matters 45rpm 2LP (MMBST-84185, 2010)](https://www.discogs.com/release/2721587-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) – Kevin Gray, with a custom Plangent Process restoration of the title track's warble issue; the only pressing to fix it.
 
-**Best-value modern:** Same Classic Vinyl – no Music Matters or Tone Poet edition exists for this title.
+**Best-value modern:** [Blue Note Classic Vinyl BST 84185 180g (2020)](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father) – Kevin Gray, Optimal, 180g; the title-track warble is present, as on virtually every reissue; inspect before purchase.
 
 
 ## Recording history and tape provenance
@@ -31,7 +31,7 @@ By October 1964, Silver was transitioning between quintets. His older band – M
 
 **Cover:** Designed by Reid Miles with a Francis Wolff photograph of John Tavares Silva – dignified, pipe in hand, the image an embodiment of the album's emotional source. Leonard Feather wrote the original liner notes, drawing on direct quotes from Silver about the Brazilian and Cape Verdean origins.
 
-**Tape provenance:** The original Alfred Lion–era tapes are in the Blue Note/Universal archive. Kevin Gray sourced from the original analogue master tapes for the Classic Vinyl. The Discogs documentation of distortion on "Lonely Woman" in some Classic Vinyl copies suggests a possible issue in the mastering or transfer chain – an important caveat, though the precise cause remains unconfirmed and is widely discussed among collectors.
+**Tape provenance:** The original Alfred Lion–era tapes are in the Blue Note/Universal archive, but the title track carries a documented flaw: a piano speed/warble irregularity present on every reissue since the initial 1965 pressings, including CDs and the Blue Note Classic Vinyl. Music Matters' Joe Harley has stated the issue traces to the tape itself, not to any individual pressing or transfer. For their 2010 45rpm reissue, Music Matters commissioned Jamie Howarth of Airshow Mastering to apply his "Plangent Process" restoration specifically to the title track – a targeted fix not available on any other modern pressing. The Classic Vinyl's reported issues on "Lonely Woman" and the title track's flutter are this same underlying tape condition, not a Classic-Vinyl-specific manufacturing defect, though Classic Vinyl copies have separately shown unrelated QC problems (dished vinyl, underweight pressings) reported by multiple buyers.
 
 ### Mono vs. stereo
 
@@ -66,9 +66,19 @@ Note: r2019742 on Discogs shows a "43 West 61st" address pressing – this is th
 
 ## The reissue hierarchy
 
-### Blue Note Classic Vinyl 180g (2020) – the only modern option
+### Music Matters 45rpm 2LP (2010) – the only pressing that fixes the title-track warble
 
-**Cat. BST 84185** | Format: 180g LP, 33⅓. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes. Pressed at Optimal in Germany.** This is the only widely available modern audiophile reissue of this title – no Music Matters or Tone Poet edition has been released. Kevin Gray's mastering is good; however, [Discogs community reviews](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father) document recurring QC issues with this specific pressing: dished vinyl, audible flutter on some copies (with collectors widely speculating about a possible tape transfer issue as the cause, though this remains unconfirmed), and distortion on "Lonely Woman." One owner: "Ok so I bought this release and right away noticed issues with A1, especially flutter. I then started reading and apparently the tape was damaged during a transfer. Today I got a clean OG mono and can confirm that there are no issues whatsoever in the OG." Another: "Mine is very dished and it's very audibly noticeable." **Inspect before buying, or buy from a seller with return policy. $20–$35 new.**
+**Cat. MMBST-84185** | Format: 2×180g LP, 45rpm, gatefold, limited to 2,500 numbered copies. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes, with a custom restoration of the title track by Jamie Howarth of Airshow Mastering using his "Plangent Process."** This is the pressing to own if the title track's well-documented warble bothers you: one reviewer noted the improvement is "greatly improved over the McMaster CD, and all but those who are the most sensitive to such fluctuations should hardly notice it at all." The rest of the album benefits from full 45rpm resolution, with reviewers singling out Teddy Smith's bass and Joe Henderson's tenor as newly vivid. "Lonely Woman" still shows some inherent boxiness in Silver's piano sound, a limitation of the original recording rather than the reissue. Gatefold sleeve with high-resolution session photos. Out of print. [Discogs](https://www.discogs.com/release/2721587-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) **$150–$300 secondary.**
+
+### Blue Note Classic Vinyl 180g (2020) – the accessible modern option
+
+**Cat. BST 84185** | Format: 180g LP, 33⅓. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes. Pressed at Optimal in Germany.** Kevin Gray's mastering is good, but this pressing carries the same title-track warble as virtually every reissue since 1965 (unaddressed here, unlike the Music Matters), and [Discogs community reviews](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father) additionally document separate manufacturing QC issues: dished vinyl, underweight pressings, and audible flutter reported by multiple buyers. One owner: "Mine is very dished and it's very audibly noticeable." **Inspect before buying, or buy from a seller with a return policy. $20–$35 new.**
+
+---
+
+## Japanese pressings
+
+**King Records GXF-3017 (1977)**, licensed from Blue Note for the Japanese market. A well-regarded vintage Japanese pressing on King's characteristically quiet vinyl formulation from this era, comparable in reputation to King's other late-1970s Blue Note licenses. **$40–$90 with obi.**
 
 ---
 
@@ -82,11 +92,15 @@ Note: r2019742 on Discogs shows a "43 West 61st" address pressing – this is th
 
 ## Buyer's guide by budget
 
-**$25–$35:** The [**Blue Note Classic Vinyl BST 84185 (2020)**](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father) – the only current modern option. Kevin Gray mastering, Optimal pressing. Buy with a return policy given documented QC variation.
+**$25–$35:** The [**Blue Note Classic Vinyl BST 84185 (2020)**](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father) – the most affordable current option. Kevin Gray mastering, Optimal pressing. Buy with a return policy given documented QC variation; the title-track warble is present here.
+
+**$40–$90:** A [**King Records GXF-3017 Japanese pressing (1977)**](https://www.discogs.com/release/2019742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) for a quiet vintage alternative.
 
 **$30–$80:** A [**Liberty-era pressing with Van Gelder stamp**](https://www.discogs.com/master/155008-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) for an affordable period-metal copy without Classic Vinyl QC risk.
 
-**$150–$400:** An original [**New York USA label pressing**](https://www.discogs.com/release/2019742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) in honest VG+, with Van Gelder stamp and Plastylite ear confirmed – the definitive listening copy.
+**$150–$300:** The [**Music Matters 45rpm 2LP (MMBST-84185, 2010)**](https://www.discogs.com/release/2721587-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) – the only pressing that specifically fixes the title track's warble, on the secondary market now that it's out of print.
+
+**$150–$400:** An original [**New York USA label pressing**](https://www.discogs.com/release/2019742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) in honest VG+, with Van Gelder stamp and Plastylite ear confirmed – the definitive listening copy, and among the few pressings genuinely free of the warble issue.
 
 ---
 
@@ -94,8 +108,10 @@ Note: r2019742 on Discogs shows a "43 West 61st" address pressing – this is th
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | Original BLP 4185 mono, NY USA label | BLP 4185 | 1965 | Mono, 33⅓ | RVG / Plastylite | VAN GELDER + ear required; $150–$350 NM | [Discogs](https://www.discogs.com/release/2019742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
-| **A** | Original BST 84185 stereo, NY USA label | BST 84185 | 1965 | Stereo, 33⅓ | RVG / Plastylite | DG Side 1 only; $150–$400 NM | [Discogs](https://www.discogs.com/release/2400742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
-| **B** | Blue Note Classic Vinyl 180g | BST 84185 | 2020 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | QC issues documented – inspect or buy with return policy; $20–$35 | [Discogs](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
+| **S** | Music Matters 45rpm 2LP | MMBST-84185 | 2010 | Stereo, 45rpm, 2×180g | Orig tape → Kevin Gray + Plangent Process restoration | Only pressing that fixes title-track warble; limited/2,500; $150–$300 | [Discogs](https://www.discogs.com/release/2721587-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
+| **A** | Original BLP 4185 mono, NY USA label | BLP 4185 | 1965 | Mono, 33⅓ | RVG / Plastylite | VAN GELDER + ear required; free of warble issue; $150–$350 NM | [Discogs](https://www.discogs.com/release/2019742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
+| **A** | Original BST 84185 stereo, NY USA label | BST 84185 | 1965 | Stereo, 33⅓ | RVG / Plastylite | DG Side 1 only; free of warble issue; $150–$400 NM | [Discogs](https://www.discogs.com/release/2400742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
+| **B** | Blue Note Classic Vinyl 180g | BST 84185 | 2020 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Title-track warble present; separate QC issues documented; $20–$35 | [Discogs](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
+| **B** | Japanese King Records pressing | GXF-3017 | 1977 | Stereo, 33⅓ | Licensed Japanese pressing | Quiet vintage vinyl; $40–$90 with obi | [Discogs](https://www.discogs.com/master/155008-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
 | **C** | Liberty-era pressing (with VG stamp) | BST 84185 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $30–$80 VG+ | [Discogs](https://www.discogs.com/master/155008-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
 | **D** | Generic European reissues | Various | 1970s+ | Stereo, 33⅓ | Various | Not recommended | – |
