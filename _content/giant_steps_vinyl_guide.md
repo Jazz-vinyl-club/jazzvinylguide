@@ -149,7 +149,7 @@ Toshiba-EMI pressed Atlantic Coltrane titles throughout the 1970s–80s and thes
 
 **$50–$80:** The [**AP Atlantic 75 45rpm 2LP**](https://www.discogs.com/release/30051634-John-Coltrane-Giant-Steps) for the stereo audiophile summit. Know that you're buying into the hard-panned stereo mix; if that doesn't suit you, the Rhino stereo 33 is the more enjoyable listen for most ears.
 
-**$200–$500:** A clean [**mono black label deep groove**](https://www.discogs.com/master/32236-John-Coltrane-Giant-Steps) original for the authentic tube-cut mono experience. Ultrasonically clean before playing.
+**$200–$500:** A clean [**mono black label deep groove**](https://www.discogs.com/release/2155244-John-Coltrane-Giant-Steps) original for the authentic tube-cut mono experience. Ultrasonically clean before playing.
 
 **$60–$120:** The [**2018 Warner Music Japan mono**](https://www.discogs.com/release/12605728-John-Coltrane-Giant-Steps) is an outstanding analogue pressing at a reasonable price and receives some of the strongest reviews of any modern pressing.
 
