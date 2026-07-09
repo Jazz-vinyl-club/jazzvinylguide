@@ -2,9 +2,9 @@
 
 ## Summary
 
-*Milestones* was recorded across two sessions at Columbia's 30th Street Studio in New York City – February 4, 1958 (four of the six tracks) and March 4, 1958 ("Dr. Jekyll" and "Sid's Ahead") – and released September 2, 1958 as Columbia CL 1193. Miles Davis (trumpet, and piano on "Sid's Ahead") leads a sextet of Julian "Cannonball" Adderley (alto sax), John Coltrane (tenor sax), Red Garland (piano), Paul Chambers (bass), and Philly Joe Jones (drums). George Avakian produced – his last Miles Davis session before handing the reins to Columbia's jazz A&R for *Kind of Blue* the following year – and Fred Plaut engineered.
+*Milestones* was recorded across two sessions at Columbia's 30th Street Studio in New York City – February 4, 1958 (four of the six tracks) and March 4, 1958 ("Dr. Jekyll" and "Sid's Ahead") – and released September 2, 1958 as Columbia CL 1193. Miles Davis (trumpet, and piano on "Sid's Ahead") leads a sextet of Julian "Cannonball" Adderley (alto sax), John Coltrane (tenor sax), Red Garland (piano), Paul Chambers (bass), and Philly Joe Jones (drums). George Avakian produced – his last Miles Davis session before handing the reins to Columbia's jazz A&R for *Kind of Blue* the following year – and Harold Chapman engineered.
 
-*Milestones* was recorded and released in mono only, and – like several period Blue Note titles – later saw an "Electronically Rechanneled for Stereo" reissue that is honestly labeled as such but is not a real stereo mix. What makes this title's stereo story unusually interesting is that a *genuine* stereo mix does exist: in 1995, Sony's Mark Wilder built one from the original multi-track session tapes for a Miles Davis/John Coltrane box set, and that legitimate mix – not the 1967 fake – is what modern stereo reissues use.
+*Milestones* was recorded and released in mono only, and – like several period Blue Note titles – later saw an "Electronically Rechanneled for Stereo" reissue that is honestly labeled as such but is not a real stereo mix. What makes this title's stereo story unusually interesting is that a *genuine* stereo mix does exist: in 2000, Sony's Mark Wilder built one from the original multi-track session tapes for a Miles Davis/John Coltrane box set, and that legitimate mix – not the 1967 fake – is what modern stereo reissues use.
 
 **Best early pressing for audiophiles:** [Original Columbia six-eye mono, CL 1193](https://www.discogs.com/release/17262070-Miles-Davis-Milestones) – red six-eye labels, Columbia 10th-anniversary inner sleeve on true first pressings.
 **Best modern pressing for audiophiles:** [Sony Japan mono reissue (2021)](https://www.discogs.com/release/20649181-Miles-Davis-Milestones) – domestic cutting and pressing at Sony Music Solutions' Shizuoka plant, widely regarded as the best-pressed vinyl in the world today.
@@ -24,7 +24,7 @@ George Avakian, who had signed Davis to Columbia and produced everything from *'
 
 *Milestones* was recorded and issued in mono only in 1958 – Columbia's jazz output hadn't yet standardized simultaneous stereo releases. In 1967, Columbia issued a "stereo" pressing, CS 9428, explicitly labeled on the jacket as "Electronically Rechanneled for Stereo": a fold-out processing trick applied to the mono master, not a real stereo mix, and one collector describes the effect as adding "reverb and delay on the og mono track for added ambience." It's a period curiosity, not a sound-quality upgrade.
 
-The more interesting twist: a genuine stereo mix of this material does exist. For the 1995 box set *Miles Davis & John Coltrane: The Complete Columbia Recordings 1955–1961*, Sony engineer Mark Wilder built a real stereo mix from the surviving multi-track session tapes rather than reprocessing the mono master. This legitimate mix – not the 1967 fake stereo – is the source for Mobile Fidelity's 2023 SuperVinyl stereo edition (MFSL1-528), making it a genuinely different listening experience from either the mono original or the old CS 9428.
+The more interesting twist: a genuine stereo mix of this material does exist. For the 2000 box set *Miles Davis & John Coltrane: The Complete Columbia Recordings 1955–1961*, Sony engineer Mark Wilder built a real stereo mix from the surviving multi-track session tapes rather than reprocessing the mono master. This legitimate mix – not the 1967 fake stereo – is the source for Mobile Fidelity's 2023 SuperVinyl stereo edition (MFSL1-528), making it a genuinely different listening experience from either the mono original or the old CS 9428.
 
 ---
 
@@ -48,7 +48,7 @@ Because the album was pressed in substantial quantities and reissued steadily th
 
 ### Mobile Fidelity SuperVinyl stereo, MFSL1-528 (2023)
 
-**Cat. MFSL1-528** | Format: Stereo, 180g SuperVinyl, numbered, 2023 | **Mastered by Krieg Wunderlich, 1/4", 15ips Dolby SR analog master via DSD256, pressed at RTI.** Uses the legitimate 1995 Mark Wilder stereo mix described above, not the 1967 fake stereo – a genuinely different, valid listening option for those who want to hear this session in stereo. [Discogs](https://www.discogs.com/release/29189929-Miles-Davis-Milestones) **$50–$90.**
+**Cat. MFSL1-528** | Format: Stereo, 180g SuperVinyl, numbered, 2023 | **Mastered by Krieg Wunderlich, 1/4", 15ips Dolby SR analog master via DSD256, pressed at RTI.** Uses the legitimate 2000 Mark Wilder stereo mix described above, not the 1967 fake stereo – a genuinely different, valid listening option for those who want to hear this session in stereo. [Discogs](https://www.discogs.com/release/29189929-Miles-Davis-Milestones) **$50–$90.**
 
 ### 2013 Record Store Day mono reissue – the best-value modern option
 
@@ -71,7 +71,7 @@ Beyond the current Sony Japan Shizuoka pressing above, CBS/Sony issued *Mileston
 ## Buyer's guide by budget
 
 **Under $45:** The [**2013 Record Store Day mono reissue**](https://www.discogs.com/release/4493829-Miles-Davis-Milestones) – Kevin Gray mastering, RTI pressing, genuine tape provenance, and consistently the best per-dollar recommendation for this title.
-**$50–$90:** The [**Sony Japan mono reissue (2021)**](https://www.discogs.com/release/20649181-Miles-Davis-Milestones) for the finest pressing quality currently available, or the [**MoFi SuperVinyl stereo (MFSL1-528)**](https://www.discogs.com/release/29189929-Miles-Davis-Milestones) if you specifically want to hear the legitimate 1995 stereo mix.
+**$50–$90:** The [**Sony Japan mono reissue (2021)**](https://www.discogs.com/release/20649181-Miles-Davis-Milestones) for the finest pressing quality currently available, or the [**MoFi SuperVinyl stereo (MFSL1-528)**](https://www.discogs.com/release/29189929-Miles-Davis-Milestones) if you specifically want to hear the legitimate 2000 stereo mix.
 **$60–$200:** A clean original [**Columbia six-eye mono, CL 1193**](https://www.discogs.com/release/17262070-Miles-Davis-Milestones) – genuinely attainable for this title relative to other late-1950s Davis originals.
 
 ---
@@ -81,7 +81,7 @@ Beyond the current Sony Japan Shizuoka pressing above, CBS/Sony issued *Mileston
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
 | **S** | Sony Japan mono reissue | SIJP 1031 | 2021 | Mono, 180g | Domestic Japan cutting/pressing, Shizuoka plant | Best pressing quality available; replica six-eye tip-on | [Discogs](https://www.discogs.com/release/20649181-Miles-Davis-Milestones) |
-| **A** | MoFi SuperVinyl stereo | MFSL1-528 | 2023 | Stereo, 180g | Krieg Wunderlich; uses legitimate 1995 Wilder stereo mix | Genuine stereo, not the 1967 fake; $50–$90 | [Discogs](https://www.discogs.com/release/29189929-Miles-Davis-Milestones) |
+| **A** | MoFi SuperVinyl stereo | MFSL1-528 | 2023 | Stereo, 180g | Krieg Wunderlich; uses legitimate 2000 Wilder stereo mix | Genuine stereo, not the 1967 fake; $50–$90 | [Discogs](https://www.discogs.com/release/29189929-Miles-Davis-Milestones) |
 | **A** | Original Columbia six-eye mono | CL 1193 | 1958 | Mono, 33⅓ | Original 1958 Columbia mastering | Attainable relative to other Davis originals; $60–$200 | [Discogs](https://www.discogs.com/release/17262070-Miles-Davis-Milestones) |
 | **B** | 2013 RSD mono reissue | 88765486031 | 2013 | Mono, 180g | Kevin Gray, RTI; unplayed 1958 safety tape | Best-value modern pick; $20–$45 | [Discogs](https://www.discogs.com/release/4493829-Miles-Davis-Milestones) |
 | **B** | MoFi mono | MFSL 1-374 | 2013 | Mono, 180g | Krieg Wunderlich, DSD64 | Reception contested vs. Mosaic box; $60–$120 | [Discogs](https://www.discogs.com/release/4716235-Miles-Davis-Milestones) |
