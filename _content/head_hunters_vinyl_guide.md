@@ -48,6 +48,8 @@ The alpha suffix (1A, 1B, 1C) indicates lacquer generation. First-generation lac
 
 The first Japanese release was **SOPL-238** (CBS/Sony, 1973), manufactured by CBS/Sony at their Japanese pressing facility. The early Japanese pressing ([r1049796](https://www.discogs.com/release/1049796-Herbie-Hancock-Head-Hunters)) bears matrix `SOPL-238A1 1 A 1`. The Shizuoka CBS/Sony plant was regarded by collectors as among the best vinyl pressing operations in the world – dead-silent surfaces and faithful reproduction are the consistent reports. One Discogs reviewer: "Great sounding Japanese reissue... the snare lacks a bit of snap" compared to the AP, but the vinyl quality is superlative. The CBS logo with Sony branding "CBS/Sony" appears on both cover and labels. **$40–$80 with obi.**
 
+A second, more collectible Japanese pressing followed in 1977 on CBS/Sony's **"AP" audiophile half-speed series**: catalogue **25AP 561** ([Discogs](https://www.discogs.com/release/5275186-Herbie-Hancock-Head-Hunters)). The AP-series prefix denotes CBS/Sony's premium domestic audiophile line of the period, and copies command a real premium over the standard SOPL-238 among Japanese-pressing collectors, particularly for the obi. **$50–$100+ with obi.**
+
 ### Quadraphonic SQ matrix pressing (1974)
 
 Columbia released the quad mix in SQ (Stereo Quadraphonic) matrix format as [**PCQ 32731**](https://www.discogs.com/release/1966323-Herbie-Hancock-Head-Hunters). The quad mix features elements absent from the stereo version, including an additional keyboard melody at the opening of "Sly." Decodable with an SQ decoder for full four-channel playback; plays as enhanced stereo without one. The quad remixing was engineered by Fred Catero, keeping it in the original production family. **$15–$40.**
@@ -88,6 +90,8 @@ One Discogs reviewer who compared it with the Music On Vinyl: "I was able to tel
 
 **Grey-market EU reissues:** Various European budget reissues (DOL, Waxtime, etc.) circulate. These are not from the original master tapes. Avoid.
 
+**"Giant" bootleg:** An unofficial pressing exists using metal parts copied from a Columbia Terre Haute plant original, with "Giant" catalogue information overprinted on Columbia's original runout etching. Not a licensed release. Avoid.
+
 ---
 
 ## Buyer's guide by budget
@@ -108,6 +112,7 @@ One Discogs reviewer who compared it with the Music On Vinyl: "I was able to tel
 | **A** | AP 200g/180g 33rpm | AAPJ 084 | 2015–2022 | Stereo, 33⅓, 180g/200g | Orig tapes → Ryan K. Smith, Sterling Sound, AAA, QRP | Same mastering as 45rpm; strong value; $35–$55 new | [Discogs](https://www.discogs.com/release/7495983-Herbie-Hancock-Head-Hunters) |
 | **A** | Original 1973 US, first metalwork | KC 32731 | 1973 | Stereo, 33⅓ | Catero/Columbia lacquer, Pitman or Terre Haute | -1A/-1A preferred; warm and punchy; ~$20–$60 NM | [Discogs](https://www.discogs.com/release/31381-Herbie-Hancock-Head-Hunters) |
 | **B** | CBS/Sony Japan pressing | SOPL-238 | 1973 | Stereo, 33⅓ | CBS/Sony Japan pressing facility | First Japanese issue; excellent surfaces; $40–$80 with obi | [Discogs](https://www.discogs.com/release/1049796-Herbie-Hancock-Head-Hunters) |
+| **B** | CBS/Sony Japan "AP" audiophile series | 25AP 561 | 1977 | Stereo, 33⅓ | CBS/Sony Japan half-speed audiophile series | More collectible than SOPL-238; premium with obi; $50–$100+ | [Discogs](https://www.discogs.com/release/5275186-Herbie-Hancock-Head-Hunters) |
 | **C** | Music On Vinyl MOV | Various | 2009 | Stereo, 33⅓, 180g | TuckerSound mastering, not from original tapes | Quiet surfaces; sonically below AP; $15–$25 used | [Discogs](https://www.discogs.com/release/2542733-Herbie-Hancock-Head-Hunters) |
 | **C** | Quadraphonic SQ matrix | PCQ 32731 | 1974 | Quad/stereo, 33⅓ | Original Columbia quad mix, Catero engineer | Contains extra elements not on stereo; decodable with SQ; $15–$40 | [Discogs](https://www.discogs.com/release/1966323-Herbie-Hancock-Head-Hunters) |
 | **D** | Late 1970s+ Columbia reprints | PC/JC 32731 | 1975+ | Stereo, 33⅓ | Later-generation Columbia lacquer, Carrollton plant | Noticeably thinner; budget listening only | – |
