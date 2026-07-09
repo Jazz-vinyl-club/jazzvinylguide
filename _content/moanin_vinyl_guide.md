@@ -4,11 +4,11 @@
 
 *Moanin'* was recorded on October 30, 1958 at Rudy Van Gelder's Hackensack studio – a single session that produced one of the definitive hard bop albums, and one of Blue Note's best-engineered recordings. Van Gelder's Telefunken tube condensers captured Art Blakey's explosive drumming, Lee Morgan's trumpet, and Benny Golson's tenor with remarkable immediacy and presence. The album is known informally as *Moanin'* after its opening track, though its original 1959 release was self-titled.
 
-The central collector consideration here is the stereo panning: Van Gelder placed Morgan's trumpet hard left and Golson's tenor hard right, creating a wide channel separation that some find exhilarating and others find fatiguing. The mono original (BLP 4003) collapses this into a unified, punchy ensemble sound many prefer. All modern reissues are stereo. *Moanin'* is also heavily bootlegged in the EU budget market – DOL, Waxtime, and similar grey-market pressings should be avoided entirely.
+The central collector consideration here is the stereo panning: Van Gelder placed Morgan's trumpet hard left and Golson's tenor hard right, creating a wide channel separation that some find exhilarating and others find fatiguing. The mono original (BLP 4003) collapses this into a unified, punchy ensemble sound many prefer. Most modern reissues are stereo; a small number of audiophile mono reissues exist but are scarce and of uncertain provenance. *Moanin'* is also heavily bootlegged in the EU budget market – DOL, Waxtime, and similar grey-market pressings should be avoided entirely.
 
 **Best early pressing for audiophiles:** [Original mono Blue Note BLP 4003](https://www.discogs.com/master/62462-Art-Blakey-And-The-Jazz-Messengers-Art-Blakey-And-The-Jazz-Messengers) – 47W63rd label, no ® INC, RVG + ear + Plastylite P; unified ensemble sound; $600–$1,500 NM.
 
-**Best modern pressing for audiophiles:** [Analogue Productions ABNJ 84003 45rpm 2LP, 2011 QRP repress](https://www.discogs.com/release/6401273-Art-Blakey-And-The-Jazz-Messengers-Moanin) – Gray/Hoffman AcousTech mastering, 180g QRP, the 45rpm stereo reference.
+**Best modern pressing for audiophiles:** [Analogue Productions ABNJ 84003 45rpm 2LP, 2011 QRP repress](https://www.discogs.com/release/6401273-Art-Blakey-And-The-Jazz-Messengers-Moanin) – Gray/Hoffman AcousTech mastering, 200g QRP, the 45rpm stereo reference.
 
 **Best-value modern:** [Blue Note Classic Vinyl Series 0746568](https://www.discogs.com/release/18150907-Art-Blakey-The-Jazz-Messengers-Moanin) – Kevin Gray mastering from original tapes, 180g Optimal, ~$30 new; inspect for non-fill.
 
@@ -17,7 +17,7 @@ The central collector consideration here is the stereo panning: Van Gelder place
 
 *Moanin'* – officially titled *Art Blakey and the Jazz Messengers* on its original release – was recorded in a single session on **October 30, 1958** at **Rudy Van Gelder's studio in Hackensack, New Jersey**, and released on Blue Note Records in **January 1959**. Produced by **Alfred Lion**, engineered by **Rudy Van Gelder**. Personnel: Art Blakey (drums), Lee Morgan (trumpet), Benny Golson (tenor saxophone), Bobby Timmons (piano), Jymie Merritt (bass).
 
-The album took its informal name from its opening track – Bobby Timmons's nine-minute gospel-blues composition "Moanin'" – which became a standard almost immediately. Benny Golson contributed four of the six compositions, three of which also became jazz standards: "Along Came Betty," "Blues March," and "Are You Real." "The Drum Thunder Suite" (a three-part feature for Blakey) and a brisk reading of the Arlen-Mercer standard "Come Rain or Come Shine" complete the programme.
+The album took its informal name from its opening track – Bobby Timmons's nine-minute gospel-blues composition "Moanin'" – which became a standard almost immediately. Benny Golson contributed four of the six compositions, three of which also became jazz standards widely performed by others: "Along Came Betty," "Blues March," and "Are You Real." "The Drum Thunder Suite" (a three-part feature for Blakey) and a brisk reading of the Arlen-Mercer standard "Come Rain or Come Shine" complete the programme.
 
 Van Gelder's Hackensack studio – a converted living room in his parents' house – was the site of the most concentrated body of Blue Note recordings between 1952 and 1959. His approach was precision microphone placement with Telefunken U-47 and U-48 tube condensers, captured to Ampex tape with careful gain staging. The studio had a distinctive acoustic that gave Van Gelder recordings a particular intimacy and presence: instruments in close-field but with a slight room sound that opened the stereo image without artificiality. *Moanin'* is considered one of his finest sessions, capturing both the power of Blakey's drumming and the nuanced interplay between Morgan, Golson, and Timmons with remarkable clarity.
 
@@ -30,8 +30,8 @@ This was also, as Wikipedia notes, Blakey's first album for Blue Note in several
 The album has circulated under several names and catalogue numbers across its history, which creates confusion when buying:
 
 - **Original 1959 US mono LP: BLP 4003** (self-titled *Art Blakey and the Jazz Messengers*)
-- **Original 1959 US stereo LP: BST 84003** (same self-titled cover; stereo issues were released simultaneously with mono for most Blue Note titles from this era)
-- **1964 reissue: *Moanin'*** – Blue Note retitled the album using the popular opening track name; this is the "Moanin'" cover most collectors recognise. The original catalogue numbers **BST 84003** (stereo) and **BLP 4003** (mono) continued unchanged – Blue Note's stereo numbering convention adds an "8" prefix to the 4000 series, making the stereo always BST 84003, never BST-4003
+- **Original 1959 US stereo LP: BST 84003** (same self-titled cover; stereo issues were released simultaneously with mono for some key Blue Note titles from this era, including *Moanin'*)
+- **1964 reissue: *Moanin'*** – Blue Note retitled the album using the popular opening track name; this is the "Moanin'" cover most collectors recognise. The original catalogue numbers **BST 84003** (stereo) and **BLP 4003** (mono) continued unchanged – Blue Note used a separate BST 84000 series for stereo releases corresponding to the BLP 4000 series mono releases (e.g., BLP 4003 → BST 84003)
 - All subsequent reissues use some variant of BST 84003 or BLP 4003 as their reference number
 
 The original 1959 pressing covers bear the self-titled "Art Blakey and the Jazz Messengers" title. From 1964, "Moanin'" became the standard cover title. Both refer to the same recordings.
@@ -53,18 +53,18 @@ Blue Note first pressings from this era are identified through a combination of 
 Three items in the run-out groove are essential for genuine Blue Note originals:
 
 1. **"RVG"** – Rudy Van Gelder's hand-etched initials, stamped into the lacquer at the cutting session. This is non-negotiable for an original Van Gelder pressing.
-2. **The "ear"** – Van Gelder's distinctive cursive symbol (resembling a stylised ear or the letter "c"), also hand-etched. Sometimes described as the Van Gelder "signature symbol."
-3. **Plastylite "P"** – a cursive capital "P" pressed (not etched) into the vinyl, indicating the record was manufactured by Plastylite Corporation in East Orange, New Jersey, Blue Note's primary pressing plant. Absent on some early copies pressed by alternative plants when Plastylite was at capacity.
+2. **The "ear"** – A distinctive hand-etched symbol (resembling a stylised ear) found in the run-out groove, indicating the record was pressed by **Plastylite Corporation**. It is a Plastylite pressing plant identifier, not a Van Gelder mark.
+3. **Plastylite "P"** – a hand-etched capital "P" in the run-out groove, also indicating manufacture by Plastylite Corporation in East Orange, New Jersey, Blue Note's primary pressing plant. Absent on some early copies pressed by alternative plants when Plastylite was at capacity.
 
 ### Matrix codes and the A vs A-1 question
 
 [LJC's 2023 deep-dive](https://londonjazzcollector.wordpress.com/2023/12/01/art-blakey-blp-4003-moanin-1958-original-1st-pressing-status/) resolved a long-standing collector debate specific to BLP 4003. At his Scully cutting lathe, Van Gelder denominated his first acetate cut for each side simply "A" and "B" – BLP 4003-A / BLP 4003-B. If he recut an acetate, he added a "-1" suffix: BLP 4003-A1. For years, collectors assumed the "A" (no suffix) matrix was the true first pressing. LJC's conclusion after forensic examination of actual copies: **"The mystically elusive copies of BLP 4003-A/B apparently do not exist, or at least no one has ever spotted a copy... BLP 4003-A1/B1 clearly DO exist – in multiple iterations and as a matter of empirical certainty."** The A1 stamper appears on all known genuine first-era Plastylite copies. Some Discogs entries list "A" without the suffix, but this is likely misreading of a very faint "-1."
 
-A further complication: *Moanin'* sold unusually fast for a Blue Note title. When Plastylite ran out of capacity, Blue Note briefly used an additional pressing plant. [LJC identifies this](https://londonjazzcollector.wordpress.com/2023/12/01/art-blakey-blp-4003-moanin-1958-original-1st-pressing-status/) as likely **Keel Manufacturing** in Hauppauge, Long Island, based on a "K" stamp in the deadwax in place of the Plastylite "P" – though the specific plant attribution for early 1960s Blue Note overflow pressings is debated among collectors. These copies have all other original markers (RVG, ear, 47W63rd labels) but no Plastylite "P." [LJC](https://londonjazzcollector.wordpress.com/2023/12/01/art-blakey-blp-4003-moanin-1958-original-1st-pressing-status/): "There is no question it is pressed from Van Gelder metal, but crucially, the expected Plastylite 'P' is missing." These are genuine Blue Note pressings but arguably not Plastylite originals.
+A further complication: *Moanin'* sold unusually fast for a Blue Note title. When Plastylite ran out of capacity, Blue Note briefly used an additional pressing plant. [LJC identifies this](https://londonjazzcollector.wordpress.com/2023/12/01/art-blakey-blp-4003-moanin-1958-original-1st-pressing-status/) as likely **Keel Manufacturing** in Hauppauge, Long Island, based on a "K" stamp in the deadwax in place of the Plastylite "P" – though the specific plant attribution for early 1960s Blue Note overflow pressings is debated among collectors. These copies have all other original markers (RVG, 47W63rd labels) but no Plastylite "P" and no Plastylite ear. [LJC](https://londonjazzcollector.wordpress.com/2023/12/01/art-blakey-blp-4003-moanin-1958-original-1st-pressing-status/): "There is no question it is pressed from Van Gelder metal, but crucially, the expected Plastylite 'P' is missing." These are genuine Blue Note pressings but arguably not Plastylite originals.
 
 ### The "9M" mark
 
-Some early copies carry a faint "9M" marking on Side 1. This appears to be a Plastylite quality-control or batch marker. Its presence on a copy with all other original markers generally indicates an early pressing. Its absence does not disqualify a copy.
+Some early copies carry a faint "9M" marking on Side 1. This appears to be an early mastering or plating facility mark; its precise origin is debated among collectors. Its presence on a copy with all other original markers generally indicates an early pressing. Its absence does not disqualify a copy.
 
 ### Deep groove
 
@@ -82,7 +82,7 @@ The stereo BST 84003 was issued simultaneously with the mono BLP 4003 in 1959. U
 - NM **mono BLP 4003 47W63rd label** (47W63rd with INC+®, RVG + ear + Plastylite P): **$300–$700**
 - NM **stereo BST 84003 47W63rd label** (47W63rd, no ® INC): **$400–$900**
 - NM **stereo BST 84003 47W63rd label** (47W63rd with INC+®): **$200–$500**
-- Keel plant copies (RVG + ear + "K" instead of Plastylite P): **$150–$400**
+- Keel plant copies (RVG + "K" instead of Plastylite P, no ear): **$150–$400**
 
 ---
 
@@ -90,7 +90,7 @@ The stereo BST 84003 was issued simultaneously with the mono BLP 4003 in 1959. U
 
 **UK Parlophone / EMI pressings (1960s):** Blue Note titles were licensed to Parlophone in the UK from 1958. These carry a blue Parlophone label rather than a Blue Note label. Sonically they are made from copy tapes (not the original metal), pressed at the UK EMI Middlesex plant. Tonally acceptable and historically interesting but clearly inferior to US originals.
 
-**Japanese pressings (various):** King Records and later Toshiba-EMI pressed Blue Note titles for Japan from the late 1960s. The GXF-series King Records pressings (1970s) are highly regarded by Japanese audiophiles and carry genuinely excellent pressing quality, though not from Van Gelder metal. The Discogs master page notes: "This is repressed from the same GXF-3002 stampers again but the cover presentation is a replica of original Blue Note in every way. Sound is liquid gold." Japanese pressings typically come with OBI strips and are prized for quiet surfaces. **$80–$250 NM with OBI.**
+**Japanese pressings (various):** King Records and later Toshiba-EMI pressed Blue Note titles for Japan from the late 1960s. The GXF-series King Records pressings (1970s) are highly regarded by Japanese audiophiles and carry genuinely excellent pressing quality, though not from Van Gelder metal. A Discogs user comment on a specific GXF-3002 repress notes: "This is repressed from the same GXF-3002 stampers again but the cover presentation is a replica of original Blue Note in every way. Sound is liquid gold." Japanese pressings typically come with OBI strips and are prized for quiet surfaces. **$80–$250 NM with OBI.**
 
 ---
 
@@ -102,13 +102,13 @@ The stereo BST 84003 was issued simultaneously with the mono BLP 4003 in 1959. U
 
 This is widely regarded as the sonic benchmark for modern reissues of this album – the reference against which all others are measured. The Elusive Disc description: "Incredible Jazz Records + the original analog master tapes + cut at 45 RPM + mastered by Kevin Gray and Steve Hoffman at AcousTech + pressed on two 180-gram virgin vinyl LPs by RTI = THE ULTIMATE LP REISSUE!" [Wayne Garcia (*The Absolute Sound*, 2009)](https://www.theabsolutesound.com): "This set has outstanding clarity, a fine feeling of breadth, rich tonality, and a visceral sense of life." Multiple Discogs owners: "This album, this pressing in particular, is beyond comprehension. The sound quality is fully intact and just superb." "What hasn't been said about this album and pressing. Just perfect in every respect. Often one I'll put on to show off my system to friends and/or convert people to jazz."
 
-The 2011 repress on 180g QRP vinyl is widely considered sonically equal to or slightly superior to the original 2008 RTI pressing – QRP's pressing quality and Finebilt press providing marginally quieter surfaces. The AP pressing uses the stereo BST 84003 – the wide-panned stereo image that some Discogs owners note as "marmite": "Beautiful pressing. Lee Morgan cuts through so strong on 'Moanin'!" versus "I will always prefer the 33 over the 45RPM." Out of print in both editions. Secondary market: **$200–$500** for the 2008 RTI; **$150–$400** for the 2011 QRP 200g repress.
+The 2011 repress on 200g QRP vinyl is widely considered sonically equal to or slightly superior to the original 2008 RTI pressing – QRP's pressing quality and Finebilt press providing marginally quieter surfaces. The AP pressing uses the stereo BST 84003 – the wide-panned stereo image that some Discogs owners note as "marmite": "Beautiful pressing. Lee Morgan cuts through so strong on 'Moanin'!" versus "I will always prefer the 33 over the 45RPM." Out of print in both editions. Secondary market: **$200–$500** for the 2008 RTI; **$150–$400** for the 2011 QRP 200g repress.
 
 ### Music Matters Jazz 33rpm 180g LP (2014) – the definitive single-disc reissue
 
 **Cat. MMBST-84003** | Secondary Universal Music label: **B0020563-01**, Blue Note **ST-84003** ([Discogs r5851206](https://www.discogs.com/release/5851206-Art-Blakey-And-The-Jazz-Messengers-Moanin)) | Barcode: **693692999662**. Format: single 180g LP at 33⅓, luxurious laminated gatefold with session photos, limited to **2,500 copies**. **Mastered by Kevin Gray at Cohearent Audio, AAA, from the original analog master tapes.** Pressed at **RTI** (US). Stereo.
 
-Music Matters Jazz, run by Joe Harley and Ron Rambach, produced what is broadly considered the definitive modern 33rpm reissue of this album – and indeed of the entire Blue Note catalogue they touched. The Kevin Gray Cohearent Audio mastering is specifically praised for staying truer to the RVG spirit than the somewhat brighter AP AcousTech mastering. The Discogs matrix confirms: "MM33 BST-84003-A P KPG&[JH]@ATM 22242.1(3)" – the "JH" being Joe Harley's quality-control initials alongside Kevin Gray's. [Vinyl Gourmet](https://www.vinylgourmet.com): "Audiophile mastering from Original Analog Master Tapes by Kevin Gray at Cohearent Audio on 33rpm 180 grams virgin vinyl pressed at RTI." Vinyl Gourmet rating: Music 10/10, Sound 9.5/10.
+Music Matters Jazz, run by Joe Harley and Ron Rambach, produced what is broadly considered the definitive modern 33rpm reissue of this album – and indeed of the entire Blue Note catalogue they touched. The Kevin Gray Cohearent Audio mastering is specifically praised for staying truer to the RVG spirit than the somewhat brighter AP AcousTech mastering. The matrix on the Music Matters pressing reflects Kevin Gray's Cohearent Audio work – the "JH" initials for Joe Harley's quality-control sign-off appear alongside Kevin Gray's "KG" or "KPG" mark. [Vinyl Gourmet](https://www.vinylgourmet.com): "Audiophile mastering from Original Analog Master Tapes by Kevin Gray at Cohearent Audio on 33rpm 180 grams virgin vinyl pressed at RTI." Vinyl Gourmet rating: Music 10/10, Sound 9.5/10.
 
 This pressing resolves the AP's "wide-panning fatigue" complaint partly through the 33rpm format's slightly less pronounced channel separation – the stereo image is still wide but less extreme. Multiple owners report it as their preferred everyday listening pressing for this title. **OOP; $250–$500** on secondary market.
 
@@ -128,7 +128,7 @@ Some Discogs community members reference an early Analogue Productions or associ
 
 ### Japanese King Records GXF-series (1970s)
 
-The GXF-3002 stampers (used for multiple repressings of this title across the 1970s–80s) represent Japan's approach to the Blue Note catalogue: meticulous pressing quality, quiet vinyl, faithful reproduction – but from copy tape sources rather than original metal. Discogs community: "Sound is liquid gold... the cover presentation is a replica of original Blue Note in every way." Market: **$80–$200 NM with OBI**.
+The GXF-3002 stampers (used for multiple repressings of this title across the 1970s–80s) represent Japan's approach to the Blue Note catalogue: meticulous pressing quality, quiet vinyl, faithful reproduction – but from copy tape sources rather than original metal. A Discogs user comment on a specific GXF-3002 repress notes: "Sound is liquid gold... the cover presentation is a replica of original Blue Note in every way." Market: **$80–$200 NM with OBI**.
 
 ---
 
@@ -138,7 +138,7 @@ The stereo panning of BST 84003 deserves extended treatment because it defines t
 
 Van Gelder recorded Blakey's quintet with relatively hard left/right separation: Morgan's trumpet predominantly in one channel, Golson's tenor in the other, Timmons's piano and rhythm section in the centre. On the 45rpm AP pressing, this image is reproduced with exceptional clarity and width – Morgan and Golson trade and overlap with startling spatial separation. For some listeners this is revelatory. For others it is fatiguing: as one Discogs owner put it, "it's like two separate islands floating above the stage without any bridge between them."
 
-The mono BLP 4003 original collapses this completely – everything is in the centre, and the result is a different, unified presentation where the ensemble plays *together* rather than *across* the room. Many Discogs owners and LJC commenters explicitly prefer the mono for this reason. The Classic Records Grundman mono reissue is the only modern pressing that offers this.
+The mono BLP 4003 original collapses this completely – everything is in the centre, and the result is a different, unified presentation where the ensemble plays *together* rather than *across* the room. Many Discogs owners and LJC commenters explicitly prefer the mono for this reason. The early Analogue Productions Grundman mono reissue (unverified; see above) is the only known modern pressing that aims to offer this mono presentation, though its provenance is uncertain.
 
 For most buyers choosing among modern stereo reissues, the 33rpm format (Music Matters 33, Classic Vinyl 2021) tends to present the stereo image with slightly less clinical separation than the 45rpm (AP), which some find more relaxed and enjoyable.
 
@@ -156,9 +156,9 @@ For most buyers choosing among modern stereo reissues, the 33rpm format (Music M
 
 ## Pressings to avoid
 
-**Liberty Records reissues (early 1970s):** When Blue Note was absorbed by Liberty and then United Artists in the late 1960s, pressing quality declined significantly. The "United Artists Music and Records Group" label copies (identifiable by the black "b" logo) are inferior to the original and should not be confused with originals despite sometimes showing "Blue Note Records" on the cover.
+**Liberty Records reissues (late 1960s) and United Artists reissues (early 1970s onward):** When Blue Note was absorbed by Liberty in 1966 and then by United Artists in 1969, pressing quality declined significantly. The "United Artists Music and Records Group" label copies (identifiable by the black "b" logo, typically from 1971 onward) are inferior to the original and should not be confused with originals despite sometimes showing "Blue Note Records" on the cover.
 
-**EMI/Capitol standard reissues (1980s–2000s):** Various generic pressings from the Capitol Records era. Not from Van Gelder metal; mastered digitally from the 1998 RVG CD remaster or similar. Avoid for serious listening.
+**EMI/Capitol standard reissues (1980s–2000s):** Various generic pressings from the Capitol Records era. Not from Van Gelder metal; mastered from various sources including earlier digital transfers or, for later pressings, potentially the 1998 RVG CD remaster. Avoid for serious listening.
 
 **EU grey-market editions (Waxtime, DOL, Not Now, etc.):** *Moanin'* is heavily bootlegged in Europe. The standard tells apply: no mastering credit, price under $20 for sealed 180g, "Made in EU" without a label address. Digitally sourced. One Discogs owner on the Waxtime pressing: "On the WaxTime it's more classic and in the center (which I prefer)... On Blue Note [Classic] trumpet is artificially panned all to the left, and sax to the right." The Waxtime's "classic centre" sound is a consequence of its digital source, not superior musicality.
 
@@ -170,13 +170,13 @@ For most buyers choosing among modern stereo reissues, the 33rpm format (Music M
 
 **$50–$150:** The [**Japanese King Records GXF-3002 pressing**](https://www.discogs.com/release/6775238-Art-Blakey-And-The-Jazz-Messengers-Moanin) with OBI gives you excellent surfaces, faithful reproduction, and a beautiful object – a valid alternative to the Classic Vinyl if you prefer quiet vinyl over the Optimal QC lottery. Also in this range: the [**AP early mono 200g (attributed Grundman)**](https://www.discogs.com/master/62462-Art-Blakey-And-The-Jazz-Messengers-Art-Blakey-And-The-Jazz-Messengers), if you prefer the mono presentation.
 
-**$150–$350:** The [**AP 2011 QRP repress (ABNJ 84003)**](https://www.discogs.com/release/6401273-Art-Blakey-And-The-Jazz-Messengers-Moanin) is the 45rpm reference – Gray/Hoffman mastering, 180g QRP, best pressing quality of the stereo reissues. The [**Music Matters 33rpm (MMBST-84003)**](https://www.discogs.com/release/5851206-Art-Blakey-And-The-Jazz-Messengers-Moanin) sits in the same price range on the secondary market and is many listeners' preferred everyday pressing for its balance and RTI quality.
+**$150–$350:** The [**AP 2011 QRP repress (ABNJ 84003)**](https://www.discogs.com/release/6401273-Art-Blakey-And-The-Jazz-Messengers-Moanin) is the 45rpm reference – Gray/Hoffman mastering, 200g QRP, best pressing quality of the stereo reissues. The [**Music Matters 33rpm (MMBST-84003)**](https://www.discogs.com/release/5851206-Art-Blakey-And-The-Jazz-Messengers-Moanin) sits in the same price range on the secondary market and is many listeners' preferred everyday pressing for its balance and RTI quality.
 
-**$350–$700:** The [**AP 2008 original RTI numbered edition (AP 84003)**](https://www.discogs.com/release/2942743-Art-Blakey-And-The-Jazz-Messengers-Moanin) and **NM stereo 47W63rd label BST 84003 with INC+®** both appear in this range – the original for its historical status and the AP for its sonic achievement.
+**$350–$700:** The [**AP 2008 original RTI numbered edition (ABNJ 84003)**](https://www.discogs.com/release/2942743-Art-Blakey-And-The-Jazz-Messengers-Moanin) and **NM stereo 47W63rd label BST 84003 with INC+®** both appear in this range – the original for its historical status and the AP for its sonic achievement.
 
 **$600+:** NM [**original mono BLP 4003 47W63rd label**](https://www.discogs.com/master/62462-Art-Blakey-And-The-Jazz-Messengers-Art-Blakey-And-The-Jazz-Messengers) without ® – the holy grail. A properly graded NM copy approaches the original studio sound as closely as any vinyl ever will. The "no ® INC" copies in genuine NM condition are now seldom encountered at any price.
 
-**The one-copy answer:** For most listeners, the **Blue Note Classic Vinyl Series (0746568)** at $30 covers the essential listening experience. For serious collection, the [**Music Matters 33rpm (MMBST-84003)**](https://www.discogs.com/release/5851206-Art-Blakey-And-The-Jazz-Messengers-Moanin) is the superior modern pressing if budget and secondary-market availability allow. For the ultimate: the **AP 2011 QRP 200g (AP-84003)**.
+**The one-copy answer:** For most listeners, the **Blue Note Classic Vinyl Series (0746568)** at $30 covers the essential listening experience. For serious collection, the [**Music Matters 33rpm (MMBST-84003)**](https://www.discogs.com/release/5851206-Art-Blakey-And-The-Jazz-Messengers-Moanin) is the superior modern pressing if budget and secondary-market availability allow. For the ultimate: the **AP 2011 QRP 200g (ABNJ 84003)**.
 
 ---
 
