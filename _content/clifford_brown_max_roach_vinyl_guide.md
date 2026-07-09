@@ -2,13 +2,13 @@
 
 ## Summary
 
-*Clifford Brown & Max Roach* was recorded across two sets of sessions: **August 2, 3, and 6, 1954** at Capitol Studios (Melrose Avenue), Hollywood, California; and **February 24–25, 1955** at Capitol Studios, New York City. Personnel: Clifford Brown (trumpet); Harold Land (tenor saxophone); Richie Powell (piano); George Morrow (bass); Max Roach (drums). Produced by **Bob Shad** (A&R head at EmArcy). The engineer's name is unrecorded. First released as a 10" LP (MG 26043) in December 1954 with five tracks; expanded to a 12" LP as **MG-36036** in 1955 with the addition of "The Blues Walk" and "What Am I Here For?" from the February 1955 New York session.
+*Clifford Brown & Max Roach* was recorded across two sets of sessions: **August 2, 3, 5, and 6, 1954** at Capitol Studios (Melrose Avenue), Hollywood, California; and **February 24–25, 1955** at Capitol Studios, New York City. Personnel: Clifford Brown (trumpet); Harold Land (tenor saxophone); Richie Powell (piano); George Morrow (bass); Max Roach (drums). Produced by **Bob Shad** (A&R head at EmArcy). The engineer's name is unrecorded. First released as a 10" LP (MG 26043) in December 1954 with five tracks; expanded to a 12" LP as **MG-36036** in 1955 with the addition of "The Blues Walk" and "What Am I Here For?" from the February 1955 New York session.
 
 The New York Times described the quintet as "perhaps the definitive bop group until Mr. Brown's fatal automobile accident in 1956." Brown died on June 26, 1956 – his second wedding anniversary – aged 25. The Acoustic Sounds Series 180g mono (2025) is the current definitive modern pressing; the Mosaic 4LP box set (2012) is the finest complete collection of the quintet's EmArcy work. Original EmArcy pressings are genuinely difficult to find in good condition – and the Acoustic Sounds remaster consistently outperforms them sonically.
 
 **Best early pressing for audiophiles:** [Original EmArcy MG-36036 12" mono (1955)](https://www.discogs.com/release/2862128-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – first 12" pressing; $200–$600 NM.
 
-**Best modern pressing for audiophiles:** [Acoustic Sounds Series 180g mono (2025)](https://www.discogs.com/master/302135-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – Matthew Lutthans, The Mastering Lab, QRP, gatefold tip-on; ~$35–$45.
+**Best modern pressing for audiophiles:** [Acoustic Sounds Series 180g mono, AEMA 78844 (2025)](https://www.discogs.com/master/302135-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – Matthew Lutthans, The Mastering Lab, QRP, gatefold tip-on; ~$35–$45.
 
 **Best-value modern:** Same Acoustic Sounds Series – the only widely available modern audiophile option.
 
@@ -21,9 +21,9 @@ Brown and Roach had met years earlier in Philadelphia. By early 1954 Roach was l
 
 **Richie Powell** was the younger brother of Bud Powell, the most influential bebop pianist. He was 23 at the time of the August sessions and would die alongside Brown in the 1956 accident. **Harold Land** was a rising tenor saxophonist from Los Angeles, relatively unknown nationally but immediately invaluable – his warm, fat tone anchored the front line. **George Morrow** was a dependable Los Angeles bassist, later underrated relative to his contribution.
 
-The quintet signed with EmArcy, Mercury's new jazz imprint, in the summer of 1954. EmArcy's A&R head Bob Shad oversaw the sessions at Capitol Studios on Melrose Avenue, Hollywood. The engineer's name has never been definitively established. The sessions on August 2, 3, and 6 produced the core of the album. The Hollywood recordings captured the quintet at the very beginning of their life together as a permanent unit; the chemistry was immediate.
+The quintet signed with EmArcy, Mercury's new jazz imprint, in the summer of 1954. EmArcy's A&R head Bob Shad oversaw the sessions at Capitol Studios on Melrose Avenue, Hollywood. The engineer's name has never been definitively established. The sessions on August 2, 3, 5, and 6 produced the core of the album. The Hollywood recordings captured the quintet at the very beginning of their life together as a permanent unit; the chemistry was immediate.
 
-**Track notes:** "Delilah" – Victor Young's theme for Cecil B. DeMille's *Samson and Delilah* – opens the album. [Gary Giddins](https://www.villagevoice.com) in the Village Voice selected it as the outstanding jazz track for 1954: "the most unlikely of vehicles." The Blackwell Guide notes that "in Brown's sweeping solo, the commentary supplied by Roach is worthy of special study, as he seemingly anticipates every nuance of his co-leader's lines." "Parisian Thoroughfare" is Bud Powell's impressionistic portrait of city life – Richie Powell's connection to his brother's vocabulary is audible throughout. "Daahoud" and "Joy Spring" are two Brown originals that became jazz standards; both had been recorded earlier in 1954 (with a different ensemble for Pacific Jazz) but these versions became the definitive ones. "Joy Spring" was Brown's nickname for LaRue, the woman who would become his wife. "Jordu" is Duke Jordan's blues-based composition. "The Blues Walk" and "What Am I Here For?" come from the February 1955 New York sessions, where the quintet had matured considerably.
+**Track notes:** "Delilah" – Victor Young's theme for Cecil B. DeMille's *Samson and Delilah* – opens the album. [Gary Giddins](https://www.villagevoice.com) in the Village Voice selected it as the outstanding jazz track for 1954: "the most unlikely of vehicles." The Blackwell Guide notes that "in Brown's sweeping solo, the commentary supplied by Roach is worthy of special study, as he seemingly anticipates every nuance of his co-leader's lines." "Parisian Thoroughfare" is Bud Powell's impressionistic portrait of city life – Richie Powell's connection to his brother's vocabulary is audible throughout. "Daahoud" and "Joy Spring" are two Brown originals that became jazz standards; both had been recorded earlier in 1954 (with a different ensemble for Pacific Jazz) but these versions became the definitive ones. "Joy Spring" was Brown's nickname for LaRue Anderson, who became his wife. She had been introduced to Brown by Roach as a student working to prove in her thesis that jazz was inferior to classical music – a thesis Brown convinced her was mistaken. "Jordu" is Duke Jordan's blues-based composition. "The Blues Walk" and "What Am I Here For?" come from the February 1955 New York sessions, where the quintet had matured considerably.
 
 **The quintet's precedence:** Bob Blumenthal in the Mosaic box liner notes: "Not to take away from the importance of these immortal bands [Jazz Messengers, Miles Davis Quintet], but Clifford Brown and Roach were there first." The quintet formed months before Blakey's Jazz Messengers and a year and a half before Miles Davis's first great quintet. Stereophile's Richard Lehnert called them "one of the very greatest strings of small group recordings in jazz history, worthy of consideration alongside the Hot Fives and Sevens of Louis Armstrong and the quintets of Charlie Parker and Miles Davis."
 
@@ -53,7 +53,7 @@ The original release was a **10" LP** containing five tracks: "Delilah," "Parisi
 
 ### 12" EmArcy MG-36036 (1955) – the standard collectible
 
-The 12" expansion added "The Blues Walk" and "What Am I Here For?" from the February 1955 New York session. This is the standard collected edition. Original 1955 US pressing: [r2862128](https://www.discogs.com/release/2862128-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach). Matrix: **MG36036A MF4** / **MG36036B MF3**. A later US reissue (1958) carries the same cat. number on Mercury Emarcy Jazz labels – check the matrix for the original.
+The 12" expansion added "The Blues Walk" and "What Am I Here For?" from the February 1955 New York session. This is the standard collected edition. Two early variants exist. The earliest ([r2862128](https://www.discogs.com/release/2862128-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach)) has printing in blue on the back cover. A slightly later first edition ([r19125328](https://www.discogs.com/release/19125328-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach)) has black back-cover printing, blue "Drummer" labels without the Mercury helmet, and a deep groove — matrix **MG36036A MF4** / **MG36036B MF3**. A later US reissue (1958) carries the same cat. number on Mercury Emarcy Jazz labels – check the matrix for the original.
 
 One Discogs owner notes: "I wish Acoustic Sounds would remaster this one too. The OG EmArcy pressings are a little less than great sounding." The engineering of the 1954 sessions was competent but not exceptional by the standards of Van Gelder or other contemporaneous engineers – the Acoustic Sounds remaster consistently outperforms the original in direct comparisons. **NM 12" originals: $200–$600. VG+: $80–$200.**
 
@@ -75,9 +75,16 @@ Stereophile reviewed it (February 2013, Record of the Month, Performance ★★�
 
 ---
 
+## Japanese pressings
+
+EmArcy titles were licensed to Nippon Phonogram / Mercury Japan and later to PolyGram Japan through the late 1970s and 1980s. The Japanese editions of *Clifford Brown & Max Roach* are consistently praised for superior vinyl quality and faithful reproduction. Look for pressings on the **Mercury/EmArcy Japan** label with an obi strip. The 1971 Japanese pressing (**cat. 15PJ-2018(M)**, [Discogs master](https://www.discogs.com/master/302135-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach)) is the most commonly encountered and well reviewed. Dead-quiet vinyl, natural mono presentation. **$40–$100 with obi.**
+
+
+---
+
 ## Pressings to avoid
 
-**Waxtime, DOL, and similar EU reissues:** These budget reissues are cut from digital sources. [Discogs](https://www.discogs.com/master/302135-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) owner who compared the Waxtime against the Acoustic Sounds: "The new Acoustic Sounds AAA 33rpm is better. Not massively better, just better in terms of realism and clarity. That being said, Waxtime pressings are less than half the price." For a budget introduction to the album, the Waxtime is adequate; for serious listening, it is not recommended.
+**Waxtime, DOL, and similar EU reissues:** These budget reissues are cut from digital sources. The [Waxtime 180g pressing (r3549349)](https://www.discogs.com/release/3549349-Clifford-Brown-Max-Roach-Clifford-Brown-Max-Roach) is the most commonly encountered. One Discogs owner who compared it against the Acoustic Sounds: "The new Acoustic Sounds AAA 33rpm is better. Not massively better, just better in terms of realism and clarity. That being said, Waxtime pressings are less than half the price." For a budget introduction to the album, the Waxtime is adequate; for serious listening, it is not recommended.
 
 **Tone Poet note:** No Tone Poet edition exists or is expected – this is an EmArcy/Verve title, not a Blue Note recording.
 
@@ -89,7 +96,9 @@ Stereophile reviewed it (February 2013, Record of the Month, Performance ★★�
 
 ## Buyer's guide by budget
 
-**Under $50:** The [**Acoustic Sounds Series 180g mono (2025, AEMA 78844)**](https://www.discogs.com/master/302135-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – Matthew Lutthans, QRP, the definitive accessible modern option. ~$35–$45 new from Acoustic Sounds.
+**Under $50:** The [**Acoustic Sounds Series AEMA 78844 180g mono (2025)**](https://www.discogs.com/master/302135-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – Matthew Lutthans, QRP, the definitive accessible modern option. ~$35–$45 new from Acoustic Sounds.
+
+**$40–$100:** A [**Japanese Mercury/EmArcy pressing with obi**](https://www.discogs.com/master/302135-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – dead-quiet vinyl, warm mono character; strong secondary option.
 
 **$200–$600:** An original [**EmArcy MG-36036 12" mono (1955)**](https://www.discogs.com/release/2862128-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) in honest VG+ – the collector's original, noting that the Acoustic Sounds remaster may actually outperform it sonically.
 
@@ -104,5 +113,6 @@ Stereophile reviewed it (February 2013, Record of the Month, Performance ★★�
 | **S** | Acoustic Sounds Series 180g mono | AEMA 78844 | 2025 | Mono, 33⅓, 180g | Orig tapes → Lutthans, The Mastering Lab, QRP | Gatefold tip-on; "recorded 70 years ago, sounds like yesterday"; ~$35–$45 | [Discogs](https://www.discogs.com/master/302135-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
 | **A** | Original EmArcy MG-36036 12" mono | MG-36036 | 1955 | Mono, 33⅓ | Original EmArcy lacquer | Matrix MG36036A MF4; $200–$600 NM | [Discogs](https://www.discogs.com/release/2862128-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
 | **A** | Mosaic MRLP 3004 4LP box set | MRLP 3004 | 2012 | Mono, 33⅓, 4×180g | Orig tapes → Ryan Smith, Sterling Sound, RTI | All 4 quintet albums; 2,500 copies; OOP $400–$700 | [Discogs](https://www.discogs.com/release/4497482-Clifford-BrownMax-Roach-The-Clifford-BrownMax-Roach-Emarcy-Albums) |
-| **B** | Original EmArcy MG-26043 10" mono | MG-26043 | 1954 | Mono, 10" | Original EmArcy lacquer | 5 tracks only; extremely rare; $400–$1,000+ NM | [Discogs](https://www.discogs.com/master/302134-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
+| **B** | Original EmArcy MG-26043 10" mono | MG-26043 | 1954 | Mono, 10" | Original EmArcy lacquer | 5 tracks only; extremely rare; $400–$1,000+ NM | [Discogs](https://www.discogs.com/release/4869491-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
+| **C** | Japanese Mercury/EmArcy pressing | 15PJ-2018(M) | 1971–80s | Mono, 33⅓ | Licensed Japanese pressing | Dead-quiet vinyl; warm; $40–$100 with obi | [Discogs](https://www.discogs.com/master/302135-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
 | **D** | Waxtime / DOL / budget EU reissues | Various | 2000s+ | Mono, 33⅓ | Digital source | Adequate entry point; not recommended for serious listening | – |
