@@ -6,7 +6,7 @@
 
 This was nominally Adderley's date, but Davis's contractual arrangement with Columbia made him a guest – which is why the back cover states he "performs by courtesy of Columbia Records." In practice Davis led the session: he called most of the tunes, wrote the title track, and played the head melodies on "Autumn Leaves" and "Love for Sale" with Hank Jones while Adderley sat out until his solo choruses. It is one of the few times Davis recorded as a sideman after the mid-1950s. [AllMusic](https://www.allmusic.com/album/somethin-else-mw0000247835) calls it "one of the most gloriously laid-back blowing sessions of the hard bop era… in which both horn players are at their peak of lyrical invention." The Penguin Guide to Jazz selected it for the Core Collection.
 
-The original mono is the definitive presentation – the only format recommended for listening. The mono tape captures Davis's muted trumpet with extraordinary intimacy and places Blakey's drums in the room with the listener. The Analogue Productions 45rpm 2LP and the MoFi UltraDisc One-Step are the two premium modern options; the Blue Note Classic Vinyl offers daily-listener quality at a fraction of the price.
+The original mono is the definitive presentation – the only format recommended for listening. The mono tape captures Davis's muted trumpet with extraordinary intimacy and places Blakey's drums in the room with the listener. Four premium modern options exist – Analogue Productions' 45rpm, the MoFi UltraDisc One-Step, Music Matters' 33⅓, and Classic Records' QUIEX SV-P – with the Blue Note Classic Vinyl offering daily-listener quality at a fraction of the price.
 
 **Best early pressing for audiophiles:** [Original Blue Note BLP 1595 mono, 47 West 63rd label](https://www.discogs.com/release/982633-Cannonball-Adderley-Somethin-Else) – deep groove both sides, RVG etched, Plastylite P; $400–$900 NM.
 
@@ -60,6 +60,12 @@ Later mono pressings show the "New York USA" address, which began appearing arou
 
 ---
 
+## Japanese pressings
+
+**Toshiba EMI (1984)**, licensed from Capitol Records, part of the BLP 1500 series reissued for the Japanese market with a Swing Journal Seal of Approval sticker. [Discogs](https://www.discogs.com/release/3504030-Cannonball-Adderley-Somethin-Else) Collectors consistently praise the dead-quiet vinyl typical of Japanese pressings from this era, with an included obi. **$40–$90 with obi.**
+
+---
+
 ## The reissue hierarchy
 
 ### MoFi UltraDisc One-Step 45rpm 2LP (2019) – the current summit
@@ -68,11 +74,19 @@ Later mono pressings show the "New York USA" address, which began appearing arou
 
 **MoFi-gate provenance note:** The 2022 disclosure confirmed MoFi's mastering chain involves a DSD intermediate step even on the UD1S format – the chain is analog tape → DSD → analog console → lathe, not fully analog. This does not negate the pressing quality, but collectors seeking a confirmed AAA chain should note this. Discogs: "Overall great instrument separation, but the soundstage is a bit marred by occasional right channel distortion from the miking of Blakey's cymbals on 'Daddy-O.' Even with that, this is now my go-to listen for this legendary album." Another owner who compared against the AP: "I've heard and owned three audiophile versions of this record and this one-step is easily my least favourite… For my personal taste the AP takes the prize. There is so much air between the instruments, the soundstage is wide and expansive." **$300–$500 secondary market.**
 
-### Analogue Productions 45rpm 2LP (2010) – the AAA benchmark
+### Analogue Productions 45rpm 2LP (2008) – the AAA benchmark
 
 **Cat. AP-81595** | Format: 2×200g LP, 45rpm, gatefold. **Mastered by Kevin Gray and Steve Hoffman at AcousTech, AAA, from the original mono master tape. Pressed at QRP.** Michael Fremer's *AnalogPlanet* review describes the mastering sessions: "As much as I'd love to relay all kinds of anecdotes about the challenges Steve Hoffman and Kevin Gray encounter during the mastering sessions, I witness none. These boys know the sound of the facility and the Van Gelder masters like the backs of their hands... Back home a month later, I unpack some test pressings Chad Kassem has sent me… I hear the most realistic-sounding drums ever reproduced by my system."
 
 Discogs owners: "Every bit as good as you would expect it to be. If you love this album, then you want this pressing." "Quite possibly the best jazz pressing I own, simply stunning." A direct AP vs MoFi comparison on Discogs: "The AP takes the prize. There is so much air between the instruments, the soundstage is wide and expansive. The audio has that 'it sounds like they are in the room' vibe. The bass/low end is fantastic on this release, tight and pronounced." Given that the AP is fully AAA and the MoFi involves a DSD step, many informed collectors now rate the AP above the One-Step. **$80–$150 secondary.**
+
+### Classic Records QUIEX SV-P mono (2002) – the earlier AAA option
+
+**Cat. BLP 1595** | Format: 200g LP, 33⅓, mono, replica deep-groove label. **Mastered and lacquers cut by Bernie Grundman.** Also issued as a separate stereo edition on the BST 81595 catalog. AnalogPlanet's Michael Fremer: "these 200-gram Quiex SV-P reissues sound superb by any standard. They are not bright or edgy, nor are they rolled-off and warm sounding... I think that with these latest Blue Note jazz titles, Classic and Grundman have gotten to the essence of what's on the tapes and what Rudy Van Gelder intended them to sound like." Out of print since Classic Records closed; a genuine AAA alternative to the AP and Music Matters lineages when it surfaces used. [Discogs](https://www.discogs.com/release/16266778-Cannonball-Adderley-Somethin-Else) **$60–$150 secondary.**
+
+### Music Matters 33⅓ 180g (2014) – the tip-on gatefold option
+
+**Cat. MM33-1595** | Format: 180g LP, 33⅓, gatefold tip-on jacket with session photos, limited to 2,500 copies. **Remastered by Kevin Gray at Cohearent Audio from the original Van Gelder Blue Note master tapes. Pressed at RTI.** Widely praised on release – AllAboutJazz called the Music Matters 33⅓ series' sound "spectacular" – and generally rated alongside the AP and Classic Records as one of the finest analog cuts of this title, in a more elaborate package than either. Out of print. [Discogs](https://www.discogs.com/release/6243620-Cannonball-Adderley-Somethin-Else) **$100–$200 secondary.**
 
 ### Blue Note Classic Vinyl 180g mono (2020) – the recommended entry point
 
@@ -106,10 +120,13 @@ Discogs owners: "Every bit as good as you would expect it to be. If you love thi
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | AP 45rpm 2LP | AP-81595 | 2010 | Mono, 45rpm, 2×200g | Orig mono tape → Kevin Gray & Steve Hoffman, AAA, QRP | Fully AAA; many prefer to MoFi; $80–$150 secondary | [Discogs](https://www.discogs.com/release/2552019-Cannonball-Adderley-Somethin-Else) |
+| **S** | AP 45rpm 2LP | AP-81595 | 2008 | Mono, 45rpm, 2×200g | Orig mono tape → Kevin Gray & Steve Hoffman, AAA, QRP | Fully AAA; many prefer to MoFi; $80–$150 secondary | [Discogs](https://www.discogs.com/release/2552019-Cannonball-Adderley-Somethin-Else) |
 | **S** | MoFi UltraDisc One-Step 45rpm | UD1S 2-022 | 2019 | Mono, 45rpm, 2×180g | Orig mono tape → DSD → lathe, QRP | One-step plating; DSD chain; 5,000 copies; $300–$500 | [Discogs](https://www.discogs.com/release/13949563-Cannonball-Adderley-Somethin-Else) |
 | **A** | Original BLP 1595 mono, 47 W 63rd no-Inc. | BLP 1595 | 1958 | Mono, 33⅓ | RVG etched / Plastylite P; first pressing | Deep groove; $400–$900 NM | [Discogs](https://www.discogs.com/release/982633-Cannonball-Adderley-Somethin-Else) |
+| **A** | Music Matters 33⅓ 180g | MM33-1595 | 2014 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, Cohearent Audio, RTI | Limited/2,500; gatefold tip-on with session photos; $100–$200 | [Discogs](https://www.discogs.com/release/6243620-Cannonball-Adderley-Somethin-Else) |
+| **A** | Classic Records QUIEX SV-P mono | BLP 1595 | 2002 | Mono, 33⅓, 200g | Orig tape → Bernie Grundman, AAA | OOP; genuine AAA alternative; $60–$150 secondary | [Discogs](https://www.discogs.com/release/16266778-Cannonball-Adderley-Somethin-Else) |
 | **B** | Blue Note Classic Vinyl 180g mono | B0032209-01 | 2020 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Best value; ~$20–$30 new | [Discogs](https://www.discogs.com/release/16941781-Cannonball-Adderley-Somethin-Else) |
+| **B** | Japanese Toshiba EMI pressing | BLP 1595 | 1984 | Mono, 33⅓ | Licensed Japanese pressing | Dead-quiet vinyl; Swing Journal seal; $40–$90 with obi | [Discogs](https://www.discogs.com/release/3504030-Cannonball-Adderley-Somethin-Else) |
 | **C** | NY USA label mono reissue | BLP 1595 | c.1962–67 | Mono, 33⅓ | RVG-etched stampers (earlier copies) | Check deadwax for RVG etching; $100–$250 VG+ | [Discogs](https://www.discogs.com/master/118117-Cannonball-Adderley-Somethin-Else) |
 | **D** | BST 81595 rechanneled stereo | BST 81595 | 1960s+ | Fake stereo | Rechanneled from mono | Artificial separation; not recommended | – |
 | **D** | Liberty / UA / EMI reissues | Various | 1966–90s | Mono, 33⅓ | Dubs or secondary metalwork | Not recommended over Classic Vinyl | – |
