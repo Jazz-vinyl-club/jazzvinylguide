@@ -122,6 +122,11 @@ The reception has been divided: most owners praise it highly – "truly remarkab
 
 ---
 
+### Electric Recording Company (ERC) mono – the collector's pinnacle
+
+Limited to approximately 300 copies; sells for **$400–$600+** on the secondary market. Mastered by Pete Hutchison at Electric Recording Company (London) using Lyrec/EMI tube tape machines and an Ortofon cutting head – no processing, no EQ, no compression. [Stereophile reviewed it](https://www.stereophile.com/content/revinylization-30-coltranes-giant-steps-electric-recording-company): "Coltrane's tenor sax pops out of the soundstage, 3D, brimming of brass, billowing with air: You can practically see him blowing into the mouthpiece... the piano's tones, chords, and overtones are perfectly clear, as are Chambers's bass walks — which you cannot say about any other reissue of this album." For those who have heard it, the consensus is that it is the finest vinyl presentation of this album in existence. For almost all collectors, the Rhino High Fidelity 2026 covers the same mono ground at a fraction of the price. Worth knowing about; essentially impossible to acquire at release price.
+
+
 ## Japanese pressings
 
 The 2018 Warner Music Japan mono reissue (**WPJR-10029**) is the most praised specific Japanese pressing in collector discussions. One owner: "This is, hands down, THE best pressing I have and have ever heard! The sound is spectacular.. rich, fat and deep with no noise at all.. the sound is much better than my old murky US blue/green stereo issue. Detailed, still natural and 'live' sounding." The master engineer confirmed in an interview that "I did not use any digital equipment at all." This is a highly recommended pressing for those who can find it. **$60–$120 with obi.**
