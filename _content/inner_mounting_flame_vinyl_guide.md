@@ -2,7 +2,7 @@
 
 ## Summary
 
-*The Inner Mounting Flame* was recorded on **August 14, 1971** at CBS Studios, New York City. Personnel: John McLaughlin (acoustic and electric guitars); Jerry Goodman (acoustic and electric violins); Jan Hammer (Fender Rhodes, ring modulator, piano); Rick Laird (electric bass); Billy Cobham (drums). Produced by **John McLaughlin**; engineered by **Don Puluse**. Released **November 3, 1971** on Columbia Records as **KC 31067**. The album is credited to "The Mahavishnu Orchestra with John McLaughlin." All compositions by John McLaughlin. Named Downbeat's album of the year in 1972 in both the Jazz and Pop album categories simultaneously – a distinction unique in the magazine's history.
+*The Inner Mounting Flame* was recorded on **August 14, 1971** at CBS Studios, New York City. Personnel: John McLaughlin (acoustic and electric guitars); Jerry Goodman (acoustic and electric violins); Jan Hammer (Fender Rhodes, ring modulator, piano); Rick Laird (electric bass); Billy Cobham (drums). Produced by **John McLaughlin**; engineered by **Don Puluse**. Released **November 3, 1971** on Columbia Records as **KC 31067**. The album is credited to "The Mahavishnu Orchestra with John McLaughlin." All compositions by John McLaughlin.
 
 Five musicians from five countries – McLaughlin (English), Cobham (Panamanian), Hammer (Czech), Goodman (American), Laird (Irish) – in a single week of rehearsals produced music that defined jazz-rock fusion and has not been surpassed in its idiom. The original US Columbia pressing is the reference; the Speakers Corner 180g and Friday Music clear vinyl are the two meaningful modern options, both made from the original analogue tapes and drawing genuinely contrasting reviews.
 
