@@ -111,9 +111,9 @@ A companion **Blue Train: The Complete Masters 2LP stereo** (cat. B0035203-01, s
 
 **$60–$90:** The [**Tone Poet Complete Masters 2LP stereo (B0035204-01)**](https://www.discogs.com/release/24522110-John-Coltrane-Blue-Train-The-Complete-Masters) – Kevin Gray stereo cut, 7 bonus takes, bound booklet. Best value for stereo listeners; Analog Planet rated it the superior choice for headphone listening.
 
-**$100–$200:** The [**Analogue Productions 45rpm 2LP stereo (ABNJ-81577)**](https://www.discogs.com/release/9908455-John-Coltrane-Blue-Train) – Kevin Gray and Steve Hoffman, 200g QRP. The stereo counterpart to the Tone Poet mono; TAS Super LP. For listeners who prefer the stereo presentation.
-
 **$60–$120:** A [**Japanese King GXK-8055 (1978)**](https://www.discogs.com/release/2912145-John-Coltrane-Blue-Train) with obi – LJC's preferred Japanese option; "closer to the originals" than Toshiba pressings; dead-quiet King vinyl.
+
+**$100–$200:** The [**Analogue Productions 45rpm 2LP stereo (ABNJ-81577)**](https://www.discogs.com/release/9908455-John-Coltrane-Blue-Train) – Kevin Gray and Steve Hoffman, 200g QRP. The stereo counterpart to the Tone Poet mono; TAS Super LP. For listeners who prefer the stereo presentation.
 
 **$150–$300:** The [**Music Matters original 33rpm (MMBLP-1577)**](https://www.discogs.com/release/5349832-John-Coltrane-Blue-Train) – the first MM pressing, 3,500 copies, RTI. The more commonly traded MM version.
 
