@@ -2,11 +2,9 @@
 
 ## Summary
 
-*Go!* was recorded on **August 27, 1962** at Van Gelder Studio, Englewood Cliffs, New Jersey. Personnel: Dexter Gordon (tenor saxophone); Sonny Clark (piano); Butch Warren (bass); Billy Higgins (drums). Produced by **Alfred Lion**; engineered by **Rudy Van Gelder**. Released **December 1962** on Blue Note as **BLP 4112** (mono) and **BST 84112** (stereo). The album title is borrowed from the Beat generation – specifically the 1952 novel by John Clellon Holmes, the first published novel to use the word "beat" to describe the postwar generation. Selected by the Library of Congress for the National Recording Registry in 2019.
+*Go!* was recorded on **August 27, 1962** at Van Gelder Studio, Englewood Cliffs, New Jersey. Personnel: Dexter Gordon (tenor saxophone); Sonny Clark (piano); Butch Warren (bass); Billy Higgins (drums). Produced by **Alfred Lion**; engineered by **Rudy Van Gelder**. Released **December 1962** on Blue Note as **BLP 4112** (mono) and **BST 84112** (stereo). The album title is borrowed from the Beat generation – specifically the 1952 novel by John Clellon Holmes, the first published novel to use the word "beat" to describe the postwar generation.
 
-Gordon named *Go!* the favourite of all his recordings, and the reason he gave was the rhythm section: "The perfect rhythm section which made it possible for me to play whatever I wanted to play." Sonny Clark died in January 1963 aged 31 – just four months after this session – making this among his finest and last recordings. Gordon nicknamed Billy Higgins "Smiling Billy," saying that whenever he looked over at him, he knew everything was going to be OK. The recording is hard bop at full stretch: big tone, storytelling solos, and a rhythm section that swings without effort.
-
-The Analogue Productions 45rpm 2LP is the S-tier reference pressing. The Music Matters 33rpm is the excellent alternative when the AP is unavailable. The Blue Note Classic Vinyl is the entry-level option with some documented QC variation.
+Gordon named *Go!* the favourite of all his recordings: "The perfect rhythm section which made it possible for me to play whatever I wanted to play." Sonny Clark died in January 1963 aged 31 – just four months after this session – making this among his finest and last recordings. The recording is hard bop at full stretch: big tone, storytelling solos, and a rhythm section that never lets up. The Analogue Productions 45rpm 2LP is the reference pressing; the Music Matters 33rpm is the excellent alternative; the Blue Note Classic Vinyl is the accessible entry point.
 
 **Best early pressing for audiophiles:** [Original Blue Note BLP 4112 mono, NY USA label](https://www.discogs.com/release/1988407-Dexter-Gordon-Go) – deep groove, Van Gelder stamp, Plastylite ear; $300–$700 NM.
 
@@ -33,7 +31,7 @@ The quartet assembled for the August 27 session had never played together as a u
 
 **Cover design:** Reid Miles designed the cover – one of his most striking Blue Note compositions. A Francis Wolff photograph of Gordon shot from below, cigarette in hand, looking down with characteristic ease. The low angle emphasises Gordon's extraordinary height and physical presence. Cigarettes appear regularly on Gordon's album covers; Wolff had a gift for capturing musicians in unguarded, human moments rather than posed portraits.
 
-**Critical reception:** AllMusic gives *Go!* five stars, calling it "one of the jewels of the entire Blue Note catalog. Muscular yet brooding, it's one of the greatest hard bop albums of all time." The Penguin Guide to Jazz selected it for the Core Collection. The Library of Congress inducted it into the National Recording Registry in 2019. Gordon named it his favourite of all his recordings.
+**Critical reception:** AllMusic gives *Go!* five stars, calling it "one of the jewels of the entire Blue Note catalog. Muscular yet brooding, it's one of the greatest hard bop albums of all time." The Penguin Guide to Jazz selected it for the Core Collection. In 2019 it was inducted into the Library of Congress National Recording Registry as culturally, historically, or aesthetically significant. Gordon named it his favourite of all his recordings.
 
 **Tape provenance:** The original Alfred Lion–era tapes are in the Blue Note/Universal archive. Analogue Productions confirmed working from the original Blue Note master tapes at AcousTech. Music Matters and the Classic Vinyl series both confirmed all-analog from original master tapes.
 
