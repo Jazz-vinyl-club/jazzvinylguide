@@ -126,9 +126,9 @@ The 1987 OJC reissue is an analogue pressing. The Broken Record shootout finds "
 
 **$60–$90:** The [**AP 200g or 180g mono 33rpm**](https://www.discogs.com/release/4403277) is the definitive modern choice. The pressing is genuinely on par with or surpasses the original for most listeners. Buy new if available.
 
-**$80–$250:** A clean [**Bergenfield second pressing**](https://www.discogs.com/release/7230759) with RVG hand-etched gives you the original Van Gelder metalwork at a fraction of the first-pressing price. Sonically considered equivalent to the 446 W. 50th first pressing.
-
 **$60–$120:** The [**DCC GZS-1062**](https://www.discogs.com/release/4085008) if you can find one – Steve Hoffman's tube-cut all-vinyl mastering is genuinely special and has strong advocates.
+
+**$80–$250:** A clean [**Bergenfield second pressing**](https://www.discogs.com/release/7230759) with RVG hand-etched gives you the original Van Gelder metalwork at a fraction of the first-pressing price. Sonically considered equivalent to the 446 W. 50th first pressing.
 
 **$400+:** The [**yellow-label 446 W. 50th first pressing**](https://www.discogs.com/release/3934932) in honest VG+ or better. Understand that truly NM copies are mythological; factor groove condition heavily.
 
