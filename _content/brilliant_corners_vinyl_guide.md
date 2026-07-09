@@ -56,7 +56,7 @@ The true first pressing carries white labels with the "mic and reels" logo and "
 
 ### Analogue Productions Mono LP (AAPJ 12-226) – the easiest excellent pressing to find
 
-**Cat. AAPJ 12-226** | Format: Mono, 180g, 33⅓rpm, 2024 | **Cut by Kevin Gray at AcousTech Mastering from the original tapes, pressed at QRP.** Uses the same metalwork as the *Thelonious Monk – The Riverside Tenor Sessions* box set. Released under license from Concord/Craft; the AAPJ catalog number appears only on the barcode sticker, while the jacket and label still read RLP 12-226. New copies typically run $30–85 and are the most practical route to an all-analog, professionally mastered pressing.
+**Cat. AAPJ 12-226** | Format: Mono, 180g, 33⅓rpm, 2023 | **Cut by Kevin Gray at AcousTech Mastering from the original tapes, pressed at QRP.** Uses the same metalwork as the *Thelonious Monk – The Riverside Tenor Sessions* box set. Released under license from Concord/Craft; the AAPJ catalog number appears only on the barcode sticker, while the jacket and label still read RLP 12-226. New copies typically run $30–85 and are the most practical route to an all-analog, professionally mastered pressing.
 
 ### Original Jazz Classics (OJC-026) – the value original-era reissue
 
@@ -66,7 +66,7 @@ The true first pressing carries white labels with the "mic and reels" logo and "
 
 ## Pressings to avoid
 
-This title has been reissued more than 100 times, and a wave of European public-domain labels – Ermitage, Wax Time, Not Now, DOL, and others – has released cheap colored-vinyl and budget-black-vinyl copies sourced from compressed digital masters (CD rips or worse) rather than the analog tapes. A current example actively sold new through UK and EU retailers is a yellow-vinyl Ermitage pressing (item code VNL22709, 2025); collectors who've compared it to the tape-sourced pressings describe the bass and drums as badly degraded. None of these are bootlegs or fakes in the legal sense – EU copyright term has lapsed on this recording – but their novelty packaging can make them look like legitimate collectible pressings to buyers who don't know their source is digital.
+This title has been reissued more than 100 times, and a wave of European public-domain labels – Ermitage, Wax Time, Not Now, DOL, and others – has released cheap colored-vinyl and budget-black-vinyl copies sourced from compressed digital masters (CD rips or worse) rather than the analog tapes. A current example actively sold new through UK and EU retailers is a yellow-vinyl Ermitage pressing (item code VNL22709, 2024); collectors who've compared it to the tape-sourced pressings describe the bass and drums as badly degraded. None of these are bootlegs or fakes in the legal sense – EU copyright term has lapsed on this recording – but their novelty packaging can make them look like legitimate collectible pressings to buyers who don't know their source is digital.
 
 ---
 
@@ -86,7 +86,7 @@ This title has been reissued more than 100 times, and a wave of European public-
 | **S** | Electric Recording Co. "True Mono" | ERC051 | 2020 | Mono, 12" | All-analog, cut on restored vintage tube chain by Pete Hutchison | Edition of 300; closest thing to the master tape; reception is divisive at this price | [Discogs](https://www.discogs.com/release/15132913-Thelonious-Monk-Brilliant-Corners) |
 | **S** | Craft Recordings Small Batch (one-step) | CR00502 | 2023 | Mono, 180g | AAA, Bernie Grundman, one-step, RTI | Numbered/4,000; best balance of sound and attainability | [Discogs](https://www.discogs.com/release/28210087-Thelonious-Monk-Brilliant-Corners) |
 | **A** | Analogue Productions 45rpm | AJAZ 12-226 | 2003 | Mono, 2LP, 45rpm | Kevin Gray & Steve Hoffman, RTI | Out of print; extraordinarily transparent | [Discogs](https://www.discogs.com/release/3917269-Thelonious-Monk-Brilliant-Corners) |
-| **A** | Analogue Productions mono LP | AAPJ 12-226 | 2024 | Mono, 180g | Kevin Gray, QRP | Easiest high-end pressing to buy new | [Discogs](https://www.discogs.com/release/30804867-Thelonious-Monk-Brilliant-Corners) |
+| **A** | Analogue Productions mono LP | AAPJ 12-226 | 2023 | Mono, 180g | Kevin Gray, QRP | Easiest high-end pressing to buy new | [Discogs](https://www.discogs.com/release/30804867-Thelonious-Monk-Brilliant-Corners) |
 | **B** | Original Riverside first pressing | RLP 12-226 | 1957 | Mono | Original 1957 mastering | White label, deep groove, "418 West 49th St" jacket = true first pressing | [Discogs](https://www.discogs.com/release/3835076-Thelonious-Monk-Brilliant-Corners) |
 | **B** | Original Jazz Classics reissue | OJC-026 | 1982 | Mono | Fantasy reissue; Carrollton, GA (Columbia) pressings are quietest | Facsimile sleeve; seek the Carrollton "G1" runout | [Discogs](https://www.discogs.com/release/33022326-Thelonious-Monk-Brilliant-Corners) |
 | **C** | Japanese Riverside/Milestone reissue | SMJ-6136(M) | 1976 | Mono | Japanese pressing | Well-regarded vintage Japan pressing; very quiet vinyl | [Discogs](https://www.discogs.com/release/2117287-Thelonious-Monk-Brilliant-Corners) |
