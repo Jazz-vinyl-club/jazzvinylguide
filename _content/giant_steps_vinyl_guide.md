@@ -2,7 +2,7 @@
 
 ## Summary
 
-*Giant Steps* was recorded across two sessions at Atlantic's 56th Street studio in New York City: the main session on **May 4–5, 1959**, which captured six of the seven tracks with Tommy Flanagan (piano), Paul Chambers (bass), and Art Taylor (drums); and a separate session on **December 2, 1959** for "Naima," which used the Kind of Blue rhythm section of Wynton Kelly (piano), Paul Chambers (bass), and Jimmy Cobb (drums). Engineers were Tom Dowd and Phil Iihle; produced by Nesuhi Ertegun; released in January 1960. It was Coltrane's debut for Atlantic after leaving Prestige, and liner notes were by Nat Hentoff.
+*Giant Steps* was recorded across two sessions at Atlantic's 56th Street studio in New York City: the main session on **May 4–5, 1959**, which captured six of the seven tracks with Tommy Flanagan (piano), Paul Chambers (bass), and Art Taylor (drums); and a separate session on **December 2, 1959** for "Naima," which used the Kind of Blue rhythm section of Wynton Kelly (piano), Paul Chambers (bass), and Jimmy Cobb (drums). Engineers were Tom Dowd and Phil Iihle; produced by Nesuhi Ertegun; released in January 1960. It was Coltrane's debut for Atlantic after leaving Prestige, and liner notes were by Nat Hentoff. The album was inducted into the Grammy Hall of Fame in 2001.
 
 The recording sits at the centre of an unresolved collector debate about mono vs. stereo. Dowd used an Ampex 300-8R eight-track recorder and produced discrete mixes of both – neither is a fold-down. The stereo places the saxophone and piano hard left with bass and drums hard right, with no centre image; Coltrane's presence collapses compared to the mono, where he commands centre. The mono is almost universally preferred by collectors who have compared both formats in depth. A further complication: the original stereo first pressing's label has been the subject of genuine controversy, resolved only recently by detailed Popsike and collector research.
 
@@ -104,11 +104,11 @@ The current stereo benchmark at an accessible price. Discogs: "I spent much of m
 
 ### Rhino Reserve 180g stereo (2025)
 
-**Cat. RES1 1311** | Format: single 180g LP, 33⅓, stereo. **Lacquers cut from the original analog stereo master by Matthew Lutthans at The Mastering Lab. Pressed at Fidelity Record Pressing**, Oxnard, California. Part of Rhino's Rhino Reserve series, available through major retailers including Target.
+**Cat. ATL-1311 (Rhino Reserve)** | Format: single 180g LP, 33⅓, stereo. **Lacquers cut from the original analog stereo master by Matthew Lutthans at The Mastering Lab. Pressed at Fidelity Record Pressing**, Oxnard, California. Part of Rhino's Rhino Reserve series; available through major retailers including Target. The matrix prefix "RES1-1311" in the deadwax identifies this pressing.
 
 The most affordable new stereo pressing in the catalogue and receiving some of the strongest reviews of any modern pressing. Discogs: "This might be the best sounding record in my collection!" "I can only add to the positive reviews. I don't even like Giant Steps in stereo very much but this feels immediately different to every other way I've heard it. The mix has always felt quite muddy, sometimes even veiled. At least to me. But this is warm and inviting while also having a lot of detail." **~$20–$25 new.**
 
-There is also a companion **Rhino Reserve mono** edition (**Cat. RM1 1311**) in a gatefold jacket with Kevin Gray mastering – also receiving strong reviews: "I own three copies of this record and this, by far, is the best pressing. Everyone needs to experience this record in mono." This appears to use the same Kevin Gray cut as the RHF box set but in different packaging.
+There is also a **Rhino Reserve mono** edition (**matrix prefix RM1 1311**) in a gatefold jacket, confirmed from Discogs master page reviews. This is a separate product from the Rhino High Fidelity 2026 mono — it is a Rhino Reserve series release, also Kevin Gray–mastered per owner reports ("Get the full Kevin Grey treatment while you can"). The Reserve mono has received strong reviews: "I own three copies of this record and this, by far, is the best pressing. Everyone needs to experience this record in mono." A specific Discogs release number has not been confirmed at the time of writing — search the [Discogs master page](https://www.discogs.com/master/32236-John-Coltrane-Giant-Steps) for the most current listing.
 
 ### Rhino mono 180g (2017)
 
@@ -116,7 +116,7 @@ There is also a companion **Rhino Reserve mono** edition (**Cat. RM1 1311**) in 
 
 ### Rhino Hi-Fi mono 180g (2026)
 
-**Cat. RHF 1311** | Part of Rhino's "Start Your Ear Off Right" series. Format: single 180g mono, 33⅓. **Mastered by Kevin Gray at Cohearent Audio, AAA from original master tapes. Pressed at Optimal Media.** Heavyweight gatefold jacket with alternate art from the original French pressing. This is the first properly credited, all-analogue mono cut of *Giant Steps*.
+**Cat. 1311 (Atlantic)** | Part of the **Rhino High Fidelity** series ("Start Your Ear Off Right 2026" indie exclusive, Jan. 9, 2026). Format: single 180g mono, 33⅓. **Mastered by Kevin Gray at Cohearent Audio, AAA from the original mono master tapes. Pressed at Optimal Media.** Heavyweight gatefold jacket with alternate French cover art on the front, original US art inside. Originally a breakout from the "John Coltrane: 1960–1964" Rhino High Fidelity box set (limited to 2,000 numbered copies). This is the first properly credited all-analogue mono pressing of *Giant Steps*, confirmed from the liner notes.
 
 The reception has been divided: most owners praise it highly – "truly remarkable pressing.. the drums come through a lot clearer too. Very warm pressing, really sounds like Coltrane and his band are in the room with you." However one owner who also has the 2017 Rhino mono finds the 2026 "a softer listen. Clean, solid and safe. But maybe a bit too safe and soft. The 2017 is abit more fiery." For those who prefer warmth and refinement, this is the current best mono option. For those who want more forward, punchy mono, the 2017 may suit better – an unusual situation. **~$30–$40 new.**
 
@@ -142,7 +142,7 @@ Toshiba-EMI pressed Atlantic Coltrane titles throughout the 1970s–80s and thes
 
 **$30–$40:** The [**Rhino 60th Anniversary 180g stereo (2020)**](https://www.discogs.com/release/15928051-John-Coltrane-Giant-Steps) for stereo, or the [**Rhino mono 2017**](https://www.discogs.com/release/10456756-John-Coltrane-Giant-Steps) for mono. Both excellent value.
 
-**$30–$40 new:** The [**Rhino Hi-Fi mono (RHF 1311, 2026)**](https://www.discogs.com/release/36150202-John-Coltrane-Giant-Steps) – Kevin Gray, AAA, Optimal; the first properly analogue mono pressing of Giant Steps at an accessible price.
+**$30–$40 new:** The [**Rhino High Fidelity mono (2026)**](https://www.discogs.com/release/36150202-John-Coltrane-Giant-Steps) – Kevin Gray, AAA, Optimal; gatefold French cover art; the first properly credited all-analogue mono pressing at an accessible price.
 
 **$50–$80:** The [**AP Atlantic 75 45rpm 2LP**](https://www.discogs.com/release/30051634-John-Coltrane-Giant-Steps) for the stereo audiophile summit. Know that you're buying into the hard-panned stereo mix; if that doesn't suit you, the Rhino Reserve stereo is the more enjoyable listen for most ears.
 
@@ -156,14 +156,14 @@ Toshiba-EMI pressed Atlantic Coltrane titles throughout the 1970s–80s and thes
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Rhino Hi-Fi mono 180g | RHF 1311 | 2026 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, AAA, Optimal | First properly credited AAA mono; warm character; ~$30–$40 | [Discogs](https://www.discogs.com/release/36150202-John-Coltrane-Giant-Steps) |
+| **S** | Rhino High Fidelity mono 180g | 1311 (Atlantic) | 2026 | Mono, 33⅓, 180g | Orig mono tape → Kevin Gray, AAA, Optimal | Rhino Hi-Fi SYEOR26; first credited AAA mono; gatefold French art; ~$30–$40 | [Discogs](https://www.discogs.com/release/36150202-John-Coltrane-Giant-Steps) |
 | **S** | AP Atlantic 75 45rpm 2LP | AAPA 010-45 | 2024 | Stereo, 45rpm, 2×180g | Orig tape → Ryan K. Smith, AAA, QRP | Best stereo; hard-panning inherent to mix; ~$50–$80 | [Discogs](https://www.discogs.com/release/30051634-John-Coltrane-Giant-Steps) |
 | **A** | Original mono black label | 1311 | 1960 | Mono, 33⅓, deep groove | Tom Dowd / Atlantic lacquer | Preferred format; Coltrane centred; $400–$800 NM | [Discogs](https://www.discogs.com/release/2155244-John-Coltrane-Giant-Steps) |
 | **A** | 2018 Warner Music Japan mono | WPJR-10029 | 2018 | Mono, 33⅓ | All-analogue Japanese cut | Engineer confirmed no digital; "best pressing I've heard"; $60–$120 | [Discogs](https://www.discogs.com/release/12605728-John-Coltrane-Giant-Steps) |
 | **A** | Rhino 60th Anniversary 2LP | SD 1311 | 2020 | Stereo, 33⅓, 2×180g | Orig tape → Ryan K. Smith, AAA | 2LP deluxe with 8 alt takes; strong reviews; ~$35–$50 | [Discogs](https://www.discogs.com/release/15928051-John-Coltrane-Giant-Steps) |
 | **B** | Original stereo bullseye | SD 1311 | 1960 | Stereo, 33⅓, deep groove | Tom Dowd / Atlantic lacquer | Green/blue bullseye (green top, blue bottom); hard-panned stereo; $200–$500 NM | [Discogs](https://www.discogs.com/release/2011442-John-Coltrane-Giant-Steps) |
-| **B** | Rhino Reserve stereo 180g | RES1 1311 | 2025 | Stereo, 33⅓, 180g | Orig stereo tape → Matthew Lutthans, Fidelity Record Pressing | "Best sounding record in my collection"; ~$20–$25 new | [Discogs](https://www.discogs.com/release/34957193-John-Coltrane-Giant-Steps) |
-| **B** | Rhino Reserve mono 180g gatefold | RM1 1311 | 2025 | Mono, 33⅓, 180g | Kevin Gray, Optimal | Gatefold; "by far the best pressing"; companion to RES1 1311 | [Discogs](https://www.discogs.com/release/34994063-John-Coltrane-Giant-Steps) |
+| **B** | Rhino Reserve stereo 180g | ATL-1311 | 2025 | Stereo, 33⅓, 180g | Orig stereo tape → Matthew Lutthans, Fidelity Record Pressing | "Best sounding record in my collection"; ~$20–$25 new | [Discogs](https://www.discogs.com/release/34957193-John-Coltrane-Giant-Steps) |
+| **B** | Rhino Reserve mono 180g gatefold | RM1 1311 (matrix) | 2025 | Mono, 33⅓, 180g | Kevin Gray, Optimal | Gatefold; "by far the best pressing"; distinct from Rhino Hi-Fi 2026 | [Discogs](https://www.discogs.com/master/32236-John-Coltrane-Giant-Steps) |
 | **B** | Rhino mono 180g | 1311 | 2017 | Mono, 33⅓, 180g | Possibly Kevin Gray (KPG@CA reported on some copies) | Some copies show KPG@CA deadwax; fiery character; well reviewed; ~$15–$25 | [Discogs](https://www.discogs.com/release/10456756-John-Coltrane-Giant-Steps) |
 | **B** | 1960s plum/orange Atlantic | SD 1311 / 1311 | 1962–68 | Stereo or mono, 33⅓ | Period Atlantic lacquer | "AT/GP" (Atlantic Studios/George Piros) deadwax variants particularly good; $20–$60 | [Discogs](https://www.discogs.com/master/32236-John-Coltrane-Giant-Steps) |
 | **B** | Japanese Warner-Pioneer SD-1311 | SD-1311 / P-series | 1972–75 | Stereo, 33⅓ | Licensed Japanese pressing | "Jazz Age" obi; JIS 〄 stamp; "noticeably better than the US 70s pressing"; $40–$80 with obi | [Discogs](https://www.discogs.com/release/4055226-John-Coltrane-Giant-Steps) |
