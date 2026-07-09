@@ -18,7 +18,7 @@ What followed became one of the most famous moments in jazz history. Gonsalves p
 
 The trouble was that the stage microphones – arranged for Columbia's recording rig – had missed much of Gonsalves's solo; separate microphones set up onstage for Willis Conover's Voice of America broadcast had captured it properly, but Columbia didn't have access to that feed. When George Avakian reviewed the tapes, he judged the crucial performance unusable for release. Rather than let the moment go unrecorded, Ellington and the band went into the studio the day after the festival and re-recorded large portions of the material – including a full re-creation of the Gonsalves solo – which Avakian then blended with usable live material and augmented with dubbed-in crowd noise to disguise the seams. The resulting LP, released within months, became Ellington's best-selling record ever. Only around 40% of what listeners heard on the original release was actually captured live at Newport; the rest was a studio reconstruction dressed up as a concert document.
 
-This wasn't confirmed publicly until 1996, when a tape surfaced in the Voice of America's own broadcast archive containing the true, unedited live performance – Gonsalves's actual solo, correctly captured on the VOA's own stage microphones. Producer Phil Schaap used this tape alongside Columbia's original live reels to assemble a full, accurate account of the concert, released in 1999 as the double-CD *Ellington at Newport 1956 (Complete)* – the first time the real performance had been heard by the public, in true stereo, more than four decades after the fact.
+This wasn't confirmed publicly until 1996, when a tape surfaced in the Voice of America's own broadcast archive containing the true, unedited live performance – Gonsalves's actual solo, correctly captured on the VOA's own stage microphones. Producer Phil Schaap used this tape alongside Columbia's original live reels to assemble a full, accurate account of the concert, released in 1999 as the double-CD *Ellington at Newport 1956 (Complete)* – the first time the real performance had been heard by the public, in a mix of mono and stereo, more than four decades after the fact.
 
 ---
 
@@ -32,11 +32,11 @@ This wasn't confirmed publicly until 1996, when a tape surfaced in the Voice of 
 
 ### Mobile Fidelity MOFI 1-035 – the modern standard
 
-**Cat. MOFI 1-035** | Format: Mono, numbered LP, Silver Label Series, 2022 | **Mastered from the original master tapes by Krieg Wunderlich (assisted by Rob LoVerde) at Mobile Fidelity, pressed at RTI/Fidelity Record Pressing.** Reception is generally strong – several owners describe the pressing as remarkably quiet and the crowd's reaction as viscerally present – though a meaningful minority of long-time Ellington collectors who own both an original and the MoFi still prefer the original specifically for how Ellington's own spoken introductions come through, describing the MoFi as comparatively flatter on his voice. Worth owning either way; just don't assume it automatically supersedes a clean original. [Discogs](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) **$25–$60.**
+**Cat. MOFI 1-035** | Format: Mono, numbered LP, Silver Label Series, 2013 | **Mastered from the original master tapes by Krieg Wunderlich (assisted by Rob LoVerde) at Mobile Fidelity, pressed at RTI (Record Technology Incorporated).** Reception is generally strong – several owners describe the pressing as remarkably quiet and the crowd's reaction as viscerally present – though a meaningful minority of long-time Ellington collectors who own both an original and the MoFi still prefer the original specifically for how Ellington's own spoken introductions come through, describing the MoFi as comparatively flatter on his voice. Worth owning either way; just don't assume it automatically supersedes a clean original. [Discogs](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) **$25–$60.**
 
 ### "Complete concert on vinyl" reissue (2013)
 
-A small-label vinyl reissue (catalog DOX904) advertises itself as the complete Newport concert on vinyl for the first time, drawing on the same expanded material assembled for the 1999 CD reissue. Useful for collectors who want the fuller performance in a physical vinyl format rather than only on CD, though it should be understood as a compilation product rather than a straightforward reissue of the original 1956 LP. [Discogs](https://www.discogs.com/release/15625375-Duke-Ellington-Ellington-at-Newport) **$20–$40.**
+An unofficial (bootleg) vinyl reissue (catalog DOX904) advertises itself as the complete Newport concert on vinyl for the first time, drawing on the same expanded material assembled for the 1999 CD reissue. Useful for collectors who want the fuller performance in a physical vinyl format rather than only on CD, though it should be understood as an unofficial, unlicensed product rather than a legitimate licensed reissue of the original 1956 LP. [Discogs](https://www.discogs.com/release/15625375-Duke-Ellington-Ellington-at-Newport) **$20–$40.**
 
 ---
 
@@ -48,13 +48,13 @@ CBS/Sony issued this title in Japan on more than one occasion, including a 1971 
 
 ## Pressings to avoid
 
-No specific bootleg or notably compromised pressing of this title is widely documented; the main thing to understand before buying *any* pressing, original or reissue, is that the record itself is a 1956 studio reconstruction dressed as a live document, not an accuracy issue specific to any particular pressing.
+No specific bootleg or notably compromised pressing of this title is widely documented beyond the unofficial DOX904 "complete concert" release discussed above, which is unlicensed and should be approached accordingly; the main thing to understand before buying *any* pressing, original or reissue, is that the record itself is a 1956 studio reconstruction dressed as a live document, not an accuracy issue specific to any particular pressing.
 
 ---
 
 ## Buyer's guide by budget
 
-**Under $40:** The [**DOX904 "complete concert" reissue**](https://www.discogs.com/release/15625375-Duke-Ellington-Ellington-at-Newport) if you specifically want the expanded, more accurate account of the concert on vinyl rather than the original's studio-reconstructed version.
+**Under $40:** The [**DOX904 "complete concert" reissue**](https://www.discogs.com/release/15625375-Duke-Ellington-Ellington-at-Newport) **(an unofficial release)** if you specifically want the expanded, more accurate account of the concert on vinyl rather than the original's studio-reconstructed version.
 **$40–$70:** The [**Mobile Fidelity MOFI 1-035**](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) if you want a guaranteed-quiet modern pressing.
 **$60–$100:** A clean [**original six-eye mono, CL 934**](https://www.discogs.com/release/689458-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) – genuinely attainable given how many copies were pressed, and arguably the most characterful-sounding option for Ellington's introductions.
 
@@ -65,6 +65,6 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
 | **A** | Original Columbia six-eye mono | CL 934 | 1956 | Mono, 33⅓ | Original 1956 Columbia mastering | Attainable given large original pressing run; $30–$100 | [Discogs](https://www.discogs.com/release/689458-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
-| **A** | Mobile Fidelity numbered mono | MOFI 1-035 | – | Mono, numbered LP | MoFi remastering | Quiet, strong pressing; some prefer original for Duke's voice; $25–$60 | [Discogs](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
-| **B** | Japanese CBS/Sony pressing | – | c.1975 | Mono, 33⅓ | Licensed Japanese pressing | Legitimate period item; no distinct audiophile reputation; $20–$50 | [Discogs](https://www.discogs.com/release/3630941-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
-| **B** | "Complete concert" 2LP reissue | DOX904 | 2013 | Mono/Stereo, 2LP | Compiled from 1999 Complete reissue material | The fuller, more accurate concert account on vinyl; $20–$40 | [Discogs](https://www.discogs.com/release/15625375-Duke-Ellington-Ellington-at-Newport) |
+| **A** | Mobile Fidelity numbered mono | MOFI 1-035 | 2013 | Mono, numbered LP | MoFi remastering | Quiet, strong pressing; some prefer original for Duke's voice; $25–$60 | [Discogs](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
+| **B** | Japanese CBS/Sony pressing | SOPL-153 | c.1975 | Mono, 33⅓ | Licensed Japanese pressing | Legitimate period item; no distinct audiophile reputation; $20–$50 | [Discogs](https://www.discogs.com/release/3630941-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
+| **B** | "Complete concert" 2LP reissue | DOX904 | 2013 | Stereo, 2LP | Compiled from 1999 Complete reissue material | Unofficial (bootleg) release; the fuller, more accurate concert account on vinyl; $20–$40 | [Discogs](https://www.discogs.com/release/15625375-Duke-Ellington-Ellington-at-Newport) |
