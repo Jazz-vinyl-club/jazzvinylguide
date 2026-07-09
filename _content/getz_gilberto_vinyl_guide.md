@@ -1,23 +1,20 @@
 # Getz/Gilberto on Vinyl: The Definitive Pressing Guide
 
----
-
-
 ## Summary
 
 *Getz/Gilberto* was recorded on March 18–19, 1963 at A&R Recording Studios in New York City, engineered by Phil Ramone at an unusually high 30 ips to minimise tape hiss. It won four Grammy Awards in 1965 including Album of the Year – the first non-American album to receive that honour. The recording is exceptional; the pressing history is complicated.
 
 The defining collector issue is the stereo channel reversal. On virtually every commercially released version – from the 1964 original through the 2024 Impex 1Step – the left and right channels are swapped from Ramone's original mixdown. On most pressings, Astrud Gilberto's voice is pinned hard right; on the correctly channelled 2011 Analogue Productions 45rpm and the 2020 Acoustic Sounds Series, she is correctly on the left. Both camps have passionate defenders. The AP uses the true original master tape unused since 1980; the Impex uses a superior pressing format but the reversed copy tape. Choose based on whether you prioritise tape provenance or pressing format.
 
-**Best early pressing for audiophiles:** [US stereo Verve V6-8545 deep-groove](https://www.discogs.com/master/36108-Stan-Getz-João-Gilberto-Getz-Gilberto) – RE-1 matrix, reversed channels but genuine 1964 RVG-era lacquer; $200–$500 NM.
+**Best early pressing for audiophiles:** [US stereo Verve V6-8545 deep-groove](https://www.discogs.com/master/36108-Stan-Getz-Jo%C3%A3o-Gilberto-Getz-Gilberto) – RE-1 matrix, reversed channels but genuine 1964 RVG-era lacquer; $200–$500 NM.
 
-**Best modern pressing for audiophiles:** [Analogue Productions AP-8545 45rpm 2LP](https://www.discogs.com/release/2942763-Stan-Getz-Joao-Gilberto-Getz-Gilberto) – correct channels, true original master, George Marino, AAA; the consensus reference.
+**Best modern pressing for audiophiles:** [Analogue Productions AP-8545 45rpm 2LP](https://www.discogs.com/release/11129763-Stan-Getz-Jo%C3%A3o-Gilberto-Featuring-Antonio-Carlos-Jobim-Getz-Gilberto) – correct channels, true original master, George Marino, AAA; the consensus reference.
 
-**Best-value modern:** [Verve Acoustic Sounds Series B0031690-01](https://www.discogs.com/release/16222993-Stan-Getz-João-Gilberto-Getz-Gilberto) – Ryan K. Smith, AAA, correct channels; ~$38 new.
+**Best-value modern:** [Verve Acoustic Sounds Series B0031690-01](https://www.discogs.com/release/15833366-Stan-Getz-Joao-Gilberto-Featuring-Antonio-Carlos-Jobim-Getz-Gilberto) – Ryan K. Smith, AAA, correct channels; ~$38 new.
 
 ## Recording history, tape provenance and the channel-reversal problem
 
-*Getz/Gilberto* was recorded on **March 18 and 19, 1963** at **A&R Recording Studios in New York City**, engineered by **Phil Ramone** and produced by **Creed Taylor** for Verve Records. The personnel were Stan Getz (tenor saxophone), João Gilberto (guitar and vocals), Antonio Carlos Jobim (piano and, on a few tracks, guitar), Astrud Gilberto (vocals on two tracks), Tommy Williams or Sebastião Neto (bass), and Milton Banana (drums). The album was released in **March 1964** – held back nearly a year by Creed Taylor, by which point the Beatles had overtaken the charts, yet the album still peaked at #2 on the Billboard charts and spent 96 weeks there. It won four Grammy Awards in 1965, including Album of the Year – the first non-American album ever to receive that honour.
+*Getz/Gilberto* was recorded on **March 18 and 19, 1963** at **A&R Recording Studios in New York City**, engineered by **Phil Ramone** and produced by **Creed Taylor** for Verve Records. The personnel were Stan Getz (tenor saxophone), João Gilberto (guitar and vocals), Antonio Carlos Jobim (piano and, on a few tracks, guitar), Astrud Gilberto (vocals on two tracks), Tommy Williams (bass) – also credited as Sebastião Neto in some editions, and Milton Banana (drums). The album was released in **March 1964** – held back nearly a year by Creed Taylor, by which point the Beatles had overtaken the charts, yet the album still peaked at #2 on the Billboard charts and spent 96 weeks there. It won four Grammy Awards in 1965, including Album of the Year – the first non-American album ever to receive that honour.
 
 Ramone, aware of how special the session was, recorded the master at an unusually high speed: **30 ips (inches per second), double the standard professional 15 ips rate**, specifically to reduce tape hiss and maximise dynamic range in the quiet passages. This is one reason the recording has sounded consistently excellent across decades of reissues – the fundamental tape quality is exceptional.
 
@@ -82,7 +79,7 @@ Understanding which tape source underlies each reissue is essential to evaluatin
 
 ### Analogue Productions 45rpm 2LP (2011) – the benchmark corrected-channel reissue
 
-**Cat. AP-8545** | Barcode: **753088854514** | Format: 2×200g 45rpm, gatefold, numbered limited edition + unnumbered repress. **Mastered by George Marino at Sterling Sound, AAA, from Phil Ramone's original 1963 stereo mixdown master – the true original master tape, unused since 1980.** Pressed at QRP. Matrix: (AVRJ).MG-V6-8545-A/B/C/D Sterling.
+**Cat. AP-8545** | Barcode: **753088854514** | Format: 2×200g 45rpm, gatefold, numbered limited edition + unnumbered repress ([Discogs r11129763](https://www.discogs.com/release/11129763-Stan-Getz-Jo%C3%A3o-Gilberto-Featuring-Antonio-Carlos-Jobim-Getz-Gilberto)). **Mastered by George Marino at Sterling Sound, AAA, from Phil Ramone's original 1963 stereo mixdown master – the true original master tape, unused since 1980.** Pressed at QRP. Matrix: (AVRJ).MG-V6-8545-A/B/C/D Sterling.
 
 This is the first and only pressing to use the true original master tape AND to present the correct channel orientation. [Vinyl Gourmet](https://blog.vinylgourmet.com) review: "What we are getting from this reissue is not only a double LP cut at 45rpm but also the fact that this is the very first time we can appreciate this LP with the original Phil Ramone mix-down channel orientation... Never before did Getz/Gilberto reach the market with such careful production and fidelity to the source." SoundStage! Ultra: "Analogue Productions has stripped off the gauze to reveal the original focus and image of this remarkable meeting of musicians. If you love and cherish Getz/Gilberto, but have one of the editions that were made from anything that was not the original master tape, you ain't heard nothin' yet. Scrap those editions." [Fremer (Tracking Angle, 2024)](https://trackingangle.com): "Until this Impex 1Step, my two faves were the original, which in some ways still can't be beat, and the double 45 Analogue Productions edition cut by George Marino."
 
@@ -119,6 +116,13 @@ A vast grey area of standard Verve/Polydor/PolyGram/Universal reissues spans fiv
 **2018 Verve LP reissue:** A standard 33⅓ Verve reissue, channels reversed, pressed overseas. Not from original tapes. **$20–$35**. Skip.
 
 **Japanese pressings:** Several Japanese Verve editions exist, including **Polydor Japan MJ-7069** and various Universal Music Japan pressings. Japanese pressings are praised for quiet vinyl and faithful reproduction, but all use the reversed-channel tape source. The **SHM-SACD (Universal Music Japan)**, which is a disc format not vinyl, draws strong praise from collectors: "To my ears, the SHM-SACD is the best-sounding [disc version]... it sounds very analogue." This is not a vinyl pressing but worth noting for non-vinyl listening.
+
+### Speakers Corner 180g 33⅓ (1999/2007) – the Kevin Gray cut with correct channels
+
+**Cat. V6-8545** | Format: 180g LP, 33⅓, stereo, gatefold. **Mastered by Kevin Gray at Future Disc Systems, Hollywood, from the original 1963 Verve master tape mix. Pressed at Pallas.** Two Speakers Corner editions exist: the first from 1999 (now out of print), and a subsequent 2007 reissue ([r1695530](https://www.discogs.com/release/1695530-Stan-Getz-Joao-Gilberto-Featuring-Antonio-Carlos-Jobim-GetzGilberto)). Both have correct channel orientation. Steve Hoffman, who was present at the cutting session: "Cut flat, solid state Neumann, from the original stereo 1963 Verve master tape mix by Kevin Gray at Future Disc Systems in Hollywood. No EQ or compression added by Kevin. Astrud Gilberto's voice is on the LEFT, matching the actual master tape stereo image positioning. It's the best version of the ORIGINAL mix of Getz/Gilberto you can buy."
+
+Note: there is some collector debate about whether Astrud ends up in the centre rather than the left on certain copies, which would suggest a different source. The 2007 pressing ([r10131408](https://www.discogs.com/release/10131408-Stan-Getz-Joao-Gilberto-Featuring-Antonio-Carlos-Jobim-GetzGilberto)) receives broadly positive reviews. Out of print. **$60–$200 secondary.**
+
 
 ---
 
@@ -161,11 +165,11 @@ Three characteristics of the recording define the pressing hierarchy:
 
 ## Buyer's guide by budget
 
-**Under $40:** The [**Verve Acoustic Sounds Series 33⅓ (B0031690-01)**](https://www.discogs.com/release/18498373) is the clear answer. Correct channels, Ryan K. Smith mastering from the original master tape, QRP pressing, affordable. This is the most accessible high-quality pressing of this album ever made. If you own nothing else, own this.
+**Under $40:** The [**Verve Acoustic Sounds Series 33⅓ (B0031690-01)**](https://www.discogs.com/release/15833366-Stan-Getz-Joao-Gilberto-Featuring-Antonio-Carlos-Jobim-Getz-Gilberto) is the clear answer. Correct channels, Ryan K. Smith mastering from the original master tape, QRP pressing, affordable. This is the most accessible high-quality pressing of this album ever made. If you own nothing else, own this.
 
-**$40–$150:** The used market for the [**AP 45rpm 2LP (AP-8545)**](https://www.discogs.com/release/8181222) opens around $100 for VG+/NM copies. This is the step-up from the Acoustic Sounds 33rpm – same master, same correct channels, but the groove-width and dynamic advantages of 45rpm are genuinely audible. A sealed AP is worth paying for. Also in this range: a clean NM [**original US Verve stereo V6-8545**](https://www.discogs.com/master/46559-Stan-Getz-Jo%C3%A3o-Gilberto-Getz-Gilberto) deep-groove or RE-1 copy – different sonic character (channels reversed, older lacquer) but genuine 1964 tube-cutting energy that no modern reissue fully matches.
+**$40–$150:** The used market for the [**AP 45rpm 2LP (AP-8545)**](https://www.discogs.com/release/11129763-Stan-Getz-Jo%C3%A3o-Gilberto-Featuring-Antonio-Carlos-Jobim-Getz-Gilberto) opens around $100 for VG+/NM copies. This is the step-up from the Acoustic Sounds 33rpm – same master, same correct channels, but the groove-width and dynamic advantages of 45rpm are genuinely audible. A sealed AP is worth paying for. Also in this range: a clean NM [**original US Verve stereo V6-8545**](https://www.discogs.com/master/46559-Stan-Getz-Jo%C3%A3o-Gilberto-Getz-Gilberto) deep-groove or RE-1 copy – different sonic character (channels reversed, older lacquer) but genuine 1964 tube-cutting energy that no modern reissue fully matches.
 
-**$130–$200:** The [**Impex 1Step (IMP6041-1)**](https://www.discogs.com/release/23399617) is the luxury option for listeners who prefer the familiar channel orientation and value the 1Step pressing format's ultra-quiet backgrounds. Also offers the bonus tracks and the most lavish packaging of any version. The sonic debate versus the AP is genuine; this comes down to system synergy and channel preference.
+**$130–$200:** The [**Impex 1Step (IMP6041-1)**](https://www.discogs.com/release/29941381-Stan-Getz-Jo%C3%A3o-Gilberto-Featuring-Antonio-Carlos-Jobim-Getz-Gilberto) is the luxury option for listeners who prefer the familiar channel orientation and value the 1Step pressing format's ultra-quiet backgrounds. Also offers the bonus tracks and the most lavish packaging of any version. The sonic debate versus the AP is genuine; this comes down to system synergy and channel preference.
 
 **$200–$500:** Premium original US pressings – **NM deep-groove V6-8545 stereo with RE-1 matrices** – deliver the tape-fresh energy of a 1964 cut. They have reversed channels and are one generation further from the true master than the AP 45rpm, but they represent what Phil Ramone's recording sounded like closest to the moment of creation, on original-era equipment. Collector-grade experience.
 
@@ -178,8 +182,9 @@ Three characteristics of the recording define the pressing hierarchy:
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Channels | Notes |
 |---|---|---|---|---|---|---|---|
 | **S** | AP 45rpm 2LP | AP-8545 | 2011 | Stereo, 45rpm, 2×200g | Ramone's 1963 original mixdown → George Marino, AAA, QRP | **Correct (Astrud LEFT)** | Only pressing with true original tape + correct orientation; OOP, $150–$400 | – |
-| **S** | Impex 1Step 45rpm 2LP | IMP6041-1 | 2024 | Stereo, 45rpm, 2×180g VR900 | "New master" EQ copy → Bernie Grundman, 1Step | **Reversed (Astrud RIGHT)** | Best pressing quality; contested vs AP on balance; $129.99; 7,500 copies | [Discogs](https://www.discogs.com/release/31429743-Stan-Getz-João-Gilberto-Getz-Gilberto) |
-| **A** | Verve Acoustic Sounds Series 33rpm | B0031690-01 | 2020 | Stereo, 33⅓, 180g | Original analog tapes → Ryan K. Smith at Sterling, AAA, QRP | **Correct (Astrud LEFT)** | Best-value pressing; ~$35 new; still in print | [Discogs](https://www.discogs.com/release/16222993-Stan-Getz-João-Gilberto-Getz-Gilberto) |
+| **S** | Impex 1Step 45rpm 2LP | IMP6041-1 | 2024 | Stereo, 45rpm, 2×180g VR900 | "New master" EQ copy → Bernie Grundman, 1Step | **Reversed (Astrud RIGHT)** | Best pressing quality; contested vs AP on balance; $129.99; 7,500 copies | [Discogs](https://www.discogs.com/release/29941381-Stan-Getz-Jo%C3%A3o-Gilberto-Featuring-Antonio-Carlos-Jobim-Getz-Gilberto) |
+| **B** | Speakers Corner 180g (Kevin Gray) | V6-8545 | 1999/2007 | Stereo, 33⅝, 180g | Original 1963 master tape → Kevin Gray, flat cut, Pallas | **Correct (Astrud LEFT)** | OOP; Hoffman: "best version of the original mix"; $60–$200 | [Discogs](https://www.discogs.com/release/1695530-Stan-Getz-Joao-Gilberto-Featuring-Antonio-Carlos-Jobim-GetzGilberto) |
+| **A** | Verve Acoustic Sounds Series 33rpm | B0031690-01 | 2020 | Stereo, 33⅓, 180g | Original analog tapes → Ryan K. Smith at Sterling, AAA, QRP | **Correct (Astrud LEFT)** | Best-value pressing; ~$35 new; still in print | [Discogs](https://www.discogs.com/release/15833366-Stan-Getz-Joao-Gilberto-Featuring-Antonio-Carlos-Jobim-Getz-Gilberto) |
 | **B** | US Verve stereo original, deep-groove RE-1 | V6-8545 | 1964 | Stereo, 33⅓ | 1964 tube lacquer, EQ cutting copy | **Reversed** | Tape-fresh 1964 energy; reversed channels; NM $200–$500 | [Discogs](https://www.discogs.com/master/36108-Stan-Getz-João-Gilberto-Getz-Gilberto) |
 | **B** | US Verve stereo, non-deep-groove RE-1 | V6-8545 | 1964 | Stereo, 33⅓ | 1964 tube lacquer, EQ copy | Reversed | Excellent but slightly later; NM $100–$300 | – |
 | **B** | Mobile Fidelity 200g 33rpm | MFSL 1-208 | Various | Stereo, 33⅓, 200g | EQ copy derivatives → MoFi mastering | Reversed | Post-MoFi-gate caveat applies; still good; $80–$150 | – |
