@@ -170,9 +170,9 @@ Earlier Japanese audiophile pressing in the SX68 series; matrix SOPL-155A1. Heav
 
 **$200–$350:** The [**AP UHQR 45rpm**](https://www.discogs.com/release/24373778) is the definitive modern pressing. Worth every penny if the music matters to you and you have the system to appreciate it.
 
-**$400–$700:** A clean [**Columbia CS 8163 six-eye stereo**](https://www.discogs.com/release/9322816) original for the tube-cut, period character no reissue fully recovers – note Side 1 plays sharp at the original (uncorrected) speed.
-
 **$250–$600:** A clean [**Columbia CL 1355 six-eye mono**](https://www.discogs.com/release/2252871) – plays at correct pitch; the bass-forward, intimate presentation many experienced collectors consider the definitive listening copy regardless of pressing generation.
+
+**$400–$700:** A clean [**Columbia CS 8163 six-eye stereo**](https://www.discogs.com/release/9322816) original for the tube-cut, period character no reissue fully recovers – note Side 1 plays sharp at the original (uncorrected) speed.
 
 **The MoFi question:** Still a musical pressing worth having if acquired cheaply ($80–$120 used). Not worth premium prices now that the AP 2025 undercuts it on both price and provenance.
 
