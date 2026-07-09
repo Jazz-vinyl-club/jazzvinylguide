@@ -2,13 +2,13 @@
 
 ## Summary
 
-*Bitches Brew* was recorded over three consecutive days – **August 19–21, 1969** – at Columbia's Studio B, 49 West 52nd Street, New York City. Engineered by **Stan Tonkel**, produced by **Teo Macero**. Personnel: Miles Davis (trumpet); Wayne Shorter (soprano saxophone); Bennie Maupin (bass clarinet); Joe Zawinul, Chick Corea, and Larry Young (electric pianos); John McLaughlin (guitar); Dave Holland and Harvey Brooks (electric basses); Jack DeJohnette, Lenny White, and Don Alias (drums and percussion); Airto Moreira and Juma Santos (percussion). Released **March 30, 1970** on Columbia Records as GP 26 (double LP).
+*Bitches Brew* was recorded over three consecutive days – **August 19–21, 1969** – at Columbia's Studio B, 49 West 52nd Street, New York City. Engineered by **Stan Tonkel** and **Frank Laico**, produced by **Teo Macero**. Personnel: Miles Davis (trumpet); Wayne Shorter (soprano saxophone); Bennie Maupin (bass clarinet); Joe Zawinul, Chick Corea, and Larry Young (electric pianos); John McLaughlin (guitar); Dave Holland and Harvey Brooks (electric basses); Jack DeJohnette, Lenny White, Billy Cobham, and Don Alias (drums and percussion); Airto Moreira and Juma Santos (percussion). Released **March 30, 1970** on Columbia Records as GP 26 (double LP).
 
 The sessions began the day after Woodstock ended – Davis had followed the festival closely and it confirmed his conviction that rock music was reaching millions of people. He assembled the musicians on short notice with minimal written material: "musical sketches" – a chord, a mode, a tempo – and directed from within the ensemble. What Teo Macero then did in the editing room over several months assembled those raw performances into a composed work. "Pharaoh's Dance" contains 19 edits; the title track 15. In Macero's words: "I would take everything from the very beginning of the session, every little fragment, mix it all down and then cut the material and put it all together – front to back, back to front, the middle somewhere else – and make it into a piece." "Miles Runs the Voodoo Down" is the only track presented without any post-session editing.
 
 The tape history has direct consequences for vinyl: the album was recorded on **eight-track**, and when Macero pulled tapes for the 1998 Complete Sessions box he found oxidation and missing sections. Some reconstruction was required. This deterioration, combined with the DSD-to-lathe chain used by Mobile Fidelity (disclosed since 2022), and the question of whether MoFi used the original 1970 mix or drew on the 1998 reconstruction, make tape provenance more contested here than on most Columbia jazz titles. The original 1970 two-eye pressings – particularly with low matrix numbers – remain the best case for hearing the unmediated original mix.
 
-**Best early pressing for audiophiles:** [Original US two-eye 360 Sound GP 26, low matrix -1J on all four sides](https://www.discogs.com/release/37006-Miles-Davis-Bitches-Brew) – red 360 Sound labels, Terre Haute or Pitman plant; $150–$400 NM.
+**Best early pressing for audiophiles:** Original US two-eye 360 Sound GP 26, low matrix –1J on all four sides – red 360 Sound labels; Terre Haute ([r9782567](https://www.discogs.com/release/9782567-Miles-Davis-Bitches-Brew)), Pitman ([r12032942](https://www.discogs.com/release/12032942-Miles-Davis-Bitches-Brew)), or Santa Maria ([r37006](https://www.discogs.com/release/37006-Miles-Davis-Bitches-Brew)); $150–$400 NM.
 
 **Best modern pressing for audiophiles:** [Mobile Fidelity UltraDisc One-Step 55th Anniversary 2LP (2025)](https://www.discogs.com/release/33848460-Miles-Davis-Bitches-Brew) – Krieg Wunderlich, DSD-to-lathe, Fidelity Record Pressing; 5,000 numbered copies; ~$125–$150.
 
@@ -51,7 +51,7 @@ The earliest pressings use the **red "360 Sound Stereo" two-eye label** – name
 
 The letter suffix in the matrix (–1A, –1B, –1C etc.) does not reliably indicate pressing plant – this is a commonly repeated misconception. As a Columbia cutting engineer explained on [AnalogPlanet](https://www.analogplanet.com), the alpha suffix indicated lacquer sequence for distribution to multiple plants simultaneously: "An initial lacquer order was 6 sets plus a ref for QC... 1A&B went to Pitman (N.J.), 1C&D to Terre Haute (IN), 1E&F went to Santa Maria (CA)." The plant stamp is the reliable identifier.
 
-**Matrix guide:** The collector consensus for earliest and best-sounding pressings is **–1J on all four sides** (XSM 152412 through 152415). Better Records (via [The Skeptical Audiophile](https://ontherecord.co/2026/04/24/miles-davis-bitches-brew/)) describes a Triple Plus (A+++) copy: "The incredible musicianship and Teo Macero's innovative production each help take these jazz-fusion soundscapes to places most folks had never imagined before. And a copy like this one takes the entire production to a whole new level." A Discogs seller with deep knowledge of this title notes: "If you really, truly want that revolutionary, amazingly expansive, wide-open feel and sharp soundstage separation... you want nothing later than '–1J' ending all 4 matrix numbers."
+**Matrix guide:** The collector consensus for earliest and best-sounding pressings is **–1J on all four sides**. Terre Haute ([r9782567](https://www.discogs.com/release/9782567-Miles-Davis-Bitches-Brew)) and Pitman ([r12032942](https://www.discogs.com/release/12032942-Miles-Davis-Bitches-Brew)) are generally preferred over Santa Maria ([r37006](https://www.discogs.com/release/37006-Miles-Davis-Bitches-Brew)), though all three plants produced excellent copies (XSM 152412 through 152415). Better Records (via [The Skeptical Audiophile](https://ontherecord.co/2026/04/24/miles-davis-bitches-brew/)) describes a Triple Plus (A+++) copy: "The incredible musicianship and Teo Macero's innovative production each help take these jazz-fusion soundscapes to places most folks had never imagined before. And a copy like this one takes the entire production to a whole new level." A Discogs seller with deep knowledge of this title notes: "If you really, truly want that revolutionary, amazingly expansive, wide-open feel and sharp soundstage separation... you want nothing later than '–1J' ending all 4 matrix numbers."
 
 **Sanctuary songwriter credit error:** The earliest two-eye pressings mistakenly credit both Wayne Shorter and Miles Davis as co-writers of "Sanctuary." The corrected version (Shorter only) appears on later copies. The error pressing is the earliest state.
 
@@ -89,9 +89,9 @@ The One-Step process cuts stampers directly from lacquers, bypassing the standar
 
 ### Japanese CBS/Sony pressings (early 1980s)
 
-Japanese CBS/Sony pressings receive consistent collector praise. The Sony Shizuoka pressing plant produced dead-quiet vinyl with faithful reproduction. One Discogs owner listening immediately after a Japanese copy: "Listening to this one now immediately after hearing the superior 1981 Japan reissue." Key pressing: **20AP 1425/26** (early 1980s), double LP with obi strip.
+Japanese CBS/Sony pressings receive consistent collector praise. The Sony Shizuoka pressing plant produced dead-quiet vinyl with faithful reproduction. One Discogs owner listening immediately after a Japanese copy: "Listening to this one now immediately after hearing the superior 1981 Japan reissue." The outstanding pressing is the **CBS/Sony 28AP 2151~2** ([Discogs r2075721](https://www.discogs.com/release/2075721-Miles-Davis-Bitches-Brew)), released December 1981 as part of the Big Jazz Fusion 23 No.1 series. Double LP, gatefold, obi strip. Avg Discogs rating: 4.95/5 from 42 ratings; 977 collectors want it – among the most desired pressings of this album. Dead-quiet CBS/Sony Japan vinyl, faithful stereo reproduction, beautifully packaged.
 
-These trade for **$50–$120 with obi** and are consistently rated by experienced collectors as superior to the MoFi on sound quality.
+These trade for **$40–$120 with obi** and are consistently rated by experienced collectors as superior or equal to the MoFi on sound quality.
 
 ### Columbia Legacy editions
 
@@ -113,7 +113,7 @@ Columbia/Legacy anniversary editions are acceptable entry points digitally sourc
 
 **$50–$80:** The [**MoFi MFSL 2-439**](https://www.discogs.com/release/5804415-Miles-Davis-Bitches-Brew) – the accessible modern reference, broadly praised.
 
-**$50–$120:** A [**Japanese CBS/Sony pressing (20AP 1425/26) with obi**](https://www.discogs.com/master/8260-Miles-Davis-Bitches-Brew) – often preferred over the MoFi by direct comparison; exceptional pressing quality.
+**$50–$120:** A [**Japanese CBS/Sony 28AP 2151~2 with obi**](https://www.discogs.com/release/2075721-Miles-Davis-Bitches-Brew) – often preferred over the MoFi by direct comparison; exceptional pressing quality.
 
 **$80–$150:** A clean [**two-eye 360 Sound original**](https://www.discogs.com/release/37006-Miles-Davis-Bitches-Brew) with low matrices and the Sanctuary error – the analogue purist's choice and the only way to guarantee the original 1970 mix.
 
@@ -126,8 +126,10 @@ Columbia/Legacy anniversary editions are acceptable entry points digitally sourc
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
 | **S** | MoFi UltraDisc One-Step 55th | MFSL UD1S-109 | 2025 | Stereo, 33⅓, 2×180g | Orig tapes → DSD 64 → Wunderlich, FRP | 5,000 copies; lowest noise floor; ~$125–$150 | [Discogs](https://www.discogs.com/release/33848460-Miles-Davis-Bitches-Brew) |
-| **A** | Original two-eye 360 Sound, low matrix | GP 26 | 1970 | Stereo, 33⅓ | Original 1970 Columbia mix, 8-track master | –1J matrices; Sanctuary error = earliest; $150–$400 NM | [Discogs](https://www.discogs.com/release/37006-Miles-Davis-Bitches-Brew) |
-| **A** | Japanese CBS/Sony 20AP 1425/26 | 20AP 1425/26 | c.1981 | Stereo, 33⅓ | CBS/Sony Japan; Shizuoka pressing | Often preferred to MoFi; dead-quiet; $50–$120 with obi | [Discogs](https://www.discogs.com/master/8260-Miles-Davis-Bitches-Brew) |
+| **A** | Original two-eye 360 Sound, Terre Haute | GP 26 | 1970 | Stereo, 33⅓ | Original 1970 Columbia mix | "T" deadwax; –1J matrices; Sanctuary error = earliest; $150–$400 NM | [Discogs](https://www.discogs.com/release/9782567-Miles-Davis-Bitches-Brew) |
+| **A** | Original two-eye 360 Sound, Pitman | GP 26 | 1970 | Stereo, 33⅓ | Original 1970 Columbia mix | "P" deadwax; –1J matrices; Sanctuary error = earliest; $150–$400 NM | [Discogs](https://www.discogs.com/release/12032942-Miles-Davis-Bitches-Brew) |
+| **A** | Original two-eye 360 Sound, Santa Maria | GP 26 | 1970 | Stereo, 33⅓ | Original 1970 Columbia mix | "S" deadwax; –1J matrices; Sanctuary error = earliest; $150–$400 NM | [Discogs](https://www.discogs.com/release/37006-Miles-Davis-Bitches-Brew) |
+| **A** | Japanese CBS/Sony 28AP 2151~2 | 28AP 2151~2 | 1981 | Stereo, 33⅓, 2LP | CBS/Sony Japan; Big Jazz Fusion 23 series | 4.95/5 Discogs avg; 977 wants; dead-quiet; $40–$120 with obi | [Discogs](https://www.discogs.com/release/2075721-Miles-Davis-Bitches-Brew) |
 | **B** | MoFi MFSL 2-439 180g 2LP | MFSL 2-439 | 2014/2023 | Stereo, 33⅓, 2×180g | Orig tapes → DSD 64 → Wunderlich, RTI/FRP | Disclosed DSD; widely praised; $50–$80 | [Discogs](https://www.discogs.com/release/5804415-Miles-Davis-Bitches-Brew) |
 | **B** | Early red/orange Columbia ring label | GP/PG 26 | 1970–75 | Stereo, 33⅓ | Period Columbia lacquer | Sonically close to two-eye; $25–$60 | [Discogs](https://www.discogs.com/release/11481689-Miles-Davis-Bitches-Brew) |
 | **C** | Quadraphonic SQ matrix | GP 26 | 1971 | Quad/stereo, 33⅓ | Original Columbia quad mix | SQ decodable; curio; $20–$50 | [Discogs](https://www.discogs.com/master/8260-Miles-Davis-Bitches-Brew) |
