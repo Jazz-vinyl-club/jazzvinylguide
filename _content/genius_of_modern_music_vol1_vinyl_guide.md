@@ -30,7 +30,7 @@ Identifying features of the true first edition: "767 Lexington Ave" address on t
 
 ### The 1951 10" LP – a rarer historical curiosity
 
-The original 10" compilation, also titled *Genius of Modern Music* (catalog BLP 5002), predates the 12" expansion by five years and draws from a slightly narrower selection of the same 1947 material. Given the 10" format's short commercial life, surviving copies are scarcer and less commonly traded than the 12" BLP 1510 – a genuine grail for Blue Note completists rather than a practical listening recommendation. **Rare; prices vary widely by condition and are not well-established in the used market.**
+The original 10" compilation, also titled *Genius of Modern Music* (catalog BLP 5002), predates the 12" expansion by five years and draws from a slightly narrower selection of the same 1947 material. Given the 10" format's short commercial life, surviving copies are scarcer and less commonly traded than the 12" BLP 1510 – a genuine grail for Blue Note completists rather than a practical listening recommendation. [Discogs](https://www.discogs.com/release/21740968-Thelonious-Monk-Genius-Of-Modern-Music) **Rare; prices vary widely by condition and are not well-established in the used market.**
 
 ---
 
@@ -71,4 +71,4 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 | **B** | King GXF-3014 (Japan, limited) | GXF-3014 | 1977 | Mono, 33⅓ | Japanese pressing, limited run | Premium tier of King's Blue Note series; $50–$100 with obi | – |
 | **C** | King GXK-8058 (Japan) | GXK-8058 | 1977–1980 | Mono, 33⅓ | Japanese pressing, larger run | Part of "Blue Note Masterpiece Selection 150"; $40–$70 with obi | – |
 | **C** | Toshiba EMI BLP 1500 Series | BLP 1510 | c.1983 | Mono, 33⅓ | Japanese pressing | Part of "Blue Note BLP 1500 Series Part 1"; $40–$80 with obi | – |
-| **D** | Original 10" LP | BLP 5002 | 1951 | Mono, 10", 33⅓ | Original 1951 mastering | Rare historical curiosity, not a practical listening copy; scarce | – |
+| **D** | Original 10" LP | BLP 5002 | 1951 | Mono, 10", 33⅓ | Original 1951 mastering | Rare historical curiosity, not a practical listening copy; scarce | [Discogs](https://www.discogs.com/release/21740968-Thelonious-Monk-Genius-Of-Modern-Music) |
