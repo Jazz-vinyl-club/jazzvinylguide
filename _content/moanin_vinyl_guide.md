@@ -174,7 +174,7 @@ For most buyers choosing among modern stereo reissues, the 33rpm format (Music M
 
 **$350–$700:** The [**AP 2008 original RTI numbered edition (AP 84003)**](https://www.discogs.com/release/2942743-Art-Blakey-And-The-Jazz-Messengers-Moanin) and **NM stereo 47W63rd label BST 84003 with INC+®** both appear in this range – the original for its historical status and the AP for its sonic achievement.
 
-**$600+:** NM [**original mono BLP 4003 47W63rd label**](https://www.discogs.com/master/32360-Art-Blakey-The-Jazz-Messengers-Moanin) without ® – the holy grail. A properly graded NM copy approaches the original studio sound as closely as any vinyl ever will. The "no ® INC" copies in genuine NM condition are now seldom encountered at any price.
+**$600+:** NM [**original mono BLP 4003 47W63rd label**](https://www.discogs.com/master/62462-Art-Blakey-And-The-Jazz-Messengers-Art-Blakey-And-The-Jazz-Messengers) without ® – the holy grail. A properly graded NM copy approaches the original studio sound as closely as any vinyl ever will. The "no ® INC" copies in genuine NM condition are now seldom encountered at any price.
 
 **The one-copy answer:** For most listeners, the **Blue Note Classic Vinyl Series (0746568)** at $30 covers the essential listening experience. For serious collection, the [**Music Matters 33rpm (MMBST-84003)**](https://www.discogs.com/release/5851206-Art-Blakey-And-The-Jazz-Messengers-Moanin) is the superior modern pressing if budget and secondary-market availability allow. For the ultimate: the **AP 2011 QRP 200g (AP-84003)**.
 
@@ -192,8 +192,8 @@ For most buyers choosing among modern stereo reissues, the 33rpm format (Music M
 | **B** | Original mono, 47W63rd label, INC+® | BLP 4003 | 1959–61 | Mono, 33⅓ | RVG lacquer, Plastylite, 47W63rd INC | Second pressing era; excellent; $300–$700 NM | [Discogs](https://www.discogs.com/master/62462-Art-Blakey-And-The-Jazz-Messengers-Art-Blakey-And-The-Jazz-Messengers) |
 | **B** | Original stereo, 47W63rd label, INC+® | BST 84003 | 1959–61 | Stereo, 33⅓ | RVG lacquer, Plastylite, 47W63rd INC | Still very good; $200–$500 NM | [Discogs](https://www.discogs.com/master/62462-Art-Blakey-And-The-Jazz-Messengers-Art-Blakey-And-The-Jazz-Messengers) |
 | **B** | AP early mono 33rpm (unverified) | BLP 4003 | c.1997 | **Mono**, 33⅓ | Original tapes → Bernie Grundman (attributed) | Label attribution uncertain; verify before purchase; OOP $150–$300 | [Discogs](https://www.discogs.com/master/62462-Art-Blakey-And-The-Jazz-Messengers-Art-Blakey-And-The-Jazz-Messengers) |
-| **C** | Blue Note Classic Vinyl 2021 | 0746568 | 2021 | Stereo, 33⅓, 180g | Original tapes → Kevin Gray, Optimal | Best-value modern; non-fill QC risk; ~$30 new | [Discogs](https://www.discogs.com/release/18150907-Art-Blakey-The-Jazz-Messengers-Moanin) |
 | **B** | Japanese King Records GXF-3002 / 1983 repro | GXF-3002 | 1977/1983 | Stereo | Japanese King Records pressing | "Sound is liquid gold"; OBI; $80–$200 | [Discogs](https://www.discogs.com/release/6775238-Art-Blakey-And-The-Jazz-Messengers-Moanin) |
+| **C** | Blue Note Classic Vinyl 2021 | 0746568 | 2021 | Stereo, 33⅓, 180g | Original tapes → Kevin Gray, Optimal | Best-value modern; non-fill QC risk; ~$30 new | [Discogs](https://www.discogs.com/release/18150907-Art-Blakey-The-Jazz-Messengers-Moanin) |
 | **D** | Liberty / UA / Capitol represses | BST 84003 | 1970s–80s | Stereo, 33⅓ | Copy tape, declining quality | Sonically inferior; budget listening only | – |
 | **F** | EU grey-market (Waxtime, DOL) | Various | 2000s+ | Various | Digital rip, unlicensed | Not licensed; digital source | – |
 | **F** | "United Artists Music" copies | BST 84003 | 1975–78 | Stereo, 33⅓ | Late repressing | Sometimes sold as "originals"; inferior sound | – |
