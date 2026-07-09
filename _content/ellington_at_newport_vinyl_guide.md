@@ -32,7 +32,7 @@ This wasn't confirmed publicly until 1996, when a tape surfaced in the Voice of 
 
 ### Mobile Fidelity MOFI 1-035 – the modern standard
 
-**Cat. MOFI 1-035** | Format: Mono, numbered LP. Reception is generally strong – several owners describe the pressing as remarkably quiet and the crowd's reaction as viscerally present – though a meaningful minority of long-time Ellington collectors who own both an original and the MoFi still prefer the original specifically for how Ellington's own spoken introductions come through, describing the MoFi as comparatively flatter on his voice. Worth owning either way; just don't assume it automatically supersedes a clean original. [Discogs](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) **$25–$60.**
+**Cat. MOFI 1-035** | Format: Mono, numbered LP, Silver Label Series, 2022 | **Mastered from the original master tapes by Krieg Wunderlich (assisted by Rob LoVerde) at Mobile Fidelity, pressed at RTI/Fidelity Record Pressing.** Reception is generally strong – several owners describe the pressing as remarkably quiet and the crowd's reaction as viscerally present – though a meaningful minority of long-time Ellington collectors who own both an original and the MoFi still prefer the original specifically for how Ellington's own spoken introductions come through, describing the MoFi as comparatively flatter on his voice. Worth owning either way; just don't assume it automatically supersedes a clean original. [Discogs](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) **$25–$60.**
 
 ### "Complete concert on vinyl" reissue (2013)
 
@@ -54,9 +54,9 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 
 ## Buyer's guide by budget
 
-**Under $40:** A clean [**original six-eye mono, CL 934**](https://www.discogs.com/release/689458-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) – genuinely attainable given how many copies were pressed, and arguably the most characterful-sounding option for Ellington's introductions.
-**$25–$60:** The [**Mobile Fidelity MOFI 1-035**](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) if you want a guaranteed-quiet modern pressing.
-**$20–$40:** The [**DOX904 "complete concert" reissue**](https://www.discogs.com/release/15625375-Duke-Ellington-Ellington-at-Newport) if you specifically want the expanded, more accurate account of the concert on vinyl rather than the original's studio-reconstructed version.
+**Under $40:** The [**DOX904 "complete concert" reissue**](https://www.discogs.com/release/15625375-Duke-Ellington-Ellington-at-Newport) if you specifically want the expanded, more accurate account of the concert on vinyl rather than the original's studio-reconstructed version.
+**$40–$70:** The [**Mobile Fidelity MOFI 1-035**](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) if you want a guaranteed-quiet modern pressing.
+**$60–$100:** A clean [**original six-eye mono, CL 934**](https://www.discogs.com/release/689458-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) – genuinely attainable given how many copies were pressed, and arguably the most characterful-sounding option for Ellington's introductions.
 
 ---
 
