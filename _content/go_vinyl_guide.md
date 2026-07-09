@@ -6,7 +6,7 @@
 
 Gordon named *Go!* the favourite of all his recordings: "The perfect rhythm section which made it possible for me to play whatever I wanted to play." Sonny Clark died in January 1963 aged 31 – just four months after this session – making this among his finest and last recordings. The recording is hard bop at full stretch: big tone, storytelling solos, and a rhythm section that never lets up. The Analogue Productions 45rpm 2LP is the reference pressing; the Music Matters 33rpm is the excellent alternative; the Blue Note Classic Vinyl is the accessible entry point.
 
-**Best early pressing for audiophiles:** [Original Blue Note BLP 4112 mono, NY USA label](https://www.discogs.com/release/1988407-Dexter-Gordon-Go) – deep groove, Van Gelder stamp, Plastylite ear; $300–$700 NM.
+**Best early pressing for audiophiles:** [Original Blue Note BLP 4112 mono, NY USA label](https://www.discogs.com/release/3380665-Dexter-Gordon-Go) – deep groove, Van Gelder stamp, Plastylite ear; $300–$700 NM.
 
 **Best modern pressing for audiophiles:** [Analogue Productions AP-84112 45rpm 2LP 180g (2008)](https://www.discogs.com/release/3747701-Dexter-Gordon-Go) – Kevin Gray and Steve Hoffman, AcousTech, QRP; $150–$300 secondary.
 
@@ -58,6 +58,8 @@ Authentication markers for the earliest copies:
 - Mono matrix: **BNLP-4112-A VAN GELDER P** / **BNLP-4112-B VAN GELDER P**
 - Stereo matrix: **BNST-84112-A VAN GELDER P** / **BNST-84112-B VAN GELDER P**
 
+[LJC](https://londonjazzcollector.wordpress.com/2011/10/16/bn-4112-dexter-gordon-go-1962/) describes the mono original: "Blue Note's usual superb bright rich forward presentation, in Mono, with Van Gelder working his magic in the mastering department." LJC also notes that Reid Miles "astutely highlights the first two letters of Gordon" in the cover design — the GO of Gordon forms the album title.
+
 **NM mono originals: $300–$700. NM stereo originals: $200–$500.**
 
 ### Liberty-era pressings (1966–1971)
@@ -108,7 +110,7 @@ Japanese Blue Note pressings of *Go!* – primarily from Toshiba-EMI and King Re
 
 **$150–$300:** The [**AP 45rpm 2LP AP-84112 (2008)**](https://www.discogs.com/release/3747701-Dexter-Gordon-Go) – the definitive modern pressing; Kevin Gray and Steve Hoffman; out of print.
 
-**$300–$700:** An original [**BLP 4112 mono NY USA label**](https://www.discogs.com/release/1988407-Dexter-Gordon-Go) in honest VG+ with Van Gelder stamp and Plastylite ear – the purist's choice and Gordon's own format.
+**$300–$700:** An original [**BLP 4112 mono NY USA label**](https://www.discogs.com/release/3380665-Dexter-Gordon-Go) in honest VG+ with Van Gelder stamp and Plastylite ear – the purist's choice and Gordon's own format.
 
 ---
 
@@ -117,7 +119,7 @@ Japanese Blue Note pressings of *Go!* – primarily from Toshiba-EMI and King Re
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
 | **S** | AP 45rpm 2LP 180g | AP-84112 | 2008 | Stereo, 45rpm, 2×180g | Orig tapes → Gray & Hoffman, AcousTech, QRP | Vinyl Gourmet-selected; OOP $150–$300 | [Discogs](https://www.discogs.com/release/3747701-Dexter-Gordon-Go) |
-| **A** | Original BLP 4112 mono, NY USA label | BLP 4112 | 1962 | Mono, 33⅓ | RVG / Plastylite; native mono | Deep groove; $300–$700 NM | [Discogs](https://www.discogs.com/release/1988407-Dexter-Gordon-Go) |
+| **A** | Original BLP 4112 mono, NY USA label | BLP 4112 | 1962 | Mono, 33⅓ | RVG / Plastylite; native mono | Deep groove; $300–$700 NM | [Discogs](https://www.discogs.com/release/3380665-Dexter-Gordon-Go) |
 | **A** | Original BST 84112 stereo, NY USA label | BST 84112 | 1962 | Stereo, 33⅓ | RVG / Plastylite; native stereo | Deep groove; $200–$500 NM | [Discogs](https://www.discogs.com/master/121331-Dexter-Gordon-Go) |
 | **B** | Music Matters 33rpm 180g | MM33 BNST-84112 | 2014 | Stereo, 33⅓, 180g | Orig tapes → Gray & Rambach, Cohearent, RTI | 3,500 copies; OOP $100–$200 | [Discogs](https://www.discogs.com/release/5687834-Dexter-Gordon-Go) |
 | **B** | Japanese Toshiba/King pressing | Various | 1970s–80s | Stereo, 33⅓ | Licensed Japanese pressing | Dead-quiet; warm; $40–$100 with obi | [Discogs](https://www.discogs.com/master/121331-Dexter-Gordon-Go) |
