@@ -99,11 +99,11 @@ A **revised edition** ([r33400274](https://www.discogs.com/release/33400274-Mile
 
 ## Buyer's guide by budget
 
-**Under $50:** The [**Mobile Fidelity MFSL 1-377 180g (2013)**](https://www.discogs.com/release/4712200-Miles-Davis-In-A-Silent-Way) new from Acoustic Sounds at $39 – the only dedicated audiophile reissue; noted DSD chain.
+**$20–$50:** A clean [**1971 Columbia one-eye pressing with original stampers**](https://www.discogs.com/release/15107481-Miles-Davis-In-A-Silent-Way) – same lacquer as the two-eye; accessible.
 
 **$30–$80:** A [**Japanese CBS/Sony XXAP 700 (1977)**](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way) with obi – DR12 dynamic range, faithful to the tape, analog realism preferred by many over the MoFi.
 
-**$20–$50:** A clean [**1971 Columbia one-eye pressing with original stampers**](https://www.discogs.com/release/15107481-Miles-Davis-In-A-Silent-Way) – same lacquer as the two-eye; accessible.
+**$39 new:** The [**Mobile Fidelity MFSL 1-377 180g (2013)**](https://www.discogs.com/release/4712200-Miles-Davis-In-A-Silent-Way) from Acoustic Sounds – the only dedicated audiophile reissue; noted DSD chain.
 
 **$60–$200:** An original [**US Columbia 360 Sound two-eye CS 9875**](https://www.discogs.com/release/654119-Miles-Davis-In-A-Silent-Way) in honest VG+ – the definitive period-analog version; prices appreciating.
 
