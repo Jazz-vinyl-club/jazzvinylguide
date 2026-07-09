@@ -2,29 +2,32 @@
 
 ## Summary
 
-*Saxophone Colossus* was recorded in a single session on **June 22, 1956** at Rudy Van Gelder's studio in his parents' living room in Hackensack, New Jersey – before Van Gelder moved to the purpose-built Englewood Cliffs facility in 1959. Personnel: Sonny Rollins (tenor saxophone), Tommy Flanagan (piano), Doug Watkins (bass), Max Roach (drums). Produced by Bob Weinstock for Prestige Records; released later in 1956 on the yellow label. The session is universally regarded as one of Van Gelder's finest from the Hackensack period, capturing Rollins's commanding tone and Max Roach's extraordinary ride cymbal with an immediacy that later recordings did not always replicate.
+*Saxophone Colossus* was recorded in a single session on **June 22, 1956** at Rudy Van Gelder's studio in Hackensack, New Jersey – four days before Clifford Brown died in the car crash that ended the Brown-Roach Quintet, a group Rollins had recently left. Personnel: Sonny Rollins (tenor saxophone), Tommy Flanagan (piano), Doug Watkins (bass), Max Roach (drums). Produced by Bob Weinstock for Prestige Records; released in 1957 on the yellow label as **PRLP 7079**. The session is universally regarded as one of Van Gelder's finest from the Hackensack period – not an opinion but a consensus extending from Gunther Schuller's 1958 essay in *The Jazz Review* through to every major critical survey of the recorded jazz canon.
 
-The mono presentation is the only legitimate format – there is no native stereo. Any "stereo" copy is electronically rechanneled from the mono master and universally considered inferior. RVG hand-etched his initials in the deadwax of every pressing made from his original metalwork; this is the primary authentication point for collectors, and it appears not only on US Prestige pressings but on European pressings from Esquire (UK), Metronome (Denmark), and Barclay (France), which were pressed from original US metal parts. The key practical challenge with originals is finding truly NM copies – heavy tonearms of the 1950s and 1960s caused groove wear on even lightly-played copies.
+The mono presentation is the only legitimate format. Any "stereo" copy is electronically rechanneled from the mono master and considered inferior by every experienced collector. The Analogue Productions 200g/180g 33rpm mono (2013/2022) is the practical answer for most collectors – it genuinely surpasses the original for many listeners, and the original Van Gelder yellow-label is among the most heavily worn LPs in circulation due to relentless play on heavy-arm turntables.
 
-**Best early pressing for audiophiles:** [Original Prestige yellow label 7079, 446 W. 50th Street](https://www.discogs.com/release/3934932-Sonny-Rollins-Saxophone-Colossus) – PRLP 7079, RVG etched, AB (Abbey Manufacturing).
+**Best early pressing:** [Original Prestige yellow label PRLP 7079](https://www.discogs.com/release/3934932-Sonny-Rollins-Saxophone-Colossus) – 446 W. 50th Street, RVG hand-etched, Abbey Manufacturing; $400–$900 NM.
 
-**Best modern pressing for audiophiles:** [Analogue Productions PRLP 7079 200g/180g mono 33rpm (2013/2022)](https://www.discogs.com/release/4403277-Sonny-Rollins-Saxophone-Colossus) – Kevin Gray, AAA, QRP.
+**Best modern pressing:** [Analogue Productions APRJ 7079 200g/180g mono 33rpm](https://www.discogs.com/release/4403277-Sonny-Rollins-Saxophone-Colossus) – Kevin Gray, AAA, QRP; "Sonny Rollins nirvana."
 
-**Best-value modern:** [OJC-291 1987 pressing](https://www.discogs.com/master/174519-Sonny-Rollins-Saxophone-Colossus) – analogue, affordable; avoid the 2011 repress.
+**Best-value modern:** [AP 2022 repress APRJ 7079 180g](https://www.discogs.com/release/22729826-Sonny-Rollins-Saxophone-Colossus) – same Kevin Gray mastering, affordable and still available new.
 
 
 ## Recording history and tape provenance
 
-Van Gelder was recording at Hackensack in his parents' living room, using equipment and technique that, though modest by later standards, captured the acoustic character of a domestic room in a way that gave the recordings an unusual intimacy and presence. Rollins's tenor – close-miked, with the natural room providing air – is among the most natural saxophone captures of the period. Max Roach's drum work on "Blue 7" (an extended solo with shimmering ride cymbal work) and "Moritat" (the original Threepenny Opera title; popularised in English as "Mack the Knife") has been cited repeatedly by engineers and collectors as an exceptional capture of a drumset.
+Walter Theodore Rollins was born on **September 7, 1930** in New York City. He grew up on Sugar Hill in Harlem, near the Savoy Ballroom and the Apollo Theater, where neighbours included Jackie McLean, Art Taylor, and Kenny Drew. He came under the wing of Thelonious Monk and was recording with Bud Powell and Miles Davis before he was twenty. He briefly joined the Clifford Brown–Max Roach Quintet in 1955, taking the chair Harold Land had vacated, and recorded *Sonny Rollins Plus 4* at Van Gelder's on March 22, 1956. Brown and Richie Powell died in a car crash on June 26, 1956. Four days before that crash – on June 22 – Rollins had walked back into Van Gelder's studio with Flanagan, Watkins, and Roach and recorded *Saxophone Colossus*. Rollins was 25 years old.
 
-**The mono question:** Van Gelder was recording mono at Hackensack; he did not begin stereo recording until after the move to Englewood Cliffs. Any "stereo" copy is electronically rechanneled from the mono master. Rechanneling processes of the 1970s are universally condemned by collectors: the rechanneled copy pans differently and creates artificial separation that distorts the ensemble balance. The green-label Prestige stereo reissues should always be avoided.
+Van Gelder was still recording at the converted living room in his parents' house in Hackensack at this point – he did not move to the purpose-built Englewood Cliffs facility until 1959. His approach was precision microphone placement with Telefunken U-47 and U-48 tube condensers, captured to Ampex tape with careful gain staging. The domestic room's acoustic gave the recordings an intimacy and presence that, with the right pressings, remains unmatched.
 
-**The RVG stamp and its significance:** Van Gelder hand-etched "RVG" in the deadwax of every pressing made from his original metalwork. This stamp matters because:
-1. It confirms the pressing is from original metalwork, not a later re-cut from tape
-2. Prestige licensed several European labels using the original metal parts (not tape copies), meaning European pressings with "RVG" in the deadwax are sonically equivalent to the US originals
-3. If "RVG" appears in deadwax alongside other mastering stamps from a later era, it is stamped not hand-etched – distinguishable under magnification
+**Track notes:** "St. Thomas" opens the album in calypso rhythm – drawn from a Danish song called "Vive La Compagnie" that Rollins's Virgin Islands mother used to sing. Rollins explained: "My mother would sing it. What I composed was a derivation of that Danish song. I sort of arranged the melody; that's the most credit I ever take." The Prestige credited it to Rollins for publishing purposes. "You Don't Know What Love Is" is the album's ballad showcase – Rollins at his most lyrical and controlled, the most direct demonstration of his debt to Coleman Hawkins. "Strode Rode" is a Rollins original: an up-tempo bebop line of headlong, relentless logic. "Moritat" is the murder ballad from Kurt Weill and Bertolt Brecht's *The Threepenny Opera* (1928), popularised in English as "Mack the Knife" – Rollins strips it of sentimentality and drives through the changes with sardonic authority. "Blue 7" closes the album: an extended blues of over eleven minutes in which Rollins spontaneously composes the main melody and then develops it. This track is the subject of Gunther Schuller's famous 1958 essay in *The Jazz Review*, "Sonny Rollins and the Challenge of Thematic Improvisation," which argued that Rollins was doing something fundamentally new – building solos from motifs extracted from the theme, developing them with sonata-like logic rather than free association over the changes.
 
-**Tape provenance:** The Prestige catalogue was acquired by Fantasy, then Concord Music Group. The original Van Gelder mono tapes are in the Concord archive and have been the source for all credentialed modern reissues. Analogue Productions worked under licence from Concord for their Prestige mono series.
+**Critical reception:** *Saxophone Colossus* received a five-star review in *Downbeat* on June 27, 1957 (Ralph J. Gleason). AllMusic gives it five stars: "Saxophone Colossus is arguably his finest all-around set." The Penguin Guide to Jazz places it in its Core Collection. In 2017 it was inducted into the Library of Congress National Recording Registry as "culturally, historically, or artistically significant." Rollins died at his home in Woodstock, New York on **May 25, 2026**, aged 95, of pulmonary fibrosis.
+
+**Tape provenance:** The original Van Gelder mono master tapes are held in the Concord Music Group archive (Concord acquired the Fantasy/Prestige catalogue). Analogue Productions worked under licence from Concord for their Prestige mono series. The DCC Compact Classics release (1995) also drew on the original analog masters. All credentialed modern reissues have used the original tapes; the DCC and AP both confirm this in their liner documentation.
+
+**The mono imperative:** Van Gelder was recording mono at Hackensack – he did not begin stereo recording until Englewood Cliffs. Any "stereo" copy is electronically rechanneled. The green-label Prestige rechanneled reissues create artificial panning that distorts the ensemble balance and should always be avoided. The AP 45rpm two-disc set (r3197967) is tagged "Stereo" on Discogs, which appears to be a cataloguing error – the AP Prestige series for this title was consistently mono, and the matrix confirms KPG mono mastering.
+
+**The RVG stamp:** Van Gelder hand-etched "RVG" in the deadwax of every pressing made from his original metalwork. This confirms the pressing is from original metalwork, not a later re-cut from tape. Prestige licensed several European labels using original metal parts (not tape copies), so European pressings with "RVG" hand-etched are sonically equivalent to US originals. If "RVG" is stamped rather than hand-etched, it indicates a later re-cut.
 
 ---
 
@@ -35,102 +38,109 @@ Van Gelder was recording at Hackensack in his parents' living room, using equipm
 ### First pressing – yellow label, 446 W. 50th Street
 
 The definitive first pressing uses the **yellow label** with **446 W. 50th Street, New York** address:
-- Yellow label with black text
-- "**Long Playing**" and "**Unbreakable**" on label
-- Catalogue: **PRLP 7079** on label
-- **Pressed by Abbey Record Manufacturing Co., Inc.** – "AB" in the deadwax
-- **RVG hand-etched** in the deadwax
-- Matrix: **PRLP-7079-A RVG AB** (Side A) and **PRLP-7079-B RVG AB** (Side B)
-- Laminated sleeve (front only)
-- Flat edge profile pressing ring
+- Yellow label with black text; "Long Playing" and "Unbreakable" on label
+- Catalogue: **PRLP 7079**
+- Pressed by Abbey Record Manufacturing Co. – "AB" in deadwax
+- **RVG hand-etched** in deadwax; Matrix: PRLP-7079-A RVG AB / PRLP-7079-B RVG AB
+- Laminated sleeve; deep groove
 
-**Known address discrepancy:** The back cover of the first pressing has 447 W. 50th; the label has 446 W. 50th. This is a printing inconsistency, not an indicator of different states – both appear on the same copy.
+**Known address discrepancy:** The back cover reads 447 W. 50th; the label reads 446 W. 50th. This appears on the same copy – a printing inconsistency, not a different pressing state.
 
-**Pressing variation:** LJC and collector jrock1675 (whose collection is among the most extensive known for this title) have documented two pressing variations: a "flat edge" copy with B/C stamper numbers, and a "raised lip" copy with A stamper numbers. The significance of this is unclear and may relate to Abbey running two presses simultaneously. Both have RVG hand-etched.
+**Pressing variation:** LJC and collector jrock1675 have documented two variations: a "flat edge" copy with B/C stamper numbers and a "raised lip" copy with A stamper numbers. Both have RVG hand-etched.
 
-**On groove condition:** The heavy tonearms of the late 1950s and 1960s wore grooves on even lightly-played copies. The AP 200g is often preferred for regular listening precisely because a truly NM original is extremely rare. **NM originals: $400–$900.** VG+: **$150–$350.**
+**Condition warning:** Heavy tonearms of the 1950s–60s wore grooves even on lightly-played copies. The AP 200g/180g is often preferred for regular listening precisely because truly NM originals are genuinely rare. **NM originals: $400–$900. VG+: $150–$350.** [Discogs r3934932](https://www.discogs.com/release/3934932-Sonny-Rollins-Saxophone-Colossus)
 
 ### Second pressing – Bergenfield, NJ address
 
-Prestige moved to Bergenfield, NJ, and labels changed accordingly. Bergenfield copies retain "RVG AB" in the deadwax and are from the same original metalwork. Sonically considered equivalent to the first pressing by most collectors. Significantly more affordable: **$100–$250 NM.**
+Prestige moved to Bergenfield, NJ; labels changed accordingly. Bergenfield copies retain "RVG AB" in the deadwax and are from the same original metalwork – sonically considered equivalent to the first pressing by most collectors. Much more affordable: **$100–$250 NM.** [Discogs r7230759](https://www.discogs.com/release/7230759-Sonny-Rollins-Saxophone-Colossus)
 
 ### 1964 gold label reissue – Prestige PRLP 7326
 
-Prestige's habit of renumbering and re-releasing titles. The PRLP 7326 gold label reissue can contain either the original RVG metalwork (if stamped "RVG" by hand) or a new cut. LJC's copy was "very hissy" – pressed on recycled vinyl. The mono switch on the phono stage helps but doesn't fully resolve. Inspect deadwax carefully before buying. **Avoid unless RVG is confirmed hand-etched.**
+Prestige retitled and renumbered the album. The PRLP 7326 gold label can contain either the original RVG metalwork (if hand-etched "RVG") or a new cut from tape. LJC's copy was "very hissy" – pressed on recycled vinyl. **Inspect the deadwax carefully. Avoid unless RVG is confirmed hand-etched.** [Discogs r10176523](https://www.discogs.com/release/10176523-Sonny-Rollins-Saxophone-Colossus)
 
 ---
 
 ## European pressings with original metalwork
 
-Prestige licensed its catalogue to European labels in the late 1950s–early 1960s using the original US metal stampers, not tape copies. European pressings made from these metal parts carry the original Van Gelder cut and are legitimate alternatives to the US originals.
+Prestige licensed its catalogue to European labels in the late 1950s–early 1960s using the original US metal stampers, not tape copies. European pressings from these metal parts carry the original Van Gelder cut.
 
 ### UK Esquire 32-045 (c.1958)
 
-The definitive reference for this pressing is [LJC's Esquire post](https://londonjazzcollector.wordpress.com/2014/09/21/sonny-rollins-saxophone-colossus-1956-esquire/), which documents winning a copy after five years of bidding. The etchings are shallow and difficult to read, but all are present: "RVG" by hand, "AB" (Abbey Manufacturing), original Prestige matrix "PRLP 7079 A and B," and a stamped "1" at 3 o'clock (stamper number). An arrow-shaped stamp appears on Side One around 6 o'clock (function unknown). LJC: "bold and bright as you would expect from this superior recording." A legitimate alternative to the US first press at lower prices, though still collector-priced. **£80–£200 NM.**
+LJC's [definitive post](https://londonjazzcollector.wordpress.com/2014/09/21/sonny-rollins-saxophone-colossus-1956-esquire/) documents all deadwax markings: "RVG" hand-etched, "AB" (Abbey Manufacturing), original Prestige matrix "PRLP 7079 A and B," and a stamped "1" (stamper number). LJC: "bold and bright as you would expect from this superior recording." **£80–£200 NM.** [Discogs r3934957](https://www.discogs.com/release/3934957-Sonny-Rollins-Saxophone-Colossus)
 
 ### Danish Metronome (c.1957–60)
 
-Pressed from original US metal parts; RVG is hand-etched. Multiple collectors confirm the sound is excellent. LJC notes that in the late 1950s and early 1960s, "Prestige reissued titles in Europe by metal parts rather than copy tape. As a result, we have Metronome, Esquire, Barclay, Music Depositato, all with original Van Gelder stamps." **$60–$150 NM with insert.**
+Pressed from original US metal parts; RVG is hand-etched. Multiple collectors confirm excellent sound. LJC: "Prestige reissued titles in Europe by metal parts rather than copy tape. As a result, we have Metronome, Esquire, Barclay, Music Depositato, all with original Van Gelder stamps." **$60–$150 NM with insert.** [Discogs r7219516](https://www.discogs.com/release/7219516-Sonny-Rollins-Saxophone-Colossus)
 
 ### French Barclay
 
-Also from original metal. Harder to find in good condition. **$60–$120 when found.**
+Also from original metal; harder to find in good condition. **$60–$120 when found.**
 
 ---
 
 ## The reissue hierarchy
 
-### DCC Compact Classics GZS-1062 180g 33rpm (1995) – the audiophile predecessor
+### Analogue Productions APRJ 7079 200g/180g mono 33rpm (2013/2022) – the benchmark
 
-**Cat. GZS-1062** | Format: single 180g LP, 33⅓. **Mastered by Steve Hoffman on an all-vacuum tube cutting system; pressed on 100% Pure Virgin Vinyl by RTI.** Under licence from Fantasy.
+**Cat. APRJ 7079** | Barcode: **753088707933** | Format: single 200g (2013, [Discogs r4403277](https://www.discogs.com/release/4403277-Sonny-Rollins-Saxophone-Colossus)) or 180g (2022 repress, [Discogs r22729826](https://www.discogs.com/release/22729826-Sonny-Rollins-Saxophone-Colossus)) LP, 33⅓, mono, gatefold tip-on jacket. **Mastered by Kevin Gray at Cohearent Audio (KPG), AAA, from the original analogue mono masters at Concord. Pressed at QRP.** Deep-groove label profile; flat edge; faithful to original format. Matrix: **PRLP-7079-A KPG @ CA QRP KEVIN GRAY** / **PRLP-7079-B KPG @ CA QRP KEVIN GRAY**
 
-The DCC was the audiophile benchmark for this title before the Analogue Productions series. One StereoNET reviewer: "1995 pressing mastered by Steve Hoffman on an all vacuum tube cutting system and pressed on 100% Pure Virgin Vinyl. Record is super clean and sounds amazing – best version of this record I've heard." The Skeptical Audiophile: "The DCC Heavy Vinyl pressing is a nice record. It's dramatically better than the '80s OJC."
+Dennis Davis, VinylReviews.com (5/5): "Analogue Productions' 33RPM mastering produces an even larger soundstage with better depth. Add to that the fact that the new packaging is far superior to the 45RPM issue, and this one-disc package is Sonny Rollins nirvana." Acoustic Sounds: "The sound on Saxophone Colossus is upfront and immediate." Multiple Discogs owners: "Brilliant mastering, flat and silent vinyl." "One of the best sounding records I have ever heard!" "Absolute Fantastic Pressing and a Live Atmosphere."
 
-**Important note on catalogue confusion:** A later Analogue Productions pressing (AAPJ-7079) was pressed "using master plates from the 1995 DCC issue remastered by Steve Hoffman and Kevin Gray" according to its Discogs entry – meaning some AP-labelled copies actually use the Hoffman/Gray DCC metalwork, not a fresh Kevin Gray cut. The matrix for this variant reads "OJC-191 A 892-1 STEVE HOFFMAN/KEVIN GRAY" (struck through). The genuine AP Kevin Gray 2013 series pressing has "PRLP-7079-A KPG @ CA QRP KEVIN GRAY" in the deadwax. Check before buying. **DCC original: $60–$120 used.**
+The 2022 repress (r22729826) uses 180g rather than 200g vinyl; matrix and mastering are identical to the 2013 original. Owners confirm: "Who knew mono could sound this good?! Flat, quiet and very clear sounding." Still available new at list price. **$60–$90 new; 200g 2013 original: $80–$120 secondary.**
 
-### Analogue Productions PRLP 7079 200g/180g mono 33rpm (2013/2022) – the benchmark
+**Catalogue note:** Acoustic Sounds lists the current product under cat# APRJ 7079; early references show PRLP 7079. Both refer to the same Kevin Gray mastering.
 
-**Cat. PRLP 7079 / 753088707933** | Format: single 200g (2013) or 180g (2022) LP, 33⅓, gatefold tip-on jacket. **Mastered by Kevin Gray at Cohearent Audio (KPG), AAA, from the original analogue mono masters at Concord. Pressed at QRP.** Deep-groove label profile; flat edge; faithful to original format. Machine-numbered in gold ink (2013 pressing).
+### DCC Compact Classics GZS-1062 180g 33rpm (1995) – the tube-cut predecessor
 
-Matrix: **PRLP-7079-A KPG @ CA QRP KEVIN GRAY** / **PRLP-7079-B KPG @ CA QRP KEVIN GRAY**
+**Cat. GZS-1062** | Format: single 180g LP, 33⅓, mono. **Mastered by Steve Hoffman on an all-vacuum tube cutting system; pressed on 100% Pure Virgin Vinyl by RTI.** Under licence from Fantasy. [Discogs r4085008](https://www.discogs.com/release/4085008-Sonny-Rollins-Saxophone-Colossus)
 
-This is the pressing that effectively ended the debate about whether you needed an original to hear the album properly. VinylReviews.com 5/5: "Analogue Productions' 33RPM mastering produces an even larger soundstage with better depth. Add to that the fact that the new packaging is far superior to the 45RPM issue, and this one-disc package is Sonny Rollins nirvana." Acoustic Sounds: "The sound on Saxophone Colossus is upfront and immediate." Discogs: "Brilliant mastering, flat and silent vinyl." "One of the best sounding records I have ever heard!" "Absolute Fantastic Pressing and a Live Atmosphere."
+The DCC was the audiophile benchmark before the AP series. VinylReviews: "The DCC Heavy Vinyl pressing is a nice record. It's dramatically better than the '80s OJC." The Skeptical Audiophile confirms strong performance. Some copies are numbered.
 
-The 2022 repress uses 180g rather than 200g vinyl; the matrix is identical. **$60–$90 new; 200g 2013 original: $80–$120 secondary.**
+**Important matrix note:** A later Analogue Productions pressing (AAPJ-7079) used master plates from the 1995 DCC issue mastered by Hoffman and Kevin Gray – meaning some AP-labelled copies use the Hoffman/Gray DCC metalwork, not a fresh Kevin Gray Cohearent Audio cut. The matrix for this variant reads "OJC-191 A 892-1 STEVE HOFFMAN/KEVIN GRAY" (struck through). The genuine AP Kevin Gray 2013 series has "PRLP-7079-A KPG @ CA QRP KEVIN GRAY." Check the deadwax before buying. **DCC original: $60–$120 used.**
 
 ### Analogue Productions 45rpm 2LP (2004) – the predecessor
 
-AP's earlier Prestige 45rpm series included a *Saxophone Colossus* two-disc set at 45rpm. Kevin Gray mastering, QRP pressing. VinylReviews considered the later 33rpm to surpass it: "the 33RPM AP edition produces an even larger soundstage with better depth." Still excellent, but harder to find and more expensive. **$100–$150 secondary.**
+AP's earlier Prestige 45rpm series included *Saxophone Colossus* as a two-disc 45rpm set. Kevin Gray mastering, QRP pressing. [Discogs r3197967](https://www.discogs.com/release/3197967-Sonny-Rollins-Saxophone-Colossus) – note: this release is tagged "Stereo" on Discogs, which appears to be a cataloguing error; the AP Prestige series was mono for this title, and the deadwax matrix confirms KPG mono mastering. VinylReviews found the later 33rpm surpasses it in soundstage and depth; still excellent. **$100–$200 secondary.**
 
 ### OJC-291 1987 pressing – the budget analogue option
 
-The 1987 OJC reissue is an analogue pressing. The Broken Record shootout finds "good transparency... propulsive energy... crisp key strokes." The sax "sounds strained" at times and the horn is slightly "honky," but it has the right energy. This is the sub-$30 buy.
+The 1987 OJC reissue is an analogue pressing. The Broken Record shootout finds "good transparency... propulsive energy... crisp key strokes," though the horn is occasionally "honky." The correct sub-$30 buy. [Discogs r1376103](https://www.discogs.com/release/1376103-Sonny-Rollins-Saxophone-Colossus)
 
-**Critical distinction:** The **2011 OJC repress** is a repress of the DCC Hoffman/Gray version – cleaner but "lifeless and dull" per The Broken Record: "spot on tonality" but the sax "sounds rolled off." This is often confused with the 1987 OJC. Check the label date. The 1987 is always preferable. **1987 OJC: $15–$30. 2011 OJC: avoid.**
+**Critical distinction:** The **2011 OJC repress** uses scratched-out DCC Hoffman/Gray plates and sounds "lifeless and dull" per The Broken Record: "spot on tonality" but "sax sounds rolled off." Check the copyright date on the label. The 1987 is always preferable. **1987 OJC: $15–$30. 2011 OJC: avoid.** [Discogs r6584452](https://www.discogs.com/release/6584452-Sonny-Rollins-Saxophone-Colossus)
+
+### DOL773HB 180g blue vinyl (2017)
+
+**Cat. DOL773HB** | Format: single 180g LP, 33⅓, blue vinyl. DOL is a European label operating on public-domain status. [Discogs r14481054](https://www.discogs.com/release/14481054-Sonny-Rollins-Saxophone-Colossus)
+
+DOL releases are generally regarded with scepticism due to their unlicensed, digitally-sourced character. This pressing is an exception in the community: one owner reports "quiet, great balanced sounding, not lacking bass, great dynamics and zero static. Blue color is a beautiful nice addition. Would recommend it to everyone!" The pressing quality is specifically praised. A 2026 Discogs master page review: "Excellent dynamics, microdetail, 3d image. I cannot complain about anything, a very very good pressing." However, without a confirmed analogue tape source or licensing documentation, this pressing cannot be recommended over the AP or DCC. Its sound quality relative to its price (~$20–$30) is its main argument. For those who understand the provenance limitations and want an affordable, well-pressed copy: this is worth knowing about.
 
 ---
 
 ## Pressings to avoid
 
-**1970s rechanneled stereo Prestige (green label):** Electronically processed fake stereo, universally condemned. The bass is big and tubey but the panning is incoherent and the ensemble balance is distorted.
+**1970s rechanneled stereo Prestige (green label):** Electronically processed fake stereo from the mono master. Incoherent panning, distorted ensemble balance. Always avoid.
 
-**2011 OJC repress:** Confused with the 1987 OJC but inferior – check the copyright date on the label.
+**2011 OJC repress:** Uses scratched-out DCC stampers; often confused with the 1987 OJC. Check the label date.
 
-**PRLP 7326 gold label (1963) with stamped (not hand-etched) RVG:** This indicates a re-cut from tape, not original metalwork.
+**PRLP 7326 gold label with stamped (not hand-etched) RVG:** Indicates a re-cut from tape, not original metalwork.
+
+**Most EU grey-market editions:** DOL (except DOL773HB which has positive reports as noted above), Waxtime, and similar public-domain EU pressings are digitally sourced without tape access. Avoid for serious listening.
 
 ---
 
 ## Buyer's guide by budget
 
-**Under $30:** The [**1987 OJC-291**](https://www.discogs.com/release/1376103) – analogue, warm, and affordable. The 2011 repress sounds lifeless; confirm the year before buying.
+**~$25 new:** The [**DOL773HB 180g blue vinyl**](https://www.discogs.com/release/14481054-Sonny-Rollins-Saxophone-Colossus) – well-reviewed for pressing quality; provenance unconfirmed but practically excellent for the price. Know what you're buying.
 
-**$60–$90:** The [**AP 200g or 180g mono 33rpm**](https://www.discogs.com/release/4403277) is the definitive modern choice. The pressing is genuinely on par with or surpasses the original for most listeners. Buy new if available.
+**Under $30:** The [**1987 OJC-291**](https://www.discogs.com/release/1376103-Sonny-Rollins-Saxophone-Colossus) – analogue, warm, affordable. Confirm the year before buying; avoid the 2011 repress.
 
-**$60–$120:** The [**DCC GZS-1062**](https://www.discogs.com/release/4085008) if you can find one – Steve Hoffman's tube-cut all-vinyl mastering is genuinely special and has strong advocates.
+**$60–$90 new:** The [**AP 2022 repress APRJ 7079 180g**](https://www.discogs.com/release/22729826-Sonny-Rollins-Saxophone-Colossus) – Kevin Gray, AAA, QRP; still available new; definitive modern pressing.
 
-**$80–$250:** A clean [**Bergenfield second pressing**](https://www.discogs.com/release/7230759) with RVG hand-etched gives you the original Van Gelder metalwork at a fraction of the first-pressing price. Sonically considered equivalent to the 446 W. 50th first pressing.
+**$80–$120:** The [**DCC GZS-1062**](https://www.discogs.com/release/4085008-Sonny-Rollins-Saxophone-Colossus) – Steve Hoffman tube-cut, all-analogue. Strong advocates; a genuine alternative to the AP for those who prefer tube mastering character.
 
-**$400+:** The [**yellow-label 446 W. 50th first pressing**](https://www.discogs.com/release/3934932) in honest VG+ or better. Understand that truly NM copies are mythological; factor groove condition heavily.
+**$100–$250:** A clean [**Bergenfield second pressing**](https://www.discogs.com/release/7230759-Sonny-Rollins-Saxophone-Colossus) with RVG hand-etched – original Van Gelder metalwork at a fraction of first-pressing price; sonically considered equivalent.
+
+**$400+:** The [**yellow-label 446 W. 50th first pressing**](https://www.discogs.com/release/3934932-Sonny-Rollins-Saxophone-Colossus) in honest VG+ or better. Truly NM copies are genuinely rare; factor groove condition heavily.
 
 ---
 
@@ -138,14 +148,15 @@ The 1987 OJC reissue is an analogue pressing. The Broken Record shootout finds "
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | AP 200g/180g mono 33rpm | PRLP 7079 | 2013/2022 | Mono, 33⅓, 200g/180g | Orig tapes → Kevin Gray, AAA, QRP | Definitive modern pressing; "Sonny Rollins nirvana"; $60–$90 | [Discogs](https://www.discogs.com/release/4403277-Sonny-Rollins-Saxophone-Colossus) |
-| **A** | Original yellow label, 446 W. 50th | PRLP 7079 | 1956 | Mono, 33⅓ | RVG / Abbey Manufacturing | First pressing; RVG hand-etched; groove wear pervasive; $400–$900 NM | [Discogs](https://www.discogs.com/release/3934932-Sonny-Rollins-Saxophone-Colossus) |
-| **A** | AP 45rpm 2LP | PRLP 7079 | 2004 | Mono, 45rpm, 2×180g | Orig tapes → Kevin Gray, AAA, QRP | Excellent; superseded by 33rpm for soundstage; $100–$150 | [Discogs](https://www.discogs.com/release/3197967-Sonny-Rollins-Saxophone-Colossus) |
-| **A** | DCC GZS-1062 180g | GZS-1062 | 1995 | Mono, 33⅓, 180g | Orig tapes → Steve Hoffman, tube cut, RTI | Audiophile predecessor; tube-cut character; $60–$120 | [Discogs](https://www.discogs.com/release/4085008-Sonny-Rollins-Saxophone-Colossus) |
+| **S** | AP 200g/180g mono 33rpm | APRJ 7079 | 2013/2022 | Mono, 33⅓, 200g/180g | Orig tapes → Kevin Gray, AAA, QRP | "Sonny Rollins nirvana"; gatefold tip-on; $60–$90 new | [r4403277](https://www.discogs.com/release/4403277-Sonny-Rollins-Saxophone-Colossus) / [r22729826](https://www.discogs.com/release/22729826-Sonny-Rollins-Saxophone-Colossus) |
+| **A** | Original yellow label, 446 W. 50th | PRLP 7079 | 1957 | Mono, 33⅓ | RVG / Abbey Manufacturing | First pressing; RVG hand-etched; groove wear pervasive; $400–$900 NM | [Discogs](https://www.discogs.com/release/3934932-Sonny-Rollins-Saxophone-Colossus) |
+| **A** | DCC GZS-1062 180g | GZS-1062 | 1995 | Mono, 33⅓, 180g | Orig tapes → Steve Hoffman, tube cut, RTI | Tube-cut character; strong advocates; $60–$120 | [Discogs](https://www.discogs.com/release/4085008-Sonny-Rollins-Saxophone-Colossus) |
+| **A** | AP 45rpm 2LP | APRJ 7079 | 2004 | Mono, 45rpm, 2×180g | Orig tapes → Kevin Gray, AAA, QRP | Excellent; superseded by 33rpm for soundstage; $100–$200; check mono tag | [Discogs](https://www.discogs.com/release/3197967-Sonny-Rollins-Saxophone-Colossus) |
+| **B** | Bergenfield NJ second pressing | PRLP 7079 | c.1958 | Mono, 33⅓ | RVG / Abbey Manufacturing | Same metalwork as first press; much cheaper; $100–$250 NM | [Discogs](https://www.discogs.com/release/7230759-Sonny-Rollins-Saxophone-Colossus) |
 | **B** | UK Esquire 32-045 | 32-045 | c.1958 | Mono, 33⅓ | RVG / Abbey metal parts | RVG hand-etched; shallow but genuine; £80–£200 | [Discogs](https://www.discogs.com/release/3934957-Sonny-Rollins-Saxophone-Colossus) |
 | **B** | Danish Metronome | Various | c.1957–60 | Mono, 33⅓ | RVG / Abbey metal parts | RVG confirmed hand-etched; excellent sound; $60–$150 | [Discogs](https://www.discogs.com/release/7219516-Sonny-Rollins-Saxophone-Colossus) |
-| **B** | Bergenfield NJ second pressing | PRLP 7079 | c.1958 | Mono, 33⅓ | RVG / Abbey Manufacturing | Same metalwork as first press; much cheaper; $100–$250 NM | [Discogs](https://www.discogs.com/release/7230759-Sonny-Rollins-Saxophone-Colossus) |
-| **C** | OJC-291 1987 pressing | OJC-291 | 1987 | Mono, 33⅓ | Fantasy Studios analogue | Good energy and transparency; the budget buy; $15–$30 | [Discogs](https://www.discogs.com/release/1376103-Sonny-Rollins-Saxophone-Colossus) |
-| **D** | 2011 OJC repress | OJC-291 | 2011 | Mono, 33⅓ | DCC Hoffman/Gray plates | Uses scratched-out DCC stampers; often confused with 1987 OJC; check label date | [Discogs](https://www.discogs.com/release/6584452-Sonny-Rollins-Saxophone-Colossus) |
+| **C** | OJC-291 1987 pressing | OJC-291 | 1987 | Mono, 33⅓ | Fantasy Studios analogue | Good energy; the budget buy; $15–$30 | [Discogs](https://www.discogs.com/release/1376103-Sonny-Rollins-Saxophone-Colossus) |
+| **C** | DOL773HB 180g blue vinyl | DOL773HB | 2017 | 33⅓, 180g, blue vinyl | Unconfirmed; well-reviewed for pressing quality | "Great dynamics and zero static"; EU public-domain; ~$20–$30 | [Discogs](https://www.discogs.com/release/14481054-Sonny-Rollins-Saxophone-Colossus) |
+| **D** | 2011 OJC repress | OJC-291 | 2011 | Mono, 33⅓ | DCC Hoffman/Gray plates (struck through) | Uses scratched-out DCC stampers; check label date | [Discogs](https://www.discogs.com/release/6584452-Sonny-Rollins-Saxophone-Colossus) |
 | **D** | PRLP 7326 gold label | PRLP 7326 | 1964 | Mono, 33⅓ | Original RVG metalwork; recycled vinyl | Hissy; only worth it if RVG is hand-etched (not stamped) | [Discogs](https://www.discogs.com/release/10176523-Sonny-Rollins-Saxophone-Colossus) |
-| **F** | 1970s rechanneled stereo (green label) | Various | 1970s | Fake stereo | Electronically processed mono | "Off" balance; not recommended | – |
+| **F** | 1970s rechanneled stereo (green label) | Various | 1970s | Fake stereo | Electronically processed mono | Incoherent panning; avoid | – |
