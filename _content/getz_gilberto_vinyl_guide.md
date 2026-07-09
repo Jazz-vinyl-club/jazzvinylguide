@@ -6,7 +6,7 @@
 
 The defining collector issue is the stereo channel reversal. On virtually every commercially released version – from the 1964 original through the 2024 Impex 1Step – the left and right channels are swapped from Ramone's original mixdown. On most pressings, Astrud Gilberto's voice is pinned hard right; on the correctly channelled 2011 Analogue Productions 45rpm and the 2020 Acoustic Sounds Series, she is correctly on the left. Both camps have passionate defenders. The AP uses the true original master tape unused since 1980; the Impex uses a superior pressing format but the reversed copy tape. Choose based on whether you prioritise tape provenance or pressing format.
 
-**Best early pressing for audiophiles:** [US stereo Verve V6-8545 deep-groove](https://www.discogs.com/master/36108-Stan-Getz-Jo%C3%A3o-Gilberto-Getz-Gilberto) – RE-1 matrix, reversed channels but genuine 1964 original lacquer; $200–$500 NM.
+**Best early pressing for audiophiles:** [US stereo Verve V6-8545 deep-groove](https://www.discogs.com/release/170884-Stan-Getz-Joao-Gilberto-Getz-Gilberto) – RE-1 matrix, reversed channels but genuine 1964 original lacquer; $200–$500 NM.
 
 **Best modern pressing for audiophiles:** [Analogue Productions AP-8545 45rpm 2LP](https://www.discogs.com/release/11129763-Stan-Getz-Jo%C3%A3o-Gilberto-Featuring-Antonio-Carlos-Jobim-Getz-Gilberto) – correct channels, true original master, George Marino, AAA; the consensus reference.
 
@@ -126,18 +126,9 @@ Note: there is some collector debate about whether Astrud ends up in the centre 
 
 ---
 
-## The channels debate: a definitive summary
+## The channels debate: the short version
 
-| Version | Astrud's channel | Source tape |
-|---|---|---|
-| 1964 Verve original (all variants) | **RIGHT** (reversed) | EQ cutting copy |
-| All 1970s–2000s reissues | **RIGHT** (reversed) | EQ cutting copy or derivatives |
-| AP 2011 45rpm | **LEFT** (correct) | Phil Ramone's 1963 original mixdown master |
-| Verve AS 2020 33rpm | **LEFT** (correct) | Ryan K. Smith mastering from same source tape |
-| Impex 1Step 2024 | **RIGHT** (reversed) | "New master" post-1964 EQ copy |
-| MoFi 200g LPs | **RIGHT** (reversed) | EQ copy derivatives |
-
-The "correct" orientation (AP, Verve AS) places the ensemble more coherently – Astrud in the left corner, João and Getz sharing the center-right, Banana's drums properly to the right. The "familiar" orientation (all originals, Impex) has been what generations of listeners heard and what many still prefer sonically. This is genuinely subjective territory: some listeners find the reversed version's Astrud-on-right positioning more natural for the song, while others find the corrected version's ensemble cohesion transformative. **The AP 45rpm is the only pressing that gives you both the superior tape source AND correct channels.** If you care about provenance and technical accuracy, it is the answer. If you find the familiar channel orientation more natural and prefer Grundman's warmer sonic character, the Impex is the answer.
+Every pressing of this album falls into one of two camps. **Reversed (Astrud on the right):** the 1964 original and virtually every reissue through the decades, including the Impex 1Step and every MoFi edition – all sourced from the "new master" EQ cutting copy made after 1964. **Correct (Astrud on the left):** only the Speakers Corner pressing, the AP 2011 45rpm, and the 2020 Verve Acoustic Sounds Series, which are the only versions sourced from Phil Ramone's actual 1963 mixdown master. The "correct" orientation places the ensemble more coherently – Astrud in the left corner, João and Getz sharing the center-right, Banana's drums properly to the right – while the "familiar" reversed orientation is what generations of listeners grew up with and what many still prefer. **The AP 45rpm is the only pressing that gives you both the superior tape source and correct channels.** If you care about provenance and technical accuracy, it is the answer; if you find the familiar orientation more natural and prefer Grundman's warmer sonic character on the Impex, that's a legitimate choice too.
 
 ---
 
@@ -167,7 +158,7 @@ Three characteristics of the recording define the pressing hierarchy:
 
 **Under $40:** The [**Verve Acoustic Sounds Series 33⅓ (B0031690-01)**](https://www.discogs.com/release/15833366-Stan-Getz-Joao-Gilberto-Featuring-Antonio-Carlos-Jobim-Getz-Gilberto) is the clear answer. Correct channels, Ryan K. Smith mastering from the original master tape, QRP pressing, affordable. This is the most accessible high-quality pressing of this album ever made. If you own nothing else, own this.
 
-**$40–$150:** The used market for the [**AP 45rpm 2LP (AP-8545)**](https://www.discogs.com/release/11129763-Stan-Getz-Jo%C3%A3o-Gilberto-Featuring-Antonio-Carlos-Jobim-Getz-Gilberto) opens around $100 for VG+/NM copies. This is the step-up from the Acoustic Sounds 33rpm – same master, same correct channels, but the groove-width and dynamic advantages of 45rpm are genuinely audible. A sealed AP is worth paying for. Also in this range: a clean NM [**original US Verve stereo V6-8545**](https://www.discogs.com/master/46559-Stan-Getz-Jo%C3%A3o-Gilberto-Getz-Gilberto) deep-groove or RE-1 copy – different sonic character (channels reversed, older lacquer) but genuine 1964 tube-cutting energy that no modern reissue fully matches.
+**$40–$150:** The used market for the [**AP 45rpm 2LP (AP-8545)**](https://www.discogs.com/release/11129763-Stan-Getz-Jo%C3%A3o-Gilberto-Featuring-Antonio-Carlos-Jobim-Getz-Gilberto) opens around $100 for VG+/NM copies. This is the step-up from the Acoustic Sounds 33rpm – same master, same correct channels, but the groove-width and dynamic advantages of 45rpm are genuinely audible. A sealed AP is worth paying for. Also in this range: a clean NM [**original US Verve stereo V6-8545**](https://www.discogs.com/release/170884-Stan-Getz-Joao-Gilberto-Getz-Gilberto) deep-groove or RE-1 copy – different sonic character (channels reversed, older lacquer) but genuine 1964 tube-cutting energy that no modern reissue fully matches.
 
 **$130–$200:** The [**Impex 1Step (IMP6041-1)**](https://www.discogs.com/release/29941381-Stan-Getz-Jo%C3%A3o-Gilberto-Featuring-Antonio-Carlos-Jobim-Getz-Gilberto) is the luxury option for listeners who prefer the familiar channel orientation and value the 1Step pressing format's ultra-quiet backgrounds. Also offers the bonus tracks and the most lavish packaging of any version. The sonic debate versus the AP is genuine; this comes down to system synergy and channel preference.
 
@@ -179,19 +170,15 @@ Three characteristics of the recording define the pressing hierarchy:
 
 ## Pressing tier summary
 
-| Tier | Pressing | Cat# | Year | Format | Source / Mastering | Channels | Notes |
+| Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | AP 45rpm 2LP | AP-8545 | 2011 | Stereo, 45rpm, 2×200g | Ramone's 1963 original mixdown → George Marino, AAA, QRP | **Correct (Astrud LEFT)** | Only pressing with true original tape + correct orientation; OOP, $150–$400 | – |
-| **S** | Impex 1Step 45rpm 2LP | IMP6041-1 | 2024 | Stereo, 45rpm, 2×180g VR900 | "New master" EQ copy → Bernie Grundman, 1Step | **Reversed (Astrud RIGHT)** | Best pressing quality; contested vs AP on balance; $129.99; 7,500 copies | [Discogs](https://www.discogs.com/release/29941381-Stan-Getz-Jo%C3%A3o-Gilberto-Featuring-Antonio-Carlos-Jobim-Getz-Gilberto) |
-| **A** | Verve Acoustic Sounds Series 33rpm | B0031690-01 | 2020 | Stereo, 33⅓, 180g | Original analog tapes → Ryan K. Smith at Sterling, AAA, QRP | **Correct (Astrud LEFT)** | Best-value pressing; ~$35 new; still in print | [Discogs](https://www.discogs.com/release/15833366-Stan-Getz-Joao-Gilberto-Featuring-Antonio-Carlos-Jobim-Getz-Gilberto) |
-| **B** | Speakers Corner 180g (Kevin Gray) | V6-8545 | 1999/2007 | Stereo, 33⅓, 180g | Original 1963 master tape → Kevin Gray, flat cut, Pallas | **Correct (Astrud LEFT)** | OOP; Hoffman: "best version of the original mix"; $60–$200 | [Discogs](https://www.discogs.com/release/1695530-Stan-Getz-Joao-Gilberto-Featuring-Antonio-Carlos-Jobim-GetzGilberto) |
-| **B** | US Verve stereo original, deep-groove RE-1 | V6-8545 | 1964 | Stereo, 33⅓ | 1964 tube lacquer, EQ cutting copy | **Reversed** | Tape-fresh 1964 energy; reversed channels; NM $200–$500 | [Discogs](https://www.discogs.com/master/36108-Stan-Getz-João-Gilberto-Getz-Gilberto) |
-| **B** | US Verve stereo, non-deep-groove RE-1 | V6-8545 | 1964 | Stereo, 33⅓ | 1964 tube lacquer, EQ copy | Reversed | Excellent but slightly later; NM $100–$300 | – |
-| **B** | Mobile Fidelity 200g 33rpm | MFSL 1-208 | Various | Stereo, 33⅓, 200g | EQ copy derivatives → MoFi mastering | Reversed | Post-MoFi-gate caveat applies; still good; $80–$150 | – |
-| **B** | UK Verve stereo | SVLP 9004 | 1964–66 | Stereo, 33⅓ | UK Polydor pressing | Reversed | Good pressing quality; $80–$200 NM | – |
-| **C** | US Verve stereo RE-2 through RE-6 | V6-8545 | 1964–67 | Stereo, 33⅓ | Later lacquers from EQ copy | Reversed | Diminishing returns; still decent; $50–$150 | – |
-| **C** | Japanese Polydor/Universal pressings | MJ-7069, various | 1970s–2000s | Stereo, 33⅓ | Japanese tape copy | Reversed | Quiet vinyl; collectable; $40–$120 with obi | – |
-| **D** | 1970s–2000s European Verve/Polydor/PolyGram | Various | 1970s–2000s | Stereo, 33⅓ | EQ copy derivatives | Reversed | Variable quality; background noise only | – |
-| **F** | Back to Black 2014 | Various | 2014 | Stereo, 33⅓, 180g | Non-original digital source | Reversed | Worst of the modern reissues; skip | – |
-| **F** | 2018 generic Verve LP | Various | 2018 | Stereo, 33⅓ | Pressed overseas from non-original | Reversed | No merit at any price | – |
-| **F** | DOL and EU grey-market pirates | Various | 2010s+ | Various | CD/digital rip | N/A | Not licensed; digitally sourced | – |
+| **S** | AP 45rpm 2LP | AP-8545 | 2011 | Stereo, 45rpm, 2×200g | Ramone's 1963 original mixdown, George Marino, AAA, QRP | Only pressing with true original tape AND correct channels (Astrud left); OOP, $150–$400 | [Discogs](https://www.discogs.com/release/11129763-Stan-Getz-Jo%C3%A3o-Gilberto-Featuring-Antonio-Carlos-Jobim-Getz-Gilberto) |
+| **S** | Impex 1Step 45rpm 2LP | IMP6041-1 | 2024 | Stereo, 45rpm, 2×180g VR900 | "New master" EQ copy, Bernie Grundman, 1Step | Best pressing quality; reversed channels (Astrud right); $129.99, 7,500 copies | [Discogs](https://www.discogs.com/release/29941381-Stan-Getz-Jo%C3%A3o-Gilberto-Featuring-Antonio-Carlos-Jobim-Getz-Gilberto) |
+| **A** | Verve Acoustic Sounds Series 33⅓ | B0031690-01 | 2020 | Stereo, 33⅓, 180g | Original analog tapes, Ryan K. Smith at Sterling, AAA, QRP | Best-value pressing; correct channels (Astrud left); ~$35 new, still in print | [Discogs](https://www.discogs.com/release/15833366-Stan-Getz-Joao-Gilberto-Featuring-Antonio-Carlos-Jobim-Getz-Gilberto) |
+| **B** | Speakers Corner 180g (Kevin Gray) | V6-8545 | 1999/2007 | Stereo, 33⅓, 180g | Original 1963 master tape, Kevin Gray, flat cut, Pallas | OOP; correct channels (Astrud left) – the only pre-2011 pressing to get this right; $60–$200 | [Discogs](https://www.discogs.com/release/1695530-Stan-Getz-Joao-Gilberto-Featuring-Antonio-Carlos-Jobim-GetzGilberto) |
+| **B** | US Verve stereo original, deep-groove RE-1 | V6-8545 | 1964 | Stereo, 33⅓ | 1964 tube lacquer, EQ cutting copy | Tape-fresh 1964 energy; reversed channels (Astrud right); NM $200–$500 | [Discogs](https://www.discogs.com/release/170884-Stan-Getz-Joao-Gilberto-Getz-Gilberto) |
+| **B** | Mobile Fidelity 200g 33⅓ | MFSL 1-208 | 1994 | Stereo, 33⅓, 200g | Half-speed mastered by Ken Lee from EQ copy derivatives | Predates MoFi-gate; reversed channels (Astrud right); $80–$150 | [Discogs](https://www.discogs.com/release/386125-Stan-Getz-Jo%C3%A3o-Gilberto-Getz-Gilberto) |
+| **C** | UK/European Verve stereo | 2304071 / SVLP 9004 | 1964–66 | Stereo, 33⅓ | Polydor-manufactured European pressing | Good pressing quality; reversed channels; $80–$200 NM | [Discogs](https://www.discogs.com/release/26251973-Stan-Getz-Jo%C3%A3o-Gilberto-Getz-Gilberto) |
+| **C** | US Verve stereo, later matrices (RE-2 through RE-6) | V6-8545 | 1964–67 | Stereo, 33⅓ | Later lacquers from EQ copy | Diminishing returns vs. RE-1; reversed channels; $50–$150 | – (no single specific release; spans multiple Discogs entries under the V6-8545 master) |
+| **F** | Back to Black reissue | Various | 2014 | Stereo, 33⅓, 180g | Non-original digital source | Reversed channels; broadly dismissed as the worst modern reissue; skip | – |
+| **F** | DOL and EU grey-market pressings | Various | 2010s+ | Various | CD/digital rip, unlicensed | Not licensed from Universal; digitally sourced; avoid | – |
