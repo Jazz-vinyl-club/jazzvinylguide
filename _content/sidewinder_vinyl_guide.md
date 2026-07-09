@@ -70,9 +70,13 @@ The **"Bob Crenshaw"** cover misspelling (for Bob Cranshaw) appears on all origi
 
 **Cat. BST 84157** | Format: 180g LP, 33⅓, stereo. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes. Pressed at Optimal in Germany.** The [Blue Note store](https://store.bluenote.com/products/lee-morgan-the-sidewinder-lp-blue-note-classic-vinyl-edition) describes it as "all-analog, mastered by Kevin Gray from the original master tapes." [Discogs](https://www.discogs.com/release/16312236-Lee-Morgan-The-Sidewinder) community is enthusiastic: "KPG's mastering is wonderful and Optimal's pressing is perfect." Another: "Absolutely a 10 out of 10 for the price – balanced, quiet, and richly detailed sound." And, for perspective on what you're getting vs an original: "I was perfectly happy with the BN Classics reissue, which sounds good. But then I found a fairly priced VG+ copy of the original mono and I have no need for the Classics reissue anymore. This thing is bursting with energy compared to the BN Classics." **$20–$30 new.**
 
-### Japanese Toshiba pressing (1976) – the vintage alternative
+### Japanese Toshiba pressing (1976) – a vintage alternative
 
 **Cat. BST-84157** (Toshiba) | Format: 33⅓, stereo, obi strip. **Toshiba Musical Industries, Japan.** The first true Japanese pressing of *The Sidewinder*, issued in 1976 by Toshiba under licence from Blue Note/Liberty. Japanese pressings from this era are known for dead-quiet surfaces and faithful reproduction. Note: earlier copies distributed by Toshiba in 1966–68 were US Liberty pressings sold with Japanese obis – not true domestic pressings; inspect the label text to confirm. **$40–$80 NM with obi.** [Discogs r6462527](https://www.discogs.com/release/6462527-Lee-Morgan-The-Sidewinder)
+
+### King GXF-3015 (1977) – the limited-edition alternative
+
+**Cat. GXF 3015** | Format: 33⅓, stereo, obi strip. **King Record Co. Ltd, Japan, part of King's 1977 "Immortal Masterpiece Selection" – a limited-edition run distinct from Toshiba's licensing and from King's later, larger-run GXK-8000 series.** Collectors of Japanese Blue Note pressings generally regard this earlier, limited GXF-3000 series as sounding better than King's subsequent non-limited GXK reissues, since fewer copies were struck from fresher stampers. A genuinely different pressing from the Toshiba one above – different plant, different licensing arrangement, different era of King's Blue Note distribution. **$40–$90 NM with obi.** [Discogs](https://www.discogs.com/release/5381783-Lee-Morgan-The-Sidewinder)
 
 ---
 
@@ -109,5 +113,6 @@ The **"Bob Crenshaw"** cover misspelling (for Bob Cranshaw) appears on all origi
 | **A** | Original BLP 4157 mono, NY USA label | BLP 4157 | 1964 | Mono, 33⅓ | RVG / Plastylite; native mono | Same authentication; $100–$250 NM | [Discogs](https://www.discogs.com/release/16046297-Lee-Morgan-The-Sidewinder) |
 | **B** | Blue Note Classic Vinyl 180g | BST 84157 | c.2020 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Budget entry; $20–$30 new | [Discogs](https://www.discogs.com/release/16312236-Lee-Morgan-The-Sidewinder) |
 | **B** | Japanese Toshiba pressing | BST-84157 (Toshiba) | 1976 | Stereo, 33⅓ | Licensed Japanese pressing | First true Japanese pressing; dead-quiet vinyl; $40–$80 with obi | [Discogs](https://www.discogs.com/release/6462527-Lee-Morgan-The-Sidewinder) |
+| **B** | King GXF-3015 (limited edition) | GXF 3015 | 1977 | Stereo, 33⅓ | Licensed Japanese pressing, limited run | Distinct from the Toshiba pressing; earlier/fresher stampers than King's later GXK series; $40–$90 with obi | [Discogs](https://www.discogs.com/release/5381783-Lee-Morgan-The-Sidewinder) |
 | **C** | Liberty-era pressing (with VG stamp) | BST 84157 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $30–$80 VG+ | [Discogs](https://www.discogs.com/release/13630870-Lee-Morgan-The-Sidewinder) |
 | **D** | 1970s–80s general reissues | Various | 1970s–80s | Stereo, 33⅓ | Various | Not recommended | – |
