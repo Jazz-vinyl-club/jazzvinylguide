@@ -18,7 +18,7 @@ The album took three sessions and roughly two months to complete. On October 9, 
 
 Paul Bacon designed the cover from a Paul Weller photograph. Ernie Henry died of a drug overdose in mid-1957, not long after the album's release, making *Brilliant Corners* his last studio recording with Monk. The album's critical reception was immediate and significant: Down Beat named it the most acclaimed jazz album of 1957, and editor Nat Hentoff's five-star review called it "Riverside's most important modern jazz LP to date." AllMusic's retrospective review, also five stars, praised its enduring stature within postwar American jazz. The Penguin Guide to Jazz placed it in its core collection with a crown rating. *Brilliant Corners* was inducted into the Grammy Hall of Fame in 1999 and added to the Library of Congress National Recording Registry in 2003; it also appears in *1001 Albums You Must Hear Before You Die*. Its success coincided with the restoration of Monk's New York City cabaret card in early 1957 after a six-year revocation, clearing the way for his career-defining residency at the Five Spot Café with John Coltrane later that year.
 
-The master tapes are held by Concord (via its Fantasy/Riverside catalog, now administered through Craft Recordings), and all of the modern audiophile reissues below – Analogue Productions, Craft's Small Batch series, and Electric Recording Company – are cut directly from those tapes rather than from safety copies or digital intermediaries.
+The master tapes are held by Concord (via its Fantasy/Riverside catalog, now administered through Craft Recordings), and all of the modern audiophile reissues below – Analogue Productions, Craft's Small Batch series, and Electric Recording Company – are cut directly from those tapes rather than from safety copies or digital intermediaries. The tape's continued quality is also reflected off the vinyl market: a 15ips reel-to-reel dub from The Tape Project appears on The Absolute Sound's 2025 Super Tape List.
 
 ---
 
@@ -66,7 +66,7 @@ The true first pressing carries white labels with the "mic and reels" logo and "
 
 ## Pressings to avoid
 
-A yellow-vinyl reissue on the Italian budget label Ermitage (item code VNL22709, 2025) circulates new through UK and European retailers at a low price point. It is sourced from a heavily compressed digital master rather than the analog tapes, and listeners have described the bass and drums as badly degraded. It is not a bootleg, but its colored-vinyl novelty packaging can make it look like a legitimate collectible pressing to buyers unfamiliar with its digital provenance.
+This title has been reissued more than 100 times, and a wave of European public-domain labels – Ermitage, Wax Time, Not Now, DOL, and others – has released cheap colored-vinyl and budget-black-vinyl copies sourced from compressed digital masters (CD rips or worse) rather than the analog tapes. A current example actively sold new through UK and EU retailers is a yellow-vinyl Ermitage pressing (item code VNL22709, 2025); collectors who've compared it to the tape-sourced pressings describe the bass and drums as badly degraded. None of these are bootlegs or fakes in the legal sense – EU copyright term has lapsed on this recording – but their novelty packaging can make them look like legitimate collectible pressings to buyers who don't know their source is digital.
 
 ---
 
