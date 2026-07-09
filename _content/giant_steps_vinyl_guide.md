@@ -145,7 +145,7 @@ Toshiba-EMI pressed Atlantic Coltrane titles throughout the 1970s–80s and thes
 
 **Under $35:** The [**Rhino 60th Anniversary 180g stereo (2020)**](https://www.discogs.com/release/15928051-John-Coltrane-Giant-Steps) for stereo, or the [**Rhino mono 2017**](https://www.discogs.com/release/10456756-John-Coltrane-Giant-Steps) for mono. Both excellent value.
 
-**~$30–$40 new:** The [**Rhino Hi-Fi mono (RHF 1311, 2026)**](https://www.discogs.com/release/36150202-John-Coltrane-Giant-Steps-) (Kevin Gray, AAA) if you want a properly analogue mono pressing; the [**AP Atlantic 75 33rpm**](https://www.discogs.com/release/30051634-John-Coltrane-Giant-Steps) if you want the same engineer as the 45rpm at half the price.
+**~$30–$40 new:** The [**Rhino Hi-Fi mono (RHF 1311, 2026)**](https://www.discogs.com/release/36150202-John-Coltrane-Giant-Steps) (Kevin Gray, AAA) if you want a properly analogue mono pressing; the [**AP Atlantic 75 33rpm**](https://www.discogs.com/release/30051634-John-Coltrane-Giant-Steps) if you want the same engineer as the 45rpm at half the price.
 
 **$50–$80:** The [**AP Atlantic 75 45rpm 2LP**](https://www.discogs.com/release/30051634-John-Coltrane-Giant-Steps) for the stereo audiophile summit. Know that you're buying into the hard-panned stereo mix; if that doesn't suit you, the Rhino stereo 33 is the more enjoyable listen for most ears.
 
