@@ -101,9 +101,6 @@ The current stereo benchmark at an accessible price. Discogs: "I spent much of m
 
 **Known defect:** Some copies have the label on Side A unattached to the centre hole – cosmetic only, does not affect sound. **~$50–$80 new.**
 
-### AP Atlantic 75 33rpm 180g stereo (2024)
-
-**Cat. AAPA 010** | Same Ryan K. Smith mastering and QRP pressing plant as the 45rpm, but at 33⅓ on a single disc. Approximately half the price. A sound choice for those who prefer the convenience of 33rpm. **~$30–$40 new.**
 
 ### Rhino Reserve 180g stereo (2025)
 
