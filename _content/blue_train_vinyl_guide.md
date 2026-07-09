@@ -107,7 +107,9 @@ A companion **Blue Train: The Complete Masters 2LP stereo** (cat. B0035203-01, s
 
 **Under $30:** The [**Blue Note Classic Vinyl BLP 1577 mono**](https://www.discogs.com/release/16188585-John-Coltrane-Blue-Train) – Kevin Gray mastering, Optimal pressing. The starting point.
 
-**$45–$65:** The [**Blue Note Tone Poet mono (2022)**](https://www.discogs.com/release/24504497-John-Coltrane-Blue-Train) – the definitive modern version. This is the recommended purchase for any serious listener.
+**$45–$65:** The [**Tone Poet 180g mono (B0035203-01)**](https://www.discogs.com/release/24504497-John-Coltrane-Blue-Train) – the definitive mono. Recommended for most listeners.
+
+**$60–$90:** The [**Tone Poet Complete Masters 2LP stereo (B0035204-01)**](https://www.discogs.com/release/24522110-John-Coltrane-Blue-Train-The-Complete-Masters) – Kevin Gray stereo cut, 7 bonus takes, bound booklet. Best value for stereo listeners; Analog Planet rated it the superior choice for headphone listening.
 
 **$100–$200:** The [**Analogue Productions 45rpm 2LP stereo (ABNJ-81577)**](https://www.discogs.com/release/9908455-John-Coltrane-Blue-Train) – Kevin Gray and Steve Hoffman, 200g QRP. The stereo counterpart to the Tone Poet mono; TAS Super LP. For listeners who prefer the stereo presentation.
 
