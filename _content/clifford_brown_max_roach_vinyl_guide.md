@@ -49,7 +49,7 @@ The quintet signed with EmArcy, Mercury's new jazz imprint, in the summer of 195
 
 ### 10" EmArcy MG-26043 (December 1954) – the true first pressing
 
-The original release was a **10" LP** containing five tracks: "Delilah," "Parisian Thoroughfare," "Daahoud," "Joy Spring," and "Jordu." All from the August 1954 Hollywood sessions. Label: EmArcy, yellow and silver label typical of the 1954 Mercury/EmArcy design. Extremely rare in excellent condition. **$400–$1,000+ NM.**
+The original release was a **10" LP** containing five tracks: "Delilah," "Parisian Thoroughfare," "Daahoud," "Joy Spring," and "Jordu." All from the August 1954 Hollywood sessions. Label: EmArcy, yellow and silver label typical of the 1954 Mercury/EmArcy design. Extremely rare in excellent condition. [Discogs r4869491](https://www.discogs.com/release/4869491-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach). **$400–$1,000+ NM.**
 
 ### 12" EmArcy MG-36036 (1955) – the standard collectible
 
@@ -96,7 +96,7 @@ EmArcy titles were licensed to Nippon Phonogram / Mercury Japan and later to Pol
 
 ## Buyer's guide by budget
 
-**Under $50:** The [**Acoustic Sounds Series AEMA 78844 180g mono (2025)**](https://www.discogs.com/master/302135-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – Matthew Lutthans, QRP, the definitive accessible modern option. ~$35–$45 new from Acoustic Sounds.
+**$35–$50:** The [**Acoustic Sounds Series AEMA 78844 180g mono (2025)**](https://www.discogs.com/master/302135-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – Matthew Lutthans, QRP, the definitive accessible modern option. ~$35–$45 new from Acoustic Sounds.
 
 **$40–$100:** A [**Japanese Mercury/EmArcy pressing with obi**](https://www.discogs.com/master/302135-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – dead-quiet vinyl, warm mono character; strong secondary option.
 
