@@ -2,18 +2,115 @@
 
 ## Summary
 
-*Go!* by Dexter Gordon, released on Blue Note in 1962. Guide coming soon.
+*Go!* was recorded on **August 27, 1962** at Van Gelder Studio, Englewood Cliffs, New Jersey. Personnel: Dexter Gordon (tenor saxophone); Sonny Clark (piano); Butch Warren (bass); Billy Higgins (drums). Produced by **Alfred Lion**; engineered by **Rudy Van Gelder**. Released **December 1962** on Blue Note as **BLP 4112** (mono) and **BST 84112** (stereo). The album title is borrowed from the Beat generation – specifically the 1952 novel by John Clellon Holmes, the first published novel to use the word "beat" to describe the postwar generation. Selected by the Library of Congress for the National Recording Registry in 2019.
 
-**Best early pressing for audiophiles:** Original Blue Note first pressing.
+Gordon named *Go!* the favourite of all his recordings, and the reason he gave was the rhythm section: "The perfect rhythm section which made it possible for me to play whatever I wanted to play." Sonny Clark died in January 1963 aged 31 – just four months after this session – making this among his finest and last recordings. Gordon nicknamed Billy Higgins "Smiling Billy," saying that whenever he looked over at him, he knew everything was going to be OK. The recording is hard bop at full stretch: big tone, storytelling solos, and a rhythm section that swings without effort.
 
-**Best modern pressing for audiophiles:** To be researched.
+The Analogue Productions 45rpm 2LP is the S-tier reference pressing. The Music Matters 33rpm is the excellent alternative when the AP is unavailable. The Blue Note Classic Vinyl is the entry-level option with some documented QC variation.
 
-**Best-value modern:** To be researched.
+**Best early pressing for audiophiles:** [Original Blue Note BLP 4112 mono, NY USA label](https://www.discogs.com/release/1988407-Dexter-Gordon-Go) – deep groove, Van Gelder stamp, Plastylite ear; $300–$700 NM.
+
+**Best modern pressing for audiophiles:** [Analogue Productions AP-84112 45rpm 2LP 180g (2008)](https://www.discogs.com/release/3747701-Dexter-Gordon-Go) – Kevin Gray and Steve Hoffman, AcousTech, QRP; $150–$300 secondary.
+
+**Best-value modern:** [Blue Note Classic Vinyl BST 84112 180g (2021)](https://www.discogs.com/release/19583212-Dexter-Gordon-Go) – Kevin Gray, Optimal; ~$25–$35 new.
 
 
 ## Recording history and tape provenance
 
-Guide in progress.
+Dexter Gordon was born in Los Angeles on February 27, 1923, the son of Dr. Frank Gordon – one of the first African American physicians in Los Angeles, whose patients included Duke Ellington and Lionel Hampton. Gordon took up clarinet at 13, alto saxophone at 15, tenor at 17. He studied with Lloyd Reese at Jefferson High School and by 1943 was playing with Lee Young and the Fletcher Henderson Orchestra. In 1944 he joined Billy Eckstine's Orchestra alongside Dizzy Gillespie, Sarah Vaughan, and Charlie Parker, and became one of the first saxophonists to fully master and extend the bebop language. He was 6 feet 6 inches tall – nicknamed "Long Tall Dexter" and "Sophisticated Giant."
+
+After a period of considerable output in the late 1940s (the celebrated "tenor battles" with Wardell Gray and Teddy Edwards on Los Angeles's Central Avenue), drug problems resulted in prison time and extended periods of inactivity through the 1950s. On February 25, 1962 – two days before his 39th birthday – Gordon was formally discharged from the California penal system and permitted to travel outside Los Angeles. He described 1962 as one of his "phoenix rising" years. Alfred Lion had signed him to Blue Note in November 1960; by August 1962 Gordon had already recorded four other Blue Note sessions that year.
+
+The quartet assembled for the August 27 session had never played together as a unit before. **Sonny Clark** – whose own 1958 Blue Note album *Cool Struttin'* is itself a jazz landmark – was one of the most sought-after pianists in New York; **Butch Warren** and **Billy Higgins** were Blue Note regulars. Despite this being their first meeting as a four-piece, the Blue Note blog notes that [they functioned "like a well-oiled machine"](https://www.bluenote.com/spotlight/summer-of-62-dexter-gordon/). According to [Everything Jazz](https://www.everythingjazz.com/story/go-how-dexter-gordon-created-his-masterpiece/), the band rehearsed for two days in a space opposite Birdland on West 63rd Street before the session. On the morning of August 27, a cab picked them up from the Empire Hotel on West 63rd and drove them across the Hudson River to Van Gelder's studio. The session was Gordon's fifth visit to the studio that year.
+
+**Track notes:** "Cheese Cake" – Gordon's original and signature composition – opens the album. JazzTimes included it in their 2017 poll of 40 Essential Solos; Ryan Keberle noted: "This is a study in what makes a melody a good melody." "I Guess I'll Hang My Tears Out to Dry" and "Where Are You" are two Sinatra-associated ballads, delivered with Gordon's characteristic smoky, behind-the-beat lyricism. "Love for Sale" became an all-time Blue Note classic, with Higgins driving a particularly muscular groove. "Three O'Clock in the Morning" is a romping blues that opens with the same eight-note grandfather clock figure used to launch the standard "If I Were a Bell"; the band took three takes to nail it. [Everything Jazz](https://www.everythingjazz.com/story/go-how-dexter-gordon-created-his-masterpiece/) notes that "Guess I'll Hang My Tears Out to Dry" currently has over 46 million Spotify plays – exceptional reach for a 1962 hard bop recording.
+
+**Gordon and Higgins:** Gordon was particularly attached to Billy Higgins, whom he nicknamed "Smiling Billy." He told interviewers repeatedly that Higgins was "the swingingest" drummer in the world, and that whenever he looked over at him during a performance, he knew everything was going to be OK. The simpatico quality of this trust is audible throughout the album.
+
+**Sonny Clark:** Clark recorded this session in August 1962. He died on January 13, 1963, aged 31, of a heroin overdose – making *Go!* one of his last recorded performances. For many listeners who discover Clark through this album, knowing this adds a particular poignancy to his playing, which is utterly confident and perfectly placed throughout.
+
+**After the session:** On September 12, 1962 – weeks after *Go!* was recorded – Gordon wrote an excited letter from London to Alfred Lion and Francis Wolff: "The audiences have been tremendous and it is certainly good for my ego." He had accepted Ronnie Scott's invitation to play at his club on Gerrard Street. The London residency led to a fourteen-year stay in Europe, primarily in Copenhagen.
+
+**Cover design:** Reid Miles designed the cover – one of his most striking Blue Note compositions. A Francis Wolff photograph of Gordon shot from below, cigarette in hand, looking down with characteristic ease. The low angle emphasises Gordon's extraordinary height and physical presence. Cigarettes appear regularly on Gordon's album covers; Wolff had a gift for capturing musicians in unguarded, human moments rather than posed portraits.
+
+**Critical reception:** AllMusic gives *Go!* five stars, calling it "one of the jewels of the entire Blue Note catalog. Muscular yet brooding, it's one of the greatest hard bop albums of all time." The Penguin Guide to Jazz selected it for the Core Collection. The Library of Congress inducted it into the National Recording Registry in 2019. Gordon named it his favourite of all his recordings.
+
+**Tape provenance:** The original Alfred Lion–era tapes are in the Blue Note/Universal archive. Analogue Productions confirmed working from the original Blue Note master tapes at AcousTech. Music Matters and the Classic Vinyl series both confirmed all-analog from original master tapes.
+
+---
+
+## Mono vs. stereo
+
+Both BLP 4112 (mono) and BST 84112 (stereo) are native Van Gelder recordings. The mono is the purist's recommendation for this session – Gordon's tenor has more presence and weight in mono, and the rhythm section integrates more naturally without the stereo spread. The stereo is more commonly encountered and all modern reissues are stereo. Either is a legitimate listening choice; mono is the slight recommendation for focused listening.
+
+---
+
+## Original Blue Note pressings
+
+**Catalogue: BLP 4112** (mono) / **BST 84112** (stereo)
+
+### First pressing – New York USA label
+
+Authentication markers for the earliest copies:
+
+- **"Blue Note Records Inc. • New York USA"** on labels
+- **Van Gelder stamp** in deadwax
+- **Plastylite ear** in deadwax
+- **Deep groove** on earliest copies
+- Mono matrix: **BNLP-4112-A VAN GELDER P** / **BNLP-4112-B VAN GELDER P**
+- Stereo matrix: **BNST-84112-A VAN GELDER P** / **BNST-84112-B VAN GELDER P**
+
+**NM mono originals: $300–$700. NM stereo originals: $200–$500.**
+
+### Liberty-era pressings (1966–1971)
+
+"A Division of Liberty Records Inc." label text. East Coast Van Gelder–stamped copies remain musically excellent. **$50–$120 VG+.**
+
+---
+
+## The reissue hierarchy
+
+### Analogue Productions AP-84112 45rpm 2LP 180g (2008) – the definitive modern reference
+
+**Cat. AP-84112** | Format: 2×180g LP, 45rpm, stereo, glossy gatefold with Blue Note fold-out catalogue. **Mastered by Kevin Gray and Steve Hoffman at AcousTech Mastering (KPG&SH@ATM confirmed in deadwax). Pressed at QRP.** Part of the first set of Analogue Productions Blue Note Reissues. Some copies are numbered by a sticker on the back. Selected for the Vinyl Gourmet Audiophile list.
+
+[Discogs](https://www.discogs.com/release/3747701-Dexter-Gordon-Go) community: "This pressing is simply phenomenal. Kevin Gray and Steve Hoffman have done a remarkable job bringing out every nuance." Another: "The AP is the definitive version of this album on vinyl. Nothing comes close." A third: "The 2021 Kevin Gray remaster is quite an improvement over this 2008 reissue" – a reference to the Classic Vinyl, which some find more revealing on modern systems. Now out of print. **$150–$300 secondary.**
+
+### Music Matters 33rpm 180g (2014) – the 33rpm reference
+
+**Cat. MM33 BNST-84112** | Format: 180g LP, 33⅓, stereo, gatefold with session photos. **Mastered by Kevin Gray and Ron Rambach at Cohearent Audio, from the original Blue Note stereo master tapes. Pressed at RTI. Limited to 3,500 copies.** Matrix confirms: **MM33 BNST-84112-A P RR&KPG@CA 22333.1(3)**. Discogs owners: "One of the jazz albums of all time. MM, hats off to you." Another: "Finally got a MM version and wow. Beautiful pressing, cover and sound." Out of print. **$100–$200 secondary.** [Discogs r5687834](https://www.discogs.com/release/5687834-Dexter-Gordon-Go)
+
+### Blue Note Classic Vinyl 180g (2021) – the accessible entry point
+
+**Cat. BST 84112** | Format: 180g LP, 33⅓, stereo. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes. Pressed at Optimal in Germany.** Reviews are positive but non-fill QC issues are documented on some copies – a recurring Optimal plant issue for this series. [Discogs](https://www.discogs.com/release/19583212-Dexter-Gordon-Go): "Blue Note hits another homerun with this reissue. Dead quiet, great subs, mids and crisp highs." A contrasting note: "My copy has random non-fill distortion all over it but is quiet and flat." And: "One of those albums you regularly see mentioned in audiophile forums – definitely worth picking up a copy at this price." Buy with a returns option. **~$25–$35 new.**
+
+### Japanese pressings – the vintage alternative
+
+Japanese Blue Note pressings of *Go!* – primarily from Toshiba-EMI and King Records in the 1970s and early 1980s – are consistently praised for dead-quiet vinyl and faithful, warm reproduction. As with most Japanese Blue Note titles of this era, they were pressed under licence using dubbed tape sources, but the quality of Japanese vinyl and pressing plants from this period is exceptional. A 1985 German DMM pressing (r3419426) is specifically noted on the Discogs master page as inferior to the Japanese copies; the DMM process can cause listening fatigue on certain systems. **Japanese pressings: $40–$100 NM with obi.** [Discogs master](https://www.discogs.com/master/121331-Dexter-Gordon-Go)
+
+---
+
+## Pressings to avoid
+
+**1985 German DMM pressing (r3419426):** Direct Metal Mastering pressings of this title are noted on the Discogs master page as specifically inferior to Japanese copies. One reviewer: "DMM is not among the desired Blue Note pressings and is advised to avoid." The Classic Vinyl is a better choice at a similar price.
+
+**Tone Poet note:** As of mid-2026, no Tone Poet edition of *Go!* has been released. Given the album's canonical status, a Tone Poet is a reasonable expectation at some point.
+
+**Generic EU reissues (DOL, Waxtime, etc.):** Not licensed or sourced from original tapes. Avoid.
+
+---
+
+## Buyer's guide by budget
+
+**Under $35:** The [**Blue Note Classic Vinyl BST 84112 (2021)**](https://www.discogs.com/release/19583212-Dexter-Gordon-Go) – Kevin Gray, Optimal, 180g. Buy with returns given documented QC variation on some copies.
+
+**$40–$100:** A [**Japanese Toshiba or King pressing**](https://www.discogs.com/master/121331-Dexter-Gordon-Go) with obi – dead-quiet vinyl, warm character, faithful to the tape.
+
+**$100–$200:** The [**Music Matters 33rpm MM33 BNST-84112 (2014)**](https://www.discogs.com/release/5687834-Dexter-Gordon-Go) if found at a fair price – excellent pressing, Kevin Gray and Ron Rambach, 3,500 copies.
+
+**$150–$300:** The [**AP 45rpm 2LP AP-84112 (2008)**](https://www.discogs.com/release/3747701-Dexter-Gordon-Go) – the definitive modern pressing; Kevin Gray and Steve Hoffman; out of print.
+
+**$300–$700:** An original [**BLP 4112 mono NY USA label**](https://www.discogs.com/release/1988407-Dexter-Gordon-Go) in honest VG+ with Van Gelder stamp and Plastylite ear – the purist's choice and Gordon's own format.
 
 ---
 
@@ -21,4 +118,12 @@ Guide in progress.
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | Original Blue Note first pressing | – | 1962 | Stereo, 33⅓ | Original master | Guide in progress | – |
+| **S** | AP 45rpm 2LP 180g | AP-84112 | 2008 | Stereo, 45rpm, 2×180g | Orig tapes → Gray & Hoffman, AcousTech, QRP | Vinyl Gourmet-selected; OOP $150–$300 | [Discogs](https://www.discogs.com/release/3747701-Dexter-Gordon-Go) |
+| **A** | Original BLP 4112 mono, NY USA label | BLP 4112 | 1962 | Mono, 33⅓ | RVG / Plastylite; native mono | Deep groove; $300–$700 NM | [Discogs](https://www.discogs.com/release/1988407-Dexter-Gordon-Go) |
+| **A** | Original BST 84112 stereo, NY USA label | BST 84112 | 1962 | Stereo, 33⅓ | RVG / Plastylite; native stereo | Deep groove; $200–$500 NM | [Discogs](https://www.discogs.com/master/121331-Dexter-Gordon-Go) |
+| **B** | Music Matters 33rpm 180g | MM33 BNST-84112 | 2014 | Stereo, 33⅓, 180g | Orig tapes → Gray & Rambach, Cohearent, RTI | 3,500 copies; OOP $100–$200 | [Discogs](https://www.discogs.com/release/5687834-Dexter-Gordon-Go) |
+| **B** | Japanese Toshiba/King pressing | Various | 1970s–80s | Stereo, 33⅓ | Licensed Japanese pressing | Dead-quiet; warm; $40–$100 with obi | [Discogs](https://www.discogs.com/master/121331-Dexter-Gordon-Go) |
+| **C** | Blue Note Classic Vinyl 180g | BST 84112 | 2021 | Stereo, 33⅓, 180g | Orig tapes → Kevin Gray, Cohearent, Optimal | QC variation documented; buy with returns; ~$25–$35 | [Discogs](https://www.discogs.com/release/19583212-Dexter-Gordon-Go) |
+| **C** | Liberty-era pressing (VG-stamped) | BST 84112 | 1966–71 | Stereo, 33⅓ | RVG East Coast (if stamped) | Check deadwax; $50–$120 VG+ | [Discogs](https://www.discogs.com/master/121331-Dexter-Gordon-Go) |
+| **D** | 1985 German DMM pressing | BST-84112 | 1985 | Stereo, 33⅓ | DMM mastering | Specifically noted as inferior to Japanese; avoid | [Discogs](https://www.discogs.com/release/3419426-Dexter-Gordon-Go) |
+| **F** | Generic EU reissues (DOL, Waxtime, etc.) | Various | 2000s+ | Various | Digital, unlicensed | Avoid | – |
