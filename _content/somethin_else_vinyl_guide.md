@@ -6,13 +6,13 @@
 
 This was nominally Adderley's date, but Davis's contractual arrangement with Columbia made him a guest – which is why the back cover states he "performs by courtesy of Columbia Records." In practice Davis led the session: he called most of the tunes, wrote the title track, and played the head melodies on "Autumn Leaves" and "Love for Sale" with Hank Jones while Adderley sat out until his solo choruses. It is one of the few times Davis recorded as a sideman after the mid-1950s. [AllMusic](https://www.allmusic.com/album/somethin-else-mw0000247835) calls it "one of the most gloriously laid-back blowing sessions of the hard bop era… in which both horn players are at their peak of lyrical invention." The Penguin Guide to Jazz selected it for the Core Collection.
 
-The original mono is the definitive presentation – the only format recommended for listening. The mono tape captures Davis's muted trumpet with extraordinary intimacy and places Blakey's drums in the room with the listener. Four premium modern options exist – Analogue Productions' 45rpm, the MoFi UltraDisc One-Step, Music Matters' 33⅓, and Classic Records' QUIEX SV-P – with the Blue Note Classic Vinyl offering daily-listener quality at a fraction of the price.
+The original mono captures Davis's muted trumpet with extraordinary intimacy and places Blakey's drums in the room with the listener, and remains the most common collector recommendation. But this title's stereo story is more interesting than most 1958 Blue Notes: Van Gelder recorded the session to genuine two-track tape from the start, and BST 81595 is now understood to be one of the very first true stereo masters Blue Note ever cut – not a later electronically-rechanneled fake, but a legitimate stereo mix from the same session tape. Both formats are genuine; this isn't a mono-vs-fake-stereo situation like some period Blue Notes. Four premium modern mono options exist – Analogue Productions' 45rpm, the MoFi UltraDisc One-Step, Music Matters' 33⅓, and Classic Records' QUIEX SV-P – while the Blue Note Classic Vinyl offers a genuine stereo cut at a fraction of the price.
 
 **Best early pressing for audiophiles:** [Original Blue Note BLP 1595 mono, 47 West 63rd label](https://www.discogs.com/release/982633-Cannonball-Adderley-Somethin-Else) – deep groove both sides, RVG etched, Plastylite P; $400–$900 NM.
 
 **Best modern pressing for audiophiles:** [MoFi UltraDisc One-Step 45rpm 2LP (2019)](https://www.discogs.com/release/13949563-Cannonball-Adderley-Somethin-Else) – one-step plating, 180g, QRP, 5,000 numbered copies.
 
-**Best-value modern:** [Blue Note Classic Vinyl BLP 1595 (2020)](https://www.discogs.com/release/16941781-Cannonball-Adderley-Somethin-Else) – Kevin Gray, Optimal, 180g; ~$25 new.
+**Best-value modern:** [Blue Note Classic Vinyl BST 1595 (2021)](https://www.discogs.com/release/17355181-Cannonball-Adderley-Somethin-Else) – Kevin Gray, Optimal, 180g, genuine stereo; ~$25 new.
 
 
 ## Recording history and tape provenance
@@ -29,15 +29,15 @@ Davis led the session in everything but name: he called most of the tunes, playe
 
 **Cover design:** Reid Miles designed the purely typographic cover – no photographs, almost certainly due to the contractual complexities of Davis and Hank Jones appearing on a Blue Note record under contract to other labels. LJC notes the compositional elegance of the design: Miles gave "Cannonball Adderley" two lines (Cannonball condensed, Adderley spaced) to contain the longer name within the rectangular grid, while "Art Blakey" at the bottom anchors the dynamic diagonal created by the diminishing first names and lengthening last names.
 
-**Stereo note:** BLP 1595 was originally issued mono only. A stereo version (BST 81595) was released later – electronically reprocessed from the mono master, not a native stereo recording. It is universally considered inferior and should be avoided. The original mono is the only recommended listening format.
+**Stereo note:** BLP 1595 was released first, in mono, in 1958. What happened next is more interesting than the usual period Blue Note story: Rudy Van Gelder had recorded the March 9 session to genuine two-track tape, and *Somethin' Else* is now understood to be the very first Blue Note title he mastered for true stereo release, using that same two-track session tape rather than any kind of electronic reprocessing – Blue Note's stereo catalog (BST) essentially began here. This is a real, native stereo mix, not a fake. Original stereo copies (BST 81595, 1959) are consequently a legitimate, desirable format in their own right, not a compromise to avoid. Collectors still often prefer the mono for its more intimate, centered presentation, but that's a matter of taste, not a matter of one format being fabricated.
 
-**Tape provenance:** The original Alfred Lion–era tapes are in the Blue Note/Universal archive in good condition. Analogue Productions, MoFi, and the Blue Note Classic Vinyl series all confirm working from the original analogue mono master tape.
+**Tape provenance:** The original Alfred Lion–era tapes are in the Blue Note/Universal archive in good condition. Analogue Productions, MoFi, Music Matters, and Classic Records all work from the original mono master tape; the Blue Note Classic Vinyl series instead uses the original two-track stereo session tape for its genuine stereo cut.
 
 ---
 
 ## Original US Blue Note pressings
 
-**Catalogue: BLP 1595** (mono only; stereo BST 81595 is rechanneled)
+**Catalogue: BLP 1595** (mono, 1958) / **BST 81595** (genuine stereo, 1959 – one of Blue Note's first true stereo releases)
 
 ### First mono pressing – 47 West 63rd label
 
@@ -88,15 +88,15 @@ Discogs owners: "Every bit as good as you would expect it to be. If you love thi
 
 **Cat. MM33-1595** | Format: 180g LP, 33⅓, gatefold tip-on jacket with session photos, limited to 2,500 copies. **Remastered by Kevin Gray at Cohearent Audio from the original Van Gelder Blue Note master tapes. Pressed at RTI.** Widely praised on release – AllAboutJazz called the Music Matters 33⅓ series' sound "spectacular" – and generally rated alongside the AP and Classic Records as one of the finest analog cuts of this title, in a more elaborate package than either. Out of print. [Discogs](https://www.discogs.com/release/6243620-Cannonball-Adderley-Somethin-Else) **$100–$200 secondary.**
 
-### Blue Note Classic Vinyl 180g mono (2020) – the recommended entry point
+### Blue Note Classic Vinyl 180g stereo (2021) – the recommended entry point
 
-**Cat. B0032209-01** | Format: 180g LP, 33⅓, mono. **Mastered by Kevin Gray at Cohearent Audio, from the original mono master tape. Pressed at Optimal in Germany.** Delivers Kevin Gray's mastering at the most accessible price point. Discogs: "Отличный релиз, саксофон и трампет просто великолепно звучат. Тяжёлый, абсолютно ровный винил." ("Excellent release, sax and trumpet sound wonderful. Heavy, absolutely flat vinyl.") **~$20–$30 new.**
+**Cat. B0032209-01** | Format: 180g LP, 33⅓, stereo. **Mastered by Kevin Gray at Cohearent Audio, from the original two-track session tape. Pressed at Optimal in Germany.** This is the genuine stereo mix, not mono – one reviewer directly compared it to an original mono copy and confirmed real stereo separation (drums and bass on the right, horns and piano on the left, per Van Gelder's original 1959 mix). Delivers Kevin Gray's mastering at the most accessible price point; some listeners find the piano tone slightly boxy, in keeping with the era, but rate the overall soundstage highly. Discogs: "Отличный релиз, саксофон и трампет просто великолепно звучат. Тяжёлый, абсолютно ровный винил." ("Excellent release, sax and trumpet sound wonderful. Heavy, absolutely flat vinyl.") **~$20–$30 new.**
 
 ---
 
 ## Pressings to avoid
 
-**BST 81595 rechanneled stereo:** Electronically reprocessed from the mono master. Artificial stereo separation distorts the ensemble balance – drums and bass in one channel, horns and piano in another. Avoid in favour of any mono version.
+**Later "electronically rechanneled" reissues:** Some later reissue-era pressings (particularly a subset of 1970s/80s repressings) genuinely were electronically reprocessed rather than sourced from the two-track master – these are distinct from, and inferior to, the original 1959 BST 81595 stereo pressing, which is genuine. If buying a vintage stereo copy, confirm it's sourced from Van Gelder's actual stereo master rather than a later dub.
 
 **Liberty, United Artists, and EMI-era reissues:** Various reissues from the 1966–1990s period were cut from dubs or by engineers without access to the original Van Gelder tapes. Not recommended when the Classic Vinyl is available at $25 new.
 
@@ -106,7 +106,7 @@ Discogs owners: "Every bit as good as you would expect it to be. If you love thi
 
 ## Buyer's guide by budget
 
-**Under $30:** The [**Blue Note Classic Vinyl BLP 1595 (2020)**](https://www.discogs.com/release/16941781-Cannonball-Adderley-Somethin-Else) – Kevin Gray, Optimal pressing, mono. The correct starting point.
+**Under $30:** The [**Blue Note Classic Vinyl BST 1595 (2021)**](https://www.discogs.com/release/17355181-Cannonball-Adderley-Somethin-Else) – Kevin Gray, Optimal pressing, genuine stereo. The correct starting point.
 
 **$80–$150:** The [**AP 45rpm 2LP (AP-81595)**](https://www.discogs.com/release/2552019-Cannonball-Adderley-Somethin-Else) – fully AAA, Kevin Gray and Steve Hoffman, QRP. Many experienced collectors rate this above the MoFi One-Step for its confirmed analog chain. The serious listener's choice.
 
@@ -123,10 +123,10 @@ Discogs owners: "Every bit as good as you would expect it to be. If you love thi
 | **S** | AP 45rpm 2LP | AP-81595 | 2008 | Mono, 45rpm, 2×200g | Orig mono tape → Kevin Gray & Steve Hoffman, AAA, QRP | Fully AAA; many prefer to MoFi; $80–$150 secondary | [Discogs](https://www.discogs.com/release/2552019-Cannonball-Adderley-Somethin-Else) |
 | **S** | MoFi UltraDisc One-Step 45rpm | UD1S 2-022 | 2019 | Mono, 45rpm, 2×180g | Orig mono tape → DSD → lathe, QRP | One-step plating; DSD chain; 5,000 copies; $300–$500 | [Discogs](https://www.discogs.com/release/13949563-Cannonball-Adderley-Somethin-Else) |
 | **A** | Original BLP 1595 mono, 47 W 63rd no-Inc. | BLP 1595 | 1958 | Mono, 33⅓ | RVG etched / Plastylite P; first pressing | Deep groove; $400–$900 NM | [Discogs](https://www.discogs.com/release/982633-Cannonball-Adderley-Somethin-Else) |
+| **A** | Original BST 81595 stereo | BST 81595 | 1959 | Stereo, 33⅓ | RVG two-track master; one of Blue Note's first true stereo releases | Genuine stereo, not rechanneled; $300–$700 NM | – |
 | **A** | Music Matters 33⅓ 180g | MM33-1595 | 2014 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, Cohearent Audio, RTI | Limited/2,500; gatefold tip-on with session photos; $100–$200 | [Discogs](https://www.discogs.com/release/6243620-Cannonball-Adderley-Somethin-Else) |
 | **A** | Classic Records QUIEX SV-P mono | BLP 1595 | 2002 | Mono, 33⅓, 200g | Orig tape → Bernie Grundman, AAA | OOP; genuine AAA alternative; $60–$150 secondary | [Discogs](https://www.discogs.com/release/16266778-Cannonball-Adderley-Somethin-Else) |
-| **B** | Blue Note Classic Vinyl 180g mono | B0032209-01 | 2020 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Best value; ~$20–$30 new | [Discogs](https://www.discogs.com/release/16941781-Cannonball-Adderley-Somethin-Else) |
+| **B** | Blue Note Classic Vinyl 180g stereo | B0032209-01 | 2021 | Stereo, 33⅓, 180g | Genuine two-track tape → Kevin Gray, Optimal | Best value; genuine stereo, not mono; ~$20–$30 new | [Discogs](https://www.discogs.com/release/17355181-Cannonball-Adderley-Somethin-Else) |
 | **B** | Japanese Toshiba EMI pressing | BLP 1595 | 1984 | Mono, 33⅓ | Licensed Japanese pressing | Dead-quiet vinyl; Swing Journal seal; $40–$90 with obi | [Discogs](https://www.discogs.com/release/3504030-Cannonball-Adderley-Somethin-Else) |
 | **C** | NY USA label mono reissue | BLP 1595 | c.1962–67 | Mono, 33⅓ | RVG-etched stampers (earlier copies) | Check deadwax for RVG etching; $100–$250 VG+ | [Discogs](https://www.discogs.com/master/118117-Cannonball-Adderley-Somethin-Else) |
-| **D** | BST 81595 rechanneled stereo | BST 81595 | 1960s+ | Fake stereo | Rechanneled from mono | Artificial separation; not recommended | – |
-| **D** | Liberty / UA / EMI reissues | Various | 1966–90s | Mono, 33⅓ | Dubs or secondary metalwork | Not recommended over Classic Vinyl | – |
+| **D** | Liberty / UA / EMI reissues | Various | 1966–90s | Mono or stereo | Dubs or secondary metalwork, some genuinely rechanneled | Not recommended over Classic Vinyl; verify tape source if buying stereo | – |
