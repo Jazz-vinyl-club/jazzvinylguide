@@ -38,7 +38,7 @@ The important collector point: because this Liberty-label design is the genuine 
 
 ### Music Matters 45rpm 2LP (2011) – the audiophile benchmark
 
-**Cat. MMBST-84264** | Format: 2×180g LP, 45rpm, gatefold. **Remastered from the original analog master tapes, pressed at RTI.** Owners consistently praise the "clarity and precision" typical of the Music Matters series applied to this session – Elvin Jones's drums and cymbal work in particular come through with the kind of separation the format is known for. Out of print. **$150–$300 secondary.**
+**Cat. MMBST-84264** | Format: 2×180g LP, 45rpm, gatefold. **Remastered by Kevin Gray and Steve Hoffman at AcousTech Mastering, from the original Rudy Van Gelder stereo session tapes, pressed at RTI.** This 2011 release predates Music Matters' move to Kevin Gray's own Cohearent Audio facility, so credit both engineers. Owners consistently praise the "clarity and precision" typical of the Music Matters series applied to this session – Elvin Jones's drums and cymbal work in particular come through with the kind of separation the format is known for. Out of print. **$150–$300 secondary.**
 
 ### Blue Note Classic Vinyl – the accessible modern option, with real QC caveats
 
@@ -67,7 +67,7 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Music Matters 45rpm 2LP | MMBST-84264 | 2011 | Stereo, 45rpm, 2×180g | Orig tapes, RTI | Definitive modern pressing; $150–$300 secondary | [Discogs](https://www.discogs.com/release/3378635-McCoy-Tyner-The-Real-McCoy) |
+| **S** | Music Matters 45rpm 2LP | MMBST-84264 | 2011 | Stereo, 45rpm, 2×180g | Kevin Gray & Steve Hoffman, AcousTech, RTI | Definitive modern pressing; $150–$300 secondary | [Discogs](https://www.discogs.com/release/3378635-McCoy-Tyner-The-Real-McCoy) |
 | **A** | Original Liberty-label first pressing | BST 84264 | 1967 | Stereo, 33⅓ | Van Gelder original cut | True first pressing despite Liberty labels; $150–$350 NM | [Discogs](https://www.discogs.com/release/424427-McCoy-Tyner-The-Real-McCoy) |
 | **B** | Japanese King pressing | GXF-3008 | – | Stereo, 33⅓ | Licensed Japanese pressing | Quiet vinyl; $40–$90 with obi | – |
 | **B** | Blue Note Classic Vinyl | BST 84264 | – | Stereo, 33⅓, 180g | Kevin Gray, Cohearent Audio | Best-value modern; documented QC variance – inspect or buy with return policy; $28–$40 | [Discogs](https://www.discogs.com/release/16316769-McCoy-Tyner-The-Real-McCoy) |
