@@ -64,6 +64,14 @@ After ABC-Paramount Records changed its corporate name to ABC Records around 196
 
 ---
 
+## Japanese pressings
+
+**Toshiba Musical Industries (1973)** – widely regarded as the finest Japanese pressing of this title, and a genuine standout even against the US originals. A detailed direct comparison by an independent reviewer against two 1963 first pressings (US Impulse! and Canadian Sparton, both from the original metalwork) found the Toshiba copy had no surface noise and, if anything, slightly more detail and life than the originals: "You definitely lose nothing here over the first pressings, and I think you gain a little." Comes with a thick cardboard gatefold sleeve and obi. [Discogs](https://www.discogs.com/release/8170159-Mingus-The-Black-Saint-And-The-Sinner-Lady) **$50–$100 with obi.**
+
+**Victor Musical Industries (MCA/Impulse! Modern Jazz Selection 1500, Part II)** – black-and-rainbow labels, licensed via MCA. Part of a numbered reissue series for the Japanese market; well-regarded, though not in the same league as the Toshiba pressing above. [Discogs](https://www.discogs.com/release/4069438-Mingus-%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%9F%E3%83%B3%E3%82%AC%E3%82%B9-The-Black-Saint-And-The-Sinner-Lady-%E9%BB%92%E3%81%84%E8%81%96%E8%80%85%E3%81%A8%E7%BD%AA%E3%81%82%E3%82%8B%E5%A5%B3) **$30–$70 with obi.**
+
+---
+
 ## The reissue hierarchy
 
 ### Analogue Productions AIPJ 35 45rpm 2×180g (2011) – the audiophile benchmark
@@ -108,5 +116,7 @@ After ABC-Paramount Records changed its corporate name to ABC Records around 196
 | **A** | Original AS-35 stereo, orange/black rim | AS-35 | 1963 | Stereo, 33⅓ | LW metalwork (+ RVG typically); first series | LW in deadwax required; RVG typically present; $150–$400 NM | [Discogs](https://www.discogs.com/release/572717-Mingus-The-Black-Saint-And-The-Sinner-Lady) |
 | **A** | Acoustic Sounds/Verve 180g 33rpm | B0033602-01 | 2021 | Stereo, 33⅓, 180g | Orig tapes → Ryan K. Smith, Sterling Sound, QRP | Fremer 10/11; $30–$45 new | [Discogs](https://www.discogs.com/release/21029962-Mingus-The-Black-Saint-And-The-Sinner-Lady) |
 | **B** | Speakers Corner 180g 33rpm | AS-35 | 2001 | Stereo, 33⅓, 180g | Orig tapes; German pressing (Pallas) | Slightly more immediate than 2021; OOP | [Discogs](https://www.discogs.com/release/1704128-Mingus-The-Black-Saint-And-The-Sinner-Lady) |
+| **B** | Toshiba Japan pressing | AS-35 | 1973 | Stereo, 33⅓ | Licensed Japanese pressing from US metalwork/tape | Rated superior to US originals in a direct shootout; $50–$100 with obi | [Discogs](https://www.discogs.com/release/8170159-Mingus-The-Black-Saint-And-The-Sinner-Lady) |
 | **C** | Original A-35 mono, orange/black rim | A-35 | 1963 | Mono, 33⅓ | LW metalwork (+ RVG typically) | Stereo preferred for this album; $100–$300 NM | [Discogs](https://www.discogs.com/release/6046217-Mingus-The-Black-Saint-And-The-Sinner-Lady) |
+| **C** | Victor Japan pressing (MCA license) | A-35 | 1970s | Stereo, 33⅓ | Licensed Japanese pressing | Part of numbered Impulse! Japan series; $30–$70 with obi | [Discogs](https://www.discogs.com/release/4069438-Mingus-%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%9F%E3%83%B3%E3%82%AC%E3%82%B9-The-Black-Saint-And-The-Sinner-Lady-%E9%BB%92%E3%81%84%E8%81%96%E8%80%85%E3%81%A8%E7%BD%AA%E3%81%82%E3%82%8B%E5%A5%B3) |
 | **D** | ABC Records corporate-era pressings | Various | 1970s | Stereo, 33⅓ | Later metalwork | Noticeably inferior; avoid | – |
