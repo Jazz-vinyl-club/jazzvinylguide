@@ -35,4 +35,4 @@ Given this, the practical guidance for this title is straightforward: buy the vi
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
 | **A** | CD / digital | BFCD050 | 2015 | Stereo | Mastered by Stephen Marcussen, Marcussen Mastering | Widely preferred over vinyl for critical listening on this title | – |
-| **B** | Vinyl box set (all pressing years) | BF050 | 2015–2021 | Stereo, 33⅓, 3×180g | Half-speed cut by Matt Colton, Alchemy Mastering, MPO | Same master across all years; ~30 min/side compresses dynamics; excellent packaging | [Discogs](https://www.discogs.com/master/853754-Kamasi-Washington-The-Epic) |
+| **B** | Vinyl box set (all pressing years) | BF050 | 2015–2021 | Stereo, 33⅓, 3×180g | Half-speed cut by Matt Colton, Alchemy Mastering, MPO | Same master across all years; ~30 min/side compresses dynamics; excellent packaging | [Discogs](https://www.discogs.com/release/7383499-Kamasi-Washington-The-Epic) |
