@@ -61,7 +61,7 @@ After Liberty Records acquired Blue Note in 1966, pressings show "A Division of 
 
 ### French Pathé Marconi pressing (1983)
 
-A [French pressing from Pathé Marconi](https://www.discogs.com/release/1367801-Wayne-Shorter-Speak-No-Evil) that receives strong collector reviews for a European issue: "I like this pressing very much... sounds wonderful." Bright but not harsh. Note that Pathé Marconi was an early adopter of Direct Metal Mastering (DMM) technology from 1982 onward; this 1983 pressing may be a DMM cut rather than a conventional lacquer — check the deadwax for DMM identification. A recommended affordable alternative when originals are out of reach. **$30–$60.**
+A [French pressing from Pathé Marconi](https://www.discogs.com/release/1367801-Wayne-Shorter-Speak-No-Evil) that receives strong collector reviews for a European issue: "I like this pressing very much... sounds wonderful." Bright but not harsh. Note that Pathé Marconi was an early adopter of Direct Metal Mastering (DMM) technology from 1982 onward; this 1983 pressing may be a DMM cut rather than a conventional lacquer – check the deadwax for DMM identification. A recommended affordable alternative when originals are out of reach. **$30–$60.**
 
 ---
 
@@ -91,7 +91,7 @@ Limited to 3,000 copies. 180g blue vinyl ([r31430060](https://www.discogs.com/re
 
 ## Pressings to avoid
 
-**United Artists/Liberty era without Van Gelder stamp:** The later UA pressings (1971–73) cut from new lacquers — identifiable by the absence of the VAN GELDER stamp in the deadwax — are inferior to the Classic Vinyl at its current price. UA copies *with* the VAN GELDER stamp used original metalwork and are a different matter entirely (see tier C above).
+**United Artists/Liberty era without Van Gelder stamp:** The later UA pressings (1971–73) cut from new lacquers – identifiable by the absence of the VAN GELDER stamp in the deadwax – are inferior to the Classic Vinyl at its current price. UA copies *with* the VAN GELDER stamp used original metalwork and are a different matter entirely (see tier C above).
 
 **1970s Capitol/EMI "MASTERED BY LIBERTY" pressings:** These were cut by Capitol/EMI engineers using their own equipment – no Van Gelder involvement. Identified by the "MASTERED BY LIBERTY" stamp. Noticeably thinner-sounding than originals or the Classic Vinyl.
 
@@ -123,6 +123,6 @@ Limited to 3,000 copies. 180g blue vinyl ([r31430060](https://www.discogs.com/re
 | **B** | Original BST 84194, NY USA (no Plastylite) | BST 84194 | 1966 | Stereo, 33⅓ | RVG, no Plastylite; second pressing | Sonically very close to first; $120–$250 NM | [Discogs](https://www.discogs.com/release/16727037-Wayne-Shorter-Speak-No-Evil) |
 | **B** | Blue Note Classic Vinyl 180g | BST 84194 | 2021 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Excellent value; "hard to improve on the original"; $20–$35 new | [Discogs](https://www.discogs.com/release/16941774-Wayne-Shorter-Speak-No-Evil) |
 | **C** | Liberty/UA era with Van Gelder stamp | BST 84194 | 1966–71 | Stereo, 33⅓ | RVG (if stamped); original metalwork | Check for VAN GELDER stamp; $30–$80 VG+ | [Discogs](https://www.discogs.com/release/8406468-Wayne-Shorter-Speak-No-Evil) |
-| **C** | French Pathé Marconi (1983) | BST 84194 | 1983 | Stereo, 33⅓ | French pressing; may be DMM — check deadwax | "Sounds wonderful"; bright but not harsh; $30–$60 | [Discogs](https://www.discogs.com/release/1367801-Wayne-Shorter-Speak-No-Evil) |
+| **C** | French Pathé Marconi (1983) | BST 84194 | 1983 | Stereo, 33⅓ | French pressing; may be DMM – check deadwax | "Sounds wonderful"; bright but not harsh; $30–$60 | [Discogs](https://www.discogs.com/release/1367801-Wayne-Shorter-Speak-No-Evil) |
 | **D** | UA/Capitol "MASTERED BY LIBERTY" | BST 84194 | 1973+ | Stereo, 33⅓ | Capitol/EMI remastering, no VG | EMI engineers, no Van Gelder involvement; below Classic Vinyl | – |
 | **D** | Generic European budget reissues | Various | 1970s+ | Stereo, 33⅓ | Various, no tape access | Not recommended over Classic Vinyl | – |

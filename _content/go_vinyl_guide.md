@@ -58,7 +58,7 @@ Authentication markers for the earliest copies:
 - Mono matrix: **BNLP-4112-A VAN GELDER P** / **BNLP-4112-B VAN GELDER P**
 - Stereo matrix: **BNST-84112-A VAN GELDER P** / **BNST-84112-B VAN GELDER P**
 
-[LJC](https://londonjazzcollector.wordpress.com/2011/10/16/bn-4112-dexter-gordon-go-1962/) describes the mono original: "Blue Note's usual superb bright rich forward presentation, in Mono, with Van Gelder working his magic in the mastering department." LJC also notes that Reid Miles "astutely highlights the first two letters of Gordon" in the cover design — the GO of Gordon forms the album title.
+[LJC](https://londonjazzcollector.wordpress.com/2011/10/16/bn-4112-dexter-gordon-go-1962/) describes the mono original: "Blue Note's usual superb bright rich forward presentation, in Mono, with Van Gelder working his magic in the mastering department." LJC also notes that Reid Miles "astutely highlights the first two letters of Gordon" in the cover design – the GO of Gordon forms the album title.
 
 **NM mono originals: $300–$700. NM stereo originals: $200–$500.**
 
