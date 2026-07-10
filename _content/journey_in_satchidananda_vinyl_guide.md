@@ -6,7 +6,7 @@
 
 Recorded three years after John Coltrane's death and named for Coltrane's spiritual teacher, Swami Satchidananda, this is widely regarded as Alice Coltrane's masterpiece and one of the foundational documents of spiritual jazz – topping the *Jazz & Pop* critics' poll as the best jazz album of 1971 and later appearing on Rolling Stone's list of the 500 Greatest Albums.
 
-**Best early pressing for audiophiles:** [Original Impulse! AS-9203](https://www.discogs.com/release/28024437-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) – the 1971 first pressing.
+**Best early pressing for audiophiles:** [Original Impulse! AS-9203](https://www.discogs.com/release/549847-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) – the 1971 first pressing.
 **Best modern pressing for audiophiles:** [Verve Acoustic Sounds Series (2023)](https://www.discogs.com/release/26604263-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) – mastered from the original analog tapes, QRP, tip-on gatefold.
 **Best-value modern:** Same Acoustic Sounds Series edition, widely praised as an outstanding value at its price point.
 
@@ -51,7 +51,7 @@ No specific bootleg is widely documented for this title. Be aware that some CD e
 ## Buyer's guide by budget
 
 **Under $50:** The [**Verve Acoustic Sounds Series (2023)**](https://www.discogs.com/release/26604263-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) – exceptional reviews, and by most accounts close to definitive.
-**$80–$250:** An original [**Impulse! AS-9203**](https://www.discogs.com/release/28024437-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) in clean condition, for the genuine 1971 pressing experience.
+**$80–$250:** An original [**Impulse! AS-9203**](https://www.discogs.com/release/549847-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) in clean condition, for the genuine 1971 pressing experience.
 
 ---
 
@@ -60,6 +60,6 @@ No specific bootleg is widely documented for this title. Be aware that some CD e
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
 | **S** | Verve Acoustic Sounds Series | IMP-228 | 2023 | Stereo, 180g | Orig analog tapes, QRP | Exceptional reviews; tip-on gatefold; $35–$45 new | [Discogs](https://www.discogs.com/release/26604263-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) |
-| **A** | Original Impulse! pressing | AS-9203 | 1971 | Stereo, 33⅓ | Original 1971 mastering | Check deadwax for label-era variant; $80–$250 NM | [Discogs](https://www.discogs.com/release/28024437-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) |
+| **A** | Original Impulse! pressing | AS-9203 | 1971 | Stereo, 33⅓ | Original 1971 mastering | Check deadwax for label-era variant; $80–$250 NM | [Discogs](https://www.discogs.com/release/549847-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) |
 | **B** | Vinyl Me Please edition | – | 2017 | Stereo, 180g | Club-exclusive pressing | OOP; luxurious packaging; $80–$150 secondary | [Discogs](https://www.discogs.com/release/10859534-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) |
 | **C** | 1997 reissue (multiple plant variants) | IMP-228 | 1997 | Stereo, 33⅓ | Digital 20-bit remaster source | Secondary to analog original and 2023 Acoustic Sounds; $20–$50 | [Discogs](https://www.discogs.com/release/424029-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) |
