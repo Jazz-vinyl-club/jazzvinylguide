@@ -20,7 +20,7 @@ Freddie Hubbard, playing cornet rather than his usual trumpet for a warmer, more
 
 ## Original Blue Note pressings (1964)
 
-**Mono: BLP 4175** / **Stereo: BST 84175**, on blue-and-white "A Division of Liberty Records, Inc." labels – Blue Note had already transitioned to Liberty ownership by the time of this release. Genuine collector debate exists over which specific label/deadwax variant constitutes the true first pressing: per Fred Cohen's Blue Note collector's guide, a non-deep-groove variant is now considered the actual first pressing rather than the deep-groove copies some collectors previously assumed were earliest. Check the deadwax for the Van Gelder stamp on both sides – some copies show it on side 2 only, a documented but lesser variant. **NM originals: $150–$400.**
+**Mono: BLP 4175** on blue-and-white "New York, USA" labels / **Stereo: BST 84175** on "A Division of Liberty Records, Inc." labels – the two formats' original pressings carry different label eras despite sharing a release date, reflecting Blue Note's transition to Liberty ownership happening mid-stream. Genuine collector debate exists over which specific mono variant constitutes the true first pressing: per Fred Cohen's Blue Note collector's guide, a non-deep-groove copy is now considered the actual first pressing rather than the deep-groove copies some collectors previously assumed were earliest. Check the deadwax for the Van Gelder stamp on both sides – some stereo copies show it on side 2 only, a documented but lesser variant. **NM originals: $150–$400.**
 
 ---
 
@@ -61,6 +61,6 @@ Freddie Hubbard, playing cornet rather than his usual trumpet for a warmer, more
 |---|---|---|---|---|---|---|---|
 | **S** | Music Matters 33⅓ | MMBST-84175 | – | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Cohearent Audio, RTI | Limited/3,500; definitive modern pressing; $100–$200 secondary | [Discogs](https://www.discogs.com/release/6771572-Herbie-Hancock-Empyrean-Isles) |
 | **A** | Original BST 84175 stereo, Liberty label | BST 84175 | 1964 | Stereo, 33⅓ | RVG stamp | Non-DG considered true first per Cohen's guide; $150–$400 NM | [Discogs](https://www.discogs.com/release/6798808-Herbie-Hancock-Empyrean-Isles) |
-| **A** | Original BLP 4175 mono, Liberty label | BLP 4175 | 1964 | Mono, 33⅓ | RVG stamp | $150–$350 NM | [Discogs](https://www.discogs.com/release/1102285-Herbie-Hancock-Empyrean-Isles) |
+| **A** | Original BLP 4175 mono, NY USA label | BLP 4175 | 1964 | Mono, 33⅓ | RVG stamp | $150–$350 NM | [Discogs](https://www.discogs.com/release/1102285-Herbie-Hancock-Empyrean-Isles) |
 | **B** | Blue Note Classic Vinyl | – | – | Stereo, 33⅓, 180g | Orig tape → Kevin Gray | Best value; exceptionally well-reviewed; $25–$40 new | – |
 | **C** | Blue Note 75th Anniversary | B0022238-01 | 2015 | Stereo, 33⅓, 180g | Orig tape → Bernie Grundman/Chris Bellman | Genuinely split QC reports; buy with return policy; $25–$50 | [Discogs](https://www.discogs.com/release/6595630-Herbie-Hancock-Empyrean-Isles) |
