@@ -2,18 +2,48 @@
 
 ## Summary
 
-*Monk's Dream* by Thelonious Monk, released on Columbia in 1963. Guide coming soon.
+*Monk's Dream* was recorded across four sessions – October 31 and November 1, 2, and 6, 1962 – in New York, and released in early 1963 as Columbia CL 1965 (mono) / CS 8765 (stereo). It was Thelonious Monk's first album for Columbia following five years at Riverside, played by his working quartet of Charlie Rouse (tenor sax), John Ore (bass), and Frankie Dunlop (drums) – a band that had, remarkably, stayed together for nearly two years by this point, the longest stable lineup of Monk's career. Teo Macero produced.
 
-**Best early pressing for audiophiles:** Original Columbia first pressing.
+Backed by Columbia's promotional muscle, *Monk's Dream* became the best-selling album of Monk's lifetime and helped put him on the cover of Time magazine the following year ("The Loneliest Monk," February 28, 1964). It also set the template – critics have sometimes said the formula – for Monk's entire seven-year Columbia tenure: the same working quartet, a mix of newly recorded versions of older compositions, and clean, straightforward Columbia engineering that gave his music a spaciousness and immediacy it hadn't had on Riverside.
 
-**Best modern pressing for audiophiles:** To be researched.
-
-**Best-value modern:** To be researched.
-
+**Best early pressing for audiophiles:** [Original Columbia two-eye stereo, CS 8765](https://www.discogs.com/release/7356124-The-Thelonious-Monk-Quartet-Monks-Dream) – Columbia's "360 Sound" era pressing.
+**Best modern pressing for audiophiles:** [Impex Records 180g (2017)](https://www.discogs.com/release/11537615-The-Thelonious-Monk-Quartet-Monks-Dream) – Kevin Gray, RTI, mastered from the original tapes.
+**Best-value modern:** Same Impex pressing – widely available and, per most reviews, the clear modern standard for this title.
 
 ## Recording history and tape provenance
 
-Guide in progress.
+By 1962, Monk's five years at Riverside had established him as a major figure among musicians and serious jazz listeners, but wider commercial recognition had eluded him. His move to Columbia – a label with far greater promotional reach – changed that quickly, and *Monk's Dream* was positioned deliberately: a straightforward cover with no "shadowy, underexposed" mystique, liner-note quotes from admiring critics (including Martin Williams calling Monk "the first great jazz composer after Duke Ellington"), and a program built almost entirely around material Monk had already recorded elsewhere, making the record approachable for newcomers even as longtime fans recognized the reworkings.
+
+Only "Bright Mississippi" was newly composed for the session – and its resemblance to the chord changes of "Sweet Georgia Brown" briefly drew a legal threat from that song's publishers. Everything else had history: "Bolivar Blues" (originally "Ba-lue Bolivar Ba-lues-are") and "Five Spot Blues" (originally "Blues Five Spot," named for Monk's favorite venue) both dated to his Riverside years, while "Monk's Dream," "Bye-Ya," and "Sweet and Lovely" had all been recorded a decade earlier for Prestige. The connection to Ellington in the liner notes wasn't incidental – at the 1962 Newport Jazz Festival, Monk had appeared as a guest with Ellington's orchestra, playing a Billy Strayhorn arrangement of the title track, suggesting Columbia may have timed the album's title and released material with that goodwill in mind.
+
+Critics were enthusiastic on release – DownBeat's Pete Welding gave it a strong review, and the Penguin Guide to Jazz later selected it for its Core Collection. The album's reputation has occasionally suffered from a broader critical narrative that treats Monk's entire Columbia period as a decline from his Riverside peak, but recent reassessments have pushed back on that view, pointing to the quartet's evident cohesion and Monk's evidently buoyant mood – by all accounts, this was a genuinely happy period in his career, and it shows in the playing.
+
+---
+
+## Original Columbia pressings (1963)
+
+**Cat. CL 1965** (mono) / **CS 8765** (stereo), two-eye labels with "360 Sound" branding. One noted quirk: the track timings printed on the original jacket are reportedly inaccurate for four tracks ("Monk's Dream," "Bright Mississippi," "Bolivar Blues," "Bye-Ya"), reflecting their length before Columbia trimmed them during production to shorten the album – a minor discography curiosity rather than anything affecting the audio. **NM originals: $40–$120.**
+
+---
+
+## The reissue hierarchy
+
+### Impex Records 180g (2017) – the modern standard
+
+**Format: 180g LP, stereo. Mastered by Kevin Gray at Cohearent Audio, from the original master tapes, pressed at RTI.** Reception is strongly positive – HiFi+ rated it 10/10 for both recording and music, and AnalogPlanet's Michael Fremer gave it 9/10 for both music and sound, noting it sounds "more dynamically nimble and present" than original pressings, which by comparison carry "a hooded coloration that floats over the sound, making them sound more homogenized." One specific, well-documented quirk: a faint click on "Monk's Dream" (track A1) that several owners have traced back to the original master tape itself, not the pressing – one collector directly compared an Impex copy against an original two-eye pressing and found the identical tick in the identical spot on both, confirming it's baked into the source recording rather than a manufacturing defect. A small number of buyers report QC issues (surface noise, deformed labels) on individual copies, but the mastering itself is consistently praised. [Discogs](https://www.discogs.com/release/11537615-The-Thelonious-Monk-Quartet-Monks-Dream) **$35–$50 new (original 2017 pressing with Impex seal commands a modest premium over the later unsealed repress).**
+
+---
+
+## Pressings to avoid
+
+No specific bootleg is widely documented. Later 1970s–80s Columbia reissues on orange-label and subsequent corporate label designs are generally regarded as adequate but unremarkable, cut from later-generation metalwork rather than the original masters – fine as budget listening copies rather than collector targets.
+
+---
+
+## Buyer's guide by budget
+
+**Under $50:** The [**Impex Records 180g reissue (2017)**](https://www.discogs.com/release/11537615-The-Thelonious-Monk-Quartet-Monks-Dream) – Kevin Gray mastering, the clear modern recommendation per multiple independent reviews.
+**$40–$120:** A clean original [**Columbia two-eye stereo, CS 8765**](https://www.discogs.com/release/7356124-The-Thelonious-Monk-Quartet-Monks-Dream) – attainable given this title's status as Monk's best-selling album.
 
 ---
 
@@ -21,4 +51,7 @@ Guide in progress.
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | Original Columbia first pressing | – | 1963 | Stereo, 33⅓ | Original master | Guide in progress | – |
+| **A** | Impex Records 180g | – | 2017 | Stereo, 180g | Orig tape → Kevin Gray, Cohearent Audio, RTI | Widely praised; known tape-level click on track A1; $35–$50 new | [Discogs](https://www.discogs.com/release/11537615-The-Thelonious-Monk-Quartet-Monks-Dream) |
+| **B** | Original Columbia two-eye stereo | CS 8765 | 1963 | Stereo, 33⅓ | Original 1963 mastering | 360 Sound era; attainable given large original run; $40–$120 NM | [Discogs](https://www.discogs.com/release/7356124-The-Thelonious-Monk-Quartet-Monks-Dream) |
+| **B** | Original Columbia two-eye mono | CL 1965 | 1963 | Mono, 33⅓ | Original 1963 mastering | $40–$100 NM | [Discogs](https://www.discogs.com/release/10033266-The-Thelonious-Monk-Quartet-Monks-Dream) |
+| **C** | Later Columbia corporate-era reissues | CS 8765 | 1970s–80s | Stereo, 33⅓ | Later metalwork | Budget listening only; $15–$40 | – |
