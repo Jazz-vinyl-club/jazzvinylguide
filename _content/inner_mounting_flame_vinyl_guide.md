@@ -8,7 +8,7 @@ Five musicians from five countries – McLaughlin (English), Cobham (Panamanian)
 
 **Best early pressing for audiophiles:** [Original US Columbia KC 31067, Terre Haute pressing (1971)](https://www.discogs.com/release/557286-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) – AAA from source, "IT" in deadwax, purple insert; $40–$150 NM.
 
-**Best modern pressing for audiophiles:** [Friday Music 180g clear vinyl](https://www.discogs.com/master/72307-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) – Kevin Gray mastering, RTI pressing; brighter, more revealing character; ~$30–$50.
+**Best modern pressing for audiophiles:** [Friday Music 180g clear vinyl](https://www.discogs.com/release/9485353-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) – Joe Reagoso mastering, RTI pressing; brighter, more revealing character; ~$30–$50.
 
 **Best-value modern:** [Speakers Corner 180g (2008)](https://www.discogs.com/release/1718798-The-Mahavishnu-Orchestra-with-John-McLaughlin-The-Inner-Mounting-Flame) – pure analogue, Pallas pressing, HCB-EBS matrix (Heinz Gäde mastering); ~$40–$60.
 
@@ -77,7 +77,7 @@ Discogs community is sharply divided. Positive: "Perfect pressing, nice packagin
 
 **Cat. KC 31067** | Format: 180g clear LP, 33⅓, stereo, gatefold. **Mastered by Kevin Gray (KPG deadwax) at Cohearent Audio, from the original analogue master tapes. Pressed at RTI.**
 
-The only modern pressing with a KPG/Kevin Gray mastering credit confirmed from the deadwax. The character is brighter and more present than the Speakers Corner – described by the same reviewer who compared both as "lighter and brighter... for those with dull systems or well worn hearing will likely want to go that way." This is not a criticism in context: the original recording has an energetic, slightly forward quality and the Kevin Gray cut renders this honestly. One Discogs reviewer: "I was going to mention I thought Friday Music version kicked ass." Gatefold jacket. **~$30–$50 secondary.** [Discogs master](https://www.discogs.com/master/72307-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame)
+Mastered by Joe Reagoso at Friday Music Studios, pressed at RTI. The character is brighter and more present than the Speakers Corner – described by one reviewer comparing both as "lighter and brighter... for those with dull systems or well worn hearing will likely want to go that way." This is not a criticism in context: the original recording has an energetic, slightly forward quality and this cut renders this honestly. One Discogs reviewer: "I was going to mention I thought Friday Music version kicked ass." Gatefold jacket. **~$30–$50 secondary.** [Discogs](https://www.discogs.com/release/9485353-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame)
 
 ### Japanese CBS/Sony pressings – the vintage alternative
 
@@ -97,7 +97,7 @@ The Japanese first-pressing (SOPL series, 1971/72, [r4183685](https://www.discog
 
 **$20–$60:** A [**1970s US Columbia reissue (PC 31067)**](https://www.discogs.com/release/4923574-Mahavishnu-Orchestra-The-Inner-Mounting-Flame) in honest VG+ – the budget entry point for period-analogue sound.
 
-**$30–$50 new:** The [**Friday Music 180g clear vinyl**](https://www.discogs.com/master/72307-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) – Kevin Gray mastering, RTI pressing; brighter character than the Speakers Corner.
+**$30–$50 new:** The [**Friday Music 180g clear vinyl**](https://www.discogs.com/release/9485353-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) – Joe Reagoso mastering, RTI pressing; brighter character than the Speakers Corner.
 
 **$30–$100:** A [**Japanese CBS/Sony SOPL pressing with obi**](https://www.discogs.com/release/4183685-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) – excellent quality, faithful reproduction; early SOPL copies may be simultaneous first pressings.
 
@@ -114,7 +114,7 @@ The Japanese first-pressing (SOPL series, 1971/72, [r4183685](https://www.discog
 | **A** | Original US Columbia KC 31067, Terre Haute (TH) | KC 31067 | 1971 | Stereo, 33⅓ | AAA, Don Puluse/Columbia | "IT" deadwax; purple insert; $40–$150 NM | [Discogs](https://www.discogs.com/release/557286-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) |
 | **A** | Original US Columbia KC 31067, Pitman (NJ) | KC 31067 | 1971 | Stereo, 33⅓ | AAA, Don Puluse/Columbia | Purple insert; "as AAA as it gets"; $40–$150 NM | [Discogs](https://www.discogs.com/release/9971709-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) |
 | **B** | Speakers Corner 180g | SC 31067 | 2008 | Stereo, 33⅓, 180g | Orig tapes → Heinz Gäde, HCB-EBS, Pallas | Pure analogue; quiet signal level; divided reviews; ~$40–$60 | [Discogs](https://www.discogs.com/release/1718798-The-Mahavishnu-Orchestra-with-John-McLaughlin-The-Inner-Mounting-Flame) |
-| **B** | Friday Music 180g clear vinyl | KC 31067 | 2017 | Stereo, 33⅓, 180g | Orig tapes → Kevin Gray (KPG), RTI | Brighter character; Kevin Gray cut; gatefold; ~$30–$50 | [Discogs](https://www.discogs.com/master/72307-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) |
+| **B** | Friday Music 180g clear vinyl | KC 31067 | 2015 | Stereo, 33⅓, 180g | Orig tapes → Joe Reagoso, RTI | Brighter character; gatefold; ~$30–$50 | [Discogs](https://www.discogs.com/release/9485353-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) |
 | **B** | Japanese CBS/Sony SOPL series | SOPL-100 | 1971–72 | Stereo, 33⅓ | Licensed Japanese pressing | Early SOPL = simultaneous with US; "sounds amazing"; $30–$100 with obi | [Discogs](https://www.discogs.com/release/4183685-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) |
 | **C** | Japanese CBS/Sony 1976 reissue | 25AP 655 | 1976 | Stereo, 33⅓ | Licensed Japanese pressing | Good quality; easier to find; $20–$60 with obi | [Discogs](https://www.discogs.com/release/2623855-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) |
 | **C** | Original US Columbia, Santa Maria (SM) | KC 31067 | 1971 | Stereo, 33⅓ | AAA, Don Puluse/Columbia | Slight collector preference for TH/Pitman; $30–$100 NM | [Discogs](https://www.discogs.com/release/14551678-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) |
