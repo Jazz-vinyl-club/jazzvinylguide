@@ -174,7 +174,7 @@ Earlier Japanese audiophile pressing in the SX68 series; matrix SOPL-155A1. Heav
 
 **$400–$700:** A clean [**Columbia CS 8163 six-eye stereo**](https://www.discogs.com/release/9322816) original for the tube-cut, period character no reissue fully recovers – note Side 1 plays sharp at the original (uncorrected) speed.
 
-**The MoFi question:** Still a musical pressing worth having if acquired cheaply ($80–$120 used). Not worth premium prices now that the AP 2025 undercuts it on both price and provenance.
+Note on Mobile Fidelity: still a musical pressing worth having if acquired cheaply (roughly $80–120 used), but not worth premium prices now that the AP 2025 undercuts it on both price and provenance.
 
 ---
 

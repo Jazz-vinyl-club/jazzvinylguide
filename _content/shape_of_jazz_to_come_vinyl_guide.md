@@ -140,15 +140,15 @@ The P-7510A is the Japanese pressing to seek for this title. **$50–$120 NM wit
 
 ## Buyer's guide by budget
 
-**Under $50:** The [**Speakers Corner 180g**](https://www.discogs.com/master/46558-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) at ~$40 new is the obvious recommendation – Kevin Gray, AAA, Pallas, stereo, widely available. Buy from a dealer who accepts returns given the documented QC inconsistency. If you prefer mono, hunt for the [**VMP Classics**](https://www.discogs.com/master/46558-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) on the secondary market.
+**Under $50:** The [**Speakers Corner 180g**](https://www.discogs.com/release/18616948-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) at ~$40 new is the obvious recommendation – Kevin Gray, AAA, Pallas, stereo, widely available. Buy from a dealer who accepts returns given the documented QC inconsistency. If you prefer mono, hunt for the [**VMP Classics**](https://www.discogs.com/release/24779189-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) on the secondary market.
 
-**$50–$100:** The **VMP Classics mono** secondhand, or the [**P-7510A Japanese pressing**](https://www.discogs.com/master/46558-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) with obi for a highly regarded stereo option.
+**$50–$100:** The **VMP Classics mono** secondhand, or the [**P-7510A Japanese pressing**](https://www.discogs.com/release/2776761-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) with obi for a highly regarded stereo option.
 
-**$80–$150:** The [**ORG Music 45rpm 2LP**](https://www.discogs.com/master/46558-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) is the stereo audiophile statement. Inspect for non-fill defects on Side 3 before committing, or buy from a dealer who has inspected the copy.
+**$80–$150:** The [**ORG Music 45rpm 2LP**](https://www.discogs.com/release/4427710-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) is the stereo audiophile statement. Inspect for non-fill defects on Side 3 before committing, or buy from a dealer who has inspected the copy.
 
-**$100–$300:** A [**clean 1960s plum/orange Atlantic repress**](https://www.discogs.com/master/46558-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) gives you the original tape transfer with period character. A clean NM original [**bullseye stereo SD 1317**](https://www.discogs.com/master/46558-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) sits at the top of this range.
+**$100–$300:** A [**clean 1960s plum/orange Atlantic repress**](https://www.discogs.com/release/3400248-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) gives you the original tape transfer with period character. A clean NM original [**bullseye stereo SD 1317**](https://www.discogs.com/release/488973-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) sits at the top of this range.
 
-**The practical recommendation:** Buy the **Speakers Corner** for stereo at ~$40 (inspect/return-friendly purchase) or the **VMP Classics mono** at ~$50–$80 secondhand. Both are AAA cuts from the original tapes, both on high-quality pressing plants. The ORG is the choice for committed stereo audiophiles willing to navigate its pressing variability.
+Practical recommendation: buy the Speakers Corner for stereo (inspect/return-friendly purchase) or the VMP Classics mono secondhand. Both are AAA cuts from the original tapes, both on high-quality pressing plants. The ORG is the choice for committed stereo audiophiles willing to navigate its pressing variability.
 
 ---
 
@@ -162,8 +162,8 @@ The P-7510A is the Japanese pressing to seek for this title. **$50–$120 NM wit
 | **A** | Speakers Corner 180g | SD 1317 | 2021 | Stereo, 33⅓, 180g | Original tapes → Kevin Gray, AAA, Pallas | Entire first run has swapped labels; some warped copies; ~$40 new | [Discogs](https://www.discogs.com/release/18616948-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
 | **B** | Warner-Pioneer P-7510A | P-7510A | 1976 | Stereo, 33⅓ | AVCO-coded matrices + H suffix, Japanese plant; tape source | "Jazz-Forever Excellent" series; obi + insert; preferred over Speakers Corner by some; $50–$120 obi | [Discogs](https://www.discogs.com/release/2776761-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
 | **B** | Original mono bullseye | 1317 | 1959 | Mono, 33⅓ | Bones Howe / Atlantic lacquer | Unified ensemble sound; $100–$250 NM | [Discogs](https://www.discogs.com/release/2527331-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
-| **B** | 1960s plum/orange Atlantic | SD 1317 / 1317 | 1962–68 | Stereo or mono, 33⅓ | Period Atlantic lacquer | Close to original; laminated cover; $30–$80 NM | [Discogs](https://www.discogs.com/master/47813-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
+| **B** | 1960s plum/orange Atlantic | SD 1317 / 1317 | 1962–68 | Stereo or mono, 33⅓ | Period Atlantic lacquer | Close to original; laminated cover; $30–$80 NM | [Discogs](https://www.discogs.com/release/3400248-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
 | **C** | Warner Bros.-Pioneer P-6004A | P-6004A | 1971 | Stereo, 33⅓ | Warner-Pioneer Japanese lacquer | "Jazz Age" series; earlier Japan issue; $40–$80 with insert | [Discogs](https://www.discogs.com/release/2997973-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
-| **C** | Rhino 180g | SD 1317 | c.2008 | Stereo, 33⅓, 180g | Atlantic tapes → Rhino mastering | Solid entry-level; Kaplan praised it pre-ORG; $15–$30 | [Discogs](https://www.discogs.com/master/47813-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
+| **C** | Rhino 180g | SD 1317 | 2010 | Stereo, 33⅓, 180g | Atlantic tapes → Bernie Grundman, RTI | Solid entry-level; Kaplan praised it pre-ORG; $15–$30 | [Discogs](https://www.discogs.com/release/3236651-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
 | **D** | 1970s Warner/Atlantic green-red | SD 1317 | 1970s | Stereo, 33⅓ | Degraded masters, thin vinyl | "Dreadful" (Kaplan); avoid | – |
 | **F** | EU grey-market (DOL, Waxtime) | Various | 2000s+ | Various | Digital rip, unlicensed | Unverified provenance; not licensed | – |
