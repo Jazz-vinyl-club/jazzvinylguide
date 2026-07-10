@@ -7,8 +7,8 @@
 Backed by Columbia's promotional muscle, *Monk's Dream* became the best-selling album of Monk's lifetime and helped put him on the cover of Time magazine the following year ("The Loneliest Monk," February 28, 1964). It also set the template – critics have sometimes said the formula – for Monk's entire seven-year Columbia tenure: the same working quartet, a mix of newly recorded versions of older compositions, and clean, straightforward Columbia engineering that gave his music a spaciousness and immediacy it hadn't had on Riverside.
 
 **Best early pressing for audiophiles:** [Original Columbia two-eye stereo, CS 8765](https://www.discogs.com/release/1465575-The-Thelonious-Monk-Quartet-Monks-Dream) – Columbia's "360 Sound" era pressing.
-**Best modern pressing for audiophiles:** [Impex Records 180g (2017)](https://www.discogs.com/release/11537615-The-Thelonious-Monk-Quartet-Monks-Dream) – Kevin Gray, RTI, mastered from the original tapes.
-**Best-value modern:** Same Impex pressing – widely available and, per most reviews, the clear modern standard for this title.
+**Best modern pressing for audiophiles:** [Mobile Fidelity UltraDisc One-Step (UD1S 2-011, 2019)](https://www.discogs.com/release/14174187-The-Thelonious-Monk-Quartet-Monks-Dream) – on The Absolute Sound's Super LP List; mastered by Krieg Wunderlich, SuperVinyl, RTI, limited to 6,000 numbered copies.
+**Best-value modern:** [Impex Records 180g (2017)](https://www.discogs.com/release/11537615-The-Thelonious-Monk-Quartet-Monks-Dream) – Kevin Gray, RTI, mastered from the original tapes, at a fraction of the One-Step's price.
 
 ## Recording history and tape provenance
 
@@ -28,7 +28,11 @@ Critics were enthusiastic on release – DownBeat's Pete Welding gave it a stron
 
 ## The reissue hierarchy
 
-### Impex Records 180g (2017) – the modern standard
+### Mobile Fidelity UltraDisc One-Step (2019) – the current reference
+
+**Cat. UD1S 2-011** | Format: 2×180g SuperVinyl LP, 45rpm, stereo, deluxe foil-stamped box, limited to 6,000 numbered copies. **Mastered by Krieg Wunderlich at Mobile Fidelity from the original master tapes (1/4", 15ips → DSD256 → analog console → lathe), pressed at RTI.** Included on The Absolute Sound's Super LP List. Reception is overwhelmingly positive – "best sounding record in my collection by a mile," "I've never heard a recording sound so realistic" – though, consistent with MoFi's broader reputation for QC variance, a minority of buyers report warped discs and surface noise on individual copies, including one reviewer who received two consecutive damaged copies. Out of print. [Discogs](https://www.discogs.com/release/14174187-The-Thelonious-Monk-Quartet-Monks-Dream) **$150–$300 secondary.**
+
+### Impex Records 180g (2017) – the best-value modern option
 
 **Format: 180g LP, stereo. Mastered by Kevin Gray at Cohearent Audio, from the original master tapes, pressed at RTI.** Reception is strongly positive – HiFi+ rated it 10/10 for both recording and music, and AnalogPlanet's Michael Fremer gave it 9/10 for both music and sound, noting it sounds "more dynamically nimble and present" than original pressings, which by comparison carry "a hooded coloration that floats over the sound, making them sound more homogenized." One specific, well-documented quirk: a faint click on "Monk's Dream" (track A1) that several owners have traced back to the original master tape itself, not the pressing – one collector directly compared an Impex copy against an original two-eye pressing and found the identical tick in the identical spot on both, confirming it's baked into the source recording rather than a manufacturing defect. A small number of buyers report QC issues (surface noise, deformed labels) on individual copies, but the mastering itself is consistently praised. [Discogs](https://www.discogs.com/release/11537615-The-Thelonious-Monk-Quartet-Monks-Dream) **$35–$50 new (original 2017 pressing with Impex seal commands a modest premium over the later unsealed repress).**
 
@@ -42,8 +46,9 @@ No specific bootleg is widely documented. Later 1970s–80s Columbia reissues on
 
 ## Buyer's guide by budget
 
-**Under $50:** The [**Impex Records 180g reissue (2017)**](https://www.discogs.com/release/11537615-The-Thelonious-Monk-Quartet-Monks-Dream) – Kevin Gray mastering, the clear modern recommendation per multiple independent reviews.
+**Under $50:** The [**Impex Records 180g reissue (2017)**](https://www.discogs.com/release/11537615-The-Thelonious-Monk-Quartet-Monks-Dream) – Kevin Gray mastering, the best-value recommendation.
 **$50–$120:** A clean original [**Columbia two-eye stereo, CS 8765**](https://www.discogs.com/release/1465575-The-Thelonious-Monk-Quartet-Monks-Dream) – attainable given this title's status as Monk's best-selling album.
+**$150–$300:** The [**Mobile Fidelity UltraDisc One-Step (UD1S 2-011)**](https://www.discogs.com/release/14174187-The-Thelonious-Monk-Quartet-Monks-Dream) on the secondary market, for the current TAS-listed reference pressing.
 
 ---
 
@@ -51,6 +56,7 @@ No specific bootleg is widely documented. Later 1970s–80s Columbia reissues on
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
+| **S** | Mobile Fidelity UltraDisc One-Step | UD1S 2-011 | 2019 | Stereo, 45rpm, 2×180g SuperVinyl | Orig tape → Krieg Wunderlich, DSD256, RTI | TAS Super LP List; 6,000 copies; some QC variance reported; $150–$300 secondary | [Discogs](https://www.discogs.com/release/14174187-The-Thelonious-Monk-Quartet-Monks-Dream) |
 | **A** | Impex Records 180g | – | 2017 | Stereo, 180g | Orig tape → Kevin Gray, Cohearent Audio, RTI | Widely praised; known tape-level click on track A1; $35–$50 new | [Discogs](https://www.discogs.com/release/11537615-The-Thelonious-Monk-Quartet-Monks-Dream) |
 | **B** | Original Columbia two-eye stereo | CS 8765 | 1963 | Stereo, 33⅓ | Original 1963 mastering | 360 Sound era; attainable given large original run; $40–$120 NM | [Discogs](https://www.discogs.com/release/1465575-The-Thelonious-Monk-Quartet-Monks-Dream) |
 | **B** | Original Columbia two-eye mono | CL 1965 | 1963 | Mono, 33⅓ | Original 1963 mastering | $40–$100 NM | [Discogs](https://www.discogs.com/release/735430-The-Thelonious-Monk-Quartet-Monks-Dream) |
