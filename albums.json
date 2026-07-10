@@ -590,12 +590,12 @@
     "label": "Verve",
     "year": 1956,
     "recorded": "August 16, 1956",
-    "original_cat": "MGV-4003",
-    "wikipedia": "",
-    "description": "Collector-grade vinyl pressing guide for Ella and Louis by Ella Fitzgerald & Louis Armstrong.",
+    "original_cat": "MG V-4003",
+    "wikipedia": "Ella_and_Louis",
+    "description": "Collector-grade vinyl pressing guide for Ella and Louis \u2013 the single-day session backed by the Oscar Peterson Quartet, mono only despite the three-track tape, and the Analogue Productions 45rpm as the reference edition.",
     "content_file": "ella_and_louis_vinyl_guide.md",
     "cover_url": "",
-    "mbid": "7f6e5d4c-3b2a-1f0e-9d8c-7b6a5f4e3d2c"
+    "mbid": "6a8ec885-544e-3b31-859a-a73289a01421"
   },
   {
     "slug": "return-to-forever",
