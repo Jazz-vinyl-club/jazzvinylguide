@@ -6,7 +6,7 @@
 
 Backed by Columbia's promotional muscle, *Monk's Dream* became the best-selling album of Monk's lifetime and helped put him on the cover of Time magazine the following year ("The Loneliest Monk," February 28, 1964). It also set the template – critics have sometimes said the formula – for Monk's entire seven-year Columbia tenure: the same working quartet, a mix of newly recorded versions of older compositions, and clean, straightforward Columbia engineering that gave his music a spaciousness and immediacy it hadn't had on Riverside.
 
-**Best early pressing for audiophiles:** [Original Columbia two-eye stereo, CS 8765](https://www.discogs.com/release/7356124-The-Thelonious-Monk-Quartet-Monks-Dream) – Columbia's "360 Sound" era pressing.
+**Best early pressing for audiophiles:** [Original Columbia two-eye stereo, CS 8765](https://www.discogs.com/release/1465575-The-Thelonious-Monk-Quartet-Monks-Dream) – Columbia's "360 Sound" era pressing.
 **Best modern pressing for audiophiles:** [Impex Records 180g (2017)](https://www.discogs.com/release/11537615-The-Thelonious-Monk-Quartet-Monks-Dream) – Kevin Gray, RTI, mastered from the original tapes.
 **Best-value modern:** Same Impex pressing – widely available and, per most reviews, the clear modern standard for this title.
 
@@ -43,7 +43,7 @@ No specific bootleg is widely documented. Later 1970s–80s Columbia reissues on
 ## Buyer's guide by budget
 
 **Under $50:** The [**Impex Records 180g reissue (2017)**](https://www.discogs.com/release/11537615-The-Thelonious-Monk-Quartet-Monks-Dream) – Kevin Gray mastering, the clear modern recommendation per multiple independent reviews.
-**$40–$120:** A clean original [**Columbia two-eye stereo, CS 8765**](https://www.discogs.com/release/7356124-The-Thelonious-Monk-Quartet-Monks-Dream) – attainable given this title's status as Monk's best-selling album.
+**$40–$120:** A clean original [**Columbia two-eye stereo, CS 8765**](https://www.discogs.com/release/1465575-The-Thelonious-Monk-Quartet-Monks-Dream) – attainable given this title's status as Monk's best-selling album.
 
 ---
 
@@ -52,6 +52,6 @@ No specific bootleg is widely documented. Later 1970s–80s Columbia reissues on
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
 | **A** | Impex Records 180g | – | 2017 | Stereo, 180g | Orig tape → Kevin Gray, Cohearent Audio, RTI | Widely praised; known tape-level click on track A1; $35–$50 new | [Discogs](https://www.discogs.com/release/11537615-The-Thelonious-Monk-Quartet-Monks-Dream) |
-| **B** | Original Columbia two-eye stereo | CS 8765 | 1963 | Stereo, 33⅓ | Original 1963 mastering | 360 Sound era; attainable given large original run; $40–$120 NM | [Discogs](https://www.discogs.com/release/7356124-The-Thelonious-Monk-Quartet-Monks-Dream) |
-| **B** | Original Columbia two-eye mono | CL 1965 | 1963 | Mono, 33⅓ | Original 1963 mastering | $40–$100 NM | [Discogs](https://www.discogs.com/release/10033266-The-Thelonious-Monk-Quartet-Monks-Dream) |
+| **B** | Original Columbia two-eye stereo | CS 8765 | 1963 | Stereo, 33⅓ | Original 1963 mastering | 360 Sound era; attainable given large original run; $40–$120 NM | [Discogs](https://www.discogs.com/release/1465575-The-Thelonious-Monk-Quartet-Monks-Dream) |
+| **B** | Original Columbia two-eye mono | CL 1965 | 1963 | Mono, 33⅓ | Original 1963 mastering | $40–$100 NM | [Discogs](https://www.discogs.com/release/735430-The-Thelonious-Monk-Quartet-Monks-Dream) |
 | **C** | Later Columbia corporate-era reissues | CS 8765 | 1970s–80s | Stereo, 33⅓ | Later metalwork | Budget listening only; $15–$40 | – |
