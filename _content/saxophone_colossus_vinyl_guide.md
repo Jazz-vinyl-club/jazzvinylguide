@@ -130,8 +130,6 @@ DOL releases are generally regarded with scepticism due to their unlicensed, dig
 
 ## Buyer's guide by budget
 
-**~$25 new:** The [**DOL773HB 180g blue vinyl**](https://www.discogs.com/release/14481054-Sonny-Rollins-Saxophone-Colossus) – well-reviewed for pressing quality; provenance unconfirmed but practically excellent for the price. Know what you're buying.
-
 **Under $30:** The [**1987 OJC-291**](https://www.discogs.com/release/1376103-Sonny-Rollins-Saxophone-Colossus) – analogue, warm, affordable. Confirm the year before buying; avoid the 2011 repress.
 
 **$60–$90 new:** The [**AP 2022 repress APRJ 7079 180g**](https://www.discogs.com/release/22729826-Sonny-Rollins-Saxophone-Colossus) – Kevin Gray, AAA, QRP; still available new; definitive modern pressing.
