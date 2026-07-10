@@ -106,7 +106,7 @@ The Japanese Toshiba-EMI pressing of *Soul Station* is consistently praised on D
 
 **Under $35:** The [**Blue Note Classic Vinyl BST 84031 (2021)**](https://www.discogs.com/release/18097726-Hank-Mobley-Soul-Station) – Kevin Gray, Optimal, 180g. Buy from a seller with returns given early-run QC issues; later copies are clean.
 
-**$50–$120:** A [**Japanese Toshiba pressing**](https://www.discogs.com/master/62796-Hank-Mobley-Soul-Station) with obi – "incredible" sound, dead-quiet, warm midrange.
+**$50–$120:** A [**Japanese Toshiba pressing**](https://www.discogs.com/release/10488968-Hank-Mobley-Soul-Station) with obi – "incredible" sound, dead-quiet, warm midrange.
 
 **$80–$150:** The [**Music Matters SRX 33rpm (2014 or 2020)**](https://www.discogs.com/release/14870997-Hank-Mobley-Soul-Station) – same Kevin Gray/Hoffman mastering as the 45rpm; more accessible secondary price.
 
@@ -122,11 +122,11 @@ The Japanese Toshiba-EMI pressing of *Soul Station* is consistently praised on D
 |---|---|---|---|---|---|---|---|
 | **S** | Music Matters 45rpm 2LP | MMBST-84031 | 2008 | Stereo, 45rpm, 2×180g | Orig stereo tape → Gray & Hoffman, AcousTech, RTI | 2,500 copies; benchmark reissue; OOP $200–$400 | [Discogs](https://www.discogs.com/release/3009895-Hank-Mobley-Soul-Station) |
 | **A** | Original BLP 4031 mono, NY USA label | BLP 4031 | 1960 | Mono, 33⅓ | RVG / Plastylite; native mono | Deep groove; VAN GELDER + ear required; $300–$700 NM | [Discogs](https://www.discogs.com/release/1249135-Hank-Mobley-Soul-Station) |
-| **A** | Original BST 84031 stereo, NY USA label | BST 84031 | 1960 | Stereo, 33⅓ | RVG / Plastylite; native stereo | Hard-panned; VAN GELDER + ear required; $200–$500 NM | [Discogs](https://www.discogs.com/master/62796-Hank-Mobley-Soul-Station) |
+| **A** | Original BST 84031 stereo, NY USA label | BST 84031 | 1960 | Stereo, 33⅓ | RVG / Plastylite; native stereo | Hard-panned; VAN GELDER + ear required; $200–$500 NM | [Discogs](https://www.discogs.com/release/1782584-Hank-Mobley-Soul-Station) |
 | **B** | Music Matters SRX 33rpm (2020) | MMBST-84031 | 2020 | Stereo, 33⅓, 180g SRX | Orig stereo tape → Gray & Hoffman, AcousTech, SRX vinyl | Ultra-low-noise SRX compound; OOP $80–$150 | [Discogs](https://www.discogs.com/release/14870997-Hank-Mobley-Soul-Station) |
 | **B** | Music Matters 33rpm original (2014) | MMBST-84031 | 2014 | Stereo, 33⅓, 180g | Orig stereo tape → Gray & Hoffman, AcousTech, RTI | Same mastering as 45rpm; OOP $80–$150 | [Discogs](https://www.discogs.com/release/5504247-Hank-Mobley-Soul-Station) |
-| **B** | Japanese Toshiba pressing | Various | 1970s–80s | Stereo, 33⅓ | Licensed Japanese pressing | "Incredible" sound; warm midrange; $50–$120 with obi | [Discogs](https://www.discogs.com/master/62796-Hank-Mobley-Soul-Station) |
+| **B** | Japanese Toshiba pressing | Various | 1970s–80s | Stereo, 33⅓ | Licensed Japanese pressing | "Incredible" sound; warm midrange; $50–$120 with obi | [Discogs](https://www.discogs.com/release/10488968-Hank-Mobley-Soul-Station) |
 | **C** | Blue Note Classic Vinyl 180g | BST 84031 | 2021 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Cohearent, Optimal | Early-run QC issues; buy with returns; $25–$35 new | [Discogs](https://www.discogs.com/release/18097726-Hank-Mobley-Soul-Station) |
-| **C** | Liberty East Coast pressing (VG-stamped) | BST 84031 | 1966–71 | Stereo, 33⅓ | RVG East Coast metal | Inspect for VG stamp; avoid West Coast; $50–$120 VG+ | [Discogs](https://www.discogs.com/master/62796-Hank-Mobley-Soul-Station) |
+| **C** | Liberty East Coast pressing (VG-stamped) | BST 84031 | 1966–71 | Stereo, 33⅓ | RVG East Coast metal | Inspect for VG stamp; avoid West Coast; $50–$120 VG+ | [Discogs](https://www.discogs.com/release/1038695-Hank-Mobley-Soul-Station) |
 | **D** | Liberty West Coast pressing (no VG stamp) | BST 84031 | 1966–71 | Stereo, 33⅓ | Research Craft from copy tape | Tape generation loss; avoid | – |
 | **F** | Generic EU reissues (DOL, Waxtime, etc.) | Various | 2000s+ | Various | Digital, unlicensed | Avoid | – |
