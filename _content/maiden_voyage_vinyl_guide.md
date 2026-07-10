@@ -2,9 +2,7 @@
 
 ## Summary
 
-*Maiden Voyage* was recorded on **March 17, 1965**, at Van Gelder Studio in Englewood Cliffs, New Jersey. Personnel: Herbie Hancock (piano), Freddie Hubbard (trumpet), George Coleman (tenor saxophone), Ron Carter (bass), Tony Williams (drums). Produced by Alfred Lion. Released in **1965** on Blue Note as BLP 4195 (mono) and BST 84195 (stereo). Inducted into the **Grammy Hall of Fame in 1999**.
-
-Five Hancock originals, each built around a sustained nautical metaphor and the "sus chord" harmonic language he had developed in the Miles Davis Quintet. "Dolphin Dance" has become one of the most widely studied piano compositions in jazz pedagogy. The album is widely considered Hancock's finest achievement as a Blue Note leader.
+*Maiden Voyage* was recorded on **March 17, 1965**, at Van Gelder Studio in Englewood Cliffs, New Jersey. Personnel: Herbie Hancock (piano), Freddie Hubbard (trumpet), George Coleman (tenor saxophone), Ron Carter (bass), Tony Williams (drums). Produced by Alfred Lion. Released in **1965** on Blue Note as BLP 4195 (mono) and BST 84195 (stereo). Inducted into the **Grammy Hall of Fame in 1999**. Five Hancock originals, each built around a sustained nautical metaphor and the "sus chord" harmonic language he had developed in the Miles Davis Quintet, make up the program; "Dolphin Dance" has become one of the most widely studied piano compositions in jazz pedagogy, and the album is widely considered Hancock's finest achievement as a Blue Note leader.
 
 The stereo is widely preferred for this title – Tony Williams's drumming and the open suspended harmonics both benefit from the stereo spread. Original New York USA pressings are the collector benchmark; the Music Matters 33rpm AAA is the finest modern version; the Blue Note Classic Vinyl is the accessible entry point.
 
@@ -115,5 +113,5 @@ Japanese licensed pressings of *Maiden Voyage* – particularly the **King/Toshi
 | **B** | Blue Note Classic Vinyl 180g | BST 84195 | 2021 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Consistently good reviews; $20–$35 new | [Discogs](https://www.discogs.com/release/20316430-Herbie-Hancock-Maiden-Voyage) |
 | **B** | King Masterpiece Special Replica 200g | BST-84195 (King) | 1983 | Stereo, 33⅓, 200g | Licensed; heavy vinyl; replica US presentation | SJ Seal; no Japanese imprints; $80–$150 with obi | [Discogs](https://www.discogs.com/release/6454559-Herbie-Hancock-Maiden-Voyage) |
 | **B** | King/Toshiba standard 33rpm | GXF series | 1976 | Stereo, 33⅓ | Licensed Japanese pressing | Dead-quiet vinyl; warm; $40–$80 with obi | [Discogs](https://www.discogs.com/release/6513605-Herbie-Hancock-Maiden-Voyage) |
-| **C** | Liberty-era pressing (with VG stamp) | BST 84195 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $40–$100 VG+ | [Discogs](https://www.discogs.com/master/51553-Herbie-Hancock-Maiden-Voyage) |
+| **C** | Liberty-era pressing (with VG stamp) | BST 84195 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $40–$100 VG+ | [Discogs](https://www.discogs.com/release/3154908-Herbie-Hancock-Maiden-Voyage) |
 | **D** | Generic 1970s–80s reissues | Various | 1970s–80s | Stereo, 33⅓ | Various | Avoid; Classic Vinyl is better | – |
