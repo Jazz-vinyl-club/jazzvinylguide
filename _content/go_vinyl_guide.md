@@ -86,7 +86,7 @@ Authentication markers for the earliest copies:
 
 ### Japanese pressings – the vintage alternative
 
-Japanese Blue Note pressings of *Go!* – primarily from Toshiba-EMI and King Records in the 1970s and early 1980s – are consistently praised for dead-quiet vinyl and faithful, warm reproduction. As with most Japanese Blue Note titles of this era, they were pressed under licence using dubbed tape sources, but the quality of Japanese vinyl and pressing plants from this period is exceptional. A 1985 German DMM pressing (r3419426) is specifically noted on the Discogs master page as inferior to the Japanese copies; the DMM process can cause listening fatigue on certain systems. **Japanese pressings: $40–$100 NM with obi.** [Discogs master](https://www.discogs.com/master/121331-Dexter-Gordon-Go)
+Japanese Blue Note pressings of *Go!* – primarily from Toshiba-EMI and King Records in the 1970s and early 1980s – are consistently praised for dead-quiet vinyl and faithful, warm reproduction. As with most Japanese Blue Note titles of this era, they were pressed under licence using dubbed tape sources, but the quality of Japanese vinyl and pressing plants from this period is exceptional. A 1985 German DMM pressing (r3419426) is noted by collectors as inferior to the Japanese copies; the DMM process can cause listening fatigue on certain systems. **Japanese pressings: $40–$100 NM with obi.** [Discogs](https://www.discogs.com/release/6796081-Dexter-Gordon-Go)
 
 ---
 
@@ -104,7 +104,7 @@ Japanese Blue Note pressings of *Go!* – primarily from Toshiba-EMI and King Re
 
 **Under $35:** The [**Blue Note Classic Vinyl BST 84112 (2021)**](https://www.discogs.com/release/19583212-Dexter-Gordon-Go) – Kevin Gray, Optimal, 180g. Buy with returns given documented QC variation on some copies.
 
-**$40–$100:** A [**Japanese Toshiba or King pressing**](https://www.discogs.com/master/121331-Dexter-Gordon-Go) with obi – dead-quiet vinyl, warm character, faithful to the tape.
+**$40–$100:** A [**Japanese Toshiba or King pressing**](https://www.discogs.com/release/6796081-Dexter-Gordon-Go) with obi – dead-quiet vinyl, warm character, faithful to the tape.
 
 **$100–$200:** The [**Music Matters 33rpm MM33 BNST-84112 (2014)**](https://www.discogs.com/release/5687834-Dexter-Gordon-Go) if found at a fair price – excellent pressing, Kevin Gray and Ron Rambach, 3,500 copies.
 
@@ -120,10 +120,10 @@ Japanese Blue Note pressings of *Go!* – primarily from Toshiba-EMI and King Re
 |---|---|---|---|---|---|---|---|
 | **S** | AP 45rpm 2LP 180g | AP-84112 | 2008 | Stereo, 45rpm, 2×180g | Orig tapes → Gray & Hoffman, AcousTech, QRP | Vinyl Gourmet-selected; OOP $150–$300 | [Discogs](https://www.discogs.com/release/3747701-Dexter-Gordon-Go) |
 | **A** | Original BLP 4112 mono, NY USA label | BLP 4112 | 1962 | Mono, 33⅓ | RVG / Plastylite; native mono | Deep groove; $300–$700 NM | [Discogs](https://www.discogs.com/release/3380665-Dexter-Gordon-Go) |
-| **A** | Original BST 84112 stereo, NY USA label | BST 84112 | 1962 | Stereo, 33⅓ | RVG / Plastylite; native stereo | Deep groove; $200–$500 NM | [Discogs](https://www.discogs.com/master/121331-Dexter-Gordon-Go) |
+| **A** | Original BST 84112 stereo, NY USA label | BST 84112 | 1962 | Stereo, 33⅓ | RVG / Plastylite; native stereo | Deep groove; $200–$500 NM | [Discogs](https://www.discogs.com/release/2019733-Dexter-Gordon-Go) |
 | **B** | Music Matters 33rpm 180g | MM33 BNST-84112 | 2014 | Stereo, 33⅓, 180g | Orig tapes → Gray & Rambach, Cohearent, RTI | 3,500 copies; OOP $100–$200 | [Discogs](https://www.discogs.com/release/5687834-Dexter-Gordon-Go) |
-| **B** | Japanese Toshiba/King pressing | Various | 1970s–80s | Stereo, 33⅓ | Licensed Japanese pressing | Dead-quiet; warm; $40–$100 with obi | [Discogs](https://www.discogs.com/master/121331-Dexter-Gordon-Go) |
+| **B** | Japanese Toshiba/King pressing | Various | 1970s–80s | Stereo, 33⅓ | Licensed Japanese pressing | Dead-quiet; warm; $40–$100 with obi | [Discogs](https://www.discogs.com/release/6796081-Dexter-Gordon-Go) |
 | **C** | Blue Note Classic Vinyl 180g | BST 84112 | 2021 | Stereo, 33⅓, 180g | Orig tapes → Kevin Gray, Cohearent, Optimal | QC variation documented; buy with returns; ~$25–$35 | [Discogs](https://www.discogs.com/release/19583212-Dexter-Gordon-Go) |
-| **C** | Liberty-era pressing (VG-stamped) | BST 84112 | 1966–71 | Stereo, 33⅓ | RVG East Coast (if stamped) | Check deadwax; $50–$120 VG+ | [Discogs](https://www.discogs.com/master/121331-Dexter-Gordon-Go) |
+| **C** | Liberty-era pressing (VG-stamped) | BST 84112 | 1966–71 | Stereo, 33⅓ | RVG East Coast (if stamped) | Check deadwax; $50–$120 VG+ | [Discogs](https://www.discogs.com/release/4515555-Dexter-Gordon-Go) |
 | **D** | 1985 German DMM pressing | BST-84112 | 1985 | Stereo, 33⅓ | DMM mastering | Specifically noted as inferior to Japanese; avoid | [Discogs](https://www.discogs.com/release/3419426-Dexter-Gordon-Go) |
 | **F** | Generic EU reissues (DOL, Waxtime, etc.) | Various | 2000s+ | Various | Digital, unlicensed | Avoid | – |
