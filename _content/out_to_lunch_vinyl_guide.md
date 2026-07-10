@@ -6,13 +6,13 @@
 
 *Out to Lunch!* was Dolphy's only Blue Note recording as a leader and his final studio album. It comprises five Dolphy originals: "Hat and Beard," "Something Sweet, Something Tender," "Gazzelloni," "Out to Lunch," and "Straight Up and Down." The piano-less quintet – vibraphone in place of harmonic chording – gives the album its open, searching quality. [AllMusic's Scott Yanow](https://www.allmusic.com/album/out-to-lunch-mw0000188912) called it "Dolphy's magnum opus, an absolute pinnacle of avant-garde jazz in any form or era." The Penguin Guide to Jazz awarded it a crown and selected it for the Core Collection, calling it "a slightly tentative masterpiece."
 
-The mono presentation is the studio-intended version and the one Van Gelder optimised for. Original New York USA pressings with the Van Gelder stamp and Plastylite ear are the collector's target. The Tone Poet reissue (2022) brought a fresh Kevin Gray cut from the original mono tape to the widest audience; Music Matters (2014) had done the same work earlier in a more lavish package.
+The mono presentation is the studio-intended version and the one Van Gelder optimised for. Original New York USA pressings with the Van Gelder stamp and Plastylite ear are the collector's target. This title was never issued in Blue Note's Tone Poet series – the Blue Note Classic Vinyl Series (2021) is the modern reference, using the same Kevin Gray mastering chain that Music Matters used for its 2009 45rpm edition.
 
 **Best early pressing for audiophiles:** [Original Blue Note BLP 4163 mono, New York USA label](https://www.discogs.com/release/662848-Eric-Dolphy-Out-To-Lunch) – deep groove, Van Gelder stamp, Plastylite ear; $300–$700 NM.
 
-**Best modern pressing for audiophiles:** [Blue Note Tone Poet 180g mono (2022)](https://www.discogs.com/release/23196534-Eric-Dolphy-Out-To-Lunch) – Kevin Gray, AAA, RTI, gatefold; ~$50 new.
+**Best modern pressing for audiophiles:** [Music Matters 45rpm mono (2009)](https://www.discogs.com/release/2736558-Eric-Dolphy-Out-To-Lunch) – Kevin Gray & Steve Hoffman, AAA; the finest available version, OOP.
 
-**Best-value modern:** [Blue Note Classic Vinyl 180g (2020)](https://www.discogs.com/release/20348707-Eric-Dolphy-Out-To-Lunch) – Kevin Gray, Optimal, 180g; ~$25 new.
+**Best-value modern:** [Blue Note Classic Vinyl 180g (2021)](https://www.discogs.com/release/20348707-Eric-Dolphy-Out-To-Lunch) – Kevin Gray at Cohearent Audio, Optimal pressing; ~$25–$30 new.
 
 
 ## Recording history and tape provenance
@@ -29,7 +29,7 @@ Miles Davis, for his part, was not a fan. In a 1964 *DownBeat* Blindfold Test he
 
 **Dolphy's death:** On June 29, 1964, while on tour with Mingus in West Berlin, Dolphy collapsed and died from a diabetic coma. He was 36 and had told Mingus, before a concert in Oslo, that he intended to stay in Europe permanently. His fiancée Joyce Mordecai was working in the Paris ballet scene; Mingus later named the blues they had been performing "So Long Eric." *Out to Lunch!* reached record shops two months after his death.
 
-**Tape provenance:** The original Alfred Lion–era tapes are in the Blue Note/Universal archive in excellent condition. Both Music Matters (2014) and Tone Poet (2022) confirmed working from the original mono master tape; Kevin Gray's two cuts – a decade apart – show strong consistency, suggesting the tapes have been well maintained.
+**Tape provenance:** The original Alfred Lion–era tapes are in the Blue Note/Universal archive in excellent condition. Both Music Matters (2009) and the Blue Note Classic Vinyl Series (2021) confirmed working from the original mono master tape; Kevin Gray's two cuts – over a decade apart – show strong consistency, suggesting the tapes have been well maintained.
 
 **The Reid Miles cover:** The clock on the cover – found by Miles in a shop window near the Blue Note office, in [one account](https://thejazzword.wordpress.com/2014/04/03/back-to-blue-eric-dolphys-out-to-lunch-1964/) – shows not no hands but **seven hands**, a detail that mirrors the album's refusal to be anchored to conventional time. It is consistently ranked among the greatest jazz album covers ever designed.
 
@@ -51,7 +51,7 @@ The first pressing of BLP 4163 carries the **"Blue Note Records Inc. • New Yor
 
 As [LJC notes](https://londonjazzcollector.wordpress.com/2013/05/04/eric-dolphy-out-to-lunch-1964-blue-note/), the New York USA label was in use for around four years with minimal forensic variation – the inner sleeve is often the most reliable indicator of pressing generation, when present. Some early stereo copies came in mono jackets with a large gold "STEREO" sticker over the front cover, a Blue Note practice also seen on early copies of *Blue Train* and *Moanin'*.
 
-Van Gelder's engineering on this session is exceptional even by his standards. [LJC writes](https://londonjazzcollector.wordpress.com/2013/05/04/eric-dolphy-out-to-lunch-1964-blue-note/): "Van Gelder's recording here is a marvel, cymbal strikes resonate and hang suspended in mid-air." The Tone Poet and Music Matters reissues confirm the tapes are in fine shape.
+Van Gelder's engineering on this session is exceptional even by his standards. [LJC writes](https://londonjazzcollector.wordpress.com/2013/05/04/eric-dolphy-out-to-lunch-1964-blue-note/): "Van Gelder's recording here is a marvel, cymbal strikes resonate and hang suspended in mid-air." The Music Matters and Blue Note Classic Vinyl reissues confirm the tapes are in fine shape.
 
 **NM mono originals: $300–$700. VG+: $150–$350. NM stereo BST 84163 (NY USA, with Plastylite): $250–$500.**
 
@@ -69,15 +69,11 @@ However, [LJC's own position evolved](https://londonjazzcollector.wordpress.com/
 
 ## The reissue hierarchy
 
-### Music Matters 33rpm 180g mono (2014) – the pre-Tone Poet benchmark
+### Music Matters 45rpm 2LP mono (2009) – the audiophile benchmark
 
-**Cat. MM33-4163** | Format: 180g LP, 33⅓, mono, gatefold tip-on jacket. **Mastered by Kevin Gray at Cohearent Audio, AAA, from the original mono master tape. Pressed at QRP.** The Music Matters edition was widely praised as the finest available version before the Tone Poet series; it now sits just behind the Tone Poet in most assessments, primarily because the Tone Poet is the same mastering lineage at lower cost. Out of print; secondary market prices have risen. **$150–$250 secondary.**
+**Cat. MMBST-84163-(45)** | Format: 2×180g LP, 45rpm, mono, gatefold tip-on jacket with session photos. **Mastered by Kevin Gray and Steve Hoffman, AAA, from the original mono master tape. Manufactured by EMI Music Special Markets.** Limited to 2,500 copies. Widely regarded as the finest available version of this title, predating and matching the sound quality of the later Blue Note Classic Vinyl edition, with the added resolution of the 45rpm format and a more lavish gatefold package. Out of print; secondary market prices have risen accordingly. **$150–$300 secondary.**
 
-### Blue Note Tone Poet 180g mono (2022) – the current definitive reissue
-
-**Cat. B0035204-01** | Format: 180g LP, 33⅓, mono, deluxe gatefold tip-on jacket with essay. **Produced by Joe Harley. Mastered by Kevin Gray at Cohearent Audio, AAA, from the original mono master tape. Pressed at RTI.** The Tone Poet series is Blue Note's most authoritative modern reissue programme, and *Out to Lunch!* is consistently cited as one of its finest entries. Reviewers describe the bass clarinet with genuine weight and chest, the vibraphone resonating naturally, and Williams's cymbal work reproduced with uncanny detail. The gatefold includes an essay placing the recording in context. **~$45–$65 new; widely available.**
-
-### Blue Note Classic Vinyl 180g (2020) – the recommended budget option
+### Blue Note Classic Vinyl 180g (2021) – the recommended budget option
 
 **Cat. BLP 4163** | Format: 180g LP, 33⅓, mono. **Mastered by Kevin Gray at Cohearent Audio, from the original mono master tape. Pressed at Optimal in Germany.** The same Kevin Gray mastering chain at an accessible price point, with Optimal's typically quiet surfaces. The [Blue Note store](https://store.bluenote.com/products/eric-dolphy-out-to-lunch-lp-blue-note-classic-vinyl-series) describes it as "all-analog, mastered by Kevin Gray directly from the original master tapes." Some QC variation has been reported across the Classic Vinyl series generally; this title is generally well-regarded. **~$20–$30 new.**
 
@@ -97,11 +93,9 @@ However, [LJC's own position evolved](https://londonjazzcollector.wordpress.com/
 
 ## Buyer's guide by budget
 
-**Under $30:** The [**Blue Note Classic Vinyl BLP 4163 (2020)**](https://www.discogs.com/release/20348707-Eric-Dolphy-Out-To-Lunch) – Kevin Gray mastering, Optimal pressing, mono. The correct entry point and excellent value.
+**Under $30:** The [**Blue Note Classic Vinyl BLP 4163 (2021)**](https://www.discogs.com/release/20348707-Eric-Dolphy-Out-To-Lunch) – Kevin Gray mastering, Optimal pressing, mono. The correct entry point and excellent value; also the top modern recommendation for most collectors, since this title has never been part of the Tone Poet series.
 
-**$45–$65:** The [**Blue Note Tone Poet 180g mono (2022)**](https://www.discogs.com/release/23196534-Eric-Dolphy-Out-To-Lunch) – the finest available version at a fair price. This is the primary recommendation for most collectors.
-
-**$150–$250:** The [**Music Matters MM33-4163 AAA mono (2014)**](https://www.discogs.com/release/6192516-Eric-Dolphy-Out-To-Lunch) on the secondary market – excellent, though the Tone Poet has largely superseded it at a lower price.
+**$150–$300:** The [**Music Matters 45rpm mono (2009)**](https://www.discogs.com/release/2736558-Eric-Dolphy-Out-To-Lunch) on the secondary market – the finest available version, with the added resolution of the 45rpm format.
 
 **$300+:** An original [**New York USA BLP 4163 mono**](https://www.discogs.com/release/662848-Eric-Dolphy-Out-To-Lunch) in honest VG+ or better – seek the VAN GELDER stamp, Plastylite ear, and deep groove.
 
@@ -111,10 +105,9 @@ However, [LJC's own position evolved](https://londonjazzcollector.wordpress.com/
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Tone Poet 180g mono | B0035204-01 | 2022 | Mono, 33⅓, 180g | Orig mono tape → Kevin Gray, AAA, RTI | Current definitive; Joe Harley production; ~$45–$65 new | [Discogs](https://www.discogs.com/release/23196534-Eric-Dolphy-Out-To-Lunch) |
+| **S** | Music Matters 45rpm mono | MMBST-84163-(45) | 2009 | Mono, 45rpm, 2×180g | Orig mono tape → Kevin Gray & Steve Hoffman, AAA | OOP; the finest available version; $150–$300 secondary | [Discogs](https://www.discogs.com/release/2736558-Eric-Dolphy-Out-To-Lunch) |
 | **A** | Original BLP 4163 mono, NY USA label | BLP 4163 | 1964 | Mono, 33⅓ | RVG / Plastylite | VAN GELDER stamp + ear required; deep groove; $300–$700 NM | [Discogs](https://www.discogs.com/release/662848-Eric-Dolphy-Out-To-Lunch) |
-| **A** | Music Matters 33rpm AAA mono | MM33-4163 | 2014 | Mono, 33⅓, 180g | Orig mono tape → Kevin Gray, AAA, QRP | OOP; excellent; same mastering lineage as Tone Poet; $150–$250 | [Discogs](https://www.discogs.com/release/6192516-Eric-Dolphy-Out-To-Lunch) |
-| **B** | Blue Note Classic Vinyl 180g | BLP 4163 | 2020 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Best value; ~$20–$30 new | [Discogs](https://www.discogs.com/release/20348707-Eric-Dolphy-Out-To-Lunch) |
+| **B** | Blue Note Classic Vinyl 180g | BLP 4163 | 2021 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Best value; not part of the Tone Poet series; ~$20–$30 new | [Discogs](https://www.discogs.com/release/20348707-Eric-Dolphy-Out-To-Lunch) |
 | **B** | Original BST 84163 stereo, NY USA label | BST 84163 | 1964 | Stereo, 33⅓ | RVG / Plastylite | Authentic period pressing; hard-panned; mono preferred for listening; $250–$500 NM | [Discogs](https://www.discogs.com/release/1464211-Eric-Dolphy-Out-To-Lunch) |
 | **B** | Japanese King GXF-3009 | GXF-3009 | 1977 | Mono, 33⅓ | Licensed Japanese pressing | Quiet surfaces, warm character; $60–$150 NM with obi | [Discogs](https://www.discogs.com/release/2216318-Eric-Dolphy-Out-To-Lunch) |
 | **C** | Liberty-era BLP 4163 / BST 84163 | BLP/BST 4163 | 1966–70 | Mono or stereo, 33⅓ | RVG (if stamped) | Check deadwax for VG stamp; $40–$100 VG+ | [Discogs](https://www.discogs.com/master/28730-Eric-Dolphy-Out-To-Lunch) |
