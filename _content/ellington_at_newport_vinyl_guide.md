@@ -42,7 +42,7 @@ A vinyl reissue (catalog DOX904) advertises itself as the complete Newport conce
 
 ## Japanese pressings
 
-CBS/Sony issued this title in Japan on more than one occasion, including a 1971 promotional pressing and a later-1970s standard release (c. 1975), both with Japanese liner notes. Neither has developed a strong dedicated audiophile reputation distinct from the US pressings, but both are legitimate period items for collectors building out a fuller run of Ellington pressings. [Discogs (1975)](https://www.discogs.com/release/3630941-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) **$20–$50 with insert.**
+CBS/Sony issued this title in Japan on more than one occasion, including a 1971 promotional pressing and a later-1970s standard release (catalog SOPN-150, c. 1975), both with Japanese liner notes. The SOPN-150 pressing carries a shorter selection than the standard US LP (the Newport Jazz Festival Suite excerpts, "Jeep's Blues," and "Diminuendo and Crescendo in Blue," rather than the full program), so it's worth confirming tracklist before buying if completeness matters. Neither Japanese pressing has developed a strong dedicated audiophile reputation distinct from the US pressings, but both are legitimate period items for collectors building out a fuller run of Ellington pressings. [Discogs (1975)](https://www.discogs.com/release/3630941-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) **$20–$50 with insert.**
 
 ---
 
@@ -66,5 +66,5 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 |---|---|---|---|---|---|---|---|
 | **A** | Original Columbia six-eye mono | CL 934 | 1956 | Mono, 33⅓ | Original 1956 Columbia mastering | Attainable given large original pressing run; $30–$100 | [Discogs](https://www.discogs.com/release/689458-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
 | **A** | Mobile Fidelity numbered mono | MOFI 1-035 | – | Mono, numbered LP | MoFi remastering | Quiet, strong pressing; some prefer original for Duke's voice; $25–$60 | [Discogs](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
-| **B** | Japanese CBS/Sony pressing | – | c.1975 | Mono, 33⅓ | Licensed Japanese pressing | Legitimate period item; no distinct audiophile reputation; $20–$50 | [Discogs](https://www.discogs.com/release/3630941-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
+| **B** | Japanese CBS/Sony pressing | SOPN-150 | c.1975 | Mono, 33⅓ | Licensed Japanese pressing | Shorter track selection than US LP; no distinct audiophile reputation; $20–$50 | [Discogs](https://www.discogs.com/release/3630941-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
 | **B** | "Complete concert" 2LP reissue | DOX904 | 2013 | Stereo, 2LP | Compiled from 1999 Complete reissue material | Likely digital source, unclear licensing; the fuller, more accurate concert account on vinyl; $20–$40 | [Discogs](https://www.discogs.com/release/15625375-Duke-Ellington-Ellington-at-Newport) |
