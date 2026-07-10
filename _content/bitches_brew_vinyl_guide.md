@@ -128,7 +128,7 @@ Columbia/Legacy anniversary editions are acceptable entry points digitally sourc
 | **A** | Japanese CBS/Sony 28AP 2151~2 | 28AP 2151~2 | 1981 | Stereo, 33⅓, 2LP | CBS/Sony Japan; Big Jazz Fusion 23 series | 4.95/5 Discogs avg; 977 wants; dead-quiet; $40–$120 with obi | [Discogs](https://www.discogs.com/release/2075721-Miles-Davis-Bitches-Brew) |
 | **B** | MoFi MFSL 2-439 180g 2LP | MFSL 2-439 | 2014/2023 | Stereo, 33⅓, 2×180g | Orig tapes → DSD 64 → Wunderlich, RTI/FRP | Disclosed DSD; widely praised; $50–$80 | [Discogs](https://www.discogs.com/release/5804415-Miles-Davis-Bitches-Brew) |
 | **B** | Early red/orange Columbia ring label | GP/PG 26 | 1970–75 | Stereo, 33⅓ | Period Columbia lacquer | Sonically close to two-eye; $25–$60 | [Discogs](https://www.discogs.com/release/11481689-Miles-Davis-Bitches-Brew) |
-| **C** | Quadraphonic SQ matrix | GP 26 | 1971 | Quad/stereo, 33⅓ | Original Columbia quad mix | SQ decodable; curio; $20–$50 | [Discogs](https://www.discogs.com/master/8260-Miles-Davis-Bitches-Brew) |
+| **C** | Quadraphonic SQ matrix | GP 26 | 1971 | Quad/stereo, 33⅓ | Original Columbia quad mix | SQ decodable; curio; $20–$50 | [Discogs](https://www.discogs.com/release/1157814-Miles-Davis-Bitches-Brew) |
 | **C** | Columbia Legacy 40th Anniversary | Various | 2010 | Stereo, 33⅓ | Digital remaster | Decent at low price; $25–$35 | – |
 | **D** | Late 1970s+ Columbia reprints | PG 26 | 1975+ | Stereo, 33⅓ | Later-gen Columbia lacquer | Thin vinyl; inferior sound | – |
 | **F** | Generic EU reissues (DOL, etc.) | Various | 2000s+ | Various | Digital; unlicensed | Avoid | – |
