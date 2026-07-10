@@ -44,7 +44,7 @@ The important collector point: because this Liberty-label design is the genuine 
 
 **Cat. BST 84264** | Format: 180g LP, 33⅓. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes.** Discogs reviews are a genuine mixed bag: several owners report flat, silent, punchy copies and call it "an audiophile bargain" at the price, while a comparable number describe dished (bowl-shaped) vinyl, visible dirt on arrival, and audible pops and clicks, particularly on side two. One reviewer bluntly notes this is a "budget" release in construction – simple paper inner sleeve, no tip-on jacket – even where the mastering itself draws praise. Buy from a seller with an easy return policy. **$28–$40 new.**
 
-Note: unlike several other 1967 Tyner titles (*Time For Tyner*, *Asante*, *Expansions*, *Extensions*), *The Real McCoy* has not been issued as part of Blue Note's Tone Poet series as of this writing.
+Note: unlike other Tyner titles such as *Time For Tyner*, *Expansions*, and *Extensions*, *The Real McCoy* has not been issued as part of Blue Note's Tone Poet series as of this writing.
 
 ---
 
@@ -69,6 +69,6 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 |---|---|---|---|---|---|---|---|
 | **S** | Music Matters 45rpm 2LP | MMBST-84264 | 2011 | Stereo, 45rpm, 2×180g | Kevin Gray & Steve Hoffman, AcousTech, RTI | Definitive modern pressing; $150–$300 secondary | [Discogs](https://www.discogs.com/release/3378635-McCoy-Tyner-The-Real-McCoy) |
 | **A** | Original Liberty-label first pressing | BST 84264 | 1967 | Stereo, 33⅓ | Van Gelder original cut | True first pressing despite Liberty labels; $150–$350 NM | [Discogs](https://www.discogs.com/release/424427-McCoy-Tyner-The-Real-McCoy) |
-| **B** | Japanese King pressing | GXF-3008 | – | Stereo, 33⅓ | Licensed Japanese pressing | Quiet vinyl; $40–$90 with obi | – |
+| **B** | Japanese King pressing | GXF-3008 | 1977 | Stereo, 33⅓ | Licensed Japanese pressing | Quiet vinyl; $40–$90 with obi | [Discogs](https://www.discogs.com/release/2464731-McCoy-Tyner-The-Real-McCoy) |
 | **B** | Blue Note Classic Vinyl | BST 84264 | 2020 | Stereo, 33⅓, 180g | Kevin Gray, Cohearent Audio | Best-value modern; documented QC variance – inspect or buy with return policy; $28–$40 | [Discogs](https://www.discogs.com/release/16316769-McCoy-Tyner-The-Real-McCoy) |
 | **C** | 1970s–80s later pressings | BST 84264 | 1970s–87 | Stereo, 33⅓ | Various, incl. 1987 DMM Europadisk | Variable quality; $20–$50 | [Discogs](https://www.discogs.com/release/7314300-McCoy-Tyner-The-Real-McCoy) |
