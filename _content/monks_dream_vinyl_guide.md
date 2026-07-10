@@ -43,7 +43,7 @@ No specific bootleg is widely documented. Later 1970s–80s Columbia reissues on
 ## Buyer's guide by budget
 
 **Under $50:** The [**Impex Records 180g reissue (2017)**](https://www.discogs.com/release/11537615-The-Thelonious-Monk-Quartet-Monks-Dream) – Kevin Gray mastering, the clear modern recommendation per multiple independent reviews.
-**$40–$120:** A clean original [**Columbia two-eye stereo, CS 8765**](https://www.discogs.com/release/1465575-The-Thelonious-Monk-Quartet-Monks-Dream) – attainable given this title's status as Monk's best-selling album.
+**$50–$120:** A clean original [**Columbia two-eye stereo, CS 8765**](https://www.discogs.com/release/1465575-The-Thelonious-Monk-Quartet-Monks-Dream) – attainable given this title's status as Monk's best-selling album.
 
 ---
 

@@ -44,8 +44,8 @@ No specific bootleg is widely documented. Given the noise/pre-echo issues affect
 
 ## Buyer's guide by budget
 
-**Under $30:** A clean [**US 1975 pressing**](https://www.discogs.com/release/1141070-Chick-Corea-Return-To-Forever) or [**German original**](https://www.discogs.com/release/2271038-Chick-Corea-Return-To-Forever) – check seller photos/description for the known noise issues before buying either.
-**$25–$60:** The [**Japanese Polydor pressing**](https://www.discogs.com/release/2499163-Chick-Corea-Return-To-Forever) with obi – the most consistently praised pressing of this title, and worth the modest premium.
+**Under $25:** A clean [**US 1975 pressing**](https://www.discogs.com/release/1141070-Chick-Corea-Return-To-Forever) – check seller photos/description for the known pre-echo issue before buying.
+**$25–$60:** The [**Japanese Polydor pressing**](https://www.discogs.com/release/2499163-Chick-Corea-Return-To-Forever) with obi – the most consistently praised pressing of this title, or a clean [**German original**](https://www.discogs.com/release/2271038-Chick-Corea-Return-To-Forever), checking for the known noise issue first.
 
 ---
 

@@ -48,8 +48,8 @@ Freddie Hubbard, playing cornet rather than his usual trumpet for a warmer, more
 
 ## Buyer's guide by budget
 
-**Under $40:** The **Blue Note Classic Vinyl** – Kevin Gray mastering, widely praised as one of the finest sounding entries in its series.
-**$25–$50:** The **Blue Note 75th Anniversary (2015)** if you find a confirmed clean copy, or prefer buying from a seller with an easy return policy given documented QC variance.
+**Under $25:** The **Blue Note 75th Anniversary (2015)** if you find a confirmed clean copy, or prefer buying from a seller with an easy return policy given documented QC variance.
+**$25–$40:** The **Blue Note Classic Vinyl** – Kevin Gray mastering, widely praised as one of the finest sounding entries in its series.
 **$100–$200:** The [**Music Matters 33⅓ (MMBST-84175)**](https://www.discogs.com/release/6771572-Herbie-Hancock-Empyrean-Isles) on the secondary market – the definitive modern pressing for serious collectors.
 **$150–$400:** An original [**Blue Note BST 84175 stereo, Liberty label**](https://www.discogs.com/release/6798808-Herbie-Hancock-Empyrean-Isles) in honest condition, with Van Gelder stamp confirmed.
 

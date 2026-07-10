@@ -47,8 +47,8 @@ No specific bootleg is widely documented. Some later 1970s–80s European pressi
 ## Buyer's guide by budget
 
 **Under $45:** The [**Verve Acoustic Sounds Series (2023)**](https://www.discogs.com/release/25980667-The-Oscar-Peterson-Trio-Night-Train) – excellent mastering; check for warping before or immediately after purchase.
-**$40–$90:** The [**Speakers Corner reissue (1998)**](https://www.discogs.com/release/372109-The-Oscar-Peterson-Trio-Night-Train) on the secondary market, for a different but equally well-regarded take on the mastering.
-**$40–$120:** A clean original [**Verve V6-8538 stereo**](https://www.discogs.com/release/2705676-The-Oscar-Peterson-Trio-Night-Train) – genuinely attainable given this title's substantial original pressing run.
+**$45–$90:** The [**Speakers Corner reissue (1998)**](https://www.discogs.com/release/372109-The-Oscar-Peterson-Trio-Night-Train) on the secondary market, for a different but equally well-regarded take on the mastering.
+**$90–$120:** A clean original [**Verve V6-8538 stereo**](https://www.discogs.com/release/2705676-The-Oscar-Peterson-Trio-Night-Train) – genuinely attainable given this title's substantial original pressing run.
 
 ---
 
