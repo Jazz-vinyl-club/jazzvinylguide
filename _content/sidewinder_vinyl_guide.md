@@ -8,7 +8,7 @@ This was Morgan's full comeback after years away from the scene. The title track
 
 **Best early pressing for audiophiles:** [Original Blue Note BST 84157 stereo, New York USA label](https://www.discogs.com/release/1946625-Lee-Morgan-The-Sidewinder) – deep groove, Van Gelder stamp, Plastylite ear.
 
-**Best modern pressing for audiophiles:** [Music Matters 45rpm 2LP stereo (MM33 BNST-84157)](https://www.discogs.com/release/6011184-Lee-Morgan-The-Sidewinder) – Kevin Gray, AAA, RTI, gatefold.
+**Best modern pressing for audiophiles:** [Music Matters 33⅓ stereo (MM33 BNST-84157)](https://www.discogs.com/release/6011184-Lee-Morgan-The-Sidewinder) – Kevin Gray & Ron Rambach, AAA, RTI, gatefold.
 
 **Best-value modern:** [Blue Note Classic Vinyl BST 84157 180g](https://www.discogs.com/release/16312236-Lee-Morgan-The-Sidewinder) – Kevin Gray, Optimal, 180g, ~$25.
 
@@ -62,9 +62,9 @@ The **"Bob Crenshaw"** cover misspelling (for Bob Cranshaw) appears on all origi
 
 ## The reissue hierarchy
 
-### Music Matters 45rpm 2LP stereo (MM33 BNST-84157) – the audiophile benchmark
+### Music Matters 33⅓ stereo (MM33 BNST-84157) – the audiophile benchmark
 
-**Cat. MM33 BNST-84157** | Format: 2×180g LP, 45rpm, stereo, gatefold tip-on jacket. **Mastered by Kevin Gray at Cohearent Audio, AAA, from the original stereo master tape. Pressed at RTI (first run); limited to 3,500 copies.** The Music Matters 45rpm edition of *The Sidewinder* is widely cited as one of the highlights of the label's Blue Note series. The matrix reads: **MM33 BNST-84157-A P RR&KPG@CA 22336.2(3)**. [Discogs](https://www.discogs.com/release/6011184-Lee-Morgan-The-Sidewinder) owners: "On My Rig, These BN Music Matters And Definitive 45 RPM Titles Are Simply Amazing." Another: "This pressing is incredible – it made me appreciate how great Billy Higgins was. You can hear every little detail of what he's doing on the kit." Out of print; secondary prices reflect the quality. **$150–$300 secondary.**
+**Cat. MM33 BNST-84157 / B0020564-01** | Format: 180g LP, 33⅓, stereo, gatefold tip-on jacket, part of "Blue Note: The Definitive Vinyl Reissue Series." **Lacquers cut by Kevin Gray and Ron Rambach at Cohearent Audio, AAA, from the original stereo master tape. Pressed at RTI; released September 2014, limited to 3,500 copies.** The Music Matters edition of *The Sidewinder* is widely cited as one of the highlights of the label's Blue Note series, though several owners report RTI pressing-quality issues (pops, clicks, non-fill) despite praising the mastering itself. The matrix reads: **MM33 BNST-84157-A P RR&KPG@CA 22336.2(3)**. [Discogs](https://www.discogs.com/release/6011184-Lee-Morgan-The-Sidewinder) owners: "On My Rig, These BN Music Matters And Definitive 45 RPM Titles Are Simply Amazing." Another: "This pressing is incredible – it made me appreciate how great Billy Higgins was. You can hear every little detail of what he's doing on the kit." Out of print; secondary prices reflect the quality. **$150–$300 secondary.**
 
 ### Blue Note Classic Vinyl 180g – the accessible modern option
 
@@ -100,7 +100,7 @@ The **"Bob Crenshaw"** cover misspelling (for Bob Cranshaw) appears on all origi
 
 **$100–$300:** An original [**New York USA label stereo BST 84157**](https://www.discogs.com/release/1946625-Lee-Morgan-The-Sidewinder) in honest VG+ condition – plentiful on the market relative to other Blue Note originals, making it achievable without exceptional outlay.
 
-**$150–$300:** The [**Music Matters 45rpm stereo**](https://www.discogs.com/release/6011184-Lee-Morgan-The-Sidewinder) – the definitive modern version; worth seeking for serious listeners.
+**$150–$300:** The [**Music Matters 33⅓ stereo**](https://www.discogs.com/release/6011184-Lee-Morgan-The-Sidewinder) – the definitive modern version; worth seeking for serious listeners, though check for RTI pressing defects.
 
 ---
 
@@ -108,7 +108,7 @@ The **"Bob Crenshaw"** cover misspelling (for Bob Cranshaw) appears on all origi
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Music Matters 45rpm 2LP stereo | MM33 BNST-84157 | c.2012 | Stereo, 45rpm, 2×180g | Orig stereo tape → Kevin Gray, AAA, RTI | 3,500 copies; $150–$300 secondary | [Discogs](https://www.discogs.com/release/6011184-Lee-Morgan-The-Sidewinder) |
+| **S** | Music Matters 33⅓ stereo | MM33 BNST-84157 | 2014 | Stereo, 33⅓, 180g | Orig stereo tape → Kevin Gray & Ron Rambach, AAA, RTI | 3,500 copies; some RTI pressing defects reported; $150–$300 secondary | [Discogs](https://www.discogs.com/release/6011184-Lee-Morgan-The-Sidewinder) |
 | **A** | Original BST 84157 stereo, NY USA label | BST 84157 | 1964 | Stereo, 33⅓ | RVG / Plastylite; native stereo | No deep groove; VAN GELDER + ear required; $100–$300 NM | [Discogs](https://www.discogs.com/release/1946625-Lee-Morgan-The-Sidewinder) |
 | **A** | Original BLP 4157 mono, NY USA label | BLP 4157 | 1964 | Mono, 33⅓ | RVG / Plastylite; native mono | Same authentication; $100–$250 NM | [Discogs](https://www.discogs.com/release/16046297-Lee-Morgan-The-Sidewinder) |
 | **B** | Blue Note Classic Vinyl 180g | BST 84157 | c.2020 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Budget entry; $20–$30 new | [Discogs](https://www.discogs.com/release/16312236-Lee-Morgan-The-Sidewinder) |
