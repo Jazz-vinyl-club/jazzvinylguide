@@ -8,7 +8,7 @@ The New York Times described the quintet as "perhaps the definitive bop group un
 
 **Best early pressing for audiophiles:** [Original EmArcy MG-36036 12" mono (1955)](https://www.discogs.com/release/2862128-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – first 12" pressing; $200–$600 NM.
 
-**Best modern pressing for audiophiles:** [Acoustic Sounds Series 180g mono, AEMA 78844 (2025)](https://www.discogs.com/master/302135-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – Matthew Lutthans, The Mastering Lab, QRP, gatefold tip-on; ~$35–$45.
+**Best modern pressing for audiophiles:** [Acoustic Sounds Series 180g mono, AEMA 78844 (2025)](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – Matthew Lutthans, The Mastering Lab, QRP, gatefold tip-on; ~$35–$45.
 
 **Best-value modern:** Same Acoustic Sounds Series – the only widely available modern audiophile option.
 
@@ -65,7 +65,7 @@ One Discogs owner notes: "I wish Acoustic Sounds would remaster this one too. Th
 
 **Cat. AEMA 78844** | Format: 180g LP, 33⅓, mono, gatefold tip-on jacket. **Mastered by Matthew Lutthans at The Mastering Lab, from the original analogue tapes. Pressed at QRP.** Part of Verve's Acoustic Sounds Series. Presented in original mono. Released December 12, 2025.
 
-[Audiophilia](https://www.audiophilia.com/reviews/2025/12/20/clifford-brown-max-roachemarcy-acoustic-sounds-seriesvinyl-reissue-2025) reviewed it favourably: "The set begins with a leisurely but swinging 'Delilah' with great trades between Brown and Land. No matter the tempo or style, Brown and Land's soloing is super tasteful. Every note out of the horns sounds exactly as you feel they should." [Discogs](https://www.discogs.com/master/302135-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) community on the same pressing: "What an amazing reissue. Recorded 70 years ago but sounds like yesterday." Another: "Superb sound quality that does the extraordinary music justice. Flat and dead quiet." One critical note: one reviewer found the bass "a bit shy" and would have preferred a double 45rpm cut given the length of side one. One copy had a dish warp on side A that didn't affect playback. **~$35–$45 new.**
+[Audiophilia](https://www.audiophilia.com/reviews/2025/12/20/clifford-brown-max-roachemarcy-acoustic-sounds-seriesvinyl-reissue-2025) reviewed it favourably: "The set begins with a leisurely but swinging 'Delilah' with great trades between Brown and Land. No matter the tempo or style, Brown and Land's soloing is super tasteful. Every note out of the horns sounds exactly as you feel they should." [Discogs](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) community on the same pressing: "What an amazing reissue. Recorded 70 years ago but sounds like yesterday." Another: "Superb sound quality that does the extraordinary music justice. Flat and dead quiet." One critical note: one reviewer found the bass "a bit shy" and would have preferred a double 45rpm cut given the length of side one. One copy had a dish warp on side A that didn't affect playback. **~$35–$45 new.**
 
 ### Mosaic MRLP 3004 4LP box set (2012) – the complete EmArcy collection
 
@@ -77,7 +77,7 @@ Stereophile reviewed it (February 2013, Record of the Month, Performance ★★�
 
 ## Japanese pressings
 
-EmArcy titles were licensed to Nippon Phonogram / Mercury Japan and later to PolyGram Japan through the late 1970s and 1980s. The Japanese editions of *Clifford Brown & Max Roach* are consistently praised for superior vinyl quality and faithful reproduction. Look for pressings on the **Mercury/EmArcy Japan** label with an obi strip. The 1971 Japanese pressing (**cat. 15PJ-2018(M)**, [Discogs master](https://www.discogs.com/master/302135-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach)) is the most commonly encountered and well reviewed. Dead-quiet vinyl, natural mono presentation. **$40–$100 with obi.**
+EmArcy titles were licensed to Nippon Phonogram / Mercury Japan and later to PolyGram Japan through the late 1970s and 1980s. The Japanese editions of *Clifford Brown & Max Roach* are consistently praised for superior vinyl quality and faithful reproduction. Look for pressings on the **Mercury/EmArcy Japan** label with an obi strip. The 1971 Japanese pressing (**cat. 15PJ-2018(M)**, [Discogs master](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach)) is the most commonly encountered and well reviewed. Dead-quiet vinyl, natural mono presentation. **$40–$100 with obi.**
 
 
 ---
@@ -96,9 +96,9 @@ EmArcy titles were licensed to Nippon Phonogram / Mercury Japan and later to Pol
 
 ## Buyer's guide by budget
 
-**$35–$50:** The [**Acoustic Sounds Series AEMA 78844 180g mono (2025)**](https://www.discogs.com/master/302135-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – Matthew Lutthans, QRP, the definitive accessible modern option. ~$35–$45 new from Acoustic Sounds.
+**$35–$50:** The [**Acoustic Sounds Series AEMA 78844 180g mono (2025)**](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – Matthew Lutthans, QRP, the definitive accessible modern option. ~$35–$45 new from Acoustic Sounds.
 
-**$40–$100:** A [**Japanese Mercury/EmArcy pressing with obi**](https://www.discogs.com/master/302135-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – dead-quiet vinyl, warm mono character; strong secondary option.
+**$40–$100:** A [**Japanese Mercury/EmArcy pressing with obi**](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – dead-quiet vinyl, warm mono character; strong secondary option.
 
 **$200–$600:** An original [**EmArcy MG-36036 12" mono (1955)**](https://www.discogs.com/release/2862128-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) in honest VG+ – the collector's original, noting that the Acoustic Sounds remaster may actually outperform it sonically.
 
@@ -110,9 +110,9 @@ EmArcy titles were licensed to Nippon Phonogram / Mercury Japan and later to Pol
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Acoustic Sounds Series 180g mono | AEMA 78844 | 2025 | Mono, 33⅓, 180g | Orig tapes → Lutthans, The Mastering Lab, QRP | Gatefold tip-on; "recorded 70 years ago, sounds like yesterday"; ~$35–$45 | [Discogs](https://www.discogs.com/master/302135-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
+| **S** | Acoustic Sounds Series 180g mono | AEMA 78844 | 2025 | Mono, 33⅓, 180g | Orig tapes → Lutthans, The Mastering Lab, QRP | Gatefold tip-on; "recorded 70 years ago, sounds like yesterday"; ~$35–$45 | [Discogs](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
 | **A** | Original EmArcy MG-36036 12" mono | MG-36036 | 1955 | Mono, 33⅓ | Original EmArcy lacquer | Matrix MG36036A MF4; $200–$600 NM | [Discogs](https://www.discogs.com/release/2862128-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
 | **A** | Mosaic MRLP 3004 4LP box set | MRLP 3004 | 2012 | Mono, 33⅓, 4×180g | Orig tapes → Ryan Smith, Sterling Sound, RTI | All 4 quintet albums; 2,500 copies; OOP $400–$700 | [Discogs](https://www.discogs.com/release/4497482-Clifford-BrownMax-Roach-The-Clifford-BrownMax-Roach-Emarcy-Albums) |
 | **B** | Original EmArcy MG-26043 10" mono | MG-26043 | 1954 | Mono, 10" | Original EmArcy lacquer | 5 tracks only; extremely rare; $400–$1,000+ NM | [Discogs](https://www.discogs.com/release/4869491-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
-| **C** | Japanese Mercury/EmArcy pressing | 15PJ-2018(M) | 1971–80s | Mono, 33⅓ | Licensed Japanese pressing | Dead-quiet vinyl; warm; $40–$100 with obi | [Discogs](https://www.discogs.com/master/302135-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
+| **C** | Japanese Mercury/EmArcy pressing | 15PJ-2018(M) | 1971–80s | Mono, 33⅓ | Licensed Japanese pressing | Dead-quiet vinyl; warm; $40–$100 with obi | [Discogs](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
 | **D** | Waxtime / DOL / budget EU reissues | Various | 2000s+ | Mono, 33⅓ | Digital source | Adequate entry point; not recommended for serious listening | – |
