@@ -55,7 +55,7 @@ The mono presents a more concentrated midrange and a tighter ensemble sound. Pre
 
 The stereo issue is the more commonly encountered and more widely collected of the two. Same orange/black label design, same RVG/Van Gelder stamp in deadwax. Matrix: **AS-5-A** / **AS-5-B**.
 
-The two cover states (abstract and revised blue portrait) both appear on original pressings. [Discogs r12434112](https://www.discogs.com/release/12434112-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) documents the revised cover variant with A-5-A / A-5-B matrices on the labels. The abstract cover first state is documented separately.
+The two cover states (abstract and revised blue portrait) both appear on original pressings. [Discogs r12434112](https://www.discogs.com/release/12434112-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) documents the revised cover variant with AS-5-A / AS-5-B matrices on the labels. The abstract cover first state is documented separately.
 
 **NM originals: $150–$400. VG+: $75–$200.**
 
