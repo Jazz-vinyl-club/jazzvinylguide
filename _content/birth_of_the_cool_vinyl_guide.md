@@ -104,3 +104,17 @@ The reissue history of *Birth of the Cool* is largely unsatisfying before the To
 | **C** | Later Capitol pressings (swirl label, etc.) | T-762 | 1960s+ | Mono, 33⅓ | Later Capitol metalwork | Adequate; not preferred; $15–$60 | [Discogs](https://www.discogs.com/release/9028605-Miles-Davis-Birth-Of-The-Cool) |
 | **F** | Any rechanneled "stereo" version | Various | Various | Fake stereo | Electronically processed mono | These are 1949–50 mono recordings – never | – |
 | **F** | 2019 Capitol/UMe reissue | Various | 2019 | Mono, 33⅓ | Digital source | Tracking Angle: "supposedly sucks"; avoid | – |
+
+## References
+
+- Discogs (Tone Poet 180g mono, 2026): [https://www.discogs.com/release/37415985-Miles-Davis-Birth-Of-The-Cool-Of-The-Cool](https://www.discogs.com/release/37415985-Miles-Davis-Birth-Of-The-Cool-Of-The-Cool)
+- Discogs (first-press Capitol T-762): [https://www.discogs.com/release/5456857-Miles-Davis-Birth-Of-The-Cool](https://www.discogs.com/release/5456857-Miles-Davis-Birth-Of-The-Cool)
+- Discogs (second-press Capitol T-762): [https://www.discogs.com/release/4609609-Miles-Davis-Birth-Of-The-Cool](https://www.discogs.com/release/4609609-Miles-Davis-Birth-Of-The-Cool)
+- Discogs (Capitol 10" H-459 "Classics in Jazz"): [https://www.discogs.com/release/1869494-Miles-Davis-Classics-In-Jazz](https://www.discogs.com/release/1869494-Miles-Davis-Classics-In-Jazz)
+- Discogs (later "swirl label" Capitol pressing): [https://www.discogs.com/release/9028605-Miles-Davis-Birth-Of-The-Cool](https://www.discogs.com/release/9028605-Miles-Davis-Birth-Of-The-Cool)
+- Miles Davis official site, album page for *Birth of the Cool*: [https://www.milesdavis.com/albums/birth-of-the-cool/](https://www.milesdavis.com/albums/birth-of-the-cool/)
+- EverythingJazz, "The Making of Miles Davis' Birth of the Cool" (André Hodeir commentary on "Boplicity"): [https://www.everythingjazz.com/story/the-making-of-miles-davis-birth-of-the-cool/](https://www.everythingjazz.com/story/the-making-of-miles-davis-birth-of-the-cool/)
+- Wikipedia, "Birth of the Cool": [https://en.wikipedia.org/wiki/Birth_of_the_Cool](https://en.wikipedia.org/wiki/Birth_of_the_Cool)
+- The Tracking Angle, review commentary on the 2019 Capitol/UMe reissue: [https://trackingangle.com](https://trackingangle.com)
+
+**YouTube videos reviewed for this guide:** six pressing-related videos were checked during production. None contained sufficiently specific, verifiable pressing-comparison content (two were silent unboxings with no listening component, one had no captions/transcript available, one was a general Miles Davis biography video with no direct pressing comparison, one was in Spanish with historical/biographical content only, and one was a single-pressing subjective review with no comparison copy on hand) to include as citations or incorporate into the guide text.

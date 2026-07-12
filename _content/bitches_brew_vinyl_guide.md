@@ -85,6 +85,8 @@ Discogs community is broadly positive: "Really good pressing. For the money, I t
 
 The One-Step process cuts stampers directly from lacquers, bypassing the standard father-mother-stamper chain, giving a lower noise floor and finer groove resolution. MoFi on the vinyl choice: "After closely auditioning Bitches Brew on several different vinyl profiles... the music on this 1970 album translates with superior definition, clarity, presence, dynamics, and balance on this format." **~$125–$150 new.**
 
+Multiple independent listeners doing direct A/B comparisons against an original two-eye pressing have separately noted that the One-Step is cut at a noticeably lower level – one reviewer measured roughly 3dB quieter with an SPL meter, requiring a level-matching volume increase before comparing. This is consistent with a deliberate mastering choice to tame some upper-frequency peakiness present on the original pressing, rather than a defect; a naive, non-level-matched listen may make the One-Step sound relatively subdued by comparison.
+
 ### Japanese CBS/Sony pressings (early 1980s)
 
 Japanese CBS/Sony pressings receive consistent collector praise. The Sony Shizuoka pressing plant produced dead-quiet vinyl with faithful reproduction. One Discogs owner listening immediately after a Japanese copy: "Listening to this one now immediately after hearing the superior 1981 Japan reissue." The outstanding pressing is the **CBS/Sony 28AP 2151~2** ([Discogs r2075721](https://www.discogs.com/release/2075721-Miles-Davis-Bitches-Brew)), released December 1981 as part of the Big Jazz Fusion 23 No.1 series. Double LP, gatefold, obi strip. Avg Discogs rating: 4.95/5 from 42 ratings; 977 collectors want it – among the most desired pressings of this album. Dead-quiet CBS/Sony Japan vinyl, faithful stereo reproduction, beautifully packaged.
@@ -132,3 +134,18 @@ Columbia/Legacy anniversary editions are acceptable entry points digitally sourc
 | **C** | Columbia Legacy 40th Anniversary | Various | 2010 | Stereo, 33⅓ | Digital remaster | Decent at low price; $25–$35 | – |
 | **D** | Late 1970s+ Columbia reprints | PG 26 | 1975+ | Stereo, 33⅓ | Later-gen Columbia lacquer | Thin vinyl; inferior sound | – |
 | **F** | Generic EU reissues (DOL, etc.) | Various | 2000s+ | Various | Digital; unlicensed | Avoid | – |
+
+## References
+
+- AnalogPlanet, cutting-engineer commentary on Columbia matrix suffix conventions: [https://www.analogplanet.com](https://www.analogplanet.com)
+- The Skeptical Audiophile (via Better Records), "Miles Davis / Bitches Brew" Triple Plus shootout notes: [https://ontherecord.co/2026/04/24/miles-davis-bitches-brew/](https://ontherecord.co/2026/04/24/miles-davis-bitches-brew/)
+- Discogs release and community listings for all pressings referenced in the tier table above (two-eye Terre Haute/Pitman/Santa Maria, red/orange ring label, quad SQ, Japanese CBS/Sony 28AP 2151~2, MoFi MFSL 2-439, MoFi UltraDisc One-Step UD1S-109)
+- YouTube, Top Five Records – 3-way A/B: mid-70s European pressing vs. first US two-eye stereo vs. MoFi MFSL 2-439 (2014): [https://www.youtube.com/watch?v=obXOLgJmCHs](https://www.youtube.com/watch?v=obXOLgJmCHs)
+- YouTube, Kenny's Audiofile Record Reviews – 5-way comparison: 1987 digital remaster, HD Tracks download, CD box set, early-70s pressing, MoFi MFSL 2-439, MoFi UltraDisc One-Step (2025): [https://www.youtube.com/watch?v=ioIayHYMcs4](https://www.youtube.com/watch?v=ioIayHYMcs4)
+- YouTube, True Audio Files – level-matched A/B, MoFi MFSL 2-439 vs. MoFi UltraDisc One-Step: [https://www.youtube.com/watch?v=RHeAYOm0w58](https://www.youtube.com/watch?v=RHeAYOm0w58)
+- YouTube, Sublime Media (Jonas) – A/B, 2010 Columbia deluxe box set vs. MoFi MFSL 2-439: [https://www.youtube.com/watch?v=R2evb7_-GFw](https://www.youtube.com/watch?v=R2evb7_-GFw)
+- YouTube, Tony's LPs Us – dedicated deep-dive on the MoFi UltraDisc One-Step (2025): [https://www.youtube.com/watch?v=Enj697FI8cg](https://www.youtube.com/watch?v=Enj697FI8cg)
+- YouTube, live listen-along A/B of "Pharaoh's Dance" – original US two-eye vs. MoFi UltraDisc One-Step: [https://www.youtube.com/watch?v=5Q1KEsC3fnc](https://www.youtube.com/watch?v=5Q1KEsC3fnc)
+- YouTube, Adam from The Freight – detailed measured A/B, original US two-eye vs. MoFi UltraDisc One-Step (includes SPL-metered level comparison): [https://www.youtube.com/watch?v=Y51Aw6mgu8Q](https://www.youtube.com/watch?v=Y51Aw6mgu8Q)
+
+**Other YouTube videos reviewed but not cited:** five additional videos were checked during production and excluded – two had no captions/transcript available, one was an unboxing with no listening component, one was a German-language comparison against an unspecified/uncatalogued UK pressing (too vague to cite), and one was a music-appreciation podcast with no pressing-quality content.
