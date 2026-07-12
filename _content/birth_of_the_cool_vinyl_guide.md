@@ -67,17 +67,19 @@ Capitol's label design evolved through the 1960s. The orange-and-yellow "swirl" 
 
 Before the full T-762 compilation, Capitol gathered eight tracks on the 10" **H-459** in 1954. An additional track ("Boplicity") appeared on the 1953 10" compilation "Cool and Quiet" (H-371). These are period collector items predating the canonical 12" LP and do not supersede it musically (four tracks are absent), but they represent the earliest LP presentation of this music. **$60–$200 VG+.**
 
-### Various 1970s–2010s reissues – none recommended
+### 2019 Capitol/UMe "The Complete Birth of the Cool" 2LP – a genuinely mixed but often unfairly dismissed option
 
-The reissue history of *Birth of the Cool* is largely unsatisfying before the Tone Poet. A 2019 Capitol/UMe reissue was widely criticised: [Tracking Angle](https://trackingangle.com/features/modern-guide-collecting-miles-davis-vinyl) bluntly noted "no advice on Birth Of The Cool; the 2019 reissue supposedly sucks." Various Music On Vinyl, Simply Vinyl, and generic LP pressings exist but source from digital transfers or copy tapes. None are recommended when the Tone Poet is available at ~$60 new.
+This is worth separating from the "various reissues" dismissed below, because it's frequently mischaracterized. The studio LP1 is described in [the official liner notes](https://store.bluenote.com/products/the-complete-birth-of-the-cool-by-miles-davis-blue-note) as "the first time since 1957 the LP has been mastered from original analog session reels" – i.e. genuinely analogue-sourced, not the digital transfer it's sometimes assumed to be. LP2 adds the nonet's only surviving live recordings, from a 1948 Royal Roost radio broadcast, previously unavailable on vinyl. Reception is honestly mixed rather than uniformly bad: [one detailed Discogs review](https://www.discogs.com/release/13708439-Miles-Davis-The-Complete-Birth-Of-The-Cool), from a collector who'd directly compared it against five different original pressing runout variants, placed this reissue's sound "right in between" two of the better-regarded original states; [a Vinyl District review](https://www.thevinyldistrict.com/storefront/graded-on-a-curve-miles-davis-the-complete-birth-of-the-cool/) called it "one of the sweeter reissues of the year." But other owners on that same Discogs page report a flatter, more "muffled" presentation than expected, and the often-repeated claim that this pressing "sucks" traces back to a single hedged, secondhand aside in an unrelated [Tracking Angle collecting guide](https://trackingangle.com/features/modern-guide-collecting-miles-davis-vinyl) ("no advice on Birth Of The Cool; the 2019 reissue *supposedly* sucks") rather than a dedicated review. If you want the Royal Roost live material on vinyl, this is currently the only way to get it – treat the studio LP as a reasonable if inconsistent listen, not an automatic pass. **$30–$60 new/secondary.**
+
+### Various other 1970s–2010s reissues – not recommended
+
+Various Music On Vinyl, Simply Vinyl, and generic LP pressings exist but source from digital transfers or copy tapes and are not recommended. None beat the Tone Poet, available at ~$60 new.
 
 ---
 
 ## Pressings to avoid
 
 **Any "stereo" version:** The 1949–50 recordings are inherently mono. Any stereo copy is electronically rechanneled – a processing artefact that degrades the original. Avoid unconditionally.
-
-**2019 Capitol/UMe reissue:** Collector consensus is that this was sourced from a digital master and is below standard. Not recommended.
 
 **Generic European reissues (EMI, various):** Various European licensed pressings from the 1960s onward sourced from copy tapes. Not recommended over an original Capitol or the Tone Poet.
 
@@ -102,8 +104,8 @@ The reissue history of *Birth of the Cool* is largely unsatisfying before the To
 | **B** | Capitol T-762, "Long Playing High Fidelity" | T-762 | 1957–58 | Mono, 33⅓ | Original Capitol metalwork | Second pressing; sonically equivalent; $60–$200 VG+ | [Discogs](https://www.discogs.com/release/4609609-Miles-Davis-Birth-Of-The-Cool) |
 | **C** | Capitol 10" H-459 "Classics in Jazz" | H-459 | 1954 | Mono, 10" | Original Capitol metalwork | Eight tracks only; earliest LP presentation; $60–$200 | [Discogs](https://www.discogs.com/release/1869494-Miles-Davis-Classics-In-Jazz) |
 | **C** | Later Capitol pressings (swirl label, etc.) | T-762 | 1960s+ | Mono, 33⅓ | Later Capitol metalwork | Adequate; not preferred; $15–$60 | [Discogs](https://www.discogs.com/release/9028605-Miles-Davis-Birth-Of-The-Cool) |
+| **C** | 2019 Capitol/UMe "Complete Birth of the Cool" 2LP | Various | 2019 | Mono, 33⅓, 2×LP | Analogue tape (LP1); adds unreleased 1948 Royal Roost live set (LP2) | Genuinely mixed reception, not uniformly bad; only vinyl source for the live material; $30–$60 | [Discogs](https://www.discogs.com/release/13708439-Miles-Davis-The-Complete-Birth-Of-The-Cool) |
 | **F** | Any rechanneled "stereo" version | Various | Various | Fake stereo | Electronically processed mono | These are 1949–50 mono recordings – never | – |
-| **F** | 2019 Capitol/UMe reissue | Various | 2019 | Mono, 33⅓ | Digital source | Tracking Angle: "supposedly sucks"; avoid | – |
 
 ## References
 
@@ -112,3 +114,5 @@ The reissue history of *Birth of the Cool* is largely unsatisfying before the To
 - EverythingJazz, "The Making of Miles Davis' Birth of the Cool": [https://www.everythingjazz.com/story/the-making-of-miles-davis-birth-of-the-cool/](https://www.everythingjazz.com/story/the-making-of-miles-davis-birth-of-the-cool/)
 - Wikipedia, "Birth of the Cool": [https://en.wikipedia.org/wiki/Birth_of_the_Cool](https://en.wikipedia.org/wiki/Birth_of_the_Cool)
 - Tracking Angle, "A Modern Guide to Collecting Miles Davis": [https://trackingangle.com/features/modern-guide-collecting-miles-davis-vinyl](https://trackingangle.com/features/modern-guide-collecting-miles-davis-vinyl)
+- Blue Note Records store, "The Complete Birth Of The Cool by Miles Davis": [https://store.bluenote.com/products/the-complete-birth-of-the-cool-by-miles-davis-blue-note](https://store.bluenote.com/products/the-complete-birth-of-the-cool-by-miles-davis-blue-note)
+- The Vinyl District, "Graded on a Curve: Miles Davis, The Complete Birth of the Cool": [https://www.thevinyldistrict.com/storefront/graded-on-a-curve-miles-davis-the-complete-birth-of-the-cool/](https://www.thevinyldistrict.com/storefront/graded-on-a-curve-miles-davis-the-complete-birth-of-the-cool/)
