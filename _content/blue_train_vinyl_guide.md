@@ -145,6 +145,7 @@ A companion **Blue Train: The Complete Masters 2LP stereo** (cat. B0035204-01, s
 | **B** | Japanese King GXK-8055 stereo | GXK-8055 | 1978 | Stereo, 33⅓ | Licensed Japanese pressing; King Record Co. | LJC: "closer to originals"; dead-quiet; $60–$120 with obi | [Discogs](https://www.discogs.com/release/2912145-John-Coltrane-Blue-Train) |
 | **C** | BST 1577 stereo original | BST 1577 | 1960 | Stereo, 33⅓ | RVG / Plastylite; native stereo | Hard-left horn placement; not preferred for listening | [Discogs](https://www.discogs.com/release/7303391-John-Coltrane-Blue-Train) |
 | **D** | 1970s–80s general reissues | Various | 1970s–80s | Stereo, 33⅓ | Various | Not recommended; some exceptions (1973 Black B) reported | – |
+| **D** | 1993 CEMA/Capitol DMM reissue (Manhattan Records) | Various | 1993 | Stereo, 33⅓ | Direct Metal Mastering, "original historical master tape" per sleeve | Budget option; mixed reception – some prefer its warmer top end, direct A/B against Tone Poet found it clearly thinner/less resolving; $15–$40 | [Discogs](https://www.discogs.com/release/1309909-John-Coltrane-Blue-Train) |
 | **D** | Ron McMaster-mastered EU reissue | Various | 1990s–2000s | Stereo, 33⅓, 180g | Digital-era analog masters → Ron McMaster | Budget option; "flat and quiet" but less dynamic; $15–$40 | [Discogs](https://www.discogs.com/release/8067003-John-Coltrane-Blue-Train) |
 | **D** | Blue Note 75th Anniversary (Back To Black) | B0020560-01 | 2014 | Mono, 33⅓, 180g | Digital source (Back To Black) | Genuinely mixed reception, not uniformly bad; Tone Poet mono safer if available | [Discogs](https://www.discogs.com/release/5612513-John-Coltrane-Blue-Train) |
 
@@ -171,3 +172,5 @@ A companion **Blue Train: The Complete Masters 2LP stereo** (cat. B0035204-01, s
 - YouTube, Top 5 Records, "Mono Vs Stereo? John Coltrane Blue Train": [https://www.youtube.com/watch?v=Nb_Z7D0PL-4](https://www.youtube.com/watch?v=Nb_Z7D0PL-4)
 - YouTube, Jazz Bums, "John Coltrane - Blue Train Shootout! - OG RVG vs. MMJ SRX vs. Tone Poet Mono/Stereo": [https://www.youtube.com/watch?v=YH9T_eYe5xE](https://www.youtube.com/watch?v=YH9T_eYe5xE)
 - YouTube, JazzLoveJapan, "Insane Sound Battle John Coltrane Blue Train Liberty Pressing vs King Record Premium Reissue!": [https://www.youtube.com/watch?v=lw-HHOSiUX4](https://www.youtube.com/watch?v=lw-HHOSiUX4)
+- YouTube, True Audiofiles, "SOUND QUALITY SHOOTOUT: Blue Train!!": [https://www.youtube.com/watch?v=ae28oHPNzn8](https://www.youtube.com/watch?v=ae28oHPNzn8)
+- YouTube, 6AM, "John Coltrane Blue Train 1993 DMM vs TONE POET reissue": [https://www.youtube.com/watch?v=AYcrOO5TVrM](https://www.youtube.com/watch?v=AYcrOO5TVrM)
