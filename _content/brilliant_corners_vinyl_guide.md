@@ -95,11 +95,11 @@ This title has been reissued more than 100 times, and a wave of European public-
 
 ## References
 
+- Discogs (master): [https://www.discogs.com/master/120705-Thelonious-Monk-Brilliant-Corners](https://www.discogs.com/master/120705-Thelonious-Monk-Brilliant-Corners)
 - Wikipedia, "Brilliant Corners": [https://en.wikipedia.org/wiki/Brilliant_Corners](https://en.wikipedia.org/wiki/Brilliant_Corners)
-- Craft Recordings, official announcement of the Small Batch reissue (session/personnel details, mastering credit): [https://craftrecordings.com/blogs/news/announcing-thelonious-monk-s-pivotal-1957-classic-brilliant-corners-as-the-latest-title-in-the-acclaimed-small-batch-vinyl-series](https://craftrecordings.com/blogs/news/announcing-thelonious-monk-s-pivotal-1957-classic-brilliant-corners-as-the-latest-title-in-the-acclaimed-small-batch-vinyl-series)
-- Discogs release and community listings for all pressings referenced in the tier table above (original RLP 12-226, OJC-026, ERC051, Craft Small Batch CR00502, AJAZ/AAPJ 12-226, Japanese SMJ-6136(M))
-- YouTube, BellisarioSonic – A/B, OJC-026 vs. the Kevin Gray/QRP pressing (Riverside Tenor Sessions box set metalwork): [https://www.youtube.com/watch?v=vyMbNzXiw38](https://www.youtube.com/watch?v=vyMbNzXiw38)
-- YouTube, True Audiofiles – A/B, an early Riverside pressing vs. the Craft Small Batch One-Step: [https://www.youtube.com/watch?v=ziyPnQzUSx4](https://www.youtube.com/watch?v=ziyPnQzUSx4)
-- YouTube, WCB Jazz Vinyl – detailed track-by-track A/B, an early Riverside pressing vs. the Craft Small Batch One-Step: [https://www.youtube.com/watch?v=YXy00TuyQjI](https://www.youtube.com/watch?v=YXy00TuyQjI)
-- YouTube, Ten-Minute Record Reviews – historical background and 2014 OJC review: [https://www.youtube.com/watch?v=rzGV3LQA7K0](https://www.youtube.com/watch?v=rzGV3LQA7K0)
-- YouTube, Robert Brook (The Broken Record) – six-copy "hot stamper" style shootout among original Riverside RLP 12-226 pressings, illustrating meaningful stamper-to-stamper variation even within "original pressing" copies: [https://www.youtube.com/watch?v=LCNPSC6F4F4](https://www.youtube.com/watch?v=LCNPSC6F4F4)
+- Craft Recordings, "Announcing Thelonious Monk's Pivotal 1957 Classic, Brilliant Corners": [https://craftrecordings.com/blogs/news/announcing-thelonious-monk-s-pivotal-1957-classic-brilliant-corners-as-the-latest-title-in-the-acclaimed-small-batch-vinyl-series](https://craftrecordings.com/blogs/news/announcing-thelonious-monk-s-pivotal-1957-classic-brilliant-corners-as-the-latest-title-in-the-acclaimed-small-batch-vinyl-series)
+- YouTube, BellisarioSonic, "Thelonious Monk: Brilliant Corners Acoustic Sounds Live Review/Comparison": [https://www.youtube.com/watch?v=vyMbNzXiw38](https://www.youtube.com/watch?v=vyMbNzXiw38)
+- YouTube, True Audiofiles, "Sound quality Shootout Brilliant Corners": [https://www.youtube.com/watch?v=ziyPnQzUSx4](https://www.youtube.com/watch?v=ziyPnQzUSx4)
+- YouTube, WCB Jazz Vinyl, "Thelonious Monk's Brilliant Corners - Craft Recordings Small-Batch Release": [https://www.youtube.com/watch?v=YXy00TuyQjI](https://www.youtube.com/watch?v=YXy00TuyQjI)
+- YouTube, Ten-Minute Record Reviews, "Thelonious Monk - Brilliant Corners (Episode 195)": [https://www.youtube.com/watch?v=rzGV3LQA7K0](https://www.youtube.com/watch?v=rzGV3LQA7K0)
+- YouTube, Robert Brook, "Brilliant Corners Shootout": [https://www.youtube.com/watch?v=LCNPSC6F4F4](https://www.youtube.com/watch?v=LCNPSC6F4F4)

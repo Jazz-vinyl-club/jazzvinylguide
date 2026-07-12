@@ -119,12 +119,10 @@ EmArcy titles were licensed to Nippon Phonogram / Mercury Japan and later to Pol
 
 ## References
 
-- Audiophilia, review of the Acoustic Sounds Series 2025 reissue: [https://www.audiophilia.com/reviews/2025/12/20/clifford-brown-max-roachemarcy-acoustic-sounds-seriesvinyl-reissue-2025](https://www.audiophilia.com/reviews/2025/12/20/clifford-brown-max-roachemarcy-acoustic-sounds-seriesvinyl-reissue-2025)
-- Wikipedia, "Clifford Brown & Max Roach" (session dates and early quintet lineup history, citing Kernfeld's *Blackwell Guide to Recorded Jazz*): [https://en.wikipedia.org/wiki/Clifford_Brown_%26_Max_Roach](https://en.wikipedia.org/wiki/Clifford_Brown_%26_Max_Roach)
-- Wikipedia, "Brown and Roach Incorporated" (used to confirm which August 1954 session dates belong to which sibling album): [https://en.wikipedia.org/wiki/Brown_and_Roach_Incorporated](https://en.wikipedia.org/wiki/Brown_and_Roach_Incorporated)
-- Jazz Research, "Clifford Brown in California – The 1954 Sessions" (detailed early-quintet archival history, Sonny Stitt/Teddy Edwards tenure): [https://jazzresearch.com/clifford-brown-in-california-the-1954-sessions/](https://jazzresearch.com/clifford-brown-in-california-the-1954-sessions/)
+- Discogs (master): [https://www.discogs.com/master/302135-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach](https://www.discogs.com/master/302135-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach)
+- Audiophilia, "Clifford Brown & Max Roach/EmArcy (Acoustic Sounds Verve Series)/Vinyl reissue [2025]": [https://www.audiophilia.com/reviews/2025/12/20/clifford-brown-max-roachemarcy-acoustic-sounds-seriesvinyl-reissue-2025](https://www.audiophilia.com/reviews/2025/12/20/clifford-brown-max-roachemarcy-acoustic-sounds-seriesvinyl-reissue-2025)
+- Wikipedia, "Clifford Brown & Max Roach": [https://en.wikipedia.org/wiki/Clifford_Brown_%26_Max_Roach](https://en.wikipedia.org/wiki/Clifford_Brown_%26_Max_Roach)
+- Wikipedia, "Brown and Roach Incorporated": [https://en.wikipedia.org/wiki/Brown_and_Roach_Incorporated](https://en.wikipedia.org/wiki/Brown_and_Roach_Incorporated)
+- Jazz Research, "Clifford Brown in California – The 1954 Sessions": [https://jazzresearch.com/clifford-brown-in-california-the-1954-sessions/](https://jazzresearch.com/clifford-brown-in-california-the-1954-sessions/)
 - FLOPHOUSE, "Clifford Brown & Max Roach Quintet – Clifford Brown & Max Roach (EmArcy 1954)": [http://flophousemagazine.com/2020/01/05/clifford-brown-max-roach-quintet-clifford-brown-max-roach-emarcy-1954/](http://flophousemagazine.com/2020/01/05/clifford-brown-max-roach-quintet-clifford-brown-max-roach-emarcy-1954/)
-- Discogs release and community listings for all pressings referenced in the tier table above (10" MG-26043, 12" MG-36036, Mosaic MRLP 3004, Japanese Mercury/EmArcy, Acoustic Sounds Series AEMA 78844)
-- YouTube, Ten-Minute Record Reviews – historical background and 1974 Japanese-pressing review: [https://www.youtube.com/watch?v=t_jte6_zO50](https://www.youtube.com/watch?v=t_jte6_zO50)
-
-**Note on YouTube coverage:** dedicated pressing-comparison videos for this specific title are still sparse, since the Acoustic Sounds Series reissue only shipped in December 2025. Most search results for this album are needle-drop/full-album uploads with no spoken commentary, or cover other titles in the quintet's discography (*Study in Brown*, *At Basin Street*, *Brown and Roach Incorporated*) rather than this one.
+- YouTube, Ten-Minute Record Reviews, "Clifford Brown & Max Roach Quintet - Clifford Brown & Max Roach (Episode 207)": [https://www.youtube.com/watch?v=t_jte6_zO50](https://www.youtube.com/watch?v=t_jte6_zO50)

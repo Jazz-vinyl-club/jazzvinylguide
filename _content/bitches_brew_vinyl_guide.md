@@ -47,7 +47,7 @@ The earliest pressings use the **red "360 Sound Stereo" two-eye label** – name
 - **"T"** stamp = Terre Haute, Indiana
 - **"S"** (backwards) = Santa Maria, California
 
-The letter suffix in the matrix (–1A, –1B, –1C etc.) does not reliably indicate pressing plant – this is a commonly repeated misconception. As a Columbia cutting engineer explained on [AnalogPlanet](https://www.analogplanet.com), the alpha suffix indicated lacquer sequence for distribution to multiple plants simultaneously: "An initial lacquer order was 6 sets plus a ref for QC... 1A&B went to Pitman (N.J.), 1C&D to Terre Haute (IN), 1E&F went to Santa Maria (CA)." The plant stamp is the reliable identifier.
+The letter suffix in the matrix (–1A, –1B, –1C etc.) does not reliably indicate pressing plant – this is a commonly repeated misconception. As a Columbia cutting engineer explained on [AnalogPlanet](https://www.analogplanet.com/content/cracking-columbia-records-code), the alpha suffix indicated lacquer sequence for distribution to multiple plants simultaneously: "An initial lacquer order was 6 sets plus a ref for QC... 1A&B went to Pitman (N.J.), 1C&D to Terre Haute (IN), 1E&F went to Santa Maria (CA)." The plant stamp is the reliable identifier.
 
 **Matrix guide:** The collector consensus for earliest and best-sounding pressings is **–1J on all four sides**. Terre Haute ([r9782567](https://www.discogs.com/release/9782567-Miles-Davis-Bitches-Brew)) and Pitman ([r12032942](https://www.discogs.com/release/12032942-Miles-Davis-Bitches-Brew)) are generally preferred over Santa Maria ([r37006](https://www.discogs.com/release/37006-Miles-Davis-Bitches-Brew)), though all three plants produced excellent copies (XSM 152412 through 152415). Better Records (via [The Skeptical Audiophile](https://ontherecord.co/2026/04/24/miles-davis-bitches-brew/)) describes a Triple Plus (A+++) copy: "The incredible musicianship and Teo Macero's innovative production each help take these jazz-fusion soundscapes to places most folks had never imagined before. And a copy like this one takes the entire production to a whole new level." A Discogs seller with deep knowledge of this title notes: "If you really, truly want that revolutionary, amazingly expansive, wide-open feel and sharp soundstage separation... you want nothing later than '–1J' ending all 4 matrix numbers."
 
@@ -137,15 +137,13 @@ Columbia/Legacy anniversary editions are acceptable entry points digitally sourc
 
 ## References
 
-- AnalogPlanet, cutting-engineer commentary on Columbia matrix suffix conventions: [https://www.analogplanet.com](https://www.analogplanet.com)
-- The Skeptical Audiophile (via Better Records), "Miles Davis / Bitches Brew" Triple Plus shootout notes: [https://ontherecord.co/2026/04/24/miles-davis-bitches-brew/](https://ontherecord.co/2026/04/24/miles-davis-bitches-brew/)
-- Discogs release and community listings for all pressings referenced in the tier table above (two-eye Terre Haute/Pitman/Santa Maria, red/orange ring label, quad SQ, Japanese CBS/Sony 28AP 2151~2, MoFi MFSL 2-439, MoFi UltraDisc One-Step UD1S-109)
-- YouTube, Top Five Records – 3-way A/B: mid-70s European pressing vs. first US two-eye stereo vs. MoFi MFSL 2-439 (2014): [https://www.youtube.com/watch?v=obXOLgJmCHs](https://www.youtube.com/watch?v=obXOLgJmCHs)
-- YouTube, Kenny's Audiofile Record Reviews – 5-way comparison: 1987 digital remaster, HD Tracks download, CD box set, early-70s pressing, MoFi MFSL 2-439, MoFi UltraDisc One-Step (2025): [https://www.youtube.com/watch?v=ioIayHYMcs4](https://www.youtube.com/watch?v=ioIayHYMcs4)
-- YouTube, True Audio Files – level-matched A/B, MoFi MFSL 2-439 vs. MoFi UltraDisc One-Step: [https://www.youtube.com/watch?v=RHeAYOm0w58](https://www.youtube.com/watch?v=RHeAYOm0w58)
-- YouTube, Sublime Media (Jonas) – A/B, 2010 Columbia deluxe box set vs. MoFi MFSL 2-439: [https://www.youtube.com/watch?v=R2evb7_-GFw](https://www.youtube.com/watch?v=R2evb7_-GFw)
-- YouTube, Tony's LPs Us – dedicated deep-dive on the MoFi UltraDisc One-Step (2025): [https://www.youtube.com/watch?v=Enj697FI8cg](https://www.youtube.com/watch?v=Enj697FI8cg)
-- YouTube, live listen-along A/B of "Pharaoh's Dance" – original US two-eye vs. MoFi UltraDisc One-Step: [https://www.youtube.com/watch?v=5Q1KEsC3fnc](https://www.youtube.com/watch?v=5Q1KEsC3fnc)
-- YouTube, Adam from The Freight – detailed measured A/B, original US two-eye vs. MoFi UltraDisc One-Step (includes SPL-metered level comparison): [https://www.youtube.com/watch?v=Y51Aw6mgu8Q](https://www.youtube.com/watch?v=Y51Aw6mgu8Q)
-
-**Other YouTube videos reviewed but not cited:** five additional videos were checked during production and excluded – two had no captions/transcript available, one was an unboxing with no listening component, one was a German-language comparison against an unspecified/uncatalogued UK pressing (too vague to cite), and one was a music-appreciation podcast with no pressing-quality content.
+- Discogs (master): [https://www.discogs.com/master/8260-Miles-Davis-Bitches-Brew](https://www.discogs.com/master/8260-Miles-Davis-Bitches-Brew)
+- AnalogPlanet, "Cracking the Columbia Records Code": [https://www.analogplanet.com/content/cracking-columbia-records-code](https://www.analogplanet.com/content/cracking-columbia-records-code)
+- The Skeptical Audiophile (via Better Records), "Miles Davis / Bitches Brew": [https://ontherecord.co/2026/04/24/miles-davis-bitches-brew/](https://ontherecord.co/2026/04/24/miles-davis-bitches-brew/)
+- YouTube, Top Five Records, "Comparing Miles Davis Bitches Brew pressings! a MoFi and 1st US": [https://www.youtube.com/watch?v=obXOLgJmCHs](https://www.youtube.com/watch?v=obXOLgJmCHs)
+- YouTube, Kenny's Audiophile Record Reviews, "Miles Davis Bitches Brew MOFI One Step album comparison review": [https://www.youtube.com/watch?v=ioIayHYMcs4](https://www.youtube.com/watch?v=ioIayHYMcs4)
+- YouTube, True Audiofiles, "SOUND QUALITY SHOOTOUT Bitches Brew": [https://www.youtube.com/watch?v=RHeAYOm0w58](https://www.youtube.com/watch?v=RHeAYOm0w58)
+- YouTube, SublimMedia, "Vinyl Shoot Out // Bitches Brew By Miles Davis (Mofi Vs Columbia)": [https://www.youtube.com/watch?v=R2evb7_-GFw](https://www.youtube.com/watch?v=R2evb7_-GFw)
+- YouTube, Tonys LPs R Us, "Best PRESSING EVER? : MOFI'S MILES DAVIS 'BIT#$ES BREW' ONE STEP 2 LP BOX SET : IS IT WORTH BUYING?": [https://www.youtube.com/watch?v=Enj697FI8cg](https://www.youtube.com/watch?v=Enj697FI8cg)
+- YouTube, Jason Roxas, "Vinyl Record Shootout #024 | Miles Davis | Bitches Brew | 1970 US OG VS 2025 MOFI One Step": [https://www.youtube.com/watch?v=5Q1KEsC3fnc](https://www.youtube.com/watch?v=5Q1KEsC3fnc)
+- YouTube, The Freight, "B!TCHES BREW SHOOTOUT!! OG vs MOFI ONE STEP!!": [https://www.youtube.com/watch?v=Y51Aw6mgu8Q](https://www.youtube.com/watch?v=Y51Aw6mgu8Q)

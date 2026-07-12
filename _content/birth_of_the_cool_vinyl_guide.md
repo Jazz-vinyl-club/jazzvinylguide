@@ -69,7 +69,7 @@ Before the full T-762 compilation, Capitol gathered eight tracks on the 10" **H-
 
 ### Various 1970s–2010s reissues – none recommended
 
-The reissue history of *Birth of the Cool* is largely unsatisfying before the Tone Poet. A 2019 Capitol/UMe reissue was widely criticised: [The Tracking Angle](https://trackingangle.com) bluntly noted "no advice on Birth Of The Cool; the 2019 reissue supposedly sucks." Various Music On Vinyl, Simply Vinyl, and generic LP pressings exist but source from digital transfers or copy tapes. None are recommended when the Tone Poet is available at ~$60 new.
+The reissue history of *Birth of the Cool* is largely unsatisfying before the Tone Poet. A 2019 Capitol/UMe reissue was widely criticised: [Tracking Angle](https://trackingangle.com/features/modern-guide-collecting-miles-davis-vinyl) bluntly noted "no advice on Birth Of The Cool; the 2019 reissue supposedly sucks." Various Music On Vinyl, Simply Vinyl, and generic LP pressings exist but source from digital transfers or copy tapes. None are recommended when the Tone Poet is available at ~$60 new.
 
 ---
 
@@ -107,14 +107,8 @@ The reissue history of *Birth of the Cool* is largely unsatisfying before the To
 
 ## References
 
-- Discogs (Tone Poet 180g mono, 2026): [https://www.discogs.com/release/37415985-Miles-Davis-Birth-Of-The-Cool-Of-The-Cool](https://www.discogs.com/release/37415985-Miles-Davis-Birth-Of-The-Cool-Of-The-Cool)
-- Discogs (first-press Capitol T-762): [https://www.discogs.com/release/5456857-Miles-Davis-Birth-Of-The-Cool](https://www.discogs.com/release/5456857-Miles-Davis-Birth-Of-The-Cool)
-- Discogs (second-press Capitol T-762): [https://www.discogs.com/release/4609609-Miles-Davis-Birth-Of-The-Cool](https://www.discogs.com/release/4609609-Miles-Davis-Birth-Of-The-Cool)
-- Discogs (Capitol 10" H-459 "Classics in Jazz"): [https://www.discogs.com/release/1869494-Miles-Davis-Classics-In-Jazz](https://www.discogs.com/release/1869494-Miles-Davis-Classics-In-Jazz)
-- Discogs (later "swirl label" Capitol pressing): [https://www.discogs.com/release/9028605-Miles-Davis-Birth-Of-The-Cool](https://www.discogs.com/release/9028605-Miles-Davis-Birth-Of-The-Cool)
-- Miles Davis official site, album page for *Birth of the Cool*: [https://www.milesdavis.com/albums/birth-of-the-cool/](https://www.milesdavis.com/albums/birth-of-the-cool/)
-- EverythingJazz, "The Making of Miles Davis' Birth of the Cool" (André Hodeir commentary on "Boplicity"): [https://www.everythingjazz.com/story/the-making-of-miles-davis-birth-of-the-cool/](https://www.everythingjazz.com/story/the-making-of-miles-davis-birth-of-the-cool/)
+- Discogs (master): [https://www.discogs.com/master/62308-Miles-Davis-Birth-Of-The-Cool](https://www.discogs.com/master/62308-Miles-Davis-Birth-Of-The-Cool)
+- Miles Davis official site, "Birth of the Cool": [https://www.milesdavis.com/albums/birth-of-the-cool/](https://www.milesdavis.com/albums/birth-of-the-cool/)
+- EverythingJazz, "The Making of Miles Davis' Birth of the Cool": [https://www.everythingjazz.com/story/the-making-of-miles-davis-birth-of-the-cool/](https://www.everythingjazz.com/story/the-making-of-miles-davis-birth-of-the-cool/)
 - Wikipedia, "Birth of the Cool": [https://en.wikipedia.org/wiki/Birth_of_the_Cool](https://en.wikipedia.org/wiki/Birth_of_the_Cool)
-- The Tracking Angle, review commentary on the 2019 Capitol/UMe reissue: [https://trackingangle.com](https://trackingangle.com)
-
-**YouTube videos reviewed for this guide:** six pressing-related videos were checked during production. None contained sufficiently specific, verifiable pressing-comparison content (two were silent unboxings with no listening component, one had no captions/transcript available, one was a general Miles Davis biography video with no direct pressing comparison, one was in Spanish with historical/biographical content only, and one was a single-pressing subjective review with no comparison copy on hand) to include as citations or incorporate into the guide text.
+- Tracking Angle, "A Modern Guide to Collecting Miles Davis": [https://trackingangle.com/features/modern-guide-collecting-miles-davis-vinyl](https://trackingangle.com/features/modern-guide-collecting-miles-davis-vinyl)

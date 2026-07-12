@@ -138,10 +138,8 @@ A 1981 Japanese pressing of *The Blues and the Abstract Truth* exists on the ABC
 
 ## References
 
-- Everything Jazz, "Oliver Nelson: The Blues and the Abstract Truth" (Creed Taylor and session recollections): [https://www.everythingjazz.com/story/oliver-nelson-the-blues-and-the-abstract-truth/](https://www.everythingjazz.com/story/oliver-nelson-the-blues-and-the-abstract-truth/)
+- Discogs (master): [https://www.discogs.com/master/56196-Oliver-Nelson-The-Blues-And-The-Abstract-Truth](https://www.discogs.com/master/56196-Oliver-Nelson-The-Blues-And-The-Abstract-Truth)
+- Everything Jazz, "Oliver Nelson: The Blues and the Abstract Truth": [https://www.everythingjazz.com/story/oliver-nelson-the-blues-and-the-abstract-truth/](https://www.everythingjazz.com/story/oliver-nelson-the-blues-and-the-abstract-truth/)
 - LondonJazzCollector, "Oliver Nelson – The Blues and the Abstract Truth (1961)": [https://londonjazzcollector.wordpress.com/2011/11/26/oliver-nelson-the-blues-and-the-abstract-truth-1961/](https://londonjazzcollector.wordpress.com/2011/11/26/oliver-nelson-the-blues-and-the-abstract-truth-1961/)
-- Discogs release and community listings for all pressings referenced in the tier table above (original A-5 mono, AS-5 stereo, Speakers Corner, Analogue Productions 45rpm 200g/180g, Acoustic Sounds Series, Japanese ABC/Impulse! pressing)
-- YouTube, BellisarioSonic – dedicated A/B, Acoustic Sounds Series 33⅓ vinyl vs. Acoustic Sounds single-layer SACD (both mastered by Ryan K. Smith): [https://www.youtube.com/watch?v=uAdfJ3RzcsY](https://www.youtube.com/watch?v=uAdfJ3RzcsY)
-- YouTube, 45 RPM Audiophile – direct A/B, Acoustic Sounds Series 33⅓ vs. Analogue Productions 45rpm 200g: [https://www.youtube.com/watch?v=S2XnkHP-xEE](https://www.youtube.com/watch?v=S2XnkHP-xEE)
-
-**Other YouTube videos reviewed but not cited:** two additional videos were checked during production and excluded – one was a biographical/appreciation video with no pressing comparison (owns a Japanese pressing but gives no catalog/matrix detail beyond "quiet vinyl"), and one was an unboxing/first-listen reaction with no comparison copy on hand.
+- YouTube, BellisarioSonic, "The Blues and the Abstract Truth: SACD vs Vinyl Shootout! (Episode 1)": [https://www.youtube.com/watch?v=uAdfJ3RzcsY](https://www.youtube.com/watch?v=uAdfJ3RzcsY)
+- YouTube, 45 RPM Audiophile, "Shootout: Acoustic Sound: Sonny Rollins: On Impulse, Oliver Nelson: The Blues and The Abstract Truth": [https://www.youtube.com/watch?v=S2XnkHP-xEE](https://www.youtube.com/watch?v=S2XnkHP-xEE)
