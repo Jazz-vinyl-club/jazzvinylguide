@@ -97,6 +97,10 @@ These trade for **$40–$120 with obi** and are consistently rated by experience
 
 Columbia/Legacy anniversary editions are acceptable entry points digitally sourced. The 40th Anniversary (2010) and standard Legacy reissues are at $25–$35. Not recommended over an original ring-label copy at similar prices.
 
+### A related but distinct release: *Double Image: Rare Miles From The Complete Bitches Brew Sessions* (2020)
+
+Not a pressing of the studio album, so it doesn't appear in the tier table below, but worth knowing about: this is a [2020 Record Store Day exclusive](https://www.milesdavis.com/albums/double-image-rare-miles-from-the-bitches-brew-sessions/), red vinyl 2LP (Columbia 19439727471, 6,000 copies), collecting ten outtakes and embryonic recordings from the sessions surrounding *Bitches Brew* – different personnel from the released album (Herbie Hancock and Ron Carter both appear) and different session dates (November 1969 through February 1970, versus the album's August 19–21, 1969 dates). Previously only available on the 1998 CD box set, this was its first vinyl appearance. A genuine companion piece for completists, not a substitute for or alternate pressing of the album itself.
+
 ---
 
 ## Pressings to avoid
