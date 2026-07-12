@@ -102,3 +102,4 @@ This title has been reissued more than 100 times, and a wave of European public-
 - YouTube, True Audiofiles – A/B, an early Riverside pressing vs. the Craft Small Batch One-Step: [https://www.youtube.com/watch?v=ziyPnQzUSx4](https://www.youtube.com/watch?v=ziyPnQzUSx4)
 - YouTube, WCB Jazz Vinyl – detailed track-by-track A/B, an early Riverside pressing vs. the Craft Small Batch One-Step: [https://www.youtube.com/watch?v=YXy00TuyQjI](https://www.youtube.com/watch?v=YXy00TuyQjI)
 - YouTube, Ten-Minute Record Reviews – historical background and 2014 OJC review: [https://www.youtube.com/watch?v=rzGV3LQA7K0](https://www.youtube.com/watch?v=rzGV3LQA7K0)
+- YouTube, Robert Brook (The Broken Record) – six-copy "hot stamper" style shootout among original Riverside RLP 12-226 pressings, illustrating meaningful stamper-to-stamper variation even within "original pressing" copies: [https://www.youtube.com/watch?v=LCNPSC6F4F4](https://www.youtube.com/watch?v=LCNPSC6F4F4)
