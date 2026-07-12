@@ -22,7 +22,7 @@ For the album's 60th anniversary, the Erroll Garner Jazz Project (with pianist a
 
 ## Original Columbia pressing (1955/56)
 
-**Cat. CL 883**, mono only – there was never a stereo release of the original LP, consistent with the recording's mono, single-microphone radio origins. Owners consistently describe it as "fresh and crisp" for a mono recording of this vintage, if inherently limited in soundstage given the source. Because of the album's enormous and sustained commercial success, it was repressed steadily for years; later-1960s and 1970s Columbia label variants of the same mono mix also circulate. **NM originals: $30–$80**, reflecting the very large original and ongoing pressing runs relative to rarer period jazz titles.
+**Cat. CL 883**, mono, red/black "six-eye" Columbia label. A genuine multi-microphone stereo mix of this recording has never existed, consistent with the recording's single-microphone radio origins. Owners consistently describe it as "fresh and crisp" for a mono recording of this vintage, if inherently limited in soundstage given the source. Because of the album's enormous and sustained commercial success, it was repressed steadily for years; later-1960s and 1970s Columbia label variants of the same mono mix also circulate. Note: Columbia did issue a "stereo" pressing in 1969 (cat. CS 9821) – this is an electronically rechanneled/reprocessed fake stereo, not a genuine stereo recording, and isn't sought after for sound quality; see "Pressings to avoid" below. **NM originals: $30–$80**, reflecting the very large original and ongoing pressing runs relative to rarer period jazz titles.
 
 ---
 
@@ -33,6 +33,8 @@ For the album's 60th anniversary, the Erroll Garner Jazz Project (with pianist a
 ---
 
 ## Pressings to avoid
+
+**Columbia CS 9821 (1969, "stereo"):** An electronically rechanneled/reprocessed fake stereo pressing of the mono original. As with similar period "fake stereo" reissues of other mono jazz recordings, this is a period curiosity rather than a sound-quality upgrade – seek an original mono CL 883 instead.
 
 No specific bootleg is widely documented, though given the recording's unusual radio-broadcast origin story, buyers should be aware that unofficial tape circulation was always a risk this title's history acknowledges directly – Glaser's securing of the master tape from Thornbury was explicitly done to prevent exactly that outcome.
 
@@ -52,3 +54,11 @@ No specific bootleg is widely documented, though given the recording's unusual r
 | **B** | Original Columbia mono | CL 883 | 1955/56 | Mono, 33⅓ | Original single-mic radio recording | Genuinely attainable; large original pressing run; $30–$80 NM | [Discogs](https://www.discogs.com/release/636663-Erroll-Garner-Concert-By-The-Sea) |
 | **B** | The Complete Concert by the Sea | 8875139881 | 2015 | Processed stereo, 33⅓, 180g, 2xLP | Rediscovered tape, Plangent Process remaster | Expanded program; enhanced-stereo treatment of mono source; $40–$70 | [Discogs](https://www.discogs.com/release/7848894-Erroll-Garner-The-Complete-Concert-By-The-Sea) |
 | **C** | Later Columbia label-variant repress | CL 883 | 1960s–70s | Mono, 33⅓ | Same metalwork lineage | Budget option; $15–$40 | – |
+| **F** | Columbia electronically rechanneled "stereo" | CS 9821 | 1969 | Fake stereo, 33⅓ | Reprocessed from mono original | Not a genuine stereo recording; period curiosity only | – |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/179454-Erroll-Garner-Concert-By-The-Sea](https://www.discogs.com/master/179454-Erroll-Garner-Concert-By-The-Sea)
+- Wikipedia, "Concert by the Sea": [https://en.wikipedia.org/wiki/Concert_by_the_Sea](https://en.wikipedia.org/wiki/Concert_by_the_Sea)
+- Jazz History Online, "Erroll Garner: The Complete 'Concert by the Sea'": [https://jazzhistoryonline.com/concert-by-the-sea/](https://jazzhistoryonline.com/concert-by-the-sea/)
+- YouTube, calvinwazoo, "Random Pick Monday - Erroll Garner Concert By The Sea": [https://www.youtube.com/watch?v=SaORExAsTeI](https://www.youtube.com/watch?v=SaORExAsTeI)

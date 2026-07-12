@@ -66,3 +66,8 @@ Numerous European reissues circulate from the 1960s–80s on Verve/MGM-distribut
 | **A** | Original Verve mono, orange/black "T" label | MG V-4003 | 1956 | Mono, 33⅓ | Original 1956 mastering | Genuinely scarce in clean condition; $150–$400+ | [Discogs](https://www.discogs.com/release/10538384-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) |
 | **B** | Later black/silver "T" label repress | MG V-4003 | c.1957–60 | Mono, 33⅓ | Same metalwork as original | Sonically comparable to first pressing; $60–$150 | [Discogs](https://www.discogs.com/release/16508523-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) |
 | **C** | European MGM/Verve reissues | Various | 1960s–80s | Mono, 33⅓ | Licensed European pressings | Variable quality; affordable; verify not mislabeled "stereo"; $20–$50 | [Discogs](https://www.discogs.com/release/3877405-Ella-Fitzgerald-Louis-Armstrong-Ella-And-Louis) |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/173462-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis](https://www.discogs.com/master/173462-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis)
+- YouTube, 45 RPM Audiophile, "Acoustic Sound Series: Ella Fitzgerald & Louis Armstrong vs Analogue Production 45 rpm": [https://www.youtube.com/watch?v=YuVJpQmO73c](https://www.youtube.com/watch?v=YuVJpQmO73c)
