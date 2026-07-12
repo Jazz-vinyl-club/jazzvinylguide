@@ -52,6 +52,8 @@ Because the mono is a fold-down of the same 2-track master, the difference is no
 
 For most collectors the mono A-77 is now the more sought-after original – rarer, hum-free, and closer to how the band heard playbacks. For modern reissues, the **2020 Acoustic Sounds Series** and **2023 UHQR** are the reference stereo pressings, both hum-free from the Abbey Road safety. The **2025 60th-anniversary mono** gives modern listeners the mono presentation without hunting for a $600+ original.
 
+One practical note for anyone tempted to just flip a mono switch or use a Y-cable to fold a stereo copy down to mono rather than buying the dedicated mono edition: one reviewer directly tested this against the 2025 mono pressing and found the DIY fold-down "sounded terrible... dull and one-dimensional" by comparison. Ryan K. Smith's 2025 mono cut wasn't a naive channel-sum – he referenced the original 1964 mono pressing's specific mix choices when creating it, which a simple stereo-to-mono fold at home won't replicate.
+
 ---
 
 ## The reissue hierarchy: ABC and MCA eras (1966–1986)
@@ -201,3 +203,5 @@ At **$500–2,000+**, the target is an [**NM A-77 mono original**](https://www.d
 - YouTube, Top 5 Records, "Best Pressing of John Coltrane A Love Supreme? Comparing a US 1965 OG to the UHQR": [https://www.youtube.com/watch?v=Z7AwNQBAVds](https://www.youtube.com/watch?v=Z7AwNQBAVds)
 - YouTube, Bill's Box of Sound, "Coltrane Love Supreme Vinyl Comparisons": [https://www.youtube.com/watch?v=OQ2K0rtQsr4](https://www.youtube.com/watch?v=OQ2K0rtQsr4)
 - YouTube, Jazz Bums, "A Love Supreme, Mono Pressing Deep Dive": [https://www.youtube.com/watch?v=5mFIGYJ4dIw](https://www.youtube.com/watch?v=5mFIGYJ4dIw)
+- YouTube, WCB Jazz Vinyl, "John Coltrane's A Love Supreme vinyl release in MONO": [https://www.youtube.com/watch?v=clO66AYjRnY](https://www.youtube.com/watch?v=clO66AYjRnY)
+- YouTube, Pieces of Vinyl, "Understanding John Coltrane A Love Supreme UHQR 45 RPM": [https://www.youtube.com/watch?v=d3QuIf7N8N4](https://www.youtube.com/watch?v=d3QuIf7N8N4)
