@@ -205,3 +205,5 @@ At **$500–2,000+**, the target is an [**NM A-77 mono original**](https://www.d
 - YouTube, Jazz Bums, "A Love Supreme, Mono Pressing Deep Dive": [https://www.youtube.com/watch?v=5mFIGYJ4dIw](https://www.youtube.com/watch?v=5mFIGYJ4dIw)
 - YouTube, WCB Jazz Vinyl, "John Coltrane's A Love Supreme vinyl release in MONO": [https://www.youtube.com/watch?v=clO66AYjRnY](https://www.youtube.com/watch?v=clO66AYjRnY)
 - YouTube, Pieces of Vinyl, "Understanding John Coltrane A Love Supreme UHQR 45 RPM": [https://www.youtube.com/watch?v=d3QuIf7N8N4](https://www.youtube.com/watch?v=d3QuIf7N8N4)
+- YouTube, Ten-Minute Record Reviews, "John Coltrane - A Love Supreme (Episode 90)": [https://www.youtube.com/watch?v=YJX5_JWZna0](https://www.youtube.com/watch?v=YJX5_JWZna0)
+- YouTube, The 'In' Groove, "A New John Coltrane A Love Supreme Mastercut Coming for $450 from Supersense??": [https://www.youtube.com/watch?v=qXAP45d1ZKw](https://www.youtube.com/watch?v=qXAP45d1ZKw)
