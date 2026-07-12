@@ -31,7 +31,11 @@ The Five Spot residency with Monk had been crucial. Through six months playing M
 
 **Label chronology:** The earliest mono pressings have **47 West 63rd, New York 23** (with "New York 23" suffix) on the label, no "Inc.," and no ® after "Note." This is the rarest and most sought-after state. Slightly later copies have 47 West 63rd without "New York 23." Later still: "47 West 63rd Inc." (1959) and then "43 West 61st" (1960 address change). All of these have deep grooves and RVG stamps; the address change is purely a dating tool, not a sonic indicator.
 
-**Tape provenance:** The original Alfred Lion–era tapes are in the Blue Note/Universal archive. [Tracking Angle noted](https://trackingangle.com/music/tangled-up-in-blue-train) the Scotch 111 original tape as being in excellent condition 65 years on. The Tone Poet team (Joe Harley, Kevin Gray) accessed the original mono master tape for the 2022 mono edition; the stereo 2-LP Complete Masters used the original stereo tape.
+**Tape provenance:** The original Alfred Lion–era tapes are in the Blue Note/Universal archive. [Tracking Angle noted](https://trackingangle.com/music/tangled-up-in-blue-train) the Scotch 111 original tape as being in excellent condition 65 years on. The Tone Poet team (Joe Harley, Kevin Gray) accessed the original mono master tape for the 2022 mono edition; the stereo 2-LP Complete Masters used the original stereo tape. In a livestreamed Q&A, Harley and Gray confirmed the tape shows no degradation issues, unlike some other catalogues of the era.
+
+**A splice worth knowing about:** In that same Q&A, Kevin Gray revealed that the piano solo heard on the released master take of the title track ("Blue Train," take 9) was not performed on take 9 at all – Rudy Van Gelder physically spliced in Kenny Drew's solo from take 8. When Gray prepared the Complete Masters bonus disc (which includes take 8 in its own right), he had to carefully replicate that same splice so listeners hear the identical piano performance in both places, exactly as the 1957 master was constructed.
+
+**On the stereo cover:** When BST 1577 was issued in June 1960, Blue Note didn't commission new stereo cover art – they simply applied a gold foil "STEREO" sticker to existing stock of the mono jacket, a cost-saving practice used across several catalogue titles at the time. The 2022 Tone Poet stereo edition replicates this directly, using the same gold foil sticker treatment on its own jacket.
 
 ---
 
@@ -174,3 +178,4 @@ A companion **Blue Train: The Complete Masters 2LP stereo** (cat. B0035204-01, s
 - YouTube, JazzLoveJapan, "Insane Sound Battle John Coltrane Blue Train Liberty Pressing vs King Record Premium Reissue!": [https://www.youtube.com/watch?v=lw-HHOSiUX4](https://www.youtube.com/watch?v=lw-HHOSiUX4)
 - YouTube, True Audiofiles, "SOUND QUALITY SHOOTOUT: Blue Train!!": [https://www.youtube.com/watch?v=ae28oHPNzn8](https://www.youtube.com/watch?v=ae28oHPNzn8)
 - YouTube, 6AM, "John Coltrane Blue Train 1993 DMM vs TONE POET reissue": [https://www.youtube.com/watch?v=AYcrOO5TVrM](https://www.youtube.com/watch?v=AYcrOO5TVrM)
+- YouTube, 45 RPM Audiophile, "Special Guests: Joe Harley and Kevin Gray talk about John Coltrane Blue Train Tone Poet! + Q&A": [https://www.youtube.com/watch?v=MDkfdmI-INw](https://www.youtube.com/watch?v=MDkfdmI-INw)
