@@ -50,6 +50,8 @@ The true first pressing carries white labels with the "mic and reels" logo and "
 
 **Cat. CR00502** | Format: Mono, 180g, one-step, 2023 | **All-analog lacquers cut by Bernie Grundman from the original master tapes, pressed at RTI on Neotech's VR900 compound.** Limited to 4,000 numbered copies, originally $109, packaged in a foil-stamped, linen-wrapped slipcase with new Ashley Kahn liner notes. This is widely regarded as the best-sounding pressing that is still realistically obtainable, though a handful of buyers have reported warped or noisy copies, so it's worth confirming return policies when buying secondhand.
 
+Some buyers have noted the reproduced cover on this pressing looks noticeably "redder"/warmer-toned than certain vintage originals. This reflects real variation in the original 1957 cover printing – period Riverside covers themselves varied between warmer- and cooler-toned pressings of the same photograph – rather than a reproduction error on Craft's part.
+
 ### Analogue Productions 45rpm (AJAZ 12-226) – out of print, extremely transparent
 
 **Cat. AJAZ 12-226** | Format: Mono, 2LP, 180g, 45rpm, 2003 | **Mastered by Kevin Gray and Steve Hoffman at AcousTech, pressed at RTI, part of the Fantasy 45 Series.** Long out of print and now a $125–400 secondary-market item, but reviewers consistently rank it among the most detailed and transparent versions of this album ever cut, on par with or exceeding the Craft Small Batch.
@@ -90,3 +92,13 @@ This title has been reissued more than 100 times, and a wave of European public-
 | **B** | Original Riverside first pressing | RLP 12-226 | 1957 | Mono | Original 1957 mastering | White label, deep groove, "418 West 49th St" jacket = true first pressing | [Discogs](https://www.discogs.com/release/3835076-Thelonious-Monk-Brilliant-Corners) |
 | **B** | Original Jazz Classics reissue | OJC-026 | 1982 | Mono | Fantasy reissue; Carrollton, GA (Columbia) pressings are quietest | Facsimile sleeve; seek the Carrollton "G1" runout | [Discogs](https://www.discogs.com/release/33022326-Thelonious-Monk-Brilliant-Corners) |
 | **C** | Japanese Riverside/Milestone reissue | SMJ-6136(M) | 1976 | Mono | Japanese pressing | Well-regarded vintage Japan pressing; very quiet vinyl | [Discogs](https://www.discogs.com/release/2117287-Thelonious-Monk-Brilliant-Corners) |
+
+## References
+
+- Wikipedia, "Brilliant Corners": [https://en.wikipedia.org/wiki/Brilliant_Corners](https://en.wikipedia.org/wiki/Brilliant_Corners)
+- Craft Recordings, official announcement of the Small Batch reissue (session/personnel details, mastering credit): [https://craftrecordings.com/blogs/news/announcing-thelonious-monk-s-pivotal-1957-classic-brilliant-corners-as-the-latest-title-in-the-acclaimed-small-batch-vinyl-series](https://craftrecordings.com/blogs/news/announcing-thelonious-monk-s-pivotal-1957-classic-brilliant-corners-as-the-latest-title-in-the-acclaimed-small-batch-vinyl-series)
+- Discogs release and community listings for all pressings referenced in the tier table above (original RLP 12-226, OJC-026, ERC051, Craft Small Batch CR00502, AJAZ/AAPJ 12-226, Japanese SMJ-6136(M))
+- YouTube, BellisarioSonic – A/B, OJC-026 vs. the Kevin Gray/QRP pressing (Riverside Tenor Sessions box set metalwork): [https://www.youtube.com/watch?v=vyMbNzXiw38](https://www.youtube.com/watch?v=vyMbNzXiw38)
+- YouTube, True Audiofiles – A/B, an early Riverside pressing vs. the Craft Small Batch One-Step: [https://www.youtube.com/watch?v=ziyPnQzUSx4](https://www.youtube.com/watch?v=ziyPnQzUSx4)
+- YouTube, WCB Jazz Vinyl – detailed track-by-track A/B, an early Riverside pressing vs. the Craft Small Batch One-Step: [https://www.youtube.com/watch?v=YXy00TuyQjI](https://www.youtube.com/watch?v=YXy00TuyQjI)
+- YouTube, Ten-Minute Record Reviews – historical background and 2014 OJC review: [https://www.youtube.com/watch?v=rzGV3LQA7K0](https://www.youtube.com/watch?v=rzGV3LQA7K0)

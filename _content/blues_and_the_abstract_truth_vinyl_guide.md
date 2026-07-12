@@ -31,6 +31,8 @@ Van Gelder's Englewood Cliffs studio, by 1961 fully settled and in its mature pe
 
 **Tape provenance:** The original Impulse! master tapes are in the Universal Music archive. Van Gelder himself cut the lacquers for the original issue. Analogue Productions, Speakers Corner, and Acoustic Sounds all confirm working from the original analogue master tapes. The tape is in good condition; there are no documented deterioration issues.
 
+**Vinyl vs. SACD (both Ryan K. Smith masterings):** A direct A/B between the Acoustic Sounds Series 33⅓ vinyl and the Acoustic Sounds single-layer SACD (2023) – both mastered by Ryan K. Smith – found the two formats differ mainly in character rather than one being objectively superior. The SACD resolves slightly more fine detail (audible breath and lip noise on the flute and horns) and a touch more low-end presence; the vinyl's drums sound more naturally resonant and the overall presentation is warmer and airier. This is a useful data point for anyone deciding between formats within the same series, and reinforces that "differ primarily in character" framing above.
+
 ### Mono vs. stereo
 
 The original release was issued in both mono (A-5) and stereo (AS-5). Both were recorded simultaneously by Van Gelder running separate chains. The stereo is the more commonly collected format: the wide placement of instruments across the stereo field is one of the recording's great pleasures, and all modern reissues are stereo. The mono is preferred by collectors who favour midrange density and a more concentrated ensemble sound. Neither is clearly superior – it is a matter of listening preference. For most buyers, stereo is the recommendation.
@@ -77,7 +79,7 @@ Impulse! moved through several label design changes: the **black/red rim** label
 
 ### Analogue Productions 45rpm 2LP – 200g QRP pressing (2010)
 
-**Cat. AAIMP 5** | Format: 2×200g LP, 45rpm, gatefold. **Mastered by Kevin Gray and Steve Hoffman at AcousTech, from the original master tapes. Pressed at QRP.** The upgraded AP pressing on 200g QRP vinyl followed the original 2009 RTI pressing. Dennis Davis in Hi-Fi+ (Issue 68): "Let me cut to the chase here and recommend that you buy two copies – one to enjoy and the other to hold for resale, because some day Acoustic Sounds' licence will run out and lots of jazz fans will be kicking themselves for not buying a copy. Kevin Gray has turned out a perfect remastering job and this is my choice for reissue of the year." Recording = 10/10; Music = 10/10. Now OOP; secondary prices have risen since the Acoustic Sounds Series took over as the accessible modern reference. **$150–$300 secondary.** [Discogs r2940887](https://www.discogs.com/release/2940887-Oliver-Nelson-The-Blues-And-The-Abstract-Truth)
+**Cat. AAIMP 5** | Format: 2×200g LP, 45rpm, gatefold. **Mastered by Kevin Gray and Steve Hoffman at AcousTech, from the original master tapes. Pressed at QRP.** The upgraded AP pressing on 200g QRP vinyl followed the original 2009 RTI pressing. Dennis Davis in Hi-Fi+ (Issue 68): "Let me cut to the chase here and recommend that you buy two copies – one to enjoy and the other to hold for resale, because some day Acoustic Sounds' licence will run out and lots of jazz fans will be kicking themselves for not buying a copy. Kevin Gray has turned out a perfect remastering job and this is my choice for reissue of the year." Recording = 10/10; Music = 10/10. Now OOP; secondary prices have risen since the Acoustic Sounds Series took over as the accessible modern reference. A direct A/B by one long-time collector who owns both found the AP 45rpm "sounds a bit better" than the newer 33⅓ Acoustic Sounds Series, though both were called excellent and the price gap is now substantial – this is a single listener's preference rather than a consensus, and does not change the tier ordering below. **$150–$300 secondary.** [Discogs r2940887](https://www.discogs.com/release/2940887-Oliver-Nelson-The-Blues-And-The-Abstract-Truth)
 
 ### Analogue Productions 45rpm 2LP – 180g RTI pressing (2009)
 
@@ -133,3 +135,13 @@ A 1981 Japanese pressing of *The Blues and the Abstract Truth* exists on the ABC
 | **C** | Later Impulse! black/red rim pressings | AS-5 | c.1968+ | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $40–$120 VG+ | [Discogs](https://www.discogs.com/release/1172029-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) |
 | **D** | ABC/MCA/GRP reissues | Various | 1970s–90s | Stereo, 33⅓ | Various | Not recommended over Acoustic Sounds at $35 | – |
 | **F** | Generic EU reissues (DOL, Waxtime, etc.) | Various | 2000s+ | Various | Digital, unlicensed | Avoid | – |
+
+## References
+
+- Everything Jazz, "Oliver Nelson: The Blues and the Abstract Truth" (Creed Taylor and session recollections): [https://www.everythingjazz.com/story/oliver-nelson-the-blues-and-the-abstract-truth/](https://www.everythingjazz.com/story/oliver-nelson-the-blues-and-the-abstract-truth/)
+- LondonJazzCollector, "Oliver Nelson – The Blues and the Abstract Truth (1961)": [https://londonjazzcollector.wordpress.com/2011/11/26/oliver-nelson-the-blues-and-the-abstract-truth-1961/](https://londonjazzcollector.wordpress.com/2011/11/26/oliver-nelson-the-blues-and-the-abstract-truth-1961/)
+- Discogs release and community listings for all pressings referenced in the tier table above (original A-5 mono, AS-5 stereo, Speakers Corner, Analogue Productions 45rpm 200g/180g, Acoustic Sounds Series, Japanese ABC/Impulse! pressing)
+- YouTube, BellisarioSonic – dedicated A/B, Acoustic Sounds Series 33⅓ vinyl vs. Acoustic Sounds single-layer SACD (both mastered by Ryan K. Smith): [https://www.youtube.com/watch?v=uAdfJ3RzcsY](https://www.youtube.com/watch?v=uAdfJ3RzcsY)
+- YouTube, 45 RPM Audiophile – direct A/B, Acoustic Sounds Series 33⅓ vs. Analogue Productions 45rpm 200g: [https://www.youtube.com/watch?v=S2XnkHP-xEE](https://www.youtube.com/watch?v=S2XnkHP-xEE)
+
+**Other YouTube videos reviewed but not cited:** two additional videos were checked during production and excluded – one was a biographical/appreciation video with no pressing comparison (owns a Japanese pressing but gives no catalog/matrix detail beyond "quiet vinyl"), and one was an unboxing/first-listen reaction with no comparison copy on hand.
