@@ -58,6 +58,8 @@ For most collectors the mono A-77 is now the more sought-after original – rare
 
 **1966–1968: late orange-and-black represses.** Same A-77/AS-77 numbers; footer changes to "ABC RECORDS, INC. NEW YORK, N.Y. 10019." Many still carry VAN GELDER + LW stamps and sound essentially indistinguishable from firsts.
 
+**Canadian Sparton Impulse! pressings (1965).** Released simultaneously with the US original under license to Sparton. At least one detailed collector report claims Sparton pressed from the same Van Gelder metalwork used for the US release, making these sonically close to a US original where available – worth knowing if a US original isn't in budget, though this specific claim hasn't been independently corroborated beyond that one source.
+
 **1968–1971: black label with orange/red rim.** "abc RECORDS" boxed logo top right, "impulse!" script top left. Still typically carry VAN GELDER STEREO in deadwax; pressed on thinner vinyl but **sonically very close to the originals when RVG metal is present** – an underrated pressing often graded down purely on label aesthetics.
 
 **1972–1974: ℗-year footer.** "℗ 1972 (or 1973) ABC RECORDS, INC." **This is where the Van Gelder stamp disappears** – machine-block matrices indicate Bell Sound recuts from the surviving dub. One Discogs reviewer: *"Considering it's not an RVG pressing, it sounds pretty great – not as bright, crisp, and punchy as RVG, but still beautiful, with plenty of definition that trumps anything post-1973."*
@@ -198,3 +200,4 @@ At **$500–2,000+**, the target is an [**NM A-77 mono original**](https://www.d
 - Discogs release and community listings for all pressings referenced in the tier table above (original A-77/AS-77, Speakers Corner, AP 45rpm, Acoustic Sounds Series, UHQR, Japanese pressings, MCA/ABC-era represses)
 - YouTube, Top 5 Records, "Best Pressing of John Coltrane A Love Supreme? Comparing a US 1965 OG to the UHQR": [https://www.youtube.com/watch?v=Z7AwNQBAVds](https://www.youtube.com/watch?v=Z7AwNQBAVds)
 - YouTube, Bill's Box of Sound, "Coltrane Love Supreme Vinyl Comparisons": [https://www.youtube.com/watch?v=OQ2K0rtQsr4](https://www.youtube.com/watch?v=OQ2K0rtQsr4)
+- YouTube, Jazz Bums, "A Love Supreme, Mono Pressing Deep Dive": [https://www.youtube.com/watch?v=5mFIGYJ4dIw](https://www.youtube.com/watch?v=5mFIGYJ4dIw)
