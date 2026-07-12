@@ -32,7 +32,11 @@ Freddie Hubbard, playing cornet rather than his usual trumpet for a warmer, more
 
 ### Blue Note Classic Vinyl – the recommended entry point
 
-**Format: 180g LP, stereo. Mastered by Kevin Gray, from the original master tapes.** One especially detailed owner review calls it flatly one of the best-sounding entries in the whole Classic Vinyl series: "there is no way any other version is as free of background noise, making me able to hear Ron Carter's jaw dropping bass solo on 'Oliloqui Valley' like never before." **$25–$40 new.**
+**Format: 180g LP, stereo. Mastered by Kevin Gray, from the original master tapes.** One especially detailed owner review calls it flatly one of the best-sounding entries in the whole Classic Vinyl series: "there is no way any other version is as free of background noise, making me able to hear Ron Carter's jaw dropping bass solo on 'Oliloqui Valley' like never before." At least one reviewer has reported an individual copy shipping with minor cosmetic surface scuffs – an isolated report, not evidence of a systemic issue like the 75th Anniversary series below, but worth knowing if you're buying without a return option. **$25–$40 new.**
+
+### Mid-1960s to mid-1970s US reissue, dark blue label – an underrated tier
+
+A dark blue Liberty/UA-era label reissue retains the Van Gelder stamp on both sides, since it shares metalwork with the original pressing. As with similarly-treated late represses of other titles in this catalogue, a genuine RVG stamp on a later reissue is a legitimate way to get close to original-pressing sound without first-press pricing. No single confirmed catalogue number; look for the dark blue label design and confirm the RVG stamp in the deadwax yourself. **Prices not well-established in the secondary market; likely $30–$80 depending on condition.**
 
 ### Blue Note 75th Anniversary (2015) – mixed pressing quality
 
@@ -63,4 +67,12 @@ Freddie Hubbard, playing cornet rather than his usual trumpet for a warmer, more
 | **A** | Original BST 84175 stereo, Liberty label | BST 84175 | 1964 | Stereo, 33⅓ | RVG stamp | Non-DG considered true first per Cohen's guide; $150–$400 NM | [Discogs](https://www.discogs.com/release/6798808-Herbie-Hancock-Empyrean-Isles) |
 | **A** | Original BLP 4175 mono, NY USA label | BLP 4175 | 1964 | Mono, 33⅓ | RVG stamp | $150–$350 NM | [Discogs](https://www.discogs.com/release/1102285-Herbie-Hancock-Empyrean-Isles) |
 | **B** | Blue Note Classic Vinyl | – | – | Stereo, 33⅓, 180g | Orig tape → Kevin Gray | Best value; exceptionally well-reviewed; $25–$40 new | – |
+| **B** | Mid-1960s–70s dark blue label reissue | – | 1966–70s | Stereo, 33⅓ | RVG stamp, same metalwork as original | Underrated; genuine RVG sound without first-press pricing; ~$30–$80 | – |
 | **C** | Blue Note 75th Anniversary | B0022238-01 | 2015 | Stereo, 33⅓, 180g | Orig tape → Bernie Grundman/Chris Bellman | Genuinely split QC reports; buy with return policy; $25–$50 | [Discogs](https://www.discogs.com/release/6595630-Herbie-Hancock-Empyrean-Isles) |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/47777-Herbie-Hancock-Empyrean-Isles](https://www.discogs.com/master/47777-Herbie-Hancock-Empyrean-Isles)
+- Discogs release and community listings for all pressings referenced in the tier table above (original BLP 4175/BST 84175, Music Matters MMBST-84175, Blue Note Classic Vinyl, dark blue label reissue, 75th Anniversary B0022238-01)
+- YouTube, JazzLoveJapan, "Herbie Hancock The Empyrean Isles Blue Note RVG US Vinyl LP": [https://www.youtube.com/watch?v=yikSYWWQ-EY](https://www.youtube.com/watch?v=yikSYWWQ-EY)
+- YouTube, Surcos de Jazz, "Herbie Hancock - Empyrean Isles (Blue Note Classic 2023)": [https://www.youtube.com/watch?v=Z4H_1T3PGnI](https://www.youtube.com/watch?v=Z4H_1T3PGnI)

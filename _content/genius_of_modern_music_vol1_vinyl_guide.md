@@ -72,3 +72,8 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 | **C** | King GXK-8058 (Japan) | GXK-8058 | 1977–1980 | Mono, 33⅓ | Japanese pressing, larger run | Part of "Blue Note Masterpiece Selection 150"; $40–$70 with obi | – |
 | **C** | Toshiba EMI BLP 1500 Series | BNJ-71010 | c.1983 | Mono, 33⅓ | Japanese pressing | Part of "Blue Note BLP 1500 Series Part 1"; $40–$80 with obi | – |
 | **D** | Original 10" LP | BLP 5002 | 1951 | Mono, 10", 33⅓ | Original 1951 mastering | Rare historical curiosity, not a practical listening copy; scarce | [Discogs](https://www.discogs.com/release/21740968-Thelonious-Monk-Genius-Of-Modern-Music) |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/120707-Thelonious-Monk-Genius-Of-Modern-Music](https://www.discogs.com/master/120707-Thelonious-Monk-Genius-Of-Modern-Music)
+- Discogs release and community listings for all pressings referenced in the tier table above (original BLP 1510, Blue Note Classic Vinyl 4535336, King GXF-3014/GXK-8058, Toshiba EMI BNJ-71010, original 10" BLP 5002)

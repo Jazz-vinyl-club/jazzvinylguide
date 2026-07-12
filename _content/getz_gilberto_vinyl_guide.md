@@ -182,3 +182,13 @@ Three characteristics of the recording define the pressing hierarchy:
 | **C** | US Verve stereo, later matrices (RE-2 through RE-6) | V6-8545 | 1964–67 | Stereo, 33⅓ | Later lacquers from EQ copy | Diminishing returns vs. RE-1; reversed channels; $50–$150 | – (no single specific release; spans multiple Discogs entries under the V6-8545 master) |
 | **F** | Back to Black reissue | Various | 2014 | Stereo, 33⅓, 180g | Non-original digital source | Reversed channels; broadly dismissed as the worst modern reissue; skip | – |
 | **F** | DOL and EU grey-market pressings | Various | 2010s+ | Various | CD/digital rip, unlicensed | Not licensed from Universal; digitally sourced; avoid | – |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/85178-Stan-Getz-Joao-Gilberto-Getz-Gilberto](https://www.discogs.com/master/85178-Stan-Getz-Joao-Gilberto-Getz-Gilberto)
+- Tracking Angle, Fremer's 2024 comparison of the Impex 1Step and prior editions: [https://trackingangle.com](https://trackingangle.com)
+- The Absolute Sound, Neil Gader's 2024 review of the Impex 1Step: [https://www.theabsolutesound.com](https://www.theabsolutesound.com)
+- Vinyl Gourmet, Sérgio Redondo's research on the channel-reversal history and the AP 2011 45rpm: [https://blog.vinylgourmet.com](https://blog.vinylgourmet.com)
+- Discogs release and community listings for all pressings referenced in the tier table above (original V6-8545/V-8545, Speakers Corner, AP 45rpm AP-8545, Impex 1Step IMP6041-1, Acoustic Sounds Series B0031690-01, Mobile Fidelity MFSL 1-208)
+- YouTube, Top 5 Records, "Getz / Gilberto - 45 RPM Analogue Productions Vs. Mono OG 1964": [https://www.youtube.com/watch?v=g0JrEG4Aam8](https://www.youtube.com/watch?v=g0JrEG4Aam8)
+- YouTube, Kenny's Audiophile Record Reviews, "Impex Getz/Gilberto vinyl record - A bold undertaking by Impex; comparison with Analogue Productions": [https://www.youtube.com/watch?v=wZZ66emSlT4](https://www.youtube.com/watch?v=wZZ66emSlT4)

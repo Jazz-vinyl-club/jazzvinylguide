@@ -24,7 +24,7 @@ This wasn't confirmed publicly until 1996, when a tape surfaced in the Voice of 
 
 ## Original Columbia pressings (1956)
 
-**Catalogue: CL 934**, mono only. This title sold in very large quantities as Ellington's career-reviving hit record, and was repressed steadily through the following decade, which keeps clean originals more attainable than most mid-1950s Columbia jazz titles. **$30–$100 NM**, depending on label variant and condition.
+**Catalogue: CL 934**, mono only, issued on Columbia's red/black "six-eye" label. This title sold in very large quantities as Ellington's career-reviving hit record, and was repressed steadily through the following decade, which keeps clean originals more attainable than most mid-1950s Columbia jazz titles. **$30–$100 NM**, depending on label variant and condition.
 
 ---
 
@@ -68,3 +68,8 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 | **A** | Mobile Fidelity numbered mono | MOFI 1-035 | – | Mono, numbered LP | MoFi remastering | Quiet, strong pressing; some prefer original for Duke's voice; $25–$60 | [Discogs](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
 | **B** | Japanese CBS/Sony pressing | SOPN-150 | c.1975 | Mono, 33⅓ | Licensed Japanese pressing | Shorter track selection than US LP; no distinct audiophile reputation; $20–$50 | [Discogs](https://www.discogs.com/release/3630941-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
 | **B** | "Complete concert" 2LP reissue | DOX904 | 2013 | Stereo, 2LP | Compiled from 1999 Complete reissue material | Likely digital source, unclear licensing; the fuller, more accurate concert account on vinyl; $20–$40 | [Discogs](https://www.discogs.com/release/15625375-Duke-Ellington-Ellington-at-Newport) |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/136190-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport](https://www.discogs.com/master/136190-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport)
+- Discogs release and community listings for all pressings referenced in the tier table above (original CL 934 six-eye mono, MOFI 1-035, Japanese CBS/Sony SOPN-150, "Complete concert" DOX904 reissue)
