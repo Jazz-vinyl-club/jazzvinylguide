@@ -40,6 +40,12 @@ Blue Note's catalog was licensed to King Records and later Toshiba EMI in Japan 
 
 ---
 
+## French pressing
+
+A 1972 French reissue, **Blue Note BST 81.510 U**, is worth knowing about as a cheap entry point: [confirmed via Discogs](https://www.discogs.com/release/5796502-Thelonious-Monk-Genius-Of-Modern-Music), it's a stereo LP, readily available and inexpensive on the secondary market ($10–$20 typically). No dedicated sound-quality reviews have surfaced, and reception via Discogs ratings is middling (around 3/5) rather than enthusiastic – treat it as an affordable curiosity rather than a serious audiophile alternative to the Classic Vinyl or an original mono pressing. **$10–$20.**
+
+---
+
 ## The reissue hierarchy
 
 ### Blue Note Classic Vinyl (2022) – the recommended modern pressing
@@ -57,7 +63,9 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 ## Buyer's guide by budget
 
 **Under $40:** The [**Blue Note Classic Vinyl (2022)**](https://www.discogs.com/release/25484383-Thelonious-Monk-Genius-Of-Modern-Music-Volume-One) – genuinely as good as this material gets, and the easiest recommendation in this guide.
+
 **$40–$100:** A **Japanese King or Toshiba pressing** with obi, for a well-regarded vintage alternative.
+
 **$200–$500:** An original [**1956 BLP 1510 first pressing**](https://www.discogs.com/release/2587385-Thelonious-Monk-Genius-Of-Modern-Music-Volume-One) in honest condition, for collectors who want the genuine 1956 pressing history of this foundational document.
 
 ---
@@ -66,11 +74,12 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Blue Note Classic Vinyl | 4535336 / BLP 1510 | 2022 | Mono, 180g | Kevin Gray, Cohearent Audio, Optimal | Best-available treatment of inherently limited source material; $25–$40 | [Discogs](https://www.discogs.com/release/25484383-Thelonious-Monk-Genius-Of-Modern-Music-Volume-One) |
-| **A** | Original Blue Note first pressing | BLP 1510 | 1956 | Mono, 33⅓ | Original 1956 mastering | 767 Lexington, flat edge, RVG, ear; $200–$500 NM | [Discogs](https://www.discogs.com/release/2587385-Thelonious-Monk-Genius-Of-Modern-Music-Volume-One) |
-| **B** | King GXF-3014 (Japan, limited) | GXF-3014 | 1977 | Mono, 33⅓ | Japanese pressing, limited run | Premium tier of King's Blue Note series; $50–$100 with obi | – |
-| **C** | King GXK-8058 (Japan) | GXK-8058 | 1977–1980 | Mono, 33⅓ | Japanese pressing, larger run | Part of "Blue Note Masterpiece Selection 150"; $40–$70 with obi | – |
-| **C** | Toshiba EMI BLP 1500 Series | BNJ-71010 | c.1983 | Mono, 33⅓ | Japanese pressing | Part of "Blue Note BLP 1500 Series Part 1"; $40–$80 with obi | – |
+| **S** | Blue Note Classic Vinyl | 4535336 / BLP 1510 | 2022 | Mono, 33⅓, 12", 180g | Kevin Gray, Cohearent Audio, Optimal | Best-available treatment of inherently limited source material; $25–$40 | [Discogs](https://www.discogs.com/release/25484383-Thelonious-Monk-Genius-Of-Modern-Music-Volume-One) |
+| **A** | Original Blue Note first pressing | BLP 1510 | 1956 | Mono, 33⅓, 12" | Original 1956 mastering | 767 Lexington, flat edge, RVG, ear; $200–$500 NM | [Discogs](https://www.discogs.com/release/2587385-Thelonious-Monk-Genius-Of-Modern-Music-Volume-One) |
+| **B** | King GXF-3014 (Japan, limited) | GXF-3014 | 1977 | Mono, 33⅓, 12" | Japanese pressing, limited run | Premium tier of King's Blue Note series; $50–$100 with obi | – |
+| **C** | King GXK-8058 (Japan) | GXK-8058 | 1977–1980 | Mono, 33⅓, 12" | Japanese pressing, larger run | Part of "Blue Note Masterpiece Selection 150"; $40–$70 with obi | – |
+| **C** | Toshiba EMI BLP 1500 Series | BNJ-71010 | c.1983 | Mono, 33⅓, 12" | Japanese pressing | Part of "Blue Note BLP 1500 Series Part 1"; $40–$80 with obi | – |
+| **D** | French reissue | BST 81.510 U | 1972 | Stereo, 33⅓, 12" | European reissue | Cheap, widely available; middling reception, not audiophile-grade; $10–$20 | [Discogs](https://www.discogs.com/release/5796502-Thelonious-Monk-Genius-Of-Modern-Music) |
 | **D** | Original 10" LP | BLP 5002 | 1951 | Mono, 10", 33⅓ | Original 1951 mastering | Rare historical curiosity, not a practical listening copy; scarce | [Discogs](https://www.discogs.com/release/21740968-Thelonious-Monk-Genius-Of-Modern-Music) |
 
 ## References
