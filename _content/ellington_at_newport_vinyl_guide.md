@@ -55,7 +55,9 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 ## Buyer's guide by budget
 
 **Under $40:** The [**DOX904 "complete concert" reissue**](https://www.discogs.com/release/15625375-Duke-Ellington-Ellington-at-Newport) if you specifically want the expanded, more accurate account of the concert on vinyl rather than the original's studio-reconstructed version – likely digitally sourced, with unclear licensing.
+
 **$40–$70:** The [**Mobile Fidelity MOFI 1-035**](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) if you want a guaranteed-quiet modern pressing.
+
 **$60–$100:** A clean [**original six-eye mono, CL 934**](https://www.discogs.com/release/689458-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) – genuinely attainable given how many copies were pressed, and arguably the most characterful-sounding option for Ellington's introductions.
 
 ---
@@ -64,10 +66,10 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | Original Columbia six-eye mono | CL 934 | 1956 | Mono, 33⅓ | Original 1956 Columbia mastering | Attainable given large original pressing run; $30–$100 | [Discogs](https://www.discogs.com/release/689458-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
-| **A** | Mobile Fidelity numbered mono | MOFI 1-035 | – | Mono, numbered LP | MoFi remastering | Quiet, strong pressing; some prefer original for Duke's voice; $25–$60 | [Discogs](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
-| **B** | Japanese CBS/Sony pressing | SOPN-150 | c.1975 | Mono, 33⅓ | Licensed Japanese pressing | Shorter track selection than US LP; no distinct audiophile reputation; $20–$50 | [Discogs](https://www.discogs.com/release/3630941-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
-| **B** | "Complete concert" 2LP reissue | DOX904 | 2013 | Stereo, 2LP | Compiled from 1999 Complete reissue material | Likely digital source, unclear licensing; the fuller, more accurate concert account on vinyl; $20–$40 | [Discogs](https://www.discogs.com/release/15625375-Duke-Ellington-Ellington-at-Newport) |
+| **A** | Original Columbia six-eye mono | CL 934 | 1956 | Mono, 33⅓, 12" | Original 1956 Columbia mastering | Attainable given large original pressing run; $30–$100 | [Discogs](https://www.discogs.com/release/689458-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
+| **A** | Mobile Fidelity numbered mono | MOFI 1-035 | – | Mono, 33⅓, 12" | MoFi remastering | Quiet, strong pressing; some prefer original for Duke's voice; $25–$60 | [Discogs](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
+| **B** | Japanese CBS/Sony pressing | SOPN-150 | c.1975 | Mono, 33⅓, 12" | Licensed Japanese pressing | Shorter track selection than US LP; no distinct audiophile reputation; $20–$50 | [Discogs](https://www.discogs.com/release/3630941-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
+| **B** | "Complete concert" 2LP reissue | DOX904 | 2013 | Stereo, 33⅓, 12", 2×LP | Compiled from 1999 Complete reissue material | Likely digital source, unclear licensing; the fuller, more accurate concert account on vinyl; $20–$40 | [Discogs](https://www.discogs.com/release/15625375-Duke-Ellington-Ellington-at-Newport) |
 
 ## References
 
