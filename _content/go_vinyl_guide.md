@@ -84,6 +84,8 @@ Authentication markers for the earliest copies:
 
 **Cat. BST 84112** | Format: 180g LP, 33⅓, stereo. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes. Pressed at Optimal in Germany.** Reviews are positive but non-fill QC issues are documented on some copies – a recurring Optimal plant issue for this series. [Discogs](https://www.discogs.com/release/19583212-Dexter-Gordon-Go): "Blue Note hits another homerun with this reissue. Dead quiet, great subs, mids and crisp highs." A contrasting note: "My copy has random non-fill distortion all over it but is quiet and flat." And: "One of those albums you regularly see mentioned in audiophile forums – definitely worth picking up a copy at this price." Buy with a returns option. **~$25–$35 new.**
 
+[One direct A/B against the AP 45rpm 2LP](https://www.youtube.com/watch?v=ZGPSIIFCUEI) found a genuinely surprising result: despite the AP's 45rpm speed advantage, this reviewer preferred the Classic Vinyl's fuller saxophone tone and more impactful, tangible drums, calling the AP "a little anemic" by direct comparison on an all-valve system. This corroborates the Discogs comment above about the 2021 remaster being "quite an improvement" over the 2008 AP pressing – not a universal verdict, but a second independent voice making the same case. The same reviewer also noted a cover-art difference worth knowing when identifying copies: the AP edition's background and Dexter Gordon's photo skew a lighter blue than the original white cover, while the Classic Vinyl's reproduction runs closer to the original.
+
 ### Japanese pressings – the vintage alternative
 
 Japanese Blue Note pressings of *Go!* – primarily from Toshiba-EMI and King Records in the 1970s and early 1980s – are consistently praised for dead-quiet vinyl and faithful, warm reproduction. As with most Japanese Blue Note titles of this era, they were pressed under licence using dubbed tape sources, but the quality of Japanese vinyl and pressing plants from this period is exceptional. A 1985 German DMM pressing (r3419426) is noted by collectors as inferior to the Japanese copies; the DMM process can cause listening fatigue on certain systems. **Japanese pressings: $40–$100 NM with obi.** [Discogs](https://www.discogs.com/release/6796081-Dexter-Gordon-Go)
@@ -127,3 +129,12 @@ Japanese Blue Note pressings of *Go!* – primarily from Toshiba-EMI and King Re
 | **C** | Liberty-era pressing (VG-stamped) | BST 84112 | 1966–71 | Stereo, 33⅓ | RVG East Coast (if stamped) | Check deadwax; $50–$120 VG+ | [Discogs](https://www.discogs.com/release/4515555-Dexter-Gordon-Go) |
 | **D** | 1985 German DMM pressing | BST-84112 | 1985 | Stereo, 33⅓ | DMM mastering | Specifically noted as inferior to Japanese; avoid; $15–$35 | [Discogs](https://www.discogs.com/release/3419426-Dexter-Gordon-Go) |
 | **F** | Generic EU reissues (DOL, Waxtime, etc.) | Various | 2000s+ | Various | Digital, unlicensed | Avoid; typically under $20 | – |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/121331-Dexter-Gordon-Go](https://www.discogs.com/master/121331-Dexter-Gordon-Go)
+- Blue Note official blog, "Summer of '62: Dexter Gordon": [https://www.bluenote.com/spotlight/summer-of-62-dexter-gordon/](https://www.bluenote.com/spotlight/summer-of-62-dexter-gordon/)
+- Everything Jazz, "Go: How Dexter Gordon Created His Masterpiece": [https://www.everythingjazz.com/story/go-how-dexter-gordon-created-his-masterpiece/](https://www.everythingjazz.com/story/go-how-dexter-gordon-created-his-masterpiece/)
+- LondonJazzCollector, "BN 4112 Dexter Gordon Go (1962)": [https://londonjazzcollector.wordpress.com/2011/10/16/bn-4112-dexter-gordon-go-1962/](https://londonjazzcollector.wordpress.com/2011/10/16/bn-4112-dexter-gordon-go-1962/)
+- Discogs release and community listings for all pressings referenced in the tier table above (original BLP 4112/BST 84112, AP 45rpm AP-84112, Music Matters MM33 BNST-84112, Blue Note Classic Vinyl, Japanese Toshiba/King pressings, 1985 German DMM)
+- YouTube, Vinyl Rules OK, "Dexter Gordon's 'Go' - Blue Note Classic v Analogue Productions vinyl shootout": [https://www.youtube.com/watch?v=ZGPSIIFCUEI](https://www.youtube.com/watch?v=ZGPSIIFCUEI)
