@@ -24,6 +24,14 @@ The album topped Billboard's Jazz Best Sellers chart, reached number 12 on the p
 
 **Catalogue: MG V-4003** (also printed MGV-4003, MGV 4003 depending on pressing). True first pressings carry an orange-and-black "T" label design; a later 1950s repress used a black-and-silver "T" label variant, both sonically comparable since they derive from the same metalwork. This was a genuinely popular record in its day and consequently was played hard on mediocre equipment by many original owners – clean copies in better than VG+ are reported as difficult to find even by dedicated collectors, and asking prices for presentable copies commonly exceed $100. **NM originals: $150–$400+, when found.**
 
+### UK original: His Master's Voice CLP 1098 (December 1956)
+
+Licensed via the Verve Series and manufactured by The Gramophone Co. Ltd., this UK pressing was issued the same month as the US original – a genuine period-contemporary alternative rather than a later reissue, for buyers in or shipping from the UK/Europe. [Discogs](https://www.discogs.com/release/4849512-Ella-Fitzgerald-Louis-Armstrong-Ella-And-Louis) lists matrix/runouts MGV 4003-A-1N and MGV 4003-B-1N. No dedicated sound-quality comparison against the US original has surfaced; treat it as a collectible period pressing rather than a confirmed audiophile alternative. **Typically $50–$150 depending on condition.**
+
+### French Barclay pressing – pressed from the original US stampers
+
+A less commonly discussed option: [one detailed collector account](https://jazzcollector.com/blue-note/ella-and-louis-as-rare-jazz-vinyl/) describes a French Barclay pressing sourced from the original US Verve stampers rather than a separate transfer, on notably heavier vinyl than the US pressing, and reports it "sounds great." A useful way to identify a copy: the cover photo is a different frame from the same photo session as the US cover, with Fitzgerald and Armstrong in slightly different positions – not a reprint of the identical US photo. No specific catalogue number confirmed.
+
 ---
 
 ## The reissue hierarchy
@@ -38,7 +46,7 @@ The album topped Billboard's Jazz Best Sellers chart, reached number 12 on the p
 
 ### Verve Acoustic Sounds Series (2022) – the best-value modern option
 
-**Format: 180g LP, 33⅓, mono, tip-on gatefold sleeve.** **Mastered by Ryan K. Smith at Sterling Sound, from the original analog tapes, pressed at Quality Record Pressings (QRP).** AnalogPlanet rated it 10/11 for music and 8/11 for sonics. Reviews are enthusiastic and consistent: "dead flat and virtually silent... a remarkably wide, deep, almost holographic presentation that hardly seems possible for mono," with the deluxe gatefold packaging – a significant upgrade over the single-pocket sleeve of the 1956 original – repeatedly singled out for praise. A handful of owners report minor surface pops or slight warping on individual copies, typical low-level variance for a modern pressing rather than a systemic issue. [Discogs](https://www.discogs.com/release/23904962-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) **$35–$40 new.**
+**Format: 180g LP, 33⅓, mono, tip-on gatefold sleeve.** **Mastered by Ryan K. Smith at Sterling Sound, from the original analog tapes, pressed at Quality Record Pressings (QRP).** [AnalogPlanet's Mark Smotroff rated it](https://www.analogplanet.com/content/ella-and-louis-serve-sweet-n-salty-vocals-side-rich-trumpet-terrific-verve-acoustic-sounds) 10/11 for music and 8/11 for sonics, and noted the pressing reproduces the early orange-and-yellow Verve label design used on some pressings from this era, rather than the more common black label. Reviews are enthusiastic and consistent: "dead flat and virtually silent... a remarkably wide, deep, almost holographic presentation that hardly seems possible for mono," with the deluxe gatefold packaging – a significant upgrade over the single-pocket sleeve of the 1956 original – repeatedly singled out for praise. A handful of owners report minor surface pops or slight warping on individual copies, typical low-level variance for a modern pressing rather than a systemic issue. [One reviewer](https://www.youtube.com/watch?v=Us5Z8DiRNNw) who owns an original pressing directly compared the two: the original "does sound quite good, especially for when it was recorded," but the Acoustic Sounds edition pulled ahead on fine vocal detail – he pointed specifically to Louis Armstrong's entrance on "Isn't It a Lovely Day," where the texture and attack of his voice came through with noticeably more resolution on the new pressing. [Discogs](https://www.discogs.com/release/23904962-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) **$35–$40 new.**
 
 ---
 
@@ -51,7 +59,9 @@ Numerous European reissues circulate from the 1960s–80s on Verve/MGM-distribut
 ## Buyer's guide by budget
 
 **Under $40:** The [**Verve Acoustic Sounds Series (2022)**](https://www.discogs.com/release/23904962-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) – excellent mastering, deluxe packaging, and the easy recommendation for most buyers.
+
 **$100–$200:** The [**Analogue Productions 45rpm 2LP**](https://www.discogs.com/release/3513495-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) on the secondary market, for the outright best-sounding version of this session.
+
 **$150–$400:** A clean original [**Verve MG V-4003, orange/black "T" label**](https://www.discogs.com/release/10538384-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) – be prepared to search patiently for a presentable copy.
 
 ---
@@ -60,14 +70,18 @@ Numerous European reissues circulate from the 1960s–80s on Verve/MGM-distribut
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Analogue Productions 45rpm 2LP | AVRJ 4003-45 | 2011 | Mono, 45rpm, 2×200g | Orig tape → George Marino, Sterling Sound | Widely rated best-sounding version; $100–$200 secondary | [Discogs](https://www.discogs.com/release/3513495-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) |
-| **A** | Verve Acoustic Sounds Series | – | 2022 | Mono, 33⅓, 180g | Orig tape → Ryan K. Smith, Sterling Sound, QRP | Best value; deluxe gatefold; $35–$40 new | [Discogs](https://www.discogs.com/release/23904962-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) |
-| **A** | Speakers Corner | 009 4003 | 2000 | Mono, 33⅓, 180g | Orig tape, Virgin Vinyl | OOP; solid but slightly more sibilant than later reissues per direct comparison; $60–$120 | [Discogs](https://www.discogs.com/release/2980546-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) |
-| **A** | Original Verve mono, orange/black "T" label | MG V-4003 | 1956 | Mono, 33⅓ | Original 1956 mastering | Genuinely scarce in clean condition; $150–$400+ | [Discogs](https://www.discogs.com/release/10538384-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) |
-| **B** | Later black/silver "T" label repress | MG V-4003 | c.1957–60 | Mono, 33⅓ | Same metalwork as original | Sonically comparable to first pressing; $60–$150 | [Discogs](https://www.discogs.com/release/16508523-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) |
-| **C** | European MGM/Verve reissues | Various | 1960s–80s | Mono, 33⅓ | Licensed European pressings | Variable quality; affordable; verify not mislabeled "stereo"; $20–$50 | [Discogs](https://www.discogs.com/release/3877405-Ella-Fitzgerald-Louis-Armstrong-Ella-And-Louis) |
+| **S** | Analogue Productions 45rpm 2LP | AVRJ 4003-45 | 2011 | Mono, 45rpm, 12", 2×200g | Orig tape → George Marino, Sterling Sound | Widely rated best-sounding version; $100–$200 secondary | [Discogs](https://www.discogs.com/release/3513495-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) |
+| **A** | Verve Acoustic Sounds Series | – | 2022 | Mono, 33⅓, 12", 180g | Orig tape → Ryan K. Smith, Sterling Sound, QRP | Best value; deluxe gatefold; $35–$40 new | [Discogs](https://www.discogs.com/release/23904962-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) |
+| **A** | Speakers Corner | 009 4003 | 2000 | Mono, 33⅓, 12", 180g | Orig tape, Virgin Vinyl | OOP; solid but slightly more sibilant than later reissues per direct comparison; $60–$120 | [Discogs](https://www.discogs.com/release/2980546-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) |
+| **A** | Original Verve mono, orange/black "T" label | MG V-4003 | 1956 | Mono, 33⅓, 12" | Original 1956 mastering | Genuinely scarce in clean condition; $150–$400+ | [Discogs](https://www.discogs.com/release/10538384-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) |
+| **B** | UK original, His Master's Voice | CLP 1098 | 1956 | Mono, 33⅓, 12" | Same period master, licensed UK pressing | Period-contemporary UK alternative; no confirmed A/B vs. US original; $50–$150 | [Discogs](https://www.discogs.com/release/4849512-Ella-Fitzgerald-Louis-Armstrong-Ella-And-Louis) |
+| **B** | Later black/silver "T" label repress | MG V-4003 | c.1957–60 | Mono, 33⅓, 12" | Same metalwork as original | Sonically comparable to first pressing; $60–$150 | [Discogs](https://www.discogs.com/release/16508523-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) |
+| **C** | European MGM/Verve reissues | Various | 1960s–80s | Mono, 33⅓, 12" | Licensed European pressings | Variable quality; affordable; verify not mislabeled "stereo"; $20–$50 | [Discogs](https://www.discogs.com/release/3877405-Ella-Fitzgerald-Louis-Armstrong-Ella-And-Louis) |
 
 ## References
 
 - Discogs (master): [https://www.discogs.com/master/173462-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis](https://www.discogs.com/master/173462-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis)
+- AnalogPlanet, "Ella And Louis Serve Up Sweet 'N' Salty Vocals With a Side of Rich Trumpet for This Terrific Verve & Acoustic Sounds Mono 180g LP Reissue": [https://www.analogplanet.com/content/ella-and-louis-serve-sweet-n-salty-vocals-side-rich-trumpet-terrific-verve-acoustic-sounds](https://www.analogplanet.com/content/ella-and-louis-serve-sweet-n-salty-vocals-side-rich-trumpet-terrific-verve-acoustic-sounds)
+- jazzcollector.com, "Ella and Louis as Rare Jazz Vinyl": [https://jazzcollector.com/blue-note/ella-and-louis-as-rare-jazz-vinyl/](https://jazzcollector.com/blue-note/ella-and-louis-as-rare-jazz-vinyl/)
 - YouTube, 45 RPM Audiophile, "Acoustic Sound Series: Ella Fitzgerald & Louis Armstrong vs Analogue Production 45 rpm": [https://www.youtube.com/watch?v=YuVJpQmO73c](https://www.youtube.com/watch?v=YuVJpQmO73c)
+- YouTube, WCB Jazz Vinyl, "Top Jazz Vinyl Reissues of 2022": [https://www.youtube.com/watch?v=Us5Z8DiRNNw](https://www.youtube.com/watch?v=Us5Z8DiRNNw)
