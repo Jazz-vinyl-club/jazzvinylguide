@@ -60,10 +60,10 @@ No specific bootleg is widely documented, though given the recording's unusual r
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **B** | Original Columbia mono | CL 883 | 1955/56 | Mono, 33⅓, 12" | Original single-mic radio recording | Genuinely attainable; large original pressing run; $30–$80 NM | [Discogs](https://www.discogs.com/release/636663-Erroll-Garner-Concert-By-The-Sea) |
-| **B** | The Complete Concert by the Sea | 8875139881 | 2015 | Processed stereo, 33⅓, 12", 180g, 2×LP | Rediscovered tape, Plangent Process remaster | Expanded program; enhanced-stereo treatment of mono source; $40–$70 | [Discogs](https://www.discogs.com/release/7848894-Erroll-Garner-The-Complete-Concert-By-The-Sea) |
-| **C** | Later Columbia label-variant repress | CL 883 | 1960s–70s | Mono, 33⅓, 12" | Same metalwork lineage | Budget option; $15–$40 | – |
-| **F** | Columbia electronically rechanneled "stereo" | CS 9821 | 1969 | Fake stereo, 33⅓, 12" | Reprocessed from mono original | Not a genuine stereo recording; some copies also noticeably sped up; period curiosity only; ~$10–$25 | – |
+| **B** | Original Columbia mono | CL 883 | 1955/56 | Mono, 33⅓ | Original single-mic radio recording | Genuinely attainable; large original pressing run; $30–$80 NM | [Discogs](https://www.discogs.com/release/636663-Erroll-Garner-Concert-By-The-Sea) |
+| **B** | The Complete Concert by the Sea | 8875139881 | 2015 | Processed stereo, 33⅓, 180g, 2×LP | Rediscovered tape, Plangent Process remaster | Expanded program; enhanced-stereo treatment of mono source; $40–$70 | [Discogs](https://www.discogs.com/release/7848894-Erroll-Garner-The-Complete-Concert-By-The-Sea) |
+| **C** | Later Columbia label-variant repress | CL 883 | 1960s–70s | Mono, 33⅓ | Same metalwork lineage | Budget option; $15–$40 | – |
+| **F** | Columbia electronically rechanneled "stereo" | CS 9821 | 1969 | Fake stereo, 33⅓ | Reprocessed from mono original | Not a genuine stereo recording; some copies also noticeably sped up; period curiosity only; ~$10–$25 | – |
 
 ## References
 

@@ -125,5 +125,5 @@ Japanese Blue Note pressings of *Go!* – primarily from Toshiba-EMI and King Re
 | **B** | Japanese Toshiba/King pressing | Various | 1970s–80s | Stereo, 33⅓ | Licensed Japanese pressing | Dead-quiet; warm; $40–$100 with obi | [Discogs](https://www.discogs.com/release/6796081-Dexter-Gordon-Go) |
 | **C** | Blue Note Classic Vinyl 180g | BST 84112 | 2021 | Stereo, 33⅓, 180g | Orig tapes → Kevin Gray, Cohearent, Optimal | QC variation documented; buy with returns; ~$25–$35 | [Discogs](https://www.discogs.com/release/19583212-Dexter-Gordon-Go) |
 | **C** | Liberty-era pressing (VG-stamped) | BST 84112 | 1966–71 | Stereo, 33⅓ | RVG East Coast (if stamped) | Check deadwax; $50–$120 VG+ | [Discogs](https://www.discogs.com/release/4515555-Dexter-Gordon-Go) |
-| **D** | 1985 German DMM pressing | BST-84112 | 1985 | Stereo, 33⅓ | DMM mastering | Specifically noted as inferior to Japanese; avoid | [Discogs](https://www.discogs.com/release/3419426-Dexter-Gordon-Go) |
-| **F** | Generic EU reissues (DOL, Waxtime, etc.) | Various | 2000s+ | Various | Digital, unlicensed | Avoid | – |
+| **D** | 1985 German DMM pressing | BST-84112 | 1985 | Stereo, 33⅓ | DMM mastering | Specifically noted as inferior to Japanese; avoid; $15–$35 | [Discogs](https://www.discogs.com/release/3419426-Dexter-Gordon-Go) |
+| **F** | Generic EU reissues (DOL, Waxtime, etc.) | Various | 2000s+ | Various | Digital, unlicensed | Avoid; typically under $20 | – |
