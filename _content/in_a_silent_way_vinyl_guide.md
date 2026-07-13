@@ -75,6 +75,10 @@ The album's quiet, textured character – sustained tones, minimal attack, deep 
 
 A **revised edition** ([r33400274](https://www.discogs.com/release/33400274-Miles-Davis-In-A-Silent-Way)) with a new barcode and explicit DSD disclosure on the packaging was issued subsequently. Both are sonically identical; the revised edition is more transparent about the mastering chain.
 
+### Vinyl Me, Please – "Miles Davis: The Electric Years" box (2023) – box-only, but a real modern AAA option
+
+**Cat. 19658755751** (In a Silent Way disc within the set) | Format: 180g LP, 33⅓, stereo, part of an 11-LP, 7-album box. **Mastered AAA by Ryan Smith at Sterling Sound, from 1-to-1 tape transfers of the original master tapes. Pressed at GZ.** Limited to 2,000 numbered box sets. Reproduces the original two-eye label design rather than the later 360 Sound Columbia label. [One detailed comparison](https://www.youtube.com/watch?v=1-H47BmEs9I) against a 1970s Columbia repress (not a true two-eye original) found the two "very very close in terms of their sound quality," with a slight edge to the VMP disc for instrument separation. Not available as a standalone LP – only as part of the full box, which also includes *Bitches Brew*, *A Tribute to Jack Johnson*, *Live-Evil*, *On the Corner*, *Big Fun*, and *Get Up With It*. Worth knowing about primarily if you're already considering the box for the wider catalogue, not as a dedicated way to acquire this specific title alone. **Box set only, not sold separately; original box price ~$400, secondary market varies.**
+
 ### Japanese CBS/Sony 25AP 770 (1977) – the vintage alternative
 
 **Cat. 25AP 770** | Format: 33⅓, stereo, obi strip. **CBS/Sony Inc., Tokyo Japan.** The 1977 Japanese CBS/Sony pressing (cat. **25AP 770**, part of the xxAP 700 series) is consistently praised for its faithful, spacious reproduction. [Discogs r3548638](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way) "The mastering feels very close to the original tape character with minimal digital processing. No loudness, no harsh EQ, no listening fatigue. For listeners who value atmosphere and analog realism over modern hi-fi fireworks, this is easily a reference-quality version of the album." Dynamic Range measurement: DR12. One owner: "Most of the time, to my ears, a 1970s reissue is better than a modern recording." Dead-quiet CBS/Sony vinyl. **$30–$80 NM with obi.** [Discogs r3548638](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way)
@@ -112,5 +116,16 @@ A **revised edition** ([r33400274](https://www.discogs.com/release/33400274-Mile
 | **B** | Japanese CBS/Sony 25AP 770 | 25AP 770 | 1977 | Stereo, 33⅓ | Licensed Japanese pressing | DR12; "reference quality"; $30–$80 with obi | [Discogs](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way) |
 | **B** | European/Dutch CBS original | S 63630 | 1969 | Stereo, 33⅓ | CBS European lacquer | "Fresh, big, warm, punchy"; significant discount vs US; $30–$80 VG+ | [Discogs](https://www.discogs.com/release/395634-Miles-Davis-In-A-Silent-Way) |
 | **C** | 1971 Columbia one-eye reissue | CS 9875 | 1971 | Stereo, 33⅓ | Same stampers as two-eye | Check for original stampers; $20–$50 VG+ | [Discogs](https://www.discogs.com/release/15107481-Miles-Davis-In-A-Silent-Way) |
-| **D** | 1980s–90s Columbia reissues | Various | 1980s–90s | Stereo, 33⅓ | Digital transfers | Not recommended | – |
-| **F** | Generic EU reissues (DOL, Waxtime, etc.) | Various | 2000s+ | Various | Digital, unlicensed | Avoid | – |
+| **D** | 1980s–90s Columbia reissues | Various | 1980s–90s | Stereo, 33⅓ | Digital transfers | Not recommended; $10–$25 | – |
+| **F** | Generic EU reissues (DOL, Waxtime, etc.) | Various | 2000s+ | Various | Digital, unlicensed | Avoid; typically under $20 | – |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/8408-Miles-Davis-In-A-Silent-Way](https://www.discogs.com/master/8408-Miles-Davis-In-A-Silent-Way)
+- Jarrett House North, "Miles Davis, In a Silent Way": [https://jarretthousenorth.com/2022/08/20/miles-davis-in-a-silent-way/](https://jarretthousenorth.com/2022/08/20/miles-davis-in-a-silent-way/)
+- Stylus Magazine, Nick Southall, "Miles Davis: In a Silent Way" (2003): [http://www.stylusmagazine.com/articles/miles-davis/in-a-silent-way.htm](http://www.stylusmagazine.com/articles/miles-davis/in-a-silent-way.htm)
+- AllMusic, review of "In a Silent Way": [https://www.allmusic.com/album/in-a-silent-way-mw0000188020](https://www.allmusic.com/album/in-a-silent-way-mw0000188020)
+- Classic Album Sundays, "The Story of Miles Davis' In a Silent Way": [https://classicalbumsundays.com/the-story-of-miles-davis-in-a-silent-way/](https://classicalbumsundays.com/the-story-of-miles-davis-in-a-silent-way/)
+- Miles Davis official site, album page for "In a Silent Way": [https://www.milesdavis.com/albums/in-a-silent-way/](https://www.milesdavis.com/albums/in-a-silent-way/)
+- Discogs release and community listings for all pressings referenced in the tier table above (original two-eye CS 9875, European/Dutch S 63630, 1971 one-eye, Mobile Fidelity MFSL 1-377, Japanese CBS/Sony 25AP 770)
+- YouTube, Pieces of Vinyl, "Miles Davis: The Electric Years • Vinyl Me, Please A017 • Review": [https://www.youtube.com/watch?v=1-H47BmEs9I](https://www.youtube.com/watch?v=1-H47BmEs9I)
