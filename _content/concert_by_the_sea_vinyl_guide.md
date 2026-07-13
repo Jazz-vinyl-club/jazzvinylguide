@@ -24,6 +24,8 @@ For the album's 60th anniversary, the Erroll Garner Jazz Project (with pianist a
 
 **Cat. CL 883**, mono, red/black "six-eye" Columbia label. A genuine multi-microphone stereo mix of this recording has never existed, consistent with the recording's single-microphone radio origins. Owners consistently describe it as "fresh and crisp" for a mono recording of this vintage, if inherently limited in soundstage given the source. Because of the album's enormous and sustained commercial success, it was repressed steadily for years; later-1960s and 1970s Columbia label variants of the same mono mix also circulate. Note: Columbia did issue a "stereo" pressing in 1969 (cat. CS 9821) – this is an electronically rechanneled/reprocessed fake stereo, not a genuine stereo recording, and isn't sought after for sound quality; see "Pressings to avoid" below. **NM originals: $30–$80**, reflecting the very large original and ongoing pressing runs relative to rarer period jazz titles.
 
+**Identifying an early pressing:** matrix/runout suffix numbers give a rough sense of how many generations removed from the original lacquer your copy is. [One detailed collector account](https://raggywaltz.com/2017/04/05/concert-by-the-sea-erroll-garner/) describes a six-eye mono original with runouts ending 1C (side 1) and 1A (side 2) – i.e. among the earliest stampers cut. By contrast, that same collector's 1969 CS 9821 fake-stereo copy carries runouts ending 4B/4D, a later-generation stamper, and was also noticeably sped up compared to the original – a second, independent flaw beyond the fake-stereo processing itself. Lower suffix numbers generally indicate an earlier pressing run, though this isn't an exact science across all Columbia pressing plants.
+
 ---
 
 ## The Complete Concert by the Sea (2015) – the expanded vinyl option
@@ -32,9 +34,15 @@ For the album's 60th anniversary, the Erroll Garner Jazz Project (with pianist a
 
 ---
 
+## A historical curiosity: the UK Philips 7" EP (1958)
+
+Not a full-album pressing and not part of the tier table below, but worth knowing about if you come across one: Philips issued a 3-track 45rpm 7" EP in the UK, cat. BBE 12184 (also catalogued as 429 394 BE), collecting "Where Or When," "I'll Remember April," and "Autumn Leaves." A period-specific format footnote for the album's original release era rather than a practical way to hear the album – confirmed via [Discogs](https://www.discogs.com/release/9333998-Erroll-Garner-Concert-By-The-Sea) and period retailer listings.
+
+---
+
 ## Pressings to avoid
 
-**Columbia CS 9821 (1969, "stereo"):** An electronically rechanneled/reprocessed fake stereo pressing of the mono original. As with similar period "fake stereo" reissues of other mono jazz recordings, this is a period curiosity rather than a sound-quality upgrade – seek an original mono CL 883 instead.
+**Columbia CS 9821 (1969, "stereo"):** An electronically rechanneled/reprocessed fake stereo pressing of the mono original. As with similar period "fake stereo" reissues of other mono jazz recordings, this is a period curiosity rather than a sound-quality upgrade – seek an original mono CL 883 instead. [At least one detailed A/B comparison](https://raggywaltz.com/2017/04/05/concert-by-the-sea-erroll-garner/) found a copy of this pressing noticeably sped up relative to the mono original – a second, independent problem beyond the fake-stereo processing itself, though this may not affect every copy equally.
 
 No specific bootleg is widely documented, though given the recording's unusual radio-broadcast origin story, buyers should be aware that unofficial tape circulation was always a risk this title's history acknowledges directly – Glaser's securing of the master tape from Thornbury was explicitly done to prevent exactly that outcome.
 
@@ -43,6 +51,7 @@ No specific bootleg is widely documented, though given the recording's unusual r
 ## Buyer's guide by budget
 
 **Under $40:** A clean original [**Columbia mono, CL 883**](https://www.discogs.com/release/636663-Erroll-Garner-Concert-By-The-Sea) – genuinely attainable given the scale of this title's original and ongoing pressing runs.
+
 **$40–$70:** [**The Complete Concert by the Sea (2015)**](https://www.discogs.com/release/7848894-Erroll-Garner-The-Complete-Concert-By-The-Sea) 2LP set, for the expanded program and enhanced-stereo presentation – a different, not strictly superior, listening experience.
 
 ---
@@ -51,10 +60,10 @@ No specific bootleg is widely documented, though given the recording's unusual r
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **B** | Original Columbia mono | CL 883 | 1955/56 | Mono, 33⅓ | Original single-mic radio recording | Genuinely attainable; large original pressing run; $30–$80 NM | [Discogs](https://www.discogs.com/release/636663-Erroll-Garner-Concert-By-The-Sea) |
-| **B** | The Complete Concert by the Sea | 8875139881 | 2015 | Processed stereo, 33⅓, 180g, 2xLP | Rediscovered tape, Plangent Process remaster | Expanded program; enhanced-stereo treatment of mono source; $40–$70 | [Discogs](https://www.discogs.com/release/7848894-Erroll-Garner-The-Complete-Concert-By-The-Sea) |
-| **C** | Later Columbia label-variant repress | CL 883 | 1960s–70s | Mono, 33⅓ | Same metalwork lineage | Budget option; $15–$40 | – |
-| **F** | Columbia electronically rechanneled "stereo" | CS 9821 | 1969 | Fake stereo, 33⅓ | Reprocessed from mono original | Not a genuine stereo recording; period curiosity only | – |
+| **B** | Original Columbia mono | CL 883 | 1955/56 | Mono, 33⅓, 12" | Original single-mic radio recording | Genuinely attainable; large original pressing run; $30–$80 NM | [Discogs](https://www.discogs.com/release/636663-Erroll-Garner-Concert-By-The-Sea) |
+| **B** | The Complete Concert by the Sea | 8875139881 | 2015 | Processed stereo, 33⅓, 12", 180g, 2×LP | Rediscovered tape, Plangent Process remaster | Expanded program; enhanced-stereo treatment of mono source; $40–$70 | [Discogs](https://www.discogs.com/release/7848894-Erroll-Garner-The-Complete-Concert-By-The-Sea) |
+| **C** | Later Columbia label-variant repress | CL 883 | 1960s–70s | Mono, 33⅓, 12" | Same metalwork lineage | Budget option; $15–$40 | – |
+| **F** | Columbia electronically rechanneled "stereo" | CS 9821 | 1969 | Fake stereo, 33⅓, 12" | Reprocessed from mono original | Not a genuine stereo recording; some copies also noticeably sped up; period curiosity only; ~$10–$25 | – |
 
 ## References
 
@@ -62,3 +71,4 @@ No specific bootleg is widely documented, though given the recording's unusual r
 - Wikipedia, "Concert by the Sea": [https://en.wikipedia.org/wiki/Concert_by_the_Sea](https://en.wikipedia.org/wiki/Concert_by_the_Sea)
 - Jazz History Online, "Erroll Garner: The Complete 'Concert by the Sea'": [https://jazzhistoryonline.com/concert-by-the-sea/](https://jazzhistoryonline.com/concert-by-the-sea/)
 - YouTube, calvinwazoo, "Random Pick Monday - Erroll Garner Concert By The Sea": [https://www.youtube.com/watch?v=SaORExAsTeI](https://www.youtube.com/watch?v=SaORExAsTeI)
+- It's A Raggy Waltz, "Concert By The Sea // Erroll Garner": [https://raggywaltz.com/2017/04/05/concert-by-the-sea-erroll-garner/](https://raggywaltz.com/2017/04/05/concert-by-the-sea-erroll-garner/)
