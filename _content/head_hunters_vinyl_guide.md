@@ -44,6 +44,10 @@ The alpha suffix (1A, 1B, 1C) indicates lacquer generation. First-generation lac
 
 **Market values:** Clean first-generation -1A/-1A original: **$20–$60 NM** – this album is still relatively affordable because it was pressed in very large quantities. One Discogs reviewer found a -1A/-1A for **$4** at a local shop. Good copies continue to surface at record fairs and shops for under $30.
 
+### European CBS pressings – same mastering, a real quality gap
+
+A first-pressing European CBS release exists sharing the same stampers/mastering lineage as the first US Columbia pressing, rather than a separate European remaster. [One detailed direct comparison](https://www.youtube.com/watch?v=qgw7wBJ6U3k) between the two found a genuine, audible quality difference despite the shared mastering – the US pressing carried noticeably more fullness and information, particularly audible on the trumpets, while the European pressing sounded comparatively more compressed. This is a pressing-plant difference, not a mastering difference: worth knowing if you're choosing between the two on the secondary market, though the European copy is still a reasonable option in its own right at $20–$25. No specific European catalogue number has been confirmed; look for the shared -1A-style matrix suffix pattern to identify a copy from the same lacquer generation as the sought-after US pressings.
+
 ### CBS/Sony Japanese pressings (1970s–80s)
 
 The first Japanese release was **SOPL-238** (CBS/Sony, 1973), manufactured by CBS/Sony at their Japanese pressing facility. The early Japanese pressing ([r1049796](https://www.discogs.com/release/1049796-Herbie-Hancock-Head-Hunters)) bears matrix `SOPL-238A1 1 A 1`. The Shizuoka CBS/Sony plant was regarded by collectors as among the best vinyl pressing operations in the world – dead-silent surfaces and faithful reproduction are the consistent reports. One Discogs reviewer: "Great sounding Japanese reissue... the snare lacks a bit of snap" compared to the AP, but the vinyl quality is superlative. The CBS logo with Sony branding "CBS/Sony" appears on both cover and labels. **$40–$80 with obi.**
@@ -66,7 +70,7 @@ From [Acoustic Sounds](https://store.acousticsounds.com/d/104680/Herbie_Hancock-
 
 Joseph Taylor at SoundStage! Hi-Fi on what the AP mastering reveals: "Columbia's LP release had decent sound, but Analogue Productions' new vinyl mastering by Ryan Smith at Sterling Sound takes the sound up several notches from there. Harvey Mason's kick drum is too forward on the CD and crowds the music; on AP's LP, it's audible but in support. Reverb is now audible in the notes of Bennie Maupin's sax, and Paul Jackson's bass, still the funk backbone of the album, isn't as overbearing as it now sometimes sounds to me on the CD."
 
-Discogs owners: "Impressive mastering and pressing, one of the best sounding LP I own." "Awesome pressing. I can't even believe it. It almost makes you want to cry when you hear it." One owner who compared the AP 33rpm against a clean 1973 Pitman original chose the AP: "just a bit more refined and smooth but still the magic of the original."
+Discogs owners: "Impressive mastering and pressing, one of the best sounding LP I own." "Awesome pressing. I can't even believe it. It almost makes you want to cry when you hear it." One owner who compared the AP 33rpm against a clean 1973 Pitman original chose the AP: "just a bit more refined and smooth but still the magic of the original." [A direct A/B against a first US pressing](https://www.youtube.com/watch?v=qgw7wBJ6U3k) reached the same verdict from a different angle: more spaciousness and clearer individual-instrument definition (trumpets, keyboard) without artificially separating the mix – "they beat the original."
 
 **$80–$120 secondary market.** Periodically in print from Acoustic Sounds.
 
@@ -113,6 +117,16 @@ One Discogs reviewer who compared it with the Music On Vinyl: "I was able to tel
 | **A** | Original 1973 US, first metalwork | KC 32731 | 1973 | Stereo, 33⅓ | Catero/Columbia lacquer, Pitman or Terre Haute | -1A/-1A preferred; warm and punchy; ~$20–$60 NM | [Discogs](https://www.discogs.com/release/31381-Herbie-Hancock-Head-Hunters) |
 | **B** | CBS/Sony Japan pressing | SOPL-238 | 1973 | Stereo, 33⅓ | CBS/Sony Japan pressing facility | First Japanese issue; excellent surfaces; $40–$80 with obi | [Discogs](https://www.discogs.com/release/1049796-Herbie-Hancock-Head-Hunters) |
 | **B** | CBS/Sony Japan "AP" audiophile series | 25AP 561 | 1977 | Stereo, 33⅓ | CBS/Sony Japan half-speed audiophile series | More collectible than SOPL-238; premium with obi; $50–$100+ | [Discogs](https://www.discogs.com/release/5275186-Herbie-Hancock-Head-Hunters) |
+| **B** | European CBS pressing, shared US stampers | KC 32731 (Euro) | 1973–74 | Stereo, 33⅓ | Same mastering lineage as US original, different pressing plant | Real quality gap vs. US pressing on direct A/B despite shared mastering; no confirmed specific cat#; $20–$25 | – |
 | **C** | Music On Vinyl MOV | Various | 2009 | Stereo, 33⅓, 180g | TuckerSound mastering, not from original tapes | Quiet surfaces; sonically below AP; $15–$25 used | [Discogs](https://www.discogs.com/release/2542733-Herbie-Hancock-Head-Hunters) |
 | **C** | Quadraphonic SQ matrix | PCQ 32731 | 1974 | Quad/stereo, 33⅓ | Original Columbia quad mix, Catero engineer | Contains extra elements not on stereo; decodable with SQ; $15–$40 | [Discogs](https://www.discogs.com/release/1966323-Herbie-Hancock-Head-Hunters) |
 | **D** | Late 1970s+ Columbia reprints | PC/JC 32731 | 1975+ | Stereo, 33⅓ | Later-generation Columbia lacquer, Carrollton plant | Noticeably thinner; budget listening only | – |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/19493-Herbie-Hancock-Head-Hunters](https://www.discogs.com/master/19493-Herbie-Hancock-Head-Hunters)
+- Wikipedia, "Head Hunters": [https://en.wikipedia.org/wiki/Head_Hunters](https://en.wikipedia.org/wiki/Head_Hunters)
+- SoundStage! Hi-Fi, Joseph Taylor's review of the AP 45rpm pressing: [https://www.soundstagehifi.com](https://www.soundstagehifi.com)
+- Acoustic Sounds, product page for the AP 45rpm 2LP: [https://store.acousticsounds.com/d/104680/Herbie_Hancock-Head_Hunters-45_RPM_Vinyl_Record](https://store.acousticsounds.com/d/104680/Herbie_Hancock-Head_Hunters-45_RPM_Vinyl_Record)
+- Discogs release and community listings for all pressings referenced in the tier table above (original KC 32731, AP 45rpm and 33rpm, CBS/Sony Japan SOPL-238 and 25AP 561, Music On Vinyl, quadraphonic PCQ 32731)
+- YouTube, Top 5 Records, "Herbie Hancock - Headhunters - Analogue Productions 45 RPM Vs OG US 1973": [https://www.youtube.com/watch?v=qgw7wBJ6U3k](https://www.youtube.com/watch?v=qgw7wBJ6U3k)
