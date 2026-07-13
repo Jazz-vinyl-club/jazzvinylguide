@@ -168,7 +168,7 @@ def build_album(album):
             cover_html = ''
 
     last_updated = get_last_updated(album['content_file'])
-    updated_html = f'<p class="last-updated">Last updated: {last_updated}</p>' if last_updated else ''
+    updated_html = f'<p class="last-updated">Last updated: {last_updated} · <a class="changelog-link" href="/albums/{slug}-changelog.html">update history</a></p>' if last_updated else f'<p class="last-updated"><a class="changelog-link" href="/albums/{slug}-changelog.html">update history</a></p>'
 
     github_url = f"{GITHUB_BASE}/{album['content_file']}"
     body = f'''<div class="album-page">
@@ -205,6 +205,73 @@ def build_album(album):
     with open(out, 'w') as f:
         f.write(html_shell(title, album['description'], body))
     print(f"  ✓ albums/{slug}.html")
+
+
+def fetch_full_commit_history(filename):
+    """Fetch full commit history (sha, date, message) for a content file from GitHub API.
+    Returns a list of dicts, most recent first. Empty list on any failure."""
+    try:
+        tok = os.environ.get("GITHUB_TOKEN", "")
+        api_url = GITHUB_API + "?path=_content/" + filename + "&per_page=100"
+        hdr = {"Accept": "application/vnd.github.v3+json"}
+        if tok:
+            hdr["Authorization"] = "token " + tok
+        req = urllib.request.Request(api_url, headers=hdr)
+        with urllib.request.urlopen(req, timeout=10) as r:
+            commits = json.loads(r.read())
+        out = []
+        for c in commits:
+            date_str = c["commit"]["committer"]["date"]
+            dt = datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%SZ")
+            out.append({
+                "sha": c["sha"][:7],
+                "date": dt.strftime("%B %d, %Y"),
+                "time": dt.strftime("%H:%M UTC"),
+                "message": c["commit"]["message"],
+            })
+        return out
+    except Exception:
+        return []
+
+
+def build_changelog(album):
+    """Build the hidden per-album changelog page at /albums/<slug>-changelog.html.
+    Not linked from primary nav; reachable from status.html and a subtle link
+    on the album page itself."""
+    slug, title = album["slug"], album["title"]
+    commits = fetch_full_commit_history(album["content_file"])
+    if not commits:
+        rows = "<tr><td colspan=\"3\">No commit history available.</td></tr>"
+    else:
+        rows = ""
+        for i, c in enumerate(commits):
+            version_label = f"v{len(commits) - i}"
+            # Preserve line breaks in multi-paragraph commit messages as separate lines.
+            msg_html = "<br>".join(
+                m.strip().replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+                for m in c["message"].split("\n") if m.strip()
+            )
+            rows += (
+                "<tr><td class=\"changelog-date\">" + c["date"] + "<br>"
+                "<span class=\"changelog-time\">" + c["time"] + "</span></td>"
+                "<td class=\"changelog-version\">" + version_label
+                + " <span class=\"changelog-sha\">(" + c["sha"] + ")</span></td>"
+                "<td class=\"changelog-notes\">" + msg_html + "</td></tr>\n"
+            )
+    body = (
+        "<div class=\"status-page\">"
+        "<a class=\"album-header__back\" href=\"/albums/" + slug + ".html\">&larr; Back to guide</a>"
+        "<h1 class=\"status-title\">" + title + " &mdash; Update Log</h1>"
+        "<p class=\"status-subtitle\">Every recorded change to this guide's content, most recent first. "
+        "Auto-generated from git history on every build.</p>"
+        "<table class=\"status-table changelog-table\"><colgroup><col><col><col></colgroup>"
+        "<thead><tr><th>Date &amp; time</th><th>Version</th><th>Notes</th></tr></thead>"
+        "<tbody>" + rows + "</tbody></table></div>"
+    )
+    out = os.path.join(OUTPUT_DIR, "albums", f"{slug}-changelog.html")
+    with open(out, "w") as f:
+        f.write(html_shell(title + " Update Log", "Update history for the " + title + " vinyl pressing guide.", body))
+    print(f"  ✓ albums/{slug}-changelog.html")
 
 
 def fetch_commit_history(filename):
@@ -257,7 +324,8 @@ def build_status(albums):
         else:
             fc = "<td class=\"status-no\">&#8212;</td>"
         link = "<a href=\"/albums/" + a["slug"] + ".html\">" + a["title"] + "</a>"
-        rows += ("<tr><td>" + link + "</td><td>" + a["artist"] + "</td>"
+        history_link = " <a class=\"changelog-link\" href=\"/albums/" + a["slug"] + "-changelog.html\">(history)</a>"
+        rows += ("<tr><td>" + link + history_link + "</td><td>" + a["artist"] + "</td>"
                  + "<td class=\"status-date\">" + (first or "&#8212;") + "</td>"
                  + dc + fc + "</tr>\n")
     from datetime import datetime, timezone
@@ -287,6 +355,7 @@ def main():
             print(f"Not found: {target}"); sys.exit(1)
         print(f"Building {target}...")
         build_album(match[0])
+        build_changelog(match[0])
         build_index(albums)
     else:
         print("Building all pages...")
@@ -294,6 +363,7 @@ def main():
         build_status(albums)
         for a in albums:
             build_album(a)
+            build_changelog(a)
     print("\nDone.")
 
 if __name__ == "__main__":

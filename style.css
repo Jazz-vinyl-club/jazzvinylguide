@@ -182,3 +182,15 @@ a:hover { color: var(--paper); }
 .status-no { color: var(--grey); }
 .status-date { font-size: 0.72rem; color: var(--grey); display: block; margin-top: 0.15rem; font-family: var(--mono); }
 .status-table td.status-yes, .status-table td.status-no { vertical-align: middle; }
+
+/* Per-album changelog page */
+.changelog-link { font-size: 0.7rem; color: var(--grey); text-decoration: underline; }
+.changelog-link:hover { color: var(--gold); }
+.changelog-table col:nth-child(1) { width: 20%; }
+.changelog-table col:nth-child(2) { width: 12%; }
+.changelog-table col:nth-child(3) { width: 68%; }
+.changelog-date { font-family: var(--mono); font-size: 0.8rem; white-space: nowrap; }
+.changelog-time { font-size: 0.7rem; color: var(--grey); }
+.changelog-version { font-family: var(--mono); font-size: 0.8rem; white-space: nowrap; }
+.changelog-sha { font-size: 0.7rem; color: var(--grey); }
+.changelog-notes { line-height: 1.55; }
