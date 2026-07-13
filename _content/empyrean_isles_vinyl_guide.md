@@ -32,11 +32,15 @@ Freddie Hubbard, playing cornet rather than his usual trumpet for a warmer, more
 
 ### Blue Note Classic Vinyl – the recommended entry point
 
-**Format: 180g LP, stereo. Mastered by Kevin Gray, from the original master tapes.** One especially detailed owner review calls it flatly one of the best-sounding entries in the whole Classic Vinyl series: "there is no way any other version is as free of background noise, making me able to hear Ron Carter's jaw dropping bass solo on 'Oliloqui Valley' like never before." At least one reviewer has reported an individual copy shipping with minor cosmetic surface scuffs – an isolated report, not evidence of a systemic issue like the 75th Anniversary series below, but worth knowing if you're buying without a return option. **$25–$40 new.**
+**Format: 180g LP, stereo. Mastered by Kevin Gray, from the original master tapes.** One especially detailed owner review calls it flatly one of the best-sounding entries in the whole Classic Vinyl series: "there is no way any other version is as free of background noise, making me able to hear Ron Carter's jaw dropping bass solo on 'Oliloqui Valley' like never before." [At least one reviewer](https://www.youtube.com/watch?v=Z4H_1T3PGnI) has reported an individual copy shipping with minor cosmetic surface scuffs – an isolated report, not evidence of a systemic issue like the 75th Anniversary series below, but worth knowing if you're buying without a return option. **$25–$40 new.**
+
+### Jazz Heritage LP (1991) – the vinyl alternate-takes reissue
+
+**Cat. 912944X** | Format: LP, stereo, expanded reissue. A specialty reissue that's easy to overlook, since it's usually not what people mean by "reissue" for this title, but it fills a real gap: [confirmed via Discogs](https://www.discogs.com/release/4831551) and cross-referenced discography sources, this pressing includes the alternate takes of "One Finger Snap" and "Oliloqui Valley" – material commonly assumed to have first appeared on the 1999 Blue Note Rudy Van Gelder Edition CD, but which was actually already available on vinyl eight years earlier via this Jazz Heritage release. Not a high-fidelity audiophile pick and not widely discussed, but the only vinyl source for the alternate takes if you want them on wax rather than CD. **Pricing not well-established; check current listings.**
 
 ### Mid-1960s to mid-1970s US reissue, dark blue label – an underrated tier
 
-A dark blue Liberty/UA-era label reissue retains the Van Gelder stamp on both sides, since it shares metalwork with the original pressing. As with similarly-treated late represses of other titles in this catalogue, a genuine RVG stamp on a later reissue is a legitimate way to get close to original-pressing sound without first-press pricing. No single confirmed catalogue number; look for the dark blue label design and confirm the RVG stamp in the deadwax yourself. **Prices not well-established in the secondary market; likely $30–$80 depending on condition.**
+A dark blue Liberty/UA-era label reissue retains the Van Gelder stamp on both sides, since it shares metalwork with the original pressing – [confirmed by a dealer inventory video](https://www.youtube.com/watch?v=yikSYWWQ-EY) showing an NM example of this exact variant. As with similarly-treated late represses of other titles in this catalogue, a genuine RVG stamp on a later reissue is a legitimate way to get close to original-pressing sound without first-press pricing. No single confirmed catalogue number; look for the dark blue label design and confirm the RVG stamp in the deadwax yourself. **Prices not well-established in the secondary market; likely $30–$80 depending on condition.**
 
 ### Blue Note 75th Anniversary (2015) – mixed pressing quality
 
@@ -53,8 +57,11 @@ A dark blue Liberty/UA-era label reissue retains the Van Gelder stamp on both si
 ## Buyer's guide by budget
 
 **Under $25:** The **Blue Note 75th Anniversary (2015)** if you find a confirmed clean copy, or prefer buying from a seller with an easy return policy given documented QC variance.
+
 **$25–$40:** The **Blue Note Classic Vinyl** – Kevin Gray mastering, widely praised as one of the finest sounding entries in its series.
+
 **$100–$200:** The [**Music Matters 33⅓ (MMBST-84175)**](https://www.discogs.com/release/6771572-Herbie-Hancock-Empyrean-Isles) on the secondary market – the definitive modern pressing for serious collectors.
+
 **$150–$400:** An original [**Blue Note BST 84175 stereo, Liberty label**](https://www.discogs.com/release/6798808-Herbie-Hancock-Empyrean-Isles) in honest condition, with Van Gelder stamp confirmed.
 
 ---
@@ -63,12 +70,13 @@ A dark blue Liberty/UA-era label reissue retains the Van Gelder stamp on both si
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Music Matters 33⅓ | MMBST-84175 | – | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Cohearent Audio, RTI | Limited/3,500; definitive modern pressing; $100–$200 secondary | [Discogs](https://www.discogs.com/release/6771572-Herbie-Hancock-Empyrean-Isles) |
-| **A** | Original BST 84175 stereo, Liberty label | BST 84175 | 1964 | Stereo, 33⅓ | RVG stamp | Non-DG considered true first per Cohen's guide; $150–$400 NM | [Discogs](https://www.discogs.com/release/6798808-Herbie-Hancock-Empyrean-Isles) |
-| **A** | Original BLP 4175 mono, NY USA label | BLP 4175 | 1964 | Mono, 33⅓ | RVG stamp | $150–$350 NM | [Discogs](https://www.discogs.com/release/1102285-Herbie-Hancock-Empyrean-Isles) |
-| **B** | Blue Note Classic Vinyl | – | – | Stereo, 33⅓, 180g | Orig tape → Kevin Gray | Best value; exceptionally well-reviewed; $25–$40 new | – |
-| **B** | Mid-1960s–70s dark blue label reissue | – | 1966–70s | Stereo, 33⅓ | RVG stamp, same metalwork as original | Underrated; genuine RVG sound without first-press pricing; ~$30–$80 | – |
-| **C** | Blue Note 75th Anniversary | B0022238-01 | 2015 | Stereo, 33⅓, 180g | Orig tape → Bernie Grundman/Chris Bellman | Genuinely split QC reports; buy with return policy; $25–$50 | [Discogs](https://www.discogs.com/release/6595630-Herbie-Hancock-Empyrean-Isles) |
+| **S** | Music Matters 33⅓ | MMBST-84175 | – | Stereo, 33⅓, 12", 180g | Orig tape → Kevin Gray, Cohearent Audio, RTI | Limited/3,500; definitive modern pressing; $100–$200 secondary | [Discogs](https://www.discogs.com/release/6771572-Herbie-Hancock-Empyrean-Isles) |
+| **A** | Original BST 84175 stereo, Liberty label | BST 84175 | 1964 | Stereo, 33⅓, 12" | RVG stamp | Non-DG considered true first per Cohen's guide; $150–$400 NM | [Discogs](https://www.discogs.com/release/6798808-Herbie-Hancock-Empyrean-Isles) |
+| **A** | Original BLP 4175 mono, NY USA label | BLP 4175 | 1964 | Mono, 33⅓, 12" | RVG stamp | $150–$350 NM | [Discogs](https://www.discogs.com/release/1102285-Herbie-Hancock-Empyrean-Isles) |
+| **B** | Blue Note Classic Vinyl | – | – | Stereo, 33⅓, 12", 180g | Orig tape → Kevin Gray | Best value; exceptionally well-reviewed; $25–$40 new | – |
+| **B** | Jazz Heritage LP (alternate takes) | 912944X | 1991 | Stereo, 33⅓, 12" | Expanded reissue | Only vinyl source for the alternate "One Finger Snap"/"Oliloqui Valley" takes; not audiophile-grade | [Discogs](https://www.discogs.com/release/4831551) |
+| **B** | Mid-1960s–70s dark blue label reissue | – | 1966–70s | Stereo, 33⅓, 12" | RVG stamp, same metalwork as original | Underrated; genuine RVG sound without first-press pricing; ~$30–$80 | – |
+| **C** | Blue Note 75th Anniversary | B0022238-01 | 2015 | Stereo, 33⅓, 12", 180g | Orig tape → Bernie Grundman/Chris Bellman | Genuinely split QC reports; buy with return policy; $25–$50 | [Discogs](https://www.discogs.com/release/6595630-Herbie-Hancock-Empyrean-Isles) |
 
 ## References
 
@@ -76,3 +84,5 @@ A dark blue Liberty/UA-era label reissue retains the Van Gelder stamp on both si
 - Discogs release and community listings for all pressings referenced in the tier table above (original BLP 4175/BST 84175, Music Matters MMBST-84175, Blue Note Classic Vinyl, dark blue label reissue, 75th Anniversary B0022238-01)
 - YouTube, JazzLoveJapan, "Herbie Hancock The Empyrean Isles Blue Note RVG US Vinyl LP": [https://www.youtube.com/watch?v=yikSYWWQ-EY](https://www.youtube.com/watch?v=yikSYWWQ-EY)
 - YouTube, Surcos de Jazz, "Herbie Hancock - Empyrean Isles (Blue Note Classic 2023)": [https://www.youtube.com/watch?v=Z4H_1T3PGnI](https://www.youtube.com/watch?v=Z4H_1T3PGnI)
+- YouTube, Ten-Minute Record Reviews, "Herbie Hancock - Empyrean Isles (Episode 153)": [https://www.youtube.com/watch?v=NUoFbRQHHGA](https://www.youtube.com/watch?v=NUoFbRQHHGA)
+- Progrography, "Herbie Hancock - Empyrean Isles (1964) Review": [https://progrography.com/herbie-hancock/herbie-hancock-empyrean-isles-1964/](https://progrography.com/herbie-hancock/herbie-hancock-empyrean-isles-1964/)
