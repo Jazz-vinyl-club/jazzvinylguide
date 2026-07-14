@@ -104,6 +104,8 @@ This pressing is mono – a deliberate curatorial choice by VMP that has generat
 
 The case for the VMP is not purely sonic – it is also curatorial. The mono was the primary format in 1959, and Ryan K. Smith's mastering from the original mono tapes gives the quartet a coherent ensemble presence that the stereo's hard panning sacrifices. **Out of print as a VMP subscription exclusive; $50–$100 on the secondary market.**
 
+Not everyone reaches the same conclusion, though. [One direct A/B against the Rhino 180g stereo](https://www.youtube.com/watch?v=9et5klxOnm8) – from a reviewer who expected the mono to win, based on prior experience with mono generally outperforming stereo reissues of this era – found the opposite here: the Rhino's bass felt more fleshed-out and the overall presentation "more liquid," while the VMP mono struck this listener as comparatively "sterile" and edgy in the highs. The same reviewer also didn't find this particular stereo mix as extremely or awkwardly panned as some 1959-era jazz stereo mixes can be. Worth remembering that the mono-vs-stereo case here, while strongly argued by many, isn't unanimous – as with most format debates on this title, it's worth hearing both if you can.
+
 ---
 
 ## Japanese pressings
@@ -165,5 +167,14 @@ Practical recommendation: buy the Speakers Corner for stereo (inspect/return-fri
 | **B** | 1960s plum/orange Atlantic | SD 1317 / 1317 | 1962–68 | Stereo or mono, 33⅓ | Period Atlantic lacquer | Close to original; laminated cover; $30–$80 NM | [Discogs](https://www.discogs.com/release/3400248-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
 | **C** | Warner Bros.-Pioneer P-6004A | P-6004A | 1971 | Stereo, 33⅓ | Warner-Pioneer Japanese lacquer | "Jazz Age" series; earlier Japan issue; $40–$80 with insert | [Discogs](https://www.discogs.com/release/2997973-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
 | **C** | Rhino 180g | SD 1317 | 2010 | Stereo, 33⅓, 180g | Atlantic tapes → Bernie Grundman, RTI | Solid entry-level; Kaplan praised it pre-ORG; $15–$30 | [Discogs](https://www.discogs.com/release/3236651-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
-| **D** | 1970s Warner/Atlantic green-red | SD 1317 | 1970s | Stereo, 33⅓ | Degraded masters, thin vinyl | "Dreadful" (Kaplan); avoid | – |
-| **F** | EU grey-market (DOL, Waxtime) | Various | 2000s+ | Various | Digital rip, unlicensed | Unverified provenance; not licensed | – |
+| **D** | 1970s Warner/Atlantic green-red | SD 1317 | 1970s | Stereo, 33⅓ | Degraded masters, thin vinyl | "Dreadful" (Kaplan); avoid; $10–$25 | – |
+| **F** | EU grey-market (DOL, Waxtime) | Various | 2000s+ | Various | Digital rip, unlicensed | Unverified provenance; not licensed; typically under $20 | – |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/47813-Ornette-Coleman-The-Shape-Of-Jazz-To-Come](https://www.discogs.com/master/47813-Ornette-Coleman-The-Shape-Of-Jazz-To-Come)
+- Wikipedia, "The Shape of Jazz to Come": [https://en.wikipedia.org/wiki/The_Shape_of_Jazz_to_Come](https://en.wikipedia.org/wiki/The_Shape_of_Jazz_to_Come)
+- LondonJazzCollector, "Atlantic First Pressing Guide Part 1 – Label Transitions": [https://londonjazzcollector.wordpress.com/record-labels-guide/5-atlantic/atlantic-first-pressing-guide-label-transitions/](https://londonjazzcollector.wordpress.com/record-labels-guide/5-atlantic/atlantic-first-pressing-guide-label-transitions/)
+- Stereophile, Fred Kaplan, "The Shape of Jazz to Come 45rpm": [https://www.stereophile.com/content/ithe-shape-jazz-comei-45rpm](https://www.stereophile.com/content/ithe-shape-jazz-comei-45rpm)
+- Discogs release and community listings for all pressings referenced in the tier table above (original bullseye SD 1317/1317, Speakers Corner, ORG Music ORGM-1099, VMP Classics VMP-C058, Rhino 180g, Japanese Victor ATL-5038, Warner-Pioneer P-6004A and P-7510A, 1960s plum/orange repress)
+- YouTube, 6AM, "Ornette Coleman Shape Of Jazz To Come RHINO vs VMP review": [https://www.youtube.com/watch?v=9et5klxOnm8](https://www.youtube.com/watch?v=9et5klxOnm8)
