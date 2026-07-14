@@ -49,7 +49,7 @@ The first pressing of BLP 4163 carries the **"Blue Note Records Inc. • New Yor
 
 As [LJC notes](https://londonjazzcollector.wordpress.com/2013/05/04/eric-dolphy-out-to-lunch-1964-blue-note/), the New York USA label was in use for around four years with minimal forensic variation – the inner sleeve is often the most reliable indicator of pressing generation, when present. Some early stereo copies came in mono jackets with a large gold "STEREO" sticker over the front cover, a Blue Note practice also seen on early copies of *Blue Train* and *Moanin'*.
 
-Van Gelder's engineering on this session is exceptional even by his standards. [LJC writes](https://londonjazzcollector.wordpress.com/2013/05/04/eric-dolphy-out-to-lunch-1964-blue-note/): "Van Gelder's recording here is a marvel, cymbal strikes resonate and hang suspended in mid-air." The Music Matters and Blue Note Classic Vinyl reissues confirm the tapes are in fine shape.
+Van Gelder's engineering on this session is exceptional even by his standards. [LJC writes](https://londonjazzcollector.wordpress.com/2013/05/04/eric-dolphy-out-to-lunch-1964-blue-note/): "Van Gelder's recording here is a marvel, cymbal strikes resonate and hang suspended in mid-air." The Music Matters and Blue Note Classic Vinyl reissues confirm the tapes are in fine shape. One specific characteristic worth knowing before you assume a pressing issue: [a four-way comparison](https://www.youtube.com/watch?v=5VTjvMnlLPc) across a Classic Vinyl copy, a 1966 Liberty pressing, a 1977 Japanese pressing, and the Music Matters 45rpm found Freddie Hubbard's trumpet solo on "Gazzelloni" sounding slightly muffled and less dynamic than the rest of the album on every single pressing, including the AAA 45rpm cut from the original tape – confirming this is a characteristic baked into the original 1964 recording, not something any reissue mastering can fix.
 
 **NM mono originals: $300–$700. VG+: $150–$350. NM stereo BST 84163 (NY USA, with Plastylite): $250–$500.**
 
@@ -73,7 +73,7 @@ However, [LJC's own position evolved](https://londonjazzcollector.wordpress.com/
 
 ### Blue Note Classic Vinyl 180g (2021) – the recommended budget option
 
-**Cat. BLP 4163** | Format: 180g LP, 33⅓, mono. **Mastered by Kevin Gray at Cohearent Audio, from the original mono master tape. Pressed at Optimal in Germany.** The same Kevin Gray mastering chain at an accessible price point, with Optimal's typically quiet surfaces. The [Blue Note store](https://store.bluenote.com/products/eric-dolphy-out-to-lunch-lp-blue-note-classic-vinyl-series) describes it as "all-analog, mastered by Kevin Gray directly from the original master tapes." Some QC variation has been reported across the Classic Vinyl series generally; this title is generally well-regarded. **~$20–$30 new.**
+**Cat. BLP 4163** | Format: 180g LP, 33⅓, mono. **Mastered by Kevin Gray at Cohearent Audio, from the original mono master tape. Pressed at Optimal in Germany.** The same Kevin Gray mastering chain at an accessible price point, with Optimal's typically quiet surfaces. The [Blue Note store](https://store.bluenote.com/products/eric-dolphy-out-to-lunch-lp-blue-note-classic-vinyl-series) describes it as "all-analog, mastered by Kevin Gray directly from the original master tapes." Some QC variation has been reported across the Classic Vinyl series generally; this title is generally well-regarded. [One detailed four-way comparison](https://www.youtube.com/watch?v=5VTjvMnlLPc) against a 1966 Liberty pressing, a 1977 Japanese pressing, and the Music Matters 45rpm found this considerably cheaper pressing shockingly close to the $150+ Music Matters edition – "if the 45 beats it out it is not by much" – making a strong case that most buyers don't need to spend more to get most of what the premium pressings offer. **~$20–$30 new.**
 
 ### Japanese King GXF-3009 (1977) – the vintage alternative
 
@@ -109,4 +109,16 @@ However, [LJC's own position evolved](https://londonjazzcollector.wordpress.com/
 | **B** | Original BST 84163 stereo, NY USA label | BST 84163 | 1964 | Stereo, 33⅓ | RVG / Plastylite | Authentic period pressing; hard-panned; mono preferred for listening; $250–$500 NM | [Discogs](https://www.discogs.com/release/1464211-Eric-Dolphy-Out-To-Lunch) |
 | **B** | Japanese King GXF-3009 | GXF-3009 | 1977 | Mono, 33⅓ | Licensed Japanese pressing | Quiet surfaces, warm character; $60–$150 NM with obi | [Discogs](https://www.discogs.com/release/2216318-Eric-Dolphy-Out-To-Lunch) |
 | **C** | Liberty-era BLP 4163 / BST 84163 | BLP/BST 4163 | 1966–70 | Mono or stereo, 33⅓ | RVG (if stamped) | Check deadwax for VG stamp; $40–$100 VG+ | [Discogs](https://www.discogs.com/release/2790342-Eric-Dolphy-Out-To-Lunch) |
-| **D** | 1970s–90s Blue Note/EMI reissues | Various | Various | Various | Dubs or digital transfers | Avoid; Classic Vinyl is better at the same or lower price | – |
+| **D** | 1970s–90s Blue Note/EMI reissues | Various | Various | Various | Dubs or digital transfers | Avoid; Classic Vinyl is better at the same or lower price; $10–$25 | – |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/64167-Eric-Dolphy-Out-To-Lunch](https://www.discogs.com/master/64167-Eric-Dolphy-Out-To-Lunch)
+- AllMusic, Scott Yanow's review: [https://www.allmusic.com/album/out-to-lunch-mw0000188912](https://www.allmusic.com/album/out-to-lunch-mw0000188912)
+- LondonJazzCollector, "Eric Dolphy: Out to Lunch (1964) Blue Note": [https://londonjazzcollector.wordpress.com/2013/05/04/eric-dolphy-out-to-lunch-1964-blue-note/](https://londonjazzcollector.wordpress.com/2013/05/04/eric-dolphy-out-to-lunch-1964-blue-note/)
+- The Wire, Brian Morton, "Great Recordings: Eric Dolphy's Out to Lunch" (May 2011): [https://www.thewire.co.uk/in-writing/essays/great-recordings_eric-dolphy_s-out-to-lunch](https://www.thewire.co.uk/in-writing/essays/great-recordings_eric-dolphy_s-out-to-lunch)
+- Wikipedia, "Severino Gazzelloni": [https://en.wikipedia.org/wiki/Severino_Gazzelloni](https://en.wikipedia.org/wiki/Severino_Gazzelloni)
+- The Jazz Word, "Back to Blue: Eric Dolphy's Out to Lunch (1964)": [https://thejazzword.wordpress.com/2014/04/03/back-to-blue-eric-dolphys-out-to-lunch-1964/](https://thejazzword.wordpress.com/2014/04/03/back-to-blue-eric-dolphys-out-to-lunch-1964/)
+- Blue Note store, product page for the Classic Vinyl Series LP: [https://store.bluenote.com/products/eric-dolphy-out-to-lunch-lp-blue-note-classic-vinyl-series](https://store.bluenote.com/products/eric-dolphy-out-to-lunch-lp-blue-note-classic-vinyl-series)
+- Discogs release and community listings for all pressings referenced in the tier table above (original BLP 4163/BST 84163, Music Matters 45rpm, Blue Note Classic Vinyl, Japanese King GXF-3009, Liberty-era pressings)
+- YouTube, Spinz Vinyl, "Eric Dolphy Out To Lunch Shootout - Vinyl Records - Japanese - Music Matters - Classic Vinyl Series": [https://www.youtube.com/watch?v=5VTjvMnlLPc](https://www.youtube.com/watch?v=5VTjvMnlLPc)
