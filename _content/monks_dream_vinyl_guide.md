@@ -7,7 +7,9 @@
 Backed by Columbia's promotional muscle, *Monk's Dream* became the best-selling album of Monk's lifetime and helped put him on the cover of Time magazine the following year ("The Loneliest Monk," February 28, 1964). It also set the template – critics have sometimes said the formula – for Monk's entire seven-year Columbia tenure: the same working quartet, a mix of newly recorded versions of older compositions, and clean, straightforward Columbia engineering that gave his music a spaciousness and immediacy it hadn't had on Riverside.
 
 **Best early pressing for audiophiles:** [Original Columbia two-eye stereo, CS 8765](https://www.discogs.com/release/1465575-The-Thelonious-Monk-Quartet-Monks-Dream) – Columbia's "360 Sound" era pressing.
+
 **Best modern pressing for audiophiles:** [Mobile Fidelity UltraDisc One-Step (UD1S 2-011, 2019)](https://www.discogs.com/release/14174187-The-Thelonious-Monk-Quartet-Monks-Dream) – on The Absolute Sound's Super LP List; mastered by Krieg Wunderlich, SuperVinyl, RTI, limited to 6,000 numbered copies.
+
 **Best-value modern:** [Impex Records 180g (2017)](https://www.discogs.com/release/11537615-The-Thelonious-Monk-Quartet-Monks-Dream) – Kevin Gray, RTI, mastered from the original tapes, at a fraction of the One-Step's price.
 
 ## Recording history and tape provenance
@@ -38,6 +40,12 @@ Critics were enthusiastic on release – DownBeat's Pete Welding gave it a stron
 
 ---
 
+## Columbia Special Products reissue (1973)
+
+**Cat. JCS 8765**, "Collectors' Series." A budget-line Columbia Special Products reissue distinct from the standard-catalog CS 8765, confirmed via multiple secondary-market listings. No dedicated sound-quality reviews have surfaced for this specific pressing; treat it as a period curiosity rather than a confirmed listening recommendation, and verify you're getting a standard two-eye original rather than this later reissue if buying secondhand under the CS 8765 name. **$15–$35.**
+
+---
+
 ## Pressings to avoid
 
 No specific bootleg is widely documented. Later 1970s–80s Columbia reissues on orange-label and subsequent corporate label designs are generally regarded as adequate but unremarkable, cut from later-generation metalwork rather than the original masters – fine as budget listening copies rather than collector targets.
@@ -47,7 +55,9 @@ No specific bootleg is widely documented. Later 1970s–80s Columbia reissues on
 ## Buyer's guide by budget
 
 **Under $50:** The [**Impex Records 180g reissue (2017)**](https://www.discogs.com/release/11537615-The-Thelonious-Monk-Quartet-Monks-Dream) – Kevin Gray mastering, the best-value recommendation.
+
 **$50–$120:** A clean original [**Columbia two-eye stereo, CS 8765**](https://www.discogs.com/release/1465575-The-Thelonious-Monk-Quartet-Monks-Dream) – attainable given this title's status as Monk's best-selling album.
+
 **$150–$300:** The [**Mobile Fidelity UltraDisc One-Step (UD1S 2-011)**](https://www.discogs.com/release/14174187-The-Thelonious-Monk-Quartet-Monks-Dream) on the secondary market, for the current TAS-listed reference pressing.
 
 ---
@@ -61,3 +71,11 @@ No specific bootleg is widely documented. Later 1970s–80s Columbia reissues on
 | **B** | Original Columbia two-eye stereo | CS 8765 | 1963 | Stereo, 33⅓ | Original 1963 mastering | 360 Sound era; attainable given large original run; $40–$120 NM | [Discogs](https://www.discogs.com/release/1465575-The-Thelonious-Monk-Quartet-Monks-Dream) |
 | **B** | Original Columbia two-eye mono | CL 1965 | 1963 | Mono, 33⅓ | Original 1963 mastering | $40–$100 NM | [Discogs](https://www.discogs.com/release/735430-The-Thelonious-Monk-Quartet-Monks-Dream) |
 | **C** | Later Columbia corporate-era reissues | CS 8765 | 1970s–80s | Stereo, 33⅓ | Later metalwork | Budget listening only; $15–$40 | – |
+| **C** | Columbia Special Products "Collectors' Series" | JCS 8765 | 1973 | Stereo, 33⅓ | Budget reissue line | No dedicated sound reviews found; period curiosity; $15–$35 | – |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/147910-The-Thelonious-Monk-Quartet-Monks-Dream](https://www.discogs.com/master/147910-The-Thelonious-Monk-Quartet-Monks-Dream)
+- AnalogPlanet, "'Monk's Dream' IMPEX Reissue Makes The Most of Master Tape" (Michael Fremer, 2013): [https://www.analogplanet.com/content/monks-dream-impex-reissue-makes-most-master-tape](https://www.analogplanet.com/content/monks-dream-impex-reissue-makes-most-master-tape)
+- Discogs release and community listings for all pressings referenced in the tier table above (original CS 8765/CL 1965 two-eye, Mobile Fidelity UD1S 2-011, Impex Records, later Columbia corporate-era reissues, Columbia Special Products JCS 8765)
+- YouTube, Opening Records with Craig, "Thelonious Monk's Monk's Dream from Impex Records pressed at RTI": [https://www.youtube.com/watch?v=ZOdYcpFZY9c](https://www.youtube.com/watch?v=ZOdYcpFZY9c)
