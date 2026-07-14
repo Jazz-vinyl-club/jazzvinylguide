@@ -7,7 +7,9 @@
 This was the fourth of five Andrew Hill albums recorded for Blue Note in an astonishing eight-month run (*Black Fire*, *Smoke Stack*, *Judgment!*, *Point of Departure*, *Andrew!!!*), and it turned out to be Eric Dolphy's final American studio session – he left for Europe with Charles Mingus shortly afterward and died in Berlin that June, before the album was even released. Genuine mono and stereo masters both exist from the session; there's no fake-stereo complication here, and the reissue landscape is refreshingly clean for a Blue Note title of this stature.
 
 **Best early pressing for audiophiles:** [Original Blue Note BST 84167 stereo, New York USA label](https://www.discogs.com/release/4393383-Andrew-Hill-Point-Of-Departure) – Van Gelder stamp required.
+
 **Best modern pressing for audiophiles:** [Music Matters 45rpm 2LP (2015)](https://www.discogs.com/release/2530637-Andrew-Hill-Point-Of-Departure) – Kevin Gray at AcousTech, gatefold, limited to 2,500 copies.
+
 **Best-value modern:** [Blue Note Classic Vinyl (2022)](https://www.discogs.com/release/25191424-Andrew-Hill-Point-Of-Departure) – Kevin Gray at Cohearent Audio, Optimal pressing.
 
 ## Recording history and tape provenance
@@ -65,8 +67,11 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 ## Buyer's guide by budget
 
 **Under $40:** The [**Blue Note Classic Vinyl (2022)**](https://www.discogs.com/release/25191424-Andrew-Hill-Point-Of-Departure) – Kevin Gray mastering, an easy recommendation at the price.
+
 **$40–$100:** A **Liberty or United Artists-era pressing** with the Van Gelder stamp intact, for an affordable period-metal copy.
+
 **$150–$300:** The [**Music Matters 45rpm 2LP**](https://www.discogs.com/release/2530637-Andrew-Hill-Point-Of-Departure) on the secondary market – the definitive listening experience for serious collectors.
+
 **$150–$400:** A clean original [**BST 84167 stereo, New York USA label**](https://www.discogs.com/release/4393383-Andrew-Hill-Point-Of-Departure) for the genuine 1965 pressing.
 
 ---
@@ -81,3 +86,11 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 | **B** | Blue Note Classic Vinyl | 4535330 | 2022 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Best value; some pressing-defect reports; $25–$40 new | [Discogs](https://www.discogs.com/release/25191424-Andrew-Hill-Point-Of-Departure) |
 | **B** | Japanese Toshiba-EMI pressing | – | 1984 | Stereo, 33⅓ | Licensed Japanese pressing | With Japanese liner notes and obi; $40–$90 | [Discogs](https://www.discogs.com/release/12384470-Andrew-Hill-Point-Of-Departure) |
 | **C** | Liberty / United Artists-era pressing | BLP/BST 4167 | 1966–73 | Mono or stereo, 33⅓ | RVG stamp, same metalwork | Affordable, sonically close to original; $40–$100 | [Discogs](https://www.discogs.com/release/5478479-Andrew-Hill-Point-Of-Departure) |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/140559-Andrew-Hill-Point-Of-Departure](https://www.discogs.com/master/140559-Andrew-Hill-Point-Of-Departure)
+- LondonJazzCollector, notes on mono/stereo take variance for "Refuge"
+- AllMusic, Thom Jurek's review: [https://www.allmusic.com/album/point-of-departure-mw0000243448](https://www.allmusic.com/album/point-of-departure-mw0000243448)
+- Discogs release and community listings for all pressings referenced in the tier table above (original BLP 4167/BST 84167, Music Matters 45rpm, Blue Note Classic Vinyl, Japanese Toshiba-EMI pressing, Liberty/United Artists-era pressings)
+- YouTube, Ten-Minute Record Reviews, "Andrew Hill - Point Of Departure (Episode 347)": [https://www.youtube.com/watch?v=0tCMyJ_kdx4](https://www.youtube.com/watch?v=0tCMyJ_kdx4)
