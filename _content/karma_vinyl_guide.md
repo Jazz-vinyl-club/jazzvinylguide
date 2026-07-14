@@ -7,7 +7,9 @@
 *Karma* is a rare case among Impulse! reissues where the modern audiophile pressing isn't chasing a compromised or half-lost source – the tapes are intact and well cared for, so the collector conversation is really about label-variant dating on the originals versus the genuinely excellent 2022 Acoustic Sounds Series remaster.
 
 **Best early pressing for audiophiles:** [Original Impulse! stereo, AS-9181](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) – laminated gatefold, black/red-rim label; median around $56, up to $300 for top condition.
+
 **Best modern pressing for audiophiles:** [Verve Acoustic Sounds Series (2022)](https://www.discogs.com/release/25484281-Pharoah-Sanders-Karma) – mastered by Ryan K. Smith at Sterling Sound, pressed at QRP; rated 5/5 for both music and sonics by The Absolute Sound.
+
 **Best-value modern:** the same Acoustic Sounds Series pressing – widely available new for well under $40 and a legitimate first choice, not just a budget compromise.
 
 ## Recording history and tape provenance
@@ -49,6 +51,8 @@ Catalog number appears as A-9181 on the jacket and AS-9181 on the labels. A cont
 
 **Cat. B0035572-01** | Format: Stereo, 180g, gatefold, 2022 | **Remastered by Ryan K. Smith at Sterling Sound from the original analog tape recordings, pressed at Quality Record Pressings, Stoughton tip-on gatefold jacket.** Released as a tribute reissue shortly after Sanders's death in September 2022, closing out that year's Acoustic Sounds Series calendar. Rated 5/5 for music and 5/5 for sonics by The Absolute Sound in its March 2023 issue – an unusually clean sweep. One packaging quirk worth knowing: the center labels and gatefold list side B as just "Colors," but the side actually opens with the unlisted second part of "The Creator Has a Master Plan" before "Colors" itself, which runs only 5:43.
 
+Two independent direct A/Bs against original pressings ([WCB Jazz Vinyl](https://www.youtube.com/watch?v=w0evcuODGgw) against a standard original; [Concert Buddie](https://www.youtube.com/watch?v=vnQtRFIdH8g) against a 1969 Capitol Record Club copy) both preferred the reissue overall, citing more low-end detail (audible bass vibrato not previously noticed), a more forward and dynamic Sanders solo, and better instrument separation generally. One specific improvement worth flagging: on the original pressing, Leon Thomas's vocal entrance carries a distracting echo/distance that isn't part of the intended sound – both reviewers who checked found this substantially reduced on the reissue. Not every comparison point favored the reissue outright, though: one reviewer found the auxiliary hand percussion (chimes, bells) more prominent and evident on their vintage Capitol Club copy than on the reissue. One reviewer also noted their reissue copy had a mild "wobble" or non-flat pressing near the center spindle – audible but not described as a serious playback problem, and possibly an isolated QC variance rather than a systemic issue.
+
 ---
 
 ## Pressings to avoid
@@ -60,7 +64,9 @@ An unofficial, unlicensed pressing (catalog ACL0087) circulates outside the main
 ## Buyer's guide by budget
 
 **Under $40:** [Verve Acoustic Sounds Series (2022)](https://www.discogs.com/release/25484281-Pharoah-Sanders-Karma) – genuinely the easiest recommendation in this guide; new, tape-sourced, and critically acclaimed.
+
 **$40–$100:** A clean [original Impulse! stereo pressing](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) – median price for this title is around $56, making a decent original realistically attainable.
+
 **$100+:** A near-mint, laminated-gatefold original first pressing (single-box logo, no ®) for collectors chasing the earliest possible copy.
 
 ---
@@ -69,9 +75,16 @@ An unofficial, unlicensed pressing (catalog ACL0087) circulates outside the main
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Verve Acoustic Sounds Series | B0035572-01 | 2022 | Stereo, 180g | Ryan K. Smith, Sterling Sound, QRP | TAS 5/5 music, 5/5 sonics (Mar 2023) | [Discogs](https://www.discogs.com/release/25484281-Pharoah-Sanders-Karma) |
-| **A** | Original Impulse! stereo, first pressing | AS-9181 | 1969 | Stereo | Original 1969 mastering | Single-box logo, no ®; laminated gatefold | [Discogs](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) |
-| **A** | Original Impulse! stereo, black/red-rim | AS-9181 | 1969 | Stereo | Original 1969 mastering | Two-box logo, 2x ®; most commonly found original | [Discogs](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) |
-| **B** | Capitol Record Club edition | AS-9181 | 1969 | Stereo | Original mastering, Jacksonville plant | Club edition on the same label design; SMAS matrix | [Discogs](https://www.discogs.com/release/2954469-Pharoah-Sanders-Karma) |
-| **C** | French pressing (Barclay/Impulse!) | A-9181 | early 1970s | Stereo | French pressing | Green/blue labels; a collectible period curiosity | [Discogs](https://www.discogs.com/release/3378018-Pharoah-Sanders-Karma) |
+| **S** | Verve Acoustic Sounds Series | B0035572-01 | 2022 | Stereo, 180g | Ryan K. Smith, Sterling Sound, QRP | TAS 5/5 music, 5/5 sonics (Mar 2023); under $40 new | [Discogs](https://www.discogs.com/release/25484281-Pharoah-Sanders-Karma) |
+| **A** | Original Impulse! stereo, first pressing | AS-9181 | 1969 | Stereo | Original 1969 mastering | Single-box logo, no ®; laminated gatefold; $100+ NM | [Discogs](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) |
+| **A** | Original Impulse! stereo, black/red-rim | AS-9181 | 1969 | Stereo | Original 1969 mastering | Two-box logo, 2x ®; most commonly found original; median ~$56, up to $300 | [Discogs](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) |
+| **B** | Capitol Record Club edition | AS-9181 | 1969 | Stereo | Original mastering, Jacksonville plant | Club edition on the same label design; SMAS matrix; valued below standard retail copies | [Discogs](https://www.discogs.com/release/2954469-Pharoah-Sanders-Karma) |
+| **C** | French pressing (Barclay/Impulse!) | A-9181 | early 1970s | Stereo | French pressing | Green/blue labels; a collectible period curiosity; no established audiophile premium | [Discogs](https://www.discogs.com/release/3378018-Pharoah-Sanders-Karma) |
 | **C** | Japanese gatefold reissue | IMP-88062 | 1973 | Stereo | Japanese pressing, black/neon Impulse! era | No dedicated audiophile reputation established | – |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/54110-Pharoah-Sanders-Karma](https://www.discogs.com/master/54110-Pharoah-Sanders-Karma)
+- Discogs release and community listings for all pressings referenced in the tier table above (original AS-9181 first pressing and black/red-rim variant, Capitol Record Club edition, Acoustic Sounds Series B0035572-01, French Barclay/Impulse!, Japanese IMP-88062)
+- YouTube, WCB Jazz Vinyl, "Pharoah Sanders' Karma - Original vs Acoustic Sounds shoot-out": [https://www.youtube.com/watch?v=w0evcuODGgw](https://www.youtube.com/watch?v=w0evcuODGgw)
+- YouTube, Concert Buddie, "Vinyl Record Shootout: Karma by Pharoah Sanders": [https://www.youtube.com/watch?v=vnQtRFIdH8g](https://www.youtube.com/watch?v=vnQtRFIdH8g)
