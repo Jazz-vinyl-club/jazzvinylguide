@@ -7,7 +7,9 @@
 Unlike the two earlier Davis–Evans collaborations (*Miles Ahead* is available in both mono and stereo, though its early two-track stereo mix is considered less sophisticated than Columbia's later stereo work; *Porgy and Bess* is generally considered to sound better in mono), Columbia had true stereo recording fully sorted by this session, and the stereo mix is the one most collectors and mastering engineers treat as definitive. The collector conversation here centers on Bernie Grundman's 1998 Classic Records cut versus Mobile Fidelity's more recent restorations, with the increasingly hard-to-find original six-eye stereo pressing as the vintage benchmark.
 
 **Best early pressing for audiophiles:** [Original Columbia six-eye stereo, CS 8271](https://www.discogs.com/release/4239636-Miles-Davis-Sketches-Of-Spain) – deep groove, "6-eyes" label; typically $20–50 for a clean copy, up to $200+ near mint.
+
 **Best modern pressing for audiophiles:** [Mobile Fidelity UltraDisc One-Step 33⅓rpm (2025, 65th Anniversary Edition)](https://mofi.com/shop/music/vinyl/miles-davis-sketches-of-spain-numbered-180g-vinyl-lp/) – limited to 5,000 numbered copies, pressed at Fidelity Record Pressing.
+
 **Best-value modern:** [Mobile Fidelity MFSL 1-375 (2013)](https://www.discogs.com/release/4923105-Miles-Davis-Sketches-Of-Spain) – standard MoFi reissue, widely available.
 
 ## Recording history and tape provenance
@@ -49,7 +51,7 @@ Columbia issued this title in Japan early – **SL-1017 (1960)** and **YS-153 / 
 
 ### Mobile Fidelity UltraDisc One-Step 33⅓rpm (2025) – the current reference
 
-**65th Anniversary Edition** | Format: Stereo, 180g, one-step, 2025 | **Mastered from the original 1/4", 15ips analog master tape (DSD64 intermediate step, analog console, lathe), pressed at Fidelity Record Pressing.** Limited to 5,000 numbered copies, housed in a deluxe foil-stamped slipcase. Unusually, MoFi chose standard 180g black vinyl over its proprietary SuperVinyl for this release after direct A/B comparison, judging it to sound better on this particular recording. Rated 4.5/5 for music and 4/5 for sonics by The Absolute Sound in its January 2026 issue.
+**65th Anniversary Edition** | Format: Stereo, 180g, one-step, 2025 | **Mastered from the original 1/4", 15ips analog master tape (DSD64 intermediate step, analog console, lathe), pressed at Fidelity Record Pressing.** Limited to 5,000 numbered copies, housed in a deluxe foil-stamped slipcase. Unusually, MoFi chose standard 180g black vinyl over its proprietary SuperVinyl for this release after direct A/B comparison, judging it to sound better on this particular recording. Rated 4.5/5 for music and 4/5 for sonics by The Absolute Sound in its January 2026 issue: "surfaces were as flat as glass and dead quiet. Davis' flugelhorn and trumpet jumped with micro-energy, detail, and timbral authenticity, the orchestra framed in a vast dimensional soundstage."
 
 ### Mobile Fidelity MFSL 1-375 (2013) – the widely available standard-bearer
 
@@ -57,7 +59,7 @@ Columbia issued this title in Japan early – **SL-1017 (1960)** and **YS-153 / 
 
 ### Classic Records (1998) – the AAA benchmark
 
-**Cat. CS 8271** | Format: Stereo, 200g Quiex SV-P, 1998 | **Lacquers cut by Bernie Grundman, manufactured and distributed by Classic Records under license from Sony.** Long the default recommendation on audiophile forums and lists (including Analog Planet's "In-Print LPs You Should Own"). Reviewers consistently describe Grundman's cut as more present and immediate than the MoFi versions, though some find the top end – particularly on "The Pan Piper" – edges toward harsh on revealing systems. Out of print since Classic Records closed; secondary market median runs around $100, with a wide range depending on condition. [Discogs](https://www.discogs.com/release/2426187-Miles-Davis-Sketches-Of-Spain)
+**Cat. CS 8271** | Format: Stereo, 200g Quiex SV-P, 1998 | **Lacquers cut by Bernie Grundman, manufactured and distributed by Classic Records under license from Sony.** Long the default recommendation on audiophile forums and lists (including Analog Planet's "In-Print LPs You Should Own"). Reviewers consistently describe Grundman's cut as more present and immediate than the MoFi versions, though some find the top end – particularly on "The Pan Piper" – edges toward harsh on revealing systems. Not every direct comparison agrees, though: [Vinyl Gourmet's detailed A/B](https://blog.vinylgourmet.com/2014/01/miles-davis-sketches-of-spain-mofi-mfsl-mobile-fidelity-vinyl-lp-2013-record-review.html) against the 2013 MFSL 1-375 found the Classic Records cut comparatively "artificial, hard and harsh" on Davis's trumpet, preferring the MoFi's more natural tone and wider dynamic range – a genuine counterpoint to the "Grundman is more present" consensus above, worth knowing if you're choosing between the two on a budget. Out of print since Classic Records closed; secondary market median runs around $100, with a wide range depending on condition. [Discogs](https://www.discogs.com/release/2426187-Miles-Davis-Sketches-Of-Spain)
 
 Classic Records also cut a **45rpm 4-LP box** (1998, same CS 8271 catalog, matrix CS 8271-A1/A2/B1/B2-45, also Grundman) in their 45 Series. It's considerably scarcer and more expensive than the 33⅓ SV-P edition, and unlike most Classic 45rpm sets it doesn't have a strong documented critical consensus behind it – period discussion on Steve Hoffman's forum suggests it wasn't considered one of the label's stronger efforts, though detailed reviews are hard to find. Worth knowing about if you find one, but not a must-chase over the standard SV-P pressing. [Discogs](https://www.discogs.com/release/5876487-Miles-Davis-Sketches-Of-Spain)
 
@@ -80,8 +82,11 @@ A red-vinyl reissue (catalog 350234) circulating from a European public-domain l
 ## Buyer's guide by budget
 
 **Under $30:** A clean used [**Columbia CS 8271 six-eye stereo original**](https://www.discogs.com/release/4239636-Miles-Davis-Sketches-Of-Spain) – genuinely attainable for this title, unlike most Davis six-eye originals, and the most direct connection to the 1960 mastering.
+
 **$30–$50:** [**Mobile Fidelity MFSL 1-375 (2013)**](https://www.discogs.com/release/4923105-Miles-Davis-Sketches-Of-Spain) – the best combination of availability and sound quality for most collectors.
+
 **$50–$120:** [**Classic Records 200g SV-P (1998)**](https://www.discogs.com/release/2426187-Miles-Davis-Sketches-Of-Spain) – Bernie Grundman's more forward, immediate cut, now only findable used.
+
 **$120+:** The [**Mobile Fidelity UltraDisc One-Step (2025)**](https://mofi.com/shop/music/vinyl/miles-davis-sketches-of-spain-numbered-180g-vinyl-lp/) for the current state of the art, while numbered copies remain available.
 
 ---
@@ -90,10 +95,19 @@ A red-vinyl reissue (catalog 350234) circulating from a European public-domain l
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Mobile Fidelity UltraDisc One-Step | 65th Anniversary Edition | 2025 | Stereo, 180g, one-step | Analog master tape, Fidelity Record Pressing | Numbered/5,000; TAS 4.5/4 (Jan 2026) | [MoFi](https://mofi.com/shop/music/vinyl/miles-davis-sketches-of-spain-numbered-180g-vinyl-lp/) |
-| **A** | Classic Records 200g SV-P | CS 8271 | 1998 | Stereo, 200g | Bernie Grundman, licensed from Sony | Forward, immediate; some find the top end hot | [Discogs](https://www.discogs.com/release/2426187-Miles-Davis-Sketches-Of-Spain) |
-| **A** | Classic Records 45rpm 4LP | CS 8271-45 | 1998 | Stereo, 45rpm, 4×LP | Bernie Grundman, licensed from Sony | Scarce; no strong documented critical consensus | [Discogs](https://www.discogs.com/release/5876487-Miles-Davis-Sketches-Of-Spain) |
-| **A** | Mobile Fidelity MFSL 1-375 | MFSL 1-375 | 2013 | Stereo, 180g | Krieg Wunderlich, manufactured by Sony for MoFi | Best-value modern standard-bearer; widely available | [Discogs](https://www.discogs.com/release/4923105-Miles-Davis-Sketches-Of-Spain) |
-| **B** | Original Columbia six-eye stereo | CS 8271 | 1960 | Stereo | Original 1960 Columbia mastering | Deep groove; unusually affordable for a six-eye Davis original | [Discogs](https://www.discogs.com/release/4239636-Miles-Davis-Sketches-Of-Spain) |
-| **B** | Music On Vinyl | MOVLP029 / MOVLP692 | 2009 / 2013 | Stereo / Mono, 180g | Licensed from Sony, pressed by Record Industry | Stereo (029) and mono (692) are separate releases | [Discogs](https://www.discogs.com/release/4798295-Miles-Sketches-Of-Spain) |
-| **C** | Original Columbia six-eye mono | CL 1480 | 1960 | Mono | Original 1960 Columbia mastering | Less sought than the stereo for this particular title | [Discogs](https://www.discogs.com/release/1914353-Miles-Davis-Sketches-Of-Spain) |
+| **S** | Mobile Fidelity UltraDisc One-Step | 65th Anniversary Edition | 2025 | Stereo, 180g, one-step | Analog master tape, Fidelity Record Pressing | Numbered/5,000; TAS 4.5/4 (Jan 2026); $120+ | [MoFi](https://mofi.com/shop/music/vinyl/miles-davis-sketches-of-spain-numbered-180g-vinyl-lp/) |
+| **A** | Classic Records 200g SV-P | CS 8271 | 1998 | Stereo, 200g | Bernie Grundman, licensed from Sony | Forward, immediate; some find the top end hot; median ~$100 | [Discogs](https://www.discogs.com/release/2426187-Miles-Davis-Sketches-Of-Spain) |
+| **A** | Classic Records 45rpm 4LP | CS 8271-45 | 1998 | Stereo, 45rpm, 4×LP | Bernie Grundman, licensed from Sony | Scarce; no strong documented critical consensus; $150–$300+ | [Discogs](https://www.discogs.com/release/5876487-Miles-Davis-Sketches-Of-Spain) |
+| **A** | Mobile Fidelity MFSL 1-375 | MFSL 1-375 | 2013 | Stereo, 180g | Krieg Wunderlich, manufactured by Sony for MoFi | Best-value modern standard-bearer; widely available; $30–$50 | [Discogs](https://www.discogs.com/release/4923105-Miles-Davis-Sketches-Of-Spain) |
+| **B** | Original Columbia six-eye stereo | CS 8271 | 1960 | Stereo | Original 1960 Columbia mastering | Deep groove; unusually affordable for a six-eye Davis original; $20–$50, up to $200+ NM | [Discogs](https://www.discogs.com/release/4239636-Miles-Davis-Sketches-Of-Spain) |
+| **B** | Music On Vinyl | MOVLP029 / MOVLP692 | 2009 / 2013 | Stereo / Mono, 180g | Licensed from Sony, pressed by Record Industry | Stereo (029) and mono (692) are separate releases; $20–$40 | [Discogs](https://www.discogs.com/release/4798295-Miles-Sketches-Of-Spain) |
+| **C** | Original Columbia six-eye mono | CL 1480 | 1960 | Mono | Original 1960 Columbia mastering | Less sought than the stereo for this particular title; $15–$40 | [Discogs](https://www.discogs.com/release/1914353-Miles-Davis-Sketches-Of-Spain) |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/48172-Miles-Davis-Sketches-Of-Spain](https://www.discogs.com/master/48172-Miles-Davis-Sketches-Of-Spain)
+- AllMusic, Thom Jurek's review of "Sketches of Spain": [https://www.allmusic.com/album/sketches-of-spain-mw0000191713](https://www.allmusic.com/album/sketches-of-spain-mw0000191713)
+- Vinyl Reviews, review of the Mobile Fidelity 2013 pressing: [https://vinylreviews.com/album/sketches-of-spain/](https://vinylreviews.com/album/sketches-of-spain/)
+- Vinyl Gourmet, "Record Review: Miles Davis Sketches Of Spain - Mobile Fidelity Sound Lab Vinyl LP": [https://blog.vinylgourmet.com/2014/01/miles-davis-sketches-of-spain-mofi-mfsl-mobile-fidelity-vinyl-lp-2013-record-review.html](https://blog.vinylgourmet.com/2014/01/miles-davis-sketches-of-spain-mofi-mfsl-mobile-fidelity-vinyl-lp-2013-record-review.html)
+- Illinois Entertainer, "Spins: Miles Davis Sketches of Spain • 65th Anniversary Ultradisc One-Step LP": [https://illinoisentertainer.com/2025/12/spins-miles-davis-sketches-of-spain-65th-anniversary-ultradisc-one-step-lp/](https://illinoisentertainer.com/2025/12/spins-miles-davis-sketches-of-spain-65th-anniversary-ultradisc-one-step-lp/)
+- Discogs release and community listings for all pressings referenced in the tier table above (original CL 1480/CS 8271 six-eye, Classic Records 200g SV-P and 45rpm, Mobile Fidelity MFSL 1-375 and UltraDisc One-Step, Music On Vinyl MOVLP029/MOVLP692)
