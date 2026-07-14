@@ -32,7 +32,7 @@ The master tapes remain with ECM/Universal. A 1987 digital remix was used for CD
 
 ## Japanese pressings
 
-**Polydor K.K., licensed via Hara Music (1972)**, catalog MP-2273, comes with obi and Japanese liner notes. Consistently praised as the best-sounding pressing of this title: "The sound of this Japanese pressed vinyl is beyond expectation. It is more natural and beautiful than any other country's pressing," and "dead quiet vinyl, outstanding dynamics, every instrument is clear." A later 1978 Japanese repress (catalog MPF-1136) also circulates. [Discogs](https://www.discogs.com/release/2499163-Chick-Corea-Return-To-Forever) **$25–$60 with obi.**
+**Polydor K.K., licensed via Hara Music (1972)**, catalog MP-2273, comes with obi and Japanese liner notes. Reception is more divided than a quick glance at owner reviews might suggest. Some praise it in strong terms: "The sound of this Japanese pressed vinyl is beyond expectation. It is more natural and beautiful than any other country's pressing," and "dead quiet vinyl, outstanding dynamics, every instrument is clear." But a genuine counter-view exists too: [one detailed comparison across six different period copies](https://www.discogs.com/release/2271038-Chick-Corea-Return-To-Forever) (three US pressings, one Canadian, one German, one Japanese) found the Japanese pressing "the most disappointing of them all," describing "a weird on-and-off presence on some instruments, very noticeable on the percussions (especially cymbals) and flute on side B, almost like the master cut out the high-end" – not a condition issue, since the reviewer's copies were all NM or close. A second, separate owner similarly found the sound "meh." Treat the Japanese pressing as a legitimate contender worth trying, not an automatic best-in-class pick. A later 1978 Japanese repress (catalog MPF-1136) also circulates. [Discogs](https://www.discogs.com/release/2499163-Chick-Corea-Return-To-Forever) **$25–$60 with obi.**
 
 ---
 
@@ -45,7 +45,8 @@ No specific bootleg is widely documented. Given the noise/pre-echo issues affect
 ## Buyer's guide by budget
 
 **Under $25:** A clean [**US 1975 pressing**](https://www.discogs.com/release/1141070-Chick-Corea-Return-To-Forever) – check seller photos/description for the known pre-echo issue before buying.
-**$25–$60:** The [**Japanese Polydor pressing**](https://www.discogs.com/release/2499163-Chick-Corea-Return-To-Forever) with obi – the most consistently praised pressing of this title, or a clean [**German original**](https://www.discogs.com/release/2271038-Chick-Corea-Return-To-Forever), checking for the known noise issue first.
+
+**$25–$60:** The [**Japanese Polydor pressing**](https://www.discogs.com/release/2499163-Chick-Corea-Return-To-Forever) with obi – a legitimate contender, though reception is genuinely mixed rather than uniformly best – or a clean [**German original**](https://www.discogs.com/release/2271038-Chick-Corea-Return-To-Forever), checking for the known noise issue first.
 
 ---
 
@@ -53,7 +54,12 @@ No specific bootleg is widely documented. Given the noise/pre-echo issues affect
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | Japanese Polydor pressing | MP-2273 | 1972 | Stereo, 33⅓ | Licensed Japanese pressing via Hara Music | Most consistently praised pressing; $25–$60 with obi | [Discogs](https://www.discogs.com/release/2499163-Chick-Corea-Return-To-Forever) |
+| **A** | Japanese Polydor pressing | MP-2273 | 1972 | Stereo, 33⅓ | Licensed Japanese pressing via Hara Music | Reception genuinely mixed; some praise, some report thin top-end; $25–$60 with obi | [Discogs](https://www.discogs.com/release/2499163-Chick-Corea-Return-To-Forever) |
 | **B** | Original ECM 1022 ST, West Germany | ECM 1022 ST | 1972 | Stereo, 33⅓ | Original 1972 mastering, Phonodisc GmbH | First pressing; some copies have a documented static noise issue; $20–$60 | [Discogs](https://www.discogs.com/release/2271038-Chick-Corea-Return-To-Forever) |
 | **B** | US pressing | ECM-1-1022 | 1975 | Stereo, 33⅓ | Polydor Inc., Columbia Pitman plant | Reviews mixed; some copies show pre-echo; $15–$40 | [Discogs](https://www.discogs.com/release/1141070-Chick-Corea-Return-To-Forever) |
 | **C** | Later Japanese repress | MPF-1136 | 1978 | Stereo, 33⅓ | Licensed Japanese pressing | Later repress of the MP-2273 metalwork; $20–$50 | – |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/123528-Chick-Corea-Return-To-Forever](https://www.discogs.com/master/123528-Chick-Corea-Return-To-Forever)
+- Discogs release and community listings for all pressings referenced in the tier table above (original German ECM 1022 ST, US ECM-1-1022, Japanese Polydor MP-2273, later Japanese repress MPF-1136)
