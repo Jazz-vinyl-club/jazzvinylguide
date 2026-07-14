@@ -50,7 +50,7 @@ Note: r1907831 on Discogs is listed as Mono (DG Side 1) – the stereo original 
 
 ### Liberty-era pressings (1966–1971)
 
-"A Division of Liberty Records Inc." label text. Van Gelder stamps remain on many. **$40–$100 VG+.**
+"A Division of Liberty Records Inc." label text. Van Gelder stamps remain on many. [LondonJazzCollector](https://londonjazzcollector.wordpress.com/2014/09/02/herbie-hancock-maiden-voyage-1965-blue-note/) notes the later dark blue/yellow "Transamerica period" Liberty labels tend to lack "the visceral punch of Plastylite" – but not everyone agrees these are simply inferior to modern reissues: [one detailed Discogs comparison](https://www.discogs.com/release/3154908-Herbie-Hancock-Maiden-Voyage) against the Blue Note Classic Vinyl series found the Liberty pressing "more present, had more impact, more depth and more air" than the reissue, concluding flatly that "the Classic series is not (always) the definitive vinyl issue." Quality is genuinely variable across this pressing run – check the deadwax for a Van Gelder stamp regardless. **$40–$100 VG+.**
 
 ---
 
@@ -71,6 +71,10 @@ Japanese licensed pressings of *Maiden Voyage* – particularly the **King/Toshi
 ### Blue Note Classic Vinyl 180g (2021) – the recommended modern option
 
 **Cat. BST 84195** | Format: 180g LP, 33⅓, stereo. **Mastered by Kevin Gray at Cohearent Audio. Pressed at Optimal in Germany.** Unlike the Song for My Father Classic Vinyl, the Maiden Voyage pressing receives consistently positive reviews: "Sounds as good as any Tone Poet I've heard and at nearly half the price it's a KILLER record. Glass flat, noise free." Another: "Dead quiet, perfectly flat, and it throws a wide, genuinely deep soundstage with excellent imaging." **$20–$35 new.**
+
+### Blue Note Essentials 140g – the budget entry point
+
+A separate, more basic reissue line from the Classic Vinyl series: 140g LP, single (non-gatefold) sleeve, [pressed at Optimal from a hi-res digital master](https://store.everythingjazz.com/products/herbie-hancock-maiden-voyage-blue-note-essentials-vinyl-series-1lp) rather than the all-analogue chain used for Classic Vinyl. Positioned explicitly as the label's most affordable way to own its classics, not as an audiophile pressing – a reasonable option only if the Classic Vinyl isn't available or budget is the deciding factor. **~$20 new.**
 
 ---
 
@@ -113,5 +117,16 @@ Japanese licensed pressings of *Maiden Voyage* – particularly the **King/Toshi
 | **B** | Blue Note Classic Vinyl 180g | BST 84195 | 2021 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Consistently good reviews; $20–$35 new | [Discogs](https://www.discogs.com/release/20316430-Herbie-Hancock-Maiden-Voyage) |
 | **B** | King Masterpiece Special Replica 200g | BST-84195 (King) | 1983 | Stereo, 33⅓, 200g | Licensed; heavy vinyl; replica US presentation | SJ Seal; no Japanese imprints; $80–$150 with obi | [Discogs](https://www.discogs.com/release/6454559-Herbie-Hancock-Maiden-Voyage) |
 | **B** | King/Toshiba standard 33rpm | GXF series | 1976 | Stereo, 33⅓ | Licensed Japanese pressing | Dead-quiet vinyl; warm; $40–$80 with obi | [Discogs](https://www.discogs.com/release/6513605-Herbie-Hancock-Maiden-Voyage) |
+| **C** | Blue Note Essentials 140g | BST 84195 | – | Stereo, 33⅓, 140g | Hi-res digital master, Optimal | Budget entry point; not AAA; single sleeve; ~$20 new | – |
 | **C** | Liberty-era pressing (with VG stamp) | BST 84195 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $40–$100 VG+ | [Discogs](https://www.discogs.com/release/3154908-Herbie-Hancock-Maiden-Voyage) |
-| **D** | Generic 1970s–80s reissues | Various | 1970s–80s | Stereo, 33⅓ | Various | Avoid; Classic Vinyl is better | – |
+| **D** | Generic 1970s–80s reissues | Various | 1970s–80s | Stereo, 33⅓ | Various | Avoid; Classic Vinyl is better; $10–$25 | – |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/47828-Herbie-Hancock-Maiden-Voyage](https://www.discogs.com/master/47828-Herbie-Hancock-Maiden-Voyage)
+- Blue Note official site, "Herbie Hancock's Maiden Voyage": [https://www.bluenote.com/spotlight/herbie-hancocks-maiden-voyage/](https://www.bluenote.com/spotlight/herbie-hancocks-maiden-voyage/)
+- Herbie Hancock official site, album page for "Maiden Voyage": [https://www.herbiehancock.com/music/discography/album/maiden-voyage/](https://www.herbiehancock.com/music/discography/album/maiden-voyage/)
+- Stereophile, review of the Music Matters pressing: [https://www.stereophile.com/content/herbie-hancock-maiden-voyage](https://www.stereophile.com/content/herbie-hancock-maiden-voyage)
+- LondonJazzCollector, "Herbie Hancock: Maiden Voyage (1965) Blue Note": [https://londonjazzcollector.wordpress.com/2014/09/02/herbie-hancock-maiden-voyage-1965-blue-note/](https://londonjazzcollector.wordpress.com/2014/09/02/herbie-hancock-maiden-voyage-1965-blue-note/)
+- Discogs release and community listings for all pressings referenced in the tier table above (original BST 84195/BLP 4195, Music Matters SRX, AP 45rpm, Blue Note Classic Vinyl, Blue Note Essentials, King/Toshiba Japanese pressings, Liberty-era reissue)
+- YouTube, Deep Groove Mono, "Video Vinyl Spotlight: Herbie Hancock, Maiden Voyage (Blue Note 4195) Classic Vinyl Series LP Review": [https://www.youtube.com/watch?v=WKR_K2IhZ6c](https://www.youtube.com/watch?v=WKR_K2IhZ6c)
