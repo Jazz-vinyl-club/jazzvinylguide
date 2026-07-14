@@ -7,7 +7,9 @@
 The trio deliberately kept most tracks brief to court commercial radio play, working through blues, jazz, and R&B standards – four of them from the Ellington songbook – alongside "Hymn to Freedom," Peterson's own composition, written on the spot in the studio at Granz's suggestion that the album needed a closer with "a definitive early-blues feel." Peterson named it in honor of Martin Luther King Jr., and after Harriette Hamilton added lyrics the following year, it became an unofficial anthem of the Civil Rights Movement – a remarkable legacy for a tune improvised to fill out a track list.
 
 **Best early pressing for audiophiles:** [Original Verve V6-8538 stereo](https://www.discogs.com/release/2705676-The-Oscar-Peterson-Trio-Night-Train) – the 1963 first pressing.
+
 **Best modern pressing for audiophiles:** [Verve Acoustic Sounds Series (2023)](https://www.discogs.com/release/25980667-The-Oscar-Peterson-Trio-Night-Train) – Ryan K. Smith at Sterling Sound, QRP, tip-on gatefold.
+
 **Best-value modern:** Same Acoustic Sounds Series edition – widely praised, though inspect on arrival given some reports of warped copies.
 
 ## Recording history and tape provenance
@@ -30,11 +32,15 @@ The master tapes remain with Verve/Universal and are reported in good condition;
 
 ### Verve Acoustic Sounds Series (2023) – the current reference
 
-**Format: 180g LP, stereo, tip-on single-pocket gatefold sleeve with rice-paper inner sleeve.** **Mastered by Ryan K. Smith at Sterling Sound, from the original analog tapes, pressed at Quality Record Pressings (QRP).** Reception is largely enthusiastic – "dead silent vinyl," "excellent body and harmonic richness," "a timeless album and an outstanding modern reissue" – though a meaningful number of buyers report warped copies, with one reporting four consecutive warped copies before keeping the least-affected one. Worth buying from a seller with an easy return policy given this pattern. [Discogs](https://www.discogs.com/release/25980667-The-Oscar-Peterson-Trio-Night-Train) **$35–$45 new.**
+**Format: 180g LP, stereo, tip-on single-pocket gatefold sleeve with rice-paper inner sleeve.** **Mastered by Ryan K. Smith at Sterling Sound, from the original analog tapes, pressed at Quality Record Pressings (QRP).** Reception is largely enthusiastic – "dead silent vinyl," "excellent body and harmonic richness," "a timeless album and an outstanding modern reissue" – though a meaningful number of buyers report warped copies, with one reporting four consecutive warped copies before keeping the least-affected one. Worth buying from a seller with an easy return policy given this pattern. [One reviewer](https://www.youtube.com/watch?v=BvZqpU_FZ3Q) found the piano exceptionally well-centered and prominent in the mix, but noted Ed Thigpen's closely-mic'd rivet cymbal occasionally feels like it "takes over" a touch – a nuance on the same signature sonic element the recording is known for, rather than a defect. [Discogs](https://www.discogs.com/release/25980667-The-Oscar-Peterson-Trio-Night-Train) **$35–$45 new.**
 
 ### Speakers Corner (1998) – the earlier audiophile option
 
 **Cat. 009 8538** | Format: 180g LP, stereo. A direct comparison against the later Acoustic Sounds edition found each with its own character: "The overall sonic signature is more full bodied and piano has better clarity with the [Acoustic Sounds] Verve, but the ride cymbal phase is more pronounced... This Speakers Corner version has a nicer ping to the ride which gives better overall pace to the songs." Out of print. [Discogs](https://www.discogs.com/release/372109-The-Oscar-Peterson-Trio-Night-Train) **$40–$90 secondary.**
+
+### ORG Music 45rpm (2009) – an expanded, harder-to-find option
+
+**Cat. ORG029** | Format: 2×180g LP, 45rpm, stereo, gatefold, numbered edition limited to 2,500 copies. **Mastered by Bernie Grundman from the original analog master tape, pressed at Pallas.** Notably, this edition expands well beyond the original LP's 12 tracks, adding "Bags' Groove," "Moten Swing," "Easy Does It," "Honey Dripper," "Things Ain't What They Used To Be," and "Band Call" – making it the only vinyl edition with this fuller tracklisting. [One reviewer](https://www.youtube.com/watch?v=BvZqpU_FZ3Q) who considered buying a copy noted prices had climbed as high as €250 on the secondary market, well above either the Acoustic Sounds or Speakers Corner editions; treat it as a collector's option for the bonus material specifically, not a default recommendation given the price gap. **$150–$300+ secondary, when found.**
 
 ---
 
@@ -47,7 +53,9 @@ No specific bootleg is widely documented. Some later 1970s–80s European pressi
 ## Buyer's guide by budget
 
 **Under $45:** The [**Verve Acoustic Sounds Series (2023)**](https://www.discogs.com/release/25980667-The-Oscar-Peterson-Trio-Night-Train) – excellent mastering; check for warping before or immediately after purchase.
+
 **$45–$90:** The [**Speakers Corner reissue (1998)**](https://www.discogs.com/release/372109-The-Oscar-Peterson-Trio-Night-Train) on the secondary market, for a different but equally well-regarded take on the mastering.
+
 **$90–$120:** A clean original [**Verve V6-8538 stereo**](https://www.discogs.com/release/2705676-The-Oscar-Peterson-Trio-Night-Train) – genuinely attainable given this title's substantial original pressing run.
 
 ---
@@ -58,5 +66,12 @@ No specific bootleg is widely documented. Some later 1970s–80s European pressi
 |---|---|---|---|---|---|---|---|
 | **A** | Verve Acoustic Sounds Series | – | 2023 | Stereo, 180g | Orig tape → Ryan K. Smith, Sterling Sound, QRP | Excellent mastering; some copies reported warped; $35–$45 new | [Discogs](https://www.discogs.com/release/25980667-The-Oscar-Peterson-Trio-Night-Train) |
 | **A** | Speakers Corner | 009 8538 | 1998 | Stereo, 180g | Orig analog tape | OOP; different sonic character vs. Acoustic Sounds; $40–$90 secondary | [Discogs](https://www.discogs.com/release/372109-The-Oscar-Peterson-Trio-Night-Train) |
+| **A** | ORG Music 45rpm 2LP | ORG029 | 2009 | Stereo, 45rpm, 2×180g | Bernie Grundman, orig analog tape, Pallas | Expanded tracklist; limited/2,500; prices can reach €250; $150–$300+ secondary | – |
 | **B** | Original Verve stereo | V6-8538 | 1963 | Stereo, 33⅓ | Original 1963 mastering | Attainable given large original pressing run; $40–$120 NM | [Discogs](https://www.discogs.com/release/2705676-The-Oscar-Peterson-Trio-Night-Train) |
 | **C** | European Polydor-distributed pressings | V6-8538 / 2332043 | 1970s–80s | Stereo, 33⅓ | Various | Softer, hazier per owner reports; budget option only; $15–$40 | [Discogs](https://www.discogs.com/release/9746524-The-Oscar-Peterson-Trio-Night-Train) |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/99328-The-Oscar-Peterson-Trio-Night-Train](https://www.discogs.com/master/99328-The-Oscar-Peterson-Trio-Night-Train)
+- Discogs release and community listings for all pressings referenced in the tier table above (original V/V6-8538, Verve Acoustic Sounds Series, Speakers Corner 009 8538, ORG Music 45rpm ORG029, European Polydor-distributed pressings)
+- YouTube, 45 RPM Audiophile, "Acoustic Sound Series: Oscar Peterson: Night Train + Blue Note TP: Donald Byrd": [https://www.youtube.com/watch?v=BvZqpU_FZ3Q](https://www.youtube.com/watch?v=BvZqpU_FZ3Q)
