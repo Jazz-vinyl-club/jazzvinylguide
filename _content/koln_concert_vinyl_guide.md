@@ -64,7 +64,9 @@ These are the premium first-issue copies. **€100–€250 NM.**
 
 ### ECM 50th Anniversary edition (2025)
 
-**Cat. ECM 1064/65** | Format: 180g 2LP, 33⅓, gatefold tip-on jacket, 8-page booklet, art print. ECM's 50th anniversary reissue adds commemorative packaging to the existing master. Limited availability. **€50–€80.**
+**Cat. ECM 1064/65** | Format: 180g 2LP, 33⅓, gatefold tip-on jacket, 8-page booklet, art print. ECM's 50th anniversary reissue adds commemorative packaging (new liner essay, an art print with a printed Jarrett signature) to the existing master. Limited availability. **€50–€80.**
+
+Reception has been notably more critical than most ECM reissues. [Tracking Angle's review](https://trackingangle.com/music/keith-jarretts-legendary-koln-concert-gets-an-ecm-reissue) identifies Daniel Krieger at SST as the mastering engineer, and finds the result "sounds like a somewhat dynamically compressed file" – the reviewer describes the notes as "clangy" and lacking harmonic structure, with reverb that doesn't "define the space" the way the original German pressing does. Several commenters on that review independently confirm a preference for their original German pressings over this edition. It's worth noting this same reviewer's prior coverage found ECM historically cagey about disclosing whether its reissues (including the well-regarded 2010 Pallas pressing above) are cut from analogue or digital sources – [a separate Tracking Angle piece](https://trackingangle.com/features/ecm-releases-50th-anniversary-edition-of-keith-jarretts-groundbreaking-the-koln-concert) recounts being told by an ECM representative that the label doesn't consider this distinction worth tracking. Treat the 50th Anniversary edition as a collectible commemorative package rather than a sonic upgrade.
 
 ---
 
@@ -93,7 +95,16 @@ These are the premium first-issue copies. **€100–€250 NM.**
 | **S** | 2010 ECM 180g Pallas | ECM 1064/65 | 2010 | Stereo, 33⅓, 180g, 2LP | Orig tapes → Pallas, Germany (mastering chain unconfirmed) | Definitive modern pressing; €25–€45 | [Discogs](https://www.discogs.com/release/3979641-Keith-Jarrett-The-K%C3%B6ln-Concert) |
 | **A** | Original German "ECM Records" label | ECM 1064/65 ST | 1975 | Stereo, 33⅓, 2LP | Orig tapes; first pressing | "Urheber-" rim; short runout; €100–€250 NM | [Discogs](https://www.discogs.com/release/8735978-Keith-Jarrett-The-K%C3%B6ln-Concert) |
 | **A** | Original German "ECM" label ("Alle" rim) | ECM 1064/65 ST | 1976–77 | Stereo, 33⅓, 2LP | Orig tapes; same metalwork | Matte gatefold (not laminated); sonically equivalent to first; €40–€120 | [Discogs](https://www.discogs.com/release/14010199-Keith-Jarrett-The-K%C3%B6ln-Concert) |
-| **B** | ECM 50th Anniversary (2025) | ECM 1064/65 | 2025 | Stereo, 33⅓, 180g, 2LP | Cut by Daniel Krieger at SST; tip-on gatefold | Source unconfirmed AAA; some suspect a digital intermediate; €50–€80 | [Discogs](https://www.discogs.com/release/35912773-Keith-Jarrett-The-K%C3%B6ln-Concert) |
+| **B** | ECM 50th Anniversary (2025) | ECM 1064/65 | 2025 | Stereo, 33⅓, 180g, 2LP | Daniel Krieger, SST; likely digital-sourced | Notably critical reception; commemorative packaging over sonic upgrade; €50–€80 | [Discogs](https://www.discogs.com/release/35912773-Keith-Jarrett-The-K%C3%B6ln-Concert) |
 | **C** | US Polydor pressing | 2-25002 | 1975–78 | Stereo, 33⅓, 2LP | Mastered Sterling Sound; various US plants | Slightly drier tonally; $20–$60 | [Discogs](https://www.discogs.com/release/1259362-Keith-Jarrett-The-K%C3%B6ln-Concert) |
 | **C** | Japanese Polydor/Trio pressing | PA-6053/PA-6054 | 1975–76 | Stereo, 33⅓, 2LP | Japanese pressing, Trio-Kenwood distribution | Quiet vinyl; some find it "too perfect" vs. the German original; $40–$100 with obi | [Discogs](https://www.discogs.com/release/490628-Keith-Jarrett-The-K%C3%B6ln-Concert) |
-| **D** | Non-German 1970s–80s pressings | Various | 1970s–80s | Stereo, 33⅓, 2LP | Copy tapes; local plants | Avoid; 2010 Pallas is better for same price | – |
+| **D** | Non-German 1970s–80s pressings | Various | 1970s–80s | Stereo, 33⅓, 2LP | Copy tapes; local plants | Avoid; 2010 Pallas is better for same price; €15–€40 | – |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/26241-Keith-Jarrett-The-K%C3%B6ln-Concert](https://www.discogs.com/master/26241-Keith-Jarrett-The-K%C3%B6ln-Concert)
+- Tim Harford, "Cautionary Tales, Episode 1: Too Big to Fail": [https://timharford.com/2019/09/cautionary-tales-ep-1-too-big-to-fail/](https://timharford.com/2019/09/cautionary-tales-ep-1-too-big-to-fail/)
+- Tracking Angle, "Keith Jarrett's Legendary Köln Concert Gets a 50th Anniversary Special ECM Reissue": [https://trackingangle.com/music/keith-jarretts-legendary-koln-concert-gets-an-ecm-reissue](https://trackingangle.com/music/keith-jarretts-legendary-koln-concert-gets-an-ecm-reissue)
+- Tracking Angle, "ECM Releases 50th Anniversary Edition of Keith Jarrett's Groundbreaking 'The Köln Concert'": [https://trackingangle.com/features/ecm-releases-50th-anniversary-edition-of-keith-jarretts-groundbreaking-the-koln-concert](https://trackingangle.com/features/ecm-releases-50th-anniversary-edition-of-keith-jarretts-groundbreaking-the-koln-concert)
+- IMDb, "Köln 75": [https://www.imdb.com/title/tt14852728/](https://www.imdb.com/title/tt14852728/)
+- Discogs release and community listings for all pressings referenced in the tier table above (original ECM 1064/65 ST "Urheber-" and "Alle" label variants, 2010 Pallas reissue, ECM 50th Anniversary, US Polydor 2-25002, Japanese Polydor/Trio PA-6053/PA-6054)
