@@ -76,6 +76,10 @@ Pressed from original US metal parts; RVG is hand-etched. Multiple collectors co
 
 Also from original metal; harder to find in good condition. **$60–$120 when found.**
 
+### Dutch Artone
+
+A mid-1960s Dutch pressing on the Artone label, distinguished by unusual heavy plastic "girly cover" packaging – definitely not a first European pressing chronologically, though it does carry the RVG stamp and Prestige matrix in the same family as the Esquire and Metronome pressings above. Accounts of exactly which metalwork generation this stamper comes from conflict: [one collector, buying a copy in person, was told by the seller](https://www.youtube.com/watch?v=9A6PhsBmE7M) that it uses the original US first-pressing stampers, and rated the sound very highly – "beautifully pressed," with "a bit more depth" and warmth than an AP reissue. [LJC's more detailed stamper forensics](https://londonjazzcollector.wordpress.com/2013/10/28/sonny-rollins-saxophone-colossus-1956-prestige/), however, suggest the Artone stamper source is more likely from the second-issue Prestige metalwork (the Bergenfield-era plates) rather than the true first pressing – still RVG-derived and legitimate, but not necessarily identical to the very first US stampers as sometimes claimed. Worth trying if you find one cheap, but don't pay first-pressing prices expecting first-pressing metalwork. **$40–$100, when found.**
+
 ---
 
 ## The reissue hierarchy
@@ -85,6 +89,8 @@ Also from original metal; harder to find in good condition. **$60–$120 when fo
 **Cat. APRJ 7079** | Barcode: **753088707933** | Format: single 200g (2013, [Discogs r4403277](https://www.discogs.com/release/4403277-Sonny-Rollins-Saxophone-Colossus)) or 180g (2022 repress, [Discogs r22729826](https://www.discogs.com/release/22729826-Sonny-Rollins-Saxophone-Colossus)) LP, 33⅓, mono, gatefold tip-on jacket. **Mastered by Kevin Gray at Cohearent Audio (KPG), AAA, from the original analogue mono masters at Concord. Pressed at QRP.** Deep-groove label profile; flat edge; faithful to original format. Matrix: **PRLP-7079-A KPG @ CA QRP KEVIN GRAY** / **PRLP-7079-B KPG @ CA QRP KEVIN GRAY**
 
 Dennis Davis, VinylReviews.com (5/5): "Analogue Productions' 33RPM mastering produces an even larger soundstage with better depth. Add to that the fact that the new packaging is far superior to the 45RPM issue, and this one-disc package is Sonny Rollins nirvana." Acoustic Sounds: "The sound on Saxophone Colossus is upfront and immediate." Multiple Discogs owners: "Brilliant mastering, flat and silent vinyl." "One of the best sounding records I have ever heard!" "Absolute Fantastic Pressing and a Live Atmosphere."
+
+Worth understanding before assuming the AP is a strict upgrade over an original: [a direct A/B/C comparison](https://www.youtube.com/watch?v=5HQmrg3wUmU) between the US original, the Danish first pressing, and the AP found a genuine character tradeoff, not simply "the reissue wins." On both originals, Rollins's saxophone dominates the mix – described as "an explosion," with the rhythm section feeling almost secondary by comparison. The AP integrates the band far more evenly – stronger, more audible bass and drums, a more cohesive ensemble sound – but in doing so loses some of that raw saxophone forwardness. Which you prefer may come down to what you value in this specific recording. The same reviewer, who directly compared the Danish pressing against the US original (both bearing the identical Van Gelder matrix and metal parts), came away preferring the Danish copy very slightly, describing it as having "slightly more of everything" despite being a fraction of the US original's price.
 
 The 2022 repress (r22729826) uses 180g rather than 200g vinyl; matrix and mastering are identical to the 2013 original. Owners confirm: "Who knew mono could sound this good?! Flat, quiet and very clear sounding." Still available new at list price. **$60–$90 new; 200g 2013 original: $80–$120 secondary.**
 
@@ -153,8 +159,20 @@ DOL releases are generally regarded with scepticism due to their unlicensed, dig
 | **B** | Bergenfield NJ second pressing | PRLP 7079 | c.1958 | Mono, 33⅓ | RVG / Abbey Manufacturing | Same metalwork as first press; much cheaper; $100–$250 NM | [Discogs](https://www.discogs.com/release/7230759-Sonny-Rollins-Saxophone-Colossus) |
 | **B** | UK Esquire 32-045 | 32-045 | c.1958 | Mono, 33⅓ | RVG / Abbey metal parts | RVG hand-etched; shallow but genuine; £80–£200 | [Discogs](https://www.discogs.com/release/3934957-Sonny-Rollins-Saxophone-Colossus) |
 | **B** | Danish Metronome | Various | c.1957–60 | Mono, 33⅓ | RVG / Abbey metal parts | RVG confirmed hand-etched; excellent sound; $60–$150 | [Discogs](https://www.discogs.com/release/7219516-Sonny-Rollins-Saxophone-Colossus) |
+| **C** | Dutch Artone | Various | mid-1960s | Mono, 33⅓ | RVG stamp; likely 2nd-issue metalwork | Stamper generation disputed; well-reviewed by at least one owner; $40–$100 | – |
 | **C** | OJC-291 1987 pressing | OJC-291 | 1987 | Mono, 33⅓ | Fantasy Studios analogue | Good energy; the budget buy; $15–$30 | [Discogs](https://www.discogs.com/release/1376103-Sonny-Rollins-Saxophone-Colossus) |
 | **C** | DOL773HB 180g blue vinyl | DOL773HB | 2017 | 33⅓, 180g, blue vinyl | Unconfirmed; well-reviewed for pressing quality | "Great dynamics and zero static"; EU public-domain; ~$20–$30 | [Discogs](https://www.discogs.com/release/14481054-Sonny-Rollins-Saxophone-Colossus) |
 | **D** | 2011 OJC repress | OJC-291 | 2011 | Mono, 33⅓ | DCC Hoffman/Gray plates (struck through) | Uses scratched-out DCC stampers; check label date | [Discogs](https://www.discogs.com/release/6584452-Sonny-Rollins-Saxophone-Colossus) |
 | **D** | PRLP 7326 gold label | PRLP 7326 | 1964 | Mono, 33⅓ | Original RVG metalwork; recycled vinyl | Hissy; only worth it if RVG is hand-etched (not stamped) | [Discogs](https://www.discogs.com/release/10176523-Sonny-Rollins-Saxophone-Colossus) |
-| **F** | 1970s rechanneled stereo (green label) | Various | 1970s | Fake stereo | Electronically processed mono | Incoherent panning; avoid | – |
+| **F** | 1970s rechanneled stereo (green label) | Various | 1970s | Fake stereo | Electronically processed mono | Incoherent panning; avoid; $10–$25 | – |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/174519-Sonny-Rollins-Saxophone-Colossus](https://www.discogs.com/master/174519-Sonny-Rollins-Saxophone-Colossus)
+- LondonJazzCollector, "Sonny Rollins: Saxophone Colossus (1956) Prestige": [https://londonjazzcollector.wordpress.com/2013/10/28/sonny-rollins-saxophone-colossus-1956-prestige/](https://londonjazzcollector.wordpress.com/2013/10/28/sonny-rollins-saxophone-colossus-1956-prestige/)
+- LondonJazzCollector, "Sonny Rollins: Saxophone Colossus (1956) Esquire": [https://londonjazzcollector.wordpress.com/2014/09/21/sonny-rollins-saxophone-colossus-1956-esquire/](https://londonjazzcollector.wordpress.com/2014/09/21/sonny-rollins-saxophone-colossus-1956-esquire/)
+- Deep Groove Mono, "Vinyl Spotlight: Sonny Rollins, Saxophone Colossus (Prestige 7079/7326) 'Gold Label' RVG Mono Pressing": [https://dgmono.com/2018/05/30/vinyl-spotlight-sonny-rollins-saxophone-colossus-prestige-gold-label-mono-reissue/](https://dgmono.com/2018/05/30/vinyl-spotlight-sonny-rollins-saxophone-colossus-prestige-gold-label-mono-reissue/)
+- The Skeptical Audiophile, Hot Stamper listing/review: [https://ontherecord.co/2025/04/28/copy-sonny-rollins-saxophone-colossus-dcc-and-cd-and-ojc/](https://ontherecord.co/2025/04/28/copy-sonny-rollins-saxophone-colossus-dcc-and-cd-and-ojc/)
+- Discogs release and community listings for all pressings referenced in the tier table above (original PRLP 7079 yellow label and Bergenfield pressings, AP mono 33rpm and 45rpm, DCC GZS-1062, UK Esquire, Danish Metronome, Dutch Artone, French Barclay, OJC-291, DOL773HB, PRLP 7326 gold label)
+- YouTube, 45 RPM Audiophile, "My Most Exciting Comparison So Far: Saxophon Colossus - US Original vs. Danish 1st vs. AP Prestige!": [https://www.youtube.com/watch?v=5HQmrg3wUmU](https://www.youtube.com/watch?v=5HQmrg3wUmU)
+- YouTube, Top 5 Records, "Sonny Rollins - Saxophone Colossus - Analogue Productions Vs Van Gelder Og Stamper (on NL vinyl)": [https://www.youtube.com/watch?v=9A6PhsBmE7M](https://www.youtube.com/watch?v=9A6PhsBmE7M)
