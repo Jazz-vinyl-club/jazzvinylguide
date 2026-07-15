@@ -7,7 +7,9 @@
 Unlike the vintage titles elsewhere in this guide, the collector question here isn't which decades-old reissue best channels a fragile master tape – it's a straightforward, well-documented format problem: 172 minutes of music was pressed onto just three LPs (six sides), averaging close to 30 minutes per side. That's roughly twice the playing time per side that vinyl mastering engineers generally recommend for full dynamic range, and the sonic compromise shows up consistently across every pressing run of this title, not just a bad batch.
 
 **Best early pressing for audiophiles:** There isn't a meaningfully different "early" option – see the format note below.
+
 **Best modern pressing for audiophiles:** All vinyl pressings ([Discogs](https://www.discogs.com/release/7383499-Kamasi-Washington-The-Epic)) share the same half-speed master; there's no reissue that fixes the underlying side-length compromise.
+
 **Best-value modern:** The vinyl box set at whatever price you find it – the vinyl-specific limitations apply equally to every copy, so there's little reason to pay a premium for a particular pressing year.
 
 ## Recording history and tape provenance
@@ -34,5 +36,12 @@ Given this, the practical guidance for this title is straightforward: buy the vi
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | CD / digital | BFCD050 | 2015 | Stereo | Mastered by Stephen Marcussen, Marcussen Mastering | Widely preferred over vinyl for critical listening on this title | – |
-| **B** | Vinyl box set (all pressing years) | BF050 | 2015–2021 | Stereo, 33⅓, 3×180g | Half-speed cut by Matt Colton, Alchemy Mastering, MPO | Same master across all years; ~30 min/side compresses dynamics; excellent packaging | [Discogs](https://www.discogs.com/release/7383499-Kamasi-Washington-The-Epic) |
+| **A** | CD / digital | BFCD050 | 2015 | Stereo | Mastered by Stephen Marcussen, Marcussen Mastering | Widely preferred over vinyl for critical listening on this title; $12–$20 | – |
+| **B** | Vinyl box set (all pressing years) | BF050 | 2015–2021 | Stereo, 33⅓, 3×180g | Half-speed cut by Matt Colton, Alchemy Mastering, MPO | Same master across all years; ~30 min/side compresses dynamics; excellent packaging; $60–$100 | [Discogs](https://www.discogs.com/release/7383499-Kamasi-Washington-The-Epic) |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/837501-Kamasi-Washington-The-Epic](https://www.discogs.com/master/837501-Kamasi-Washington-The-Epic)
+- AllMusic, Thom Jurek's review of "The Epic": [https://www.allmusic.com/album/the-epic-mw0002838338](https://www.allmusic.com/album/the-epic-mw0002838338)
+- TurntableLab, product page for the vinyl 3LP box set: [https://www.turntablelab.com/products/kamasi-washington-the-epic-180g-vinyl-3lp](https://www.turntablelab.com/products/kamasi-washington-the-epic-180g-vinyl-3lp)
+- Discogs release and community listings for all pressings of the vinyl box set (BF050, all pressing years 2015-2021)
