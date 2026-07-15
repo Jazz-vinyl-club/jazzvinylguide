@@ -7,7 +7,9 @@
 Riverside recorded to twin-track by 1961, so the stereo release is a genuine capture rather than a later derivative – collectors and mastering engineers alike treat both mono and stereo as legitimate, with stereo generally preferred for the way it separates LaFaro's bass and Motian's brushwork across the soundstage. The reissue history here is unusually well-documented and genuinely contested: three different mastering engineers across four decades have each drawn different things out of the same tapes, with no consensus on which is "best."
 
 **Best early pressing for audiophiles:** [Original Riverside stereo, RLP 9399](https://www.discogs.com/release/13975220-Bill-Evans-Trio-With-Scott-LaFaro-Paul-Motian-Waltz-For-Debby) – deep groove, "Bill Grauer Productions" label.
+
 **Best modern pressing for audiophiles:** [Analogue Productions UHQR (AUHQR 0018-45, 2024)](https://www.discogs.com/release/31288886-Bill-Evans-Trio-Waltz-For-Debby) – Kevin Gray, Clarity Vinyl, 45rpm; widely (though not universally) rated the finest version yet.
+
 **Best-value modern:** [Craft Recordings Original Jazz Classics (CR00617, 2023)](https://www.discogs.com/release/27345327-Bill-Evans-Trio-Waltz-For-Debby) – Kevin Gray, RTI, single 180g LP.
 
 ## Recording history and tape provenance
@@ -56,7 +58,9 @@ Part of Analogue Productions' 11-album, 22-LP *Bill Evans: The Complete Riversid
 
 ### Craft Recordings Original Jazz Classics (2023) – the modern standard-bearer
 
-**Cat. CR00617** | Format: 180g LP, stereo, tip-on jacket, part of the relaunched Original Jazz Classics series. **All-analog mastering from the original tapes by Kevin Gray at Cohearent Audio, pressed at RTI.** Tracking Angle's Fremer rated this "the best-sounding of all the pressings" on first release, praising warmer, clearer bass resonance than the Sax pressing, though noting the comparison is close enough that reasonable listeners disagree – some later shootout participants still preferred Sax's more forward excitement. [Discogs](https://www.discogs.com/release/27345327-Bill-Evans-Trio-Waltz-For-Debby) **$35–$45 new.**
+**Cat. CR00617** | Format: 180g LP, stereo, tip-on jacket, part of the relaunched Original Jazz Classics series. **All-analog mastering from the original tapes by Kevin Gray at Cohearent Audio, pressed at RTI.** Tracking Angle's Fremer rated this "the best-sounding of all the pressings" on first release, praising warmer, clearer bass resonance than the Sax pressing, though noting the comparison is close enough that reasonable listeners disagree – some later shootout participants still preferred Sax's more forward excitement.
+
+[One detailed direct A/B against the AP box set edition](https://www.youtube.com/watch?v=M6Jx2QOgHFg) found a genuine, specific character tradeoff: the Craft OJC is more tonally balanced overall – each instrument sits at a similar level, giving a cohesive, unified feel – but the AP box's bass has noticeably more sustain and finger detail, the piano is louder and more separated from the rest of the ensemble, and the recording feels fuller and more "in the room." The OJC's cymbals and brushwork, by contrast, run hotter and brighter, occasionally tipping toward tinny – a character some listeners attribute to Kevin Gray's mastering signature showing up similarly across other labels (Blue Note, Craft) he's worked on. The OJC is also cut at a noticeably lower level than the AP, requiring more amplifier gain to reach the same perceived loudness. One artifact worth knowing about in advance, so it isn't mistaken for a pressing defect: a brief, audible "blip" roughly ten seconds into "My Foolish Heart," where the recording briefly gets louder (as if a microphone was adjusted mid-take), is present on this pressing, the AP box, and the original mono alike – confirming it's baked into the 1961 tape itself, not specific to any single edition. [Discogs](https://www.discogs.com/release/27345327-Bill-Evans-Trio-Waltz-For-Debby) **$35–$45 new.**
 
 ### Analogue Productions UHQR (2024) – the current reference
 
@@ -73,9 +77,12 @@ Numerous colored-vinyl and budget European reissues circulate (yellow, purple, t
 ## Buyer's guide by budget
 
 **Under $50:** The [**Craft Recordings OJC (2023)**](https://www.discogs.com/release/27345327-Bill-Evans-Trio-Waltz-For-Debby) – the best-value modern pressing and, per most direct comparisons, close to the best-sounding overall.
+
 **$100–$270:** The [**Analogue Productions HQ-180 (1992, Doug Sax)**](https://www.discogs.com/release/2415967-Bill-Evans-Trio-With-Scott-LaFaro-Paul-Motian-Waltz-For-Debby) on the secondary market – still preferred by some listeners for its rhythm-section excitement.
-**$150–$400:** A clean original [**Riverside RLP 9399 stereo**](https://www.discogs.com/release/13975220-Bill-Evans-Trio-With-Scott-LaFaro-Paul-Motian-Waltz-For-Debby) for the genuine 1962 pressing experience.
+
 **$150–$300:** The [**Analogue Productions UHQR (2024)**](https://www.discogs.com/release/31288886-Bill-Evans-Trio-Waltz-For-Debby) for the current reference edition, if budget allows.
+
+**$150–$400:** A clean original [**Riverside RLP 9399 stereo**](https://www.discogs.com/release/13975220-Bill-Evans-Trio-With-Scott-LaFaro-Paul-Motian-Waltz-For-Debby) for the genuine 1962 pressing experience.
 
 ---
 
@@ -90,3 +97,9 @@ Numerous colored-vinyl and budget European reissues circulate (yellow, purple, t
 | **A** | Original Riverside mono | RLP 399 | 1962 | Mono, 33⅓ | Original 1962 mastering | Deep groove; $150–$400 NM | [Discogs](https://www.discogs.com/release/3415732-Bill-Evans-Trio-With-Scott-LaFaro-Paul-Motian-Waltz-For-Debby) |
 | **B** | Japanese Riverside/Milestone pressing | SMJ-6118 | 1975 | Stereo, 33⅓ | Licensed Japanese pressing | Highly praised for pressing quality; $40–$90 with obi | [Discogs](https://www.discogs.com/release/3866394-Bill-Evans-Trio-Waltz-For-Debby) |
 | **C** | Original Jazz Classics (vintage) | OJC-210 | 1985 | Stereo, 33⅓ | Fantasy reissue from orig tapes | Affordable, decent quality; $20–$50 | [Discogs](https://www.discogs.com/release/9110742-Bill-Evans-Trio-With-Scott-LaFaro-Paul-Motian-Waltz-For-Debby) |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/104369-Bill-Evans-Trio-With-Scott-LaFaro-Paul-Motian-Waltz-For-Debby](https://www.discogs.com/master/104369-Bill-Evans-Trio-With-Scott-LaFaro-Paul-Motian-Waltz-For-Debby)
+- Discogs release and community listings for all pressings referenced in the tier table above (original RLP 399/RLP 9399, Analogue Productions HQ-180 and 45rpm box/UHQR, Craft Recordings OJC CR00617, Japanese Riverside/Milestone SMJ-6118, vintage OJC-210)
+- YouTube, WCB Jazz Vinyl, "Bill Evans' Waltz for Debby: OJC vs Analogue Productions": [https://www.youtube.com/watch?v=M6Jx2QOgHFg](https://www.youtube.com/watch?v=M6Jx2QOgHFg)
