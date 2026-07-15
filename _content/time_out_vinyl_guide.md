@@ -94,6 +94,8 @@ Note: Both 4LP boxes reused the 1995 single-LP jacket artwork with "Copyright 19
 
 Matrix etching: "CS 8192-A1-45 APJ-8192-45 A Bernie Grundman" (and B, C, D for each side).
 
+Worth knowing: this is not an independent remaster. [Elusive Disc's own product description confirms](https://elusivedisc.com/The-Dave-Brubeck-Quartet-Time-Out-200g-45rpm-2LP/productinfo/APLP8192-45) it "comes from the same remastering done for the earlier Classic Records single-sided 45rpm release, which Bernie Grundman cut from the three-channel master tapes" – a detail [independently corroborated by a collector's deadwax comparison](https://www.youtube.com/watch?v=5tMgbWzZJc4), who found Grundman's signature and lettering identical between the two, with only minor additional etching identifying the AP pressing specifically. Despite sharing the same underlying cut, the same reviewer found the AP edition meaningfully quieter than the original Classic Records 45rpm set – attributable to QRP's pressing quality rather than any difference in mastering, since RTI (Classic Records' pressing plant) and QRP are different plants working from the same lacquers/stampers.
+
 Wayne Garcia ([*The Absolute Sound*, January 2013](https://www.theabsolutesound.com), Music = 5/5, Sound = 5/5): "The results speak for themselves: the platters from QRP are in my experience the most consistently flat and quiet being pressed today... at least for the foreseeable here and now, Analogue Productions' newly mastered 45 RPM (Brubeck) is the edition to own. You'll hear it right from the familiar piano intro to 'Blue Rondo à la Turk,' where Brubeck's playing seems richer, more lyrical, more rhythmically alive."
 
 [Vinylreviews.com](https://vinylreviews.com/album/time-out/) on direct comparison with originals: "Of all the choices, this reissue most authoritatively nails the piano and bass sound. At times with an original, you have to remind yourself the bassist is there. The piano's left-hand part is also much better fleshed out on the AP reissue than elsewhere."
@@ -132,6 +134,8 @@ The 33rpm version delivers the same Grundman mastering at slightly reduced groov
 
 **Japanese digitally remastered CBS/Sony pressings (1980s–90s):** Some Japanese pressings of this title are excellent (verify the mastering credit and matrix before purchasing) but the digital remaster era produced mediocre results on many Japanese copies.
 
+**Music On Vinyl import pressing:** A genuine MOV pressing of this title does exist (not a phantom release, despite sometimes being reported as absent). Reception is consistently poor: multiple Discogs owners report significant surface noise, with several noting an older 1970s repress or a Holland repress "blows the MOV out of the water." Not recommended when the AP editions are available.
+
 ---
 
 ## Buyer's guide by budget
@@ -149,7 +153,6 @@ The 33rpm version delivers the same Grundman mastering at slightly reduced groov
 ## Confirmed phantom releases
 
 - **No Impex Records pressing** – Impex issued *Time Further Out* (the 1961 sequel) but not *Time Out*
-- **No Music on Vinyl (MOV) pressing** of the standard album
 - **No Mobile Fidelity vinyl pressing** – MoFi did not license this title for LP
 - **No ORG (Original Recordings Group) edition**
 
@@ -161,13 +164,24 @@ The 33rpm version delivers the same Grundman mastering at slightly reduced groov
 |---|---|---|---|---|---|---|---|
 | **S** | AP 45rpm 2LP | APJ 8192-45 | 2012 | Stereo, 45rpm, 2×180–200g | Original tapes → Bernie Grundman, AAA, QRP | Garcia 5/5; piano/bass authority; ~$80–100 new | [Discogs](https://www.discogs.com/release/3791080-The-Dave-Brubeck-Quartet-Time-Out) |
 | **S** | Original six-eye stereo, no CBS | CS 8192 | 1959 | Stereo, 33⅓ | Scully/Westrex lacquer, Fred Plaut | Early matrix, no CBS; $200–$500 NM | [Discogs](https://www.discogs.com/release/4327349-The-Dave-Brubeck-Quartet-Time-Out) |
-| **B** | Dutch Fontana mono | 682 065 TL | c.1960 | **Mono**, 33⅓ | Philips Holland pressing | TL = mono in Fontana catalogue; LJC comparison vs CBS six-eye (not no-CBS original); $80–$200 NM | [Discogs](https://www.discogs.com/release/3518844-The-Dave-Brubeck-Quartet-Time-Out) |
 | **A** | Classic Records 200g Quiex SV-P 4LP 45rpm | CS 8192 (Classic) | 2000 | Stereo, 45rpm, 4×200g | Original tapes → Bernie Grundman, AAA | Best Classic edition; 4 single-sided LPs; OOP $150–$300 | [Discogs](https://www.discogs.com/release/5575735-The-Dave-Brubeck-Quartet-Time-Out) |
+| **B** | Dutch Fontana mono | 682 065 TL | c.1960 | **Mono**, 33⅓ | Philips Holland pressing | TL = mono in Fontana catalogue; LJC comparison vs CBS six-eye (not no-CBS original); $80–$200 NM | [Discogs](https://www.discogs.com/release/3518844-The-Dave-Brubeck-Quartet-Time-Out) |
 | **B** | AP 33rpm 180g | AAPJ 8192 | 2015 | Stereo, 33⅓, 180g | Original tapes → Bernie Grundman, AAA, QRP | Best-value modern; note cover typo says 45rpm; ~$35–40 new | [Discogs](https://www.discogs.com/release/7632519-The-Dave-Brubeck-Quartet-Time-Out) |
 | **B** | Original six-eye mono, no CBS | CL 1397 | 1959 | Mono, 33⅓ | Scully/Westrex lacquer, Fred Plaut | Discrete mono mix; unified ensemble; $150–$350 NM | [Discogs](https://www.discogs.com/release/4078103-The-Dave-Brubeck-Quartet-Time-Out) |
 | **B** | Classic Records 180g 33rpm | CS 8192 (Classic) | 1995 | Stereo, 33⅓, 180g/200g | Original tapes → Bernie Grundman, AAA | Original Classic single-LP edition; OOP $60–$150 | [Discogs](https://www.discogs.com/release/3858513-The-Dave-Brubeck-Quartet-Time-Out) |
 | **B** | Classic Records Clarity SV-P II 4LP 45rpm | CS 8192 (Classic) | 2008 | Stereo, 45rpm, 4×200g clear | Original tapes → Bernie Grundman, AAA | Same stampers as 2000 Quiex edition; clear vinyl; some prefer Quiex warmth; OOP $150–$350 | [Discogs](https://www.discogs.com/release/6190224-The-Dave-Brubeck-Quartet-Time-Out) |
 | **C** | CBS six-eye stereo | CS 8192 | 1961–62 | Stereo, 33⅓ | Later stampers; CBS overprint | Noticeably inferior; $50–$120 | [Discogs](https://www.discogs.com/release/2261853-The-Dave-Brubeck-Quartet-Time-Out) |
 | **C** | Holland CBS/Columbia represses | CBS 32792 | 1970s–80s | Stereo, 33⅓ | Repress lacquers | Well-regarded by some Discogs users; $20–$60 | [Discogs](https://www.discogs.com/release/1981546-The-Dave-Brubeck-Quartet-Time-Out) |
-| **D** | 1970s–80s US Columbia represses | CS 8192 | 1970s–80s | Stereo, 33⅓ | Later Columbia lathes | Thinner, brighter; budget listening only | – |
-| **F** | EU grey-market (DOL, Waxtime, Vinyl Passion) | Various | 2000s+ | Various | Digital rip, unlicensed | Not licensed; avoid | – |
+| **D** | 1970s–80s US Columbia represses | CS 8192 | 1970s–80s | Stereo, 33⅓ | Later Columbia lathes | Thinner, brighter; budget listening only; $15–$40 | – |
+| **D** | Music On Vinyl import | Various | 2010s | Stereo, 33⅓, 180g | Licensed reissue | Consistently reported as noisy; not recommended over AP editions; $25–$45 | – |
+| **F** | EU grey-market (DOL, Waxtime, Vinyl Passion) | Various | 2000s+ | Various | Digital rip, unlicensed | Not licensed; avoid; typically under $20 | – |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/34081-The-Dave-Brubeck-Quartet-Time-Out](https://www.discogs.com/master/34081-The-Dave-Brubeck-Quartet-Time-Out)
+- LondonJazzCollector, "Dave Brubeck: Time Out (1959) Fontana": [https://londonjazzcollector.wordpress.com/2013/03/15/dave-brubeck-time-out-1959-fontana/](https://londonjazzcollector.wordpress.com/2013/03/15/dave-brubeck-time-out-1959-fontana/)
+- Vinyl Reviews, "The Dave Brubeck Quartet - Time Out": [https://vinylreviews.com/album/time-out/](https://vinylreviews.com/album/time-out/)
+- Acoustic Sounds, product page for the AP 45rpm 2LP: [https://store.acousticsounds.com/d/83377/Dave_Brubeck_Quartet-Time_Out-45_RPM_Vinyl_Record](https://store.acousticsounds.com/d/83377/Dave_Brubeck_Quartet-Time_Out-45_RPM_Vinyl_Record)
+- Elusive Disc, product page confirming the AP 45rpm's shared mastering with Classic Records: [https://elusivedisc.com/The-Dave-Brubeck-Quartet-Time-Out-200g-45rpm-2LP/productinfo/APLP8192-45](https://elusivedisc.com/The-Dave-Brubeck-Quartet-Time-Out-200g-45rpm-2LP/productinfo/APLP8192-45)
+- Discogs release and community listings for all pressings referenced in the tier table above (original six-eye stereo/mono CS 8192/CL 1397, Dutch Fontana, Classic Records 1995/2000/2008 editions, AP 45rpm and 33rpm, CBS six-eye, Music On Vinyl)
+- YouTube, The Pressing Matters, "TIME OUT: DAVE BRUBECK QUARTET Classic Records 33 and 45 vs the Analogue Productions 45": [https://www.youtube.com/watch?v=5tMgbWzZJc4](https://www.youtube.com/watch?v=5tMgbWzZJc4)
