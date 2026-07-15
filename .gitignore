@@ -5,3 +5,4 @@ _site/
 vendor/
 .bundle/
 Gemfile.lock
+market_data.json

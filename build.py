@@ -8,12 +8,111 @@ except ImportError:
     os.system("pip3 install markdown --break-system-packages -q")
     import markdown
 
-BASE_DIR    = os.path.dirname(os.path.abspath(__file__))
-CONTENT_DIR = os.path.join(BASE_DIR, "_content")
-OUTPUT_DIR  = BASE_DIR
-ALBUMS_FILE = os.path.join(BASE_DIR, "albums.json")
-GITHUB_BASE = "https://github.com/Jazz-vinyl-club/jazzvinylguide/edit/main/_content"
-GITHUB_API  = "https://api.github.com/repos/Jazz-vinyl-club/jazzvinylguide/commits"
+BASE_DIR      = os.path.dirname(os.path.abspath(__file__))
+CONTENT_DIR   = os.path.join(BASE_DIR, "_content")
+OUTPUT_DIR    = BASE_DIR
+ALBUMS_FILE   = os.path.join(BASE_DIR, "albums.json")
+MARKET_FILE   = os.path.join(BASE_DIR, "market_data.json")
+GITHUB_BASE   = "https://github.com/Jazz-vinyl-club/jazzvinylguide/edit/main/_content"
+GITHUB_API    = "https://api.github.com/repos/Jazz-vinyl-club/jazzvinylguide/commits"
+
+# Low-to-high, matches fetch_market_data.py's CONDITIONS list exactly --
+# both must stay in sync since this reads that script's output.
+MARKET_CONDITIONS = [
+    "Good (G)",
+    "Very Good (VG)",
+    "Very Good Plus (VG+)",
+    "Near Mint (NM or M-)",
+    "Mint (M)",
+]
+
+CURRENCY_SYMBOLS = {"USD": "$", "AUD": "A$", "GBP": "£", "EUR": "€"}
+
+TIER_TABLE_RE = re.compile(
+    r'(<div class="table-wrap"><table>\s*<thead>.*?<th>Tier</th>.*?</table></div>)', re.S
+)
+ROW_RE = re.compile(r'<tr>.*?</tr>', re.S)
+RELEASE_ID_RE = re.compile(r'discogs\.com/release/(\d+)')
+
+
+def load_market_data():
+    if not os.path.exists(MARKET_FILE):
+        return {}
+    with open(MARKET_FILE) as f:
+        return json.load(f)
+
+
+def render_market_cell(release_id, market_data):
+    """Renders the line-and-dots market ladder for one tier-table row, or a
+    quiet placeholder if this release hasn't been fetched yet (new album just
+    added, or the weekly job hasn't run since)."""
+    entry = market_data.get(release_id)
+    if not entry:
+        return '<span class="market-pending">market data pending</span>'
+
+    conditions = entry.get("conditions", {})
+    symbol = CURRENCY_SYMBOLS.get(entry.get("currency", "USD"), "$")
+    suggested_values = [
+        conditions.get(c, {}).get("suggested_price")
+        for c in MARKET_CONDITIONS
+        if conditions.get(c, {}).get("suggested_price")
+    ]
+    max_price = max(suggested_values) if suggested_values else None
+
+    dots_html = ""
+    for cond in MARKET_CONDITIONS:
+        c = conditions.get(cond, {})
+        for_sale = c.get("for_sale") or 0
+        suggested = c.get("suggested_price")
+
+        if for_sale and suggested:
+            ratio = (suggested / max_price) if max_price else 1
+            size = 6 + round(4 * ratio)
+            price_label = f"{symbol}{suggested:,.0f}"
+            count_html = (
+                f'<a href="https://www.discogs.com/sell/release/{release_id}'
+                f'?sort=condition&amp;sort_order=desc" class="market-count-link">{for_sale}</a>'
+            )
+        else:
+            size = 6
+            price_label = "—"
+            count_html = '<span class="market-count-zero">0</span>'
+
+        dots_html += (
+            f'<div class="market-dot-col">'
+            f'<span class="market-price">{price_label}</span>'
+            f'<span class="market-dot" style="width:{size}px;height:{size}px;"></span>'
+            f'{count_html}'
+            f'</div>'
+        )
+
+    return f'<div class="market-ladder">{dots_html}</div>'
+
+
+def inject_market_column(content_html, market_data):
+    """Finds the tier table (identified by its 'Tier' header, so this never
+    touches other tables like a Buyer's Guide comparison) and appends a
+    Market column, one cell per row, sourced from market_data.json. Leaves
+    the rest of content_html untouched -- if the table isn't found (guide
+    has no tier table yet, or table markup changed unexpectedly), returns
+    the original content_html unmodified rather than guessing."""
+    match = TIER_TABLE_RE.search(content_html)
+    if not match:
+        return content_html
+
+    table_html = match.group(1)
+    table_html = table_html.replace("<th>Discogs</th>", "<th>Discogs</th>\n<th>Market</th>", 1)
+
+    def process_row(row_match):
+        row_html = row_match.group(0)
+        id_match = RELEASE_ID_RE.search(row_html)
+        if not id_match:
+            return row_html  # header row, or a row with no Discogs link -- leave as-is
+        cell = render_market_cell(id_match.group(1), market_data)
+        return row_html.replace("</tr>", f'<td class="market-cell">{cell}</td></tr>', 1)
+
+    table_html = ROW_RE.sub(process_row, table_html)
+    return content_html[: match.start()] + table_html + content_html[match.end() :]
 
 def get_last_updated(content_file):
     """Fetch last commit date for a file from GitHub API."""
@@ -152,6 +251,7 @@ def build_album(album):
         md_text = f.read()
 
     summary_html, content_html = extract_summary(md_text)
+    content_html = inject_market_column(content_html, load_market_data())
 
     mbid = album.get('mbid', '')
     if mbid:
