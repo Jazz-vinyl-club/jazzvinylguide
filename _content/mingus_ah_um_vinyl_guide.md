@@ -32,7 +32,7 @@ This creates an unusual split:
 - **Vintage Six Eye originals (mono CL 1370 or stereo CS 8171):** Edited tracks. Historically significant, sonically stunning from 30th Street tubes and Scully/Westrex lathes – but you are hearing a shorter, sometimes significantly shorter, version of the music.
 - **All modern vinyl reissues (from the 1990s onward):** Full, unedited tracks from the three-track session tapes. Stereo only – there is no unedited mono mix on vinyl.
 
-[LondonJazzCollector](https://londonjazzcollector.wordpress.com/2013/02/12/charles-mingus-ah-um-1959-columbia-six-eye/): "You will be short-changed musically compared with The Evil Silver Disk. When Columbia first issued the album in 1959, six of the album's nine songs were edited in order to fit them on the LP, shortened by several minutes." [Jazzwise](https://www.jazzwise.com): "Six tracks of the original mono release were edited down. That original mono LP was also released in stereo, whereas this stereo is the posthumous reissue including not only all the unedited tracks but three extra items unreleased until 1979."
+[LondonJazzCollector](https://londonjazzcollector.wordpress.com/2013/02/12/charles-mingus-ah-um-1959-columbia-six-eye/): "You will be short-changed musically compared with The Evil Silver Disk. When Columbia first issued the album in 1959, six of the album's nine songs were edited in order to fit them on the LP, shortened by several minutes." [Jazzwise](https://www.jazzwise.com/reviews/charles-mingus-mingus-ah-um-the-stereo-and-mono-versions): "Six tracks of the original mono release were edited down. That original mono LP was also released in stereo, whereas this stereo is the posthumous reissue including not only all the unedited tracks but three extra items unreleased until 1979."
 
 The choice is therefore not simply about sonics but about musical content. Most collectors choose to own at least one of each: an original Six Eye for the authentic 1959 tube sound, and a modern reissue for the complete music.
 
@@ -171,3 +171,16 @@ For most listeners, the [**Music on Vinyl MOVLP065**](https://www.discogs.com/re
 | **F** | UK Philips pressing | BBL 7340 / SBBL 507 | 1960s | Mono/Stereo, 33⅓ | UK copy tape | "Tame and withholding, dull" (LJC) | [Discogs](https://www.discogs.com/release/2065360-Charles-Mingus-Mingus-Ah-Um) |
 | **F** | 1987 Columbia Jazz Masterpieces | CJ 40648 | 1987 | Stereo, 33⅓ | Digital remaster, Vlado Meller | CD-era digital mastering on vinyl | [Discogs](https://www.discogs.com/release/5195430-Charles-Mingus-Mingus-Ah-Um) |
 | **F** | EU grey-market (DOL, Waxtime, JazzWax, etc.) | Various | 2000s+ | Various | Digital rip, unlicensed | Not licensed; "sounds more like a CD" | – |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/65014-Charles-Mingus-Mingus-Ah-Um](https://www.discogs.com/master/65014-Charles-Mingus-Mingus-Ah-Um)
+- Wikipedia, "Mingus Ah Um": [https://en.wikipedia.org/wiki/Mingus_Ah_Um](https://en.wikipedia.org/wiki/Mingus_Ah_Um)
+- LondonJazzCollector, "Charles Mingus: Ah Um (1959) Columbia Six-Eye": [https://londonjazzcollector.wordpress.com/2013/02/12/charles-mingus-ah-um-1959-columbia-six-eye/](https://londonjazzcollector.wordpress.com/2013/02/12/charles-mingus-ah-um-1959-columbia-six-eye/)
+- LondonJazzCollector, "Columbia US Labels": [https://londonjazzcollector.wordpress.com/record-labels-guide/columbia-records/columbia-us-labels/](https://londonjazzcollector.wordpress.com/record-labels-guide/columbia-records/columbia-us-labels/)
+- The Skeptical Audiophile, "Charles Mingus, Ah Um": [https://ontherecord.co/2023/01/29/charles-mingus-ah-um/](https://ontherecord.co/2023/01/29/charles-mingus-ah-um/)
+- Better Records, Tom Port, "Mingus Ah Um": [https://www.betterrecords.com/mingus-ah-um](https://www.betterrecords.com/mingus-ah-um)
+- Jazzwise, "Charles Mingus: Mingus Ah Um: The Stereo and Mono Versions": [https://www.jazzwise.com/reviews/charles-mingus-mingus-ah-um-the-stereo-and-mono-versions](https://www.jazzwise.com/reviews/charles-mingus-mingus-ah-um-the-stereo-and-mono-versions)
+- Vinyl Gourmet, review of the ORG 130 45rpm 2LP: [https://blog.vinylgourmet.com/2014/02/charles-mingus-mingus-ah-um-org-original-recordings-group-vinyl-lp-record-review.html](https://blog.vinylgourmet.com/2014/02/charles-mingus-mingus-ah-um-org-original-recordings-group-vinyl-lp-record-review.html)
+- Stereophile, "Revinylization #8: Charles Mingus: Mingus Ah Um": [https://www.stereophile.com/content/revinylization-8-charles-mingus-mingus-ah-um](https://www.stereophile.com/content/revinylization-8-charles-mingus-mingus-ah-um)
+- Discogs release and community listings for all pressings referenced in the tier table above (original CL 1370/CS 8171 Six Eye, Classic Records 180g and 200g, Music on Vinyl MOVLP065, ORG 130, MoFi UD1S 2-010, Columbia represses, UK Philips, 1987 Columbia Jazz Masterpieces)
