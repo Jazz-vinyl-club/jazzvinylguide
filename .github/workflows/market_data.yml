@@ -1,0 +1,50 @@
+name: Update market data
+
+on:
+  schedule:
+    # Every Monday at 03:00 UTC. Change to e.g. "0 3 * * *" for daily later.
+    - cron: "0 3 * * 1"
+  workflow_dispatch: {}
+    # Lets you trigger a run manually from the Actions tab without waiting
+    # for the schedule — useful right after setup, or after adding a new
+    # album's tier table.
+
+permissions:
+  contents: write
+
+concurrency:
+  group: market-data-update
+  cancel-in-progress: false
+    # Don't cancel a run in progress if the schedule fires again before it
+    # finishes (a full --all pass can take 45-60+ min) — just let it queue.
+
+jobs:
+  update-market-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch market data
+        env:
+          DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
+        run: |
+          python3 scripts/fetch_market_data.py --all --currency USD
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "jazzvinylguide-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet -- market_data.json; then
+            echo "No changes to market_data.json — nothing to commit."
+          else
+            git add market_data.json
+            git commit -m "Weekly market data refresh ($(date -u +%Y-%m-%d))"
+            git push
+          fi
