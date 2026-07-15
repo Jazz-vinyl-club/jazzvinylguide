@@ -4,7 +4,7 @@
 
 *Song for My Father* was recorded across two sessions, both at Van Gelder Studio, Englewood Cliffs, New Jersey: **October 31, 1963** (tracks featuring Blue Mitchell, Junior Cook, Gene Taylor, Roy Brooks); and **October 26, 1964** (the title track and remainder of the album, with a new quintet: Carmell Jones, Joe Henderson, Teddy Smith, Roger Humphries). Horace Silver (piano) leads all sessions. Produced by Alfred Lion; released on **Blue Note in 1965** as BLP 4185 (mono) and BST 84185 (stereo). The title track fuses a bossa nova rhythm absorbed from Silver's 1964 trip to Brazil with a melody drawn from his Cape Verdean family heritage – his father's folk music from the island of Maio. It became a jazz standard and one of Blue Note's most commercially successful records of the decade; the cover is a Francis Wolff photograph of Silver's father, John Tavares Silva.
 
-Both mono and stereo originals are worthwhile. The title track has a well-documented tape problem – a piano speed/warble issue present on every reissue since the original pressings, including the Blue Note Classic Vinyl – which Music Matters specifically commissioned custom restoration work to fix for their 2010 45rpm edition. Absent that pressing, buyers should expect the warble on modern reissues and originals alike.
+Both mono and stereo originals are worthwhile, and both are free of a well-documented tape problem affecting every reissue since: a piano speed/warble issue on the title track, present on the Blue Note Classic Vinyl and virtually every pressing and CD that followed the original 1965 run. Music Matters specifically commissioned custom restoration work to fix it for their 2010 45rpm edition. Absent that pressing (or an original), buyers should expect the warble on modern reissues.
 
 **Best early pressing for audiophiles:** [Original Blue Note BLP 4185 mono, NY USA label](https://www.discogs.com/release/2019742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) – deep groove Side 1, Van Gelder stamp, Plastylite ear; $150–$400 NM.
 
@@ -112,4 +112,15 @@ Note: r2019742 on Discogs shows a "43 West 61st" address pressing – this is th
 | **B** | Blue Note Classic Vinyl 180g | BST 84185 | 2020 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Title-track warble present; separate QC issues documented; $20–$35 | [Discogs](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
 | **B** | Japanese King Records pressing | GXF-3017 | 1977 | Stereo, 33⅓ | Licensed Japanese pressing | Quiet vintage vinyl; $40–$90 with obi | [Discogs](https://www.discogs.com/release/3936547-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
 | **C** | Liberty-era pressing (with VG stamp) | BST 84185 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $30–$80 VG+ | [Discogs](https://www.discogs.com/release/4231572-The-Horace-Silver-Quintet-Song-For-My-Father) |
-| **D** | Generic European reissues | Various | 1970s+ | Stereo, 33⅓ | Various | Not recommended | – |
+| **D** | Generic European reissues | Various | 1970s+ | Stereo, 33⅓ | Various | Not recommended; $10–$25 | – |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/155008-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai](https://www.discogs.com/master/155008-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai)
+- Wikipedia, "Song for My Father (album)": [https://en.wikipedia.org/wiki/Song_for_My_Father_(album)](https://en.wikipedia.org/wiki/Song_for_My_Father_(album))
+- Wikipedia, "Song for My Father (composition)": [https://en.wikipedia.org/wiki/Song_for_My_Father_(composition)](https://en.wikipedia.org/wiki/Song_for_My_Father_(composition))
+- Everything Jazz, "Horace Silver: Song For My Father": [https://www.everythingjazz.com/story/horace-silver-song-for-my-father/](https://www.everythingjazz.com/story/horace-silver-song-for-my-father/)
+- My Vinyl Review, "The Horace Silver Quintet: Song For My Father -- Music Matters 45 RPM Vinyl": [https://myvinylreview.blogspot.com/2010/08/horace-silver-quintet-song-for-my.html](https://myvinylreview.blogspot.com/2010/08/horace-silver-quintet-song-for-my.html)
+- All About Jazz, Greg Simmons, review of the Music Matters reissue: [https://www.allaboutjazz.com/horace-silver-song-for-my-father-horace-silver-by-greg-simmons](https://www.allaboutjazz.com/horace-silver-song-for-my-father-horace-silver-by-greg-simmons)
+- Discogs release and community listings for all pressings referenced in the tier table above (original BLP 4185/BST 84185, Music Matters MMBST-84185, Blue Note Classic Vinyl, Japanese King GXF-3017, Liberty-era pressings)
+- YouTube, Deep Groove Mono, "Opening a sealed vintage copy of Horace Silver Song for My Father": [https://www.youtube.com/watch?v=tKZoeeeLG6Y](https://www.youtube.com/watch?v=tKZoeeeLG6Y)
