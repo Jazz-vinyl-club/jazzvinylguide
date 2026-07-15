@@ -84,6 +84,10 @@ The 33rpm editions are more accessible than the OOP 45rpm. **$80–$150 secondar
 
 Hard panning is noted by LJC: "The horn is hard-panned left and drums hard-panned right... the piano and bass in the middle make the hard-panning less distracting than some other stereo sessions." **$25–$35 new.** [Discogs r18097726](https://www.discogs.com/release/18097726-Hank-Mobley-Soul-Station)
 
+### Blue Note 75th Anniversary / Classic Records Quiex SV-P (2014) – an overlooked AAA option
+
+**Cat. BN-LP 4031** | Format: 200g LP, 33⅓, stereo, Quiex SV-P Super Vinyl. **Remastered by Bernie Grundman.** Issued as part of Blue Note's 75th Anniversary vinyl reissue campaign, spearheaded by current label president Don Was, alongside other titles like Donald Byrd's *Chant*, Dexter Gordon's *Clubhouse*, and Lee Morgan's *The Rajah*. A genuine AAA alternative from a different mastering engineer than the Kevin Gray-dominated reissue lineage for this title, but with far less documented owner discussion than the Music Matters or Classic Vinyl pressings – worth trying if you specifically want to hear Grundman's take on this session. [Discogs](https://www.discogs.com/release/2617240-Hank-Mobley-Soul-Station) **$40–$90 secondary.**
+
 ### Japanese Toshiba pressing – the vintage alternative
 
 The Japanese Toshiba-EMI pressing of *Soul Station* is consistently praised on Discogs as one of the finest-sounding Blue Note reissues to come out of Japan. One owner on the Discogs master page: "Incredible Toshiba pressing of this Hank Mobley classic. Huge huge sound and completely silent in between songs. Great instrumental separation, very wide soundstage. Hank's saxophone sounds dynamic and sweet. Art Blakey's drumming really shines." Another collector notes: "The Toshiba pressing is widely considered one of the finest-sounding Blue Note reissues ever pressed in Japan... King engineers mastered this with a warm, fleshy midrange." **$50–$120 NM with obi.**
@@ -93,6 +97,8 @@ The Japanese Toshiba-EMI pressing of *Soul Station* is consistently praised on D
 ## Pressings to avoid
 
 **Liberty West Coast pressings without Van Gelder stamp:** Cut from copy tape at Research Craft. Lack the warmth and immediacy of the originals. Always check the deadwax for the VG stamp.
+
+**Capitol/EMI UK "audiophile pressing" (1997):** A 180g UK pressing marketed with an "AUDIOPHILE PRESSING" sticker claiming to be "mastered from the original analog tapes." [LJC's direct listening experience](https://londonjazzcollector.wordpress.com/2021/04/30/hank-mobley-soul-station-1960-blue-note-vinyl-classics-2021/) found it "low gain, compressed, sounds weak like a CD" – suspecting it was mastered through a digital delay line from a copy tape rather than genuinely AAA despite the marketing claim. Matrix shows "MASTERED BY CAPITOL" and "G/Re 1" in the runout. Avoid despite the audiophile branding.
 
 **Tone Poet note:** As of mid-2026, no Tone Poet edition of *Soul Station* has been released. Given the album's canonical status, a Tone Poet is widely expected and would be the definitive modern version when it appears.
 
@@ -125,8 +131,18 @@ The Japanese Toshiba-EMI pressing of *Soul Station* is consistently praised on D
 | **A** | Original BST 84031 stereo, NY USA label | BST 84031 | 1960 | Stereo, 33⅓ | RVG / Plastylite; native stereo | Hard-panned; VAN GELDER + ear required; $200–$500 NM | [Discogs](https://www.discogs.com/release/1782584-Hank-Mobley-Soul-Station) |
 | **B** | Music Matters SRX 33rpm (2020) | MMBST-84031 | 2020 | Stereo, 33⅓, 180g SRX | Orig stereo tape → Gray & Hoffman, AcousTech, SRX vinyl | Ultra-low-noise SRX compound; OOP $80–$150 | [Discogs](https://www.discogs.com/release/14870997-Hank-Mobley-Soul-Station) |
 | **B** | Music Matters 33rpm original (2014) | MMBST-84031 | 2014 | Stereo, 33⅓, 180g | Orig stereo tape → Gray & Hoffman, AcousTech, RTI | Same mastering as 45rpm; OOP $80–$150 | [Discogs](https://www.discogs.com/release/5504247-Hank-Mobley-Soul-Station) |
+| **B** | Blue Note 75th Anniversary / Classic Records Quiex SV-P | BN-LP 4031 | 2014 | Stereo, 33⅓, 200g | Orig tape → Bernie Grundman, Quiex SV-P | AAA alternative mastering lineage; less documented than MM/Classic Vinyl; $40–$90 | [Discogs](https://www.discogs.com/release/2617240-Hank-Mobley-Soul-Station) |
 | **B** | Japanese Toshiba pressing | Various | 1970s–80s | Stereo, 33⅓ | Licensed Japanese pressing | "Incredible" sound; warm midrange; $50–$120 with obi | [Discogs](https://www.discogs.com/release/10488968-Hank-Mobley-Soul-Station) |
 | **C** | Blue Note Classic Vinyl 180g | BST 84031 | 2021 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Cohearent, Optimal | Early-run QC issues; buy with returns; $25–$35 new | [Discogs](https://www.discogs.com/release/18097726-Hank-Mobley-Soul-Station) |
 | **C** | Liberty East Coast pressing (VG-stamped) | BST 84031 | 1966–71 | Stereo, 33⅓ | RVG East Coast metal | Inspect for VG stamp; avoid West Coast; $50–$120 VG+ | [Discogs](https://www.discogs.com/release/1038695-Hank-Mobley-Soul-Station) |
-| **D** | Liberty West Coast pressing (no VG stamp) | BST 84031 | 1966–71 | Stereo, 33⅓ | Research Craft from copy tape | Tape generation loss; avoid | – |
-| **F** | Generic EU reissues (DOL, Waxtime, etc.) | Various | 2000s+ | Various | Digital, unlicensed | Avoid | – |
+| **D** | Liberty West Coast pressing (no VG stamp) | BST 84031 | 1966–71 | Stereo, 33⅓ | Research Craft from copy tape | Tape generation loss; avoid; $20–$50 | – |
+| **F** | Generic EU reissues (DOL, Waxtime, etc.) | Various | 2000s+ | Various | Digital, unlicensed | Avoid; typically under $20 | – |
+| **F** | Capitol/EMI UK "audiophile pressing" | Various | 1997 | Stereo, 33⅓, 180g | Likely digital delay line despite "AAA" marketing | Low gain, compressed; avoid despite audiophile branding; $15–$30 | – |
+
+## References
+
+- Discogs (master): [https://www.discogs.com/master/62796-Hank-Mobley-Soul-Station](https://www.discogs.com/master/62796-Hank-Mobley-Soul-Station)
+- Blue Note official site, "Next Stop: Hank Mobley's Soul Station": [https://www.bluenote.com/spotlight/next-stop-hank-mobleys-soul-station/](https://www.bluenote.com/spotlight/next-stop-hank-mobleys-soul-station/)
+- LondonJazzCollector, "Hank Mobley: Soul Station (1960) Blue Note Vinyl Classics (2021)": [https://londonjazzcollector.wordpress.com/2021/04/30/hank-mobley-soul-station-1960-blue-note-vinyl-classics-2021/](https://londonjazzcollector.wordpress.com/2021/04/30/hank-mobley-soul-station-1960-blue-note-vinyl-classics-2021/)
+- Blue Note store, product page for the Classic Vinyl Series LP: [https://store.bluenote.com/products/hank-mobley-soul-station-lp-blue-note-classic-vinyl-edition](https://store.bluenote.com/products/hank-mobley-soul-station-lp-blue-note-classic-vinyl-edition)
+- Discogs release and community listings for all pressings referenced in the tier table above (original BLP 4031/BST 84031, Music Matters MMBST-84031 45rpm and 33rpm/SRX, Blue Note 75th Anniversary/Classic Records, Blue Note Classic Vinyl, Japanese Toshiba, Liberty East and West Coast pressings, Capitol/EMI UK 1997)
