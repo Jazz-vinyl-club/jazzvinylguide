@@ -17,10 +17,18 @@ GITHUB_BASE   = "https://github.com/Jazz-vinyl-club/jazzvinylguide/edit/main/_co
 GITHUB_API    = "https://api.github.com/repos/Jazz-vinyl-club/jazzvinylguide/commits"
 
 # Low-to-high, matches fetch_market_data.py's CONDITIONS list exactly --
-# both must stay in sync since this reads that script's output.
+# both must stay in sync since this reads that script's output. Kept as the
+# full canonical list even though only the top 3 are rendered now (G/VG
+# dropped from the ladder per request -- the data stays in market_data.json
+# either way, just unrendered).
 MARKET_CONDITIONS = [
     "Good (G)",
     "Very Good (VG)",
+    "Very Good Plus (VG+)",
+    "Near Mint (NM or M-)",
+    "Mint (M)",
+]
+DISPLAYED_MARKET_CONDITIONS = [
     "Very Good Plus (VG+)",
     "Near Mint (NM or M-)",
     "Mint (M)",
@@ -32,7 +40,36 @@ TIER_TABLE_RE = re.compile(
     r'(<div class="table-wrap"><table>\s*<thead>.*?<th>Tier</th>.*?</table></div>)', re.S
 )
 ROW_RE = re.compile(r'<tr>.*?</tr>', re.S)
-RELEASE_ID_RE = re.compile(r'discogs\.com/release/(\d+)')
+CELL_RE = re.compile(r'<td.*?</td>', re.S)
+CELL_INNER_RE = re.compile(r'<td[^>]*>(.*)</td>', re.S)
+DISCOGS_HREF_RE = re.compile(r'href="([^"]*discogs\.com/release/\d+[^"]*)"')
+RELEASE_ID_IN_HREF_RE = re.compile(r'discogs\.com/release/(\d+)')
+
+MARKET_SORT_SCRIPT = """<script>
+(function(){
+  document.querySelectorAll('.tier-table').forEach(function(table){
+    var th = table.querySelector('thead th:last-child');
+    if(!th) return;
+    var asc = true;
+    th.classList.add('market-sort-th');
+    th.addEventListener('click', function(){
+      var rows = Array.prototype.filter.call(table.querySelectorAll('tr'), function(r){ return r.querySelector('td'); });
+      if(!rows.length) return;
+      var parent = rows[0].parentNode;
+      rows.sort(function(a,b){
+        var av = parseFloat(a.getAttribute('data-lowest-price'));
+        var bv = parseFloat(b.getAttribute('data-lowest-price'));
+        if(isNaN(av)) av = Infinity;
+        if(isNaN(bv)) bv = Infinity;
+        return asc ? av - bv : bv - av;
+      });
+      rows.forEach(function(r){ parent.appendChild(r); });
+      th.textContent = 'Market ' + (asc ? '\\u25be' : '\\u25b4');
+      asc = !asc;
+    });
+  });
+})();
+</script>"""
 
 
 def load_market_data():
@@ -55,9 +92,12 @@ def render_market_cell(release_id, market_data):
     """Renders one tier-table row's market cell: a real summary line (total
     copies for sale + lowest price, both release-wide -- Discogs doesn't
     expose these broken out by condition, confirmed against the documented
-    API parameters) plus a line-and-dots ladder for suggested_price, which
-    IS genuinely per-condition. Falls back to a quiet placeholder if this
-    release hasn't been fetched yet."""
+    API parameters) plus a line-and-dots ladder for suggested_price at VG+,
+    NM, and Mint (Good/VG dropped from display -- still in market_data.json,
+    just cluttered the ladder at this width and matter less for guides
+    whose own tier criteria treat sub-VG as "avoid unless price is
+    exceptional"). Falls back to a quiet placeholder if this release hasn't
+    been fetched yet."""
     entry = market_data.get(release_id)
     if not entry:
         return '<span class="market-pending">market data pending</span>'
@@ -75,11 +115,11 @@ def render_market_cell(release_id, market_data):
     else:
         summary_html = '<span class="market-summary-none">none currently listed</span>'
 
-    suggested_values = [suggested.get(c) for c in MARKET_CONDITIONS if suggested.get(c)]
+    suggested_values = [suggested.get(c) for c in DISPLAYED_MARKET_CONDITIONS if suggested.get(c)]
     max_price = max(suggested_values) if suggested_values else None
 
     dots_html = ""
-    for cond in MARKET_CONDITIONS:
+    for cond in DISPLAYED_MARKET_CONDITIONS:
         price = suggested.get(cond)
         if price and max_price:
             size = 6 + round(4 * (price / max_price))
@@ -104,30 +144,68 @@ def render_market_cell(release_id, market_data):
     )
 
 
+MARKET_LEGEND = (
+    '<p class="market-legend">Market: current Discogs listings (total for sale &middot; lowest asking price) '
+    'plus Discogs&rsquo; suggested price at VG+, Near Mint, and Mint. Click "Market" to sort by lowest price.</p>'
+)
+
+
 def inject_market_column(content_html, market_data):
     """Finds the tier table (identified by its 'Tier' header, so this never
-    touches other tables like a Buyer's Guide comparison) and appends a
-    Market column, one cell per row, sourced from market_data.json. Leaves
-    the rest of content_html untouched -- if the table isn't found (guide
-    has no tier table yet, or table markup changed unexpectedly), returns
-    the original content_html unmodified rather than guessing."""
+    touches other tables like a Buyer's Guide comparison) and restructures
+    it: the standalone Discogs column is dropped and its link folded onto
+    the Cat# cell instead, and a sortable Market column (real summary +
+    suggested-price ladder, sourced from market_data.json) takes its place
+    as the last column -- same position Discogs held, so no reordering of
+    the other columns is needed. Also widens the table beyond the normal
+    prose column width and prepends a small legend. Leaves content_html
+    completely untouched if the tier table isn't found."""
     match = TIER_TABLE_RE.search(content_html)
     if not match:
         return content_html
 
     table_html = match.group(1)
-    table_html = table_html.replace("<th>Discogs</th>", "<th>Discogs</th>\n<th>Market</th>", 1)
+    table_html = table_html.replace("<table>", '<table class="tier-table">', 1)
+    table_html = table_html.replace("<th>Discogs</th>", '<th>Market \u21c5</th>', 1)
 
     def process_row(row_match):
         row_html = row_match.group(0)
-        id_match = RELEASE_ID_RE.search(row_html)
-        if not id_match:
-            return row_html  # header row, or a row with no Discogs link -- leave as-is
-        cell = render_market_cell(id_match.group(1), market_data)
-        return row_html.replace("</tr>", f'<td class="market-cell">{cell}</td></tr>', 1)
+        cells = CELL_RE.findall(row_html)
+        if len(cells) < 8:
+            return row_html  # header row or unrecognized shape -- leave untouched
+
+        discogs_cell = cells[7]
+        href_match = DISCOGS_HREF_RE.search(discogs_cell)
+
+        if href_match:
+            href = href_match.group(1)
+            release_id_match = RELEASE_ID_IN_HREF_RE.search(href)
+            release_id = release_id_match.group(1) if release_id_match else None
+
+            catnum_inner_match = CELL_INNER_RE.match(cells[2])
+            catnum_inner = catnum_inner_match.group(1) if catnum_inner_match else ""
+            cells[2] = f'<td><a href="{href}" class="market-catnum-link">{catnum_inner}</a></td>'
+
+            if release_id:
+                market_cell_html = render_market_cell(release_id, market_data)
+                lowest_price = (market_data.get(release_id) or {}).get("lowest_price")
+            else:
+                market_cell_html = '<span class="market-pending">market data pending</span>'
+                lowest_price = None
+        else:
+            market_cell_html = '<span class="market-none">\u2013</span>'
+            lowest_price = None
+
+        sort_value = lowest_price if lowest_price is not None else ""
+        cells[7] = f'<td class="market-cell" data-lowest-price="{sort_value}">{market_cell_html}</td>'
+
+        return "<tr>\n" + "\n".join(cells) + "\n</tr>"
 
     table_html = ROW_RE.sub(process_row, table_html)
-    return content_html[: match.start()] + table_html + content_html[match.end() :]
+    table_html = table_html.replace(
+        '<div class="table-wrap">', '<div class="table-wrap tier-table-wrap">', 1
+    )
+    return content_html[: match.start()] + MARKET_LEGEND + table_html + content_html[match.end() :] + MARKET_SORT_SCRIPT
 
 def get_last_updated(content_file):
     """Fetch last commit date for a file from GitHub API."""

@@ -197,15 +197,44 @@ a:hover { color: var(--paper); }
 
 /* Market column -- a real summary line (for-sale count + lowest price,
    release-wide, since Discogs doesn't expose these per condition) above a
-   line-and-dots ladder for suggested_price, which IS genuinely per condition */
-.album-content table th:nth-child(9), .album-content table td:nth-child(9) { width: 190px; }
+   line-and-dots ladder for suggested_price at VG+/NM/Mint (Good/VG dropped
+   from display to reduce clutter -- still present in market_data.json).
+   Discogs column folded into the Cat# link; Market takes its former slot
+   as the last column, and the whole tier table gets a wider breakout than
+   the normal prose-width table wrap. */
+
+.tier-table-wrap {
+  width: calc(var(--max-w) - 4rem) !important;
+  max-width: none !important;
+  margin-left: calc(-1 * (var(--sidebar-w) + 3.5rem)) !important;
+}
+
+.market-legend {
+  width: calc(var(--max-w) - 4rem);
+  margin-left: calc(-1 * (var(--sidebar-w) + 3.5rem));
+  text-align: right;
+  font-size: 0.72rem;
+  font-style: italic;
+  color: var(--grey);
+  margin-bottom: 0.4rem;
+}
+
+.market-catnum-link { color: var(--gold); }
+.market-catnum-link:hover { color: var(--paper); }
+
+.tier-table th.market-sort-th,
+.tier-table thead th:last-child { cursor: pointer; user-select: none; }
+.tier-table thead th:last-child:hover { color: var(--gold); }
+
 .market-cell-inner { display: flex; flex-direction: column; gap: 2px; }
-.market-summary-link { font-family: var(--mono); font-size: 0.66rem; color: var(--gold-dim); text-decoration: underline; }
-.market-summary-none { font-family: var(--mono); font-size: 0.66rem; color: var(--grey); }
-.market-ladder { position: relative; display: flex; justify-content: space-between; padding: 8px 2px 6px; }
+.market-summary-link { font-family: var(--mono); font-size: 0.66rem; font-style: italic; color: var(--gold-dim); text-decoration: none; }
+.market-summary-link:hover { text-decoration: underline; }
+.market-summary-none { font-family: var(--mono); font-size: 0.66rem; font-style: italic; color: var(--grey); }
+.market-none { color: var(--grey); }
+.market-ladder { position: relative; display: flex; justify-content: space-between; padding: 8px 2px 6px; max-width: 160px; }
 .market-ladder::before { content: ""; position: absolute; left: 2px; right: 2px; top: 50%; height: 1px; background: var(--border); }
 .market-dot-col { position: relative; z-index: 1; display: flex; flex-direction: column; align-items: center; gap: 3px; }
 .market-dot { border-radius: 50%; background: var(--gold-dim); display: block; }
-.market-price { font-family: var(--mono); font-size: 0.6rem; color: var(--gold-dim); }
-.market-cond-label { font-family: var(--mono); font-size: 0.56rem; color: var(--grey); }
+.market-price { font-family: var(--mono); font-size: 0.62rem; color: var(--gold-dim); }
+.market-cond-label { font-family: var(--mono); font-size: 0.58rem; color: var(--grey); }
 .market-pending { font-family: var(--mono); font-size: 0.68rem; color: var(--grey); }
