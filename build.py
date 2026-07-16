@@ -42,51 +42,66 @@ def load_market_data():
         return json.load(f)
 
 
+CONDITION_INITIALS = {
+    "Good (G)": "G",
+    "Very Good (VG)": "VG",
+    "Very Good Plus (VG+)": "VG+",
+    "Near Mint (NM or M-)": "NM",
+    "Mint (M)": "M",
+}
+
+
 def render_market_cell(release_id, market_data):
-    """Renders the line-and-dots market ladder for one tier-table row, or a
-    quiet placeholder if this release hasn't been fetched yet (new album just
-    added, or the weekly job hasn't run since)."""
+    """Renders one tier-table row's market cell: a real summary line (total
+    copies for sale + lowest price, both release-wide -- Discogs doesn't
+    expose these broken out by condition, confirmed against the documented
+    API parameters) plus a line-and-dots ladder for suggested_price, which
+    IS genuinely per-condition. Falls back to a quiet placeholder if this
+    release hasn't been fetched yet."""
     entry = market_data.get(release_id)
     if not entry:
         return '<span class="market-pending">market data pending</span>'
 
-    conditions = entry.get("conditions", {})
     symbol = CURRENCY_SYMBOLS.get(entry.get("currency", "USD"), "$")
-    suggested_values = [
-        conditions.get(c, {}).get("suggested_price")
-        for c in MARKET_CONDITIONS
-        if conditions.get(c, {}).get("suggested_price")
-    ]
+    for_sale = entry.get("for_sale") or 0
+    lowest_price = entry.get("lowest_price")
+    suggested = entry.get("suggested_prices", {})
+
+    if for_sale and lowest_price:
+        summary_html = (
+            f'<a href="https://www.discogs.com/sell/release/{release_id}" class="market-summary-link">'
+            f'{for_sale} for sale · from {symbol}{lowest_price:,.0f}</a>'
+        )
+    else:
+        summary_html = '<span class="market-summary-none">none currently listed</span>'
+
+    suggested_values = [suggested.get(c) for c in MARKET_CONDITIONS if suggested.get(c)]
     max_price = max(suggested_values) if suggested_values else None
 
     dots_html = ""
     for cond in MARKET_CONDITIONS:
-        c = conditions.get(cond, {})
-        for_sale = c.get("for_sale") or 0
-        suggested = c.get("suggested_price")
-
-        if for_sale and suggested:
-            ratio = (suggested / max_price) if max_price else 1
-            size = 6 + round(4 * ratio)
-            price_label = f"{symbol}{suggested:,.0f}"
-            count_html = (
-                f'<a href="https://www.discogs.com/sell/release/{release_id}'
-                f'?sort=condition&amp;sort_order=desc" class="market-count-link">{for_sale}</a>'
-            )
+        price = suggested.get(cond)
+        if price and max_price:
+            size = 6 + round(4 * (price / max_price))
+            price_label = f"{symbol}{price:,.0f}"
         else:
             size = 6
             price_label = "—"
-            count_html = '<span class="market-count-zero">0</span>'
 
         dots_html += (
             f'<div class="market-dot-col">'
             f'<span class="market-price">{price_label}</span>'
             f'<span class="market-dot" style="width:{size}px;height:{size}px;"></span>'
-            f'{count_html}'
+            f'<span class="market-cond-label">{CONDITION_INITIALS[cond]}</span>'
             f'</div>'
         )
 
-    return f'<div class="market-ladder">{dots_html}</div>'
+    return (
+        f'<div class="market-cell-inner">'
+        f'<div class="market-summary">{summary_html}</div>'
+        f'<div class="market-ladder">{dots_html}</div>'
+        f'</div>'
+    )
 
 
 def inject_market_column(content_html, market_data):

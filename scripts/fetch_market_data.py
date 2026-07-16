@@ -3,29 +3,46 @@
 Jazz Vinyl Guide — Discogs Market Data Fetcher
 
 Pulls, per pressing linked in a guide's tier table:
-  - num_for_sale + lowest_price, per condition (Mint, NM, VG+, VG, Good)
-    via /marketplace/stats/{release_id}?curr_abbr=...&condition=...
-  - suggested price, per condition, via /marketplace/price_suggestions/{release_id}
-    (requires OAuth — a personal access token is enough, no app registration)
+  - num_for_sale + lowest_price for the release OVERALL, via /releases/{id}
+    (this endpoint already includes these two fields — no extra call needed)
+  - suggested_price PER CONDITION (Mint, NM, VG+, VG, Good), via
+    /marketplace/price_suggestions/{release_id}
 
-Discogs does NOT expose median, average, or highest price via the API (confirmed
-against the API docs and multiple developer-forum threads — only ever available
-on the login-gated /sell/history/ page, out of scope for this pipeline). So this
-script only ever writes num_for_sale, lowest_price, and price_suggestions.
+IMPORTANT, corrected after v1 shipped bad data: Discogs' marketplace/stats
+endpoint does NOT support a per-condition filter. v1 of this script passed a
+`condition` query param to /marketplace/stats/{id} believing it would return
+for_sale/lowest_price scoped to that condition -- it does not. That parameter
+belongs to a completely different endpoint (creating a marketplace listing),
+and the stats endpoint silently ignored it, returning the same release-wide
+numbers on every call regardless of which condition was requested. The result
+was 5 near-identical calls per release for nothing, and a widget showing a
+distinct "for sale" count under every dot that was actually just the same
+release-wide number, duplicated -- implying a precision the API can't back up.
+
+The only thing Discogs actually varies by condition is price_suggestions.
+for_sale and lowest_price only ever exist release-wide. This version reflects
+that honestly: one for_sale/lowest_price pair per release, one suggested_price
+per condition. Confirmed against the documented parameters for both endpoints
+before rewriting this.
+
+Median, average, and highest price remain unavailable via the API entirely
+(only ever shown on the login-gated /sell/history/ page) -- unchanged from v1.
 
 Output: a single JSON sidecar (market_data.json) at the repo root, keyed by
 Discogs release_id, e.g.:
 
 {
   "24373778": {
-    "fetched_at": "2026-07-15T09:12:00Z",
-    "currency": "AUD",
-    "conditions": {
-      "Mint (M)":            {"for_sale": 2, "lowest_price": 298.0, "suggested_price": 340.5},
-      "Near Mint (NM or M-)": {"for_sale": 3, "lowest_price": 210.0, "suggested_price": 260.1},
-      "Very Good Plus (VG+)":{"for_sale": 1, "lowest_price": 215.0, "suggested_price": 215.0},
-      "Very Good (VG)":      {"for_sale": 0, "lowest_price": null,  "suggested_price": null},
-      "Good (G)":            {"for_sale": 0, "lowest_price": null,  "suggested_price": null}
+    "fetched_at": "2026-07-16T09:12:00Z",
+    "currency": "USD",
+    "for_sale": 6,
+    "lowest_price": 215.0,
+    "suggested_prices": {
+      "Good (G)":             12.4,
+      "Very Good (VG)":       85.1,
+      "Very Good Plus (VG+)": 215.0,
+      "Near Mint (NM or M-)": 260.1,
+      "Mint (M)":             340.5
     }
   },
   ...
@@ -59,10 +76,12 @@ OUTPUT_FILE = "market_data.json"
 
 USER_AGENT = "JazzVinylGuideBot/1.0 +https://jazzvinylguide.com"
 
-# Discogs' 8 standard conditions, in low-to-high order (matches the dot ladder
-# in the tier-table widget). "Fair" and "Poor" are excluded — collector-grade
-# guides don't quote prices at that grade, and Gemini/audit conventions never
-# reference them either.
+# Discogs' 5 collector-relevant conditions, in low-to-high order (matches the
+# dot ladder in the tier-table widget). "Fair" and "Poor" are excluded --
+# collector-grade guides don't quote prices at that grade, and Gemini/audit
+# conventions never reference them either. This order only ever applies to
+# suggested_prices now -- for_sale/lowest_price are release-wide, not per
+# condition, per the correction above.
 CONDITIONS = [
     "Good (G)",
     "Very Good (VG)",
@@ -81,8 +100,7 @@ RELEASE_LINK_RE = re.compile(r"discogs\.com/release/(\d+)")
 
 def discogs_get(path, params=None):
     """GET against api.discogs.com with the personal access token. Returns
-    parsed JSON, or None on a 404 (release exists but nothing for that
-    condition is unusual but not an error — treat as zero listings)."""
+    parsed JSON, or None on a 404."""
     url = f"https://api.discogs.com{path}"
     if params:
         query = "&".join(f"{k}={urllib.request.quote(str(v))}" for k, v in params.items())
@@ -109,9 +127,9 @@ def discogs_get(path, params=None):
 
 def scan_release_ids():
     """Pull every Discogs release_id referenced in _content/*.md tier tables.
-    Returns a dict of release_id -> list of (slug, pressing name) for
-    traceability, since one release can legitimately appear in more than one
-    guide's table (rare, but happens with box sets covering two albums)."""
+    Returns a dict of release_id -> list of slugs, for traceability, since one
+    release can legitimately appear in more than one guide's table (rare, but
+    happens with box sets covering two albums)."""
     if not os.path.isdir(CONTENT_DIR):
         print(f"ERROR: {CONTENT_DIR}/ not found. Run this from the repo root.")
         sys.exit(1)
@@ -131,38 +149,34 @@ def scan_release_ids():
 
 
 def fetch_release_market_data(release_id, currency="USD"):
-    """One release -> per-condition for_sale + lowest_price (5 stats calls)
-    plus one price_suggestions call. Returns the conditions dict, or None if
-    the release_id itself doesn't resolve (bad/stale link — flag, don't fetch)."""
+    """One release -> release-wide for_sale + lowest_price (from the release
+    lookup, free) plus per-condition suggested_price (one more call). Returns
+    a dict, or None if the release_id itself doesn't resolve (bad/stale
+    link — flag, don't fetch)."""
 
-    base = discogs_get(f"/releases/{release_id}")
+    base = discogs_get(f"/releases/{release_id}", params={"curr_abbr": currency})
     time.sleep(REQUEST_DELAY)
     if base is None:
         return None
 
-    conditions = {c: {"for_sale": 0, "lowest_price": None, "suggested_price": None} for c in CONDITIONS}
+    for_sale = base.get("num_for_sale") or 0
+    lowest = base.get("lowest_price")
+    lowest_price = lowest.get("value") if isinstance(lowest, dict) else lowest
 
-    for condition in CONDITIONS:
-        stats = discogs_get(
-            f"/marketplace/stats/{release_id}",
-            params={"curr_abbr": currency, "condition": condition},
-        )
-        time.sleep(REQUEST_DELAY)
-        if stats:
-            conditions[condition]["for_sale"] = stats.get("num_for_sale") or 0
-            lowest = stats.get("lowest_price")
-            if lowest:
-                conditions[condition]["lowest_price"] = lowest.get("value")
-
+    suggested_prices = {c: None for c in CONDITIONS}
     suggestions = discogs_get(f"/marketplace/price_suggestions/{release_id}")
     time.sleep(REQUEST_DELAY)
     if suggestions:
         for condition in CONDITIONS:
             entry = suggestions.get(condition)
             if entry:
-                conditions[condition]["suggested_price"] = round(entry.get("value", 0), 2)
+                suggested_prices[condition] = round(entry.get("value", 0), 2)
 
-    return conditions
+    return {
+        "for_sale": for_sale,
+        "lowest_price": lowest_price,
+        "suggested_prices": suggested_prices,
+    }
 
 
 def main():
@@ -179,7 +193,7 @@ def main():
         print(f"Found {len(found)} unique release_ids across _content/:")
         for release_id, slugs in sorted(found.items(), key=lambda kv: kv[1]):
             print(f"  {release_id:>10}  <- {', '.join(slugs)}")
-        est_calls = len(found) * 7  # 1 release lookup + 5 stats + 1 suggestions
+        est_calls = len(found) * 2  # 1 release lookup (incl. for_sale/lowest_price) + 1 suggestions
         est_minutes = (est_calls * REQUEST_DELAY) / 60
         print(f"\nEstimated API calls for --all: {est_calls} (~{est_minutes:.0f} min at {REQUEST_DELAY}s/call)")
         return
@@ -190,11 +204,11 @@ def main():
 
     if args.release:
         print(f"Fetching {args.release}...")
-        conditions = fetch_release_market_data(args.release, currency=args.currency)
-        if conditions is None:
+        data = fetch_release_market_data(args.release, currency=args.currency)
+        if data is None:
             print("  release_id not found on Discogs")
             return
-        print(json.dumps(conditions, indent=2))
+        print(json.dumps(data, indent=2))
         return
 
     if args.all:
@@ -206,23 +220,22 @@ def main():
         for i, (release_id, slugs) in enumerate(sorted(found.items()), 1):
             print(f"  [{i}/{len(found)}] {release_id} ({', '.join(slugs)})...", end=" ")
             try:
-                conditions = fetch_release_market_data(release_id, currency=args.currency)
+                data = fetch_release_market_data(release_id, currency=args.currency)
             except Exception as e:
                 print(f"ERROR: {e}")
                 continue
 
-            if conditions is None:
+            if data is None:
                 print("NOT FOUND — link may be stale, flagging for manual check")
                 stale.append({"release_id": release_id, "guides": slugs})
                 continue
 
-            total_for_sale = sum(c["for_sale"] for c in conditions.values())
-            print(f"{total_for_sale} listings across all conditions")
+            print(f"{data['for_sale']} for sale overall, from {args.currency} {data['lowest_price']}")
 
             result[release_id] = {
                 "fetched_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
                 "currency": args.currency,
-                "conditions": conditions,
+                **data,
             }
 
         print(f"\nDone: {len(result)} releases fetched, {len(stale)} stale/not-found")

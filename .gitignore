@@ -6,3 +6,6 @@ vendor/
 .bundle/
 Gemfile.lock
 market_data.json
+
+# Generated at build time by build.py -- never hand-edited, never a source of truth.
+albums/*.html

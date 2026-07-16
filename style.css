@@ -195,13 +195,17 @@ a:hover { color: var(--paper); }
 .changelog-sha { font-size: 0.7rem; color: var(--grey); }
 .changelog-notes { line-height: 1.55; }
 
-/* Market column -- line-and-dots condition ladder */
+/* Market column -- a real summary line (for-sale count + lowest price,
+   release-wide, since Discogs doesn't expose these per condition) above a
+   line-and-dots ladder for suggested_price, which IS genuinely per condition */
 .album-content table th:nth-child(9), .album-content table td:nth-child(9) { width: 190px; }
-.market-ladder { position: relative; display: flex; justify-content: space-between; padding: 10px 2px 9px; }
+.market-cell-inner { display: flex; flex-direction: column; gap: 2px; }
+.market-summary-link { font-family: var(--mono); font-size: 0.66rem; color: var(--gold-dim); text-decoration: underline; }
+.market-summary-none { font-family: var(--mono); font-size: 0.66rem; color: var(--grey); }
+.market-ladder { position: relative; display: flex; justify-content: space-between; padding: 8px 2px 6px; }
 .market-ladder::before { content: ""; position: absolute; left: 2px; right: 2px; top: 50%; height: 1px; background: var(--border); }
 .market-dot-col { position: relative; z-index: 1; display: flex; flex-direction: column; align-items: center; gap: 3px; }
 .market-dot { border-radius: 50%; background: var(--gold-dim); display: block; }
-.market-price { font-family: var(--mono); font-size: 0.62rem; color: var(--gold-dim); }
-.market-count-link { font-family: var(--mono); font-size: 0.62rem; color: var(--gold-dim); text-decoration: underline; }
-.market-count-zero { font-family: var(--mono); font-size: 0.62rem; color: var(--grey); }
+.market-price { font-family: var(--mono); font-size: 0.6rem; color: var(--gold-dim); }
+.market-cond-label { font-family: var(--mono); font-size: 0.56rem; color: var(--grey); }
 .market-pending { font-family: var(--mono); font-size: 0.68rem; color: var(--grey); }
