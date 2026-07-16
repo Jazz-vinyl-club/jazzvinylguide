@@ -115,17 +115,17 @@ Limited to 3,000 copies. 180g blue vinyl ([r31430060](https://www.discogs.com/re
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Music Matters 45rpm 2LP stereo | MMBST-84194 | 2012 | Stereo, 45rpm, 2×180g | Orig stereo tape → Kevin Gray / Steve Hoffman, RTI | Audiophile pinnacle; "luxurious widescreen presentation" (LJC); OOP $200–$400 | [Discogs](https://www.discogs.com/release/3771718-Wayne-Shorter-Speak-No-Evil) |
-| **A** | Original BST 84194 stereo, NY USA + Plastylite | BST 84194 | 1966 | Stereo, 33⅓ | RVG / Plastylite; native stereo tape | VAN GELDER + Plastylite ear required; $250–$600 NM | [Discogs](https://www.discogs.com/release/382469-Wayne-Shorter-Speak-No-Evil) |
-| **A** | Original BLP 4194 mono, NY USA label | BLP 4194 | 1966 | Mono, 33⅓ | RVG / Plastylite; native mono tape | "Organic vitality unique to VG mono mastering" (LJC); $200–$450 NM | [Discogs](https://www.discogs.com/release/5052985-Wayne-Shorter-Speak-No-Evil) |
-| **B** | Music Matters 33rpm stereo (2015) | MMBST-84194 | 2015 | Stereo, 33⅓, 180g | Orig stereo tape → Kevin Gray, RTI | Same mastering as 45rpm; OOP $80–$150 | [Discogs](https://www.discogs.com/release/15015100-Wayne-Shorter-Speak-No-Evil) |
-| **B** | Music Matters 33rpm SRX stereo (2020) | MMBST-84194 | 2020 | Stereo, 33⅓, 180g | Orig stereo tape → Kevin Gray, QRP | SRX vinyl formulation; OOP $100–$200 | [Discogs](https://www.discogs.com/release/15529480-Wayne-Shorter-Speak-No-Evil) |
-| **B** | Original BST 84194, NY USA (no Plastylite) | BST 84194 | 1966 | Stereo, 33⅓ | RVG, no Plastylite; second pressing | Sonically very close to first; $120–$250 NM | [Discogs](https://www.discogs.com/release/16727037-Wayne-Shorter-Speak-No-Evil) |
-| **B** | Blue Note Classic Vinyl 180g | BST 84194 | 2021 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Excellent value; "hard to improve on the original"; $20–$35 new | [Discogs](https://www.discogs.com/release/16941774-Wayne-Shorter-Speak-No-Evil) |
-| **C** | Liberty/UA era with Van Gelder stamp | BST 84194 | 1966–71 | Stereo, 33⅓ | RVG (if stamped); original metalwork | Check for VAN GELDER stamp; $30–$80 VG+ | [Discogs](https://www.discogs.com/release/8406468-Wayne-Shorter-Speak-No-Evil) |
-| **C** | French Pathé Marconi (1983) | BST 84194 | 1983 | Stereo, 33⅓ | French pressing; may be DMM – check deadwax | "Sounds wonderful"; bright but not harsh; $30–$60 | [Discogs](https://www.discogs.com/release/1367801-Wayne-Shorter-Speak-No-Evil) |
-| **D** | UA/Capitol "MASTERED BY LIBERTY" | BST 84194 | 1973+ | Stereo, 33⅓ | Capitol/EMI remastering, no VG | EMI engineers, no Van Gelder involvement; below Classic Vinyl; $15–$40 | – |
-| **D** | Generic European budget reissues | Various | 1970s+ | Stereo, 33⅓ | Various, no tape access | Not recommended over Classic Vinyl; $15–$30 | – |
+| **S** | Music Matters 45rpm 2LP stereo | MMBST-84194 | 2012 | Stereo, 45rpm, 2×180g | Orig stereo tape → Kevin Gray / Steve Hoffman, RTI | Audiophile pinnacle; "luxurious widescreen presentation" (LJC) | [Discogs](https://www.discogs.com/release/3771718-Wayne-Shorter-Speak-No-Evil) |
+| **A** | Original BST 84194 stereo, NY USA + Plastylite | BST 84194 | 1966 | Stereo, 33⅓ | RVG / Plastylite; native stereo tape | VAN GELDER + Plastylite ear required | [Discogs](https://www.discogs.com/release/382469-Wayne-Shorter-Speak-No-Evil) |
+| **A** | Original BLP 4194 mono, NY USA label | BLP 4194 | 1966 | Mono, 33⅓ | RVG / Plastylite; native mono tape | "Organic vitality unique to VG mono mastering" (LJC) | [Discogs](https://www.discogs.com/release/5052985-Wayne-Shorter-Speak-No-Evil) |
+| **B** | Music Matters 33rpm stereo (2015) | MMBST-84194 | 2015 | Stereo, 33⅓, 180g | Orig stereo tape → Kevin Gray, RTI | Same mastering as 45rpm | [Discogs](https://www.discogs.com/release/15015100-Wayne-Shorter-Speak-No-Evil) |
+| **B** | Music Matters 33rpm SRX stereo (2020) | MMBST-84194 | 2020 | Stereo, 33⅓, 180g | Orig stereo tape → Kevin Gray, QRP | SRX vinyl formulation | [Discogs](https://www.discogs.com/release/15529480-Wayne-Shorter-Speak-No-Evil) |
+| **B** | Original BST 84194, NY USA (no Plastylite) | BST 84194 | 1966 | Stereo, 33⅓ | RVG, no Plastylite; second pressing | Sonically very close to first | [Discogs](https://www.discogs.com/release/16727037-Wayne-Shorter-Speak-No-Evil) |
+| **B** | Blue Note Classic Vinyl 180g | BST 84194 | 2021 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Excellent value; "hard to improve on the original" | [Discogs](https://www.discogs.com/release/16941774-Wayne-Shorter-Speak-No-Evil) |
+| **C** | Liberty/UA era with Van Gelder stamp | BST 84194 | 1966–71 | Stereo, 33⅓ | RVG (if stamped); original metalwork | Check for VAN GELDER stamp | [Discogs](https://www.discogs.com/release/8406468-Wayne-Shorter-Speak-No-Evil) |
+| **C** | French Pathé Marconi (1983) | BST 84194 | 1983 | Stereo, 33⅓ | French pressing; may be DMM – check deadwax | "Sounds wonderful"; bright but not harsh | [Discogs](https://www.discogs.com/release/1367801-Wayne-Shorter-Speak-No-Evil) |
+| **D** | UA/Capitol "MASTERED BY LIBERTY" | BST 84194 | 1973+ | Stereo, 33⅓ | Capitol/EMI remastering, no VG | EMI engineers, no Van Gelder involvement; below Classic Vinyl | – |
+| **D** | Generic European budget reissues | Various | 1970s+ | Stereo, 33⅓ | Various, no tape access | Not recommended over Classic Vinyl | – |
 
 ## References
 

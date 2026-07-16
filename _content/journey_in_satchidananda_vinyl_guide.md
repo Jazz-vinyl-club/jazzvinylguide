@@ -66,10 +66,10 @@ No specific bootleg is widely documented for this title. Be aware that some CD e
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Verve Acoustic Sounds Series | IMP-228 | 2023 | Stereo, 180g | Orig analog tapes, QRP | Exceptional reviews; tip-on gatefold; $35–$45 new | [Discogs](https://www.discogs.com/release/26604263-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) |
-| **A** | Original Impulse! pressing | AS-9203 | 1971 | Stereo, 33⅓ | Original 1971 mastering | Check deadwax for label-era variant; $80–$250 NM | [Discogs](https://www.discogs.com/release/549847-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) |
-| **B** | Vinyl Me Please edition | – | 2017 | Stereo, 180g | Club-exclusive pressing | OOP; luxurious packaging; $80–$150 secondary | [Discogs](https://www.discogs.com/release/10859534-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) |
-| **C** | 1997 reissue (multiple plant variants) | IMP-228 | 1997 | Stereo, 33⅓ | Digital 20-bit remaster source | Secondary to analog original and 2023 Acoustic Sounds; $20–$50 | [Discogs](https://www.discogs.com/release/424029-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) |
+| **S** | Verve Acoustic Sounds Series | IMP-228 | 2023 | Stereo, 180g | Orig analog tapes, QRP | Exceptional reviews; tip-on gatefold | [Discogs](https://www.discogs.com/release/26604263-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) |
+| **A** | Original Impulse! pressing | AS-9203 | 1971 | Stereo, 33⅓ | Original 1971 mastering | Check deadwax for label-era variant | [Discogs](https://www.discogs.com/release/549847-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) |
+| **B** | Vinyl Me Please edition | – | 2017 | Stereo, 180g | Club-exclusive pressing | OOP; luxurious packaging | [Discogs](https://www.discogs.com/release/10859534-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) |
+| **C** | 1997 reissue (multiple plant variants) | IMP-228 | 1997 | Stereo, 33⅓ | Digital 20-bit remaster source | Secondary to analog original and 2023 Acoustic Sounds | [Discogs](https://www.discogs.com/release/424029-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) |
 
 ## References
 

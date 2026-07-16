@@ -112,14 +112,14 @@ One Discogs reviewer who compared it with the Music On Vinyl: "I was able to tel
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | AP 45rpm 2LP | AAPJ 084-45 | 2017/2020 | Stereo, 45rpm, 2×180g | Orig tapes → Ryan K. Smith, Sterling Sound, AAA, QRP | Best available; one track per side; $80–$120 | [Discogs](https://www.discogs.com/release/10453858-Herbie-Hancock-Head-Hunters) |
-| **A** | AP 200g/180g 33rpm | AAPJ 084 | 2015–2022 | Stereo, 33⅓, 180g/200g | Orig tapes → Ryan K. Smith, Sterling Sound, AAA, QRP | Same mastering as 45rpm; strong value; $35–$55 new | [Discogs](https://www.discogs.com/release/7495983-Herbie-Hancock-Head-Hunters) |
-| **A** | Original 1973 US, first metalwork | KC 32731 | 1973 | Stereo, 33⅓ | Catero/Columbia lacquer, Pitman or Terre Haute | -1A/-1A preferred; warm and punchy; ~$20–$60 NM | [Discogs](https://www.discogs.com/release/31381-Herbie-Hancock-Head-Hunters) |
-| **B** | CBS/Sony Japan pressing | SOPL-238 | 1973 | Stereo, 33⅓ | CBS/Sony Japan pressing facility | First Japanese issue; excellent surfaces; $40–$80 with obi | [Discogs](https://www.discogs.com/release/1049796-Herbie-Hancock-Head-Hunters) |
-| **B** | CBS/Sony Japan "AP" audiophile series | 25AP 561 | 1977 | Stereo, 33⅓ | CBS/Sony Japan half-speed audiophile series | More collectible than SOPL-238; premium with obi; $50–$100+ | [Discogs](https://www.discogs.com/release/5275186-Herbie-Hancock-Head-Hunters) |
-| **B** | European CBS pressing, shared US stampers | KC 32731 (Euro) | 1973–74 | Stereo, 33⅓ | Same mastering lineage as US original, different pressing plant | Real quality gap vs. US pressing on direct A/B despite shared mastering; no confirmed specific cat#; $20–$25 | – |
-| **C** | Music On Vinyl MOV | Various | 2009 | Stereo, 33⅓, 180g | TuckerSound mastering, not from original tapes | Quiet surfaces; sonically below AP; $15–$25 used | [Discogs](https://www.discogs.com/release/2542733-Herbie-Hancock-Head-Hunters) |
-| **C** | Quadraphonic SQ matrix | PCQ 32731 | 1974 | Quad/stereo, 33⅓ | Original Columbia quad mix, Catero engineer | Contains extra elements not on stereo; decodable with SQ; $15–$40 | [Discogs](https://www.discogs.com/release/1966323-Herbie-Hancock-Head-Hunters) |
+| **S** | AP 45rpm 2LP | AAPJ 084-45 | 2017/2020 | Stereo, 45rpm, 2×180g | Orig tapes → Ryan K. Smith, Sterling Sound, AAA, QRP | Best available; one track per side | [Discogs](https://www.discogs.com/release/10453858-Herbie-Hancock-Head-Hunters) |
+| **A** | AP 200g/180g 33rpm | AAPJ 084 | 2015–2022 | Stereo, 33⅓, 180g/200g | Orig tapes → Ryan K. Smith, Sterling Sound, AAA, QRP | Same mastering as 45rpm; strong value | [Discogs](https://www.discogs.com/release/7495983-Herbie-Hancock-Head-Hunters) |
+| **A** | Original 1973 US, first metalwork | KC 32731 | 1973 | Stereo, 33⅓ | Catero/Columbia lacquer, Pitman or Terre Haute | -1A/-1A preferred; warm and punchy | [Discogs](https://www.discogs.com/release/31381-Herbie-Hancock-Head-Hunters) |
+| **B** | CBS/Sony Japan pressing | SOPL-238 | 1973 | Stereo, 33⅓ | CBS/Sony Japan pressing facility | First Japanese issue; excellent surfaces | [Discogs](https://www.discogs.com/release/1049796-Herbie-Hancock-Head-Hunters) |
+| **B** | CBS/Sony Japan "AP" audiophile series | 25AP 561 | 1977 | Stereo, 33⅓ | CBS/Sony Japan half-speed audiophile series | More collectible than SOPL-238; premium with obi | [Discogs](https://www.discogs.com/release/5275186-Herbie-Hancock-Head-Hunters) |
+| **B** | European CBS pressing, shared US stampers | KC 32731 (Euro) | 1973–74 | Stereo, 33⅓ | Same mastering lineage as US original, different pressing plant | Real quality gap vs. US pressing on direct A/B despite shared mastering; no confirmed specific cat# | – |
+| **C** | Music On Vinyl MOV | Various | 2009 | Stereo, 33⅓, 180g | TuckerSound mastering, not from original tapes | Quiet surfaces; sonically below AP | [Discogs](https://www.discogs.com/release/2542733-Herbie-Hancock-Head-Hunters) |
+| **C** | Quadraphonic SQ matrix | PCQ 32731 | 1974 | Quad/stereo, 33⅓ | Original Columbia quad mix, Catero engineer | Contains extra elements not on stereo; decodable with SQ | [Discogs](https://www.discogs.com/release/1966323-Herbie-Hancock-Head-Hunters) |
 | **D** | Late 1970s+ Columbia reprints | PC/JC 32731 | 1975+ | Stereo, 33⅓ | Later-generation Columbia lacquer, Carrollton plant | Noticeably thinner; budget listening only | – |
 
 ## References

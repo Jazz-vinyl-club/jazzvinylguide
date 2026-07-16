@@ -103,13 +103,13 @@ However, [LJC's own position evolved](https://londonjazzcollector.wordpress.com/
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Music Matters 45rpm mono | MMBST-84163-(45) | 2009 | Mono, 45rpm, 2×180g | Orig mono tape → Kevin Gray & Steve Hoffman, AAA | OOP; the finest available version; $150–$300 secondary | [Discogs](https://www.discogs.com/release/2736558-Eric-Dolphy-Out-To-Lunch) |
-| **A** | Original BLP 4163 mono, NY USA label | BLP 4163 | 1964 | Mono, 33⅓ | RVG / Plastylite | VAN GELDER stamp + ear required; deep groove; $300–$700 NM | [Discogs](https://www.discogs.com/release/662848-Eric-Dolphy-Out-To-Lunch) |
-| **B** | Blue Note Classic Vinyl 180g | BLP 4163 | 2021 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Best value; not part of the Tone Poet series; ~$20–$30 new | [Discogs](https://www.discogs.com/release/20348707-Eric-Dolphy-Out-To-Lunch) |
-| **B** | Original BST 84163 stereo, NY USA label | BST 84163 | 1964 | Stereo, 33⅓ | RVG / Plastylite | Authentic period pressing; hard-panned; mono preferred for listening; $250–$500 NM | [Discogs](https://www.discogs.com/release/1464211-Eric-Dolphy-Out-To-Lunch) |
-| **B** | Japanese King GXF-3009 | GXF-3009 | 1977 | Mono, 33⅓ | Licensed Japanese pressing | Quiet surfaces, warm character; $60–$150 NM with obi | [Discogs](https://www.discogs.com/release/2216318-Eric-Dolphy-Out-To-Lunch) |
-| **C** | Liberty-era BLP 4163 / BST 84163 | BLP/BST 4163 | 1966–70 | Mono or stereo, 33⅓ | RVG (if stamped) | Check deadwax for VG stamp; $40–$100 VG+ | [Discogs](https://www.discogs.com/release/2790342-Eric-Dolphy-Out-To-Lunch) |
-| **D** | 1970s–90s Blue Note/EMI reissues | Various | Various | Various | Dubs or digital transfers | Avoid; Classic Vinyl is better at the same or lower price; $10–$25 | – |
+| **S** | Music Matters 45rpm mono | MMBST-84163-(45) | 2009 | Mono, 45rpm, 2×180g | Orig mono tape → Kevin Gray & Steve Hoffman, AAA | OOP; the finest available version | [Discogs](https://www.discogs.com/release/2736558-Eric-Dolphy-Out-To-Lunch) |
+| **A** | Original BLP 4163 mono, NY USA label | BLP 4163 | 1964 | Mono, 33⅓ | RVG / Plastylite | VAN GELDER stamp + ear required; deep groove | [Discogs](https://www.discogs.com/release/662848-Eric-Dolphy-Out-To-Lunch) |
+| **B** | Blue Note Classic Vinyl 180g | BLP 4163 | 2021 | Mono, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Best value; not part of the Tone Poet series | [Discogs](https://www.discogs.com/release/20348707-Eric-Dolphy-Out-To-Lunch) |
+| **B** | Original BST 84163 stereo, NY USA label | BST 84163 | 1964 | Stereo, 33⅓ | RVG / Plastylite | Authentic period pressing; hard-panned; mono preferred for listening | [Discogs](https://www.discogs.com/release/1464211-Eric-Dolphy-Out-To-Lunch) |
+| **B** | Japanese King GXF-3009 | GXF-3009 | 1977 | Mono, 33⅓ | Licensed Japanese pressing | Quiet surfaces, warm character | [Discogs](https://www.discogs.com/release/2216318-Eric-Dolphy-Out-To-Lunch) |
+| **C** | Liberty-era BLP 4163 / BST 84163 | BLP/BST 4163 | 1966–70 | Mono or stereo, 33⅓ | RVG (if stamped) | Check deadwax for VG stamp | [Discogs](https://www.discogs.com/release/2790342-Eric-Dolphy-Out-To-Lunch) |
+| **D** | 1970s–90s Blue Note/EMI reissues | Various | Various | Various | Dubs or digital transfers | Avoid; Classic Vinyl is better at the same or lower price | – |
 
 ## References
 

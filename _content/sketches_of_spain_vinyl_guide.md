@@ -95,13 +95,13 @@ A red-vinyl reissue (catalog 350234) circulating from a European public-domain l
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Mobile Fidelity UltraDisc One-Step | 65th Anniversary Edition | 2025 | Stereo, 180g, one-step | Analog master tape, Fidelity Record Pressing | Numbered/5,000; TAS 4.5/4 (Jan 2026); $120+ | [MoFi](https://mofi.com/shop/music/vinyl/miles-davis-sketches-of-spain-numbered-180g-vinyl-lp/) |
-| **A** | Classic Records 200g SV-P | CS 8271 | 1998 | Stereo, 200g | Bernie Grundman, licensed from Sony | Forward, immediate; some find the top end hot; median ~$100 | [Discogs](https://www.discogs.com/release/2426187-Miles-Davis-Sketches-Of-Spain) |
-| **A** | Classic Records 45rpm 4LP | CS 8271-45 | 1998 | Stereo, 45rpm, 4×LP | Bernie Grundman, licensed from Sony | Scarce; no strong documented critical consensus; $150–$300+ | [Discogs](https://www.discogs.com/release/5876487-Miles-Davis-Sketches-Of-Spain) |
-| **A** | Mobile Fidelity MFSL 1-375 | MFSL 1-375 | 2013 | Stereo, 180g | Krieg Wunderlich, manufactured by Sony for MoFi | Best-value modern standard-bearer; widely available; $30–$50 | [Discogs](https://www.discogs.com/release/4923105-Miles-Davis-Sketches-Of-Spain) |
-| **B** | Original Columbia six-eye stereo | CS 8271 | 1960 | Stereo | Original 1960 Columbia mastering | Deep groove; unusually affordable for a six-eye Davis original; $20–$50, up to $200+ NM | [Discogs](https://www.discogs.com/release/4239636-Miles-Davis-Sketches-Of-Spain) |
-| **B** | Music On Vinyl | MOVLP029 / MOVLP692 | 2009 / 2013 | Stereo / Mono, 180g | Licensed from Sony, pressed by Record Industry | Stereo (029) and mono (692) are separate releases; $20–$40 | [Discogs](https://www.discogs.com/release/4798295-Miles-Sketches-Of-Spain) |
-| **C** | Original Columbia six-eye mono | CL 1480 | 1960 | Mono | Original 1960 Columbia mastering | Less sought than the stereo for this particular title; $15–$40 | [Discogs](https://www.discogs.com/release/1914353-Miles-Davis-Sketches-Of-Spain) |
+| **S** | Mobile Fidelity UltraDisc One-Step | 65th Anniversary Edition | 2025 | Stereo, 180g, one-step | Analog master tape, Fidelity Record Pressing | Numbered/5,000; TAS 4.5/4 (Jan 2026) | [MoFi](https://mofi.com/shop/music/vinyl/miles-davis-sketches-of-spain-numbered-180g-vinyl-lp/) |
+| **A** | Classic Records 200g SV-P | CS 8271 | 1998 | Stereo, 200g | Bernie Grundman, licensed from Sony | Forward, immediate; some find the top end hot; median | [Discogs](https://www.discogs.com/release/2426187-Miles-Davis-Sketches-Of-Spain) |
+| **A** | Classic Records 45rpm 4LP | CS 8271-45 | 1998 | Stereo, 45rpm, 4×LP | Bernie Grundman, licensed from Sony | Scarce; no strong documented critical consensus | [Discogs](https://www.discogs.com/release/5876487-Miles-Davis-Sketches-Of-Spain) |
+| **A** | Mobile Fidelity MFSL 1-375 | MFSL 1-375 | 2013 | Stereo, 180g | Krieg Wunderlich, manufactured by Sony for MoFi | Best-value modern standard-bearer; widely available | [Discogs](https://www.discogs.com/release/4923105-Miles-Davis-Sketches-Of-Spain) |
+| **B** | Original Columbia six-eye stereo | CS 8271 | 1960 | Stereo | Original 1960 Columbia mastering | Deep groove; unusually affordable for a six-eye Davis original | [Discogs](https://www.discogs.com/release/4239636-Miles-Davis-Sketches-Of-Spain) |
+| **B** | Music On Vinyl | MOVLP029 / MOVLP692 | 2009 / 2013 | Stereo / Mono, 180g | Licensed from Sony, pressed by Record Industry | Stereo (029) and mono (692) are separate releases | [Discogs](https://www.discogs.com/release/4798295-Miles-Sketches-Of-Spain) |
+| **C** | Original Columbia six-eye mono | CL 1480 | 1960 | Mono | Original 1960 Columbia mastering | Less sought than the stereo for this particular title | [Discogs](https://www.discogs.com/release/1914353-Miles-Davis-Sketches-Of-Spain) |
 
 ## References
 

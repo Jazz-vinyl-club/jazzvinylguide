@@ -110,11 +110,11 @@ EmArcy titles were licensed to Nippon Phonogram / Mercury Japan and later to Pol
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Acoustic Sounds Series 180g mono | AEMA 78844 | 2025 | Mono, 33⅓, 180g | Orig tapes → Lutthans, The Mastering Lab, QRP | Gatefold tip-on; "recorded 70 years ago, sounds like yesterday"; ~$35–$45 | [Discogs](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
-| **A** | Original EmArcy MG-36036 12" mono | MG-36036 | 1955 | Mono, 33⅓ | Original EmArcy lacquer | Matrix MG36036A MF4; $200–$600 NM | [Discogs](https://www.discogs.com/release/2862128-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
-| **A** | Mosaic MRLP 3004 4LP box set | MRLP 3004 | 2012 | Mono, 33⅓, 4×180g | Orig tapes → Ryan Smith, Sterling Sound, RTI | All 4 quintet albums; 2,500 copies; OOP $400–$700 | [Discogs](https://www.discogs.com/release/4497482-Clifford-BrownMax-Roach-The-Clifford-BrownMax-Roach-Emarcy-Albums) |
-| **B** | Original EmArcy MG-26043 10" mono | MG-26043 | 1954 | Mono, 10" | Original EmArcy lacquer | 5 tracks only; extremely rare; $400–$1,000+ NM | [Discogs](https://www.discogs.com/release/4869491-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
-| **C** | Japanese Mercury/EmArcy pressing | 15PJ-2018(M) | 1971–80s | Mono, 33⅓ | Licensed Japanese pressing | Dead-quiet vinyl; warm; $40–$100 with obi | [Discogs](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
+| **S** | Acoustic Sounds Series 180g mono | AEMA 78844 | 2025 | Mono, 33⅓, 180g | Orig tapes → Lutthans, The Mastering Lab, QRP | Gatefold tip-on; "recorded 70 years ago, sounds like yesterday" | [Discogs](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
+| **A** | Original EmArcy MG-36036 12" mono | MG-36036 | 1955 | Mono, 33⅓ | Original EmArcy lacquer | Matrix MG36036A MF4 | [Discogs](https://www.discogs.com/release/2862128-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
+| **A** | Mosaic MRLP 3004 4LP box set | MRLP 3004 | 2012 | Mono, 33⅓, 4×180g | Orig tapes → Ryan Smith, Sterling Sound, RTI | All 4 quintet albums; 2,500 copies | [Discogs](https://www.discogs.com/release/4497482-Clifford-BrownMax-Roach-The-Clifford-BrownMax-Roach-Emarcy-Albums) |
+| **B** | Original EmArcy MG-26043 10" mono | MG-26043 | 1954 | Mono, 10" | Original EmArcy lacquer | 5 tracks only; extremely rare | [Discogs](https://www.discogs.com/release/4869491-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
+| **C** | Japanese Mercury/EmArcy pressing | 15PJ-2018(M) | 1971–80s | Mono, 33⅓ | Licensed Japanese pressing | Dead-quiet vinyl; warm | [Discogs](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
 | **D** | Waxtime / DOL / budget EU reissues | Various | 2000s+ | Mono, 33⅓ | Digital source | Adequate entry point; not recommended for serious listening | – |
 
 ## References

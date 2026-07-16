@@ -112,15 +112,15 @@ A separate, more basic reissue line from Classic Vinyl: 140g LP, single (non-gat
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Music Matters 33⅓ stereo | MM33 BNST-84157 | 2014 | Stereo, 33⅓, 180g | Orig stereo tape → Kevin Gray & Ron Rambach, AAA, RTI | 3,500 copies; some RTI pressing defects reported; $150–$300 secondary | [Discogs](https://www.discogs.com/release/6011184-Lee-Morgan-The-Sidewinder) |
-| **A** | Original BST 84157 stereo, NY USA label | BST 84157 | 1964 | Stereo, 33⅓ | RVG / Plastylite; native stereo | No deep groove; VAN GELDER + ear required; $100–$300 NM | [Discogs](https://www.discogs.com/release/1946625-Lee-Morgan-The-Sidewinder) |
-| **A** | Original BLP 4157 mono, NY USA label | BLP 4157 | 1964 | Mono, 33⅓ | RVG / Plastylite; native mono | Same authentication; $100–$250 NM | [Discogs](https://www.discogs.com/release/16046297-Lee-Morgan-The-Sidewinder) |
-| **B** | Blue Note Classic Vinyl 180g | BST 84157 | c.2020 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Budget entry; $20–$30 new | [Discogs](https://www.discogs.com/release/16312236-Lee-Morgan-The-Sidewinder) |
-| **B** | Japanese Toshiba pressing | BST-84157 (Toshiba) | 1976 | Stereo, 33⅓ | Licensed Japanese pressing | First true Japanese pressing; dead-quiet vinyl; $40–$80 with obi | [Discogs](https://www.discogs.com/release/6462527-Lee-Morgan-The-Sidewinder) |
-| **B** | King GXF-3015 (limited edition) | GXF 3015 | 1977 | Stereo, 33⅓ | Licensed Japanese pressing, limited run | Distinct from the Toshiba pressing; earlier/fresher stampers than King's later GXK series; $40–$90 with obi | [Discogs](https://www.discogs.com/release/5381783-Lee-Morgan-The-Sidewinder) |
-| **C** | Blue Note Essentials 140g | BST 84157 | 2026 | Stereo, 33⅓, 140g | Hi-res digital master, Optimal | Budget entry point; not AAA; single sleeve; ~$20 new | – |
-| **C** | Liberty-era pressing (with VG stamp) | BST 84157 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $30–$80 VG+ | [Discogs](https://www.discogs.com/release/13630870-Lee-Morgan-The-Sidewinder) |
-| **D** | 1970s–80s general reissues | Various | 1970s–80s | Stereo, 33⅓ | Various | Not recommended; $10–$25 | – |
+| **S** | Music Matters 33⅓ stereo | MM33 BNST-84157 | 2014 | Stereo, 33⅓, 180g | Orig stereo tape → Kevin Gray & Ron Rambach, AAA, RTI | 3,500 copies; some RTI pressing defects reported | [Discogs](https://www.discogs.com/release/6011184-Lee-Morgan-The-Sidewinder) |
+| **A** | Original BST 84157 stereo, NY USA label | BST 84157 | 1964 | Stereo, 33⅓ | RVG / Plastylite; native stereo | No deep groove; VAN GELDER + ear required | [Discogs](https://www.discogs.com/release/1946625-Lee-Morgan-The-Sidewinder) |
+| **A** | Original BLP 4157 mono, NY USA label | BLP 4157 | 1964 | Mono, 33⅓ | RVG / Plastylite; native mono | Same authentication | [Discogs](https://www.discogs.com/release/16046297-Lee-Morgan-The-Sidewinder) |
+| **B** | Blue Note Classic Vinyl 180g | BST 84157 | c.2020 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Budget entry | [Discogs](https://www.discogs.com/release/16312236-Lee-Morgan-The-Sidewinder) |
+| **B** | Japanese Toshiba pressing | BST-84157 (Toshiba) | 1976 | Stereo, 33⅓ | Licensed Japanese pressing | First true Japanese pressing; dead-quiet vinyl | [Discogs](https://www.discogs.com/release/6462527-Lee-Morgan-The-Sidewinder) |
+| **B** | King GXF-3015 (limited edition) | GXF 3015 | 1977 | Stereo, 33⅓ | Licensed Japanese pressing, limited run | Distinct from the Toshiba pressing; earlier/fresher stampers than King's later GXK series | [Discogs](https://www.discogs.com/release/5381783-Lee-Morgan-The-Sidewinder) |
+| **C** | Blue Note Essentials 140g | BST 84157 | 2026 | Stereo, 33⅓, 140g | Hi-res digital master, Optimal | Budget entry point; not AAA; single sleeve | – |
+| **C** | Liberty-era pressing (with VG stamp) | BST 84157 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax | [Discogs](https://www.discogs.com/release/13630870-Lee-Morgan-The-Sidewinder) |
+| **D** | 1970s–80s general reissues | Various | 1970s–80s | Stereo, 33⅓ | Various | Not recommended | – |
 
 ## References
 

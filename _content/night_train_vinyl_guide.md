@@ -64,11 +64,11 @@ No specific bootleg is widely documented. Some later 1970s–80s European pressi
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | Verve Acoustic Sounds Series | – | 2023 | Stereo, 180g | Orig tape → Ryan K. Smith, Sterling Sound, QRP | Excellent mastering; some copies reported warped; $35–$45 new | [Discogs](https://www.discogs.com/release/25980667-The-Oscar-Peterson-Trio-Night-Train) |
-| **A** | Speakers Corner | 009 8538 | 1998 | Stereo, 180g | Orig analog tape | OOP; different sonic character vs. Acoustic Sounds; $40–$90 secondary | [Discogs](https://www.discogs.com/release/372109-The-Oscar-Peterson-Trio-Night-Train) |
-| **A** | ORG Music 45rpm 2LP | ORG029 | 2009 | Stereo, 45rpm, 2×180g | Bernie Grundman, orig analog tape, Pallas | Expanded tracklist; limited/2,500; prices can reach €250; $150–$300+ secondary | – |
-| **B** | Original Verve stereo | V6-8538 | 1963 | Stereo, 33⅓ | Original 1963 mastering | Attainable given large original pressing run; $40–$120 NM | [Discogs](https://www.discogs.com/release/2705676-The-Oscar-Peterson-Trio-Night-Train) |
-| **C** | European Polydor-distributed pressings | V6-8538 / 2332043 | 1970s–80s | Stereo, 33⅓ | Various | Softer, hazier per owner reports; budget option only; $15–$40 | [Discogs](https://www.discogs.com/release/9746524-The-Oscar-Peterson-Trio-Night-Train) |
+| **A** | Verve Acoustic Sounds Series | – | 2023 | Stereo, 180g | Orig tape → Ryan K. Smith, Sterling Sound, QRP | Excellent mastering; some copies reported warped | [Discogs](https://www.discogs.com/release/25980667-The-Oscar-Peterson-Trio-Night-Train) |
+| **A** | Speakers Corner | 009 8538 | 1998 | Stereo, 180g | Orig analog tape | OOP; different sonic character vs. Acoustic Sounds | [Discogs](https://www.discogs.com/release/372109-The-Oscar-Peterson-Trio-Night-Train) |
+| **A** | ORG Music 45rpm 2LP | ORG029 | 2009 | Stereo, 45rpm, 2×180g | Bernie Grundman, orig analog tape, Pallas | Expanded tracklist; limited/2,500; prices can reach | – |
+| **B** | Original Verve stereo | V6-8538 | 1963 | Stereo, 33⅓ | Original 1963 mastering | Attainable given large original pressing run | [Discogs](https://www.discogs.com/release/2705676-The-Oscar-Peterson-Trio-Night-Train) |
+| **C** | European Polydor-distributed pressings | V6-8538 / 2332043 | 1970s–80s | Stereo, 33⅓ | Various | Softer, hazier per owner reports; budget option only | [Discogs](https://www.discogs.com/release/9746524-The-Oscar-Peterson-Trio-Night-Train) |
 
 ## References
 

@@ -76,15 +76,15 @@ Several 1970s-era reissues circulate on Liberty/United Artists-period labels, ge
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Analogue Productions 45rpm 2LP | AP series | 2009 | Stereo, 45rpm, 2×180g | Kevin Gray, orig tapes, RTI | Owner-favorite; $150–$300 | [Discogs](https://www.discogs.com/release/2513425-Grant-Green-Idle-Moments) |
-| **S** | Music Matters 45rpm 2LP | MM-45-BNST-84154 | 2014 | Stereo, 45rpm, 2×180g | Kevin Gray, Cohearent, RTI (prod. Ron Rambach) | Laminated gatefold, session photos; $150–$250 | [Discogs](https://www.discogs.com/release/5354019-Grant-Green-Idle-Moments) |
-| **A** | Music Matters 33⅓ SRX | MM33 BNST-84154 | 2020 | Stereo, 33⅓, 180g | Kevin Gray, Cohearent (upgraded chain) | Some non-fill reports; $80–$150 | [Discogs](https://www.discogs.com/release/14993986-Grant-Green-Idle-Moments) |
-| **A** | Original BST 84154 stereo | BST 84154 | 1965 | Stereo, 33⅓ | RVG / Plastylite | NY USA label era; $150–$400 NM | [Discogs](https://www.discogs.com/release/1073239-Grant-Green-Idle-Moments) |
-| **A** | Original BLP 4154 mono | BLP 4154 | 1965 | Mono, 33⅓ | RVG / Plastylite | NY USA label era; $150–$350 NM | [Discogs](https://www.discogs.com/release/3163215-Grant-Green-Idle-Moments) |
-| **B** | Blue Note Classic Vinyl | BST 84154 | c.2021 | Stereo, 33⅓, 180g | Kevin Gray, Optimal | Best-value modern; some QC variance reported; $25–$40 | [Discogs](https://www.discogs.com/release/19865380-Grant-Green-Idle-Moments) |
-| **B** | Blue Note 75th Anniversary | – | 2014 | Stereo, 33⅓ | Bernie Grundman | Mixed pressing QC reports; buy with return policy; $25–$50 | [Discogs](https://www.discogs.com/release/5738035-Grant-Green-Idle-Moments) |
-| **B** | King Records Japan pressing | – | 1980 | Stereo, 33⅓ | Licensed Japanese pressing | Highly praised for dynamics and quiet vinyl; $40–$90 with obi | – |
-| **C** | Liberty-era US reissue | BST 84154 | 1971–73 | Stereo, 33⅓ | Later US metalwork | Well-regarded, affordable; $30–$80 VG+ | [Discogs](https://www.discogs.com/release/4393358-Grant-Green-Idle-Moments) |
+| **S** | Analogue Productions 45rpm 2LP | AP series | 2009 | Stereo, 45rpm, 2×180g | Kevin Gray, orig tapes, RTI | Owner-favorite | [Discogs](https://www.discogs.com/release/2513425-Grant-Green-Idle-Moments) |
+| **S** | Music Matters 45rpm 2LP | MM-45-BNST-84154 | 2014 | Stereo, 45rpm, 2×180g | Kevin Gray, Cohearent, RTI (prod. Ron Rambach) | Laminated gatefold, session photos | [Discogs](https://www.discogs.com/release/5354019-Grant-Green-Idle-Moments) |
+| **A** | Music Matters 33⅓ SRX | MM33 BNST-84154 | 2020 | Stereo, 33⅓, 180g | Kevin Gray, Cohearent (upgraded chain) | Some non-fill reports | [Discogs](https://www.discogs.com/release/14993986-Grant-Green-Idle-Moments) |
+| **A** | Original BST 84154 stereo | BST 84154 | 1965 | Stereo, 33⅓ | RVG / Plastylite | NY USA label era | [Discogs](https://www.discogs.com/release/1073239-Grant-Green-Idle-Moments) |
+| **A** | Original BLP 4154 mono | BLP 4154 | 1965 | Mono, 33⅓ | RVG / Plastylite | NY USA label era | [Discogs](https://www.discogs.com/release/3163215-Grant-Green-Idle-Moments) |
+| **B** | Blue Note Classic Vinyl | BST 84154 | c.2021 | Stereo, 33⅓, 180g | Kevin Gray, Optimal | Best-value modern; some QC variance reported | [Discogs](https://www.discogs.com/release/19865380-Grant-Green-Idle-Moments) |
+| **B** | Blue Note 75th Anniversary | – | 2014 | Stereo, 33⅓ | Bernie Grundman | Mixed pressing QC reports; buy with return policy | [Discogs](https://www.discogs.com/release/5738035-Grant-Green-Idle-Moments) |
+| **B** | King Records Japan pressing | – | 1980 | Stereo, 33⅓ | Licensed Japanese pressing | Highly praised for dynamics and quiet vinyl | – |
+| **C** | Liberty-era US reissue | BST 84154 | 1971–73 | Stereo, 33⅓ | Later US metalwork | Well-regarded, affordable | [Discogs](https://www.discogs.com/release/4393358-Grant-Green-Idle-Moments) |
 
 ## References
 

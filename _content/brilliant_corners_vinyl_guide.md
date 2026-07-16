@@ -92,13 +92,13 @@ This title has been reissued more than 100 times, and a wave of European public-
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Electric Recording Co. "True Mono" | ERC051 | 2020 | Mono, 33⅓ | All-analog, cut on restored vintage tube chain by Pete Hutchison | Edition of 300; closest thing to the master tape; reception divisive at this price; ~$300–400 orig., higher on secondary market | [Discogs](https://www.discogs.com/release/15132913-Thelonious-Monk-Brilliant-Corners) |
-| **S** | Craft Recordings Small Batch (one-step) | CR00502 | 2023 | Mono, 33⅓, 180g | AAA, Bernie Grundman, one-step, RTI | Numbered/4,000; best balance of sound and attainability; $109 orig., $90–$200 secondary | [Discogs](https://www.discogs.com/release/28210087-Thelonious-Monk-Brilliant-Corners) |
-| **A** | Analogue Productions 45rpm | AJAZ 12-226 | 2003 | Mono, 45rpm, 2LP | Kevin Gray & Steve Hoffman, RTI | Out of print; extraordinarily transparent; $125–400 secondary | [Discogs](https://www.discogs.com/release/3917269-Thelonious-Monk-Brilliant-Corners) |
-| **A** | Analogue Productions mono LP | AAPJ 12-226 | 2023 | Mono, 33⅓, 180g | Kevin Gray, QRP | Easiest high-end pressing to buy new; $30–85 new | [Discogs](https://www.discogs.com/release/30804867-Thelonious-Monk-Brilliant-Corners) |
-| **B** | Original Riverside first pressing | RLP 12-226 | 1957 | Mono, 33⅓ | Original 1957 mastering | White label, deep groove, "418 West 49th St" jacket = true first pressing; under $50 (well-worn) to $600+ (NM) | [Discogs](https://www.discogs.com/release/3835076-Thelonious-Monk-Brilliant-Corners) |
-| **B** | Original Jazz Classics reissue | OJC-026 | 1982 | Mono, 33⅓ | Fantasy reissue; Carrollton, GA (Columbia) pressings are quietest | Facsimile sleeve; seek the Carrollton "G1" runout; well under $30 | [Discogs](https://www.discogs.com/release/33022326-Thelonious-Monk-Brilliant-Corners) |
-| **C** | Japanese Riverside/Milestone reissue | SMJ-6136(M) | 1976 | Mono, 33⅓ | Japanese pressing | Well-regarded vintage Japan pressing; very quiet vinyl; ~$40–100 with obi, estimated | [Discogs](https://www.discogs.com/release/2117287-Thelonious-Monk-Brilliant-Corners) |
+| **S** | Electric Recording Co. "True Mono" | ERC051 | 2020 | Mono, 33⅓ | All-analog, cut on restored vintage tube chain by Pete Hutchison | Edition of 300; closest thing to the master tape; reception divisive | [Discogs](https://www.discogs.com/release/15132913-Thelonious-Monk-Brilliant-Corners) |
+| **S** | Craft Recordings Small Batch (one-step) | CR00502 | 2023 | Mono, 33⅓, 180g | AAA, Bernie Grundman, one-step, RTI | Numbered/4,000; best balance of sound and attainability | [Discogs](https://www.discogs.com/release/28210087-Thelonious-Monk-Brilliant-Corners) |
+| **A** | Analogue Productions 45rpm | AJAZ 12-226 | 2003 | Mono, 45rpm, 2LP | Kevin Gray & Steve Hoffman, RTI | Out of print; extraordinarily transparent | [Discogs](https://www.discogs.com/release/3917269-Thelonious-Monk-Brilliant-Corners) |
+| **A** | Analogue Productions mono LP | AAPJ 12-226 | 2023 | Mono, 33⅓, 180g | Kevin Gray, QRP | Easiest high-end pressing to buy new | [Discogs](https://www.discogs.com/release/30804867-Thelonious-Monk-Brilliant-Corners) |
+| **B** | Original Riverside first pressing | RLP 12-226 | 1957 | Mono, 33⅓ | Original 1957 mastering | White label, deep groove, "418 West 49th St" jacket = true first pressing | [Discogs](https://www.discogs.com/release/3835076-Thelonious-Monk-Brilliant-Corners) |
+| **B** | Original Jazz Classics reissue | OJC-026 | 1982 | Mono, 33⅓ | Fantasy reissue; Carrollton, GA (Columbia) pressings are quietest | Facsimile sleeve; seek the Carrollton "G1" runout; well under | [Discogs](https://www.discogs.com/release/33022326-Thelonious-Monk-Brilliant-Corners) |
+| **C** | Japanese Riverside/Milestone reissue | SMJ-6136(M) | 1976 | Mono, 33⅓ | Japanese pressing | Well-regarded vintage Japan pressing; very quiet vinyl | [Discogs](https://www.discogs.com/release/2117287-Thelonious-Monk-Brilliant-Corners) |
 
 ## References
 

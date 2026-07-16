@@ -152,19 +152,19 @@ DOL releases are generally regarded with scepticism due to their unlicensed, dig
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | AP 200g/180g mono 33rpm | APRJ 7079 | 2013/2022 | Mono, 33⅓, 200g/180g | Orig tapes → Kevin Gray, AAA, QRP | "Sonny Rollins nirvana"; gatefold tip-on; $60–$90 new | [r4403277](https://www.discogs.com/release/4403277-Sonny-Rollins-Saxophone-Colossus) / [r22729826](https://www.discogs.com/release/22729826-Sonny-Rollins-Saxophone-Colossus) |
-| **A** | Original yellow label, 446 W. 50th | PRLP 7079 | 1957 | Mono, 33⅓ | RVG / Abbey Manufacturing | First pressing; RVG hand-etched; groove wear pervasive; $400–$900 NM | [Discogs](https://www.discogs.com/release/3934932-Sonny-Rollins-Saxophone-Colossus) |
-| **A** | DCC GZS-1062 180g | GZS-1062 | 1995 | Mono, 33⅓, 180g | Orig tapes → Steve Hoffman, tube cut, RTI | Tube-cut character; strong advocates; $60–$120 | [Discogs](https://www.discogs.com/release/4085008-Sonny-Rollins-Saxophone-Colossus) |
-| **A** | AP 45rpm 2LP | APRJ 7079 | 2004 | Mono, 45rpm, 2×180g | Orig tapes → Kevin Gray, AAA, QRP | Excellent; superseded by 33rpm for soundstage; $100–$200; check mono tag | [Discogs](https://www.discogs.com/release/3197967-Sonny-Rollins-Saxophone-Colossus) |
-| **B** | Bergenfield NJ second pressing | PRLP 7079 | c.1958 | Mono, 33⅓ | RVG / Abbey Manufacturing | Same metalwork as first press; much cheaper; $100–$250 NM | [Discogs](https://www.discogs.com/release/7230759-Sonny-Rollins-Saxophone-Colossus) |
+| **S** | AP 200g/180g mono 33rpm | APRJ 7079 | 2013/2022 | Mono, 33⅓, 200g/180g | Orig tapes → Kevin Gray, AAA, QRP | "Sonny Rollins nirvana"; gatefold tip-on | [r4403277](https://www.discogs.com/release/4403277-Sonny-Rollins-Saxophone-Colossus) / [r22729826](https://www.discogs.com/release/22729826-Sonny-Rollins-Saxophone-Colossus) |
+| **A** | Original yellow label, 446 W. 50th | PRLP 7079 | 1957 | Mono, 33⅓ | RVG / Abbey Manufacturing | First pressing; RVG hand-etched; groove wear pervasive | [Discogs](https://www.discogs.com/release/3934932-Sonny-Rollins-Saxophone-Colossus) |
+| **A** | DCC GZS-1062 180g | GZS-1062 | 1995 | Mono, 33⅓, 180g | Orig tapes → Steve Hoffman, tube cut, RTI | Tube-cut character; strong advocates | [Discogs](https://www.discogs.com/release/4085008-Sonny-Rollins-Saxophone-Colossus) |
+| **A** | AP 45rpm 2LP | APRJ 7079 | 2004 | Mono, 45rpm, 2×180g | Orig tapes → Kevin Gray, AAA, QRP | Excellent; superseded by 33rpm for soundstage; check mono tag | [Discogs](https://www.discogs.com/release/3197967-Sonny-Rollins-Saxophone-Colossus) |
+| **B** | Bergenfield NJ second pressing | PRLP 7079 | c.1958 | Mono, 33⅓ | RVG / Abbey Manufacturing | Same metalwork as first press; much cheaper | [Discogs](https://www.discogs.com/release/7230759-Sonny-Rollins-Saxophone-Colossus) |
 | **B** | UK Esquire 32-045 | 32-045 | c.1958 | Mono, 33⅓ | RVG / Abbey metal parts | RVG hand-etched; shallow but genuine; £80–£200 | [Discogs](https://www.discogs.com/release/3934957-Sonny-Rollins-Saxophone-Colossus) |
-| **B** | Danish Metronome | Various | c.1957–60 | Mono, 33⅓ | RVG / Abbey metal parts | RVG confirmed hand-etched; excellent sound; $60–$150 | [Discogs](https://www.discogs.com/release/7219516-Sonny-Rollins-Saxophone-Colossus) |
-| **C** | Dutch Artone | Various | mid-1960s | Mono, 33⅓ | RVG stamp; likely 2nd-issue metalwork | Stamper generation disputed; well-reviewed by at least one owner; $40–$100 | – |
-| **C** | OJC-291 1987 pressing | OJC-291 | 1987 | Mono, 33⅓ | Fantasy Studios analogue | Good energy; the budget buy; $15–$30 | [Discogs](https://www.discogs.com/release/1376103-Sonny-Rollins-Saxophone-Colossus) |
-| **C** | DOL773HB 180g blue vinyl | DOL773HB | 2017 | 33⅓, 180g, blue vinyl | Unconfirmed; well-reviewed for pressing quality | "Great dynamics and zero static"; EU public-domain; ~$20–$30 | [Discogs](https://www.discogs.com/release/14481054-Sonny-Rollins-Saxophone-Colossus) |
+| **B** | Danish Metronome | Various | c.1957–60 | Mono, 33⅓ | RVG / Abbey metal parts | RVG confirmed hand-etched; excellent sound | [Discogs](https://www.discogs.com/release/7219516-Sonny-Rollins-Saxophone-Colossus) |
+| **C** | Dutch Artone | Various | mid-1960s | Mono, 33⅓ | RVG stamp; likely 2nd-issue metalwork | Stamper generation disputed; well-reviewed by at least one owner | – |
+| **C** | OJC-291 1987 pressing | OJC-291 | 1987 | Mono, 33⅓ | Fantasy Studios analogue | Good energy; the budget buy | [Discogs](https://www.discogs.com/release/1376103-Sonny-Rollins-Saxophone-Colossus) |
+| **C** | DOL773HB 180g blue vinyl | DOL773HB | 2017 | 33⅓, 180g, blue vinyl | Unconfirmed; well-reviewed for pressing quality | "Great dynamics and zero static"; EU public-domain | [Discogs](https://www.discogs.com/release/14481054-Sonny-Rollins-Saxophone-Colossus) |
 | **D** | 2011 OJC repress | OJC-291 | 2011 | Mono, 33⅓ | DCC Hoffman/Gray plates (struck through) | Uses scratched-out DCC stampers; check label date | [Discogs](https://www.discogs.com/release/6584452-Sonny-Rollins-Saxophone-Colossus) |
 | **D** | PRLP 7326 gold label | PRLP 7326 | 1964 | Mono, 33⅓ | Original RVG metalwork; recycled vinyl | Hissy; only worth it if RVG is hand-etched (not stamped) | [Discogs](https://www.discogs.com/release/10176523-Sonny-Rollins-Saxophone-Colossus) |
-| **F** | 1970s rechanneled stereo (green label) | Various | 1970s | Fake stereo | Electronically processed mono | Incoherent panning; avoid; $10–$25 | – |
+| **F** | 1970s rechanneled stereo (green label) | Various | 1970s | Fake stereo | Electronically processed mono | Incoherent panning; avoid | – |
 
 ## References
 

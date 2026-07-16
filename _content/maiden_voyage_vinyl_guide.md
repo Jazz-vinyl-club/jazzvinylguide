@@ -110,16 +110,16 @@ A separate, more basic reissue line from the Classic Vinyl series: 140g LP, sing
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Music Matters SRX 33rpm AAA stereo | MM33 BNST-84195 | 2019 | Stereo, 33⅓, 180g | Orig stereo tape → Kevin Gray, AAA, QRP | Stereophile: best modern version; OOP; $150–$250 | [Discogs](https://www.discogs.com/release/14993652-Herbie-Hancock-Maiden-Voyage) |
-| **A** | AP 45rpm 2LP | AP-84195 | 2010 | Stereo, 45rpm, 2×180g | Safety copy of orig tapes → Kevin Gray & Hoffman, AcousTech, RTI | 2,500 copies; OOP; $150–$300 secondary | [Discogs](https://www.discogs.com/release/3327141-Herbie-Hancock-Maiden-Voyage) |
-| **A** | Original BST 84195 stereo, NY USA label | BST 84195 | 1965 | Stereo, 33⅓ | RVG / Plastylite; native stereo | Deep groove Side A; VAN GELDER + ear required; $200–$500 NM | [Discogs](https://www.discogs.com/release/1407692-Herbie-Hancock-Maiden-Voyage) |
-| **A** | Original BLP 4195 mono, NY USA label | BLP 4195 | 1965 | Mono, 33⅓ | RVG / Plastylite; native mono | Deep groove Side A; $200–$450 NM | [Discogs](https://www.discogs.com/release/1907831-Herbie-Hancock-Maiden-Voyage) |
-| **B** | Blue Note Classic Vinyl 180g | BST 84195 | 2021 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Consistently good reviews; $20–$35 new | [Discogs](https://www.discogs.com/release/20316430-Herbie-Hancock-Maiden-Voyage) |
-| **B** | King Masterpiece Special Replica 200g | BST-84195 (King) | 1983 | Stereo, 33⅓, 200g | Licensed; heavy vinyl; replica US presentation | SJ Seal; no Japanese imprints; $80–$150 with obi | [Discogs](https://www.discogs.com/release/6454559-Herbie-Hancock-Maiden-Voyage) |
-| **B** | King/Toshiba standard 33rpm | GXF series | 1976 | Stereo, 33⅓ | Licensed Japanese pressing | Dead-quiet vinyl; warm; $40–$80 with obi | [Discogs](https://www.discogs.com/release/6513605-Herbie-Hancock-Maiden-Voyage) |
-| **C** | Blue Note Essentials 140g | BST 84195 | – | Stereo, 33⅓, 140g | Hi-res digital master, Optimal | Budget entry point; not AAA; single sleeve; ~$20 new | – |
-| **C** | Liberty-era pressing (with VG stamp) | BST 84195 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $40–$100 VG+ | [Discogs](https://www.discogs.com/release/3154908-Herbie-Hancock-Maiden-Voyage) |
-| **D** | Generic 1970s–80s reissues | Various | 1970s–80s | Stereo, 33⅓ | Various | Avoid; Classic Vinyl is better; $10–$25 | – |
+| **S** | Music Matters SRX 33rpm AAA stereo | MM33 BNST-84195 | 2019 | Stereo, 33⅓, 180g | Orig stereo tape → Kevin Gray, AAA, QRP | Stereophile: best modern version | [Discogs](https://www.discogs.com/release/14993652-Herbie-Hancock-Maiden-Voyage) |
+| **A** | AP 45rpm 2LP | AP-84195 | 2010 | Stereo, 45rpm, 2×180g | Safety copy of orig tapes → Kevin Gray & Hoffman, AcousTech, RTI | 2,500 copies | [Discogs](https://www.discogs.com/release/3327141-Herbie-Hancock-Maiden-Voyage) |
+| **A** | Original BST 84195 stereo, NY USA label | BST 84195 | 1965 | Stereo, 33⅓ | RVG / Plastylite; native stereo | Deep groove Side A; VAN GELDER + ear required | [Discogs](https://www.discogs.com/release/1407692-Herbie-Hancock-Maiden-Voyage) |
+| **A** | Original BLP 4195 mono, NY USA label | BLP 4195 | 1965 | Mono, 33⅓ | RVG / Plastylite; native mono | Deep groove Side A | [Discogs](https://www.discogs.com/release/1907831-Herbie-Hancock-Maiden-Voyage) |
+| **B** | Blue Note Classic Vinyl 180g | BST 84195 | 2021 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Consistently good reviews | [Discogs](https://www.discogs.com/release/20316430-Herbie-Hancock-Maiden-Voyage) |
+| **B** | King Masterpiece Special Replica 200g | BST-84195 (King) | 1983 | Stereo, 33⅓, 200g | Licensed; heavy vinyl; replica US presentation | SJ Seal; no Japanese imprints | [Discogs](https://www.discogs.com/release/6454559-Herbie-Hancock-Maiden-Voyage) |
+| **B** | King/Toshiba standard 33rpm | GXF series | 1976 | Stereo, 33⅓ | Licensed Japanese pressing | Dead-quiet vinyl; warm | [Discogs](https://www.discogs.com/release/6513605-Herbie-Hancock-Maiden-Voyage) |
+| **C** | Blue Note Essentials 140g | BST 84195 | – | Stereo, 33⅓, 140g | Hi-res digital master, Optimal | Budget entry point; not AAA; single sleeve | – |
+| **C** | Liberty-era pressing (with VG stamp) | BST 84195 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax | [Discogs](https://www.discogs.com/release/3154908-Herbie-Hancock-Maiden-Voyage) |
+| **D** | Generic 1970s–80s reissues | Various | 1970s–80s | Stereo, 33⅓ | Various | Avoid; Classic Vinyl is better | – |
 
 ## References
 

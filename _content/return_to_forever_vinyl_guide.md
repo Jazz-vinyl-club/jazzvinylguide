@@ -54,10 +54,10 @@ No specific bootleg is widely documented. Given the noise/pre-echo issues affect
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | Japanese Polydor pressing | MP-2273 | 1972 | Stereo, 33⅓ | Licensed Japanese pressing via Hara Music | Reception genuinely mixed; some praise, some report thin top-end; $25–$60 with obi | [Discogs](https://www.discogs.com/release/2499163-Chick-Corea-Return-To-Forever) |
-| **B** | Original ECM 1022 ST, West Germany | ECM 1022 ST | 1972 | Stereo, 33⅓ | Original 1972 mastering, Phonodisc GmbH | First pressing; some copies have a documented static noise issue; $20–$60 | [Discogs](https://www.discogs.com/release/2271038-Chick-Corea-Return-To-Forever) |
-| **B** | US pressing | ECM-1-1022 | 1975 | Stereo, 33⅓ | Polydor Inc., Columbia Pitman plant | Reviews mixed; some copies show pre-echo; $15–$40 | [Discogs](https://www.discogs.com/release/1141070-Chick-Corea-Return-To-Forever) |
-| **C** | Later Japanese repress | MPF-1136 | 1978 | Stereo, 33⅓ | Licensed Japanese pressing | Later repress of the MP-2273 metalwork; $20–$50 | – |
+| **A** | Japanese Polydor pressing | MP-2273 | 1972 | Stereo, 33⅓ | Licensed Japanese pressing via Hara Music | Reception genuinely mixed; some praise, some report thin top-end | [Discogs](https://www.discogs.com/release/2499163-Chick-Corea-Return-To-Forever) |
+| **B** | Original ECM 1022 ST, West Germany | ECM 1022 ST | 1972 | Stereo, 33⅓ | Original 1972 mastering, Phonodisc GmbH | First pressing; some copies have a documented static noise issue | [Discogs](https://www.discogs.com/release/2271038-Chick-Corea-Return-To-Forever) |
+| **B** | US pressing | ECM-1-1022 | 1975 | Stereo, 33⅓ | Polydor Inc., Columbia Pitman plant | Reviews mixed; some copies show pre-echo | [Discogs](https://www.discogs.com/release/1141070-Chick-Corea-Return-To-Forever) |
+| **C** | Later Japanese repress | MPF-1136 | 1978 | Stereo, 33⅓ | Licensed Japanese pressing | Later repress of the MP-2273 metalwork | – |
 
 ## References
 

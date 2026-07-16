@@ -111,13 +111,13 @@ A **revised edition** ([r33400274](https://www.discogs.com/release/33400274-Mile
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | Original US Columbia 360 Sound two-eye | CS 9875 | 1969 | Stereo, 33⅓ | Columbia mastering | XSM-150308/9 matrices; $60–$200 NM | [Discogs](https://www.discogs.com/release/654119-Miles-Davis-In-A-Silent-Way) |
-| **B** | Mobile Fidelity MFSL 1-377 180g | MFSL 1-377 | 2013 | Stereo, 33⅓, 180g | Orig tapes → DSD 64 → RTI | Divided opinion; DSD chain; numbered; ~$39 new | [Discogs](https://www.discogs.com/release/4712200-Miles-Davis-In-A-Silent-Way) |
-| **B** | Japanese CBS/Sony 25AP 770 | 25AP 770 | 1977 | Stereo, 33⅓ | Licensed Japanese pressing | DR12; "reference quality"; $30–$80 with obi | [Discogs](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way) |
-| **B** | European/Dutch CBS original | S 63630 | 1969 | Stereo, 33⅓ | CBS European lacquer | "Fresh, big, warm, punchy"; significant discount vs US; $30–$80 VG+ | [Discogs](https://www.discogs.com/release/395634-Miles-Davis-In-A-Silent-Way) |
-| **C** | 1971 Columbia one-eye reissue | CS 9875 | 1971 | Stereo, 33⅓ | Same stampers as two-eye | Check for original stampers; $20–$50 VG+ | [Discogs](https://www.discogs.com/release/15107481-Miles-Davis-In-A-Silent-Way) |
-| **D** | 1980s–90s Columbia reissues | Various | 1980s–90s | Stereo, 33⅓ | Digital transfers | Not recommended; $10–$25 | – |
-| **F** | Generic EU reissues (DOL, Waxtime, etc.) | Various | 2000s+ | Various | Digital, unlicensed | Avoid; typically under $20 | – |
+| **A** | Original US Columbia 360 Sound two-eye | CS 9875 | 1969 | Stereo, 33⅓ | Columbia mastering | XSM-150308/9 matrices | [Discogs](https://www.discogs.com/release/654119-Miles-Davis-In-A-Silent-Way) |
+| **B** | Mobile Fidelity MFSL 1-377 180g | MFSL 1-377 | 2013 | Stereo, 33⅓, 180g | Orig tapes → DSD 64 → RTI | Divided opinion; DSD chain; numbered | [Discogs](https://www.discogs.com/release/4712200-Miles-Davis-In-A-Silent-Way) |
+| **B** | Japanese CBS/Sony 25AP 770 | 25AP 770 | 1977 | Stereo, 33⅓ | Licensed Japanese pressing | DR12; "reference quality" | [Discogs](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way) |
+| **B** | European/Dutch CBS original | S 63630 | 1969 | Stereo, 33⅓ | CBS European lacquer | "Fresh, big, warm, punchy"; significant discount vs US | [Discogs](https://www.discogs.com/release/395634-Miles-Davis-In-A-Silent-Way) |
+| **C** | 1971 Columbia one-eye reissue | CS 9875 | 1971 | Stereo, 33⅓ | Same stampers as two-eye | Check for original stampers | [Discogs](https://www.discogs.com/release/15107481-Miles-Davis-In-A-Silent-Way) |
+| **D** | 1980s–90s Columbia reissues | Various | 1980s–90s | Stereo, 33⅓ | Digital transfers | Not recommended | – |
+| **F** | Generic EU reissues (DOL, Waxtime, etc.) | Various | 2000s+ | Various | Digital, unlicensed | Avoid; typically under | – |
 
 ## References
 

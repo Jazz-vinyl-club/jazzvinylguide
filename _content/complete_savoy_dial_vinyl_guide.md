@@ -63,11 +63,11 @@ Savoy's Savoy-only material (excluding Dial) has its own separate reissue histor
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | Savoy Jazz 10-LP box set | SVY 16067 | 2015 | Mono, 33⅓, 180g, 10xLP | Digital transfer (shared with CD box) → Wes Garland, Nashville Record Productions | Reception split; check for Disc 4 speed defect; $150–$300 secondary | [Discogs](https://www.discogs.com/release/7794147-Charlie-Parker-The-Complete-Savoy-And-Dial-Studio-Recordings-1944-1948) |
-| **B** | Savoy 1978 5-LP box (Savoy-only) | – | 1978 | Mono, 33⅓, 5xLP | Rudy Van Gelder transfer from original acetates | Warmer, noisier than digital editions; Savoy material only; $60–$150 | – |
+| **A** | Savoy Jazz 10-LP box set | SVY 16067 | 2015 | Mono, 33⅓, 180g, 10xLP | Digital transfer (shared with CD box) → Wes Garland, Nashville Record Productions | Reception split; check for Disc 4 speed defect | [Discogs](https://www.discogs.com/release/7794147-Charlie-Parker-The-Complete-Savoy-And-Dial-Studio-Recordings-1944-1948) |
+| **B** | Savoy 1978 5-LP box (Savoy-only) | – | 1978 | Mono, 33⅓, 5xLP | Rudy Van Gelder transfer from original acetates | Warmer, noisier than digital editions; Savoy material only | – |
 | **B** | Craft Recordings 10-Inch LP Collection (Savoy-only) | MG 9000–9011 | 2020 | Mono, 33⅓, 4×10" | Newly restored/remastered audio | Original 10" format; 28 tracks, master takes only; positively reviewed; secondary market | – |
-| **C** | Spotlite (UK) Dial-only vinyl series | – | 1970s | Mono, 33⅓ | Original Dial acetates | Dial material only, sold as individual volumes; ~$35–$40 per volume; scarce | – |
-| **D** | Bird's Nest "Best of the Dial Masters" Vol. 1/2 | 840100 | 2020 | Mono, 33⅓, colored vinyl | Digital transfer (likely same lineage as CD/box editions) | Dial-only "best of" sampler, not the complete collection; ~$15–$20/volume | – |
+| **C** | Spotlite (UK) Dial-only vinyl series | – | 1970s | Mono, 33⅓ | Original Dial acetates | Dial material only, sold as individual volumes; scarce | – |
+| **D** | Bird's Nest "Best of the Dial Masters" Vol. 1/2 | 840100 | 2020 | Mono, 33⅓, colored vinyl | Digital transfer (likely same lineage as CD/box editions) | Dial-only "best of" sampler, not the complete collection | – |
 
 ## References
 

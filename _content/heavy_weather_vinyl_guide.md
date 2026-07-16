@@ -105,12 +105,12 @@ A 2023 repress on **peach coloured vinyl** (r28540660, 1,500 numbered copies) us
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | ORG 2LP 45rpm 180g | ORGM-2009 | 2011 | Stereo, 45rpm, 2×180g | Orig analog tapes → Bernie Grundman, RTI | Vinyl Gourmet-selected; Fremer-reviewed; 2,500 copies; $150–$300 | [Discogs](https://www.discogs.com/release/3526540-Weather-Report-Heavy-Weather) |
-| **A** | Original US Columbia – Terre Haute press | PC 34418 | 1977 | Stereo, 33⅓ | Original Columbia lacquer; Terre Haute plant | "T" or no plant code in deadwax; $30–$80 NM | [Discogs](https://www.discogs.com/release/877385-Weather-Report-Heavy-Weather) |
-| **B** | Japanese CBS/Sony 25AP 357 | 25AP 357 | 1977 | Stereo, 33⅓ | Japanese CBS/Sony pressing | "Better dynamics than US copy"; dead-quiet; $40–$100 with obi | [Discogs](https://www.discogs.com/release/13432557-Weather-Report-Heavy-Weather) |
-| **B** | Speakers Corner SC 34418 180g | SC 34418 | 2000s | Stereo, 33⅓, 180g | Licensed; Pallas pressing | Quiet Pallas vinyl; good European option; $60–$120 | [Discogs](https://www.discogs.com/release/2342633-Weather-Report-Heavy-Weather) |
-| **B** | Music on Vinyl MOVLP088 180g | MOVLP088 | 2011 | Stereo, 33⅓, 180g | Licensed Sony; EU pressing | Warm with boosted bass; best-value modern; $25–$40 | [Discogs](https://www.discogs.com/release/4332389-Weather-Report-Heavy-Weather) |
-| **B** | Original US Columbia – other plants | PC 34418 | 1977 | Stereo, 33⅓ | Original Columbia lacquer; Pitman/Santa Maria | Check plant code; Pitman and Santa Maria acceptable; $20–$50 | [Discogs](https://www.discogs.com/release/10355513-Weather-Report-Heavy-Weather) |
+| **S** | ORG 2LP 45rpm 180g | ORGM-2009 | 2011 | Stereo, 45rpm, 2×180g | Orig analog tapes → Bernie Grundman, RTI | Vinyl Gourmet-selected; Fremer-reviewed; 2,500 copies | [Discogs](https://www.discogs.com/release/3526540-Weather-Report-Heavy-Weather) |
+| **A** | Original US Columbia – Terre Haute press | PC 34418 | 1977 | Stereo, 33⅓ | Original Columbia lacquer; Terre Haute plant | "T" or no plant code in deadwax | [Discogs](https://www.discogs.com/release/877385-Weather-Report-Heavy-Weather) |
+| **B** | Japanese CBS/Sony 25AP 357 | 25AP 357 | 1977 | Stereo, 33⅓ | Japanese CBS/Sony pressing | "Better dynamics than US copy"; dead-quiet | [Discogs](https://www.discogs.com/release/13432557-Weather-Report-Heavy-Weather) |
+| **B** | Speakers Corner SC 34418 180g | SC 34418 | 2000s | Stereo, 33⅓, 180g | Licensed; Pallas pressing | Quiet Pallas vinyl; good European option | [Discogs](https://www.discogs.com/release/2342633-Weather-Report-Heavy-Weather) |
+| **B** | Music on Vinyl MOVLP088 180g | MOVLP088 | 2011 | Stereo, 33⅓, 180g | Licensed Sony; EU pressing | Warm with boosted bass; best-value modern | [Discogs](https://www.discogs.com/release/4332389-Weather-Report-Heavy-Weather) |
+| **B** | Original US Columbia – other plants | PC 34418 | 1977 | Stereo, 33⅓ | Original Columbia lacquer; Pitman/Santa Maria | Check plant code; Pitman and Santa Maria acceptable | [Discogs](https://www.discogs.com/release/10355513-Weather-Report-Heavy-Weather) |
 | **C** | Music on Vinyl peach vinyl repress | – | 2023 | Stereo, 33⅓, 180g | Same MOV plates | 1,500 copies; surface noise issues documented on some copies | [Discogs](https://www.discogs.com/release/28540660-Weather-Report-Heavy-Weather) |
 | **D** | 1980s CBS/Columbia reissues | Various | 1980s | Stereo, 33⅓ | Various | Softened transients; not preferred | – |
 | **F** | Generic EU reissues (DOL, Waxtime, etc.) | Various | 2000s+ | Various | Digital rip, unlicensed | Not licensed; avoid | – |

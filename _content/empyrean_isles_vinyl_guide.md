@@ -70,13 +70,13 @@ A dark blue Liberty/UA-era label reissue retains the Van Gelder stamp on both si
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Music Matters 33⅓ | MMBST-84175 | – | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Cohearent Audio, RTI | Limited/3,500; definitive modern pressing; $100–$200 secondary | [Discogs](https://www.discogs.com/release/6771572-Herbie-Hancock-Empyrean-Isles) |
-| **A** | Original BST 84175 stereo, Liberty label | BST 84175 | 1964 | Stereo, 33⅓ | RVG stamp | Non-DG considered true first per Cohen's guide; $150–$400 NM | [Discogs](https://www.discogs.com/release/6798808-Herbie-Hancock-Empyrean-Isles) |
-| **A** | Original BLP 4175 mono, NY USA label | BLP 4175 | 1964 | Mono, 33⅓ | RVG stamp | $150–$350 NM | [Discogs](https://www.discogs.com/release/1102285-Herbie-Hancock-Empyrean-Isles) |
-| **B** | Blue Note Classic Vinyl | – | – | Stereo, 33⅓, 180g | Orig tape → Kevin Gray | Best value; exceptionally well-reviewed; $25–$40 new | – |
+| **S** | Music Matters 33⅓ | MMBST-84175 | – | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Cohearent Audio, RTI | Limited/3,500; definitive modern pressing | [Discogs](https://www.discogs.com/release/6771572-Herbie-Hancock-Empyrean-Isles) |
+| **A** | Original BST 84175 stereo, Liberty label | BST 84175 | 1964 | Stereo, 33⅓ | RVG stamp | Non-DG considered true first per Cohen's guide | [Discogs](https://www.discogs.com/release/6798808-Herbie-Hancock-Empyrean-Isles) |
+| **A** | Original BLP 4175 mono, NY USA label | BLP 4175 | 1964 | Mono, 33⅓ | RVG stamp | | [Discogs](https://www.discogs.com/release/1102285-Herbie-Hancock-Empyrean-Isles) |
+| **B** | Blue Note Classic Vinyl | – | – | Stereo, 33⅓, 180g | Orig tape → Kevin Gray | Best value; exceptionally well-reviewed | – |
 | **B** | Jazz Heritage LP (alternate takes) | 912944X | 1991 | Stereo, 33⅓ | Expanded reissue | Only vinyl source for the alternate "One Finger Snap"/"Oliloqui Valley" takes; not audiophile-grade | [Discogs](https://www.discogs.com/release/4831551) |
-| **B** | Mid-1960s–70s dark blue label reissue | – | 1966–70s | Stereo, 33⅓ | RVG stamp, same metalwork as original | Underrated; genuine RVG sound without first-press pricing; ~$30–$80 | – |
-| **C** | Blue Note 75th Anniversary | B0022238-01 | 2015 | Stereo, 33⅓, 180g | Orig tape → Bernie Grundman/Chris Bellman | Genuinely split QC reports; buy with return policy; $25–$50 | [Discogs](https://www.discogs.com/release/6595630-Herbie-Hancock-Empyrean-Isles) |
+| **B** | Mid-1960s–70s dark blue label reissue | – | 1966–70s | Stereo, 33⅓ | RVG stamp, same metalwork as original | Underrated; genuine RVG sound without first-press pricing | – |
+| **C** | Blue Note 75th Anniversary | B0022238-01 | 2015 | Stereo, 33⅓, 180g | Orig tape → Bernie Grundman/Chris Bellman | Genuinely split QC reports; buy with return policy | [Discogs](https://www.discogs.com/release/6595630-Herbie-Hancock-Empyrean-Isles) |
 
 ## References
 

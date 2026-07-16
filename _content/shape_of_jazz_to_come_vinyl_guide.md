@@ -158,17 +158,17 @@ Practical recommendation: buy the Speakers Corner for stereo (inspect/return-fri
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | ORG Music 45rpm 2LP | ORGM-1099 | 2013 | Stereo, 45rpm, 2×180g | Original tapes → Bernie Grundman, AAA, Pallas | Audiophile stereo benchmark; Side 3 non-fill issues reported; $80–$150 | [Discogs](https://www.discogs.com/release/4427710-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
-| **S** | VMP Classics mono 180g | VMP-C058 | 2022 | Mono, 33⅓, 180g | Original mono tapes → Ryan K. Smith, AAA, RTI | Current consensus best; mono presentation; OOP $50–$100 | [Discogs](https://www.discogs.com/release/24779189-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
-| **A** | Original stereo bullseye | SD 1317 | 1959 | Stereo, 33⅓ | Bones Howe / Atlantic lacquer, AVCO pressing | First pressing; hard-panned stereo; $200–$500 NM | [Discogs](https://www.discogs.com/release/488973-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
-| **A** | Speakers Corner 180g | SD 1317 | 2021 | Stereo, 33⅓, 180g | Original tapes → Kevin Gray, AAA, Pallas | Entire first run has swapped labels; some warped copies; ~$40 new | [Discogs](https://www.discogs.com/release/18616948-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
-| **B** | Warner-Pioneer P-7510A | P-7510A | 1976 | Stereo, 33⅓ | AVCO-coded matrices + H suffix, Japanese plant; tape source | "Jazz-Forever Excellent" series; obi + insert; preferred over Speakers Corner by some; $50–$120 obi | [Discogs](https://www.discogs.com/release/2776761-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
-| **B** | Original mono bullseye | 1317 | 1959 | Mono, 33⅓ | Bones Howe / Atlantic lacquer | Unified ensemble sound; $100–$250 NM | [Discogs](https://www.discogs.com/release/2527331-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
-| **B** | 1960s plum/orange Atlantic | SD 1317 / 1317 | 1962–68 | Stereo or mono, 33⅓ | Period Atlantic lacquer | Close to original; laminated cover; $30–$80 NM | [Discogs](https://www.discogs.com/release/3400248-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
-| **C** | Warner Bros.-Pioneer P-6004A | P-6004A | 1971 | Stereo, 33⅓ | Warner-Pioneer Japanese lacquer | "Jazz Age" series; earlier Japan issue; $40–$80 with insert | [Discogs](https://www.discogs.com/release/2997973-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
-| **C** | Rhino 180g | SD 1317 | 2010 | Stereo, 33⅓, 180g | Atlantic tapes → Bernie Grundman, RTI | Solid entry-level; Kaplan praised it pre-ORG; $15–$30 | [Discogs](https://www.discogs.com/release/3236651-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
-| **D** | 1970s Warner/Atlantic green-red | SD 1317 | 1970s | Stereo, 33⅓ | Degraded masters, thin vinyl | "Dreadful" (Kaplan); avoid; $10–$25 | – |
-| **F** | EU grey-market (DOL, Waxtime) | Various | 2000s+ | Various | Digital rip, unlicensed | Unverified provenance; not licensed; typically under $20 | – |
+| **S** | ORG Music 45rpm 2LP | ORGM-1099 | 2013 | Stereo, 45rpm, 2×180g | Original tapes → Bernie Grundman, AAA, Pallas | Audiophile stereo benchmark; Side 3 non-fill issues reported | [Discogs](https://www.discogs.com/release/4427710-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
+| **S** | VMP Classics mono 180g | VMP-C058 | 2022 | Mono, 33⅓, 180g | Original mono tapes → Ryan K. Smith, AAA, RTI | Current consensus best; mono presentation | [Discogs](https://www.discogs.com/release/24779189-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
+| **A** | Original stereo bullseye | SD 1317 | 1959 | Stereo, 33⅓ | Bones Howe / Atlantic lacquer, AVCO pressing | First pressing; hard-panned stereo | [Discogs](https://www.discogs.com/release/488973-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
+| **A** | Speakers Corner 180g | SD 1317 | 2021 | Stereo, 33⅓, 180g | Original tapes → Kevin Gray, AAA, Pallas | Entire first run has swapped labels; some warped copies | [Discogs](https://www.discogs.com/release/18616948-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
+| **B** | Warner-Pioneer P-7510A | P-7510A | 1976 | Stereo, 33⅓ | AVCO-coded matrices + H suffix, Japanese plant; tape source | "Jazz-Forever Excellent" series; obi + insert; preferred over Speakers Corner by some | [Discogs](https://www.discogs.com/release/2776761-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
+| **B** | Original mono bullseye | 1317 | 1959 | Mono, 33⅓ | Bones Howe / Atlantic lacquer | Unified ensemble sound | [Discogs](https://www.discogs.com/release/2527331-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
+| **B** | 1960s plum/orange Atlantic | SD 1317 / 1317 | 1962–68 | Stereo or mono, 33⅓ | Period Atlantic lacquer | Close to original; laminated cover | [Discogs](https://www.discogs.com/release/3400248-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
+| **C** | Warner Bros.-Pioneer P-6004A | P-6004A | 1971 | Stereo, 33⅓ | Warner-Pioneer Japanese lacquer | "Jazz Age" series; earlier Japan issue | [Discogs](https://www.discogs.com/release/2997973-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
+| **C** | Rhino 180g | SD 1317 | 2010 | Stereo, 33⅓, 180g | Atlantic tapes → Bernie Grundman, RTI | Solid entry-level; Kaplan praised it pre-ORG | [Discogs](https://www.discogs.com/release/3236651-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
+| **D** | 1970s Warner/Atlantic green-red | SD 1317 | 1970s | Stereo, 33⅓ | Degraded masters, thin vinyl | "Dreadful" (Kaplan); avoid | – |
+| **F** | EU grey-market (DOL, Waxtime) | Various | 2000s+ | Various | Digital rip, unlicensed | Unverified provenance; not licensed; typically under | – |
 
 ## References
 

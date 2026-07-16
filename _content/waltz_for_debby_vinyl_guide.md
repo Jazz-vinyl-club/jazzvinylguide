@@ -90,13 +90,13 @@ Numerous colored-vinyl and budget European reissues circulate (yellow, purple, t
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Analogue Productions UHQR | AUHQR 0018-45 | 2024 | Stereo, 45rpm, 2×200g Clarity | Orig tape → Kevin Gray, Cohearent, QRP | Current reference; 5,000 copies; $150–$300 | [Discogs](https://www.discogs.com/release/31288886-Bill-Evans-Trio-Waltz-For-Debby) |
-| **S** | Analogue Productions HQ-180 | APJ 009 | 1992 | Stereo, 180g | Orig tape → Doug Sax, The Mastering Lab | Benchmark for bass/drum excitement; $100–$270 secondary | [Discogs](https://www.discogs.com/release/2415967-Bill-Evans-Trio-With-Scott-LaFaro-Paul-Motian-Waltz-For-Debby) |
-| **A** | Craft Recordings OJC | CR00617 | 2023 | Stereo, 180g | Orig tape → Kevin Gray, Cohearent, RTI | Best value modern; rated "best-sounding" by some; $35–$45 new | [Discogs](https://www.discogs.com/release/27345327-Bill-Evans-Trio-Waltz-For-Debby) |
-| **A** | Original Riverside stereo | RLP 9399 | 1962 | Stereo, 33⅓ | Original 1962 mastering | Deep groove; genuine stereo, not rechanneled; $200–$500 NM | [Discogs](https://www.discogs.com/release/13975220-Bill-Evans-Trio-With-Scott-LaFaro-Paul-Motian-Waltz-For-Debby) |
-| **A** | Original Riverside mono | RLP 399 | 1962 | Mono, 33⅓ | Original 1962 mastering | Deep groove; $150–$400 NM | [Discogs](https://www.discogs.com/release/3415732-Bill-Evans-Trio-With-Scott-LaFaro-Paul-Motian-Waltz-For-Debby) |
-| **B** | Japanese Riverside/Milestone pressing | SMJ-6118 | 1975 | Stereo, 33⅓ | Licensed Japanese pressing | Highly praised for pressing quality; $40–$90 with obi | [Discogs](https://www.discogs.com/release/3866394-Bill-Evans-Trio-Waltz-For-Debby) |
-| **C** | Original Jazz Classics (vintage) | OJC-210 | 1985 | Stereo, 33⅓ | Fantasy reissue from orig tapes | Affordable, decent quality; $20–$50 | [Discogs](https://www.discogs.com/release/9110742-Bill-Evans-Trio-With-Scott-LaFaro-Paul-Motian-Waltz-For-Debby) |
+| **S** | Analogue Productions UHQR | AUHQR 0018-45 | 2024 | Stereo, 45rpm, 2×200g Clarity | Orig tape → Kevin Gray, Cohearent, QRP | Current reference; 5,000 copies | [Discogs](https://www.discogs.com/release/31288886-Bill-Evans-Trio-Waltz-For-Debby) |
+| **S** | Analogue Productions HQ-180 | APJ 009 | 1992 | Stereo, 180g | Orig tape → Doug Sax, The Mastering Lab | Benchmark for bass/drum excitement | [Discogs](https://www.discogs.com/release/2415967-Bill-Evans-Trio-With-Scott-LaFaro-Paul-Motian-Waltz-For-Debby) |
+| **A** | Craft Recordings OJC | CR00617 | 2023 | Stereo, 180g | Orig tape → Kevin Gray, Cohearent, RTI | Best value modern; rated "best-sounding" by some | [Discogs](https://www.discogs.com/release/27345327-Bill-Evans-Trio-Waltz-For-Debby) |
+| **A** | Original Riverside stereo | RLP 9399 | 1962 | Stereo, 33⅓ | Original 1962 mastering | Deep groove; genuine stereo, not rechanneled | [Discogs](https://www.discogs.com/release/13975220-Bill-Evans-Trio-With-Scott-LaFaro-Paul-Motian-Waltz-For-Debby) |
+| **A** | Original Riverside mono | RLP 399 | 1962 | Mono, 33⅓ | Original 1962 mastering | Deep groove | [Discogs](https://www.discogs.com/release/3415732-Bill-Evans-Trio-With-Scott-LaFaro-Paul-Motian-Waltz-For-Debby) |
+| **B** | Japanese Riverside/Milestone pressing | SMJ-6118 | 1975 | Stereo, 33⅓ | Licensed Japanese pressing | Highly praised for pressing quality | [Discogs](https://www.discogs.com/release/3866394-Bill-Evans-Trio-Waltz-For-Debby) |
+| **C** | Original Jazz Classics (vintage) | OJC-210 | 1985 | Stereo, 33⅓ | Fantasy reissue from orig tapes | Affordable, decent quality | [Discogs](https://www.discogs.com/release/9110742-Bill-Evans-Trio-With-Scott-LaFaro-Paul-Motian-Waltz-For-Debby) |
 
 ## References
 

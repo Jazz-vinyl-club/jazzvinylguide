@@ -109,15 +109,20 @@ a:hover { color: var(--paper); }
 .album-content table tr:last-child td { border-bottom: none; }
 .album-content table tr:hover td { background: var(--surface); }
 
-/* Tier table column widths — 8 columns, min-width 820px total */
+/* Tier table column widths — 8 columns: Tier/Pressing/Cat#/Year/Format/
+   Source-Mastering/Notes/Market. Market replaces the old narrow Discogs
+   column (was 82px, fine for a single link -- far too small once it held
+   the market summary + suggested-price ladder) and gets real room; Notes
+   trimmed slightly since price ranges were removed from it (now sourced
+   live from Market instead). */
 .album-content table th:nth-child(1), .album-content table td:nth-child(1) { width: 44px; }
-.album-content table th:nth-child(2), .album-content table td:nth-child(2) { width: 16%; }
-.album-content table th:nth-child(3), .album-content table td:nth-child(3) { width: 10%; }
+.album-content table th:nth-child(2), .album-content table td:nth-child(2) { width: 15%; }
+.album-content table th:nth-child(3), .album-content table td:nth-child(3) { width: 9%; }
 .album-content table th:nth-child(4), .album-content table td:nth-child(4) { width: 70px; white-space: nowrap; padding-right: 1.25rem; }
-.album-content table th:nth-child(5), .album-content table td:nth-child(5) { width: 11%; }
-.album-content table th:nth-child(6), .album-content table td:nth-child(6) { width: 18%; }
-.album-content table th:nth-child(7), .album-content table td:nth-child(7) { width: 22%; }
-.album-content table th:nth-child(8), .album-content table td:nth-child(8) { width: 82px; white-space: nowrap; }
+.album-content table th:nth-child(5), .album-content table td:nth-child(5) { width: 10%; }
+.album-content table th:nth-child(6), .album-content table td:nth-child(6) { width: 15%; }
+.album-content table th:nth-child(7), .album-content table td:nth-child(7) { width: 17%; }
+.album-content table th:nth-child(8), .album-content table td:nth-child(8) { width: 26%; }
 
 /* Contribute banner */
 .contribute-banner { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--gold); padding: 1.25rem 1.5rem; margin: 3rem 0 0; display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
@@ -198,43 +203,46 @@ a:hover { color: var(--paper); }
 /* Market column -- a real summary line (for-sale count + lowest price,
    release-wide, since Discogs doesn't expose these per condition) above a
    line-and-dots ladder for suggested_price at VG+/NM/Mint (Good/VG dropped
-   from display to reduce clutter -- still present in market_data.json).
-   Discogs column folded into the Cat# link; Market takes its former slot
-   as the last column, and the whole tier table gets a wider breakout than
-   the normal prose-width table wrap. */
+   from display -- still in market_data.json, just unrendered). Discogs
+   column folded into the Cat# link; Market takes its former slot as the
+   last column. */
 
+/* Widen the tier table beyond the normal prose-width wrap, WITHOUT any
+   left-shifting margin -- left edge stays exactly where every other table
+   on the page starts (same as .table-wrap's default), so it can never
+   collide with the sidebar. Only the width grows, overflowing rightward
+   into the page's own margin via .album-content's overflow:visible --
+   the same mechanism the default .table-wrap already relies on, just with
+   smaller margins subtracted so more of it is usable. */
 .tier-table-wrap {
-  width: calc(var(--max-w) - 4rem) !important;
+  width: min(100vw - 2rem, calc(var(--max-w) - var(--sidebar-w) - 2rem)) !important;
   max-width: none !important;
-  margin-left: calc(-1 * (var(--sidebar-w) + 3.5rem)) !important;
-}
-
-.market-legend {
-  width: calc(var(--max-w) - 4rem);
-  margin-left: calc(-1 * (var(--sidebar-w) + 3.5rem));
-  text-align: right;
-  font-size: 0.72rem;
-  font-style: italic;
-  color: var(--grey);
-  margin-bottom: 0.4rem;
 }
 
 .market-catnum-link { color: var(--gold); }
 .market-catnum-link:hover { color: var(--paper); }
 
-.tier-table th.market-sort-th,
-.tier-table thead th:last-child { cursor: pointer; user-select: none; }
-.tier-table thead th:last-child:hover { color: var(--gold); }
+/* Sort control -- gold and properly sized (was inheriting the same tiny
+   0.62rem uppercase header font as every other column heading, which made
+   it both hard to see and easy to miss as clickable at all). */
+.tier-table thead th:last-child {
+  font-size: 0.72rem;
+  color: var(--gold);
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+}
+.tier-table thead th:last-child:hover { color: var(--paper); text-decoration: underline; }
 
-.market-cell-inner { display: flex; flex-direction: column; gap: 2px; }
+.market-cell-inner { display: flex; flex-direction: column; gap: 4px; }
 .market-summary-link { font-family: var(--mono); font-size: 0.66rem; font-style: italic; color: var(--gold-dim); text-decoration: none; }
 .market-summary-link:hover { text-decoration: underline; }
 .market-summary-none { font-family: var(--mono); font-size: 0.66rem; font-style: italic; color: var(--grey); }
 .market-none { color: var(--grey); }
-.market-ladder { position: relative; display: flex; justify-content: space-between; padding: 8px 2px 6px; max-width: 160px; }
-.market-ladder::before { content: ""; position: absolute; left: 2px; right: 2px; top: 50%; height: 1px; background: var(--border); }
+.market-ladder { position: relative; display: flex; justify-content: space-between; padding: 8px 4px 6px; width: 100%; }
+.market-ladder::before { content: ""; position: absolute; left: 4px; right: 4px; top: 50%; height: 1px; background: var(--border); }
 .market-dot-col { position: relative; z-index: 1; display: flex; flex-direction: column; align-items: center; gap: 3px; }
 .market-dot { border-radius: 50%; background: var(--gold-dim); display: block; }
-.market-price { font-family: var(--mono); font-size: 0.62rem; color: var(--gold-dim); }
+.market-price { font-family: var(--mono); font-size: 0.64rem; color: var(--gold-dim); }
 .market-cond-label { font-family: var(--mono); font-size: 0.58rem; color: var(--grey); }
 .market-pending { font-family: var(--mono); font-size: 0.68rem; color: var(--grey); }

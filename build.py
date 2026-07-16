@@ -144,12 +144,6 @@ def render_market_cell(release_id, market_data):
     )
 
 
-MARKET_LEGEND = (
-    '<p class="market-legend">Market: current Discogs listings (total for sale &middot; lowest asking price) '
-    'plus Discogs&rsquo; suggested price at VG+, Near Mint, and Mint. Click "Market" to sort by lowest price.</p>'
-)
-
-
 def inject_market_column(content_html, market_data):
     """Finds the tier table (identified by its 'Tier' header, so this never
     touches other tables like a Buyer's Guide comparison) and restructures
@@ -205,7 +199,7 @@ def inject_market_column(content_html, market_data):
     table_html = table_html.replace(
         '<div class="table-wrap">', '<div class="table-wrap tier-table-wrap">', 1
     )
-    return content_html[: match.start()] + MARKET_LEGEND + table_html + content_html[match.end() :] + MARKET_SORT_SCRIPT
+    return content_html[: match.start()] + table_html + content_html[match.end() :] + MARKET_SORT_SCRIPT
 
 def get_last_updated(content_file):
     """Fetch last commit date for a file from GitHub API."""

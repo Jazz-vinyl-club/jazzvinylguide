@@ -66,12 +66,12 @@ No specific bootleg is widely documented. Later 1970s–80s Columbia reissues on
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Mobile Fidelity UltraDisc One-Step | UD1S 2-011 | 2019 | Stereo, 45rpm, 2×180g SuperVinyl | Orig tape → Krieg Wunderlich, DSD256, RTI | TAS Super LP List; 6,000 copies; some QC variance reported; $150–$300 secondary | [Discogs](https://www.discogs.com/release/14174187-The-Thelonious-Monk-Quartet-Monks-Dream) |
-| **A** | Impex Records 180g | – | 2017 | Stereo, 180g | Orig tape → Kevin Gray, Cohearent Audio, RTI | Widely praised; known tape-level click on track A1; $35–$50 new | [Discogs](https://www.discogs.com/release/11537615-The-Thelonious-Monk-Quartet-Monks-Dream) |
-| **B** | Original Columbia two-eye stereo | CS 8765 | 1963 | Stereo, 33⅓ | Original 1963 mastering | 360 Sound era; attainable given large original run; $40–$120 NM | [Discogs](https://www.discogs.com/release/1465575-The-Thelonious-Monk-Quartet-Monks-Dream) |
-| **B** | Original Columbia two-eye mono | CL 1965 | 1963 | Mono, 33⅓ | Original 1963 mastering | $40–$100 NM | [Discogs](https://www.discogs.com/release/735430-The-Thelonious-Monk-Quartet-Monks-Dream) |
-| **C** | Later Columbia corporate-era reissues | CS 8765 | 1970s–80s | Stereo, 33⅓ | Later metalwork | Budget listening only; $15–$40 | – |
-| **C** | Columbia Special Products "Collectors' Series" | JCS 8765 | 1973 | Stereo, 33⅓ | Budget reissue line | No dedicated sound reviews found; period curiosity; $15–$35 | – |
+| **S** | Mobile Fidelity UltraDisc One-Step | UD1S 2-011 | 2019 | Stereo, 45rpm, 2×180g SuperVinyl | Orig tape → Krieg Wunderlich, DSD256, RTI | TAS Super LP List; 6,000 copies; some QC variance reported | [Discogs](https://www.discogs.com/release/14174187-The-Thelonious-Monk-Quartet-Monks-Dream) |
+| **A** | Impex Records 180g | – | 2017 | Stereo, 180g | Orig tape → Kevin Gray, Cohearent Audio, RTI | Widely praised; known tape-level click on track A1 | [Discogs](https://www.discogs.com/release/11537615-The-Thelonious-Monk-Quartet-Monks-Dream) |
+| **B** | Original Columbia two-eye stereo | CS 8765 | 1963 | Stereo, 33⅓ | Original 1963 mastering | 360 Sound era; attainable given large original run | [Discogs](https://www.discogs.com/release/1465575-The-Thelonious-Monk-Quartet-Monks-Dream) |
+| **B** | Original Columbia two-eye mono | CL 1965 | 1963 | Mono, 33⅓ | Original 1963 mastering | | [Discogs](https://www.discogs.com/release/735430-The-Thelonious-Monk-Quartet-Monks-Dream) |
+| **C** | Later Columbia corporate-era reissues | CS 8765 | 1970s–80s | Stereo, 33⅓ | Later metalwork | Budget listening only | – |
+| **C** | Columbia Special Products "Collectors' Series" | JCS 8765 | 1973 | Stereo, 33⅓ | Budget reissue line | No dedicated sound reviews found; period curiosity | – |
 
 ## References
 

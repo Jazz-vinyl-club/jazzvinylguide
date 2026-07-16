@@ -75,9 +75,9 @@ An unofficial, unlicensed pressing (catalog ACL0087) circulates outside the main
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Verve Acoustic Sounds Series | B0035572-01 | 2022 | Stereo, 180g | Ryan K. Smith, Sterling Sound, QRP | TAS 5/5 music, 5/5 sonics (Mar 2023); under $40 new | [Discogs](https://www.discogs.com/release/25484281-Pharoah-Sanders-Karma) |
-| **A** | Original Impulse! stereo, first pressing | AS-9181 | 1969 | Stereo | Original 1969 mastering | Single-box logo, no ®; laminated gatefold; $100+ NM | [Discogs](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) |
-| **A** | Original Impulse! stereo, black/red-rim | AS-9181 | 1969 | Stereo | Original 1969 mastering | Two-box logo, 2x ®; most commonly found original; median ~$56, up to $300 | [Discogs](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) |
+| **S** | Verve Acoustic Sounds Series | B0035572-01 | 2022 | Stereo, 180g | Ryan K. Smith, Sterling Sound, QRP | TAS 5/5 music, 5/5 sonics (Mar 2023); under | [Discogs](https://www.discogs.com/release/25484281-Pharoah-Sanders-Karma) |
+| **A** | Original Impulse! stereo, first pressing | AS-9181 | 1969 | Stereo | Original 1969 mastering | Single-box logo, no ®; laminated gatefold | [Discogs](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) |
+| **A** | Original Impulse! stereo, black/red-rim | AS-9181 | 1969 | Stereo | Original 1969 mastering | Two-box logo, 2x ®; most commonly found original | [Discogs](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) |
 | **B** | Capitol Record Club edition | AS-9181 | 1969 | Stereo | Original mastering, Jacksonville plant | Club edition on the same label design; SMAS matrix; valued below standard retail copies | [Discogs](https://www.discogs.com/release/2954469-Pharoah-Sanders-Karma) |
 | **C** | French pressing (Barclay/Impulse!) | A-9181 | early 1970s | Stereo | French pressing | Green/blue labels; a collectible period curiosity; no established audiophile premium | [Discogs](https://www.discogs.com/release/3378018-Pharoah-Sanders-Karma) |
 | **C** | Japanese gatefold reissue | IMP-88062 | 1973 | Stereo | Japanese pressing, black/neon Impulse! era | No dedicated audiophile reputation established | – |

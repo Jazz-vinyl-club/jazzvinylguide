@@ -99,12 +99,12 @@ Various Music On Vinyl, Simply Vinyl, and generic LP pressings exist but source 
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Blue Note Tone Poet 180g mono | Tone Poet series | 2026 | Mono, 33⅓, 180g | Orig Capitol phono reel tapes → Kevin Gray, AAA, RTI | PoPsie gatefold; "best sounding I've heard"; ~$50–$70 | [Discogs](https://www.discogs.com/release/37415985-Miles-Davis-Birth-Of-The-Cool-Of-The-Cool) |
-| **A** | Original Capitol T-762, turquoise "Long Playing" only | T-762 | 1957 | Mono, 33⅓ | Original Capitol metalwork; Scranton plant | First state; machine-stamped runouts; $200–$600 NM | [Discogs](https://www.discogs.com/release/5456857-Miles-Davis-Birth-Of-The-Cool) |
-| **B** | Capitol T-762, "Long Playing High Fidelity" | T-762 | 1957–58 | Mono, 33⅓ | Original Capitol metalwork | Second pressing; sonically equivalent; $60–$200 VG+ | [Discogs](https://www.discogs.com/release/4609609-Miles-Davis-Birth-Of-The-Cool) |
-| **C** | Capitol 10" H-459 "Classics in Jazz" | H-459 | 1954 | Mono, 10" | Original Capitol metalwork | Eight tracks only; earliest LP presentation; $60–$200 | [Discogs](https://www.discogs.com/release/1869494-Miles-Davis-Classics-In-Jazz) |
-| **C** | Later Capitol pressings (swirl label, etc.) | T-762 | 1960s+ | Mono, 33⅓ | Later Capitol metalwork | Adequate; not preferred; $15–$60 | [Discogs](https://www.discogs.com/release/9028605-Miles-Davis-Birth-Of-The-Cool) |
-| **C** | 2019 Capitol/UMe "Complete Birth of the Cool" 2LP | Various | 2019 | Mono, 33⅓, 2×LP | Analogue tape (LP1); adds unreleased 1948 Royal Roost live set (LP2) | Genuinely mixed reception, not uniformly bad; only vinyl source for the live material; $30–$60 | [Discogs](https://www.discogs.com/release/13708439-Miles-Davis-The-Complete-Birth-Of-The-Cool) |
+| **S** | Blue Note Tone Poet 180g mono | Tone Poet series | 2026 | Mono, 33⅓, 180g | Orig Capitol phono reel tapes → Kevin Gray, AAA, RTI | PoPsie gatefold; "best sounding I've heard" | [Discogs](https://www.discogs.com/release/37415985-Miles-Davis-Birth-Of-The-Cool-Of-The-Cool) |
+| **A** | Original Capitol T-762, turquoise "Long Playing" only | T-762 | 1957 | Mono, 33⅓ | Original Capitol metalwork; Scranton plant | First state; machine-stamped runouts | [Discogs](https://www.discogs.com/release/5456857-Miles-Davis-Birth-Of-The-Cool) |
+| **B** | Capitol T-762, "Long Playing High Fidelity" | T-762 | 1957–58 | Mono, 33⅓ | Original Capitol metalwork | Second pressing; sonically equivalent | [Discogs](https://www.discogs.com/release/4609609-Miles-Davis-Birth-Of-The-Cool) |
+| **C** | Capitol 10" H-459 "Classics in Jazz" | H-459 | 1954 | Mono, 10" | Original Capitol metalwork | Eight tracks only; earliest LP presentation | [Discogs](https://www.discogs.com/release/1869494-Miles-Davis-Classics-In-Jazz) |
+| **C** | Later Capitol pressings (swirl label, etc.) | T-762 | 1960s+ | Mono, 33⅓ | Later Capitol metalwork | Adequate; not preferred | [Discogs](https://www.discogs.com/release/9028605-Miles-Davis-Birth-Of-The-Cool) |
+| **C** | 2019 Capitol/UMe "Complete Birth of the Cool" 2LP | Various | 2019 | Mono, 33⅓, 2×LP | Analogue tape (LP1); adds unreleased 1948 Royal Roost live set (LP2) | Genuinely mixed reception, not uniformly bad; only vinyl source for the live material | [Discogs](https://www.discogs.com/release/13708439-Miles-Davis-The-Complete-Birth-Of-The-Cool) |
 | **F** | Any rechanneled "stereo" version | Various | Various | Fake stereo | Electronically processed mono | These are 1949–50 mono recordings – never | – |
 
 ## References

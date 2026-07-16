@@ -106,13 +106,13 @@ Note: r2019742 on Discogs shows a "43 West 61st" address pressing – this is th
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Music Matters 45rpm 2LP | MMBST-84185 | 2010 | Stereo, 45rpm, 2×180g | Orig tape → Kevin Gray + Plangent Process restoration | Only pressing that fixes title-track warble; limited/2,500; $150–$300 | [Discogs](https://www.discogs.com/release/2721587-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
-| **A** | Original BLP 4185 mono, NY USA label | BLP 4185 | 1965 | Mono, 33⅓ | RVG / Plastylite | VAN GELDER + ear required; free of warble issue; $150–$350 NM | [Discogs](https://www.discogs.com/release/2019742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
-| **A** | Original BST 84185 stereo, NY USA label | BST 84185 | 1965 | Stereo, 33⅓ | RVG / Plastylite | DG Side 1 only; free of warble issue; $150–$400 NM | [Discogs](https://www.discogs.com/release/2400742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
-| **B** | Blue Note Classic Vinyl 180g | BST 84185 | 2020 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Title-track warble present; separate QC issues documented; $20–$35 | [Discogs](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
-| **B** | Japanese King Records pressing | GXF-3017 | 1977 | Stereo, 33⅓ | Licensed Japanese pressing | Quiet vintage vinyl; $40–$90 with obi | [Discogs](https://www.discogs.com/release/3936547-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
-| **C** | Liberty-era pressing (with VG stamp) | BST 84185 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax; $30–$80 VG+ | [Discogs](https://www.discogs.com/release/4231572-The-Horace-Silver-Quintet-Song-For-My-Father) |
-| **D** | Generic European reissues | Various | 1970s+ | Stereo, 33⅓ | Various | Not recommended; $10–$25 | – |
+| **S** | Music Matters 45rpm 2LP | MMBST-84185 | 2010 | Stereo, 45rpm, 2×180g | Orig tape → Kevin Gray + Plangent Process restoration | Only pressing that fixes title-track warble; limited/2,500 | [Discogs](https://www.discogs.com/release/2721587-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
+| **A** | Original BLP 4185 mono, NY USA label | BLP 4185 | 1965 | Mono, 33⅓ | RVG / Plastylite | VAN GELDER + ear required; free of warble issue | [Discogs](https://www.discogs.com/release/2019742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
+| **A** | Original BST 84185 stereo, NY USA label | BST 84185 | 1965 | Stereo, 33⅓ | RVG / Plastylite | DG Side 1 only; free of warble issue | [Discogs](https://www.discogs.com/release/2400742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
+| **B** | Blue Note Classic Vinyl 180g | BST 84185 | 2020 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Title-track warble present; separate QC issues documented | [Discogs](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
+| **B** | Japanese King Records pressing | GXF-3017 | 1977 | Stereo, 33⅓ | Licensed Japanese pressing | Quiet vintage vinyl | [Discogs](https://www.discogs.com/release/3936547-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) |
+| **C** | Liberty-era pressing (with VG stamp) | BST 84185 | 1966–71 | Stereo, 33⅓ | RVG (if stamped) | Check deadwax | [Discogs](https://www.discogs.com/release/4231572-The-Horace-Silver-Quintet-Song-For-My-Father) |
+| **D** | Generic European reissues | Various | 1970s+ | Stereo, 33⅓ | Various | Not recommended | – |
 
 ## References
 

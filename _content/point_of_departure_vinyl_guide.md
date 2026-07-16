@@ -80,12 +80,12 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Music Matters 45rpm 2LP | MMBST-84167 | 2015 | Stereo, 45rpm, 2×180g | Orig tape → Kevin Gray, AcousTech | Limited/2,500; definitive modern pressing; $150–$300 secondary | [Discogs](https://www.discogs.com/release/2530637-Andrew-Hill-Point-Of-Departure) |
-| **A** | Original BST 84167 stereo, NY USA label | BST 84167 | 1965 | Stereo, 33⅓ | RVG stamp | Genuine stereo, not rechanneled; $150–$400 NM | [Discogs](https://www.discogs.com/release/4393383-Andrew-Hill-Point-Of-Departure) |
-| **A** | Original BLP 4167 mono, NY USA label | BLP 4167 | 1965 | Mono, 33⅓ | RVG stamp | Possible alternate "Refuge" take vs later pressings; $150–$400 NM | [Discogs](https://www.discogs.com/release/2108087-Andrew-Hill-Point-Of-Departure) |
-| **B** | Blue Note Classic Vinyl | 4535330 | 2022 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Best value; some pressing-defect reports; $25–$40 new | [Discogs](https://www.discogs.com/release/25191424-Andrew-Hill-Point-Of-Departure) |
-| **B** | Japanese Toshiba-EMI pressing | – | 1984 | Stereo, 33⅓ | Licensed Japanese pressing | With Japanese liner notes and obi; $40–$90 | [Discogs](https://www.discogs.com/release/12384470-Andrew-Hill-Point-Of-Departure) |
-| **C** | Liberty / United Artists-era pressing | BLP/BST 4167 | 1966–73 | Mono or stereo, 33⅓ | RVG stamp, same metalwork | Affordable, sonically close to original; $40–$100 | [Discogs](https://www.discogs.com/release/5478479-Andrew-Hill-Point-Of-Departure) |
+| **S** | Music Matters 45rpm 2LP | MMBST-84167 | 2015 | Stereo, 45rpm, 2×180g | Orig tape → Kevin Gray, AcousTech | Limited/2,500; definitive modern pressing | [Discogs](https://www.discogs.com/release/2530637-Andrew-Hill-Point-Of-Departure) |
+| **A** | Original BST 84167 stereo, NY USA label | BST 84167 | 1965 | Stereo, 33⅓ | RVG stamp | Genuine stereo, not rechanneled | [Discogs](https://www.discogs.com/release/4393383-Andrew-Hill-Point-Of-Departure) |
+| **A** | Original BLP 4167 mono, NY USA label | BLP 4167 | 1965 | Mono, 33⅓ | RVG stamp | Possible alternate "Refuge" take vs later pressings | [Discogs](https://www.discogs.com/release/2108087-Andrew-Hill-Point-Of-Departure) |
+| **B** | Blue Note Classic Vinyl | 4535330 | 2022 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Best value; some pressing-defect reports | [Discogs](https://www.discogs.com/release/25191424-Andrew-Hill-Point-Of-Departure) |
+| **B** | Japanese Toshiba-EMI pressing | – | 1984 | Stereo, 33⅓ | Licensed Japanese pressing | With Japanese liner notes and obi | [Discogs](https://www.discogs.com/release/12384470-Andrew-Hill-Point-Of-Departure) |
+| **C** | Liberty / United Artists-era pressing | BLP/BST 4167 | 1966–73 | Mono or stereo, 33⅓ | RVG stamp, same metalwork | Affordable, sonically close to original | [Discogs](https://www.discogs.com/release/5478479-Andrew-Hill-Point-Of-Departure) |
 
 ## References
 

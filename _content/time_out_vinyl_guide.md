@@ -162,19 +162,19 @@ The 33rpm version delivers the same Grundman mastering at slightly reduced groov
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | AP 45rpm 2LP | APJ 8192-45 | 2012 | Stereo, 45rpm, 2×180–200g | Original tapes → Bernie Grundman, AAA, QRP | Garcia 5/5; piano/bass authority; ~$80–100 new | [Discogs](https://www.discogs.com/release/3791080-The-Dave-Brubeck-Quartet-Time-Out) |
-| **S** | Original six-eye stereo, no CBS | CS 8192 | 1959 | Stereo, 33⅓ | Scully/Westrex lacquer, Fred Plaut | Early matrix, no CBS; $200–$500 NM | [Discogs](https://www.discogs.com/release/4327349-The-Dave-Brubeck-Quartet-Time-Out) |
-| **A** | Classic Records 200g Quiex SV-P 4LP 45rpm | CS 8192 (Classic) | 2000 | Stereo, 45rpm, 4×200g | Original tapes → Bernie Grundman, AAA | Best Classic edition; 4 single-sided LPs; OOP $150–$300 | [Discogs](https://www.discogs.com/release/5575735-The-Dave-Brubeck-Quartet-Time-Out) |
-| **B** | Dutch Fontana mono | 682 065 TL | c.1960 | **Mono**, 33⅓ | Philips Holland pressing | TL = mono in Fontana catalogue; LJC comparison vs CBS six-eye (not no-CBS original); $80–$200 NM | [Discogs](https://www.discogs.com/release/3518844-The-Dave-Brubeck-Quartet-Time-Out) |
-| **B** | AP 33rpm 180g | AAPJ 8192 | 2015 | Stereo, 33⅓, 180g | Original tapes → Bernie Grundman, AAA, QRP | Best-value modern; note cover typo says 45rpm; ~$35–40 new | [Discogs](https://www.discogs.com/release/7632519-The-Dave-Brubeck-Quartet-Time-Out) |
-| **B** | Original six-eye mono, no CBS | CL 1397 | 1959 | Mono, 33⅓ | Scully/Westrex lacquer, Fred Plaut | Discrete mono mix; unified ensemble; $150–$350 NM | [Discogs](https://www.discogs.com/release/4078103-The-Dave-Brubeck-Quartet-Time-Out) |
-| **B** | Classic Records 180g 33rpm | CS 8192 (Classic) | 1995 | Stereo, 33⅓, 180g/200g | Original tapes → Bernie Grundman, AAA | Original Classic single-LP edition; OOP $60–$150 | [Discogs](https://www.discogs.com/release/3858513-The-Dave-Brubeck-Quartet-Time-Out) |
-| **B** | Classic Records Clarity SV-P II 4LP 45rpm | CS 8192 (Classic) | 2008 | Stereo, 45rpm, 4×200g clear | Original tapes → Bernie Grundman, AAA | Same stampers as 2000 Quiex edition; clear vinyl; some prefer Quiex warmth; OOP $150–$350 | [Discogs](https://www.discogs.com/release/6190224-The-Dave-Brubeck-Quartet-Time-Out) |
-| **C** | CBS six-eye stereo | CS 8192 | 1961–62 | Stereo, 33⅓ | Later stampers; CBS overprint | Noticeably inferior; $50–$120 | [Discogs](https://www.discogs.com/release/2261853-The-Dave-Brubeck-Quartet-Time-Out) |
-| **C** | Holland CBS/Columbia represses | CBS 32792 | 1970s–80s | Stereo, 33⅓ | Repress lacquers | Well-regarded by some Discogs users; $20–$60 | [Discogs](https://www.discogs.com/release/1981546-The-Dave-Brubeck-Quartet-Time-Out) |
-| **D** | 1970s–80s US Columbia represses | CS 8192 | 1970s–80s | Stereo, 33⅓ | Later Columbia lathes | Thinner, brighter; budget listening only; $15–$40 | – |
-| **D** | Music On Vinyl import | Various | 2010s | Stereo, 33⅓, 180g | Licensed reissue | Consistently reported as noisy; not recommended over AP editions; $25–$45 | – |
-| **F** | EU grey-market (DOL, Waxtime, Vinyl Passion) | Various | 2000s+ | Various | Digital rip, unlicensed | Not licensed; avoid; typically under $20 | – |
+| **S** | AP 45rpm 2LP | APJ 8192-45 | 2012 | Stereo, 45rpm, 2×180–200g | Original tapes → Bernie Grundman, AAA, QRP | Garcia 5/5; piano/bass authority | [Discogs](https://www.discogs.com/release/3791080-The-Dave-Brubeck-Quartet-Time-Out) |
+| **S** | Original six-eye stereo, no CBS | CS 8192 | 1959 | Stereo, 33⅓ | Scully/Westrex lacquer, Fred Plaut | Early matrix, no CBS | [Discogs](https://www.discogs.com/release/4327349-The-Dave-Brubeck-Quartet-Time-Out) |
+| **A** | Classic Records 200g Quiex SV-P 4LP 45rpm | CS 8192 (Classic) | 2000 | Stereo, 45rpm, 4×200g | Original tapes → Bernie Grundman, AAA | Best Classic edition; 4 single-sided LPs | [Discogs](https://www.discogs.com/release/5575735-The-Dave-Brubeck-Quartet-Time-Out) |
+| **B** | Dutch Fontana mono | 682 065 TL | c.1960 | **Mono**, 33⅓ | Philips Holland pressing | TL = mono in Fontana catalogue; LJC comparison vs CBS six-eye (not no-CBS original) | [Discogs](https://www.discogs.com/release/3518844-The-Dave-Brubeck-Quartet-Time-Out) |
+| **B** | AP 33rpm 180g | AAPJ 8192 | 2015 | Stereo, 33⅓, 180g | Original tapes → Bernie Grundman, AAA, QRP | Best-value modern; note cover typo says 45rpm | [Discogs](https://www.discogs.com/release/7632519-The-Dave-Brubeck-Quartet-Time-Out) |
+| **B** | Original six-eye mono, no CBS | CL 1397 | 1959 | Mono, 33⅓ | Scully/Westrex lacquer, Fred Plaut | Discrete mono mix; unified ensemble | [Discogs](https://www.discogs.com/release/4078103-The-Dave-Brubeck-Quartet-Time-Out) |
+| **B** | Classic Records 180g 33rpm | CS 8192 (Classic) | 1995 | Stereo, 33⅓, 180g/200g | Original tapes → Bernie Grundman, AAA | Original Classic single-LP edition | [Discogs](https://www.discogs.com/release/3858513-The-Dave-Brubeck-Quartet-Time-Out) |
+| **B** | Classic Records Clarity SV-P II 4LP 45rpm | CS 8192 (Classic) | 2008 | Stereo, 45rpm, 4×200g clear | Original tapes → Bernie Grundman, AAA | Same stampers as 2000 Quiex edition; clear vinyl; some prefer Quiex warmth | [Discogs](https://www.discogs.com/release/6190224-The-Dave-Brubeck-Quartet-Time-Out) |
+| **C** | CBS six-eye stereo | CS 8192 | 1961–62 | Stereo, 33⅓ | Later stampers; CBS overprint | Noticeably inferior | [Discogs](https://www.discogs.com/release/2261853-The-Dave-Brubeck-Quartet-Time-Out) |
+| **C** | Holland CBS/Columbia represses | CBS 32792 | 1970s–80s | Stereo, 33⅓ | Repress lacquers | Well-regarded by some Discogs users | [Discogs](https://www.discogs.com/release/1981546-The-Dave-Brubeck-Quartet-Time-Out) |
+| **D** | 1970s–80s US Columbia represses | CS 8192 | 1970s–80s | Stereo, 33⅓ | Later Columbia lathes | Thinner, brighter; budget listening only | – |
+| **D** | Music On Vinyl import | Various | 2010s | Stereo, 33⅓, 180g | Licensed reissue | Consistently reported as noisy; not recommended over AP editions | – |
+| **F** | EU grey-market (DOL, Waxtime, Vinyl Passion) | Various | 2000s+ | Various | Digital rip, unlicensed | Not licensed; avoid; typically under | – |
 
 ## References
 
