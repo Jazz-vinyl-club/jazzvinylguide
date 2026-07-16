@@ -3,10 +3,20 @@
 Jazz Vinyl Guide — Discogs Market Data Fetcher
 
 Pulls, per pressing linked in a guide's tier table:
-  - num_for_sale + lowest_price for the release OVERALL, via /releases/{id}
-    (this endpoint already includes these two fields — no extra call needed)
+  - num_for_sale + lowest_price for the release OVERALL, via
+    /marketplace/stats/{release_id}?curr_abbr=... (the endpoint explicitly
+    documented as returning currency-scoped "marketplace data" -- earlier,
+    this script pulled these two fields from /releases/{id} instead, passing
+    the same curr_abbr param; a live run requesting USD came back with a
+    number that matched the AUD-converted price instead, meaning curr_abbr's
+    effect on that particular field of that particular endpoint wasn't
+    reliable in practice, whatever the docs imply. Switched to the endpoint
+    whose sole purpose is currency-scoped marketplace stats, and this script
+    now also verifies the currency actually returned matches what was asked
+    for, logging a loud warning if it ever doesn't rather than silently
+    mislabeling again.)
   - suggested_price PER CONDITION (Mint, NM, VG+, VG, Good), via
-    /marketplace/price_suggestions/{release_id}
+    /marketplace/price_suggestions/{release_id}, same verification applied.
 
 IMPORTANT, corrected after v1 shipped bad data: Discogs' marketplace/stats
 endpoint does NOT support a per-condition filter. v1 of this script passed a
@@ -149,19 +159,38 @@ def scan_release_ids():
 
 
 def fetch_release_market_data(release_id, currency="USD"):
-    """One release -> release-wide for_sale + lowest_price (from the release
-    lookup, free) plus per-condition suggested_price (one more call). Returns
-    a dict, or None if the release_id itself doesn't resolve (bad/stale
-    link — flag, don't fetch)."""
+    """One release -> release-wide for_sale + lowest_price (via
+    /marketplace/stats, which is explicitly documented as currency-scoped
+    "marketplace data" -- unlike /releases/{id}, a general database resource
+    where curr_abbr's effect on this particular field turned out to be
+    unreliable in practice: a live run requesting USD returned a number that
+    matched the AUD-converted price, not the USD one) plus per-condition
+    suggested_price. Returns None if the release doesn't resolve at all."""
 
-    base = discogs_get(f"/releases/{release_id}", params={"curr_abbr": currency})
+    stats = discogs_get(f"/marketplace/stats/{release_id}", params={"curr_abbr": currency})
     time.sleep(REQUEST_DELAY)
-    if base is None:
-        return None
 
-    for_sale = base.get("num_for_sale") or 0
-    lowest = base.get("lowest_price")
-    lowest_price = lowest.get("value") if isinstance(lowest, dict) else lowest
+    if stats is None:
+        # No stats (e.g. zero listings ever) isn't necessarily a dead link --
+        # confirm the release itself still exists before flagging it stale.
+        base = discogs_get(f"/releases/{release_id}")
+        time.sleep(REQUEST_DELAY)
+        if base is None:
+            return None
+        for_sale, lowest_price, actual_currency = 0, None, currency
+    else:
+        for_sale = stats.get("num_for_sale") or 0
+        lowest = stats.get("lowest_price")
+        if isinstance(lowest, dict):
+            lowest_price = lowest.get("value")
+            actual_currency = lowest.get("currency", currency)
+        else:
+            lowest_price = lowest
+            actual_currency = currency
+
+    if actual_currency != currency:
+        print(f"\n        WARNING: requested {currency} but Discogs returned {actual_currency} "
+              f"for release {release_id} -- stored value is in {actual_currency}, not {currency}.")
 
     suggested_prices = {c: None for c in CONDITIONS}
     suggestions = discogs_get(f"/marketplace/price_suggestions/{release_id}")
@@ -171,10 +200,15 @@ def fetch_release_market_data(release_id, currency="USD"):
             entry = suggestions.get(condition)
             if entry:
                 suggested_prices[condition] = round(entry.get("value", 0), 2)
+                sugg_currency = entry.get("currency", currency)
+                if sugg_currency != currency:
+                    print(f"\n        WARNING: price_suggestions for {release_id}/{condition} "
+                          f"came back in {sugg_currency}, not requested {currency}.")
 
     return {
         "for_sale": for_sale,
         "lowest_price": lowest_price,
+        "currency": actual_currency,
         "suggested_prices": suggested_prices,
     }
 
@@ -230,7 +264,7 @@ def main():
                 stale.append({"release_id": release_id, "guides": slugs})
                 continue
 
-            print(f"{data['for_sale']} for sale overall, from {args.currency} {data['lowest_price']}")
+            print(f"{data['for_sale']} for sale overall, from {data['currency']} {data['lowest_price']}")
 
             result[release_id] = {
                 "fetched_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
