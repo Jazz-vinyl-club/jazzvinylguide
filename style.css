@@ -235,9 +235,9 @@ a:hover { color: var(--paper); }
 .tier-table thead th:last-child:hover { color: var(--paper); text-decoration: underline; }
 
 .market-cell-inner { display: flex; flex-direction: column; gap: 4px; }
-.market-summary-link { font-family: var(--mono); font-size: 0.66rem; font-style: italic; color: var(--gold-dim); text-decoration: none; }
+.market-summary-link { font-family: var(--mono); font-size: 0.66rem; font-style: italic; font-weight: 600; color: var(--gold-dim); text-decoration: none; }
 .market-summary-link:hover { text-decoration: underline; }
-.market-summary-none { font-family: var(--mono); font-size: 0.66rem; font-style: italic; color: var(--grey); }
+.market-summary-none { font-family: var(--mono); font-size: 0.66rem; font-style: italic; font-weight: 600; color: var(--grey); }
 .market-none { color: var(--grey); }
 .market-ladder { position: relative; display: flex; justify-content: space-between; padding: 8px 4px 6px; width: 100%; }
 .market-ladder::before { content: ""; position: absolute; left: 4px; right: 4px; top: 50%; height: 1px; background: var(--border); }

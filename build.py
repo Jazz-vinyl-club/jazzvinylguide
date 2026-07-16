@@ -191,9 +191,9 @@ def inject_market_column(content_html, market_data):
             lowest_price = None
 
         sort_value = lowest_price if lowest_price is not None else ""
-        cells[7] = f'<td class="market-cell" data-lowest-price="{sort_value}">{market_cell_html}</td>'
+        cells[7] = f'<td class="market-cell">{market_cell_html}</td>'
 
-        return "<tr>\n" + "\n".join(cells) + "\n</tr>"
+        return f'<tr data-lowest-price="{sort_value}">\n' + "\n".join(cells) + "\n</tr>"
 
     table_html = ROW_RE.sub(process_row, table_html)
     table_html = table_html.replace(
