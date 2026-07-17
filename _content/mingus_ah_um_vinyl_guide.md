@@ -125,7 +125,7 @@ The practical conclusion: **vintage mono for the 1959 listening experience; mode
 
 **Mingus's bass** is the defining challenge. In the 30th Street Studio's vast acoustic space, Mingus's upright bass had enormous natural resonance – it can sound boomy and diffuse on lesser pressings, or focused, physical, and string-textured on the best. The ORG 45rpm is specifically praised for solving this: the wider groove of 45rpm resolved "bass strings being played" rather than "boomy effect." The Better Records community grades pressings partly on whether the bass "sits in the mix" versus "taking over the room."
 
-**The brass ensemble** – two trombones and three saxophones trading lines – requires good high-frequency resolution and correct inter-instrument separation. On flat or compressed pressings these voices blur; on the best (original Six Eyes, Classic Records, ORG, MoFi UD1S) they maintain individual identity even in the densest passages.
+**The brass ensemble** – two trombones and three saxophones trading lines – requires good high-frequency resolution and correct inter-instrument separation. On flat or compressed pressings these voices blur; on the best (original Six Eyes, Classic Records, ORG, MoFi UD1S) they maintain individual identity even in the densest passages. Worth knowing: [a four-way direct comparison](https://www.youtube.com/watch?v=wgZnQfoKV20) (original Six Eye, ORG, Music on Vinyl, MoFi UD1S) found a faint distortion on the saxophone's opening moments of "Goodbye Pork Pie Hat" (right channel) present on the ORG, the MoFi One-Step, and even the label's own high-resolution digital transfer – but not clearly audible on the original pressing. This points to the artifact being introduced somewhere in the later three-track mixdown/tape-transfer chain used for the unedited versions, rather than being a defect specific to any single reissue.
 
 **Dannie Richmond's drums** in the church acoustic need correct reverb tail – not clipped, not muddy, just live-in-a-space. Fred Plaut captured this beautifully; good pressings reproduce it; poor ones either truncate the room ambience or smear it.
 
@@ -175,6 +175,7 @@ For most listeners, the [**Music on Vinyl MOVLP065**](https://www.discogs.com/re
 ## References
 
 - Discogs (master): [https://www.discogs.com/master/65014-Charles-Mingus-Mingus-Ah-Um](https://www.discogs.com/master/65014-Charles-Mingus-Mingus-Ah-Um)
+- YouTube, True Audiofiles, "SOUND QUALITY SHOOTOUT! Mingus Ah Um": [https://www.youtube.com/watch?v=wgZnQfoKV20](https://www.youtube.com/watch?v=wgZnQfoKV20)
 - Wikipedia, "Mingus Ah Um": [https://en.wikipedia.org/wiki/Mingus_Ah_Um](https://en.wikipedia.org/wiki/Mingus_Ah_Um)
 - LondonJazzCollector, "Charles Mingus: Ah Um (1959) Columbia Six-Eye": [https://londonjazzcollector.wordpress.com/2013/02/12/charles-mingus-ah-um-1959-columbia-six-eye/](https://londonjazzcollector.wordpress.com/2013/02/12/charles-mingus-ah-um-1959-columbia-six-eye/)
 - LondonJazzCollector, "Columbia US Labels": [https://londonjazzcollector.wordpress.com/record-labels-guide/columbia-records/columbia-us-labels/](https://londonjazzcollector.wordpress.com/record-labels-guide/columbia-records/columbia-us-labels/)
