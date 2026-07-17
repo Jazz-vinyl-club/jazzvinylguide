@@ -47,25 +47,86 @@ RELEASE_ID_IN_HREF_RE = re.compile(r'discogs\.com/release/(\d+)')
 
 MARKET_SORT_SCRIPT = """<script>
 (function(){
+  function numOrInf(v){ var n = parseFloat(v); return isNaN(n) ? Infinity : n; }
+  function dataRows(table){
+    return Array.prototype.filter.call(table.querySelectorAll('tr'), function(r){ return r.querySelector('td'); });
+  }
+  function reorder(rows){
+    if(!rows.length) return;
+    var parent = rows[0].parentNode;
+    rows.forEach(function(r){ parent.appendChild(r); });
+  }
+  // F tier is 'avoid, do not buy' by this site's own tier criteria -- it
+  // stays pinned last under every sort, in either direction, rather than
+  // ever floating to the top just because it happens to be cheap or old.
+  function fPinnedCompare(a, b, valueCompareFn){
+    var aF = a.getAttribute('data-tier') === 'F';
+    var bF = b.getAttribute('data-tier') === 'F';
+    if(aF && bF) return 0;
+    if(aF) return 1;
+    if(bF) return -1;
+    return valueCompareFn(a, b);
+  }
+
   document.querySelectorAll('.tier-table').forEach(function(table){
-    var th = table.querySelector('thead th:last-child');
-    if(!th) return;
-    var asc = true;
-    th.classList.add('market-sort-th');
-    th.addEventListener('click', function(){
-      var rows = Array.prototype.filter.call(table.querySelectorAll('tr'), function(r){ return r.querySelector('td'); });
-      if(!rows.length) return;
-      var parent = rows[0].parentNode;
-      rows.sort(function(a,b){
-        var av = parseFloat(a.getAttribute('data-lowest-price'));
-        var bv = parseFloat(b.getAttribute('data-lowest-price'));
-        if(isNaN(av)) av = Infinity;
-        if(isNaN(bv)) bv = Infinity;
-        return asc ? av - bv : bv - av;
+    var theadThs = table.querySelectorAll('thead th');
+    var tierTh = theadThs[0];
+    var yearTh = theadThs[3];
+    var marketTh = theadThs[theadThs.length - 1];
+    if(!tierTh || !yearTh || !marketTh) return;
+
+    [tierTh, yearTh, marketTh].forEach(function(th){
+      th.classList.add('market-sort-th');
+    });
+
+    var marketAsc = true, yearAsc = true;
+
+    function resetLabels(except){
+      if(except !== marketTh) marketTh.textContent = 'Market \\u21c5';
+      if(except !== yearTh) yearTh.textContent = 'Year \\u21c5';
+    }
+
+    marketTh.addEventListener('click', function(){
+      var rows = dataRows(table);
+      var asc = marketAsc;
+      rows.sort(function(a, b){
+        return fPinnedCompare(a, b, function(a, b){
+          var av = numOrInf(a.getAttribute('data-vgplus-price'));
+          var bv = numOrInf(b.getAttribute('data-vgplus-price'));
+          return asc ? av - bv : bv - av;
+        });
       });
-      rows.forEach(function(r){ parent.appendChild(r); });
-      th.textContent = 'Market ' + (asc ? '\\u25be' : '\\u25b4');
-      asc = !asc;
+      reorder(rows);
+      resetLabels(marketTh);
+      marketTh.textContent = 'Market ' + (asc ? '\\u25be' : '\\u25b4');
+      marketAsc = !marketAsc;
+    });
+
+    yearTh.addEventListener('click', function(){
+      var rows = dataRows(table);
+      var asc = yearAsc;
+      rows.sort(function(a, b){
+        return fPinnedCompare(a, b, function(a, b){
+          var av = numOrInf(a.getAttribute('data-year'));
+          var bv = numOrInf(b.getAttribute('data-year'));
+          return asc ? av - bv : bv - av;
+        });
+      });
+      reorder(rows);
+      resetLabels(yearTh);
+      yearTh.textContent = 'Year ' + (asc ? '\\u25be' : '\\u25b4');
+      yearAsc = !yearAsc;
+    });
+
+    tierTh.addEventListener('click', function(){
+      var rows = dataRows(table);
+      rows.sort(function(a, b){
+        return parseInt(a.getAttribute('data-default-index'), 10) - parseInt(b.getAttribute('data-default-index'), 10);
+      });
+      reorder(rows);
+      resetLabels(null);
+      marketAsc = true;
+      yearAsc = true;
     });
   });
 })();
@@ -144,6 +205,10 @@ def render_market_cell(release_id, market_data):
     )
 
 
+TIER_TEXT_RE = re.compile(r'<td><strong>([SABCDF])</strong></td>')
+YEAR_TEXT_RE = re.compile(r'<td>[^<]*?(\d{4})[^<]*</td>')
+
+
 def inject_market_column(content_html, market_data):
     """Finds the tier table (identified by its 'Tier' header, so this never
     touches other tables like a Buyer's Guide comparison) and restructures
@@ -152,15 +217,19 @@ def inject_market_column(content_html, market_data):
     suggested-price ladder, sourced from market_data.json) takes its place
     as the last column -- same position Discogs held, so no reordering of
     the other columns is needed. Also widens the table beyond the normal
-    prose column width and prepends a small legend. Leaves content_html
-    completely untouched if the tier table isn't found."""
+    prose column width. Leaves content_html completely untouched if the
+    tier table isn't found."""
     match = TIER_TABLE_RE.search(content_html)
     if not match:
         return content_html
 
     table_html = match.group(1)
     table_html = table_html.replace("<table>", '<table class="tier-table">', 1)
+    table_html = table_html.replace("<th>Tier</th>", '<th>Tier \u21c5</th>', 1)
+    table_html = table_html.replace("<th>Year</th>", '<th>Year \u21c5</th>', 1)
     table_html = table_html.replace("<th>Discogs</th>", '<th>Market \u21c5</th>', 1)
+
+    row_index = [0]
 
     def process_row(row_match):
         row_html = row_match.group(0)
@@ -168,9 +237,16 @@ def inject_market_column(content_html, market_data):
         if len(cells) < 8:
             return row_html  # header row or unrecognized shape -- leave untouched
 
+        tier_match = TIER_TEXT_RE.match(cells[0])
+        tier = tier_match.group(1) if tier_match else ""
+
+        year_match = YEAR_TEXT_RE.match(cells[3])
+        year = year_match.group(1) if year_match else ""
+
         discogs_cell = cells[7]
         href_match = DISCOGS_HREF_RE.search(discogs_cell)
 
+        vgplus_price = None
         if href_match:
             href = href_match.group(1)
             release_id_match = RELEASE_ID_IN_HREF_RE.search(href)
@@ -182,24 +258,28 @@ def inject_market_column(content_html, market_data):
 
             if release_id:
                 market_cell_html = render_market_cell(release_id, market_data)
-                lowest_price = (market_data.get(release_id) or {}).get("lowest_price")
+                entry = market_data.get(release_id) or {}
+                vgplus_price = entry.get("suggested_prices", {}).get("Very Good Plus (VG+)")
             else:
                 market_cell_html = '<span class="market-pending">market data pending</span>'
-                lowest_price = None
         else:
             market_cell_html = '<span class="market-none">\u2013</span>'
-            lowest_price = None
 
-        sort_value = lowest_price if lowest_price is not None else ""
         cells[7] = f'<td class="market-cell">{market_cell_html}</td>'
 
-        return f'<tr data-lowest-price="{sort_value}">\n' + "\n".join(cells) + "\n</tr>"
+        sort_value = vgplus_price if vgplus_price is not None else ""
+        idx = row_index[0]
+        row_index[0] += 1
+
+        attrs = f'data-vgplus-price="{sort_value}" data-tier="{tier}" data-year="{year}" data-default-index="{idx}"'
+        return f"<tr {attrs}>\n" + "\n".join(cells) + "\n</tr>"
 
     table_html = ROW_RE.sub(process_row, table_html)
     table_html = table_html.replace(
         '<div class="table-wrap">', '<div class="table-wrap tier-table-wrap">', 1
     )
     return content_html[: match.start()] + table_html + content_html[match.end() :] + MARKET_SORT_SCRIPT
+
 
 def get_last_updated(content_file):
     """Fetch last commit date for a file from GitHub API."""
