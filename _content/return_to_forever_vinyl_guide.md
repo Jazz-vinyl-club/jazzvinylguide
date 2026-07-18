@@ -7,7 +7,9 @@
 This is a title where pressing-specific quirks matter more than usual: the original German pressing has a well-documented static-like noise at the start of both sides that multiple independent owners report across different copies, suggesting it's baked into the metalwork rather than individual wear, while some copies of the 1975 US pressing show audible pre-echo in quiet passages instead. Neither issue is universal – plenty of clean-sounding copies of both circulate – but it's worth knowing about before paying a premium for either.
 
 **Best early pressing for audiophiles:** [Original ECM 1022 ST, West Germany](https://www.discogs.com/release/2271038-Chick-Corea-Return-To-Forever) – the first pressing, though check for the noise issue described below.
+
 **Best modern pressing for audiophiles:** No confirmed audiophile reissue series (Speakers Corner, Analogue Productions, MoFi) has been made of this title as of this writing.
+
 **Best-value modern:** A clean original German or Japanese pressing remains the practical recommendation.
 
 ## Recording history and tape provenance
@@ -27,6 +29,12 @@ The master tapes remain with ECM/Universal. A 1987 digital remix was used for CD
 ### US pressing (1975)
 
 **Cat. ECM-1-1022**, manufactured and distributed by Polydor Incorporated, pressed at the Columbia Records Pressing Plant in Pitman, New Jersey (identifiable by "CP" etched in the runouts). Reviews are mixed: some owners describe a "beautiful, spacious pressing with tons of air and separation," while others report noticeable pre-echo in quiet passages – a different issue from the German pressing's static noise, and again not universal. [Discogs](https://www.discogs.com/release/1141070-Chick-Corea-Return-To-Forever) **$15–$40.**
+
+---
+
+## French pressing
+
+A French pressing exists, confirmed via Discogs ("Imprimé en France" printed on the sleeve). No dedicated sound-quality comparisons against the German or US originals have surfaced, so treat it as a collectible period pressing from the same general era rather than a confirmed audiophile alternative. [Discogs](https://www.discogs.com/release/7581256-Chick-Corea-Return-To-Forever) **$20–$50.**
 
 ---
 
@@ -57,9 +65,10 @@ No specific bootleg is widely documented. Given the noise/pre-echo issues affect
 | **A** | Japanese Polydor pressing | MP-2273 | 1972 | Stereo, 33⅓ | Licensed Japanese pressing via Hara Music | Reception genuinely mixed; some praise, some report thin top-end | [Discogs](https://www.discogs.com/release/2499163-Chick-Corea-Return-To-Forever) |
 | **B** | Original ECM 1022 ST, West Germany | ECM 1022 ST | 1972 | Stereo, 33⅓ | Original 1972 mastering, Phonodisc GmbH | First pressing; some copies have a documented static noise issue | [Discogs](https://www.discogs.com/release/2271038-Chick-Corea-Return-To-Forever) |
 | **B** | US pressing | ECM-1-1022 | 1975 | Stereo, 33⅓ | Polydor Inc., Columbia Pitman plant | Reviews mixed; some copies show pre-echo | [Discogs](https://www.discogs.com/release/1141070-Chick-Corea-Return-To-Forever) |
+| **C** | French pressing | ECM 1022 ST | 1972 | Stereo, 33⅓ | European pressing | No dedicated sound-quality reviews found; period curiosity | [Discogs](https://www.discogs.com/release/7581256-Chick-Corea-Return-To-Forever) |
 | **C** | Later Japanese repress | MPF-1136 | 1978 | Stereo, 33⅓ | Licensed Japanese pressing | Later repress of the MP-2273 metalwork | – |
 
 ## References
 
 - Discogs (master): [https://www.discogs.com/master/123528-Chick-Corea-Return-To-Forever](https://www.discogs.com/master/123528-Chick-Corea-Return-To-Forever)
-- Discogs release and community listings for all pressings referenced in the tier table above (original German ECM 1022 ST, US ECM-1-1022, Japanese Polydor MP-2273, later Japanese repress MPF-1136)
+- Discogs release and community listings for all pressings referenced in the tier table above (original German ECM 1022 ST, US ECM-1-1022, French pressing, Japanese Polydor MP-2273, later Japanese repress MPF-1136)
