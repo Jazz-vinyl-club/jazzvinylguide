@@ -103,9 +103,9 @@ A 1972 UK and Netherlands pressing (**CBS S 64717**) followed roughly a year aft
 
 **$$ (Affordable):** The [**Friday Music 180g clear vinyl**](https://www.discogs.com/release/9485353-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) – Joe Reagoso mastering, RTI pressing; brighter character than the Speakers Corner.
 
-**$$$ (Mid-range):** A [**Japanese CBS/Sony SOPL pressing with obi**](https://www.discogs.com/release/4183685-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) – excellent quality, faithful reproduction; early SOPL copies may be simultaneous first pressings.
-
 **$$ (Affordable):** The [**Speakers Corner 180g (2008)**](https://www.discogs.com/release/1718798-The-Mahavishnu-Orchestra-with-John-McLaughlin-The-Inner-Mounting-Flame) – Heinz Gäde mastering, Pallas pressing; quieter and warmer character; pure analogue.
+
+**$$$ (Mid-range):** A [**Japanese CBS/Sony SOPL pressing with obi**](https://www.discogs.com/release/4183685-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) – excellent quality, faithful reproduction; early SOPL copies may be simultaneous first pressings.
 
 **$$$ (Mid-range):** An original [**US Columbia KC 31067 (Terre Haute or Pitman)**](https://www.discogs.com/release/9971709-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) in honest VG+ with purple insert – AAA, period-correct, the definitive version.
 

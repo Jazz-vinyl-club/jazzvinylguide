@@ -182,16 +182,19 @@ def check_buyers_guide_order(content, r):
     section = content.split("## Buyer's guide")[1]
     if "## Pressing tier" in section:
         section = section.split("## Pressing tier")[0]
-    lines = [l for l in section.split("\n") if l.strip().startswith("**") and "$" in l]
-    lows = []
+    # New system: headers use a relative $ .. $$$$$ symbol scale, e.g. "**$$$ (Mid-range):**",
+    # rather than absolute dollar figures. Check the symbol-count sequence is non-decreasing.
+    header_re = re.compile(r'^\*\*(\${1,5})\s*\(')
+    lines = [l for l in section.split("\n") if l.strip().startswith("**")]
+    band_counts = []
     for l in lines:
-        m = PRICE_RE.search(l)
+        m = header_re.match(l.strip())
         if m:
-            lows.append(int(m.group(1).replace(",", "")))
-    if lows != sorted(lows):
-        r.error(f"buyer's guide price bands not in ascending order: {lows}")
-    else:
-        r.note(f"buyer's guide order OK: {lows}")
+            band_counts.append(len(m.group(1)))
+    if band_counts and band_counts != sorted(band_counts):
+        r.error(f"buyer's guide price bands not in ascending order: {band_counts}")
+    elif band_counts:
+        r.note(f"buyer's guide order OK: {band_counts}")
 
 
 def check_links(content, r, do_network):
