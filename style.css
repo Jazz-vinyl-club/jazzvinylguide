@@ -150,9 +150,67 @@ a:hover { color: var(--paper); }
   .album-toc { display: none; }
   .album-grid { grid-template-columns: 1fr; }
   .site-nav { display: none; }
-  .hero { padding: 3rem 2rem 2.5rem; }
+  .hero { padding: 3rem 1.25rem 2.5rem; }
   .album-header__cover { order: 0; padding-top: 0; }
   .album-header__cover img { width: 140px; height: 140px; }
+
+  /* Album cards used fixed pixel widths + white-space: nowrap on every
+     child (title/artist/meta), sized for a desktop single-row layout.
+     On a phone viewport that overflows the card and forces horizontal
+     scroll on the page that lists every album -- the site's primary
+     entry point. Rewrap into cover+title on line 1, artist on line 2,
+     label/year on line 3; drop the arrow since the whole card is
+     already a tap target and repeating "Read full guide" on 50 cards
+     adds clutter without adding information on a narrow screen. */
+  .album-card {
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 0.85rem 1.25rem;
+    gap: 0.3rem 0.9rem;
+  }
+  .album-card__cover { width: 40px; height: 40px; }
+  .album-card__title {
+    width: auto;
+    flex: 1 1 calc(100% - 40px - 0.9rem);
+    font-size: 0.95rem;
+    white-space: normal;
+  }
+  .album-card__artist {
+    width: 100%;
+    flex: 1 1 100%;
+    white-space: normal;
+    font-size: 0.8rem;
+  }
+  .album-card__meta {
+    width: auto;
+    flex: 1 1 100%;
+    margin-left: 0;
+  }
+  .album-card__arrow { display: none; }
+
+  /* Search/sort controls: bump touch targets closer to the ~44px
+     minimum recommended for phones -- both were sized for a mouse
+     cursor (0.35rem vertical padding is roughly 26px tall in practice). */
+  .albums-controls { gap: 0.75rem 1rem; }
+  .albums-search { min-width: 0; width: 100%; max-width: none; padding: 0.75rem 0.9rem; font-size: 1rem; }
+  .albums-sort { width: 100%; flex-wrap: wrap; }
+  .albums-sort__btn { padding: 0.55rem 0.9rem; font-size: 0.8rem; }
+
+  /* Back link's 2.5rem top padding was tuned for the desktop header's
+     taller vertical rhythm; on mobile it reads as a large empty gap
+     before any visible content. */
+  .album-header__back { padding-top: 1.25rem; }
+}
+
+/* Narrower phones (iPhone SE and similar ~375px) need the hero title
+   and tier-table cells to give up a bit more breathing room than the
+   768px breakpoint alone provides. */
+@media (max-width: 400px) {
+  .hero { padding: 2.25rem 1rem 2rem; }
+  .albums-section { padding: 2rem 1rem; }
+  .album-page { padding: 0 1rem; }
+  .album-card { padding: 0.75rem 1rem; }
+  .album-content table th, .album-content table td { padding: 0.5rem 0.55rem; }
 }
 
 @media (prefers-reduced-motion: reduce) {
