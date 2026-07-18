@@ -72,11 +72,11 @@ Beyond the current Sony Japan Shizuoka pressing above, CBS/Sony issued *Mileston
 
 ## Buyer's guide by budget
 
-**Under $45:** The [**2013 Record Store Day mono reissue**](https://www.discogs.com/release/4493829-Miles-Davis-Milestones) – Kevin Gray mastering, RTI pressing, genuine tape provenance, and consistently the best per-dollar recommendation for this title.
+**$$ (Affordable):** The [**2013 Record Store Day mono reissue**](https://www.discogs.com/release/4493829-Miles-Davis-Milestones) – Kevin Gray mastering, RTI pressing, genuine tape provenance, and consistently the best per-dollar recommendation for this title.
 
-**$50–$90:** The [**Sony Japan mono reissue (2021)**](https://www.discogs.com/release/20649181-Miles-Davis-Milestones) for the finest pressing quality currently available, or the [**MoFi SuperVinyl stereo (MFSL1-528)**](https://www.discogs.com/release/29189929-Miles-Davis-Milestones) if you specifically want to hear the legitimate 2000 stereo mix.
+**$$ (Affordable):** The [**Sony Japan mono reissue (2021)**](https://www.discogs.com/release/20649181-Miles-Davis-Milestones) for the finest pressing quality currently available, or the [**MoFi SuperVinyl stereo (MFSL1-528)**](https://www.discogs.com/release/29189929-Miles-Davis-Milestones) if you specifically want to hear the legitimate 2000 stereo mix.
 
-**$60–$200:** A clean original [**Columbia six-eye mono, CL 1193**](https://www.discogs.com/release/17262070-Miles-Davis-Milestones) – genuinely attainable for this title relative to other late-1950s Davis originals.
+**$$$$ (Premium):** A clean original [**Columbia six-eye mono, CL 1193**](https://www.discogs.com/release/17262070-Miles-Davis-Milestones) – genuinely attainable for this title relative to other late-1950s Davis originals.
 
 ---
 
@@ -89,7 +89,8 @@ Beyond the current Sony Japan Shizuoka pressing above, CBS/Sony issued *Mileston
 | **A** | Original Columbia six-eye mono | CL 1193 | 1958 | Mono, 33⅓ | Original 1958 Columbia mastering | Attainable relative to other Davis originals | [Discogs](https://www.discogs.com/release/17262070-Miles-Davis-Milestones) |
 | **B** | 2013 RSD mono reissue | 88765486031 | 2013 | Mono, 180g | Kevin Gray, RTI; unplayed 1958 safety tape | Best-value modern pick | [Discogs](https://www.discogs.com/release/4493829-Miles-Davis-Milestones) |
 | **B** | MoFi mono | MFSL 1-374 | 2013 | Mono, 180g | Krieg Wunderlich, DSD64 | Reception contested vs. Mosaic box | [Discogs](https://www.discogs.com/release/4716235-Miles-Davis-Milestones) |
-| **C** | Vintage CBS/Sony Japan AP series | 20AP 1406 | c.1978–82 | Stereo | Japanese audiophile half-speed series | Well-regarded, hard to source | [Discogs](https://www.discogs.com/release/5322863-Miles-Davis-Milestones) |
+| **C** | Vintage CBS/Sony Japan AP series | 18AP 2054 | c.1978–82 | Stereo | Japanese audiophile half-speed series | Well-regarded, hard to source | [Discogs](https://www.discogs.com/release/5322863-Miles-Davis-Milestones) |
+| **C** | Vintage CBS/Sony Japan reissue | SONP-50087 | 1969 | Mono | Licensed Japanese pressing | Well-regarded among Japanese-pressing collectors; released without printed inserts | [Discogs](https://www.discogs.com/release/8409254-Miles-Davis-Milestones) |
 | **D** | Columbia Jazz Masterpieces | CJ 40837 | c.1987–88 | Mono/Stereo | Digital remaster | Mixed reviews; budget listening only | [Discogs](https://www.discogs.com/release/8164069-Miles-Davis-Milestones) |
 | **D** | CS 9428 rechanneled stereo | CS 9428 | 1967 | Fake stereo | Electronically reprocessed from mono | Honestly labeled but not a real stereo mix; curiosity only | [Discogs](https://www.discogs.com/release/1979996-Miles-Davis-Milestones) |
 
