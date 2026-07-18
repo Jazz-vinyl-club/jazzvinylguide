@@ -7,7 +7,9 @@
 Given the source material's age – original recordings made on acetate and early magnetic tape between 1944 and 1948 – no reissue of this material can be treated the way a 1960s or later multi-track session can be. The collector question here isn't which mastering engineer's AAA chain sounds best; it's which transfer and remastering approach best serves genuinely fragile, sometimes rough-sounding source recordings, and the compilation's reliance on digital noise reduction is a real, debated factor across every modern edition.
 
 **Best early pressing for audiophiles:** Not applicable in the usual sense – see "Original 78s and early LP reissues" below.
+
 **Best modern pressing for audiophiles:** [Savoy Jazz 10-LP box set (2015)](https://www.discogs.com/release/7794147-Charlie-Parker-The-Complete-Savoy-And-Dial-Studio-Recordings-1944-1948) – 180g, mastered by Wes Garland at Nashville Record Productions.
+
 **Best-value modern:** The same 10-LP set is the only current in-print way to own this specific compilation on vinyl; smaller single-label reissue box sets (below) are the budget-conscious alternative if you only need one label's material.
 
 ## Recording history and tape provenance
@@ -34,7 +36,7 @@ The individual sides were originally issued as 78rpm singles on Savoy, Dial, and
 
 ### Savoy's own reissue lineage – Complete Savoy Studio Sessions (1978) and later compilations
 
-Savoy's Savoy-only material (excluding Dial) has its own separate reissue history distinct from the combined 10-LP set, most notably the 1978 5-LP box using Van Gelder's own transfers, and later single/multi-LP compilations like *Charlie Parker: The Complete Savoy & Dial Master Takes* (a 1990s-2000s 3-disc "best of" pulling only final master takes rather than every alternate). If you specifically want the Savoy-only material and prefer the warmer, if noisier, Van Gelder transfer, the 1978 box is worth seeking used. **$60–$150 secondary, condition-dependent.**
+Savoy's Savoy-only material (excluding Dial) has its own separate reissue history distinct from the combined 10-LP set, most notably the 1978 5-LP box (**S5J 5500 / SJL 5500**) using Van Gelder's own transfers, and later single/multi-LP compilations like *Charlie Parker: The Complete Savoy & Dial Master Takes* (a 1990s-2000s 3-disc "best of" pulling only final master takes rather than every alternate). If you specifically want the Savoy-only material and prefer the warmer, if noisier, Van Gelder transfer, the 1978 box is worth seeking used. [Discogs](https://www.discogs.com/release/1954167-Charlie-Parker-The-Complete-Savoy-Studio-Sessions) **$60–$150 secondary, condition-dependent.**
 
 ### Craft Recordings *The Savoy 10-Inch LP Collection* (2020) – original-format reissue, Savoy-only
 
@@ -42,7 +44,7 @@ Savoy's Savoy-only material (excluding Dial) has its own separate reissue histor
 
 ### Bird's Nest "Best of the Dial Masters" Vol. 1 & 2 (2020) – budget single-LP samplers
 
-**Cat. Bird's Nest 840100** | Format: 2×180g LP, sold separately, colored virgin vinyl (Vol. 1 *Bird Of Paradise* on green, Vol. 2 *Carvin' the Bird* on orange). Released as part of a Parker centennial (1920–2020) series. This is **not** a substitute for the complete studio collection above – it's an 18-track-per-volume "best of" selection covering only Parker's Dial sides, not Savoy material, and not an exhaustive alternate-takes collection. [One reviewer](https://www.youtube.com/watch?v=gj1j0NhvNlM) found both volumes quiet despite the colored vinyl stock, with any distortion present traced to the original 1940s source recordings rather than the mastering; one copy had a cosmetic warp with no audible effect. A cheap, easy entry point (~$40 for both volumes combined) if you just want highlights rather than the complete studio Dial output. **~$15–$20 per volume new, when in print.**
+**Cat. Bird's Nest 840100** | Format: 2×180g LP, sold separately, colored virgin vinyl (Vol. 1 [*Bird Of Paradise*](https://www.discogs.com/release/15261698-Charlie-Parker-Bird-Of-Paradise-Best-Of-The-Dial-Masters) on green, Vol. 2 [*Carvin' the Bird*](https://www.discogs.com/release/15719501-Charlie-Parker-Carvin-The-Bird-Best-Of-The-Dial-Masters-Vol-2) on orange). Released as part of a Parker centennial (1920–2020) series. This is **not** a substitute for the complete studio collection above – it's an 18-track-per-volume "best of" selection covering only Parker's Dial sides, not Savoy material, and not an exhaustive alternate-takes collection. [One reviewer](https://www.youtube.com/watch?v=gj1j0NhvNlM) found both volumes quiet despite the colored vinyl stock, with any distortion present traced to the original 1940s source recordings rather than the mastering; one copy had a cosmetic warp with no audible effect. A cheap, easy entry point (~$40 for both volumes combined) if you just want highlights rather than the complete studio Dial output. **~$15–$20 per volume new, when in print.**
 
 ---
 
@@ -55,6 +57,7 @@ Savoy's Savoy-only material (excluding Dial) has its own separate reissue histor
 ## Buyer's guide by budget
 
 **$$$ (Mid-range):** A used copy of Savoy's own **1978 5-LP Complete Savoy Studio Sessions box** if you only need the Savoy-label material and want Van Gelder's original acetate transfer.
+
 **$$$$ (Premium):** The full [**Savoy Jazz 10-LP box set (2015)**](https://www.discogs.com/release/7794147-Charlie-Parker-The-Complete-Savoy-And-Dial-Studio-Recordings-1944-1948) on the secondary market – the only combined Savoy-and-Dial vinyl edition, now out of print.
 
 ---
@@ -64,10 +67,10 @@ Savoy's Savoy-only material (excluding Dial) has its own separate reissue histor
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
 | **A** | Savoy Jazz 10-LP box set | SVY 16067 | 2015 | Mono, 33⅓, 180g, 10xLP | Digital transfer (shared with CD box) → Wes Garland, Nashville Record Productions | Reception split; check for Disc 4 speed defect | [Discogs](https://www.discogs.com/release/7794147-Charlie-Parker-The-Complete-Savoy-And-Dial-Studio-Recordings-1944-1948) |
-| **B** | Savoy 1978 5-LP box (Savoy-only) | – | 1978 | Mono, 33⅓, 5xLP | Rudy Van Gelder transfer from original acetates | Warmer, noisier than digital editions; Savoy material only | – |
-| **B** | Craft Recordings 10-Inch LP Collection (Savoy-only) | MG 9000–9011 | 2020 | Mono, 33⅓, 4×10" | Newly restored/remastered audio | Original 10" format; 28 tracks, master takes only; positively reviewed; secondary market | – |
-| **C** | Spotlite (UK) Dial-only vinyl series | – | 1970s | Mono, 33⅓ | Original Dial acetates | Dial material only, sold as individual volumes; scarce | – |
-| **D** | Bird's Nest "Best of the Dial Masters" Vol. 1/2 | 840100 | 2020 | Mono, 33⅓, colored vinyl | Digital transfer (likely same lineage as CD/box editions) | Dial-only "best of" sampler, not the complete collection | – |
+| **B** | Savoy 1978 5-LP box (Savoy-only) | S5J 5500 / SJL 5500 | 1978 | Mono, 33⅓, 5xLP | Rudy Van Gelder transfer from original acetates | Warmer, noisier than digital editions; Savoy material only | [Discogs](https://www.discogs.com/release/1954167-Charlie-Parker-The-Complete-Savoy-Studio-Sessions) |
+| **B** | Craft Recordings 10-Inch LP Collection (Savoy-only) | MG 9000–9011 | 2020 | Mono, 33⅓, 4×10" | Newly restored/remastered audio | Original 10" format; 28 tracks, master takes only; positively reviewed; secondary market | [Discogs](https://www.discogs.com/release/14859436-Charlie-Parker-The-Savoy-10-Inch-LP-Collection) |
+| **C** | Spotlite (UK) Dial-only vinyl series | LP 101–107 | 1970s | Mono, 33⅓ | Original Dial acetates | Dial material only, sold as individual volumes; scarce | – |
+| **D** | Bird's Nest "Best of the Dial Masters" Vol. 1/2 | 840100 | 2020 | Mono, 33⅓, colored vinyl | Digital transfer (likely same lineage as CD/box editions) | Dial-only "best of" sampler, not the complete collection | [Discogs](https://www.discogs.com/release/15261698-Charlie-Parker-Bird-Of-Paradise-Best-Of-The-Dial-Masters) |
 
 ## References
 
