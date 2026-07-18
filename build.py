@@ -434,8 +434,10 @@ def build_album(album):
         else:
             cover_html = ''
 
-    last_updated = get_last_updated(album['content_file'])
-    updated_html = f'<p class="last-updated">Last updated: {last_updated} · <a class="changelog-link" href="/albums/{slug}-changelog.html">update history</a></p>' if last_updated else f'<p class="last-updated"><a class="changelog-link" href="/albums/{slug}-changelog.html">update history</a></p>'
+    # Public album pages no longer surface "Last updated / update history" -
+    # that's for internal tracking only. Changelog pages are still generated
+    # (build_changelog below) and reachable by direct URL if needed.
+    updated_html = ''
 
     github_url = f"{GITHUB_BASE}/{album['content_file']}"
     body = f'''<div class="album-page">
