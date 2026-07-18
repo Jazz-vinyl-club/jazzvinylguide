@@ -32,7 +32,7 @@ The important collector point: because this Liberty-label design is the genuine 
 
 ## Japanese pressings
 
-**King Records (Blue Note GXF-3008)** – a licensed Japanese pressing from King's Blue Note series. As with other King-era Japan Blue Note licenses, expect quiet vinyl and a period-correct obi. **$40–$90 with obi.**
+**King Records (Blue Note GXF-3008, 1977)** – a licensed Japanese pressing from King's Blue Note series. As with other King-era Japan Blue Note licenses, expect quiet vinyl and a period-correct obi. [Discogs](https://www.discogs.com/release/3937192-McCoy-Tyner-The-Real-McCoy) **$40–$90 with obi.**
 
 ---
 
@@ -60,7 +60,7 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 
 **$ (Budget):** The [**Blue Note Classic Vinyl**](https://www.discogs.com/release/16316769-McCoy-Tyner-The-Real-McCoy) – Kevin Gray mastering; buy with a return policy given documented QC variance.
 
-**$$ (Affordable):** A **Japanese King pressing (GXF-3008)** with obi, for a well-regarded vintage alternative.
+**$$ (Affordable):** A [**Japanese King pressing (GXF-3008)**](https://www.discogs.com/release/3937192-McCoy-Tyner-The-Real-McCoy) with obi, for a well-regarded vintage alternative.
 
 **$$$$ (Premium):** The [**Music Matters 45rpm 2LP**](https://www.discogs.com/release/3378635-McCoy-Tyner-The-Real-McCoy) on the secondary market, for the definitive modern listening experience.
 
@@ -74,7 +74,7 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 |---|---|---|---|---|---|---|---|
 | **S** | Music Matters 45rpm 2LP | MMBST-84264 | 2011 | Stereo, 45rpm, 2×180g | Kevin Gray & Steve Hoffman, AcousTech, RTI | Definitive modern pressing | [Discogs](https://www.discogs.com/release/3378635-McCoy-Tyner-The-Real-McCoy) |
 | **A** | Original Liberty-label first pressing | BST 84264 | 1967 | Stereo, 33⅓ | Van Gelder original cut | True first pressing despite Liberty labels | [Discogs](https://www.discogs.com/release/424427-McCoy-Tyner-The-Real-McCoy) |
-| **B** | Japanese King pressing | GXF-3008 | – | Stereo, 33⅓ | Licensed Japanese pressing | Quiet vinyl | – |
+| **B** | Japanese King pressing | GXF-3008 | 1977 | Stereo, 33⅓ | Licensed Japanese pressing | Quiet vinyl | [Discogs](https://www.discogs.com/release/3937192-McCoy-Tyner-The-Real-McCoy) |
 | **B** | Blue Note Classic Vinyl | BST 84264 | 2020 | Stereo, 33⅓, 180g | Kevin Gray, Cohearent Audio | Best-value modern; documented QC variance – inspect or buy with return policy | [Discogs](https://www.discogs.com/release/16316769-McCoy-Tyner-The-Real-McCoy) |
 | **C** | 1970s–80s later pressings | BST 84264 | 1970s–87 | Stereo, 33⅓ | Various, incl. 1987 DMM Europadisk | Variable quality | [Discogs](https://www.discogs.com/release/7314300-McCoy-Tyner-The-Real-McCoy) |
 
