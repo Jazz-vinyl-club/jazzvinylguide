@@ -91,9 +91,9 @@ However, [LJC's own position evolved](https://londonjazzcollector.wordpress.com/
 
 ## Buyer's guide by budget
 
-**Under $30:** The [**Blue Note Classic Vinyl BLP 4163 (2021)**](https://www.discogs.com/release/20348707-Eric-Dolphy-Out-To-Lunch) – Kevin Gray mastering, Optimal pressing, mono. The correct entry point and excellent value; also the top modern recommendation for most collectors, since this title has never been part of the Tone Poet series.
+**$ (Budget):** The [**Blue Note Classic Vinyl BLP 4163 (2021)**](https://www.discogs.com/release/20348707-Eric-Dolphy-Out-To-Lunch) – Kevin Gray mastering, Optimal pressing, mono. The correct entry point and excellent value; also the top modern recommendation for most collectors, since this title has never been part of the Tone Poet series.
 
-**$150–$300:** The [**Music Matters 45rpm mono (2009)**](https://www.discogs.com/release/2736558-Eric-Dolphy-Out-To-Lunch) on the secondary market – the finest available version, with the added resolution of the 45rpm format.
+**$$$$ (Premium):** The [**Music Matters 45rpm mono (2009)**](https://www.discogs.com/release/2736558-Eric-Dolphy-Out-To-Lunch) on the secondary market – the finest available version, with the added resolution of the 45rpm format.
 
 **$300+:** An original [**New York USA BLP 4163 mono**](https://www.discogs.com/release/662848-Eric-Dolphy-Out-To-Lunch) in honest VG+ or better – seek the VAN GELDER stamp, Plastylite ear, and deep groove.
 

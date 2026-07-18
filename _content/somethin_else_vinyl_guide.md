@@ -110,11 +110,11 @@ Discogs owners: "Every bit as good as you would expect it to be. If you love thi
 
 ## Buyer's guide by budget
 
-**Under $30:** The [**Blue Note Classic Vinyl BST 1595 (2021)**](https://www.discogs.com/release/17355181-Cannonball-Adderley-Somethin-Else) – Kevin Gray, Optimal pressing, genuine stereo. The correct starting point.
+**$ (Budget):** The [**Blue Note Classic Vinyl BST 1595 (2021)**](https://www.discogs.com/release/17355181-Cannonball-Adderley-Somethin-Else) – Kevin Gray, Optimal pressing, genuine stereo. The correct starting point.
 
-**$80–$150:** The [**AP 45rpm 2LP (AP-81595)**](https://www.discogs.com/release/2513324-Cannonball-Adderley-Somethin-Else) – fully AAA stereo, Kevin Gray and Steve Hoffman, QRP. Rated the top choice in most direct comparisons against the MoFi and Music Matters SRX. The serious listener's choice.
+**$$$ (Mid-range):** The [**AP 45rpm 2LP (AP-81595)**](https://www.discogs.com/release/2513324-Cannonball-Adderley-Somethin-Else) – fully AAA stereo, Kevin Gray and Steve Hoffman, QRP. Rated the top choice in most direct comparisons against the MoFi and Music Matters SRX. The serious listener's choice.
 
-**$100–$200:** The [**MoFi UltraDisc One-Step UD1S 2-022 (2023)**](https://www.discogs.com/release/29043274-Cannonball-Adderley-Somethin-Else) – finest pressing quality, lowest noise floor, but reception is genuinely divided against the AP and Music Matters SRX; well-documented QC issues (fingerprints, dirty vinyl on arrival) are worth knowing about before buying.
+**$$$$ (Premium):** The [**MoFi UltraDisc One-Step UD1S 2-022 (2023)**](https://www.discogs.com/release/29043274-Cannonball-Adderley-Somethin-Else) – finest pressing quality, lowest noise floor, but reception is genuinely divided against the AP and Music Matters SRX; well-documented QC issues (fingerprints, dirty vinyl on arrival) are worth knowing about before buying.
 
 **$400+:** An original [**47 West 63rd (no "Inc.") BLP 1595 first pressing**](https://www.discogs.com/release/982633-Cannonball-Adderley-Somethin-Else) with RVG etched and Plastylite P – Van Gelder's original tube-era lacquer, the most direct connection to the session.
 

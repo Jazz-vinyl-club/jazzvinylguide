@@ -119,23 +119,23 @@ A Direct Metal Mastering pressing from 1993, licensed via Manhattan Records and 
 
 ## Buyer's guide by budget
 
-**$45–$65:** The [**Tone Poet 180g mono (B0035203-01)**](https://www.discogs.com/release/24504497-John-Coltrane-Blue-Train) – the definitive mono. Recommended for most listeners.
+**$$ (Affordable):** The [**Tone Poet 180g mono (B0035203-01)**](https://www.discogs.com/release/24504497-John-Coltrane-Blue-Train) – the definitive mono. Recommended for most listeners.
 
-**$60–$90:** The [**Tone Poet Complete Masters 2LP stereo (B0035204-01)**](https://www.discogs.com/release/24522110-John-Coltrane-Blue-Train-The-Complete-Masters) – Kevin Gray stereo cut, 7 bonus takes, bound booklet. Best value for stereo listeners; [Analog Planet rated it](https://www.analogplanet.com/content/outstanding-blue-note-tone-poet-series-reissues-john-coltranes-eternal-jazz-classic-blue) the superior choice for headphone listening.
+**$$ (Affordable):** The [**Tone Poet Complete Masters 2LP stereo (B0035204-01)**](https://www.discogs.com/release/24522110-John-Coltrane-Blue-Train-The-Complete-Masters) – Kevin Gray stereo cut, 7 bonus takes, bound booklet. Best value for stereo listeners; [Analog Planet rated it](https://www.analogplanet.com/content/outstanding-blue-note-tone-poet-series-reissues-john-coltranes-eternal-jazz-classic-blue) the superior choice for headphone listening.
 
-**$60–$120:** A [**Japanese King GXK-8055 (1978)**](https://www.discogs.com/release/2912145-John-Coltrane-Blue-Train) with obi – LJC's preferred Japanese option; "closer to the originals" than Toshiba pressings; dead-quiet King vinyl.
+**$$$ (Mid-range):** A [**Japanese King GXK-8055 (1978)**](https://www.discogs.com/release/2912145-John-Coltrane-Blue-Train) with obi – LJC's preferred Japanese option; "closer to the originals" than Toshiba pressings; dead-quiet King vinyl.
 
-**$60–$150:** The **Classic Records 180g stereo (2000)** – Bernie Grundman's take on the stereo mix, a genuine alternative mastering pedigree to the Kevin Gray editions, not a lesser one.
+**$$$ (Mid-range):** The **Classic Records 180g stereo (2000)** – Bernie Grundman's take on the stereo mix, a genuine alternative mastering pedigree to the Kevin Gray editions, not a lesser one.
 
-**$100–$200:** The [**Analogue Productions 45rpm 2LP stereo (ABNJ-81577)**](https://www.discogs.com/release/9908455-John-Coltrane-Blue-Train) – Kevin Gray and Steve Hoffman, 200g QRP. The stereo counterpart to the Tone Poet mono; TAS Super LP. For listeners who prefer the stereo presentation.
+**$$$$ (Premium):** The [**Analogue Productions 45rpm 2LP stereo (ABNJ-81577)**](https://www.discogs.com/release/9908455-John-Coltrane-Blue-Train) – Kevin Gray and Steve Hoffman, 200g QRP. The stereo counterpart to the Tone Poet mono; TAS Super LP. For listeners who prefer the stereo presentation.
 
-**$150–$300:** The [**Music Matters original 33rpm (MMBLP-1577)**](https://www.discogs.com/release/5349832-John-Coltrane-Blue-Train) – the first MM pressing, 3,500 copies, RTI. The more commonly traded MM version.
+**$$$$ (Premium):** The [**Music Matters original 33rpm (MMBLP-1577)**](https://www.discogs.com/release/5349832-John-Coltrane-Blue-Train) – the first MM pressing, 3,500 copies, RTI. The more commonly traded MM version.
 
-**$200–$400:** The [**Music Matters SRX repress**](https://www.discogs.com/release/13207671-John-Coltrane-Blue-Train) – same Kevin Gray mastering on proprietary ultra-low-noise SRX vinyl. Lower noise floor than the original pressing.
+**$$$$$ (Grail / Rare):** The [**Music Matters SRX repress**](https://www.discogs.com/release/13207671-John-Coltrane-Blue-Train) – same Kevin Gray mastering on proprietary ultra-low-noise SRX vinyl. Lower noise floor than the original pressing.
 
 **$400+:** An original [**47 West 63rd BLP 1577 mono**](https://www.discogs.com/release/11786823-John-Coltrane-Blue-Train) (ideally NY23 label, no "Inc.") in honest VG+ or better – the collector's grail for this title.
 
-**$500–$800:** The [**Classic Records Clarity 45rpm 4LP box (2008)**](https://www.discogs.com/release/2618697-John-Coltrane-Blue-Train) – Bernie Grundman, scarce, for the completist who wants both major AAA mastering lineages of this title.
+**$$$$$ (Grail / Rare):** The [**Classic Records Clarity 45rpm 4LP box (2008)**](https://www.discogs.com/release/2618697-John-Coltrane-Blue-Train) – Bernie Grundman, scarce, for the completist who wants both major AAA mastering lineages of this title.
 
 ---
 

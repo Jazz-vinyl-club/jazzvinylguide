@@ -73,11 +73,11 @@ A 2022 reissue on the UK public-domain label Not Now Music (barcode 506034858333
 
 ## Buyer's guide by budget
 
-**Under $30:** [Original Jazz Classics, OJC-036](https://www.discogs.com/release/468353-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) – the cheapest legitimate way onto vinyl, even with its narrow imaging.
+**$ (Budget):** [Original Jazz Classics, OJC-036](https://www.discogs.com/release/468353-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) – the cheapest legitimate way onto vinyl, even with its narrow imaging.
 
-**$30–$60:** [Craft Recordings / OJC, CR00850 (2025)](https://www.discogs.com/release/33275373-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) – the current pressing, tape-sourced but divisive; new copies run $30–60.
+**$$ (Affordable):** [Craft Recordings / OJC, CR00850 (2025)](https://www.discogs.com/release/33275373-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) – the current pressing, tape-sourced but divisive; new copies run $30–60.
 
-**$60–$120:** The Milestone *While We're Young* twofer (47003) – secondhand, generally well-regarded for its balance.
+**$$$ (Mid-range):** The Milestone *While We're Young* twofer (47003) – secondhand, generally well-regarded for its balance.
 
 **$120+:** A clean original – [mono RLP 12-320](https://www.discogs.com/release/1340330-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) or [stereo RLP 1169](https://www.discogs.com/release/6024135-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) – still, by most informed accounts, the best-sounding way to hear this recording.
 

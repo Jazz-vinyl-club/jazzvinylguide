@@ -96,13 +96,13 @@ EmArcy titles were licensed to Nippon Phonogram / Mercury Japan and later to Pol
 
 ## Buyer's guide by budget
 
-**$35–$50:** The [**Acoustic Sounds Series AEMA 78844 180g mono (2025)**](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – Matthew Lutthans, QRP, the definitive accessible modern option. ~$35–$45 new from Acoustic Sounds.
+**$$ (Affordable):** The [**Acoustic Sounds Series AEMA 78844 180g mono (2025)**](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – Matthew Lutthans, QRP, the definitive accessible modern option. ~$35–$45 new from Acoustic Sounds.
 
-**$40–$100:** A [**Japanese Mercury/EmArcy pressing with obi**](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – dead-quiet vinyl, warm mono character; strong secondary option.
+**$$$ (Mid-range):** A [**Japanese Mercury/EmArcy pressing with obi**](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – dead-quiet vinyl, warm mono character; strong secondary option.
 
-**$200–$600:** An original [**EmArcy MG-36036 12" mono (1955)**](https://www.discogs.com/release/2862128-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) in honest VG+ – the collector's original, noting that the Acoustic Sounds remaster may actually outperform it sonically.
+**$$$$$ (Grail / Rare):** An original [**EmArcy MG-36036 12" mono (1955)**](https://www.discogs.com/release/2862128-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) in honest VG+ – the collector's original, noting that the Acoustic Sounds remaster may actually outperform it sonically.
 
-**$400–$700:** The [**Mosaic MRLP 3004 4LP box (2012)**](https://www.discogs.com/release/4497482-Clifford-BrownMax-Roach-The-Clifford-BrownMax-Roach-Emarcy-Albums) – Ryan Smith at Sterling Sound, pre-Universal fire tapes, all four quintet albums; Stereophile five stars for both music and sonics.
+**$$$$$ (Grail / Rare):** The [**Mosaic MRLP 3004 4LP box (2012)**](https://www.discogs.com/release/4497482-Clifford-BrownMax-Roach-The-Clifford-BrownMax-Roach-Emarcy-Albums) – Ryan Smith at Sterling Sound, pre-Universal fire tapes, all four quintet albums; Stereophile five stars for both music and sonics.
 
 ---
 

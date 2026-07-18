@@ -94,15 +94,15 @@ A US pressing manufactured for Manhattan Records and Capitol Industries/EMI by E
 
 ## Buyer's guide by budget
 
-**$25–$35:** The [**Blue Note Classic Vinyl BST 84185 (2020)**](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father) – the most affordable current option. Kevin Gray mastering, Optimal pressing. Buy with a return policy given documented QC variation; the title-track warble is present here.
+**$ (Budget):** The [**Blue Note Classic Vinyl BST 84185 (2020)**](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father) – the most affordable current option. Kevin Gray mastering, Optimal pressing. Buy with a return policy given documented QC variation; the title-track warble is present here.
 
-**$30–$80:** A [**Liberty-era pressing with Van Gelder stamp**](https://www.discogs.com/release/4231572-The-Horace-Silver-Quintet-Song-For-My-Father) for an affordable period-metal copy without Classic Vinyl QC risk.
+**$$ (Affordable):** A [**Liberty-era pressing with Van Gelder stamp**](https://www.discogs.com/release/4231572-The-Horace-Silver-Quintet-Song-For-My-Father) for an affordable period-metal copy without Classic Vinyl QC risk.
 
-**$40–$90:** A [**King Records GXF-3017 Japanese pressing (1977)**](https://www.discogs.com/release/3936547-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) for a quiet vintage alternative.
+**$$ (Affordable):** A [**King Records GXF-3017 Japanese pressing (1977)**](https://www.discogs.com/release/3936547-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) for a quiet vintage alternative.
 
-**$150–$300:** The [**Music Matters 45rpm 2LP (MMBST-84185, 2010)**](https://www.discogs.com/release/2721587-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) – the only pressing that specifically fixes the title track's warble, on the secondary market now that it's out of print.
+**$$$$ (Premium):** The [**Music Matters 45rpm 2LP (MMBST-84185, 2010)**](https://www.discogs.com/release/2721587-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) – the only pressing that specifically fixes the title track's warble, on the secondary market now that it's out of print.
 
-**$150–$400:** An original [**New York USA label pressing**](https://www.discogs.com/release/2019742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) in honest VG+, with Van Gelder stamp and Plastylite ear confirmed – the definitive listening copy, and among the few pressings genuinely free of the warble issue.
+**$$$$$ (Grail / Rare):** An original [**New York USA label pressing**](https://www.discogs.com/release/2019742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) in honest VG+, with Van Gelder stamp and Plastylite ear confirmed – the definitive listening copy, and among the few pressings genuinely free of the warble issue.
 
 ---
 

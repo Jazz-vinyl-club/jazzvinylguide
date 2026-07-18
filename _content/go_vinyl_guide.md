@@ -104,15 +104,15 @@ Japanese Blue Note pressings of *Go!* – primarily from Toshiba-EMI and King Re
 
 ## Buyer's guide by budget
 
-**Under $35:** The [**Blue Note Classic Vinyl BST 84112 (2021)**](https://www.discogs.com/release/19583212-Dexter-Gordon-Go) – Kevin Gray, Optimal, 180g. Buy with returns given documented QC variation on some copies.
+**$ (Budget):** The [**Blue Note Classic Vinyl BST 84112 (2021)**](https://www.discogs.com/release/19583212-Dexter-Gordon-Go) – Kevin Gray, Optimal, 180g. Buy with returns given documented QC variation on some copies.
 
-**$40–$100:** A [**Japanese Toshiba or King pressing**](https://www.discogs.com/release/6796081-Dexter-Gordon-Go) with obi – dead-quiet vinyl, warm character, faithful to the tape.
+**$$$ (Mid-range):** A [**Japanese Toshiba or King pressing**](https://www.discogs.com/release/6796081-Dexter-Gordon-Go) with obi – dead-quiet vinyl, warm character, faithful to the tape.
 
-**$100–$200:** The [**Music Matters 33rpm MM33 BNST-84112 (2014)**](https://www.discogs.com/release/5687834-Dexter-Gordon-Go) if found at a fair price – excellent pressing, Kevin Gray and Ron Rambach, 3,500 copies.
+**$$$$ (Premium):** The [**Music Matters 33rpm MM33 BNST-84112 (2014)**](https://www.discogs.com/release/5687834-Dexter-Gordon-Go) if found at a fair price – excellent pressing, Kevin Gray and Ron Rambach, 3,500 copies.
 
-**$150–$300:** The [**AP 45rpm 2LP AP-84112 (2008)**](https://www.discogs.com/release/3747701-Dexter-Gordon-Go) – the definitive modern pressing; Kevin Gray and Steve Hoffman; out of print.
+**$$$$ (Premium):** The [**AP 45rpm 2LP AP-84112 (2008)**](https://www.discogs.com/release/3747701-Dexter-Gordon-Go) – the definitive modern pressing; Kevin Gray and Steve Hoffman; out of print.
 
-**$300–$700:** An original [**BLP 4112 mono NY USA label**](https://www.discogs.com/release/3380665-Dexter-Gordon-Go) in honest VG+ with Van Gelder stamp and Plastylite ear – the purist's choice and Gordon's own format.
+**$$$$$ (Grail / Rare):** An original [**BLP 4112 mono NY USA label**](https://www.discogs.com/release/3380665-Dexter-Gordon-Go) in honest VG+ with Van Gelder stamp and Plastylite ear – the purist's choice and Gordon's own format.
 
 ---
 

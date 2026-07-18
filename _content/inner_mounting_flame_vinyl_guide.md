@@ -99,15 +99,15 @@ A 1972 UK and Netherlands pressing (**CBS S 64717**) followed roughly a year aft
 
 ## Buyer's guide by budget
 
-**$20–$60:** A [**1970s US Columbia reissue (PC 31067)**](https://www.discogs.com/release/4923574-Mahavishnu-Orchestra-The-Inner-Mounting-Flame) in honest VG+ – the budget entry point for period-analogue sound.
+**$$ (Affordable):** A [**1970s US Columbia reissue (PC 31067)**](https://www.discogs.com/release/4923574-Mahavishnu-Orchestra-The-Inner-Mounting-Flame) in honest VG+ – the budget entry point for period-analogue sound.
 
-**$30–$50 new:** The [**Friday Music 180g clear vinyl**](https://www.discogs.com/release/9485353-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) – Joe Reagoso mastering, RTI pressing; brighter character than the Speakers Corner.
+**$$ (Affordable):** The [**Friday Music 180g clear vinyl**](https://www.discogs.com/release/9485353-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) – Joe Reagoso mastering, RTI pressing; brighter character than the Speakers Corner.
 
-**$30–$100:** A [**Japanese CBS/Sony SOPL pressing with obi**](https://www.discogs.com/release/4183685-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) – excellent quality, faithful reproduction; early SOPL copies may be simultaneous first pressings.
+**$$$ (Mid-range):** A [**Japanese CBS/Sony SOPL pressing with obi**](https://www.discogs.com/release/4183685-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) – excellent quality, faithful reproduction; early SOPL copies may be simultaneous first pressings.
 
-**$40–$60 new:** The [**Speakers Corner 180g (2008)**](https://www.discogs.com/release/1718798-The-Mahavishnu-Orchestra-with-John-McLaughlin-The-Inner-Mounting-Flame) – Heinz Gäde mastering, Pallas pressing; quieter and warmer character; pure analogue.
+**$$ (Affordable):** The [**Speakers Corner 180g (2008)**](https://www.discogs.com/release/1718798-The-Mahavishnu-Orchestra-with-John-McLaughlin-The-Inner-Mounting-Flame) – Heinz Gäde mastering, Pallas pressing; quieter and warmer character; pure analogue.
 
-**$40–$150:** An original [**US Columbia KC 31067 (Terre Haute or Pitman)**](https://www.discogs.com/release/9971709-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) in honest VG+ with purple insert – AAA, period-correct, the definitive version.
+**$$$ (Mid-range):** An original [**US Columbia KC 31067 (Terre Haute or Pitman)**](https://www.discogs.com/release/9971709-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) in honest VG+ with purple insert – AAA, period-correct, the definitive version.
 
 ---
 

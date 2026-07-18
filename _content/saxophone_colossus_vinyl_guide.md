@@ -136,13 +136,13 @@ DOL releases are generally regarded with scepticism due to their unlicensed, dig
 
 ## Buyer's guide by budget
 
-**Under $30:** The [**1987 OJC-291**](https://www.discogs.com/release/1376103-Sonny-Rollins-Saxophone-Colossus) – analogue, warm, affordable. Confirm the year before buying; avoid the 2011 repress.
+**$ (Budget):** The [**1987 OJC-291**](https://www.discogs.com/release/1376103-Sonny-Rollins-Saxophone-Colossus) – analogue, warm, affordable. Confirm the year before buying; avoid the 2011 repress.
 
-**$60–$90 new:** The [**AP 2022 repress APRJ 7079 180g**](https://www.discogs.com/release/22729826-Sonny-Rollins-Saxophone-Colossus) – Kevin Gray, AAA, QRP; still available new; definitive modern pressing.
+**$$ (Affordable):** The [**AP 2022 repress APRJ 7079 180g**](https://www.discogs.com/release/22729826-Sonny-Rollins-Saxophone-Colossus) – Kevin Gray, AAA, QRP; still available new; definitive modern pressing.
 
-**$80–$120:** The [**DCC GZS-1062**](https://www.discogs.com/release/4085008-Sonny-Rollins-Saxophone-Colossus) – Steve Hoffman tube-cut, all-analogue. Strong advocates; a genuine alternative to the AP for those who prefer tube mastering character.
+**$$$ (Mid-range):** The [**DCC GZS-1062**](https://www.discogs.com/release/4085008-Sonny-Rollins-Saxophone-Colossus) – Steve Hoffman tube-cut, all-analogue. Strong advocates; a genuine alternative to the AP for those who prefer tube mastering character.
 
-**$100–$250:** A clean [**Bergenfield second pressing**](https://www.discogs.com/release/7230759-Sonny-Rollins-Saxophone-Colossus) with RVG hand-etched – original Van Gelder metalwork at a fraction of first-pressing price; sonically considered equivalent.
+**$$$$ (Premium):** A clean [**Bergenfield second pressing**](https://www.discogs.com/release/7230759-Sonny-Rollins-Saxophone-Colossus) with RVG hand-etched – original Van Gelder metalwork at a fraction of first-pressing price; sonically considered equivalent.
 
 **$400+:** The [**yellow-label 446 W. 50th first pressing**](https://www.discogs.com/release/3934932-Sonny-Rollins-Saxophone-Colossus) in honest VG+ or better. Truly NM copies are genuinely rare; factor groove condition heavily.
 

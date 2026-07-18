@@ -52,9 +52,9 @@ No specific bootleg is widely documented, though given the recording's unusual r
 
 ## Buyer's guide by budget
 
-**Under $40:** A clean original [**Columbia mono, CL 883**](https://www.discogs.com/release/636663-Erroll-Garner-Concert-By-The-Sea) – genuinely attainable given the scale of this title's original and ongoing pressing runs.
+**$ (Budget):** A clean original [**Columbia mono, CL 883**](https://www.discogs.com/release/636663-Erroll-Garner-Concert-By-The-Sea) – genuinely attainable given the scale of this title's original and ongoing pressing runs.
 
-**$40–$70:** [**The Complete Concert by the Sea (2015)**](https://www.discogs.com/release/7848894-Erroll-Garner-The-Complete-Concert-By-The-Sea) 2LP set, for the expanded program and enhanced-stereo presentation – a different, not strictly superior, listening experience.
+**$$ (Affordable):** [**The Complete Concert by the Sea (2015)**](https://www.discogs.com/release/7848894-Erroll-Garner-The-Complete-Concert-By-The-Sea) 2LP set, for the expanded program and enhanced-stereo presentation – a different, not strictly superior, listening experience.
 
 ---
 

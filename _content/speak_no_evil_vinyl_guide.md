@@ -101,11 +101,11 @@ Limited to 3,000 copies. 180g blue vinyl ([r31430060](https://www.discogs.com/re
 
 ## Buyer's guide by budget
 
-**Under $35:** The [**Blue Note Classic Vinyl BST 84194 (2021)**](https://www.discogs.com/release/16941774-Wayne-Shorter-Speak-No-Evil) – Kevin Gray, 180g, Optimal. The recommended starting point; consistently flat and quiet, and among the best-received releases in the series.
+**$ (Budget):** The [**Blue Note Classic Vinyl BST 84194 (2021)**](https://www.discogs.com/release/16941774-Wayne-Shorter-Speak-No-Evil) – Kevin Gray, 180g, Optimal. The recommended starting point; consistently flat and quiet, and among the best-received releases in the series.
 
-**$100–$200:** The [**Music Matters 33rpm SRX stereo (2020)**](https://www.discogs.com/release/15529480-Wayne-Shorter-Speak-No-Evil) if found at a reasonable price. Same Kevin Gray mastering, QRP pressing, superior pressing quality to the Classic Vinyl.
+**$$$$ (Premium):** The [**Music Matters 33rpm SRX stereo (2020)**](https://www.discogs.com/release/15529480-Wayne-Shorter-Speak-No-Evil) if found at a reasonable price. Same Kevin Gray mastering, QRP pressing, superior pressing quality to the Classic Vinyl.
 
-**$200–$400:** The [**Music Matters 45rpm 2LP (MMBST-84194, 2012)**](https://www.discogs.com/release/3771718-Wayne-Shorter-Speak-No-Evil) on the secondary market – the audiophile statement for this album in stereo; luxurious presentation. Also in this range: a [**New York USA label stereo BST 84194 (with Plastylite)**](https://www.discogs.com/release/382469-Wayne-Shorter-Speak-No-Evil) in honest VG+ condition – the vintage collector option with Van Gelder's original tube-era lacquer.
+**$$$$$ (Grail / Rare):** The [**Music Matters 45rpm 2LP (MMBST-84194, 2012)**](https://www.discogs.com/release/3771718-Wayne-Shorter-Speak-No-Evil) on the secondary market – the audiophile statement for this album in stereo; luxurious presentation. Also in this range: a [**New York USA label stereo BST 84194 (with Plastylite)**](https://www.discogs.com/release/382469-Wayne-Shorter-Speak-No-Evil) in honest VG+ condition – the vintage collector option with Van Gelder's original tube-era lacquer.
 
 **$400+:** NM [**first pressing BST 84194 with Plastylite**](https://www.discogs.com/release/382469-Wayne-Shorter-Speak-No-Evil) in genuine NM condition – for the collector who wants both provenance and the original Van Gelder cut. Or a [**BLP 4194 first mono pressing**](https://www.discogs.com/release/5052985-Wayne-Shorter-Speak-No-Evil) for the compressed, organic mono experience.
 

@@ -66,13 +66,13 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 
 ## Buyer's guide by budget
 
-**Under $40:** The [**Blue Note Classic Vinyl (2022)**](https://www.discogs.com/release/25191424-Andrew-Hill-Point-Of-Departure) – Kevin Gray mastering, an easy recommendation at the price.
+**$ (Budget):** The [**Blue Note Classic Vinyl (2022)**](https://www.discogs.com/release/25191424-Andrew-Hill-Point-Of-Departure) – Kevin Gray mastering, an easy recommendation at the price.
 
-**$40–$100:** A **Liberty or United Artists-era pressing** with the Van Gelder stamp intact, for an affordable period-metal copy.
+**$$$ (Mid-range):** A **Liberty or United Artists-era pressing** with the Van Gelder stamp intact, for an affordable period-metal copy.
 
-**$150–$300:** The [**Music Matters 45rpm 2LP**](https://www.discogs.com/release/2530637-Andrew-Hill-Point-Of-Departure) on the secondary market – the definitive listening experience for serious collectors.
+**$$$$ (Premium):** The [**Music Matters 45rpm 2LP**](https://www.discogs.com/release/2530637-Andrew-Hill-Point-Of-Departure) on the secondary market – the definitive listening experience for serious collectors.
 
-**$150–$400:** A clean original [**BST 84167 stereo, New York USA label**](https://www.discogs.com/release/4393383-Andrew-Hill-Point-Of-Departure) for the genuine 1965 pressing.
+**$$$$$ (Grail / Rare):** A clean original [**BST 84167 stereo, New York USA label**](https://www.discogs.com/release/4393383-Andrew-Hill-Point-Of-Departure) for the genuine 1965 pressing.
 
 ---
 

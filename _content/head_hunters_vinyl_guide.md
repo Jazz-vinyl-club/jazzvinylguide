@@ -104,11 +104,11 @@ One Discogs reviewer who compared it with the Music On Vinyl: "I was able to tel
 
 ## Buyer's guide by budget
 
-**Under $30:** A clean [**original 1973 Columbia KC 32731**](https://www.discogs.com/release/31381-Herbie-Hancock-Head-Hunters) with first-generation metalwork, Pitman or Terre Haute plant, -1A/-1A matrices. One of the best deals in jazz vinyl – this album was pressed in enormous quantities and NM copies remain accessible.
+**$ (Budget):** A clean [**original 1973 Columbia KC 32731**](https://www.discogs.com/release/31381-Herbie-Hancock-Head-Hunters) with first-generation metalwork, Pitman or Terre Haute plant, -1A/-1A matrices. One of the best deals in jazz vinyl – this album was pressed in enormous quantities and NM copies remain accessible.
 
-**$35–$55:** The [**AP 180g 33rpm (AAPJ 084)**](https://www.discogs.com/release/7495983-Herbie-Hancock-Head-Hunters) – the modern audiophile standard, same mastering as the 45rpm, available new from Acoustic Sounds.
+**$$ (Affordable):** The [**AP 180g 33rpm (AAPJ 084)**](https://www.discogs.com/release/7495983-Herbie-Hancock-Head-Hunters) – the modern audiophile standard, same mastering as the 45rpm, available new from Acoustic Sounds.
 
-**$80–$120:** The [**AP 45rpm 2LP (AAPJ 084-45)**](https://www.discogs.com/release/10453858-Herbie-Hancock-Head-Hunters) – the definitive version. The upgrade from the 33rpm is audible on any decent system; if *Head Hunters* is important to you, the 45rpm is worth the premium.
+**$$$ (Mid-range):** The [**AP 45rpm 2LP (AAPJ 084-45)**](https://www.discogs.com/release/10453858-Herbie-Hancock-Head-Hunters) – the definitive version. The upgrade from the 33rpm is audible on any decent system; if *Head Hunters* is important to you, the 45rpm is worth the premium.
 
 ---
 

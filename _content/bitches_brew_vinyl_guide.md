@@ -113,15 +113,15 @@ Not a pressing of the studio album, so it doesn't appear in the tier table below
 
 ## Buyer's guide by budget
 
-**Under $40:** A clean early [**red/orange Columbia ring label (1970–72)**](https://www.discogs.com/release/11481689-Miles-Davis-Bitches-Brew) with low matrix numbers – period analogue vinyl, close to the two-eye in sound and a fraction of the price.
+**$ (Budget):** A clean early [**red/orange Columbia ring label (1970–72)**](https://www.discogs.com/release/11481689-Miles-Davis-Bitches-Brew) with low matrix numbers – period analogue vinyl, close to the two-eye in sound and a fraction of the price.
 
-**$50–$80:** The [**MoFi MFSL 2-439**](https://www.discogs.com/release/5804415-Miles-Davis-Bitches-Brew) – the accessible modern reference, broadly praised.
+**$$ (Affordable):** The [**MoFi MFSL 2-439**](https://www.discogs.com/release/5804415-Miles-Davis-Bitches-Brew) – the accessible modern reference, broadly praised.
 
-**$50–$120:** A [**Japanese CBS/Sony 28AP 2151~2 with obi**](https://www.discogs.com/release/2075721-Miles-Davis-Bitches-Brew) – often preferred over the MoFi by direct comparison; exceptional pressing quality.
+**$$$ (Mid-range):** A [**Japanese CBS/Sony 28AP 2151~2 with obi**](https://www.discogs.com/release/2075721-Miles-Davis-Bitches-Brew) – often preferred over the MoFi by direct comparison; exceptional pressing quality.
 
-**$80–$150:** A clean [**two-eye 360 Sound original**](https://www.discogs.com/release/37006-Miles-Davis-Bitches-Brew) with low matrices and the Sanctuary error – the analogue purist's choice and the only way to guarantee the original 1970 mix.
+**$$$ (Mid-range):** A clean [**two-eye 360 Sound original**](https://www.discogs.com/release/37006-Miles-Davis-Bitches-Brew) with low matrices and the Sanctuary error – the analogue purist's choice and the only way to guarantee the original 1970 mix.
 
-**$125–$150:** The [**MoFi UltraDisc One-Step 55th Anniversary**](https://www.discogs.com/release/33848460-Miles-Davis-Bitches-Brew) – lowest noise floor of any modern pressing; 5,000 copies.
+**$$$ (Mid-range):** The [**MoFi UltraDisc One-Step 55th Anniversary**](https://www.discogs.com/release/33848460-Miles-Davis-Bitches-Brew) – lowest noise floor of any modern pressing; 5,000 copies.
 
 ---
 

@@ -81,11 +81,11 @@ A red-vinyl reissue (catalog 350234) circulating from a European public-domain l
 
 ## Buyer's guide by budget
 
-**Under $30:** A clean used [**Columbia CS 8271 six-eye stereo original**](https://www.discogs.com/release/4239636-Miles-Davis-Sketches-Of-Spain) – genuinely attainable for this title, unlike most Davis six-eye originals, and the most direct connection to the 1960 mastering.
+**$ (Budget):** A clean used [**Columbia CS 8271 six-eye stereo original**](https://www.discogs.com/release/4239636-Miles-Davis-Sketches-Of-Spain) – genuinely attainable for this title, unlike most Davis six-eye originals, and the most direct connection to the 1960 mastering.
 
-**$30–$50:** [**Mobile Fidelity MFSL 1-375 (2013)**](https://www.discogs.com/release/4923105-Miles-Davis-Sketches-Of-Spain) – the best combination of availability and sound quality for most collectors.
+**$$ (Affordable):** [**Mobile Fidelity MFSL 1-375 (2013)**](https://www.discogs.com/release/4923105-Miles-Davis-Sketches-Of-Spain) – the best combination of availability and sound quality for most collectors.
 
-**$50–$120:** [**Classic Records 200g SV-P (1998)**](https://www.discogs.com/release/2426187-Miles-Davis-Sketches-Of-Spain) – Bernie Grundman's more forward, immediate cut, now only findable used.
+**$$$ (Mid-range):** [**Classic Records 200g SV-P (1998)**](https://www.discogs.com/release/2426187-Miles-Davis-Sketches-Of-Spain) – Bernie Grundman's more forward, immediate cut, now only findable used.
 
 **$120+:** The [**Mobile Fidelity UltraDisc One-Step (2025)**](https://mofi.com/shop/music/vinyl/miles-davis-sketches-of-spain-numbered-180g-vinyl-lp/) for the current state of the art, while numbered copies remain available.
 

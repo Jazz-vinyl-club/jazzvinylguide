@@ -63,9 +63,9 @@ An unofficial, unlicensed pressing (catalog ACL0087) circulates outside the main
 
 ## Buyer's guide by budget
 
-**Under $40:** [Verve Acoustic Sounds Series (2022)](https://www.discogs.com/release/25484281-Pharoah-Sanders-Karma) – genuinely the easiest recommendation in this guide; new, tape-sourced, and critically acclaimed.
+**$ (Budget):** [Verve Acoustic Sounds Series (2022)](https://www.discogs.com/release/25484281-Pharoah-Sanders-Karma) – genuinely the easiest recommendation in this guide; new, tape-sourced, and critically acclaimed.
 
-**$40–$100:** A clean [original Impulse! stereo pressing](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) – median price for this title is around $56, making a decent original realistically attainable.
+**$$$ (Mid-range):** A clean [original Impulse! stereo pressing](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) – median price for this title is around $56, making a decent original realistically attainable.
 
 **$100+:** A near-mint, laminated-gatefold original first pressing (single-box logo, no ®) for collectors chasing the earliest possible copy.
 

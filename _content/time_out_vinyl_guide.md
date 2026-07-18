@@ -140,13 +140,13 @@ The 33rpm version delivers the same Grundman mastering at slightly reduced groov
 
 ## Buyer's guide by budget
 
-**Under $45:** The [**AP AAPJ 8192 33rpm**](https://www.discogs.com/release/7632519) at ~$35–$40 new – Bernie Grundman AAA, QRP, gatefold. The best accessible option.
+**$$ (Affordable):** The [**AP AAPJ 8192 33rpm**](https://www.discogs.com/release/7632519) at ~$35–$40 new – Bernie Grundman AAA, QRP, gatefold. The best accessible option.
 
-**$80–$100:** The [**AP APJ 8192-45 45rpm 2LP**](https://www.discogs.com/release/3791080) – the complete audiophile treatment. Wayne Garcia's "edition to own" verdict holds.
+**$$$ (Mid-range):** The [**AP APJ 8192-45 45rpm 2LP**](https://www.discogs.com/release/3791080) – the complete audiophile treatment. Wayne Garcia's "edition to own" verdict holds.
 
-**$100–$300:** A [**clean NM stereo six-eye CS 8192, no CBS**](https://www.discogs.com/release/1981546-The-Dave-Brubeck-Quartet-Time-Out) – Fred Plaut's original lacquer from the 30th Street Studio. The original has a specific air around the instruments, particularly Morello's drums, that reissues approximate but don't quite replicate.
+**$$$$ (Premium):** A [**clean NM stereo six-eye CS 8192, no CBS**](https://www.discogs.com/release/1981546-The-Dave-Brubeck-Quartet-Time-Out) – Fred Plaut's original lacquer from the 30th Street Studio. The original has a specific air around the instruments, particularly Morello's drums, that reissues approximate but don't quite replicate.
 
-**$150–$350:** A [**Classic Records 200g Quiex SV-P 4LP 45rpm (2000 edition)**](https://www.discogs.com/release/1981546-The-Dave-Brubeck-Quartet-Time-Out) – the best Classic edition. For mono listeners: the [**Dutch Fontana 682 065 TL**](https://www.discogs.com/release/3518844-The-Dave-Brubeck-Quartet-Time-Out) is a mono pressing (TL = mono in the Fontana catalogue) praised by LJC for exceptional pressing quality.
+**$$$$ (Premium):** A [**Classic Records 200g Quiex SV-P 4LP 45rpm (2000 edition)**](https://www.discogs.com/release/1981546-The-Dave-Brubeck-Quartet-Time-Out) – the best Classic edition. For mono listeners: the [**Dutch Fontana 682 065 TL**](https://www.discogs.com/release/3518844-The-Dave-Brubeck-Quartet-Time-Out) is a mono pressing (TL = mono in the Fontana catalogue) praised by LJC for exceptional pressing quality.
 
 ---
 

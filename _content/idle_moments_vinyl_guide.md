@@ -60,15 +60,15 @@ Several 1970s-era reissues circulate on Liberty/United Artists-period labels, ge
 
 ## Buyer's guide by budget
 
-**Under $40:** The [**Blue Note Classic Vinyl**](https://www.discogs.com/release/19865380-Grant-Green-Idle-Moments) – Kevin Gray mastering, Optimal pressing; buy from a seller who accepts returns given reported QC variance.
+**$ (Budget):** The [**Blue Note Classic Vinyl**](https://www.discogs.com/release/19865380-Grant-Green-Idle-Moments) – Kevin Gray mastering, Optimal pressing; buy from a seller who accepts returns given reported QC variance.
 
-**$40–$90:** The **King Records Japan pressing (1980)** for a well-regarded vintage alternative.
+**$$ (Affordable):** The **King Records Japan pressing (1980)** for a well-regarded vintage alternative.
 
-**$80–$150:** The [**Music Matters 33⅓ SRX (2020)**](https://www.discogs.com/release/14993986-Grant-Green-Idle-Moments) for the upgraded Cohearent Audio mastering chain.
+**$$$ (Mid-range):** The [**Music Matters 33⅓ SRX (2020)**](https://www.discogs.com/release/14993986-Grant-Green-Idle-Moments) for the upgraded Cohearent Audio mastering chain.
 
-**$150–$300:** The [**Analogue Productions**](https://www.discogs.com/release/2513425-Grant-Green-Idle-Moments) or [**Music Matters 45rpm**](https://www.discogs.com/release/5354019-Grant-Green-Idle-Moments) editions – both are excellent; owners who have both tend to have a preference but rarely a strong complaint about either.
+**$$$$ (Premium):** The [**Analogue Productions**](https://www.discogs.com/release/2513425-Grant-Green-Idle-Moments) or [**Music Matters 45rpm**](https://www.discogs.com/release/5354019-Grant-Green-Idle-Moments) editions – both are excellent; owners who have both tend to have a preference but rarely a strong complaint about either.
 
-**$150–$400:** An original [**New York USA label BST 84154 stereo**](https://www.discogs.com/release/1073239-Grant-Green-Idle-Moments) in honest VG+ condition.
+**$$$$$ (Grail / Rare):** An original [**New York USA label BST 84154 stereo**](https://www.discogs.com/release/1073239-Grant-Green-Idle-Moments) in honest VG+ condition.
 
 ---
 

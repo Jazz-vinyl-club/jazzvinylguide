@@ -107,17 +107,17 @@ A 1981 Japanese pressing of *The Blues and the Abstract Truth* exists on the ABC
 
 ## Buyer's guide by budget
 
-**Under $40:** The [**Acoustic Sounds Series 180g (2021)**](https://www.discogs.com/release/19292413-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) – Ryan K. Smith, QRP, AAA. Universally praised; the straightforward recommendation for any listener.
+**$ (Budget):** The [**Acoustic Sounds Series 180g (2021)**](https://www.discogs.com/release/19292413-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) – Ryan K. Smith, QRP, AAA. Universally praised; the straightforward recommendation for any listener.
 
-**$40–$80:** A [**Japanese ABC/Impulse! pressing (1981)**](https://www.discogs.com/release/7218138) with obi – dead-quiet Japanese vinyl; warm and faithful.
+**$$ (Affordable):** A [**Japanese ABC/Impulse! pressing (1981)**](https://www.discogs.com/release/7218138) with obi – dead-quiet Japanese vinyl; warm and faithful.
 
-**$80–$150:** The [**Speakers Corner 180g (2003)**](https://www.discogs.com/release/1700545-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) if found at a good secondary price – Kevin Gray, Pallas, warmer and fuller than the Acoustic Sounds. Preferred by some for its "tubey magic."
+**$$$ (Mid-range):** The [**Speakers Corner 180g (2003)**](https://www.discogs.com/release/1700545-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) if found at a good secondary price – Kevin Gray, Pallas, warmer and fuller than the Acoustic Sounds. Preferred by some for its "tubey magic."
 
-**$100–$200:** The [**AP 45rpm 180g RTI (2009)**](https://www.discogs.com/release/3775239-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) – 1,500 numbered, Kevin Gray, RTI.
+**$$$$ (Premium):** The [**AP 45rpm 180g RTI (2009)**](https://www.discogs.com/release/3775239-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) – 1,500 numbered, Kevin Gray, RTI.
 
-**$150–$300:** The [**AP 45rpm 200g QRP (2010)**](https://www.discogs.com/release/2940887-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) – the upgraded pressing on quieter 200g QRP vinyl. Hi-Fi+ Recording = 10/10.
+**$$$$ (Premium):** The [**AP 45rpm 200g QRP (2010)**](https://www.discogs.com/release/2940887-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) – the upgraded pressing on quieter 200g QRP vinyl. Hi-Fi+ Recording = 10/10.
 
-**$150–$400:** An original [**Impulse! AS-5 stereo orange/black label**](https://www.discogs.com/release/12434112-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) in honest VG+ with Van Gelder stamp – the definitive analogue original; blue portrait or abstract cover both acceptable.
+**$$$$$ (Grail / Rare):** An original [**Impulse! AS-5 stereo orange/black label**](https://www.discogs.com/release/12434112-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) in honest VG+ with Van Gelder stamp – the definitive analogue original; blue portrait or abstract cover both acceptable.
 
 ---
 

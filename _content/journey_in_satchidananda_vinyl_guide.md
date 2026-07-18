@@ -56,9 +56,9 @@ No specific bootleg is widely documented for this title. Be aware that some CD e
 
 ## Buyer's guide by budget
 
-**Under $50:** The [**Verve Acoustic Sounds Series (2023)**](https://www.discogs.com/release/26604263-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) – exceptional reviews, and by most accounts close to definitive.
+**$$ (Affordable):** The [**Verve Acoustic Sounds Series (2023)**](https://www.discogs.com/release/26604263-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) – exceptional reviews, and by most accounts close to definitive.
 
-**$80–$250:** An original [**Impulse! AS-9203**](https://www.discogs.com/release/549847-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) in clean condition, for the genuine 1971 pressing experience.
+**$$$$ (Premium):** An original [**Impulse! AS-9203**](https://www.discogs.com/release/549847-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda) in clean condition, for the genuine 1971 pressing experience.
 
 ---
 

@@ -62,11 +62,11 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 
 ## Buyer's guide by budget
 
-**Under $40:** The [**Blue Note Classic Vinyl (2022)**](https://www.discogs.com/release/25484383-Thelonious-Monk-Genius-Of-Modern-Music-Volume-One) – genuinely as good as this material gets, and the easiest recommendation in this guide.
+**$ (Budget):** The [**Blue Note Classic Vinyl (2022)**](https://www.discogs.com/release/25484383-Thelonious-Monk-Genius-Of-Modern-Music-Volume-One) – genuinely as good as this material gets, and the easiest recommendation in this guide.
 
-**$40–$100:** A **Japanese King or Toshiba pressing** with obi, for a well-regarded vintage alternative.
+**$$$ (Mid-range):** A **Japanese King or Toshiba pressing** with obi, for a well-regarded vintage alternative.
 
-**$200–$500:** An original [**1956 BLP 1510 first pressing**](https://www.discogs.com/release/2587385-Thelonious-Monk-Genius-Of-Modern-Music-Volume-One) in honest condition, for collectors who want the genuine 1956 pressing history of this foundational document.
+**$$$$$ (Grail / Rare):** An original [**1956 BLP 1510 first pressing**](https://www.discogs.com/release/2587385-Thelonious-Monk-Genius-Of-Modern-Music-Volume-One) in honest condition, for collectors who want the genuine 1956 pressing history of this foundational document.
 
 ---
 

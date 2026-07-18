@@ -142,13 +142,13 @@ The P-7510A is the Japanese pressing to seek for this title. **$50–$120 NM wit
 
 ## Buyer's guide by budget
 
-**Under $50:** The [**Speakers Corner 180g**](https://www.discogs.com/release/18616948-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) at ~$40 new is the obvious recommendation – Kevin Gray, AAA, Pallas, stereo, widely available. Buy from a dealer who accepts returns given the documented QC inconsistency. If you prefer mono, hunt for the [**VMP Classics**](https://www.discogs.com/release/24779189-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) on the secondary market.
+**$$ (Affordable):** The [**Speakers Corner 180g**](https://www.discogs.com/release/18616948-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) at ~$40 new is the obvious recommendation – Kevin Gray, AAA, Pallas, stereo, widely available. Buy from a dealer who accepts returns given the documented QC inconsistency. If you prefer mono, hunt for the [**VMP Classics**](https://www.discogs.com/release/24779189-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) on the secondary market.
 
-**$50–$100:** The **VMP Classics mono** secondhand, or the [**P-7510A Japanese pressing**](https://www.discogs.com/release/2776761-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) with obi for a highly regarded stereo option.
+**$$$ (Mid-range):** The **VMP Classics mono** secondhand, or the [**P-7510A Japanese pressing**](https://www.discogs.com/release/2776761-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) with obi for a highly regarded stereo option.
 
-**$80–$150:** The [**ORG Music 45rpm 2LP**](https://www.discogs.com/release/4427710-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) is the stereo audiophile statement. Inspect for non-fill defects on Side 3 before committing, or buy from a dealer who has inspected the copy.
+**$$$ (Mid-range):** The [**ORG Music 45rpm 2LP**](https://www.discogs.com/release/4427710-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) is the stereo audiophile statement. Inspect for non-fill defects on Side 3 before committing, or buy from a dealer who has inspected the copy.
 
-**$100–$300:** A [**clean 1960s plum/orange Atlantic repress**](https://www.discogs.com/release/3400248-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) gives you the original tape transfer with period character. A clean NM original [**bullseye stereo SD 1317**](https://www.discogs.com/release/488973-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) sits at the top of this range.
+**$$$$ (Premium):** A [**clean 1960s plum/orange Atlantic repress**](https://www.discogs.com/release/3400248-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) gives you the original tape transfer with period character. A clean NM original [**bullseye stereo SD 1317**](https://www.discogs.com/release/488973-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) sits at the top of this range.
 
 Practical recommendation: buy the Speakers Corner for stereo (inspect/return-friendly purchase) or the VMP Classics mono secondhand. Both are AAA cuts from the original tapes, both on high-quality pressing plants. The ORG is the choice for committed stereo audiophiles willing to navigate its pressing variability.
 

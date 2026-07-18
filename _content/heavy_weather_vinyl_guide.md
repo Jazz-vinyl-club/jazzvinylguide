@@ -89,15 +89,15 @@ A 2023 repress on **peach coloured vinyl** (r28540660, 1,500 numbered copies) us
 
 ## Buyer's guide by budget
 
-**$25–$40:** The [**Music on Vinyl MOVLP088 180g (2011)**](https://www.discogs.com/release/4332389-Weather-Report-Heavy-Weather) – warm, musical, widely available. The right starting point for most listeners.
+**$ (Budget):** The [**Music on Vinyl MOVLP088 180g (2011)**](https://www.discogs.com/release/4332389-Weather-Report-Heavy-Weather) – warm, musical, widely available. The right starting point for most listeners.
 
-**$30–$80:** An original [**US Columbia PC 34418 – Terre Haute pressing**](https://www.discogs.com/release/877385-Weather-Report-Heavy-Weather) in VG+ – the period-analog option; check the deadwax for "T" or no plant code. "Much more dynamic, better low end and just so much more alive sounding" than other plant pressings.
+**$$ (Affordable):** An original [**US Columbia PC 34418 – Terre Haute pressing**](https://www.discogs.com/release/877385-Weather-Report-Heavy-Weather) in VG+ – the period-analog option; check the deadwax for "T" or no plant code. "Much more dynamic, better low end and just so much more alive sounding" than other plant pressings.
 
-**$40–$100:** A [**Japanese CBS/Sony 25AP 357 (1977)**](https://www.discogs.com/release/13432557-Weather-Report-Heavy-Weather) with yellow obi – "brilliant sounding"; "better dynamics than US copy"; dead-quiet CBS/Sony vinyl.
+**$$$ (Mid-range):** A [**Japanese CBS/Sony 25AP 357 (1977)**](https://www.discogs.com/release/13432557-Weather-Report-Heavy-Weather) with yellow obi – "brilliant sounding"; "better dynamics than US copy"; dead-quiet CBS/Sony vinyl.
 
-**$60–$120:** The [**Speakers Corner SC 34418 180g**](https://www.discogs.com/release/2342633-Weather-Report-Heavy-Weather) – Pallas pressing, quiet vinyl, good European alternative to the ORG when the ORG is out of reach.
+**$$$ (Mid-range):** The [**Speakers Corner SC 34418 180g**](https://www.discogs.com/release/2342633-Weather-Report-Heavy-Weather) – Pallas pressing, quiet vinyl, good European alternative to the ORG when the ORG is out of reach.
 
-**$150–$300:** The [**ORG ORGM-2009 2LP 45rpm 180g (2011)**](https://www.discogs.com/release/3526540-Weather-Report-Heavy-Weather) – the definitive modern pressing. Vinyl Gourmet-selected; Fremer-reviewed; Bernie Grundman from original tapes. Out of print but worth the secondary premium.
+**$$$$ (Premium):** The [**ORG ORGM-2009 2LP 45rpm 180g (2011)**](https://www.discogs.com/release/3526540-Weather-Report-Heavy-Weather) – the definitive modern pressing. Vinyl Gourmet-selected; Fremer-reviewed; Bernie Grundman from original tapes. Out of print but worth the secondary premium.
 
 ---
 

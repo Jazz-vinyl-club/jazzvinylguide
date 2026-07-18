@@ -102,11 +102,11 @@ After ABC-Paramount Records changed its corporate name to ABC Records around 196
 
 ## Buyer's guide by budget
 
-**Under $45:** The [**Acoustic Sounds/Verve 180g (2021)**](https://www.discogs.com/release/21029962) – Ryan K. Smith at Sterling Sound, original tapes, QRP pressing. The correct purchase for most listeners at any budget level.
+**$$ (Affordable):** The [**Acoustic Sounds/Verve 180g (2021)**](https://www.discogs.com/release/21029962) – Ryan K. Smith at Sterling Sound, original tapes, QRP pressing. The correct purchase for most listeners at any budget level.
 
-**$80–$150:** The [**AP AIPJ 35 QRP repress**](https://www.discogs.com/release/2975405) or the [**Speakers Corner 180g**](https://www.discogs.com/release/1704128) – either is a meaningful step up for revealing systems.
+**$$$ (Mid-range):** The [**AP AIPJ 35 QRP repress**](https://www.discogs.com/release/2975405) or the [**Speakers Corner 180g**](https://www.discogs.com/release/1704128) – either is a meaningful step up for revealing systems.
 
-**$150–$400:** An original [**AS-35 first-series stereo**](https://www.discogs.com/release/572717) in honest VG+ condition. The warmth and presence of the original is real; the trade-off is surface noise on most copies.
+**$$$$$ (Grail / Rare):** An original [**AS-35 first-series stereo**](https://www.discogs.com/release/572717) in honest VG+ condition. The warmth and presence of the original is real; the trade-off is surface noise on most copies.
 
 ---
 

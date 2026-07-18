@@ -76,13 +76,13 @@ This title has been reissued more than 100 times, and a wave of European public-
 
 ## Buyer's guide by budget
 
-**Under $30:** [Original Jazz Classics, OJC-026](https://www.discogs.com/release/33022326-Thelonious-Monk-Brilliant-Corners) (look for a Carrollton, GA pressing) – an accurate, quiet mono cut from the original tapes for the price of a new release.
+**$ (Budget):** [Original Jazz Classics, OJC-026](https://www.discogs.com/release/33022326-Thelonious-Monk-Brilliant-Corners) (look for a Carrollton, GA pressing) – an accurate, quiet mono cut from the original tapes for the price of a new release.
 
-**$30–$90:** [Analogue Productions mono LP, AAPJ 12-226](https://www.discogs.com/release/30804867-Thelonious-Monk-Brilliant-Corners) – the best combination of sound quality and availability; Kevin Gray mastering from the original tapes.
+**$$ (Affordable):** [Analogue Productions mono LP, AAPJ 12-226](https://www.discogs.com/release/30804867-Thelonious-Monk-Brilliant-Corners) – the best combination of sound quality and availability; Kevin Gray mastering from the original tapes.
 
-**$40–$100:** A [Japanese Riverside/Milestone pressing (SMJ-6136(M))](https://www.discogs.com/release/2117287-Thelonious-Monk-Brilliant-Corners) with obi, if you come across one – quiet, well-regarded vintage vinyl, though less widely available outside Japan than the other options in this bracket.
+**$$$ (Mid-range):** A [Japanese Riverside/Milestone pressing (SMJ-6136(M))](https://www.discogs.com/release/2117287-Thelonious-Monk-Brilliant-Corners) with obi, if you come across one – quiet, well-regarded vintage vinyl, though less widely available outside Japan than the other options in this bracket.
 
-**$90–$200:** [Craft Recordings Small Batch, CR00502](https://www.discogs.com/release/28210087-Thelonious-Monk-Brilliant-Corners) (secondary market) – one-step mastering by Bernie Grundman, the standout modern pressing.
+**$$$$ (Premium):** [Craft Recordings Small Batch, CR00502](https://www.discogs.com/release/28210087-Thelonious-Monk-Brilliant-Corners) (secondary market) – one-step mastering by Bernie Grundman, the standout modern pressing.
 
 **$200+:** [Electric Recording Company, ERC051](https://www.discogs.com/release/15132913-Thelonious-Monk-Brilliant-Corners) for the ultimate boutique pressing, or a clean [original 1957 RLP 12-226](https://www.discogs.com/release/3835076-Thelonious-Monk-Brilliant-Corners) first pressing for collectors who want the genuine vintage article. The out-of-print [Analogue Productions 45rpm set (AJAZ 12-226)](https://www.discogs.com/release/3917269-Thelonious-Monk-Brilliant-Corners) also lives in this bracket when copies surface.
 

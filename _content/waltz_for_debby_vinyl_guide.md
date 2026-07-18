@@ -76,13 +76,13 @@ Numerous colored-vinyl and budget European reissues circulate (yellow, purple, t
 
 ## Buyer's guide by budget
 
-**Under $50:** The [**Craft Recordings OJC (2023)**](https://www.discogs.com/release/27345327-Bill-Evans-Trio-Waltz-For-Debby) – the best-value modern pressing and, per most direct comparisons, close to the best-sounding overall.
+**$$ (Affordable):** The [**Craft Recordings OJC (2023)**](https://www.discogs.com/release/27345327-Bill-Evans-Trio-Waltz-For-Debby) – the best-value modern pressing and, per most direct comparisons, close to the best-sounding overall.
 
-**$100–$270:** The [**Analogue Productions HQ-180 (1992, Doug Sax)**](https://www.discogs.com/release/2415967-Bill-Evans-Trio-With-Scott-LaFaro-Paul-Motian-Waltz-For-Debby) on the secondary market – still preferred by some listeners for its rhythm-section excitement.
+**$$$$ (Premium):** The [**Analogue Productions HQ-180 (1992, Doug Sax)**](https://www.discogs.com/release/2415967-Bill-Evans-Trio-With-Scott-LaFaro-Paul-Motian-Waltz-For-Debby) on the secondary market – still preferred by some listeners for its rhythm-section excitement.
 
-**$150–$300:** The [**Analogue Productions UHQR (2024)**](https://www.discogs.com/release/31288886-Bill-Evans-Trio-Waltz-For-Debby) for the current reference edition, if budget allows.
+**$$$$ (Premium):** The [**Analogue Productions UHQR (2024)**](https://www.discogs.com/release/31288886-Bill-Evans-Trio-Waltz-For-Debby) for the current reference edition, if budget allows.
 
-**$150–$400:** A clean original [**Riverside RLP 9399 stereo**](https://www.discogs.com/release/13975220-Bill-Evans-Trio-With-Scott-LaFaro-Paul-Motian-Waltz-For-Debby) for the genuine 1962 pressing experience.
+**$$$$$ (Grail / Rare):** A clean original [**Riverside RLP 9399 stereo**](https://www.discogs.com/release/13975220-Bill-Evans-Trio-With-Scott-LaFaro-Paul-Motian-Waltz-For-Debby) for the genuine 1962 pressing experience.
 
 ---
 

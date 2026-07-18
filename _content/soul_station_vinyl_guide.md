@@ -110,15 +110,15 @@ The Japanese Toshiba-EMI pressing of *Soul Station* is consistently praised on D
 
 ## Buyer's guide by budget
 
-**Under $35:** The [**Blue Note Classic Vinyl BST 84031 (2021)**](https://www.discogs.com/release/18097726-Hank-Mobley-Soul-Station) – Kevin Gray, Optimal, 180g. Buy from a seller with returns given early-run QC issues; later copies are clean.
+**$ (Budget):** The [**Blue Note Classic Vinyl BST 84031 (2021)**](https://www.discogs.com/release/18097726-Hank-Mobley-Soul-Station) – Kevin Gray, Optimal, 180g. Buy from a seller with returns given early-run QC issues; later copies are clean.
 
-**$50–$120:** A [**Japanese Toshiba pressing**](https://www.discogs.com/release/10488968-Hank-Mobley-Soul-Station) with obi – "incredible" sound, dead-quiet, warm midrange.
+**$$$ (Mid-range):** A [**Japanese Toshiba pressing**](https://www.discogs.com/release/10488968-Hank-Mobley-Soul-Station) with obi – "incredible" sound, dead-quiet, warm midrange.
 
-**$80–$150:** The [**Music Matters SRX 33rpm (2014 or 2020)**](https://www.discogs.com/release/14870997-Hank-Mobley-Soul-Station) – same Kevin Gray/Hoffman mastering as the 45rpm; more accessible secondary price.
+**$$$ (Mid-range):** The [**Music Matters SRX 33rpm (2014 or 2020)**](https://www.discogs.com/release/14870997-Hank-Mobley-Soul-Station) – same Kevin Gray/Hoffman mastering as the 45rpm; more accessible secondary price.
 
-**$200–$400:** The [**Music Matters 45rpm 2LP (2008)**](https://www.discogs.com/release/3009895-Hank-Mobley-Soul-Station) – the benchmark reissue; "Mobley playing in the room with you."
+**$$$$$ (Grail / Rare):** The [**Music Matters 45rpm 2LP (2008)**](https://www.discogs.com/release/3009895-Hank-Mobley-Soul-Station) – the benchmark reissue; "Mobley playing in the room with you."
 
-**$300–$700:** An original [**BLP 4031 mono NY USA label**](https://www.discogs.com/release/1249135-Hank-Mobley-Soul-Station) in honest VG+ with Van Gelder stamp and Plastylite ear – the purist's choice.
+**$$$$$ (Grail / Rare):** An original [**BLP 4031 mono NY USA label**](https://www.discogs.com/release/1249135-Hank-Mobley-Soul-Station) in honest VG+ with Van Gelder stamp and Plastylite ear – the purist's choice.
 
 ---
 

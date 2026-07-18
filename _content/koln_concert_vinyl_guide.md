@@ -80,11 +80,11 @@ Reception has been notably more critical than most ECM reissues. [Tracking Angle
 
 ## Buyer's guide by budget
 
-**Under €45:** The [**2010 ECM 180g Pallas pressing**](https://www.discogs.com/release/3979641-Keith-Jarrett-The-K%C3%B6ln-Concert) – this is the recommended listening copy and available at reasonable prices. Not significantly inferior to an original for most systems.
+**$ (Budget):** The [**2010 ECM 180g Pallas pressing**](https://www.discogs.com/release/3979641-Keith-Jarrett-The-K%C3%B6ln-Concert) – this is the recommended listening copy and available at reasonable prices. Not significantly inferior to an original for most systems.
 
-**€100–€250:** A clean original [**"ECM Records" label first pressing**](https://www.discogs.com/release/8735978-Keith-Jarrett-The-K%C3%B6ln-Concert) for the completist collector. Verify the Urheber- rim text and short runout.
+**$$$ (Mid-range):** A clean original [**"ECM Records" label first pressing**](https://www.discogs.com/release/8735978-Keith-Jarrett-The-K%C3%B6ln-Concert) for the completist collector. Verify the Urheber- rim text and short runout.
 
-**€25–€80:** The [**ECM 50th Anniversary (2025)**](https://www.discogs.com/release/35912773-Keith-Jarrett-The-K%C3%B6ln-Concert) – if the commemorative packaging appeals and you want the most recent official edition.
+**$$ (Affordable):** The [**ECM 50th Anniversary (2025)**](https://www.discogs.com/release/35912773-Keith-Jarrett-The-K%C3%B6ln-Concert) – if the commemorative packaging appeals and you want the most recent official edition.
 
 ---
 

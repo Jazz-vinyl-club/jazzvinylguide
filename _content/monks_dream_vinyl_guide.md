@@ -54,11 +54,11 @@ No specific bootleg is widely documented. Later 1970s–80s Columbia reissues on
 
 ## Buyer's guide by budget
 
-**Under $50:** The [**Impex Records 180g reissue (2017)**](https://www.discogs.com/release/11537615-The-Thelonious-Monk-Quartet-Monks-Dream) – Kevin Gray mastering, the best-value recommendation.
+**$$ (Affordable):** The [**Impex Records 180g reissue (2017)**](https://www.discogs.com/release/11537615-The-Thelonious-Monk-Quartet-Monks-Dream) – Kevin Gray mastering, the best-value recommendation.
 
-**$50–$120:** A clean original [**Columbia two-eye stereo, CS 8765**](https://www.discogs.com/release/1465575-The-Thelonious-Monk-Quartet-Monks-Dream) – attainable given this title's status as Monk's best-selling album.
+**$$$ (Mid-range):** A clean original [**Columbia two-eye stereo, CS 8765**](https://www.discogs.com/release/1465575-The-Thelonious-Monk-Quartet-Monks-Dream) – attainable given this title's status as Monk's best-selling album.
 
-**$150–$300:** The [**Mobile Fidelity UltraDisc One-Step (UD1S 2-011)**](https://www.discogs.com/release/14174187-The-Thelonious-Monk-Quartet-Monks-Dream) on the secondary market, for the current TAS-listed reference pressing.
+**$$$$ (Premium):** The [**Mobile Fidelity UltraDisc One-Step (UD1S 2-011)**](https://www.discogs.com/release/14174187-The-Thelonious-Monk-Quartet-Monks-Dream) on the secondary market, for the current TAS-listed reference pressing.
 
 ---
 

@@ -90,19 +90,19 @@ A separate, more basic reissue line from the Classic Vinyl series: 140g LP, sing
 
 ## Buyer's guide by budget
 
-**Under $35:** The [**Blue Note Classic Vinyl BST 84195 (2021)**](https://www.discogs.com/release/20316430-Herbie-Hancock-Maiden-Voyage) – Kevin Gray mastering, Optimal pressing, consistently good reviews. The recommended starting point.
+**$ (Budget):** The [**Blue Note Classic Vinyl BST 84195 (2021)**](https://www.discogs.com/release/20316430-Herbie-Hancock-Maiden-Voyage) – Kevin Gray mastering, Optimal pressing, consistently good reviews. The recommended starting point.
 
-**$40–$80:** A [**King/Toshiba standard 33rpm pressing (1976)**](https://www.discogs.com/release/6513605-Herbie-Hancock-Maiden-Voyage) with obi – dead-quiet vinyl, warm character, excellent value.
+**$$ (Affordable):** A [**King/Toshiba standard 33rpm pressing (1976)**](https://www.discogs.com/release/6513605-Herbie-Hancock-Maiden-Voyage) with obi – dead-quiet vinyl, warm character, excellent value.
 
-**$80–$150:** The [**King "Masterpiece Special Replica" 200g (1983)**](https://www.discogs.com/release/6454559-Herbie-Hancock-Maiden-Voyage) – premium Japanese pressing, thick vinyl, replica US presentation.
+**$$$ (Mid-range):** The [**King "Masterpiece Special Replica" 200g (1983)**](https://www.discogs.com/release/6454559-Herbie-Hancock-Maiden-Voyage) – premium Japanese pressing, thick vinyl, replica US presentation.
 
-**$150–$250:** The [**Music Matters SRX 33rpm AAA (MM33 BNST-84195)**](https://www.discogs.com/release/14993652-Herbie-Hancock-Maiden-Voyage) – the current definitive modern version, better than the AP per Stereophile. Worth seeking.
+**$$$$ (Premium):** The [**Music Matters SRX 33rpm AAA (MM33 BNST-84195)**](https://www.discogs.com/release/14993652-Herbie-Hancock-Maiden-Voyage) – the current definitive modern version, better than the AP per Stereophile. Worth seeking.
 
-**$150–$300:** The [**AP 45rpm AP-84195**](https://www.discogs.com/release/3327141-Herbie-Hancock-Maiden-Voyage) if found at a good price – excellent pressing, slightly behind the Music Matters on sound but still a serious option.
+**$$$$ (Premium):** The [**AP 45rpm AP-84195**](https://www.discogs.com/release/3327141-Herbie-Hancock-Maiden-Voyage) if found at a good price – excellent pressing, slightly behind the Music Matters on sound but still a serious option.
 
-**$200–$500:** An original [**New York USA BST 84195 stereo (r1407692)**](https://www.discogs.com/release/1407692-Herbie-Hancock-Maiden-Voyage) in honest VG+ or better, with Van Gelder stamp and Plastylite ear confirmed.
+**$$$$$ (Grail / Rare):** An original [**New York USA BST 84195 stereo (r1407692)**](https://www.discogs.com/release/1407692-Herbie-Hancock-Maiden-Voyage) in honest VG+ or better, with Van Gelder stamp and Plastylite ear confirmed.
 
-**$200–$450:** An original [**New York USA BLP 4195 mono (r1907831)**](https://www.discogs.com/release/1907831-Herbie-Hancock-Maiden-Voyage) in honest VG+ – the mono is native and preferred by those who favour midrange concentration.
+**$$$$$ (Grail / Rare):** An original [**New York USA BLP 4195 mono (r1907831)**](https://www.discogs.com/release/1907831-Herbie-Hancock-Maiden-Voyage) in honest VG+ – the mono is native and preferred by those who favour midrange concentration.
 
 ---
 

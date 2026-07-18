@@ -58,13 +58,13 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 
 ## Buyer's guide by budget
 
-**Under $40:** The [**Blue Note Classic Vinyl**](https://www.discogs.com/release/16316769-McCoy-Tyner-The-Real-McCoy) – Kevin Gray mastering; buy with a return policy given documented QC variance.
+**$ (Budget):** The [**Blue Note Classic Vinyl**](https://www.discogs.com/release/16316769-McCoy-Tyner-The-Real-McCoy) – Kevin Gray mastering; buy with a return policy given documented QC variance.
 
-**$40–$90:** A **Japanese King pressing (GXF-3008)** with obi, for a well-regarded vintage alternative.
+**$$ (Affordable):** A **Japanese King pressing (GXF-3008)** with obi, for a well-regarded vintage alternative.
 
-**$150–$300:** The [**Music Matters 45rpm 2LP**](https://www.discogs.com/release/3378635-McCoy-Tyner-The-Real-McCoy) on the secondary market, for the definitive modern listening experience.
+**$$$$ (Premium):** The [**Music Matters 45rpm 2LP**](https://www.discogs.com/release/3378635-McCoy-Tyner-The-Real-McCoy) on the secondary market, for the definitive modern listening experience.
 
-**$150–$350:** An original [**Liberty-label first pressing**](https://www.discogs.com/release/424427-McCoy-Tyner-The-Real-McCoy) in honest condition – remember, this label design is the true original for this specific title, not a later pressing.
+**$$$$ (Premium):** An original [**Liberty-label first pressing**](https://www.discogs.com/release/424427-McCoy-Tyner-The-Real-McCoy) in honest condition – remember, this label design is the true original for this specific title, not a later pressing.
 
 ---
 

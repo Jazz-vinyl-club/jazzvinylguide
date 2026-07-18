@@ -54,8 +54,8 @@ Savoy's Savoy-only material (excluding Dial) has its own separate reissue histor
 
 ## Buyer's guide by budget
 
-**$60–$150:** A used copy of Savoy's own **1978 5-LP Complete Savoy Studio Sessions box** if you only need the Savoy-label material and want Van Gelder's original acetate transfer.
-**$150–$300:** The full [**Savoy Jazz 10-LP box set (2015)**](https://www.discogs.com/release/7794147-Charlie-Parker-The-Complete-Savoy-And-Dial-Studio-Recordings-1944-1948) on the secondary market – the only combined Savoy-and-Dial vinyl edition, now out of print.
+**$$$ (Mid-range):** A used copy of Savoy's own **1978 5-LP Complete Savoy Studio Sessions box** if you only need the Savoy-label material and want Van Gelder's original acetate transfer.
+**$$$$ (Premium):** The full [**Savoy Jazz 10-LP box set (2015)**](https://www.discogs.com/release/7794147-Charlie-Parker-The-Complete-Savoy-And-Dial-Studio-Recordings-1944-1948) on the secondary market – the only combined Savoy-and-Dial vinyl edition, now out of print.
 
 ---
 

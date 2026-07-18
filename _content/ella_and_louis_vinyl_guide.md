@@ -58,11 +58,11 @@ Numerous European reissues circulate from the 1960s–80s on Verve/MGM-distribut
 
 ## Buyer's guide by budget
 
-**Under $40:** The [**Verve Acoustic Sounds Series (2022)**](https://www.discogs.com/release/23904962-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) – excellent mastering, deluxe packaging, and the easy recommendation for most buyers.
+**$ (Budget):** The [**Verve Acoustic Sounds Series (2022)**](https://www.discogs.com/release/23904962-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) – excellent mastering, deluxe packaging, and the easy recommendation for most buyers.
 
-**$100–$200:** The [**Analogue Productions 45rpm 2LP**](https://www.discogs.com/release/3513495-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) on the secondary market, for the outright best-sounding version of this session.
+**$$$$ (Premium):** The [**Analogue Productions 45rpm 2LP**](https://www.discogs.com/release/3513495-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) on the secondary market, for the outright best-sounding version of this session.
 
-**$150–$400:** A clean original [**Verve MG V-4003, orange/black "T" label**](https://www.discogs.com/release/10538384-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) – be prepared to search patiently for a presentable copy.
+**$$$$$ (Grail / Rare):** A clean original [**Verve MG V-4003, orange/black "T" label**](https://www.discogs.com/release/10538384-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) – be prepared to search patiently for a presentable copy.
 
 ---
 

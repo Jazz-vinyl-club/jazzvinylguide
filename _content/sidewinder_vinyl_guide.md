@@ -96,15 +96,15 @@ A separate, more basic reissue line from Classic Vinyl: 140g LP, single (non-gat
 
 ## Buyer's guide by budget
 
-**Under $30:** The [**Blue Note Classic Vinyl BST 84157**](https://www.discogs.com/release/16312236-Lee-Morgan-The-Sidewinder) – Kevin Gray mastering, Optimal pressing. The recommended starting point.
+**$ (Budget):** The [**Blue Note Classic Vinyl BST 84157**](https://www.discogs.com/release/16312236-Lee-Morgan-The-Sidewinder) – Kevin Gray mastering, Optimal pressing. The recommended starting point.
 
-**$40–$80:** A [**Japanese Toshiba pressing (1976)**](https://www.discogs.com/release/6462527-Lee-Morgan-The-Sidewinder) with obi – the first true domestic Japanese pressing; dead-quiet vinyl and warm character.
+**$$ (Affordable):** A [**Japanese Toshiba pressing (1976)**](https://www.discogs.com/release/6462527-Lee-Morgan-The-Sidewinder) with obi – the first true domestic Japanese pressing; dead-quiet vinyl and warm character.
 
-**$50–$150:** A [**Liberty-era pressing with Van Gelder stamp**](https://www.discogs.com/release/13630870-Lee-Morgan-The-Sidewinder) for the budget collector who wants period metal, or a good-condition VG+ original.
+**$$$ (Mid-range):** A [**Liberty-era pressing with Van Gelder stamp**](https://www.discogs.com/release/13630870-Lee-Morgan-The-Sidewinder) for the budget collector who wants period metal, or a good-condition VG+ original.
 
-**$100–$300:** An original [**New York USA label stereo BST 84157**](https://www.discogs.com/release/1946625-Lee-Morgan-The-Sidewinder) in honest VG+ condition – plentiful on the market relative to other Blue Note originals, making it achievable without exceptional outlay.
+**$$$$ (Premium):** An original [**New York USA label stereo BST 84157**](https://www.discogs.com/release/1946625-Lee-Morgan-The-Sidewinder) in honest VG+ condition – plentiful on the market relative to other Blue Note originals, making it achievable without exceptional outlay.
 
-**$150–$300:** The [**Music Matters 33⅓ stereo**](https://www.discogs.com/release/6011184-Lee-Morgan-The-Sidewinder) – the definitive modern version; worth seeking for serious listeners, though check for RTI pressing defects.
+**$$$$ (Premium):** The [**Music Matters 33⅓ stereo**](https://www.discogs.com/release/6011184-Lee-Morgan-The-Sidewinder) – the definitive modern version; worth seeking for serious listeners, though check for RTI pressing defects.
 
 ---
 

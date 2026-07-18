@@ -87,11 +87,11 @@ Various Music On Vinyl, Simply Vinyl, and generic LP pressings exist but source 
 
 ## Buyer's guide by budget
 
-**$60–$200:** A clean [**second-press Capitol T-762**](https://www.discogs.com/release/4609609-Miles-Davis-Birth-Of-The-Cool) ("Long Playing High Fidelity" label) in VG+ – the period original at a manageable price.
+**$$$$ (Premium):** A clean [**second-press Capitol T-762**](https://www.discogs.com/release/4609609-Miles-Davis-Birth-Of-The-Cool) ("Long Playing High Fidelity" label) in VG+ – the period original at a manageable price.
 
-**Under $70 new:** The [**Blue Note Tone Poet 180g mono (2026)**](https://www.discogs.com/release/37415985-Miles-Davis-Birth-Of-The-Cool-Of-The-Cool) – the only currently recommended modern pressing and for most listeners the best available version of this music on vinyl. Wide availability new.
+**$$ (Affordable):** The [**Blue Note Tone Poet 180g mono (2026)**](https://www.discogs.com/release/37415985-Miles-Davis-Birth-Of-The-Cool-Of-The-Cool) – the only currently recommended modern pressing and for most listeners the best available version of this music on vinyl. Wide availability new.
 
-**$200–$600:** A [**first-press Capitol T-762**](https://www.discogs.com/release/5456857-Miles-Davis-Birth-Of-The-Cool) (turquoise, "Long Playing" only, Scranton pressing) in honest VG+ or better – the collector's target.
+**$$$$$ (Grail / Rare):** A [**first-press Capitol T-762**](https://www.discogs.com/release/5456857-Miles-Davis-Birth-Of-The-Cool) (turquoise, "Long Playing" only, Scranton pressing) in honest VG+ or better – the collector's target.
 
 ---
 
