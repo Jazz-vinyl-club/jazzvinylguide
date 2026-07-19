@@ -179,7 +179,7 @@ Toshiba-EMI pressed Atlantic Coltrane titles throughout the 1970s–80s and thes
 | **C** | 1970s red/green Warner Atlantic | SD 1311 | 1970s | Stereo, 33⅓ | Later Atlantic/Warner lacquer | AT/GP variants good; others avoid | [Discogs](https://www.discogs.com/release/738267-John-Coltrane-Giant-Steps) |
 | **D** | Jazz Images / Jean-Pierre Leloir | 37005 | 2016 | Stereo, 33⅓, 180g | Unverified; likely digital | Beautiful Leloir photography; collector item only | [Discogs](https://www.discogs.com/release/9108027-John-Coltrane-Giant-Steps) |
 | **D** | Kevin Gray/Acoustech 180g | R1-75203 | c.2003 | Stereo, 33⅓, 180g | Kevin Gray, AcousTech/RTI | Tape deterioration audible; variable pressing | [Discogs](https://www.discogs.com/release/1151131-John-Coltrane-Giant-Steps) |
-| **F** | EU grey-market (DOL etc.) | Various | 2000s+ | Various | Unlicensed, unverified source | Avoid; typically under | – |
+| **F** | EU grey-market (DOL etc.) | Various | 2000s+ | Various | Unlicensed, unverified source | Avoid; typically under $20 | – |
 
 ## References
 
