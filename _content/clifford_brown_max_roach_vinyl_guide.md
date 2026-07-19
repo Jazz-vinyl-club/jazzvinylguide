@@ -77,7 +77,7 @@ Stereophile reviewed it (February 2013, Record of the Month, Performance ★★�
 
 ## Japanese pressings
 
-EmArcy titles were licensed to Nippon Phonogram / Mercury Japan and later to PolyGram Japan through the late 1970s and 1980s. The Japanese editions of *Clifford Brown & Max Roach* are consistently praised for superior vinyl quality and faithful reproduction. Look for pressings on the **Mercury/EmArcy Japan** label with an obi strip. The 1971 Japanese pressing (**cat. 15PJ-2018(M)**, [Discogs master](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach)) is the most commonly encountered and well reviewed. Dead-quiet vinyl, natural mono presentation. **$40–$100 with obi.**
+EmArcy titles were licensed to Nippon Phonogram / Mercury Japan and later to PolyGram Japan through the late 1970s and 1980s. The Japanese editions of *Clifford Brown & Max Roach* are consistently praised for superior vinyl quality and faithful reproduction. Look for pressings on the **Mercury/EmArcy Japan** label with an obi strip. The 1971 Japanese pressing (**cat. 15PJ-2018(M)**) is the most commonly encountered and well reviewed. Dead-quiet vinyl, natural mono presentation. **$40–$100 with obi.**
 
 
 ---
@@ -98,7 +98,7 @@ EmArcy titles were licensed to Nippon Phonogram / Mercury Japan and later to Pol
 
 **$$ (Affordable):** The [**Acoustic Sounds Series AEMA 78844 180g mono (2025)**](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – Matthew Lutthans, QRP, the definitive accessible modern option. ~$35–$45 new from Acoustic Sounds.
 
-**$$$ (Mid-range):** A [**Japanese Mercury/EmArcy pressing with obi**](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – dead-quiet vinyl, warm mono character; strong secondary option.
+**$$$ (Mid-range):** A **Japanese Mercury/EmArcy pressing with obi** (cat. 15PJ-2018(M)) – dead-quiet vinyl, warm mono character; strong secondary option.
 
 **$$$$$ (Grail / Rare):** An original [**EmArcy MG-36036 12" mono (1955)**](https://www.discogs.com/release/2862128-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) in honest VG+ – the collector's original, noting that the Acoustic Sounds remaster may actually outperform it sonically.
 
@@ -114,7 +114,7 @@ EmArcy titles were licensed to Nippon Phonogram / Mercury Japan and later to Pol
 | **A** | Original EmArcy MG-36036 12" mono | MG-36036 | 1955 | Mono, 33⅓ | Original EmArcy lacquer | Matrix MG36036A MF4 | [Discogs](https://www.discogs.com/release/2862128-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
 | **A** | Mosaic MRLP 3004 4LP box set | MRLP 3004 | 2012 | Mono, 33⅓, 4×180g | Orig tapes → Ryan Smith, Sterling Sound, RTI | All 4 quintet albums; 2,500 copies | [Discogs](https://www.discogs.com/release/4497482-Clifford-BrownMax-Roach-The-Clifford-BrownMax-Roach-Emarcy-Albums) |
 | **B** | Original EmArcy MG-26043 10" mono | MG-26043 | 1954 | Mono, 10" | Original EmArcy lacquer | 5 tracks only; extremely rare | [Discogs](https://www.discogs.com/release/4869491-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
-| **C** | Japanese Mercury/EmArcy pressing | 15PJ-2018(M) | 1971–80s | Mono, 33⅓ | Licensed Japanese pressing | Dead-quiet vinyl; warm | [Discogs](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) |
+| **C** | Japanese Mercury/EmArcy pressing | 15PJ-2018(M) | 1971–80s | Mono, 33⅓ | Licensed Japanese pressing | Dead-quiet vinyl; warm | – |
 | **D** | Waxtime / DOL / budget EU reissues | Various | 2000s+ | Mono, 33⅓ | Digital source | Adequate entry point; not recommended for serious listening | – |
 
 ## References
