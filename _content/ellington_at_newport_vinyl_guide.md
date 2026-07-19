@@ -26,6 +26,8 @@ This wasn't confirmed publicly until 1996, when a tape surfaced in the Voice of 
 
 **Catalogue: CL 934**, mono only, issued on Columbia's red/black "six-eye" label. This title sold in very large quantities as Ellington's career-reviving hit record, and was repressed steadily through the following decade, which keeps clean originals more attainable than most mid-1950s Columbia jazz titles. **$30–$100 NM**, depending on label variant and condition.
 
+A later stereo pressing also exists – catalog **CS 8648** (1963) – once Columbia had adopted stereo more broadly; given the source material is fundamentally a 1956 mono production (studio-reconstructed as described above), any "stereo" on this catalog number would be a rechannel/reprocessing of that mono source rather than a discrete stereo recording. No dedicated sound-quality comparison against the mono original has surfaced; treat as a period curiosity rather than a recommended purchase.
+
 ---
 
 ## The reissue hierarchy
@@ -67,7 +69,7 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
 | **A** | Original Columbia six-eye mono | CL 934 | 1956 | Mono, 33⅓ | Original 1956 Columbia mastering | Attainable given large original pressing run | [Discogs](https://www.discogs.com/release/689458-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
-| **A** | Mobile Fidelity numbered mono | MOFI 1-035 | – | Mono, 33⅓ | MoFi remastering | Quiet, strong pressing; some prefer original for Duke's voice | [Discogs](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
+| **A** | Mobile Fidelity numbered mono | MOFI 1-035 | 2013 | Mono, 33⅓ | MoFi remastering | Quiet, strong pressing; some prefer original for Duke's voice | [Discogs](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
 | **B** | Japanese CBS/Sony pressing | SOPN-150 | c.1975 | Mono, 33⅓ | Licensed Japanese pressing | Shorter track selection than US LP; no distinct audiophile reputation | [Discogs](https://www.discogs.com/release/3630941-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
 | **B** | "Complete concert" 2LP reissue | DOX904 | 2013 | Stereo, 33⅓, 2×LP | Compiled from 1999 Complete reissue material | Likely digital source, unclear licensing; the fuller, more accurate concert account on vinyl | [Discogs](https://www.discogs.com/release/15625375-Duke-Ellington-Ellington-at-Newport) |
 
