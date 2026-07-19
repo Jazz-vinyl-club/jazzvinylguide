@@ -136,7 +136,7 @@ The Japanese Toshiba-EMI pressing of *Soul Station* is consistently praised on D
 | **C** | Blue Note Classic Vinyl 180g | BST 84031 | 2021 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Cohearent, Optimal | Early-run QC issues; buy with returns | [Discogs](https://www.discogs.com/release/18097726-Hank-Mobley-Soul-Station) |
 | **C** | Liberty East Coast pressing (VG-stamped) | BST 84031 | 1966–71 | Stereo, 33⅓ | RVG East Coast metal | Inspect for VG stamp; avoid West Coast | [Discogs](https://www.discogs.com/release/1038695-Hank-Mobley-Soul-Station) |
 | **D** | Liberty West Coast pressing (no VG stamp) | BST 84031 | 1966–71 | Stereo, 33⅓ | Research Craft from copy tape | Tape generation loss; avoid | – |
-| **F** | Generic EU reissues (DOL, Waxtime, etc.) | Various | 2000s+ | Various | Digital, unlicensed | Avoid; typically under | – |
+| **F** | Generic EU reissues (DOL, Waxtime, etc.) | Various | 2000s+ | Various | Digital, unlicensed | Avoid; typically under $20 | – |
 | **F** | Capitol/EMI UK "audiophile pressing" | Various | 1997 | Stereo, 33⅓, 180g | Likely digital delay line despite "AAA" marketing | Low gain, compressed; avoid despite audiophile branding | – |
 
 ## References

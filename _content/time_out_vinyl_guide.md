@@ -174,7 +174,7 @@ The 33rpm version delivers the same Grundman mastering at slightly reduced groov
 | **C** | Holland CBS/Columbia represses | CBS 32792 | 1970s–80s | Stereo, 33⅓ | Repress lacquers | Well-regarded by some Discogs users | [Discogs](https://www.discogs.com/release/1981546-The-Dave-Brubeck-Quartet-Time-Out) |
 | **D** | 1970s–80s US Columbia represses | CS 8192 | 1970s–80s | Stereo, 33⅓ | Later Columbia lathes | Thinner, brighter; budget listening only | – |
 | **D** | Music On Vinyl import | Various | 2010s | Stereo, 33⅓, 180g | Licensed reissue | Consistently reported as noisy; not recommended over AP editions | – |
-| **F** | EU grey-market (DOL, Waxtime, Vinyl Passion) | Various | 2000s+ | Various | Digital rip, unlicensed | Not licensed; avoid; typically under | – |
+| **F** | EU grey-market (DOL, Waxtime, Vinyl Passion) | Various | 2000s+ | Various | Digital rip, unlicensed | Not licensed; avoid; typically under $20 | – |
 
 ## References
 

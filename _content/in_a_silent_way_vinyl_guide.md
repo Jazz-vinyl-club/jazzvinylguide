@@ -117,7 +117,7 @@ A **revised edition** ([r33400274](https://www.discogs.com/release/33400274-Mile
 | **B** | European/Dutch CBS original | S 63630 | 1969 | Stereo, 33⅓ | CBS European lacquer | "Fresh, big, warm, punchy"; significant discount vs US | [Discogs](https://www.discogs.com/release/395634-Miles-Davis-In-A-Silent-Way) |
 | **C** | 1971 Columbia one-eye reissue | CS 9875 | 1971 | Stereo, 33⅓ | Same stampers as two-eye | Check for original stampers | [Discogs](https://www.discogs.com/release/15107481-Miles-Davis-In-A-Silent-Way) |
 | **D** | 1980s–90s Columbia reissues | Various | 1980s–90s | Stereo, 33⅓ | Digital transfers | Not recommended | – |
-| **F** | Generic EU reissues (DOL, Waxtime, etc.) | Various | 2000s+ | Various | Digital, unlicensed | Avoid; typically under | – |
+| **F** | Generic EU reissues (DOL, Waxtime, etc.) | Various | 2000s+ | Various | Digital, unlicensed | Avoid; typically under $20 | – |
 
 ## References
 

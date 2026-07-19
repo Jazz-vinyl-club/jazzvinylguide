@@ -168,7 +168,7 @@ Practical recommendation: buy the Speakers Corner for stereo (inspect/return-fri
 | **C** | Warner Bros.-Pioneer P-6004A | P-6004A | 1971 | Stereo, 33⅓ | Warner-Pioneer Japanese lacquer | "Jazz Age" series; earlier Japan issue | [Discogs](https://www.discogs.com/release/2997973-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
 | **C** | Rhino 180g | SD 1317 | 2010 | Stereo, 33⅓, 180g | Atlantic tapes → Bernie Grundman, RTI | Solid entry-level; Kaplan praised it pre-ORG | [Discogs](https://www.discogs.com/release/3236651-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) |
 | **D** | 1970s Warner/Atlantic green-red | SD 1317 | 1970s | Stereo, 33⅓ | Degraded masters, thin vinyl | "Dreadful" (Kaplan); avoid | – |
-| **F** | EU grey-market (DOL, Waxtime) | Various | 2000s+ | Various | Digital rip, unlicensed | Unverified provenance; not licensed; typically under | – |
+| **F** | EU grey-market (DOL, Waxtime) | Various | 2000s+ | Various | Digital rip, unlicensed | Unverified provenance; not licensed; typically under $20 | – |
 
 ## References
 

@@ -91,7 +91,7 @@ A 2022 reissue on the UK public-domain label Not Now Music (barcode 506034858333
 | **S** | Original Riverside stereo | RLP 1169 | 1960 | Stereo | Original 1960 Riverside mastering | Genuine stereo from the actual sessions, pre-tape-loss | [Discogs](https://www.discogs.com/release/6024135-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) |
 | **A** | Milestone "While We're Young" twofer | 47003 | 1973 | Stereo (mono-like) | Fantasy-Milestone, source generation uncertain | Well-regarded balance among post-tape-loss pressings | – |
 | **B** | Craft Recordings / OJC | CR00850 | 2025 | Stereo, 180g | Kevin Gray, cut from a discovered Japanese tape copy | First tape-sourced reissue in decades; reception genuinely divided | [Discogs](https://www.discogs.com/release/33275373-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) |
-| **B** | Original Jazz Classics | OJC-036 | 1982 | Stereo | Gary Hobish, from the mother dub | Narrow, forward image; cheap and reliable; under | [Discogs](https://www.discogs.com/release/468353-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) |
+| **B** | Original Jazz Classics | OJC-036 | 1982 | Stereo | Gary Hobish, from the mother dub | Narrow, forward image; cheap and reliable; under $20 | [Discogs](https://www.discogs.com/release/468353-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) |
 | **C** | Japanese Riverside reissue | SR-7009 | 1962 | Stereo | Japanese pressing, post-original | No specific audiophile distinction found; a curiosity | [Discogs](https://www.discogs.com/release/13964933-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) |
 
 ## References

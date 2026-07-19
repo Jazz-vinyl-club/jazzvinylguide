@@ -124,7 +124,7 @@ A 1972 UK and Netherlands pressing (**CBS S 64717**) followed roughly a year aft
 | **C** | Japanese CBS/Sony 1976 reissue | 25AP 655 | 1976 | Stereo, 33⅓ | Licensed Japanese pressing | Good quality; easier to find | [Discogs](https://www.discogs.com/release/2623855-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) |
 | **C** | Original US Columbia, Santa Maria (SM) | KC 31067 | 1971 | Stereo, 33⅓ | AAA, Don Puluse/Columbia | Slight collector preference for TH/Pitman | [Discogs](https://www.discogs.com/release/14551678-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) |
 | **C** | 1970s US Columbia reissue | PC 31067 | 1970s | Stereo, 33⅓ | Columbia domestic reissue | Budget option; early stampers competitive | [Discogs](https://www.discogs.com/release/4923574-Mahavishnu-Orchestra-The-Inner-Mounting-Flame) |
-| **D** | Generic EU budget reissues (DOL, MOV, etc.) | Various | 2000s+ | Various | Digital or unverified | Not recommended; typically under | – |
+| **D** | Generic EU budget reissues (DOL, MOV, etc.) | Various | 2000s+ | Various | Digital or unverified | Not recommended; typically under $20 | – |
 
 ## References
 
