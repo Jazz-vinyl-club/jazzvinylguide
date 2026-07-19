@@ -101,6 +101,10 @@ A companion **Blue Train: The Complete Masters 2LP stereo** (cat. B0035204-01, s
 
 ---
 
+### 2018 60th Anniversary color vinyl (Sound of Vinyl exclusive) – a collectible, not an audiophile pick
+
+A limited edition of 1,000 numbered copies, released March 9, 2018 to mark 60 years since the 1957 recording. 180g stereo LP pressed on opaque blue vinyl with black swirls, sold exclusively through The Sound of Vinyl. No specific mastering engineer or tape source is credited for this particular pressing in period press materials, which suggests it likely reuses an existing stereo mastering from that era rather than representing a fresh cut – treat as a collectible variant for the packaging and scarcity rather than a sound-quality recommendation. **Pricing not well established; check current listings.**
+
 ### 1993 CEMA/Capitol DMM reissue (Manhattan Records) – budget option, mixed reception
 
 A Direct Metal Mastering pressing from 1993, licensed via Manhattan Records and manufactured by Capitol for CEMA Special Markets. This is the cheapest way into the album on original-lineage vinyl and gets a genuinely mixed reception rather than uniform dismissal – some Discogs owners describe it as "spectacular" and prefer its cooler, more mellow top end to the Tone Poet's. [A direct A/B against the Tone Poet stereo](https://www.youtube.com/watch?v=AYcrOO5TVrM) found the DMM pressing "fine, nothing remarkable" on its own, but clearly thinner and less resolving once heard back-to-back with the Tone Poet – more emphasis in the high-mids, less depth and resonance in the instruments. A reasonable budget option if a Tone Poet or original isn't in reach, but not a substitute for either. **$15–$40.**
@@ -155,6 +159,7 @@ A Direct Metal Mastering pressing from 1993, licensed via Manhattan Records and 
 | **B** | Japanese King GXK-8055 stereo | GXK-8055 | 1978 | Stereo, 33⅓ | Licensed Japanese pressing; King Record Co. | LJC: "closer to originals"; dead-quiet | [Discogs](https://www.discogs.com/release/2912145-John-Coltrane-Blue-Train) |
 | **C** | BST 1577 stereo original | BST 1577 | 1960 | Stereo, 33⅓ | RVG / Plastylite; native stereo | Hard-left horn placement; not preferred for listening | [Discogs](https://www.discogs.com/release/7303391-John-Coltrane-Blue-Train) |
 | **D** | 1970s–80s general reissues | Various | 1970s–80s | Stereo, 33⅓ | Various | Not recommended; some exceptions (1973 Black B) reported | – |
+| **D** | 2018 60th Anniversary color vinyl | Various | 2018 | Stereo, 33⅓, 180g | Mastering/source uncredited for this pressing | Sound of Vinyl exclusive, 1,000 copies; collectible, not an audiophile pick | – |
 | **D** | 1993 CEMA/Capitol DMM reissue (Manhattan Records) | Various | 1993 | Stereo, 33⅓ | Direct Metal Mastering, "original historical master tape" per sleeve | Budget option; mixed reception – some prefer its warmer top end, direct A/B against Tone Poet found it clearly thinner/less resolving | [Discogs](https://www.discogs.com/release/1309909-John-Coltrane-Blue-Train) |
 | **D** | Ron McMaster-mastered EU reissue | Various | 1990s–2000s | Stereo, 33⅓, 180g | Digital-era analog masters → Ron McMaster | Budget option; "flat and quiet" but less dynamic | [Discogs](https://www.discogs.com/release/8067003-John-Coltrane-Blue-Train) |
 | **D** | Blue Note 75th Anniversary (Back To Black) | B0020560-01 | 2014 | Mono, 33⅓, 180g | Digital source (Back To Black) | Genuinely mixed reception, not uniformly bad; Tone Poet mono safer if available | [Discogs](https://www.discogs.com/release/5612513-John-Coltrane-Blue-Train) |
