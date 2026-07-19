@@ -7,7 +7,9 @@
 *Brilliant Corners* was never recorded in stereo, so the entire collector conversation is about who has cut the most transparent mono transfer from the original tape. Three genuine all-analog audiophile mono cuts now exist alongside the original Riverside pressing, each mastered by a different engineer on different equipment, which makes this an unusually clean hierarchy to navigate compared to titles with murkier tape provenance.
 
 **Best early pressing for audiophiles:** [Original Riverside first pressing, RLP 12-226](https://www.discogs.com/release/3835076-Thelonious-Monk-Brilliant-Corners) – white label, deep groove, "418 West 49th St" jacket; under $50 for well-worn examples to $600+ for near-mint copies.
+
 **Best modern pressing for audiophiles:** [Craft Recordings Small Batch one-step, CR00502](https://www.discogs.com/release/28210087-Thelonious-Monk-Brilliant-Corners) – all-analog, cut by Bernie Grundman, one-step lacquer process.
+
 **Best-value modern:** [Analogue Productions mono LP, AAPJ 12-226](https://www.discogs.com/release/30804867-Thelonious-Monk-Brilliant-Corners) – Kevin Gray cut, widely available new for $30–85.
 
 ## Recording history and tape provenance
