@@ -54,7 +54,7 @@ Several 1970s-era reissues circulate on Liberty/United Artists-period labels, ge
 
 ## Japanese pressings
 
-**King Records (1980)** – a well-regarded Japanese pressing, described by collectors who own it as having "huge sound, very crisp, wide and dynamic" with excellent instrument separation and notably quiet vinyl. A strong vintage alternative for those who want an analog-era pressing without chasing an expensive US original. **$40–$90 with obi.**
+**King Records GXF-3178 (1980)** – a well-regarded Japanese pressing, described by collectors who own it as having "huge sound, very crisp, wide and dynamic" with excellent instrument separation and notably quiet vinyl. A strong vintage alternative for those who want an analog-era pressing without chasing an expensive US original. [Discogs](https://www.discogs.com/release/3611482-Grant-Green-Idle-Moments) **$40–$90 with obi.**
 
 ---
 
@@ -62,7 +62,7 @@ Several 1970s-era reissues circulate on Liberty/United Artists-period labels, ge
 
 **$ (Budget):** The [**Blue Note Classic Vinyl**](https://www.discogs.com/release/19865380-Grant-Green-Idle-Moments) – Kevin Gray mastering, Optimal pressing; buy from a seller who accepts returns given reported QC variance.
 
-**$$ (Affordable):** The **King Records Japan pressing (1980)** for a well-regarded vintage alternative.
+**$$ (Affordable):** The [**King Records Japan pressing (GXF-3178, 1980)**](https://www.discogs.com/release/3611482-Grant-Green-Idle-Moments) for a well-regarded vintage alternative.
 
 **$$$ (Mid-range):** The [**Music Matters 33⅓ SRX (2020)**](https://www.discogs.com/release/14993986-Grant-Green-Idle-Moments) for the upgraded Cohearent Audio mastering chain.
 
@@ -83,7 +83,7 @@ Several 1970s-era reissues circulate on Liberty/United Artists-period labels, ge
 | **A** | Original BLP 4154 mono | BLP 4154 | 1965 | Mono, 33⅓ | RVG / Plastylite | NY USA label era | [Discogs](https://www.discogs.com/release/3163215-Grant-Green-Idle-Moments) |
 | **B** | Blue Note Classic Vinyl | BST 84154 | c.2021 | Stereo, 33⅓, 180g | Kevin Gray, Optimal | Best-value modern; some QC variance reported | [Discogs](https://www.discogs.com/release/19865380-Grant-Green-Idle-Moments) |
 | **B** | Blue Note 75th Anniversary | – | 2014 | Stereo, 33⅓ | Bernie Grundman | Mixed pressing QC reports; buy with return policy | [Discogs](https://www.discogs.com/release/5738035-Grant-Green-Idle-Moments) |
-| **B** | King Records Japan pressing | – | 1980 | Stereo, 33⅓ | Licensed Japanese pressing | Highly praised for dynamics and quiet vinyl | – |
+| **B** | King Records Japan pressing | GXF-3178 | 1980 | Stereo, 33⅓ | Licensed Japanese pressing | Highly praised for dynamics and quiet vinyl | [Discogs](https://www.discogs.com/release/3611482-Grant-Green-Idle-Moments) |
 | **C** | Liberty-era US reissue | BST 84154 | 1971–73 | Stereo, 33⅓ | Later US metalwork | Well-regarded, affordable | [Discogs](https://www.discogs.com/release/4393358-Grant-Green-Idle-Moments) |
 
 ## References
