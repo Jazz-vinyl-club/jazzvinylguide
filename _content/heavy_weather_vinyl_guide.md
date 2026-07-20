@@ -65,6 +65,10 @@ A direct comparison from Discogs against the Music on Vinyl pressing: "Compared 
 
 **Cat. 25AP 357** | Format: 33⅓, stereo, obi strip with yellow obi and one-sided brown insert with Japanese liner notes. **CBS/Sony Inc., Tokyo Japan.** Released simultaneously with the US edition in 1977. [Discogs](https://www.discogs.com/release/13432557-Weather-Report-Heavy-Weather) owners are enthusiastic: "Yeah this is a brilliant sounding pressing of a brilliant album. The dynamics of this record will truly blow you away. I haven't heard a US pressing but I would honestly be shocked if there was any version of this album with better instrument separation and punch." Another: "Surprisingly sounds better than the US copy. It's brighter and has better dynamics." Dead-quiet CBS/Sony vinyl. Note: some Japanese copies list Jaco Pastorius as appearing "by courtesy of Epic Records," reflecting his solo contract status at the time. **$40–$100 NM with obi.**
 
+### Friday Music 180g – a newer audiophile alternative
+
+Format: 180g LP, 33⅓, gatefold jacket reproducing the original Lou Beach cover design. **Mastered by Joe Reagoso at Friday Music Studios, pressed at RTI.** Marketed by Friday Music as their first audiophile vinyl pressing of this title, released as a limited "anniversary edition" with gatefold packaging for a short period. No independent sound-quality comparisons against the ORG or original pressing have surfaced yet; treat as a newer alternative worth investigating rather than a confirmed recommendation, given the lack of direct comparisons available. No specific Discogs release ID confirmed. **Pricing not well established; check current listings.**
+
 ### Speakers Corner SC 34418 180g – the European alternative
 
 **Cat. SC 34418** | Format: 180g LP, 33⅓, single LP, gatefold. **Pressed at Pallas, Germany.** The Speakers Corner edition is a well-regarded European audiophile pressing, available at a more accessible secondary price than the ORG. Pallas vinyl is consistently quiet and flat. [Discogs r2342633](https://www.discogs.com/release/2342633-Weather-Report-Heavy-Weather)
@@ -108,6 +112,7 @@ A 2023 repress on **peach coloured vinyl** (r28540660, 1,500 numbered copies) us
 | **S** | ORG 2LP 45rpm 180g | ORGM-2009 | 2011 | Stereo, 45rpm, 2×180g | Orig analog tapes → Bernie Grundman, RTI | Vinyl Gourmet-selected; Fremer-reviewed; 2,500 copies | [Discogs](https://www.discogs.com/release/3526540-Weather-Report-Heavy-Weather) |
 | **A** | Original US Columbia – Terre Haute press | PC 34418 | 1977 | Stereo, 33⅓ | Original Columbia lacquer; Terre Haute plant | "T" or no plant code in deadwax | [Discogs](https://www.discogs.com/release/877385-Weather-Report-Heavy-Weather) |
 | **B** | Japanese CBS/Sony 25AP 357 | 25AP 357 | 1977 | Stereo, 33⅓ | Japanese CBS/Sony pressing | "Better dynamics than US copy"; dead-quiet | [Discogs](https://www.discogs.com/release/13432557-Weather-Report-Heavy-Weather) |
+| **B** | Friday Music 180g | – | 2020s | Stereo, 33⅓, 180g | Joe Reagoso, Friday Music Studios, RTI | Newer alternative; no independent comparisons found yet | – |
 | **B** | Speakers Corner SC 34418 180g | SC 34418 | 2000s | Stereo, 33⅓, 180g | Licensed; Pallas pressing | Quiet Pallas vinyl; good European option | [Discogs](https://www.discogs.com/release/2342633-Weather-Report-Heavy-Weather) |
 | **B** | Music on Vinyl MOVLP088 180g | MOVLP088 | 2011 | Stereo, 33⅓, 180g | Licensed Sony; EU pressing | Warm with boosted bass; best-value modern | [Discogs](https://www.discogs.com/release/4332389-Weather-Report-Heavy-Weather) |
 | **B** | Original US Columbia – other plants | PC 34418 | 1977 | Stereo, 33⅓ | Original Columbia lacquer; Pitman/Santa Maria | Check plant code; Pitman and Santa Maria acceptable | [Discogs](https://www.discogs.com/release/10355513-Weather-Report-Heavy-Weather) |
@@ -124,4 +129,5 @@ A 2023 repress on **peach coloured vinyl** (r28540660, 1,500 numbered copies) us
 - AnalogPlanet, "ORG Reinvents Heavy Weather": [https://www.analogplanet.com/content/org-reinvents-heavy-weather](https://www.analogplanet.com/content/org-reinvents-heavy-weather)
 - Tone Publications, review of the ORG reissue vs. an original 1A/1B pressing: [https://www.tonepublications.com/analog/weather-report-heavy-weather/](https://www.tonepublications.com/analog/weather-report-heavy-weather/)
 - The Absolute Sound, review of the ORG reissue: [https://www.theabsolutesound.com/articles/weather-report-heavy-weather/](https://www.theabsolutesound.com/articles/weather-report-heavy-weather/)
-- Discogs release and community listings for all pressings referenced in the tier table above (original PC 34418, ORG ORGM-2009, Japanese CBS/Sony 25AP 357, Speakers Corner SC 34418, Music on Vinyl MOVLP088)
+- Discogs release and community listings for all pressings referenced in the tier table above (original PC 34418, ORG ORGM-2009, Japanese CBS/Sony 25AP 357, Speakers Corner SC 34418, Music on Vinyl MOVLP088, Friday Music 180g)
+- Elusive Disc, product page for the Friday Music 180g LP: [https://elusivedisc.com/the-weather-report-heavy-weather-180g-lp/](https://elusivedisc.com/the-weather-report-heavy-weather-180g-lp/)
