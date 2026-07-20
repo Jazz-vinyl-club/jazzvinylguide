@@ -48,6 +48,10 @@ Toshiba-EMI issued this title in Japan with Japanese liner notes and an obi ([Di
 
 ## The reissue hierarchy
 
+### Music Matters 33rpm (2014) – a distinct, fresh mastering from the 75th Anniversary series
+
+**Cat. 33BST-4167** | Format: 180g LP, 33⅓, stereo, gatefold. **Mastered by Kevin Gray at Cohearent Audio, from the original Van Gelder master tapes, pressed at RTI.** Released as part of Music Matters' 2014 75th Anniversary campaign, this is not simply a slower cut of the same 45rpm lacquer above – Music Matters described undertaking a significant studio upgrade (new front-end electronics, new cabling) specifically to make the 33rpm format a fully credible standalone alternative to their 45rpm series, rather than a compromise. Now out of print. **$100–$200 secondary.**
+
 ### Music Matters 45rpm 2LP (2015) – the audiophile benchmark
 
 **Cat. MMBST-84167** | Format: 2×180g LP, 45rpm, stereo, gatefold, limited to 2,500 copies. **Mastered by Kevin Gray at AcousTech, from the original master tapes.** Owners consistently call this the best-sounding version available: "This is the best sounding version of this post bop/avant classic available... worth every penny," with several reviewers noting the extra resolution of the 45rpm format makes the wide stereo separation between Dolphy/Dorham (left) and Henderson/Williams (right) especially vivid. Out of print. [Discogs](https://www.discogs.com/release/2530637-Andrew-Hill-Point-Of-Departure) **$150–$300 secondary.**
@@ -81,6 +85,7 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
 | **S** | Music Matters 45rpm 2LP | MMBST-84167 | 2015 | Stereo, 45rpm, 2×180g | Orig tape → Kevin Gray, AcousTech | Limited/2,500; definitive modern pressing | [Discogs](https://www.discogs.com/release/2530637-Andrew-Hill-Point-Of-Departure) |
+| **A** | Music Matters 33rpm | 33BST-4167 | 2014 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Cohearent, RTI | Distinct fresh mastering, not a slower 45rpm cut; OOP | – |
 | **A** | Original BST 84167 stereo, NY USA label | BST 84167 | 1965 | Stereo, 33⅓ | RVG stamp | Genuine stereo, not rechanneled | [Discogs](https://www.discogs.com/release/4393383-Andrew-Hill-Point-Of-Departure) |
 | **A** | Original BLP 4167 mono, NY USA label | BLP 4167 | 1965 | Mono, 33⅓ | RVG stamp | Possible alternate "Refuge" take vs later pressings | [Discogs](https://www.discogs.com/release/2108087-Andrew-Hill-Point-Of-Departure) |
 | **B** | Blue Note Classic Vinyl | 4535330 | 2022 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Optimal | Best value; some pressing-defect reports | [Discogs](https://www.discogs.com/release/25191424-Andrew-Hill-Point-Of-Departure) |
@@ -90,7 +95,7 @@ No specific bootleg or notably compromised pressing of this title is widely docu
 ## References
 
 - Discogs (master): [https://www.discogs.com/master/140559-Andrew-Hill-Point-Of-Departure](https://www.discogs.com/master/140559-Andrew-Hill-Point-Of-Departure)
-- LondonJazzCollector, notes on mono/stereo take variance for "Refuge"
+- LondonJazzCollector, "Andrew Hill: Point of Departure (1964) Blue Note": [https://londonjazzcollector.wordpress.com/2013/01/15/andrew-hill-point-of-departure-1964-blue-note/](https://londonjazzcollector.wordpress.com/2013/01/15/andrew-hill-point-of-departure-1964-blue-note/)
 - AllMusic, Thom Jurek's review: [https://www.allmusic.com/album/point-of-departure-mw0000243448](https://www.allmusic.com/album/point-of-departure-mw0000243448)
-- Discogs release and community listings for all pressings referenced in the tier table above (original BLP 4167/BST 84167, Music Matters 45rpm, Blue Note Classic Vinyl, Japanese Toshiba-EMI pressing, Liberty/United Artists-era pressings)
+- Discogs release and community listings for all pressings referenced in the tier table above (original BLP 4167/BST 84167, Music Matters 33rpm and 45rpm, Blue Note Classic Vinyl, Japanese Toshiba-EMI pressing, Liberty/United Artists-era pressings)
 - YouTube, Ten-Minute Record Reviews, "Andrew Hill - Point Of Departure (Episode 347)": [https://www.youtube.com/watch?v=0tCMyJ_kdx4](https://www.youtube.com/watch?v=0tCMyJ_kdx4)
