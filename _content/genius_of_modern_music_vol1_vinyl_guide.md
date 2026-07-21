@@ -28,7 +28,7 @@ Critical and historical stature has only grown: these sessions contain the first
 
 ### 1956 first pressing – BLP 1510
 
-Identifying features of the true first edition: "767 Lexington Ave" address on the labels, flat (not stepped) disc edge, framed front cover art, RVG etched in the deadwax, deep groove, and the Plastylite "P" ear. [Discogs](https://www.discogs.com/release/2587385-Thelonious-Monk-Genius-Of-Modern-Music-Volume-One) **$200–$500 NM**, reflecting genuine scarcity for a 1956 Blue Note original.
+Identifying features of the true first edition: "767 Lexington Ave" address on the labels, flat (not stepped) disc edge, framed front cover art, RVG etched in the deadwax, deep groove, and the Plastylite "P" ear. [Discogs](https://www.discogs.com/release/2587385-Thelonious-Monk-Genius-Of-Modern-Music-Volume-One) commands genuinely high prices for a clean NM copy, reflecting real scarcity for a 1956 Blue Note original.
 
 ### The 1951 10" LP – a rarer historical curiosity
 
@@ -38,13 +38,13 @@ The original 10" compilation, also titled *Genius of Modern Music* (catalog BLP 
 
 ## Japanese pressings
 
-Blue Note's catalog was licensed to King Records and later Toshiba EMI in Japan across several distinct series. This title appeared as **King GXF-3014** (1977, limited edition, part of King's higher-tier GXF series), **King GXK-8058** (1977–1980, part of the larger "Blue Note Masterpiece Selection 150" series), and later as part of **Toshiba EMI's "Blue Note BLP 1500 Series Part 1"** (c. 1983). As with other King/Toshiba Blue Note licenses, the earlier, more limited GXF series generally commands a premium over the larger-run GXK series among Japanese-pressing collectors. **$40–$100 with obi, depending on series.**
+Blue Note's catalog was licensed to King Records and later Toshiba EMI in Japan across several distinct series. This title appeared as **King GXF-3014** (1977, limited edition, part of King's higher-tier GXF series), **King GXK-8058** (1977–1980, part of the larger "Blue Note Masterpiece Selection 150" series), and later as part of **Toshiba EMI's "Blue Note BLP 1500 Series Part 1"** (c. 1983). As with other King/Toshiba Blue Note licenses, the earlier, more limited GXF series generally commands a premium over the larger-run GXK series among Japanese-pressing collectors. Typically found with obi.
 
 ---
 
 ## French pressing
 
-A 1972 French reissue, **Blue Note BST 81.510 U**, is worth knowing about as a cheap entry point: [confirmed via Discogs](https://www.discogs.com/release/5796502-Thelonious-Monk-Genius-Of-Modern-Music), it's a stereo LP, readily available and inexpensive on the secondary market ($10–$20 typically). No dedicated sound-quality reviews have surfaced, and reception via Discogs ratings is middling (around 3/5) rather than enthusiastic – treat it as an affordable curiosity rather than a serious audiophile alternative to the Classic Vinyl or an original mono pressing. **$10–$20.**
+A 1972 French reissue, **Blue Note BST 81.510 U**, is worth knowing about as a cheap entry point: [confirmed via Discogs](https://www.discogs.com/release/5796502-Thelonious-Monk-Genius-Of-Modern-Music), it's a stereo LP, readily available and inexpensive on the secondary market. No dedicated sound-quality reviews have surfaced, and reception via Discogs ratings is middling (around 3/5) rather than enthusiastic – treat it as an affordable curiosity rather than a serious audiophile alternative to the Classic Vinyl or an original mono pressing.
 
 ---
 
@@ -52,7 +52,7 @@ A 1972 French reissue, **Blue Note BST 81.510 U**, is worth knowing about as a c
 
 ### Blue Note Classic Vinyl (2022) – the recommended modern pressing
 
-**Cat. 4535336 / BLP 1510** | Format: Mono, 180g, 2022 | **Mastered by Kevin Gray at Cohearent Audio, pressed at Optimal in Germany.** Discogs owners consistently describe this as about as good as this material will ever sound – the source recordings' inherent limitations (none originally captured with high fidelity in mind) cap what any mastering engineer can extract, and Gray's cut is widely praised for handling that honestly rather than over-processing it. One owner: "Of course the original recording was always going to be a challenge for any modern remaster to wring any extra fidelity out of the master tapes... this is about as good as this will ever sound. The pressing was perfect, no noise or defects." [Discogs](https://www.discogs.com/release/25484383-Thelonious-Monk-Genius-Of-Modern-Music-Volume-One) **$25–$40 new.**
+**Cat. 4535336 / BLP 1510** | Format: Mono, 180g, 2022 | **Mastered by Kevin Gray at Cohearent Audio, pressed at Optimal in Germany.** Discogs owners consistently describe this as about as good as this material will ever sound – the source recordings' inherent limitations (none originally captured with high fidelity in mind) cap what any mastering engineer can extract, and Gray's cut is widely praised for handling that honestly rather than over-processing it. One owner: "Of course the original recording was always going to be a challenge for any modern remaster to wring any extra fidelity out of the master tapes... this is about as good as this will ever sound. The pressing was perfect, no noise or defects." [Discogs](https://www.discogs.com/release/25484383-Thelonious-Monk-Genius-Of-Modern-Music-Volume-One)
 
 ---
 
