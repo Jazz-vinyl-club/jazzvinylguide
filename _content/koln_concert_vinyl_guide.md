@@ -48,11 +48,11 @@ These are the premium first-issue copies. **€100–€250 NM.**
 
 ### US Polydor pressing
 
-**Cat. 2-25002** (US catalogue number, Polydor distribution). The US copies were mastered at Sterling Sound and pressed at various US plants, including Columbia's facilities, from ECM-supplied masters. Tonally slightly drier than the German pressings; the Polydor rim text and label design distinguish them. **$20–$60.**
+**Cat. 2-25002** (US catalogue number, Polydor distribution). The US copies were mastered at Sterling Sound and pressed at various US plants, including Columbia's facilities, from ECM-supplied masters. Tonally slightly drier than the German pressings; the Polydor rim text and label design distinguish them.
 
 ### Japanese Polydor/Trio pressing
 
-**Cat. PA-6053/PA-6054** ([Discogs](https://www.discogs.com/release/490628-Keith-Jarrett-The-K%C3%B6ln-Concert)), distributed by Trio-Kenwood Corporation, with Japanese liner notes and an interview with Manfred Eicher printed on the obi. Collector opinion is split against the German original – one Discogs reviewer called it "too perfect," finding the German pressing livelier with more dynamics and audible room ambience – but it remains a well-regarded, quiet-vinyl alternative for those building out a full Jarrett collection. **$40–$100 with obi.**
+**Cat. PA-6053/PA-6054** ([Discogs](https://www.discogs.com/release/490628-Keith-Jarrett-The-K%C3%B6ln-Concert)), distributed by Trio-Kenwood Corporation, with Japanese liner notes and an interview with Manfred Eicher printed on the obi. Collector opinion is split against the German original – one Discogs reviewer called it "too perfect," finding the German pressing livelier with more dynamics and audible room ambience – but it remains a well-regarded, quiet-vinyl alternative for those building out a full Jarrett collection. Typically found with obi.
 
 ---
 
