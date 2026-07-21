@@ -328,6 +328,9 @@ def html_shell(title, description, body, canonical_path="/", structured_data=Non
   <title>{title} — Jazz Vinyl Guide</title>
   <meta name="description" content="{description}">
   <link rel="canonical" href="{canonical_url}">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
   <link rel="stylesheet" href="/style.css">{robots_tag}
   <meta property="og:type" content="{og_type}">
   <meta property="og:site_name" content="Jazz Vinyl Guide">
