@@ -445,7 +445,7 @@ def build_index(albums):
         f.write(html_shell("Jazz Vinyl Guide", HOME_DESCRIPTION, body, canonical_path="/", structured_data=website_ld))
     print("  ✓ index.html")
 
-def build_album(album):
+def build_album(album, last_updated=None):
     slug, title, artist, label, year = album['slug'], album['title'], album['artist'], album['label'], album['year']
     cp = os.path.join(CONTENT_DIR, album['content_file'])
     if not os.path.exists(cp):
@@ -513,7 +513,7 @@ def build_album(album):
   </article>
 </div>'''
 
-    last_updated = get_last_updated(album['content_file'])
+    last_updated = last_updated if last_updated is not None else get_last_updated(album['content_file'])
     breadcrumb_ld = {
         "@type": "BreadcrumbList",
         "itemListElement": [
@@ -688,15 +688,15 @@ def build_status(albums):
     print("  \u2713 status.html")
 
 
-def build_sitemap(albums):
-    from datetime import date
+def build_sitemap(albums, lastmod_by_file=None):
+    lastmod_by_file = lastmod_by_file or {}
     urls = [
         (SITE_URL + "/", "1.0"),
         (SITE_URL + "/about.html", "0.5"),
         (SITE_URL + "/contribute.html", "0.5"),
     ]
     for a in albums:
-        lastmod = get_last_updated(a['content_file'])
+        lastmod = lastmod_by_file.get(a['content_file'])
         urls.append((f"{SITE_URL}/albums/{a['slug']}.html", "0.8", lastmod))
     entries = []
     for entry in urls:
@@ -726,9 +726,15 @@ def main():
         print("Building all pages...")
         build_index(albums)
         build_status(albums)
-        build_sitemap(albums)
+        # One GitHub API call per album, not two (build_album's Article
+        # dateModified and build_sitemap's <lastmod> used to each fetch this
+        # independently - up to 100 calls in one build, well past GitHub's
+        # 60/hour unauthenticated rate limit, so most silently failed and
+        # lastmod/dateModified were near-always empty).
+        lastmod_by_file = {a['content_file']: get_last_updated(a['content_file']) for a in albums}
+        build_sitemap(albums, lastmod_by_file)
         for a in albums:
-            build_album(a)
+            build_album(a, lastmod_by_file.get(a['content_file']))
             build_changelog(a)
     print("\nDone.")
 
