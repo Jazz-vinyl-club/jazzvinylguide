@@ -116,7 +116,7 @@ Discogs owners: "Every bit as good as you would expect it to be. If you love thi
 
 **$$$$ (Premium):** The [**MoFi UltraDisc One-Step UD1S 2-022 (2023)**](https://www.discogs.com/release/29043274-Cannonball-Adderley-Somethin-Else) – finest pressing quality, lowest noise floor, but reception is genuinely divided against the AP and Music Matters SRX; well-documented QC issues (fingerprints, dirty vinyl on arrival) are worth knowing about before buying.
 
-**$400+:** An original [**47 West 63rd (no "Inc.") BLP 1595 first pressing**](https://www.discogs.com/release/982633-Cannonball-Adderley-Somethin-Else) with RVG etched and Plastylite P – Van Gelder's original tube-era lacquer, the most direct connection to the session.
+**$$$$$ (Grail / Rare):** An original [**47 West 63rd (no "Inc.") BLP 1595 first pressing**](https://www.discogs.com/release/982633-Cannonball-Adderley-Somethin-Else) with RVG etched and Plastylite P – Van Gelder's original tube-era lacquer, the most direct connection to the session.
 
 ---
 

@@ -144,7 +144,7 @@ DOL releases are generally regarded with scepticism due to their unlicensed, dig
 
 **$$$$ (Premium):** A clean [**Bergenfield second pressing**](https://www.discogs.com/release/7230759-Sonny-Rollins-Saxophone-Colossus) with RVG hand-etched – original Van Gelder metalwork at a fraction of first-pressing price; sonically considered equivalent.
 
-**$400+:** The [**yellow-label 446 W. 50th first pressing**](https://www.discogs.com/release/3934932-Sonny-Rollins-Saxophone-Colossus) in honest VG+ or better. Truly NM copies are genuinely rare; factor groove condition heavily.
+**$$$$$ (Grail / Rare):** The [**yellow-label 446 W. 50th first pressing**](https://www.discogs.com/release/3934932-Sonny-Rollins-Saxophone-Colossus) in honest VG+ or better. Truly NM copies are genuinely rare; factor groove condition heavily.
 
 ---
 

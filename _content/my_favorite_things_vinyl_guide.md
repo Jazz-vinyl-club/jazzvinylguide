@@ -164,7 +164,7 @@ The 2022 Kevin Gray 60th Anniversary 2LP gives most listeners their best practic
 
 **$$$$$ (Grail / Rare):** The [**ORG Music 45rpm 2LP (ORGM-1080)**](https://www.discogs.com/release/5109867-John-Coltrane-My-Favorite-Things) on the resale market remains competitive with the AP as a pure-sonic proposition, if you can accept the poor jacket. Grundman's take on this recording has a loyal following. A [**NM white-fan mono A-1361**](https://www.discogs.com/release/13040821-John-Coltrane-My-Favorite-Things) original also becomes accessible in this range – the holy grail for mono enthusiasts, offering a listening experience the modern reissues approximate but cannot fully replicate.
 
-**$400+:** Genuine [**first-pressing white-fan mono with ankh deadwax**](https://www.discogs.com/release/13040821-John-Coltrane-My-Favorite-Things) in NM condition; or the **ERC true mono** if a copy can be found. Both represent the highest collector tier for this album.
+**$$$$$ (Grail / Rare):** Genuine [**first-pressing white-fan mono with ankh deadwax**](https://www.discogs.com/release/13040821-John-Coltrane-My-Favorite-Things) in NM condition; or the **ERC true mono** if a copy can be found. Both represent the highest collector tier for this album.
 
 **The one-copy answer:** The [**2022 Rhino 60th Anniversary 2LP**](https://www.discogs.com/release/23290832-John-Coltrane-My-Favorite-Things) for most people – it gives you both formats from the best available tapes at a price that makes sense. If stereo-only listening from the best possible source is your aim, the [**AP AAPA 011-45**](https://www.discogs.com/release/30049555-John-Coltrane-My-Favorite-Things) is the current answer. If budget allows, pair them.
 

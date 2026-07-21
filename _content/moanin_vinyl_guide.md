@@ -174,7 +174,7 @@ For most buyers choosing among modern stereo reissues, the 33rpm format (Music M
 
 **$$$$$ (Grail / Rare):** The [**AP 2008 original RTI numbered edition (ABNJ 84003)**](https://www.discogs.com/release/2942743-Art-Blakey-And-The-Jazz-Messengers-Moanin) and **NM stereo 47W63rd label BST 84003 with INC+®** both appear in this range – the original for its historical status and the AP for its sonic achievement.
 
-**$600+:** NM [**original mono BLP 4003 47W63rd label**](https://www.discogs.com/release/757945-Art-Blakey-And-The-Jazz-Messengers-Art-Blakey-And-The-Jazz-Messengers) without ® – the holy grail. A properly graded NM copy approaches the original studio sound as closely as any vinyl ever will. The "no ® INC" copies in genuine NM condition are now seldom encountered at any price.
+**$$$$$ (Grail / Rare):** NM [**original mono BLP 4003 47W63rd label**](https://www.discogs.com/release/757945-Art-Blakey-And-The-Jazz-Messengers-Art-Blakey-And-The-Jazz-Messengers) without ® – the holy grail. A properly graded NM copy approaches the original studio sound as closely as any vinyl ever will. The "no ® INC" copies in genuine NM condition are now seldom encountered at any price.
 
 For most listeners, the Blue Note Classic Vinyl Series covers the essential listening experience at low cost. For serious collection, the [**Music Matters 33rpm (MMBST-84003)**](https://www.discogs.com/release/5851206-Art-Blakey-And-The-Jazz-Messengers-Moanin) is the superior modern pressing if budget and secondary-market availability allow. For the ultimate: the AP 2011 QRP 200g (ABNJ 84003).
 

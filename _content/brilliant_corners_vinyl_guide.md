@@ -86,7 +86,7 @@ This title has been reissued more than 100 times, and a wave of European public-
 
 **$$$$ (Premium):** [Craft Recordings Small Batch, CR00502](https://www.discogs.com/release/28210087-Thelonious-Monk-Brilliant-Corners) (secondary market) – one-step mastering by Bernie Grundman, the standout modern pressing.
 
-**$200+:** [Electric Recording Company, ERC051](https://www.discogs.com/release/15132913-Thelonious-Monk-Brilliant-Corners) for the ultimate boutique pressing, or a clean [original 1957 RLP 12-226](https://www.discogs.com/release/3835076-Thelonious-Monk-Brilliant-Corners) first pressing for collectors who want the genuine vintage article. The out-of-print [Analogue Productions 45rpm set (AJAZ 12-226)](https://www.discogs.com/release/3917269-Thelonious-Monk-Brilliant-Corners) also lives in this bracket when copies surface.
+**$$$$$ (Grail / Rare):** [Electric Recording Company, ERC051](https://www.discogs.com/release/15132913-Thelonious-Monk-Brilliant-Corners) for the ultimate boutique pressing, or a clean [original 1957 RLP 12-226](https://www.discogs.com/release/3835076-Thelonious-Monk-Brilliant-Corners) first pressing for collectors who want the genuine vintage article. The out-of-print [Analogue Productions 45rpm set (AJAZ 12-226)](https://www.discogs.com/release/3917269-Thelonious-Monk-Brilliant-Corners) also lives in this bracket when copies surface.
 
 ---
 

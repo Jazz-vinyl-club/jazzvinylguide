@@ -67,7 +67,7 @@ An unofficial, unlicensed pressing (catalog ACL0087) circulates outside the main
 
 **$$$ (Mid-range):** A clean [original Impulse! stereo pressing](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) – median price for this title is around $56, making a decent original realistically attainable.
 
-**$100+:** A near-mint, laminated-gatefold original first pressing (single-box logo, no ®) for collectors chasing the earliest possible copy.
+**$$$$$ (Grail / Rare):** A near-mint, laminated-gatefold original first pressing (single-box logo, no ®) for collectors chasing the earliest possible copy.
 
 ---
 

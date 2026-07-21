@@ -79,7 +79,7 @@ A 2022 reissue on the UK public-domain label Not Now Music (barcode 506034858333
 
 **$$$ (Mid-range):** The Milestone *While We're Young* twofer (47003) – secondhand, generally well-regarded for its balance.
 
-**$120+:** A clean original – [mono RLP 12-320](https://www.discogs.com/release/1340330-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) or [stereo RLP 1169](https://www.discogs.com/release/6024135-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) – still, by most informed accounts, the best-sounding way to hear this recording.
+**$$$$$ (Grail / Rare):** A clean original – [mono RLP 12-320](https://www.discogs.com/release/1340330-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) or [stereo RLP 1169](https://www.discogs.com/release/6024135-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) – still, by most informed accounts, the best-sounding way to hear this recording.
 
 ---
 

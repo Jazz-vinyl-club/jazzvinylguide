@@ -87,7 +87,7 @@ A red-vinyl reissue (catalog 350234) circulating from a European public-domain l
 
 **$$$ (Mid-range):** [**Classic Records 200g SV-P (1998)**](https://www.discogs.com/release/2426187-Miles-Davis-Sketches-Of-Spain) – Bernie Grundman's more forward, immediate cut, now only findable used.
 
-**$120+:** The [**Mobile Fidelity UltraDisc One-Step (2025)**](https://mofi.com/shop/music/vinyl/miles-davis-sketches-of-spain-numbered-180g-vinyl-lp/) for the current state of the art, while numbered copies remain available.
+**$$$$ (Premium):** The [**Mobile Fidelity UltraDisc One-Step (2025)**](https://mofi.com/shop/music/vinyl/miles-davis-sketches-of-spain-numbered-180g-vinyl-lp/) for the current state of the art, while numbered copies remain available.
 
 ---
 
