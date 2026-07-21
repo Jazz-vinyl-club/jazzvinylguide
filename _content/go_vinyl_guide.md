@@ -6,11 +6,11 @@
 
 Gordon named *Go!* the favourite of all his recordings: "The perfect rhythm section which made it possible for me to play whatever I wanted to play." Sonny Clark died in January 1963 aged 31 – just four months after this session – making this among his finest and last recordings. The recording is hard bop at full stretch: big tone, storytelling solos, and a rhythm section that never lets up. The Analogue Productions 45rpm 2LP is the reference pressing; the Music Matters 33rpm is the excellent alternative; the Blue Note Classic Vinyl is the accessible entry point.
 
-**Best early pressing for audiophiles:** [Original Blue Note BLP 4112 mono, NY USA label](https://www.discogs.com/release/3380665-Dexter-Gordon-Go) – deep groove, Van Gelder stamp, Plastylite ear; $300–$700 NM.
+**Best early pressing for audiophiles:** [Original Blue Note BLP 4112 mono, NY USA label](https://www.discogs.com/release/3380665-Dexter-Gordon-Go) – deep groove, Van Gelder stamp, Plastylite ear.
 
-**Best modern pressing for audiophiles:** [Analogue Productions AP-84112 45rpm 2LP 180g (2008)](https://www.discogs.com/release/3747701-Dexter-Gordon-Go) – Kevin Gray and Steve Hoffman, AcousTech, QRP; $150–$300 secondary.
+**Best modern pressing for audiophiles:** [Analogue Productions AP-84112 45rpm 2LP 180g (2008)](https://www.discogs.com/release/3747701-Dexter-Gordon-Go) – Kevin Gray and Steve Hoffman, AcousTech, QRP.
 
-**Best-value modern:** [Blue Note Classic Vinyl BST 84112 180g (2021)](https://www.discogs.com/release/19583212-Dexter-Gordon-Go) – Kevin Gray, Optimal; ~$25–$35 new.
+**Best-value modern:** [Blue Note Classic Vinyl BST 84112 180g (2021)](https://www.discogs.com/release/19583212-Dexter-Gordon-Go) – Kevin Gray, Optimal.
 
 
 ## Recording history and tape provenance
@@ -60,11 +60,11 @@ Authentication markers for the earliest copies:
 
 [LJC](https://londonjazzcollector.wordpress.com/2011/10/16/bn-4112-dexter-gordon-go-1962/) describes the mono original: "Blue Note's usual superb bright rich forward presentation, in Mono, with Van Gelder working his magic in the mastering department." LJC also notes that Reid Miles "astutely highlights the first two letters of Gordon" in the cover design – the GO of Gordon forms the album title.
 
-**NM mono originals: $300–$700. NM stereo originals: $200–$500.**
+**NM mono originals command the highest prices; NM stereo originals sit a step below.**
 
 ### Liberty-era pressings (1966–1971)
 
-"A Division of Liberty Records Inc." label text. East Coast Van Gelder–stamped copies remain musically excellent. **$50–$120 VG+.**
+"A Division of Liberty Records Inc." label text. East Coast Van Gelder–stamped copies remain musically excellent.
 
 ---
 
@@ -74,21 +74,21 @@ Authentication markers for the earliest copies:
 
 **Cat. AP-84112** | Format: 2×180g LP, 45rpm, stereo, glossy gatefold with Blue Note fold-out catalogue. **Mastered by Kevin Gray and Steve Hoffman at AcousTech Mastering (KPG&SH@ATM confirmed in deadwax). Pressed at QRP.** Part of the first set of Analogue Productions Blue Note Reissues. Some copies are numbered by a sticker on the back. Selected for the Vinyl Gourmet Audiophile list.
 
-[Discogs](https://www.discogs.com/release/3747701-Dexter-Gordon-Go) community: "This pressing is simply phenomenal. Kevin Gray and Steve Hoffman have done a remarkable job bringing out every nuance." Another: "The AP is the definitive version of this album on vinyl. Nothing comes close." A third: "The 2021 Kevin Gray remaster is quite an improvement over this 2008 reissue" – a reference to the Classic Vinyl, which some find more revealing on modern systems. Now out of print. **$150–$300 secondary.**
+[Discogs](https://www.discogs.com/release/3747701-Dexter-Gordon-Go) community: "This pressing is simply phenomenal. Kevin Gray and Steve Hoffman have done a remarkable job bringing out every nuance." Another: "The AP is the definitive version of this album on vinyl. Nothing comes close." A third: "The 2021 Kevin Gray remaster is quite an improvement over this 2008 reissue" – a reference to the Classic Vinyl, which some find more revealing on modern systems. Now out of print.
 
 ### Music Matters 33rpm 180g (2014) – the 33rpm reference
 
-**Cat. MM33 BNST-84112** | Format: 180g LP, 33⅓, stereo, gatefold with session photos. **Mastered by Kevin Gray and Ron Rambach at Cohearent Audio, from the original Blue Note stereo master tapes. Pressed at RTI. Limited to 3,500 copies.** Matrix confirms: **MM33 BNST-84112-A P RR&KPG@CA 22333.1(3)**. Discogs owners: "One of the jazz albums of all time. MM, hats off to you." Another: "Finally got a MM version and wow. Beautiful pressing, cover and sound." Out of print. **$100–$200 secondary.** [Discogs r5687834](https://www.discogs.com/release/5687834-Dexter-Gordon-Go)
+**Cat. MM33 BNST-84112** | Format: 180g LP, 33⅓, stereo, gatefold with session photos. **Mastered by Kevin Gray and Ron Rambach at Cohearent Audio, from the original Blue Note stereo master tapes. Pressed at RTI. Limited to 3,500 copies.** Matrix confirms: **MM33 BNST-84112-A P RR&KPG@CA 22333.1(3)**. Discogs owners: "One of the jazz albums of all time. MM, hats off to you." Another: "Finally got a MM version and wow. Beautiful pressing, cover and sound." Out of print. [Discogs r5687834](https://www.discogs.com/release/5687834-Dexter-Gordon-Go)
 
 ### Blue Note Classic Vinyl 180g (2021) – the accessible entry point
 
-**Cat. BST 84112** | Format: 180g LP, 33⅓, stereo. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes. Pressed at Optimal in Germany.** Reviews are positive but non-fill QC issues are documented on some copies – a recurring Optimal plant issue for this series. [Discogs](https://www.discogs.com/release/19583212-Dexter-Gordon-Go): "Blue Note hits another homerun with this reissue. Dead quiet, great subs, mids and crisp highs." A contrasting note: "My copy has random non-fill distortion all over it but is quiet and flat." And: "One of those albums you regularly see mentioned in audiophile forums – definitely worth picking up a copy at this price." Buy with a returns option. **~$25–$35 new.**
+**Cat. BST 84112** | Format: 180g LP, 33⅓, stereo. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes. Pressed at Optimal in Germany.** Reviews are positive but non-fill QC issues are documented on some copies – a recurring Optimal plant issue for this series. [Discogs](https://www.discogs.com/release/19583212-Dexter-Gordon-Go): "Blue Note hits another homerun with this reissue. Dead quiet, great subs, mids and crisp highs." A contrasting note: "My copy has random non-fill distortion all over it but is quiet and flat." And: "One of those albums you regularly see mentioned in audiophile forums – definitely worth picking up a copy at this price." Buy with a returns option.
 
 [One direct A/B against the AP 45rpm 2LP](https://www.youtube.com/watch?v=ZGPSIIFCUEI) found a genuinely surprising result: despite the AP's 45rpm speed advantage, this reviewer preferred the Classic Vinyl's fuller saxophone tone and more impactful, tangible drums, calling the AP "a little anemic" by direct comparison on an all-valve system. This corroborates the Discogs comment above about the 2021 remaster being "quite an improvement" over the 2008 AP pressing – not a universal verdict, but a second independent voice making the same case. The same reviewer also noted a cover-art difference worth knowing when identifying copies: the AP edition's background and Dexter Gordon's photo skew a lighter blue than the original white cover, while the Classic Vinyl's reproduction runs closer to the original.
 
 ### Japanese pressings – the vintage alternative
 
-Japanese Blue Note pressings of *Go!* – primarily from Toshiba-EMI and King Records in the 1970s and early 1980s – are consistently praised for dead-quiet vinyl and faithful, warm reproduction. As with most Japanese Blue Note titles of this era, they were pressed under licence using dubbed tape sources, but the quality of Japanese vinyl and pressing plants from this period is exceptional. A 1985 German DMM pressing (r3419426) is noted by collectors as inferior to the Japanese copies; the DMM process can cause listening fatigue on certain systems. **Japanese pressings: $40–$100 NM with obi.** [Discogs](https://www.discogs.com/release/6796081-Dexter-Gordon-Go)
+Japanese Blue Note pressings of *Go!* – primarily from Toshiba-EMI and King Records in the 1970s and early 1980s – are consistently praised for dead-quiet vinyl and faithful, warm reproduction. As with most Japanese Blue Note titles of this era, they were pressed under licence using dubbed tape sources, but the quality of Japanese vinyl and pressing plants from this period is exceptional. A 1985 German DMM pressing (r3419426) is noted by collectors as inferior to the Japanese copies; the DMM process can cause listening fatigue on certain systems. Japanese pressings typically come with obi. [Discogs](https://www.discogs.com/release/6796081-Dexter-Gordon-Go)
 
 ---
 
