@@ -6,11 +6,11 @@
 
 The sessions began the day after Woodstock ended. Davis assembled the musicians with minimal written material – "musical sketches," a chord, a mode, a tempo – and directed from within the ensemble. Teo Macero spent months editing the raw performances into a composed work: "Pharaoh's Dance" contains 19 edits, the title track 15. "Miles Runs the Voodoo Down" alone was presented without post-session editing. The original 1970 two-eye pressings with low matrix numbers remain the best case for hearing the unmediated original mix – the 1998 Complete Sessions remaster introduced reconstruction of deteriorated tape sections, and MoFi's DSD chain adds a further variable.
 
-**Best early pressing for audiophiles:** Original US two-eye 360 Sound GP 26, low matrix –1J on all four sides – red 360 Sound labels; Terre Haute ([r9782567](https://www.discogs.com/release/9782567-Miles-Davis-Bitches-Brew)), Pitman ([r12032942](https://www.discogs.com/release/12032942-Miles-Davis-Bitches-Brew)), or Santa Maria ([r37006](https://www.discogs.com/release/37006-Miles-Davis-Bitches-Brew)); $150–$400 NM.
+**Best early pressing for audiophiles:** Original US two-eye 360 Sound GP 26, low matrix –1J on all four sides – red 360 Sound labels; Terre Haute ([r9782567](https://www.discogs.com/release/9782567-Miles-Davis-Bitches-Brew)), Pitman ([r12032942](https://www.discogs.com/release/12032942-Miles-Davis-Bitches-Brew)), or Santa Maria ([r37006](https://www.discogs.com/release/37006-Miles-Davis-Bitches-Brew)).
 
-**Best modern pressing for audiophiles:** [Mobile Fidelity UltraDisc One-Step 55th Anniversary 2LP (2025)](https://www.discogs.com/release/33848460-Miles-Davis-Bitches-Brew) – Krieg Wunderlich, DSD-to-lathe, Fidelity Record Pressing; 5,000 numbered copies; ~$125–$150.
+**Best modern pressing for audiophiles:** [Mobile Fidelity UltraDisc One-Step 55th Anniversary 2LP (2025)](https://www.discogs.com/release/33848460-Miles-Davis-Bitches-Brew) – Krieg Wunderlich, DSD-to-lathe, Fidelity Record Pressing; 5,000 numbered copies.
 
-**Best-value modern:** [Mobile Fidelity MFSL 2-439 180g 2LP (2014/2023)](https://www.discogs.com/release/5804415-Miles-Davis-Bitches-Brew) – same Wunderlich mastering; widely available at $50–$80.
+**Best-value modern:** [Mobile Fidelity MFSL 2-439 180g 2LP (2014/2023)](https://www.discogs.com/release/5804415-Miles-Davis-Bitches-Brew) – same Wunderlich mastering; widely available.
 
 
 ## Recording history and tape provenance
@@ -55,7 +55,7 @@ The letter suffix in the matrix (–1A, –1B, –1C etc.) does not reliably ind
 
 **Mixed-label curiosity:** At least one documented copy has Record 1 with two-eye labels and Record 2 with the later red/orange labels – a transition-period hybrid from simultaneous pressing runs.
 
-**Market values:** NM two-eye with low matrices: **$150–$400**. VG++: **$60–$120**. Gatefold covers are prone to seam splits and corner wear; inspect carefully.
+Gatefold covers are prone to seam splits and corner wear; inspect carefully.
 
 ### GP 26 vs. PG 26
 
@@ -63,11 +63,11 @@ The original catalogue number is **GP 26** ("Gatefold Package"). Columbia later 
 
 ### Red/orange "Columbia" ring label (1970–75)
 
-Introduced almost simultaneously with the album's release. Early red/orange pressings from 1970–72 with low matrix suffixes can sound very close to two-eye originals. One collector who owns both: "I can't really tell them apart." **$25–$60.**
+Introduced almost simultaneously with the album's release. Early red/orange pressings from 1970–72 with low matrix suffixes can sound very close to two-eye originals. One collector who owns both: "I can't really tell them apart."
 
 ### Quadraphonic SQ matrix pressing (1971)
 
-Columbia issued a quad mix in SQ (Stereo Quadraphonic) matrix format in 1971. Decodable with an SQ decoder for full four-channel playback; plays as enhanced stereo without one. A curio for collectors of the format. **$20–$50.**
+Columbia issued a quad mix in SQ (Stereo Quadraphonic) matrix format in 1971. Decodable with an SQ decoder for full four-channel playback; plays as enhanced stereo without one. A curio for collectors of the format.
 
 ---
 
@@ -77,13 +77,13 @@ Columbia issued a quad mix in SQ (Stereo Quadraphonic) matrix format in 1971. De
 
 **Cat. MFSL 2-439** | Format: 2×180g, 33⅓, gatefold, numbered. **Mastered by Krieg Wunderlich, GAIN 2 Ultra Analog System, Sebastopol CA. Source: 1/4" / 15 IPS analog master → DSD 64 → analog console → lathe. Pressed at RTI (2014); Fidelity Record Pressing (2023 repress).** Matrix confirms "KW@MoFi."
 
-Discogs community is broadly positive: "Really good pressing. For the money, I think it's one of the best pressings of this album." The DSD disclosure has tempered enthusiasm among provenance-conscious collectors. [Discogs](https://www.discogs.com/release/5804415-Miles-Davis-Bitches-Brew): "The [2016 Legacy pressing] wasn't as far behind as I expected, with clearer mids, less distortion in the highs and texture in the bass as the MoFi's advantage." **$50–$80 secondary market.**
+Discogs community is broadly positive: "Really good pressing. For the money, I think it's one of the best pressings of this album." The DSD disclosure has tempered enthusiasm among provenance-conscious collectors. [Discogs](https://www.discogs.com/release/5804415-Miles-Davis-Bitches-Brew): "The [2016 Legacy pressing] wasn't as far behind as I expected, with clearer mids, less distortion in the highs and texture in the bass as the MoFi's advantage."
 
 ### Mobile Fidelity UltraDisc One-Step 55th Anniversary 2LP (2025) – current summit
 
 **Cat. MFSL UD1S-109** | Format: 2×180g, 33⅓, box set, **5,000 numbered copies. Same DSD 64 mastering by Krieg Wunderlich. Pressed at Fidelity Record Pressing on 180g black vinyl** – MoFi specifically auditioned multiple vinyl formulations and chose 180g black over MoFi SuperVinyl for this title.
 
-The One-Step process cuts stampers directly from lacquers, bypassing the standard father-mother-stamper chain, giving a lower noise floor and finer groove resolution. MoFi on the vinyl choice: "After closely auditioning Bitches Brew on several different vinyl profiles... the music on this 1970 album translates with superior definition, clarity, presence, dynamics, and balance on this format." **~$125–$150 new.**
+The One-Step process cuts stampers directly from lacquers, bypassing the standard father-mother-stamper chain, giving a lower noise floor and finer groove resolution. MoFi on the vinyl choice: "After closely auditioning Bitches Brew on several different vinyl profiles... the music on this 1970 album translates with superior definition, clarity, presence, dynamics, and balance on this format."
 
 Multiple independent listeners doing direct A/B comparisons against an original two-eye pressing have separately noted that the One-Step is cut at a noticeably lower level – one reviewer measured roughly 3dB quieter with an SPL meter, requiring a level-matching volume increase before comparing. This is consistent with a deliberate mastering choice to tame some upper-frequency peakiness present on the original pressing, rather than a defect; a naive, non-level-matched listen may make the One-Step sound relatively subdued by comparison.
 
@@ -91,11 +91,11 @@ Multiple independent listeners doing direct A/B comparisons against an original 
 
 Japanese CBS/Sony pressings receive consistent collector praise. The Sony Shizuoka pressing plant produced dead-quiet vinyl with faithful reproduction. One Discogs owner listening immediately after a Japanese copy: "Listening to this one now immediately after hearing the superior 1981 Japan reissue." The outstanding pressing is the **CBS/Sony 28AP 2151~2** ([Discogs r2075721](https://www.discogs.com/release/2075721-Miles-Davis-Bitches-Brew)), released December 1981 as part of the Big Jazz Fusion 23 No.1 series. Double LP, gatefold, obi strip. Avg Discogs rating: 4.95/5 from 42 ratings; 977 collectors want it – among the most desired pressings of this album. Dead-quiet CBS/Sony Japan vinyl, faithful stereo reproduction, beautifully packaged.
 
-These trade for **$40–$120 with obi** and are consistently rated by experienced collectors as superior or equal to the MoFi on sound quality.
+These typically come with obi and are consistently rated by experienced collectors as superior or equal to the MoFi on sound quality.
 
 ### Columbia Legacy editions
 
-Columbia/Legacy anniversary editions are acceptable entry points digitally sourced. The 40th Anniversary (2010) and standard Legacy reissues are at $25–$35. Not recommended over an original ring-label copy at similar prices.
+Columbia/Legacy anniversary editions are acceptable entry points digitally sourced. The 40th Anniversary (2010) and standard Legacy reissues are inexpensive and easy to find. Not recommended over an original ring-label copy, which is generally attainable at a comparable price.
 
 ### A related but distinct release: *Double Image: Rare Miles From The Complete Bitches Brew Sessions* (2020)
 
@@ -105,7 +105,7 @@ Not a pressing of the studio album, so it doesn't appear in the tier table below
 
 ## Pressings to avoid
 
-**Late 1970s+ Columbia reprints (PG 26):** Post-1975 pressings use later-generation lacquers and thinner vinyl. Identifiable by the PG 26 prefix and "Manufactured by CBS Inc." on the label. **$10–$20; not recommended.**
+**Late 1970s+ Columbia reprints (PG 26):** Post-1975 pressings use later-generation lacquers and thinner vinyl. Identifiable by the PG 26 prefix and "Manufactured by CBS Inc." on the label. Not recommended.
 
 **Generic EU reissues (DOL, Vinyl Passion, etc.):** Not licensed or sourced from original tapes. Avoid.
 
