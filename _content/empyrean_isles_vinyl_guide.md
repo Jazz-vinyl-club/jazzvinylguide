@@ -22,7 +22,7 @@ Freddie Hubbard, playing cornet rather than his usual trumpet for a warmer, more
 
 ## Original Blue Note pressings (1964)
 
-**Mono: BLP 4175** on blue-and-white "New York, USA" labels / **Stereo: BST 84175** on "A Division of Liberty Records, Inc." labels – the two formats' original pressings carry different label eras despite sharing a release date, reflecting Blue Note's transition to Liberty ownership happening mid-stream. Genuine collector debate exists over which specific mono variant constitutes the true first pressing: per Fred Cohen's Blue Note collector's guide, a non-deep-groove copy is now considered the actual first pressing rather than the deep-groove copies some collectors previously assumed were earliest. Check the deadwax for the Van Gelder stamp on both sides – some stereo copies show it on side 2 only, a documented but lesser variant. **NM originals: $150–$400.**
+**Mono: BLP 4175** on blue-and-white "New York, USA" labels / **Stereo: BST 84175** on "A Division of Liberty Records, Inc." labels – the two formats' original pressings carry different label eras despite sharing a release date, reflecting Blue Note's transition to Liberty ownership happening mid-stream. Genuine collector debate exists over which specific mono variant constitutes the true first pressing: per Fred Cohen's Blue Note collector's guide, a non-deep-groove copy is now considered the actual first pressing rather than the deep-groove copies some collectors previously assumed were earliest. Check the deadwax for the Van Gelder stamp on both sides – some stereo copies show it on side 2 only, a documented but lesser variant.
 
 ---
 
@@ -30,11 +30,11 @@ Freddie Hubbard, playing cornet rather than his usual trumpet for a warmer, more
 
 ### Music Matters 33⅓ – the audiophile benchmark
 
-**Cat. MMBST-84175** | Format: 180g LP, 33⅓, gatefold with session photos, limited to 3,500 copies. **Remastered by Kevin Gray at Cohearent Audio, from the original Rudy Van Gelder master tapes. Pressed at RTI.** Reviews are enthusiastic and consistent: "clarity, air, ambience, punch, beautiful drum + cymbals, dead quiet vinyl." Out of print. [Discogs](https://www.discogs.com/release/6771572-Herbie-Hancock-Empyrean-Isles) **$100–$200 secondary.**
+**Cat. MMBST-84175** | Format: 180g LP, 33⅓, gatefold with session photos, limited to 3,500 copies. **Remastered by Kevin Gray at Cohearent Audio, from the original Rudy Van Gelder master tapes. Pressed at RTI.** Reviews are enthusiastic and consistent: "clarity, air, ambience, punch, beautiful drum + cymbals, dead quiet vinyl." Out of print. [Discogs](https://www.discogs.com/release/6771572-Herbie-Hancock-Empyrean-Isles)
 
 ### Blue Note Classic Vinyl – the recommended entry point
 
-**Cat. 4859562** | Format: 180g LP, stereo, 2023. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes, pressed at Optimal.** One especially detailed owner review calls it flatly one of the best-sounding entries in the whole Classic Vinyl series: "there is no way any other version is as free of background noise, making me able to hear Ron Carter's jaw dropping bass solo on 'Oliloqui Valley' like never before." [At least one reviewer](https://www.youtube.com/watch?v=Z4H_1T3PGnI) has reported an individual copy shipping with minor cosmetic surface scuffs – an isolated report, not evidence of a systemic issue like the 75th Anniversary series below, but worth knowing if you're buying without a return option. [Discogs](https://www.discogs.com/release/26441327-Herbie-Hancock-Empyrean-Isles) **$25–$40 new.**
+**Cat. 4859562** | Format: 180g LP, stereo, 2023. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes, pressed at Optimal.** One especially detailed owner review calls it flatly one of the best-sounding entries in the whole Classic Vinyl series: "there is no way any other version is as free of background noise, making me able to hear Ron Carter's jaw dropping bass solo on 'Oliloqui Valley' like never before." [At least one reviewer](https://www.youtube.com/watch?v=Z4H_1T3PGnI) has reported an individual copy shipping with minor cosmetic surface scuffs – an isolated report, not evidence of a systemic issue like the 75th Anniversary series below, but worth knowing if you're buying without a return option. [Discogs](https://www.discogs.com/release/26441327-Herbie-Hancock-Empyrean-Isles)
 
 ### Jazz Heritage LP (1991) – the vinyl alternate-takes reissue
 
@@ -42,11 +42,11 @@ Freddie Hubbard, playing cornet rather than his usual trumpet for a warmer, more
 
 ### Mid-1960s to mid-1970s US reissue, dark blue label – an underrated tier
 
-A dark blue Liberty/UA-era label reissue retains the Van Gelder stamp on both sides, since it shares metalwork with the original pressing – [confirmed by a dealer inventory video](https://www.youtube.com/watch?v=yikSYWWQ-EY) showing an NM example of this exact variant. As with similarly-treated late represses of other titles in this catalogue, a genuine RVG stamp on a later reissue is a legitimate way to get close to original-pressing sound without first-press pricing. No single confirmed catalogue number; look for the dark blue label design and confirm the RVG stamp in the deadwax yourself. **Prices not well-established in the secondary market; likely $30–$80 depending on condition.**
+A dark blue Liberty/UA-era label reissue retains the Van Gelder stamp on both sides, since it shares metalwork with the original pressing – [confirmed by a dealer inventory video](https://www.youtube.com/watch?v=yikSYWWQ-EY) showing an NM example of this exact variant. As with similarly-treated late represses of other titles in this catalogue, a genuine RVG stamp on a later reissue is a legitimate way to get close to original-pressing sound without first-press pricing. No single confirmed catalogue number; look for the dark blue label design and confirm the RVG stamp in the deadwax yourself.
 
 ### Blue Note 75th Anniversary (2015) – mixed pressing quality
 
-**Cat. B0022238-01** | Format: 180g LP, stereo. **Lacquers cut by Bernie Grundman and Chris Bellman** (with at least one variant showing side B cut at Masterdisk instead). This title falls within Blue Note's broadly criticized 75th Anniversary series, and reception is genuinely split at the pressing level – some owners report clean, quiet copies with no issues, while a substantial number report warping, non-fill, and off-center spindle holes, particularly on copies pressed at United Record Pressing (URP), a plant widely blamed across the whole 75th Anniversary line for inconsistent QC. Worth buying only from a seller with an easy return policy. **$25–$50.**
+**Cat. B0022238-01** | Format: 180g LP, stereo. **Lacquers cut by Bernie Grundman and Chris Bellman** (with at least one variant showing side B cut at Masterdisk instead). This title falls within Blue Note's broadly criticized 75th Anniversary series, and reception is genuinely split at the pressing level – some owners report clean, quiet copies with no issues, while a substantial number report warping, non-fill, and off-center spindle holes, particularly on copies pressed at United Record Pressing (URP), a plant widely blamed across the whole 75th Anniversary line for inconsistent QC. Worth buying only from a seller with an easy return policy.
 
 ---
 
