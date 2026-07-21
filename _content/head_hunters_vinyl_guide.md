@@ -46,21 +46,21 @@ The alpha suffix (1A, 1B, 1C) indicates lacquer generation. First-generation lac
 
 **Matrix:** The coveted first-generation matrices are **AL 32731-1A** (Side A) and **BL 32731-1A** (Side B). [Discogs collectors](https://www.discogs.com/release/31381-Herbie-Hancock-Head-Hunters) who specifically sought -1A/-1A copies report: "Picked up an -1A/-1A pressing this afternoon, definitely changed my appreciation for this album for the better." Another: "Wow wow wow... this pressing beats all other pressings including Analogue Productions ones."
 
-**Market values:** Clean first-generation -1A/-1A original: **$20–$60 NM** – this album is still relatively affordable because it was pressed in very large quantities. One Discogs reviewer found a -1A/-1A for **$4** at a local shop. Good copies continue to surface at record fairs and shops for under $30.
+**Market values:** Clean first-generation -1A/-1A originals remain genuinely affordable, since this album was pressed in very large quantities – one Discogs reviewer recalled finding a -1A/-1A copy for a few dollars at a local shop. Good copies continue to surface at record fairs and shops without needing to pay a premium.
 
 ### European CBS pressings – same mastering, a real quality gap
 
-A first-pressing European CBS release exists sharing the same stampers/mastering lineage as the first US Columbia pressing, rather than a separate European remaster. [One detailed direct comparison](https://www.youtube.com/watch?v=qgw7wBJ6U3k) between the two found a genuine, audible quality difference despite the shared mastering – the US pressing carried noticeably more fullness and information, particularly audible on the trumpets, while the European pressing sounded comparatively more compressed. This is a pressing-plant difference, not a mastering difference: worth knowing if you're choosing between the two on the secondary market, though the European copy is still a reasonable option in its own right at $20–$25. No specific European catalogue number has been confirmed; look for the shared -1A-style matrix suffix pattern to identify a copy from the same lacquer generation as the sought-after US pressings.
+A first-pressing European CBS release exists sharing the same stampers/mastering lineage as the first US Columbia pressing, rather than a separate European remaster. [One detailed direct comparison](https://www.youtube.com/watch?v=qgw7wBJ6U3k) between the two found a genuine, audible quality difference despite the shared mastering – the US pressing carried noticeably more fullness and information, particularly audible on the trumpets, while the European pressing sounded comparatively more compressed. This is a pressing-plant difference, not a mastering difference: worth knowing if you're choosing between the two on the secondary market, though the European copy is still a reasonable, more affordable option in its own right. No specific European catalogue number has been confirmed; look for the shared -1A-style matrix suffix pattern to identify a copy from the same lacquer generation as the sought-after US pressings.
 
 ### CBS/Sony Japanese pressings (1970s–80s)
 
-The first Japanese release was **SOPL-238** (CBS/Sony, 1973), manufactured by CBS/Sony at their Japanese pressing facility. The early Japanese pressing ([r1049796](https://www.discogs.com/release/1049796-Herbie-Hancock-Head-Hunters)) bears matrix `SOPL-238A1 1 A 1`. The Shizuoka CBS/Sony plant was regarded by collectors as among the best vinyl pressing operations in the world – dead-silent surfaces and faithful reproduction are the consistent reports. One Discogs reviewer: "Great sounding Japanese reissue... the snare lacks a bit of snap" compared to the AP, but the vinyl quality is superlative. The CBS logo with Sony branding "CBS/Sony" appears on both cover and labels. **$40–$80 with obi.**
+The first Japanese release was **SOPL-238** (CBS/Sony, 1973), manufactured by CBS/Sony at their Japanese pressing facility. The early Japanese pressing ([r1049796](https://www.discogs.com/release/1049796-Herbie-Hancock-Head-Hunters)) bears matrix `SOPL-238A1 1 A 1`. The Shizuoka CBS/Sony plant was regarded by collectors as among the best vinyl pressing operations in the world – dead-silent surfaces and faithful reproduction are the consistent reports. One Discogs reviewer: "Great sounding Japanese reissue... the snare lacks a bit of snap" compared to the AP, but the vinyl quality is superlative. The CBS logo with Sony branding "CBS/Sony" appears on both cover and labels. Typically found with obi.
 
-A second, more collectible Japanese pressing followed in 1977 on CBS/Sony's **"AP" audiophile half-speed series**: catalogue **25AP 561** ([Discogs](https://www.discogs.com/release/5275186-Herbie-Hancock-Head-Hunters)). The AP-series prefix denotes CBS/Sony's premium domestic audiophile line of the period, and copies command a real premium over the standard SOPL-238 among Japanese-pressing collectors, particularly for the obi. **$50–$100+ with obi.**
+A second, more collectible Japanese pressing followed in 1977 on CBS/Sony's **"AP" audiophile half-speed series**: catalogue **25AP 561** ([Discogs](https://www.discogs.com/release/5275186-Herbie-Hancock-Head-Hunters)). The AP-series prefix denotes CBS/Sony's premium domestic audiophile line of the period, and copies command a real premium over the standard SOPL-238 among Japanese-pressing collectors, particularly for copies with the obi.
 
 ### Quadraphonic SQ matrix pressing (1974)
 
-Columbia released the quad mix in SQ (Stereo Quadraphonic) matrix format as [**PCQ 32731**](https://www.discogs.com/release/1966323-Herbie-Hancock-Head-Hunters). The quad mix features elements absent from the stereo version, including an additional keyboard melody at the opening of "Sly." Decodable with an SQ decoder for full four-channel playback; plays as enhanced stereo without one. The quad remixing was engineered by Fred Catero, keeping it in the original production family. **$15–$40.**
+Columbia released the quad mix in SQ (Stereo Quadraphonic) matrix format as [**PCQ 32731**](https://www.discogs.com/release/1966323-Herbie-Hancock-Head-Hunters). The quad mix features elements absent from the stereo version, including an additional keyboard melody at the opening of "Sly." Decodable with an SQ decoder for full four-channel playback; plays as enhanced stereo without one. The quad remixing was engineered by Fred Catero, keeping it in the original production family.
 
 ---
 
@@ -76,7 +76,7 @@ From [Acoustic Sounds](https://store.acousticsounds.com/d/104680/Herbie_Hancock-
 
 Discogs owners: "Impressive mastering and pressing, one of the best sounding LP I own." "Awesome pressing. I can't even believe it. It almost makes you want to cry when you hear it." One owner who compared the AP 33rpm against a clean 1973 Pitman original chose the AP: "just a bit more refined and smooth but still the magic of the original." [A direct A/B against a first US pressing](https://www.youtube.com/watch?v=qgw7wBJ6U3k) reached the same verdict from a different angle: more spaciousness and clearer individual-instrument definition (trumpets, keyboard) without artificially separating the mix – "they beat the original."
 
-**$80–$120 secondary market.** Periodically in print from Acoustic Sounds.
+Periodically in print from Acoustic Sounds.
 
 ### Analogue Productions 200g/180g 33rpm (2015/2021/2022) – strong value
 
@@ -84,11 +84,11 @@ Discogs owners: "Impressive mastering and pressing, one of the best sounding LP 
 
 One Discogs reviewer who compared it with the Music On Vinyl: "I was able to tell the difference between this and the 2009 Music On Vinyl press almost immediately. The bass on this is RICH and the midrange is lively. Each instrument has plenty of room to shine." The 33rpm is widely considered the best entry into this album for most listeners, offering nearly all the sonic gains of the 45rpm at lower cost and without the extra disc-flipping.
 
-**$35–$55 new** from Acoustic Sounds or online retailers.
+Available new from Acoustic Sounds or online retailers.
 
 ### Music On Vinyl MOV (2009) – a step below
 
-[Music On Vinyl issued *Head Hunters*](https://www.discogs.com/release/2542733-Herbie-Hancock-Head-Hunters) under their Columbia catalogue licence, mastered at TuckerSound, New York. It is consistently rated below the AP editions by those who have done direct comparisons. Dead-silent surfaces; perfectly competent as a reissue, but not in the same league sonically. **$15–$25 used.**
+[Music On Vinyl issued *Head Hunters*](https://www.discogs.com/release/2542733-Herbie-Hancock-Head-Hunters) under their Columbia catalogue licence, mastered at TuckerSound, New York. It is consistently rated below the AP editions by those who have done direct comparisons. Dead-silent surfaces; perfectly competent as a reissue, but not in the same league sonically.
 
 ---
 
