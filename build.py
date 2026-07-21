@@ -315,6 +315,7 @@ def site_footer():
 </footer>'''
 
 SITE_URL = "https://jazzvinylguide.com"
+ORG_LD = {"@type": "Organization", "name": "Jazz Vinyl Guide", "url": SITE_URL, "logo": {"@type": "ImageObject", "url": SITE_URL + "/favicon-192.png", "width": 192, "height": 192}}
 
 def html_shell(title, description, body, canonical_path="/", structured_data=None, og_type="website", noindex=False):
     canonical_url = SITE_URL + canonical_path
@@ -328,7 +329,7 @@ def html_shell(title, description, body, canonical_path="/", structured_data=Non
   <title>{title} — Jazz Vinyl Guide</title>
   <meta name="description" content="{description}">
   <link rel="canonical" href="{canonical_url}">
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/favicon-192.png" type="image/png">
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
   <link rel="stylesheet" href="/style.css">{robots_tag}
@@ -337,11 +338,13 @@ def html_shell(title, description, body, canonical_path="/", structured_data=Non
   <meta property="og:title" content="{title} — Jazz Vinyl Guide">
   <meta property="og:description" content="{description}">
   <meta property="og:url" content="{canonical_url}">
-  <meta property="og:image" content="{SITE_URL}/logo.png">
-  <meta name="twitter:card" content="summary">
+  <meta property="og:image" content="{SITE_URL}/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{title} — Jazz Vinyl Guide">
   <meta name="twitter:description" content="{description}">
-  <meta name="twitter:image" content="{SITE_URL}/logo.png">{ld_json}
+  <meta name="twitter:image" content="{SITE_URL}/og-image.png">{ld_json}
 </head>
 <body>
 {site_header()}
@@ -429,6 +432,7 @@ def build_index(albums):
         "name": "Jazz Vinyl Guide",
         "url": SITE_URL,
         "description": "Collector-grade vinyl pressing guides for essential jazz albums.",
+        "publisher": ORG_LD,
         "potentialAction": {
             "@type": "SearchAction",
             "target": SITE_URL + "/?q={search_term_string}",
@@ -523,8 +527,8 @@ def build_album(album):
                 "@type": "Article",
                 "headline": f"{title} Vinyl Pressing Guide",
                 "description": album['description'],
-                "author": {"@type": "Organization", "name": "Jazz Vinyl Guide", "url": SITE_URL},
-                "publisher": {"@type": "Organization", "name": "Jazz Vinyl Guide", "url": SITE_URL},
+                "author": ORG_LD,
+                "publisher": ORG_LD,
                 "mainEntityOfPage": {"@type": "WebPage", "@id": f"{SITE_URL}/albums/{slug}.html"},
                 "about": {
                     "@type": "MusicAlbum",
