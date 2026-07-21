@@ -399,9 +399,9 @@ def build_index(albums):
         title_esc = a['title']
         itunes_query = urllib.parse.quote(f"{a['artist']} {a['title']}")
         if mbid:
-            thumb = f'<img src="https://coverartarchive.org/release-group/{mbid}/front-250" alt="{title_esc}" class="album-card__cover" loading="lazy" data-itunes-fallback="{itunes_query}" onerror="window.tryItunesCoverFallback(this)">'
+            thumb = f'<img src="https://coverartarchive.org/release-group/{mbid}/front-250" alt="{a["artist"]} — {title_esc} album cover" class="album-card__cover" loading="lazy" data-itunes-fallback="{itunes_query}" onerror="window.tryItunesCoverFallback(this)">'
         else:
-            thumb = f'<img alt="{title_esc}" class="album-card__cover" loading="lazy" data-itunes-fallback="{itunes_query}">'
+            thumb = f'<img alt="{a["artist"]} — {title_esc} album cover" class="album-card__cover" loading="lazy" data-itunes-fallback="{itunes_query}">'
         rows += f'''    <a class="album-card" href="/albums/{a['slug']}.html" data-title="{title_lower}" data-artist="{artist_lower}" data-label="{label_lower}" data-year="{year_val}">
       {thumb}
       <h2 class="album-card__title">{a['title']}</h2>
@@ -467,7 +467,7 @@ def build_album(album, last_updated=None):
         # without anyone needing to manually source and commit an image file.
         # One standard for every album -- no separate pre-committed-file path.
         cover_html = f'''    <figure class="album-header__cover">
-      <img src="https://coverartarchive.org/release-group/{mbid}/front-500" alt="{title} album cover" width="160" height="160" loading="lazy" data-itunes-fallback="{itunes_query}" onerror="window.tryItunesCoverFallback(this)">
+      <img src="https://coverartarchive.org/release-group/{mbid}/front-500" alt="{artist} — {title} album cover" width="160" height="160" loading="lazy" data-itunes-fallback="{itunes_query}" onerror="window.tryItunesCoverFallback(this)">
     </figure>'''
     else:
         # No mbid at all -- go straight to the iTunes fallback. main.js scans
@@ -475,7 +475,7 @@ def build_album(album, last_updated=None):
         # directly, since a missing src doesn't reliably fire onerror in
         # every browser.
         cover_html = f'''    <figure class="album-header__cover">
-      <img alt="{title} album cover" width="160" height="160" loading="lazy" data-itunes-fallback="{itunes_query}">
+      <img alt="{artist} — {title} album cover" width="160" height="160" loading="lazy" data-itunes-fallback="{itunes_query}">
     </figure>'''
 
     # Public album pages no longer surface "Last updated / update history" -
