@@ -373,13 +373,7 @@ def build_index(albums):
         year_val     = str(a['year'])
         title_esc = a['title']
         itunes_query = urllib.parse.quote(f"{a['artist']} {a['title']}")
-        cp = os.path.join(BASE_DIR, "covers", f"{a['slug']}.jpg")
-        if os.path.exists(cp):
-            thumb = f'<img src="/covers/{a["slug"]}.jpg" alt="{title_esc}" class="album-card__cover" loading="lazy">'
-        elif mbid:
-            # onerror had "this.style.display:none" (colon, not "=") which is
-            # invalid JS and silently no-ops -- fixed here, and now also
-            # falls back to an iTunes lookup instead of just hiding the image.
+        if mbid:
             thumb = f'<img src="https://coverartarchive.org/release-group/{mbid}/front-250" alt="{title_esc}" class="album-card__cover" loading="lazy" data-itunes-fallback="{itunes_query}" onerror="window.tryItunesCoverFallback(this)">'
         else:
             thumb = f'<img alt="{title_esc}" class="album-card__cover" loading="lazy" data-itunes-fallback="{itunes_query}">'
@@ -426,19 +420,14 @@ def build_album(album):
 
     mbid = album.get('mbid', '')
     itunes_query = urllib.parse.quote(f"{artist} {title}")
-    cover_path = os.path.join(BASE_DIR, "covers", f"{slug}.jpg")
-    if os.path.exists(cover_path):
-        # Pre-vetted local file takes priority when we have one.
-        cover_html = f'''    <figure class="album-header__cover">
-      <img src="/covers/{slug}.jpg" alt="{title} album cover" width="160" height="160" loading="lazy">
-    </figure>'''
-    elif mbid:
+    if mbid:
         # Try Cover Art Archive via mbid first; if that specific release-group
         # has no art registered (a real, fairly common gap), fall back to an
         # iTunes Search API lookup by artist+title at runtime in the visitor's
         # browser. iTunes has near-universal commercial-release coverage and
         # needs no mbid or API key, so this self-heals future albums too
         # without anyone needing to manually source and commit an image file.
+        # One standard for every album -- no separate pre-committed-file path.
         cover_html = f'''    <figure class="album-header__cover">
       <img src="https://coverartarchive.org/release-group/{mbid}/front-500" alt="{title} album cover" width="160" height="160" loading="lazy" data-itunes-fallback="{itunes_query}" onerror="window.tryItunesCoverFallback(this)">
     </figure>'''
