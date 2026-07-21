@@ -315,6 +315,7 @@ def site_footer():
 </footer>'''
 
 SITE_URL = "https://jazzvinylguide.com"
+HOME_DESCRIPTION = "Collector-grade vinyl pressing guides for the greatest jazz albums of all time — verified catalog numbers, mono vs. stereo breakdowns, and honest buyer's guides by budget, from original pressings to the best modern reissues."
 ORG_LD = {"@type": "Organization", "name": "Jazz Vinyl Guide", "url": SITE_URL, "logo": {"@type": "ImageObject", "url": SITE_URL + "/favicon-192.png", "width": 192, "height": 192}}
 
 def html_shell(title, description, body, canonical_path="/", structured_data=None, og_type="website", noindex=False):
@@ -409,7 +410,7 @@ def build_index(albums):
       <span class="album-card__arrow">Read full guide →</span>
     </a>\n'''
     body = f'''<section class="hero">
-  <h1 class="hero__title">Collector-grade guides for essential jazz albums</h1>
+  <h1 class="hero__title">Collector-grade vinyl pressing guides for essential jazz albums</h1>
 </section>
 <section class="albums-section">
   <div class="albums-controls">
@@ -431,7 +432,7 @@ def build_index(albums):
         "@type": "WebSite",
         "name": "Jazz Vinyl Guide",
         "url": SITE_URL,
-        "description": "Collector-grade vinyl pressing guides for essential jazz albums.",
+        "description": HOME_DESCRIPTION,
         "publisher": ORG_LD,
         "potentialAction": {
             "@type": "SearchAction",
@@ -441,7 +442,7 @@ def build_index(albums):
     })
     out = os.path.join(OUTPUT_DIR, "index.html")
     with open(out, 'w') as f:
-        f.write(html_shell("Jazz Vinyl Guide", "Collector-grade vinyl pressing guides for essential jazz albums.", body, canonical_path="/", structured_data=website_ld))
+        f.write(html_shell("Jazz Vinyl Guide", HOME_DESCRIPTION, body, canonical_path="/", structured_data=website_ld))
     print("  ✓ index.html")
 
 def build_album(album):
