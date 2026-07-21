@@ -6,11 +6,11 @@
 
 Five musicians from five countries – McLaughlin (English), Cobham (Panamanian), Hammer (Czech), Goodman (American), Laird (Irish) – in a single week of rehearsals produced music that defined jazz-rock fusion and has not been surpassed in its idiom. The original US Columbia pressing is the reference; the Speakers Corner 180g and Friday Music clear vinyl are the two meaningful modern options, both made from the original analogue tapes and drawing genuinely contrasting reviews.
 
-**Best early pressing for audiophiles:** [Original US Columbia KC 31067, Terre Haute pressing (1971)](https://www.discogs.com/release/557286-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) – AAA from source, "IT" in deadwax, purple insert; $40–$150 NM.
+**Best early pressing for audiophiles:** [Original US Columbia KC 31067, Terre Haute pressing (1971)](https://www.discogs.com/release/557286-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) – AAA from source, "IT" in deadwax, purple insert.
 
-**Best modern pressing for audiophiles:** [Friday Music 180g clear vinyl](https://www.discogs.com/release/9485353-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) – Joe Reagoso mastering, RTI pressing; brighter, more revealing character; ~$30–$50.
+**Best modern pressing for audiophiles:** [Friday Music 180g clear vinyl](https://www.discogs.com/release/9485353-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) – Joe Reagoso mastering, RTI pressing; brighter, more revealing character.
 
-**Best-value modern:** [Speakers Corner 180g (2008)](https://www.discogs.com/release/1718798-The-Mahavishnu-Orchestra-with-John-McLaughlin-The-Inner-Mounting-Flame) – pure analogue, Pallas pressing, HCB-EBS matrix (Heinz Gäde mastering); ~$40–$60.
+**Best-value modern:** [Speakers Corner 180g (2008)](https://www.discogs.com/release/1718798-The-Mahavishnu-Orchestra-with-John-McLaughlin-The-Inner-Mounting-Flame) – pure analogue, Pallas pressing, HCB-EBS matrix (Heinz Gäde mastering).
 
 
 ## Recording history and tape provenance
@@ -57,11 +57,11 @@ Released November 3, 1971. Single LP with gatefold sleeve and purple 9" × 10" S
 
 **Santa Maria, California:** [r14551678](https://www.discogs.com/release/14551678-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame) – West Coast pressing; well reviewed but collector consensus gives a slight edge to Terre Haute and Pitman.
 
-**Condition note:** Original pressings were extremely popular and were often played hard. Finding a genuinely VG+ or NM copy requires patience. The slightly distorted character noted by reviewers on any pressing is inherent to the recording, not a pressing defect. **NM originals: $40–$150. VG+: $20–$60 depending on plant and condition.**
+**Condition note:** Original pressings were extremely popular and were often played hard. Finding a genuinely VG+ or NM copy requires patience. The slightly distorted character noted by reviewers on any pressing is inherent to the recording, not a pressing defect. NM originals command a real premium over VG+ copies, with the exact gap varying by pressing plant and condition.
 
 ### 1970s US Columbia reissues
 
-Later 1970s pressings carry PC 31067 catalogue numbers and Carrollton, Georgia or other plant identifiers. [r4923574](https://www.discogs.com/release/4923574-Mahavishnu-Orchestra-The-Inner-Mounting-Flame) is a well-documented mid-seventies pressing. Sonically close to the originals if the stampers are early; more variable on later iterations. **$10–$30 VG+.**
+Later 1970s pressings carry PC 31067 catalogue numbers and Carrollton, Georgia or other plant identifiers. [r4923574](https://www.discogs.com/release/4923574-Mahavishnu-Orchestra-The-Inner-Mounting-Flame) is a well-documented mid-seventies pressing. Sonically close to the originals if the stampers are early; more variable on later iterations.
 
 ---
 
@@ -71,21 +71,21 @@ Later 1970s pressings carry PC 31067 catalogue numbers and Carrollton, Georgia o
 
 **Cat. SC 31067** | Format: 180g LP, 33⅓, stereo, gatefold, includes Sri Chinmoy "Aspiration" insert. **Pure analogue mastering by Heinz Gäde (HCB-EBS in the deadwax). Pressed at Pallas, Germany.** Marketed as a "Pure Analogue" reissue.
 
-Discogs community is sharply divided. Positive: "Perfect pressing, nice packaging, and the tunes have never sounded better." "My copy is rich, full and expansive. The pressing is dead flat and nigh silent." "I have an original US press, and the only differences are in the signal level – a bit lower on this reissue, but when you crank it up, it's pretty much on par in clarity and richness." Critical: "I have to say, my OG pressing sounds way better than this Speakers Corner pressing and the photos on the SC cover are blurry, like they just took a photo of the OG cover." And concerning: "Freaking Awakening sounds like the tape is flaking off the reel while it's playing." One reviewer summarises the choice plainly: "Recommended unless you want a lighter and brighter cut in the form of the KPG/FM clear vinyl." The low signal level is consistently noted and requires more volume than usual – not a defect, just a characteristic. Repressings with a QR code sticker on the shrink wrap exist alongside the original 2008 edition; both are sonically identical. **~$40–$60 new.** [Discogs r1718798](https://www.discogs.com/release/1718798-The-Mahavishnu-Orchestra-with-John-McLaughlin-The-Inner-Mounting-Flame)
+Discogs community is sharply divided. Positive: "Perfect pressing, nice packaging, and the tunes have never sounded better." "My copy is rich, full and expansive. The pressing is dead flat and nigh silent." "I have an original US press, and the only differences are in the signal level – a bit lower on this reissue, but when you crank it up, it's pretty much on par in clarity and richness." Critical: "I have to say, my OG pressing sounds way better than this Speakers Corner pressing and the photos on the SC cover are blurry, like they just took a photo of the OG cover." And concerning: "Freaking Awakening sounds like the tape is flaking off the reel while it's playing." One reviewer summarises the choice plainly: "Recommended unless you want a lighter and brighter cut in the form of the KPG/FM clear vinyl." The low signal level is consistently noted and requires more volume than usual – not a defect, just a characteristic. Repressings with a QR code sticker on the shrink wrap exist alongside the original 2008 edition; both are sonically identical. [Discogs r1718798](https://www.discogs.com/release/1718798-The-Mahavishnu-Orchestra-with-John-McLaughlin-The-Inner-Mounting-Flame)
 
 ### Friday Music 180g clear vinyl – the brighter modern alternative
 
 **Cat. KC 31067** | Format: 180g clear LP, 33⅓, stereo, gatefold. **Mastered by Joe Reagoso at Friday Music Studios, from the original analogue master tapes. Pressed at RTI.**
 
-The character is brighter and more present than the Speakers Corner – described by one reviewer comparing both as "lighter and brighter... for those with dull systems or well worn hearing will likely want to go that way." This is not a criticism in context: the original recording has an energetic, slightly forward quality and this cut renders this honestly. One Discogs reviewer: "I was going to mention I thought Friday Music version kicked ass." Gatefold jacket. **~$30–$50 secondary.** [Discogs](https://www.discogs.com/release/9485353-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame)
+The character is brighter and more present than the Speakers Corner – described by one reviewer comparing both as "lighter and brighter... for those with dull systems or well worn hearing will likely want to go that way." This is not a criticism in context: the original recording has an energetic, slightly forward quality and this cut renders this honestly. One Discogs reviewer: "I was going to mention I thought Friday Music version kicked ass." Gatefold jacket. [Discogs](https://www.discogs.com/release/9485353-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame)
 
 ### Japanese CBS/Sony pressings – the vintage alternative
 
-The Japanese first-pressing (**SOPL-10**, 1971/72, [r4183685](https://www.discogs.com/release/4183685-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame)) was manufactured by CBS/Sony Japan simultaneously with the US release. One Discogs owner: "On top of that, this Japanese pressing sounds amazing. Jazz Fusion masterpiece right here." Another reviewer notes these early SOPL numbers are arguably first pressings rather than reissues. A later 1976 CBS/Sony Japan pressing ([r2623855](https://www.discogs.com/release/2623855-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame)) is also well regarded and easier to find. Both carry CBS/Sony Japan's characteristic quiet, well-controlled pressings. **Japanese pressings: $30–$100 NM with obi.**
+The Japanese first-pressing (**SOPL-10**, 1971/72, [r4183685](https://www.discogs.com/release/4183685-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame)) was manufactured by CBS/Sony Japan simultaneously with the US release. One Discogs owner: "On top of that, this Japanese pressing sounds amazing. Jazz Fusion masterpiece right here." Another reviewer notes these early SOPL numbers are arguably first pressings rather than reissues. A later 1976 CBS/Sony Japan pressing ([r2623855](https://www.discogs.com/release/2623855-The-Mahavishnu-Orchestra-With-John-McLaughlin-The-Inner-Mounting-Flame)) is also well regarded and easier to find. Both carry CBS/Sony Japan's characteristic quiet, well-controlled pressings, typically with obi.
 
 ### UK/Netherlands CBS pressing – a period-contemporary European option
 
-A 1972 UK and Netherlands pressing (**CBS S 64717**) followed roughly a year after the US and Japanese releases, on a plain orange CBS label. No dedicated sound-quality comparisons against the US original have surfaced, so treat it as a collectible period pressing from the same general era rather than a confirmed audiophile alternative. **$20–$50.**
+A 1972 UK and Netherlands pressing (**CBS S 64717**) followed roughly a year after the US and Japanese releases, on a plain orange CBS label. No dedicated sound-quality comparisons against the US original have surfaced, so treat it as a collectible period pressing from the same general era rather than a confirmed audiophile alternative.
 
 ---
 
