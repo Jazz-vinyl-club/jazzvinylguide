@@ -10,7 +10,7 @@ The album is notable for being among the first jazz recordings to use overdubbin
 
 **Best modern pressing for audiophiles:** [Analogue Productions AIPJ 35 45rpm 2LP (2011)](https://www.discogs.com/release/2975405-Mingus-The-Black-Saint-And-The-Sinner-Lady) – Kevin Gray, AAA, 180g.
 
-**Best-value modern:** [Acoustic Sounds / Verve 180g 33rpm (2021)](https://www.discogs.com/release/21029962-Mingus-The-Black-Saint-And-The-Sinner-Lady) – Ryan K. Smith at Sterling Sound, orig tapes, QRP, ~$35.
+**Best-value modern:** [Acoustic Sounds / Verve 180g 33rpm (2021)](https://www.discogs.com/release/21029962-Mingus-The-Black-Saint-And-The-Sinner-Lady) – Ryan K. Smith at Sterling Sound, orig tapes, QRP.
 
 
 ## Recording history and tape provenance
@@ -54,23 +54,21 @@ The definitive first pressing of the stereo:
 
 Later first-series copies added the suffix; both are original and sonically equivalent.
 
-**NM stereo originals: $150–$400. VG+: $80–$200.**
-
 ### First mono pressing – A-35
 
-The mono (A-35) exists and is collectible, though the stereo is generally preferred for *Black Saint* specifically, given the album's wide-stage engineering. **NM mono: $100–$300.**
+The mono (A-35) exists and is collectible, though the stereo is generally preferred for *Black Saint* specifically, given the album's wide-stage engineering.
 
 ### ABC Records corporate label (c.1967–1973)
 
-After ABC-Paramount Records changed its corporate name to ABC Records around 1967, label text changed on Impulse! releases. These are later pressings; sonic quality is generally considered inferior to the first series. **$20–$60.**
+After ABC-Paramount Records changed its corporate name to ABC Records around 1967, label text changed on Impulse! releases. These are later pressings; sonic quality is generally considered inferior to the first series.
 
 ---
 
 ## Japanese pressings
 
-**Toshiba Musical Industries (1973)** – widely regarded as the finest Japanese pressing of this title, and a genuine standout even against the US originals. A detailed direct comparison by an independent reviewer against two 1963 first pressings (US Impulse! and Canadian Sparton, both from the original metalwork) found the Toshiba copy had no surface noise and, if anything, slightly more detail and life than the originals: "You definitely lose nothing here over the first pressings, and I think you gain a little." Comes with a thick cardboard gatefold sleeve and obi. [Discogs](https://www.discogs.com/release/8170159-Mingus-The-Black-Saint-And-The-Sinner-Lady) **$50–$100 with obi.**
+**Toshiba Musical Industries (1973)** – widely regarded as the finest Japanese pressing of this title, and a genuine standout even against the US originals. A detailed direct comparison by an independent reviewer against two 1963 first pressings (US Impulse! and Canadian Sparton, both from the original metalwork) found the Toshiba copy had no surface noise and, if anything, slightly more detail and life than the originals: "You definitely lose nothing here over the first pressings, and I think you gain a little." Comes with a thick cardboard gatefold sleeve and obi. [Discogs](https://www.discogs.com/release/8170159-Mingus-The-Black-Saint-And-The-Sinner-Lady)
 
-**Victor Musical Industries (MCA/Impulse! Modern Jazz Selection 1500, Part II)** – black-and-rainbow labels, licensed via MCA. Part of a numbered reissue series for the Japanese market; well-regarded, though not in the same league as the Toshiba pressing above. [Discogs](https://www.discogs.com/release/4069438-Mingus-%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%9F%E3%83%B3%E3%82%AC%E3%82%B9-The-Black-Saint-And-The-Sinner-Lady-%E9%BB%92%E3%81%84%E8%81%96%E8%80%85%E3%81%A8%E7%BD%AA%E3%81%82%E3%82%8B%E5%A5%B3) **$30–$70 with obi.**
+**Victor Musical Industries (MCA/Impulse! Modern Jazz Selection 1500, Part II)** – black-and-rainbow labels, licensed via MCA. Part of a numbered reissue series for the Japanese market; well-regarded, though not in the same league as the Toshiba pressing above. Comes with obi. [Discogs](https://www.discogs.com/release/4069438-Mingus-%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%9F%E3%83%B3%E3%82%AC%E3%82%B9-The-Black-Saint-And-The-Sinner-Lady-%E9%BB%92%E3%81%84%E8%81%96%E8%80%85%E3%81%A8%E7%BD%AA%E3%81%82%E3%82%8B%E5%A5%B3)
 
 ---
 
@@ -78,21 +76,19 @@ After ABC-Paramount Records changed its corporate name to ABC Records around 196
 
 ### Analogue Productions AIPJ 35 45rpm 2×180g (2011) – the audiophile benchmark
 
-**Cat. AIPJ 35** | Format: 2×180g LP, 45rpm. **Mastered by Kevin Gray at AcousTech/Cohearent Audio, AAA, from the original analogue master tapes.** First pressing at RTI (limited and numbered); later QRP pressing. The RTI run was limited to 2,500 copies; the QRP repress followed demand. Both are excellent, with the QRP noted as the quieter pressing. Vinyl Gourmet: "Sonics that will have you convinced Mingus and his compadres are playing in your room." Michael Fremer: "warmer original versus more transparent reissue."
-
-**AIPJ 35 (RTI first run): $200–$400 secondary. QRP repress: $80–$150.**
+**Cat. AIPJ 35** | Format: 2×180g LP, 45rpm. **Mastered by Kevin Gray at AcousTech/Cohearent Audio, AAA, from the original analogue master tapes.** First pressing at RTI (limited and numbered); later QRP pressing. The RTI run was limited to 2,500 copies; the QRP repress followed demand. Both are excellent, with the QRP noted as the quieter pressing – though the limited RTI first run commands a real secondary-market premium over the QRP repress despite that, reflecting its scarcity and numbered-edition status more than any sonic edge. Vinyl Gourmet: "Sonics that will have you convinced Mingus and his compadres are playing in your room." Michael Fremer: "warmer original versus more transparent reissue."
 
 ### Speakers Corner 180g 33rpm (2001) – the pre-AP alternative
 
-**Cat. AS-35** (Speakers Corner label) | Format: 180g LP, 33⅓, gatefold. Pressed in Germany (Pallas); identifiable by specific matrix numbers and stamper codes in the deadwax. Mastering engineer not definitively confirmed (Kevin Gray's initials are not in the deadwax despite forum claims to the contrary). SoundStage Ultra found this to have slightly more space and immediacy than the Acoustic Sounds/Verve 2021 pressing. Now out of print; secondary prices have risen. **$80–$150 secondary.**
+**Cat. AS-35** (Speakers Corner label) | Format: 180g LP, 33⅓, gatefold. Pressed in Germany (Pallas); identifiable by specific matrix numbers and stamper codes in the deadwax. Mastering engineer not definitively confirmed (Kevin Gray's initials are not in the deadwax despite forum claims to the contrary). SoundStage Ultra found this to have slightly more space and immediacy than the Acoustic Sounds/Verve 2021 pressing. Now out of print; secondary prices have risen accordingly.
 
 ### Superior Viaduct (2015) – a genuinely mixed boutique reissue
 
-**Cat. SV-065** | Format: 180g LP, gatefold. Billed as "carefully remastered from the original master tapes," pressed at Rainbo Records. Reception is genuinely split rather than uniformly positive or negative: some owners report excellent, quiet, warm sound ("nicely pressed... no noise audible in the quieter moments"), while others find the mastering choices "off" compared to other versions, describing an unusual degree of instrument separation that reads as less cohesive than expected. One owner who initially liked it later upgraded to the AP 45rpm and found it "on a whole different level" by comparison. Worth trying if found cheaply, but treat reports of its quality with the same caution as any single-source claim, given the split opinions. [Discogs](https://www.discogs.com/release/6675112-Mingus-The-Black-Saint-And-The-Sinner-Lady) **$25–$45 secondary.**
+**Cat. SV-065** | Format: 180g LP, gatefold. Billed as "carefully remastered from the original master tapes," pressed at Rainbo Records. Reception is genuinely split rather than uniformly positive or negative: some owners report excellent, quiet, warm sound ("nicely pressed... no noise audible in the quieter moments"), while others find the mastering choices "off" compared to other versions, describing an unusual degree of instrument separation that reads as less cohesive than expected. One owner who initially liked it later upgraded to the AP 45rpm and found it "on a whole different level" by comparison. Worth trying if found cheaply, but treat reports of its quality with the same caution as any single-source claim, given the split opinions. [Discogs](https://www.discogs.com/release/6675112-Mingus-The-Black-Saint-And-The-Sinner-Lady)
 
 ### Acoustic Sounds / Verve 180g 33rpm (2021) – the accessible modern reference
 
-**Cat. B0033602-01** | Format: 180g LP, 33⅓, gatefold tip-on jacket, QRP. **Mastered by Ryan K. Smith at Sterling Sound, from the original analogue master tapes.** The Acoustic Sounds Series reissue from Verve/Universal was reviewed by Michael Fremer with 10/11 for music and sound: "warmer original versus more transparent reissue – but the reissue is pressed on far quieter vinyl and given a choice I'd take the reissue." At $35–$45 new, it is the recommended purchase for most listeners. **$30–$45 new.**
+**Cat. B0033602-01** | Format: 180g LP, 33⅓, gatefold tip-on jacket, QRP. **Mastered by Ryan K. Smith at Sterling Sound, from the original analogue master tapes.** The Acoustic Sounds Series reissue from Verve/Universal was reviewed by Michael Fremer with 10/11 for music and sound: "warmer original versus more transparent reissue – but the reissue is pressed on far quieter vinyl and given a choice I'd take the reissue." It is the recommended purchase for most listeners.
 
 ---
 
