@@ -6,11 +6,11 @@
 
 The album exists in two layers: what was recorded on February 18, and what Macero assembled from three hours of session tape. Macero constructed two side-long suites using razor-blade splicing and repetition; none of the musicians were satisfied with the session as originally recorded. Zawinul called it “so much noodling around.” Macero brought Davis into the edit suite; Davis said “that’s my record” and refused to budge. The original US Columbia two-eye pressing is the collector target; the Japanese CBS/Sony 25AP 770 is the finest analogue alternative; the Mobile Fidelity 180g is the only dedicated modern audiophile reissue.
 
-**Best early pressing for audiophiles:** [Original US Columbia CS 9875, 360 Sound two-eye label](https://www.discogs.com/release/654119-Miles-Davis-In-A-Silent-Way) – XSM-150308 / XSM-150309 matrices, Columbia lacquer; $60–$200 NM.
+**Best early pressing for audiophiles:** [Original US Columbia CS 9875, 360 Sound two-eye label](https://www.discogs.com/release/654119-Miles-Davis-In-A-Silent-Way) – XSM-150308 / XSM-150309 matrices, Columbia lacquer.
 
-**Best modern pressing for audiophiles:** [Mobile Fidelity MFSL 1-377 180g (2013)](https://www.discogs.com/release/4712200-Miles-Davis-In-A-Silent-Way) – original master tapes → DSD 64 → RTI; numbered; $40–$80 secondary.
+**Best modern pressing for audiophiles:** [Mobile Fidelity MFSL 1-377 180g (2013)](https://www.discogs.com/release/4712200-Miles-Davis-In-A-Silent-Way) – original master tapes → DSD 64 → RTI; numbered.
 
-**Best-value modern:** [Japanese CBS/Sony 25AP 770 (1977)](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way) – faithful, spacious, dead-quiet; $30–$80 with obi.
+**Best-value modern:** [Japanese CBS/Sony 25AP 770 (1977)](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way) – faithful, spacious, dead-quiet, with obi.
 
 
 ## Recording history and tape provenance
@@ -51,15 +51,15 @@ Released July 30, 1969. Single LP, gatefold sleeve. The original US pressing use
 
 **Matrix identification:** Side A: **XSM-150308**; Side B: **XSM-150309**. The suffix letter(s) indicate lacquer sequence. Earliest copies carry low suffix letters (1A, 1B, 1C). Plant identification is by stamp in the dead wax: **T** = Terre Haute, Indiana; **P** = Pitman, New Jersey; **S** (backwards) = Santa Maria, California.
 
-Collector consensus on plant preference varies for this title. Santa Maria plant copies and Terre Haute copies (r8609445) are both well documented. Hi-Fi+ Issue 96 is unambiguous about the original: "The complete sessions released by Mosaic on LP and Sony on CD fell sonically short of what I hear on my pristine 1A original pressing." Original 1969 two-eye copies are appreciating in value. **NM originals: $60–$200. VG+: $30–$100.**
+Collector consensus on plant preference varies for this title. Santa Maria plant copies and Terre Haute copies (r8609445) are both well documented. Hi-Fi+ Issue 96 is unambiguous about the original: "The complete sessions released by Mosaic on LP and Sony on CD fell sonically short of what I hear on my pristine 1A original pressing." Original 1969 two-eye copies are appreciating in value, with NM copies commanding a real premium over VG+.
 
-**European/Dutch original pressing (1969)** – Columbia licensed the album to CBS in Europe, with the Dutch pressing (r395634, cat. S 63630) produced simultaneously with the US release. Discogs owners: "This European/Holland pressing sounds great. The sound is fresh, big, warm, punchy and crispy." The Dutch pressing carries CBS pressing and is considered by some collectors to be sonically very close to the US original – and is available at a significant discount. **$30–$80 VG+.**
+**European/Dutch original pressing (1969)** – Columbia licensed the album to CBS in Europe, with the Dutch pressing (r395634, cat. S 63630) produced simultaneously with the US release. Discogs owners: "This European/Holland pressing sounds great. The sound is fresh, big, warm, punchy and crispy." The Dutch pressing carries CBS pressing and is considered by some collectors to be sonically very close to the US original – and is available at a significant discount.
 
 **Cover note:** Some copies have "Directions In Music By Miles Davis" printed in the lower right corner of the front cover. This appears on both original and early repress copies and is not a distinguishing feature between early and late states.
 
 ### 1971 Columbia one-eye reissue
 
-The 1971 repress uses the Columbia one-eye label design. [Discogs r15107481](https://www.discogs.com/release/15107481-Miles-Davis-In-A-Silent-Way) documents the Santa Maria one-eye pressing: "Exact same stampers as the first two-eye press." For collectors who want the original lacquer cut but not the two-eye price, an early one-eye pressing with original stampers is a strong option. **$20–$50 VG+.**
+The 1971 repress uses the Columbia one-eye label design. [Discogs r15107481](https://www.discogs.com/release/15107481-Miles-Davis-In-A-Silent-Way) documents the Santa Maria one-eye pressing: "Exact same stampers as the first two-eye press." For collectors who want the original lacquer cut but not the two-eye price, an early one-eye pressing with original stampers is a strong option.
 
 ---
 
@@ -71,17 +71,17 @@ The 1971 repress uses the Columbia one-eye label design. [Discogs r15107481](htt
 
 Michael Fremer reviewed it for Analog Planet and rated it 10/10 for music and 8/10 for sound: "I draw that conclusion after comparing this to two early originals and a Japanese Sony pressing... [I]t is a genre-defining classic." Community opinion is otherwise divided. One Discogs owner ([r4712200](https://www.discogs.com/release/4712200-Miles-Davis-In-A-Silent-Way)): "This is a significant upgrade on the Sony Legacy/MOV issues I've had... increased bass presence, richer mids and silkier uppers." A sharply contrasting view: "The MFSL lacks everything: no bass, no dynamics, compressed and reduced high tones (especially poor on the electric piano, the trumpet and the cymbals)." A third: "If you want a fabulous sounding reissue of this LP look no further than the first CBS digital remaster from 1987. Will likely cost half the price too."
 
-The album's quiet, textured character – sustained tones, minimal attack, deep electric piano – may be particularly sensitive to the DSD chain's ceiling. Buyers who prioritise the original's atmosphere over hi-fi fireworks should consider an original pressing or the Japanese CBS/Sony as alternatives. Numbered; still available new from Acoustic Sounds at $39. **$40–$80 secondary.**
+The album's quiet, textured character – sustained tones, minimal attack, deep electric piano – may be particularly sensitive to the DSD chain's ceiling. Buyers who prioritise the original's atmosphere over hi-fi fireworks should consider an original pressing or the Japanese CBS/Sony as alternatives. Numbered; still available new from Acoustic Sounds.
 
 A **revised edition** ([r33400274](https://www.discogs.com/release/33400274-Miles-Davis-In-A-Silent-Way)) with a new barcode and explicit DSD disclosure on the packaging was issued subsequently. Both are sonically identical; the revised edition is more transparent about the mastering chain.
 
 ### Vinyl Me, Please – "Miles Davis: The Electric Years" box (2023) – box-only, but a real modern AAA option
 
-**Cat. 19658755751** (In a Silent Way disc within the set) | Format: 180g LP, 33⅓, stereo, part of an 11-LP, 7-album box. **Mastered AAA by Ryan Smith at Sterling Sound, from 1-to-1 tape transfers of the original master tapes. Pressed at GZ.** Limited to 2,000 numbered box sets. Reproduces the original two-eye label design rather than the later 360 Sound Columbia label. [One detailed comparison](https://www.youtube.com/watch?v=1-H47BmEs9I) against a 1970s Columbia repress (not a true two-eye original) found the two "very very close in terms of their sound quality," with a slight edge to the VMP disc for instrument separation. Not available as a standalone LP – only as part of the full box, which also includes *Bitches Brew*, *A Tribute to Jack Johnson*, *Live-Evil*, *On the Corner*, *Big Fun*, and *Get Up With It*. Worth knowing about primarily if you're already considering the box for the wider catalogue, not as a dedicated way to acquire this specific title alone. **Box set only, not sold separately; original box price ~$400, secondary market varies.**
+**Cat. 19658755751** (In a Silent Way disc within the set) | Format: 180g LP, 33⅓, stereo, part of an 11-LP, 7-album box. **Mastered AAA by Ryan Smith at Sterling Sound, from 1-to-1 tape transfers of the original master tapes. Pressed at GZ.** Limited to 2,000 numbered box sets. Reproduces the original two-eye label design rather than the later 360 Sound Columbia label. [One detailed comparison](https://www.youtube.com/watch?v=1-H47BmEs9I) against a 1970s Columbia repress (not a true two-eye original) found the two "very very close in terms of their sound quality," with a slight edge to the VMP disc for instrument separation. Not available as a standalone LP – only as part of the full box, which also includes *Bitches Brew*, *A Tribute to Jack Johnson*, *Live-Evil*, *On the Corner*, *Big Fun*, and *Get Up With It*. Worth knowing about primarily if you're already considering the box for the wider catalogue, not as a dedicated way to acquire this specific title alone. Box set only, not sold separately.
 
 ### Japanese CBS/Sony 25AP 770 (1977) – the vintage alternative
 
-**Cat. 25AP 770** | Format: 33⅓, stereo, obi strip. **CBS/Sony Inc., Tokyo Japan.** The 1977 Japanese CBS/Sony pressing (cat. **25AP 770**, part of the xxAP 700 series) is consistently praised for its faithful, spacious reproduction. [Discogs r3548638](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way) "The mastering feels very close to the original tape character with minimal digital processing. No loudness, no harsh EQ, no listening fatigue. For listeners who value atmosphere and analog realism over modern hi-fi fireworks, this is easily a reference-quality version of the album." Dynamic Range measurement: DR12. One owner: "Most of the time, to my ears, a 1970s reissue is better than a modern recording." Dead-quiet CBS/Sony vinyl. **$30–$80 NM with obi.** [Discogs r3548638](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way)
+**Cat. 25AP 770** | Format: 33⅓, stereo, obi strip. **CBS/Sony Inc., Tokyo Japan.** The 1977 Japanese CBS/Sony pressing (cat. **25AP 770**, part of the xxAP 700 series) is consistently praised for its faithful, spacious reproduction. [Discogs r3548638](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way) "The mastering feels very close to the original tape character with minimal digital processing. No loudness, no harsh EQ, no listening fatigue. For listeners who value atmosphere and analog realism over modern hi-fi fireworks, this is easily a reference-quality version of the album." Dynamic Range measurement: DR12. One owner: "Most of the time, to my ears, a 1970s reissue is better than a modern recording." Dead-quiet CBS/Sony vinyl, typically with obi. [Discogs r3548638](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way)
 
 ---
 
@@ -101,7 +101,7 @@ A **revised edition** ([r33400274](https://www.discogs.com/release/33400274-Mile
 
 **$$ (Affordable):** A [**Japanese CBS/Sony 25AP 770 (1977)**](https://www.discogs.com/release/3548638-Miles-Davis-In-A-Silent-Way) with obi – DR12 dynamic range, faithful to the tape, analog realism preferred by many over the MoFi.
 
-**$39 new:** The [**Mobile Fidelity MFSL 1-377 180g (2013)**](https://www.discogs.com/release/4712200-Miles-Davis-In-A-Silent-Way) from Acoustic Sounds – the only dedicated audiophile reissue; noted DSD chain.
+**$$$ (Mid-range):** The [**Mobile Fidelity MFSL 1-377 180g (2013)**](https://www.discogs.com/release/4712200-Miles-Davis-In-A-Silent-Way) from Acoustic Sounds – the only dedicated audiophile reissue; noted DSD chain.
 
 **$$$$ (Premium):** An original [**US Columbia 360 Sound two-eye CS 9875**](https://www.discogs.com/release/654119-Miles-Davis-In-A-Silent-Way) in honest VG+ – the definitive period-analog version; prices appreciating.
 
