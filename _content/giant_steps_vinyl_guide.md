@@ -10,7 +10,7 @@ The recording sits at the centre of an unresolved collector debate about mono vs
 
 **Best modern pressing for audiophiles:** [Rhino Hi-Fi mono 180g (2026)](https://www.discogs.com/release/36150202-John-Coltrane-Giant-Steps) – Kevin Gray, AAA, Optimal; current mono benchmark.
 
-**Best-value modern:** [Rhino Reserve 180g stereo (2025)](https://www.discogs.com/release/34957193-John-Coltrane-Giant-Steps) – Matthew Lutthans, Fidelity Record Pressing, single LP; ~$20–$25 new.
+**Best-value modern:** [Rhino Reserve 180g stereo (2025)](https://www.discogs.com/release/34957193-John-Coltrane-Giant-Steps) – Matthew Lutthans, Fidelity Record Pressing, single LP.
 
 
 ## Recording history and tape provenance
@@ -61,7 +61,7 @@ Green-label copies of Giant Steps in the bullseye era that have been represented
 - "STEREO" text on blue background on front cover (earliest variant); later has "STEREO" on black
 - Deep groove also present on bullseye first pressings
 
-**Market values:** NM mono black label deep groove: **$400–$800**. NM stereo bullseye deep groove: **$200–$500**. Non-deep-groove second pressings (same stampers) are sonically very close and much cheaper: **$50–$150**.
+**Market values:** NM mono black label deep groove originals command the highest prices. NM stereo bullseye deep groove copies sit a clear step below. Non-deep-groove second pressings (same stampers) are sonically very close and much cheaper than either.
 
 ### Mono vs. stereo on this album
 
@@ -69,7 +69,7 @@ LJC, who owned both a stereo and a mono original, sold the stereo: "the separati
 
 ### Later Atlantic label variants
 
-**Plum/orange white fan label (1960s):** Second pressings; excellent sound and very affordable at **$20–$60**. LJC notes orange/red Atlantic pressings of this title sound "absolutely stellar" and praises the George Piros-mastered 1970s copies (look for "AT/GP" in deadwax – AT = Atlantic Studios, GP = George Piros the mastering engineer, not Art Taylor the drummer) as better than the 2005 Kevin Gray Rhino reissue.
+**Plum/orange white fan label (1960s):** Second pressings; excellent sound and very affordable. LJC notes orange/red Atlantic pressings of this title sound "absolutely stellar" and praises the George Piros-mastered 1970s copies (look for "AT/GP" in deadwax – AT = Atlantic Studios, GP = George Piros the mastering engineer, not Art Taylor the drummer) as better than the 2005 Kevin Gray Rhino reissue.
 
 **Red/green Warner-era (1970s):** Thin vinyl but the "AT/GP" (Atlantic Studios/George Piros) deadwax variants are notably dynamic. Note: AT stands for Atlantic Studios, not Art Taylor – the session drummer's name is a coincidence. Discogs and LJC forum voices recommend these ahead of some modern reissues. Worth buying if the price is right.
 
@@ -81,17 +81,17 @@ LJC, who owned both a stereo and a mono original, sold the stereo: "the separati
 
 **Cat. R1 71984** | Format: 12×LP box set, numbered limited edition; first edition 1995, second unnumbered edition 2000. Remastered from the original stereo master tapes by Gene Paul. All-analog 150g facsimiles of the original LPs. Stereo throughout. The box includes *Giant Steps*, all Atlantic Coltrane albums, rare outtakes, and a 44-page booklet.
 
-One Discogs owner who compared directly with the 2020 Rhino 60th Anniversary stereo: "I sold my 2020 Rhino 2LP reissue of Giant Steps after comparing it to this, as that had some unwanted hardness and harshness to it. Across the board every album here has a rich and full analog resolution that comes to life through my system." The 150g pressing is quieter than many heavier modern vinyl runs. **$200–$400 used** for the complete box. Worth seeking for the full Atlantic Coltrane context; for *Giant Steps* alone, less cost-effective than later mono pressings.
+One Discogs owner who compared directly with the 2020 Rhino 60th Anniversary stereo: "I sold my 2020 Rhino 2LP reissue of Giant Steps after comparing it to this, as that had some unwanted hardness and harshness to it. Across the board every album here has a rich and full analog resolution that comes to life through my system." The 150g pressing is quieter than many heavier modern vinyl runs. Worth seeking for the full Atlantic Coltrane context; for *Giant Steps* alone, less cost-effective than later mono pressings.
 
 ### Kevin Gray / Acoustech 180g 33rpm stereo (c.2005)
 
-**Cat. R1-75203** | Format: single 180g stereo, Rainbo pressing. Mastered by Kevin Gray at AcousTech Mastering, indicated on the hype sticker. This is the older Kevin Gray stereo cut. LJC notes it shows "evidence that the tape is no longer in good condition" with audible flutter absent on 1970s reissues. One Discogs reviewer found it warm but "lacked some high-end sparkle." One reviewer who owns both this and the AP 75 45rpm: "The copy I settled on before was that Kevin Gray cut at Acoustech which was very warm but lacked some high-end sparkle." The pressing quality (Rainbo) received complaints. **$15–$30 used.**
+**Cat. R1-75203** | Format: single 180g stereo, Rainbo pressing. Mastered by Kevin Gray at AcousTech Mastering, indicated on the hype sticker. This is the older Kevin Gray stereo cut. LJC notes it shows "evidence that the tape is no longer in good condition" with audible flutter absent on 1970s reissues. One Discogs reviewer found it warm but "lacked some high-end sparkle." One reviewer who owns both this and the AP 75 45rpm: "The copy I settled on before was that Kevin Gray cut at Acoustech which was very warm but lacked some high-end sparkle." The pressing quality (Rainbo) received complaints.
 
 ### Rhino 60th Anniversary 180g 33rpm stereo (2020)
 
 **Cat. SD 1311** | Format: 2×180g, 33⅓, deluxe gatefold. **Mastered by Ryan K. Smith at Sterling Sound, AAA, from the original master tape.** Stereo. 2LP set – LP1 contains the original album; LP2 contains eight alternate takes. Comes in a replica sleeve with replica bullseye labels on the discs. Includes booklet by Ashley Kahn.
 
-The current stereo benchmark at an accessible price. Discogs: "I spent much of my first listen to this record with my hand over my heart, my head tilted back, my eyes closed, and my jaw dropped.. I've certainly never heard it with such clarity and power." Another comparing it to the AP 75 45rpm: "The Rhino Stereo 33 perhaps even is overall preferable.. the Rhino has a smidge more punch." The Ryan K. Smith mastering is the same engineer as the AP 75th edition; differences are attributable to the 45rpm speed advantage, not a different source. **~$25–$35 new.**
+The current stereo benchmark at an accessible price. Discogs: "I spent much of my first listen to this record with my hand over my heart, my head tilted back, my eyes closed, and my jaw dropped.. I've certainly never heard it with such clarity and power." Another comparing it to the AP 75 45rpm: "The Rhino Stereo 33 perhaps even is overall preferable.. the Rhino has a smidge more punch." The Ryan K. Smith mastering is the same engineer as the AP 75th edition; differences are attributable to the 45rpm speed advantage, not a different source.
 
 ### Analogue Productions Atlantic 75 45rpm 2LP stereo (2024)
 
@@ -101,39 +101,39 @@ The current stereo benchmark at an accessible price. Discogs: "I spent much of m
 
 [One detailed direct A/B against an original US stereo copy](https://www.youtube.com/watch?v=H4wxnFPdy5Q) found the AP 75 cut noticeably louder than the original – worth accounting for when comparing the two, since level differences alone can make a pressing sound "better." The same reviewer found drums specifically more distinct and better-separated on "Cousin Mary" on the reissue, while "Naima" remained the best-recorded track on either edition. Neither edition fully resolves the underlying muddiness in the bass/drums on the title track itself – a genuine tape-era limitation rather than something any mastering can fix. Note also: the jacket is a flat (non-laminated) tip-on rather than the glossier laminated treatment some Stoughton jackets receive.
 
-**Known defect:** Some copies have the label on Side A unattached to the centre hole – cosmetic only, does not affect sound. **~$50–$80 new.**
+**Known defect:** Some copies have the label on Side A unattached to the centre hole – cosmetic only, does not affect sound.
 
 
 ### Rhino Reserve 180g stereo (2025)
 
 **Cat. ATL-1311 (Rhino Reserve)** | Format: single 180g LP, 33⅓, stereo. **Lacquers cut from the original analog stereo master by Matthew Lutthans at The Mastering Lab. Pressed at Fidelity Record Pressing**, Oxnard, California. Part of Rhino's Rhino Reserve series; available through major retailers including Target. The matrix prefix "RES1-1311" in the deadwax identifies this pressing.
 
-The most affordable new stereo pressing in the catalogue and receiving some of the strongest reviews of any modern pressing. Discogs: "This might be the best sounding record in my collection!" "I can only add to the positive reviews. I don't even like Giant Steps in stereo very much but this feels immediately different to every other way I've heard it. The mix has always felt quite muddy, sometimes even veiled. At least to me. But this is warm and inviting while also having a lot of detail." **~$20–$25 new.**
+The most affordable new stereo pressing in the catalogue and receiving some of the strongest reviews of any modern pressing. Discogs: "This might be the best sounding record in my collection!" "I can only add to the positive reviews. I don't even like Giant Steps in stereo very much but this feels immediately different to every other way I've heard it. The mix has always felt quite muddy, sometimes even veiled. At least to me. But this is warm and inviting while also having a lot of detail."
 
 There is also a **Rhino Reserve mono** edition (**matrix prefix RM1 1311**) in a gatefold jacket, confirmed from Discogs master page reviews. This is a separate product from the Rhino High Fidelity 2026 mono – it is a Rhino Reserve series release, also Kevin Gray–mastered per owner reports ("Get the full Kevin Grey treatment while you can"). The Reserve mono has received strong reviews: "I own three copies of this record and this, by far, is the best pressing. Everyone needs to experience this record in mono." A specific Discogs release number for the mono variant has not been confirmed at the time of writing.
 
 ### Rhino mono 180g (2017)
 
-**Cat. 1311** (Rhino mono 2017) | Format: single 180g mono, 33⅓, tip-on jacket. The mastering credit is not printed on the sleeve, and some copies show no deadwax stamp – but other owners report finding "KPG@CA" (Kevin Gray at Cohearent Audio) hand-etched in the runout, suggesting this may be an uncredited Kevin Gray cut. Community consensus is divided on what the deadwax shows. Despite the uncertainty, it has accumulated very strong reviews: "Mastering wise this just has more life to the playing than the stereo which is abit softer." "Sounds better than the original mono vinyl pressing." "For Giant Steps in mono this is the new standard from what I've heard." One owner who compared it to a clean orange/purple deep-groove Atlantic mono found "the differences are negligible." If the KPG@CA attribution is confirmed on your copy, this may already be a Kevin Gray AAA cut – giving it more provenance than the "no credit" description suggests. **~$15–$25 used.**
+**Cat. 1311** (Rhino mono 2017) | Format: single 180g mono, 33⅓, tip-on jacket. The mastering credit is not printed on the sleeve, and some copies show no deadwax stamp – but other owners report finding "KPG@CA" (Kevin Gray at Cohearent Audio) hand-etched in the runout, suggesting this may be an uncredited Kevin Gray cut. Community consensus is divided on what the deadwax shows. Despite the uncertainty, it has accumulated very strong reviews: "Mastering wise this just has more life to the playing than the stereo which is abit softer." "Sounds better than the original mono vinyl pressing." "For Giant Steps in mono this is the new standard from what I've heard." One owner who compared it to a clean orange/purple deep-groove Atlantic mono found "the differences are negligible." If the KPG@CA attribution is confirmed on your copy, this may already be a Kevin Gray AAA cut – giving it more provenance than the "no credit" description suggests.
 
 ### Rhino Hi-Fi mono 180g (2026)
 
 **Cat. 1311 (Atlantic)** | Part of the **Rhino High Fidelity** series ("Start Your Ear Off Right 2026" indie exclusive, Jan. 9, 2026). Format: single 180g mono, 33⅓. **Mastered by Kevin Gray at Cohearent Audio, AAA from the original mono master tapes. Pressed at Optimal Media.** Heavyweight gatefold jacket with alternate French cover art on the front, original US art inside. Originally a breakout from the "John Coltrane: 1960–1964" Rhino High Fidelity box set (limited to 2,000 numbered copies). This is the first properly credited all-analogue mono pressing of *Giant Steps*, confirmed from the liner notes.
 
-The reception has been divided: most owners praise it highly – "truly remarkable pressing.. the drums come through a lot clearer too. Very warm pressing, really sounds like Coltrane and his band are in the room with you." However one owner who also has the 2017 Rhino mono finds the 2026 "a softer listen. Clean, solid and safe. But maybe a bit too safe and soft. The 2017 is abit more fiery." For those who prefer warmth and refinement, this is the current best mono option. For those who want more forward, punchy mono, the 2017 may suit better – an unusual situation. **~$30–$40 new.**
+The reception has been divided: most owners praise it highly – "truly remarkable pressing.. the drums come through a lot clearer too. Very warm pressing, really sounds like Coltrane and his band are in the room with you." However one owner who also has the 2017 Rhino mono finds the 2026 "a softer listen. Clean, solid and safe. But maybe a bit too safe and soft. The 2017 is abit more fiery." For those who prefer warmth and refinement, this is the current best mono option. For those who want more forward, punchy mono, the 2017 may suit better – an unusual situation.
 
 ---
 
 ### Electric Recording Company (ERC) mono – the collector's pinnacle
 
-Limited to somewhere in the 300–345 copy range – the exact figure is genuinely disputed across sources: [Discogs](https://www.discogs.com/release/22458916-John-Coltrane-Giant-Steps) lists it as an edition of 315, one numbered copy [sold on eBay](https://www.ebay.com/itm/165789687459) reads 326/333, and [one owner reading his own certificate on camera](https://www.youtube.com/watch?v=YjQ5cnSMG_4) states 345; sells for **$400–$600+** on the secondary market regardless. Mastered by Pete Hutchison at Electric Recording Company (London) using Lyrec/EMI tube tape machines and an Ortofon cutting head – no processing, no EQ, no compression. [Stereophile reviewed it](https://www.stereophile.com/content/revinylization-30-coltranes-giant-steps-electric-recording-company): "Coltrane's tenor sax pops out of the soundstage, 3D, brimming of brass, billowing with air: You can practically see him blowing into the mouthpiece... the piano's tones, chords, and overtones are perfectly clear, as are Chambers's bass walks – which you cannot say about any other reissue of this album." For those who have heard it, the consensus is that it is the finest vinyl presentation of this album in existence. For almost all collectors, the Rhino High Fidelity 2026 covers the same mono ground at a fraction of the price. Worth knowing about; essentially impossible to acquire at release price.
+Limited to somewhere in the 300–345 copy range – the exact figure is genuinely disputed across sources: [Discogs](https://www.discogs.com/release/22458916-John-Coltrane-Giant-Steps) lists it as an edition of 315, one numbered copy [sold on eBay](https://www.ebay.com/itm/165789687459) reads 326/333, and [one owner reading his own certificate on camera](https://www.youtube.com/watch?v=YjQ5cnSMG_4) states 345; it commands a substantial premium on the secondary market regardless of the exact edition size. Mastered by Pete Hutchison at Electric Recording Company (London) using Lyrec/EMI tube tape machines and an Ortofon cutting head – no processing, no EQ, no compression. [Stereophile reviewed it](https://www.stereophile.com/content/revinylization-30-coltranes-giant-steps-electric-recording-company): "Coltrane's tenor sax pops out of the soundstage, 3D, brimming of brass, billowing with air: You can practically see him blowing into the mouthpiece... the piano's tones, chords, and overtones are perfectly clear, as are Chambers's bass walks – which you cannot say about any other reissue of this album." For those who have heard it, the consensus is that it is the finest vinyl presentation of this album in existence. For almost all collectors, the Rhino High Fidelity 2026 covers the same mono ground at a fraction of the price. Worth knowing about; essentially impossible to acquire at release price.
 
 
 ## Japanese pressings
 
-The 2018 Warner Music Japan mono reissue (**WPJR-10029**) is the most praised specific Japanese pressing in collector discussions. One owner: "This is, hands down, THE best pressing I have and have ever heard! The sound is spectacular.. rich, fat and deep with no noise at all.. the sound is much better than my old murky US blue/green stereo issue. Detailed, still natural and 'live' sounding." The master engineer confirmed in an interview that "I did not use any digital equipment at all." This is a highly recommended pressing for those who can find it. **$60–$120 with obi.**
+The 2018 Warner Music Japan mono reissue (**WPJR-10029**) is the most praised specific Japanese pressing in collector discussions. One owner: "This is, hands down, THE best pressing I have and have ever heard! The sound is spectacular.. rich, fat and deep with no noise at all.. the sound is much better than my old murky US blue/green stereo issue. Detailed, still natural and 'live' sounding." The master engineer confirmed in an interview that "I did not use any digital equipment at all." This is a highly recommended pressing for those who can find it, typically with obi.
 
-Toshiba-EMI pressed Atlantic Coltrane titles throughout the 1970s–80s and these are consistently praised for dead-quiet vinyl. The early 1970s black label Toshiba copies are the ones to seek; later Warner-Pioneer issues are also good. **$40–$80 with obi.**
+Toshiba-EMI pressed Atlantic Coltrane titles throughout the 1970s–80s and these are consistently praised for dead-quiet vinyl. The early 1970s black label Toshiba copies are the ones to seek; later Warner-Pioneer issues are also good. Typically found with obi.
 
 ---
 
