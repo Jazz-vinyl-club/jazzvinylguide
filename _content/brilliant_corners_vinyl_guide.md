@@ -6,11 +6,11 @@
 
 *Brilliant Corners* was never recorded in stereo, so the entire collector conversation is about who has cut the most transparent mono transfer from the original tape. Three genuine all-analog audiophile mono cuts now exist alongside the original Riverside pressing, each mastered by a different engineer on different equipment, which makes this an unusually clean hierarchy to navigate compared to titles with murkier tape provenance.
 
-**Best early pressing for audiophiles:** [Original Riverside first pressing, RLP 12-226](https://www.discogs.com/release/3835076-Thelonious-Monk-Brilliant-Corners) – white label, deep groove, "418 West 49th St" jacket; under $50 for well-worn examples to $600+ for near-mint copies.
+**Best early pressing for audiophiles:** [Original Riverside first pressing, RLP 12-226](https://www.discogs.com/release/3835076-Thelonious-Monk-Brilliant-Corners) – white label, deep groove, "418 West 49th St" jacket; condition drives price enormously, from well-worn examples to near-mint copies commanding many multiples more.
 
 **Best modern pressing for audiophiles:** [Craft Recordings Small Batch one-step, CR00502](https://www.discogs.com/release/28210087-Thelonious-Monk-Brilliant-Corners) – all-analog, cut by Bernie Grundman, one-step lacquer process.
 
-**Best-value modern:** [Analogue Productions mono LP, AAPJ 12-226](https://www.discogs.com/release/30804867-Thelonious-Monk-Brilliant-Corners) – Kevin Gray cut, widely available new for $30–85.
+**Best-value modern:** [Analogue Productions mono LP, AAPJ 12-226](https://www.discogs.com/release/30804867-Thelonious-Monk-Brilliant-Corners) – Kevin Gray cut, widely available new.
 
 ## Recording history and tape provenance
 
@@ -32,7 +32,7 @@ The master tapes are held by Concord (via its Fantasy/Riverside catalog, now adm
 
 ## Original Riverside pressings
 
-The true first pressing carries white labels with the "mic and reels" logo and "418 West 49th St" printed on the jacket back; it has a deep-groove pressing ring and etched runouts reading `RLP-12-226-A 16 I` / `RLP-12-226-B 16 I`. A 1957 repress exists with the same label design but "553 West 51st St" on the jacket back, reflecting Riverside's office move; later 1958–1963 repressings kept the same catalog number with minor label and cover variations. Condition-graded copies of the true first pressing sell anywhere from under $50 for well-worn examples to $600+ for near-mint copies.
+The true first pressing carries white labels with the "mic and reels" logo and "418 West 49th St" printed on the jacket back; it has a deep-groove pressing ring and etched runouts reading `RLP-12-226-A 16 I` / `RLP-12-226-B 16 I`. A 1957 repress exists with the same label design but "553 West 51st St" on the jacket back, reflecting Riverside's office move; later 1958–1963 repressings kept the same catalog number with minor label and cover variations. Condition drives price enormously for the true first pressing, from well-worn examples to near-mint copies commanding many multiples more.
 
 ---
 
@@ -46,11 +46,11 @@ The true first pressing carries white labels with the "mic and reels" logo and "
 
 ### Electric Recording Company "True Mono" – the boutique ceiling
 
-**Cat. ERC051** | Format: Mono, 33⅓, 2020 | **Cut from the original master tape on a fully restored vintage all-tube analog chain by Pete Hutchison.** Limited to 300 hand-numbered copies with a faithful letterpress reproduction of the original sleeve, label, and inner sleeve. ERC will not repress any title once it sells out, and copies now circulate almost exclusively on the secondary market at a significant premium over the roughly $300–400 original asking price. Reception is not universal – ERC's house sound divides some listeners, and at least one prominent critic has called this specific pressing disappointing compared to its price – but the consensus among most reviewers who've heard it is that it is the most tape-like version available.
+**Cat. ERC051** | Format: Mono, 33⅓, 2020 | **Cut from the original master tape on a fully restored vintage all-tube analog chain by Pete Hutchison.** Limited to 300 hand-numbered copies with a faithful letterpress reproduction of the original sleeve, label, and inner sleeve. ERC will not repress any title once it sells out, and copies now circulate almost exclusively on the secondary market at a significant premium over the original asking price. Reception is not universal – ERC's house sound divides some listeners, and at least one prominent critic has called this specific pressing disappointing compared to its price – but the consensus among most reviewers who've heard it is that it is the most tape-like version available.
 
 ### Craft Recordings Small Batch (One-Step) – the best all-around modern pressing
 
-**Cat. CR00502** | Format: Mono, 33⅓, 180g, one-step, 2023 | **All-analog lacquers cut by Bernie Grundman from the original master tapes, pressed at RTI on Neotech's VR900 compound.** Limited to 4,000 numbered copies, originally $109, packaged in a foil-stamped, linen-wrapped slipcase with new Ashley Kahn liner notes. This is widely regarded as the best-sounding pressing that is still realistically obtainable, though a handful of buyers have reported warped or noisy copies, so it's worth confirming return policies when buying secondhand.
+**Cat. CR00502** | Format: Mono, 33⅓, 180g, one-step, 2023 | **All-analog lacquers cut by Bernie Grundman from the original master tapes, pressed at RTI on Neotech's VR900 compound.** Limited to 4,000 numbered copies, packaged in a foil-stamped, linen-wrapped slipcase with new Ashley Kahn liner notes. This is widely regarded as the best-sounding pressing that is still realistically obtainable, though a handful of buyers have reported warped or noisy copies, so it's worth confirming return policies when buying secondhand.
 
 Some buyers have noted the reproduced cover on this pressing looks noticeably "redder"/warmer-toned than certain vintage originals ([True Audiofiles](https://www.youtube.com/watch?v=ziyPnQzUSx4) first raised this). [WCB Jazz Vinyl's more detailed comparison](https://www.youtube.com/watch?v=YXy00TuyQjI) resolves the question: period Riverside covers themselves varied between warmer- and cooler-toned pressings of the same photograph, so this reflects real variation in the original 1957 printing rather than a reproduction error on Craft's part.
 
@@ -58,15 +58,15 @@ One more thing worth knowing before you chase an "original pressing" for its own
 
 ### Analogue Productions 45rpm (AJAZ 12-226) – out of print, extremely transparent
 
-**Cat. AJAZ 12-226** | Format: Mono, 45rpm, 2LP, 180g, 2003 | **Mastered by Kevin Gray and Steve Hoffman at AcousTech, pressed at RTI, part of the Fantasy 45 Series.** Long out of print and now a $125–400 secondary-market item, but reviewers consistently rank it among the most detailed and transparent versions of this album ever cut, on par with or exceeding the Craft Small Batch.
+**Cat. AJAZ 12-226** | Format: Mono, 45rpm, 2LP, 180g, 2003 | **Mastered by Kevin Gray and Steve Hoffman at AcousTech, pressed at RTI, part of the Fantasy 45 Series.** Long out of print and commanding real secondary-market prices, but reviewers consistently rank it among the most detailed and transparent versions of this album ever cut, on par with or exceeding the Craft Small Batch.
 
 ### Analogue Productions Mono LP (AAPJ 12-226) – the easiest excellent pressing to find
 
-**Cat. AAPJ 12-226** | Format: Mono, 33⅓, 180g, 2023 | **Cut by Kevin Gray at AcousTech Mastering from the original tapes, pressed at QRP.** Uses the same metalwork as the *Thelonious Monk – The Riverside Tenor Sessions* box set. Released under license from Concord/Craft; the AAPJ catalog number appears only on the barcode sticker, while the jacket and label still read RLP 12-226. New copies typically run $30–85 and are the most practical route to an all-analog, professionally mastered pressing.
+**Cat. AAPJ 12-226** | Format: Mono, 33⅓, 180g, 2023 | **Cut by Kevin Gray at AcousTech Mastering from the original tapes, pressed at QRP.** Uses the same metalwork as the *Thelonious Monk – The Riverside Tenor Sessions* box set. Released under license from Concord/Craft; the AAPJ catalog number appears only on the barcode sticker, while the jacket and label still read RLP 12-226. New copies are widely available and are the most practical route to an all-analog, professionally mastered pressing.
 
 ### Original Jazz Classics (OJC-026) – the value original-era reissue
 
-**Cat. OJC-026** | Format: Mono, 33⅓, standard weight, 1982–1990s | **Fantasy's original Original Jazz Classics reissue series, sourced from the same master tapes.** Early-1980s copies pressed at the Columbia Records Pressing Plant in Carrollton, Georgia (identifiable by a "G1" etching in the runout and a thick tip-on jacket) are generally considered the quietest-vinyl OJC pressings of this title; later OJC-026 copies used a thinner cardboard jacket. These sell for well under $30 and remain a legitimate way to hear an accurate mono cut without chasing an expensive original.
+**Cat. OJC-026** | Format: Mono, 33⅓, standard weight, 1982–1990s | **Fantasy's original Original Jazz Classics reissue series, sourced from the same master tapes.** Early-1980s copies pressed at the Columbia Records Pressing Plant in Carrollton, Georgia (identifiable by a "G1" etching in the runout and a thick tip-on jacket) are generally considered the quietest-vinyl OJC pressings of this title; later OJC-026 copies used a thinner cardboard jacket. These remain an inexpensive and legitimate way to hear an accurate mono cut without chasing an expensive original.
 
 ---
 
