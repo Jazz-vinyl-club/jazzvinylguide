@@ -127,6 +127,8 @@ a:hover { color: var(--paper); }
 .album-content table th:nth-child(8), .album-content table td:nth-child(8) { width: 26%; }
 
 /* Contribute banner */
+.related-guides { font-size: 0.875rem; color: var(--paper-dim); margin: 2.5rem 0 0; padding-top: 1.5rem; border-top: 1px solid var(--border); }
+.related-guides strong { color: var(--paper); font-weight: 600; }
 .contribute-banner { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--gold); padding: 1.25rem 1.5rem; margin: 3rem 0 0; display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
 .contribute-banner p { margin: 0; font-size: 0.875rem; color: var(--paper-dim); }
 .contribute-banner strong { color: var(--paper); }

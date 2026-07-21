@@ -445,7 +445,29 @@ def build_index(albums):
         f.write(html_shell("Jazz Vinyl Guide", HOME_DESCRIPTION, body, canonical_path="/", structured_data=website_ld))
     print("  ✓ index.html")
 
-def build_album(album, last_updated=None):
+def get_related_albums(album, all_albums):
+    """Pick up to 3 genuinely related guides: same artist first, then same
+    label (closest year), then (only for albums with neither) closest year
+    across the whole catalogue. Real shared facts, not arbitrary padding -
+    if fewer than 2 genuine candidates exist, fewer than 2 are shown."""
+    others = [a for a in all_albums if a['slug'] != album['slug']]
+    year = int(album['year'])
+    same_artist = [a for a in others if a['artist'] == album['artist']]
+    same_artist.sort(key=lambda a: abs(int(a['year']) - year))
+    same_label = [a for a in others if a['label'] == album['label'] and a['artist'] != album['artist']]
+    same_label.sort(key=lambda a: abs(int(a['year']) - year))
+    picks = []
+    for a in same_artist + same_label:
+        if a not in picks:
+            picks.append(a)
+        if len(picks) >= 3:
+            break
+    if not picks:
+        by_year = sorted(others, key=lambda a: abs(int(a['year']) - year))
+        picks = by_year[:3]
+    return picks[:3]
+
+def build_album(album, last_updated=None, all_albums=None):
     slug, title, artist, label, year = album['slug'], album['title'], album['artist'], album['label'], album['year']
     cp = os.path.join(CONTENT_DIR, album['content_file'])
     if not os.path.exists(cp):
@@ -455,6 +477,13 @@ def build_album(album, last_updated=None):
 
     summary_html, content_html = extract_summary(md_text)
     content_html = inject_market_column(content_html, load_market_data())
+
+    related_html = ''
+    if all_albums:
+        related = get_related_albums(album, all_albums)
+        if related:
+            links = ' · '.join(f'<a href="/albums/{r["slug"]}.html">{r["title"]}</a>' for r in related)
+            related_html = f'<p class="related-guides"><strong>Related guides:</strong> {links}</p>'
 
     mbid = album.get('mbid', '')
     itunes_query = urllib.parse.quote(f"{artist} {title}")
@@ -505,6 +534,7 @@ def build_album(album, last_updated=None):
   </aside>
   <article class="album-content" id="album-content">
     {content_html}
+    {related_html}
     <div class="contribute-banner">
       <p><strong>Know something we don't?</strong> Spotted an error or have a pressing to add?</p>
       <a class="btn" href="{github_url}" target="_blank" rel="noopener">Edit this page on GitHub</a>
@@ -719,7 +749,7 @@ def main():
         if not match:
             print(f"Not found: {target}"); sys.exit(1)
         print(f"Building {target}...")
-        build_album(match[0])
+        build_album(match[0], all_albums=albums)
         build_changelog(match[0])
         build_index(albums)
     else:
@@ -734,7 +764,7 @@ def main():
         lastmod_by_file = {a['content_file']: get_last_updated(a['content_file']) for a in albums}
         build_sitemap(albums, lastmod_by_file)
         for a in albums:
-            build_album(a, lastmod_by_file.get(a['content_file']))
+            build_album(a, lastmod_by_file.get(a['content_file']), all_albums=albums)
             build_changelog(a)
     print("\nDone.")
 
