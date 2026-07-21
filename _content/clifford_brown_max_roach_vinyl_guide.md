@@ -6,9 +6,9 @@
 
 The New York Times described the quintet as "perhaps the definitive bop group until Mr. Brown's fatal automobile accident in 1956." Brown died on June 26, 1956 – his second wedding anniversary – aged 25. The Acoustic Sounds Series 180g mono (2025) is the current definitive modern pressing; the Mosaic 4LP box set (2012) is the finest complete collection of the quintet's EmArcy work. Original EmArcy pressings are genuinely difficult to find in good condition – and the Acoustic Sounds remaster consistently outperforms them sonically.
 
-**Best early pressing for audiophiles:** [Original EmArcy MG-36036 12" mono (1955)](https://www.discogs.com/release/2862128-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – first 12" pressing; $200–$600 NM.
+**Best early pressing for audiophiles:** [Original EmArcy MG-36036 12" mono (1955)](https://www.discogs.com/release/2862128-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – first 12" pressing.
 
-**Best modern pressing for audiophiles:** [Acoustic Sounds Series 180g mono, AEMA 78844 (2025)](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – Matthew Lutthans, The Mastering Lab, QRP, gatefold tip-on; ~$35–$45.
+**Best modern pressing for audiophiles:** [Acoustic Sounds Series 180g mono, AEMA 78844 (2025)](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – Matthew Lutthans, The Mastering Lab, QRP, gatefold tip-on.
 
 **Best-value modern:** Same Acoustic Sounds Series – the only widely available modern audiophile option.
 
@@ -49,13 +49,13 @@ The quintet signed with EmArcy, Mercury's new jazz imprint, in the summer of 195
 
 ### 10" EmArcy MG-26043 (December 1954) – the true first pressing
 
-The original release was a **10" LP** containing five tracks: "Delilah," "Parisian Thoroughfare," "Daahoud," "Joy Spring," and "Jordu." All from the August 1954 Hollywood sessions. Label: EmArcy, yellow and silver label typical of the 1954 Mercury/EmArcy design. Extremely rare in excellent condition. [Discogs r4869491](https://www.discogs.com/release/4869491-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach). **$400–$1,000+ NM.**
+The original release was a **10" LP** containing five tracks: "Delilah," "Parisian Thoroughfare," "Daahoud," "Joy Spring," and "Jordu." All from the August 1954 Hollywood sessions. Label: EmArcy, yellow and silver label typical of the 1954 Mercury/EmArcy design. Extremely rare in excellent condition. [Discogs r4869491](https://www.discogs.com/release/4869491-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach).
 
 ### 12" EmArcy MG-36036 (1955) – the standard collectible
 
 The 12" expansion added "The Blues Walk" and "What Am I Here For?" from the February 1955 New York session. This is the standard collected edition. Two early variants exist. The earliest ([r2862128](https://www.discogs.com/release/2862128-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach)) has printing in blue on the back cover. A slightly later first edition ([r19125328](https://www.discogs.com/release/19125328-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach)) has black back-cover printing, blue "Drummer" labels without the Mercury helmet, and a deep groove – matrix **MG36036A MF4** / **MG36036B MF3**. A later US reissue (1958) carries the same cat. number on Mercury Emarcy Jazz labels – check the matrix for the original.
 
-One Discogs owner notes: "I wish Acoustic Sounds would remaster this one too. The OG EmArcy pressings are a little less than great sounding." The engineering of the 1954 sessions was competent but not exceptional by the standards of Van Gelder or other contemporaneous engineers – the Acoustic Sounds remaster consistently outperforms the original in direct comparisons. **NM 12" originals: $200–$600. VG+: $80–$200.**
+One Discogs owner notes: "I wish Acoustic Sounds would remaster this one too. The OG EmArcy pressings are a little less than great sounding." The engineering of the 1954 sessions was competent but not exceptional by the standards of Van Gelder or other contemporaneous engineers – the Acoustic Sounds remaster consistently outperforms the original in direct comparisons.
 
 ---
 
@@ -65,19 +65,19 @@ One Discogs owner notes: "I wish Acoustic Sounds would remaster this one too. Th
 
 **Cat. AEMA 78844** | Format: 180g LP, 33⅓, mono, gatefold tip-on jacket. **Mastered by Matthew Lutthans at The Mastering Lab, from the original analogue tapes. Pressed at QRP.** Part of Verve's Acoustic Sounds Series. Presented in original mono. Released December 12, 2025.
 
-[Audiophilia](https://www.audiophilia.com/reviews/2025/12/20/clifford-brown-max-roachemarcy-acoustic-sounds-seriesvinyl-reissue-2025) reviewed it favourably: "The set begins with a leisurely but swinging 'Delilah' with great trades between Brown and Land. No matter the tempo or style, Brown and Land's soloing is super tasteful. Every note out of the horns sounds exactly as you feel they should." [Discogs](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) community on the same pressing: "What an amazing reissue. Recorded 70 years ago but sounds like yesterday." Another: "Superb sound quality that does the extraordinary music justice. Flat and dead quiet." One critical note: one reviewer found the bass "a bit shy" and would have preferred a double 45rpm cut given the length of side one. One copy had a dish warp on side A that didn't affect playback. **~$35–$45 new.**
+[Audiophilia](https://www.audiophilia.com/reviews/2025/12/20/clifford-brown-max-roachemarcy-acoustic-sounds-seriesvinyl-reissue-2025) reviewed it favourably: "The set begins with a leisurely but swinging 'Delilah' with great trades between Brown and Land. No matter the tempo or style, Brown and Land's soloing is super tasteful. Every note out of the horns sounds exactly as you feel they should." [Discogs](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) community on the same pressing: "What an amazing reissue. Recorded 70 years ago but sounds like yesterday." Another: "Superb sound quality that does the extraordinary music justice. Flat and dead quiet." One critical note: one reviewer found the bass "a bit shy" and would have preferred a double 45rpm cut given the length of side one. One copy had a dish warp on side A that didn't affect playback.
 
 ### Mosaic MRLP 3004 4LP box set (2012) – the complete EmArcy collection
 
 **Cat. MRLP 3004** | Format: 4×180g LP, mono, limited to 2,500 numbered copies. **Mastered by Ryan Smith at Sterling Sound, from the original analog masters (pre-Universal fire, 2012). Pressed at RTI.** The Mosaic box set covers all four quintet albums: *Brown and Roach Incorporated*, *Clifford Brown & Max Roach*, *Study in Brown*, and *Clifford Brown and Max Roach at Basin Street*. Bob Blumenthal essay, photographs by Chuck Stewart and Francis Wolff.
 
-Stereophile reviewed it (February 2013, Record of the Month, Performance ★★★★★, Sonics ★★★★★): "For any Brown and Roach fans, this is it. The pressing is silent and the sonics are open and forward. The newer Acoustic Sounds Series of Study in Brown sounds a bit better, but there aren't any better sounding versions of the other 3 albums than the ones in this set by a far margin that I'm aware of." One Discogs owner: "Vinyl is super quiet, pressing is amazing. Performances are also stellar." Now out of print. **$400–$700 secondary.** [Discogs r4497482](https://www.discogs.com/release/4497482-Clifford-BrownMax-Roach-The-Clifford-BrownMax-Roach-Emarcy-Albums)
+Stereophile reviewed it (February 2013, Record of the Month, Performance ★★★★★, Sonics ★★★★★): "For any Brown and Roach fans, this is it. The pressing is silent and the sonics are open and forward. The newer Acoustic Sounds Series of Study in Brown sounds a bit better, but there aren't any better sounding versions of the other 3 albums than the ones in this set by a far margin that I'm aware of." One Discogs owner: "Vinyl is super quiet, pressing is amazing. Performances are also stellar." Now out of print. [Discogs r4497482](https://www.discogs.com/release/4497482-Clifford-BrownMax-Roach-The-Clifford-BrownMax-Roach-Emarcy-Albums)
 
 ---
 
 ## Japanese pressings
 
-EmArcy titles were licensed to Nippon Phonogram / Mercury Japan and later to PolyGram Japan through the late 1970s and 1980s. The Japanese editions of *Clifford Brown & Max Roach* are consistently praised for superior vinyl quality and faithful reproduction. Look for pressings on the **Mercury/EmArcy Japan** label with an obi strip. The 1971 Japanese pressing (**cat. 15PJ-2018(M)**) is the most commonly encountered and well reviewed. Dead-quiet vinyl, natural mono presentation. **$40–$100 with obi.**
+EmArcy titles were licensed to Nippon Phonogram / Mercury Japan and later to PolyGram Japan through the late 1970s and 1980s. The Japanese editions of *Clifford Brown & Max Roach* are consistently praised for superior vinyl quality and faithful reproduction. Look for pressings on the **Mercury/EmArcy Japan** label with an obi strip. The 1971 Japanese pressing (**cat. 15PJ-2018(M)**) is the most commonly encountered and well reviewed. Dead-quiet vinyl, natural mono presentation.
 
 
 ---
@@ -96,7 +96,7 @@ EmArcy titles were licensed to Nippon Phonogram / Mercury Japan and later to Pol
 
 ## Buyer's guide by budget
 
-**$$ (Affordable):** The [**Acoustic Sounds Series AEMA 78844 180g mono (2025)**](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – Matthew Lutthans, QRP, the definitive accessible modern option. ~$35–$45 new from Acoustic Sounds.
+**$$ (Affordable):** The [**Acoustic Sounds Series AEMA 78844 180g mono (2025)**](https://www.discogs.com/release/27428121-Clifford-Brown-And-Max-Roach-Clifford-Brown-And-Max-Roach) – Matthew Lutthans, QRP, the definitive accessible modern option.
 
 **$$$ (Mid-range):** A **Japanese Mercury/EmArcy pressing with obi** (cat. 15PJ-2018(M)) – dead-quiet vinyl, warm mono character; strong secondary option.
 
