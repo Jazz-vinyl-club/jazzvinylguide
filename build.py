@@ -281,6 +281,53 @@ def inject_market_column(content_html, market_data):
     return content_html[: match.start()] + table_html + content_html[match.end() :] + MARKET_SORT_SCRIPT
 
 
+ITUNES_CACHE_FILE = os.path.join(BASE_DIR, "itunes_cover_cache.json")
+
+def load_itunes_cache():
+    if os.path.exists(ITUNES_CACHE_FILE):
+        try:
+            with open(ITUNES_CACHE_FILE) as f:
+                return json.load(f)
+        except Exception:
+            pass
+    return {}
+
+def save_itunes_cache(cache):
+    with open(ITUNES_CACHE_FILE, 'w') as f:
+        json.dump(cache, f, indent=2, sort_keys=True)
+
+def get_itunes_cover_url(artist, title, cache):
+    """Look up cover art via the iTunes Search API server-side, at build
+    time -- not client-side JS. The iTunes API's CORS support is
+    documented as unreliable (missing or stale Access-Control-Allow-Origin
+    headers in practice), which silently breaks a browser-side fetch with
+    no visible error to the user. A server-to-server request at build time
+    has no CORS exposure at all. Successful lookups are cached to
+    itunes_cover_cache.json so a resolved cover is locked in and doesn't
+    get re-queried. Failures are deliberately NOT cached, so a transient
+    network issue (or this sandbox's own network restrictions, which
+    can't reach itunes.apple.com at all) gets retried on the next build
+    rather than permanently recorded as 'no cover exists'."""
+    cache_key = f"{artist}|{title}"
+    if cache_key in cache:
+        return cache[cache_key]
+    try:
+        query = urllib.parse.quote(f"{artist} {title}")
+        url = f"https://itunes.apple.com/search?entity=album&limit=1&term={query}"
+        req = urllib.request.Request(url, headers={"User-Agent": "jazzvinylguide.com build script"})
+        with urllib.request.urlopen(req, timeout=8) as r:
+            data = json.loads(r.read())
+        results = data.get('results') or []
+        art = results[0].get('artworkUrl100') if results else None
+        if art:
+            resolved = art.replace('100x100bb', '600x600bb')
+            cache[cache_key] = resolved
+            return resolved
+        return None
+    except Exception as e:
+        print(f"    (iTunes cover lookup failed for {artist} - {title}: {e})")
+        return None
+
 def get_last_updated(content_file):
     """Fetch last commit date for a file from GitHub API, as an ISO-8601
     date (YYYY-MM-DD) -- used for machine-readable metadata (sitemap
@@ -388,7 +435,7 @@ def extract_summary(md_text):
         return '', _render('\n'.join(lines))
     return _render('\n'.join(summary_lines).strip()), _render('\n'.join(rest_lines))
 
-def build_index(albums):
+def build_index(albums, itunes_cache=None):
     rows = ""
     for a in albums:
         mbid = a.get('mbid', '')
@@ -401,7 +448,11 @@ def build_index(albums):
         if mbid:
             thumb = f'<img src="https://coverartarchive.org/release-group/{mbid}/front-250" alt="{a["artist"]} — {title_esc} album cover" class="album-card__cover" loading="lazy" data-itunes-fallback="{itunes_query}" onerror="window.tryItunesCoverFallback(this)">'
         else:
-            thumb = f'<img alt="{a["artist"]} — {title_esc} album cover" class="album-card__cover" loading="lazy" data-itunes-fallback="{itunes_query}">'
+            itunes_url = get_itunes_cover_url(a['artist'], a['title'], itunes_cache) if itunes_cache is not None else None
+            if itunes_url:
+                thumb = f'<img src="{itunes_url}" alt="{a["artist"]} — {title_esc} album cover" class="album-card__cover" loading="lazy">'
+            else:
+                thumb = f'<img alt="{a["artist"]} — {title_esc} album cover" class="album-card__cover" loading="lazy" data-itunes-fallback="{itunes_query}">'
         rows += f'''    <a class="album-card" href="/albums/{a['slug']}.html" data-title="{title_lower}" data-artist="{artist_lower}" data-label="{label_lower}" data-year="{year_val}">
       {thumb}
       <h2 class="album-card__title">{a['title']}</h2>
@@ -467,7 +518,7 @@ def get_related_albums(album, all_albums):
         picks = by_year[:3]
     return picks[:3]
 
-def build_album(album, last_updated=None, all_albums=None):
+def build_album(album, last_updated=None, all_albums=None, itunes_cache=None):
     slug, title, artist, label, year = album['slug'], album['title'], album['artist'], album['label'], album['year']
     cp = os.path.join(CONTENT_DIR, album['content_file'])
     if not os.path.exists(cp):
@@ -491,19 +542,29 @@ def build_album(album, last_updated=None, all_albums=None):
         # Try Cover Art Archive via mbid first; if that specific release-group
         # has no art registered (a real, fairly common gap), fall back to an
         # iTunes Search API lookup by artist+title at runtime in the visitor's
-        # browser. iTunes has near-universal commercial-release coverage and
-        # needs no mbid or API key, so this self-heals future albums too
-        # without anyone needing to manually source and commit an image file.
-        # One standard for every album -- no separate pre-committed-file path.
+        # browser. One standard for every album -- no separate pre-committed-
+        # file path. (The mbid case still relies on the client-side onerror
+        # fallback, since whether CAA has art for a given release-group can
+        # only be known once the browser actually tries to load it.)
         cover_html = f'''    <figure class="album-header__cover">
       <img src="https://coverartarchive.org/release-group/{mbid}/front-500" alt="{artist} — {title} album cover" width="160" height="160" loading="lazy" data-itunes-fallback="{itunes_query}" onerror="window.tryItunesCoverFallback(this)">
     </figure>'''
     else:
-        # No mbid at all -- go straight to the iTunes fallback. main.js scans
-        # for cover images with no src on page load and triggers the lookup
-        # directly, since a missing src doesn't reliably fire onerror in
-        # every browser.
-        cover_html = f'''    <figure class="album-header__cover">
+        # No mbid at all. Resolved server-side at build time instead of
+        # relying on the client-side iTunes fallback alone -- the iTunes
+        # Search API's CORS support is documented as unreliable (missing or
+        # stale Access-Control-Allow-Origin headers in the wild), which can
+        # silently break a browser-side fetch with no visible error. A
+        # build-time server-to-server request has no CORS exposure at all.
+        itunes_url = get_itunes_cover_url(artist, title, itunes_cache) if itunes_cache is not None else None
+        if itunes_url:
+            cover_html = f'''    <figure class="album-header__cover">
+      <img src="{itunes_url}" alt="{artist} — {title} album cover" width="160" height="160" loading="lazy">
+    </figure>'''
+        else:
+            # Couldn't resolve at build time either -- leave the client-side
+            # fallback attribute as a last-resort safety net.
+            cover_html = f'''    <figure class="album-header__cover">
       <img alt="{artist} — {title} album cover" width="160" height="160" loading="lazy" data-itunes-fallback="{itunes_query}">
     </figure>'''
 
@@ -743,18 +804,19 @@ def build_sitemap(albums, lastmod_by_file=None):
 def main():
     with open(ALBUMS_FILE) as f:
         albums = json.load(f)
+    itunes_cache = load_itunes_cache()
     target = sys.argv[1] if len(sys.argv) > 1 else None
     if target:
         match = [a for a in albums if a['slug'] == target]
         if not match:
             print(f"Not found: {target}"); sys.exit(1)
         print(f"Building {target}...")
-        build_album(match[0], all_albums=albums)
+        build_album(match[0], all_albums=albums, itunes_cache=itunes_cache)
         build_changelog(match[0])
-        build_index(albums)
+        build_index(albums, itunes_cache=itunes_cache)
     else:
         print("Building all pages...")
-        build_index(albums)
+        build_index(albums, itunes_cache=itunes_cache)
         build_status(albums)
         # One GitHub API call per album, not two (build_album's Article
         # dateModified and build_sitemap's <lastmod> used to each fetch this
@@ -764,8 +826,9 @@ def main():
         lastmod_by_file = {a['content_file']: get_last_updated(a['content_file']) for a in albums}
         build_sitemap(albums, lastmod_by_file)
         for a in albums:
-            build_album(a, lastmod_by_file.get(a['content_file']), all_albums=albums)
+            build_album(a, lastmod_by_file.get(a['content_file']), all_albums=albums, itunes_cache=itunes_cache)
             build_changelog(a)
+    save_itunes_cache(itunes_cache)
     print("\nDone.")
 
 if __name__ == "__main__":
