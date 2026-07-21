@@ -6,12 +6,11 @@
 
 Both the original mono (A-5) and stereo (AS-5) are highly regarded. The stereo is the more commonly collected version; the mono is preferred by those who favour midrange density. All major modern reissues – Analogue Productions, Speakers Corner, and the Acoustic Sounds Series – are derived from the original analogue master tapes and differ primarily in character rather than quality. The Acoustic Sounds 180g (2021) is the current reference; the Speakers Corner (2003) is often preferred for its warmer character.
 
-**Best early pressing for audiophiles:** [Original Impulse! AS-5 stereo, orange/black label, Van Gelder stamp](https://www.discogs.com/release/12434112-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) – abstract cover (first state) or revised blue portrait cover; $150–$400 NM.
+**Best early pressing for audiophiles:** [Original Impulse! AS-5 stereo, orange/black label, Van Gelder stamp](https://www.discogs.com/release/12434112-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) – abstract cover (first state) or revised blue portrait cover.
 
-**Best modern pressing for audiophiles:** [Acoustic Sounds Series 180g (2021)](https://www.discogs.com/release/19292413-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) – Ryan K. Smith, Sterling Sound, AAA, QRP; ~$35 new.
+**Best modern pressing for audiophiles:** [Acoustic Sounds Series 180g (2021)](https://www.discogs.com/release/19292413-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) – Ryan K. Smith, Sterling Sound, AAA, QRP.
 
 **Best-value modern:** Same Acoustic Sounds Series – widely available new at a modest price.
-
 
 ## Recording history and tape provenance
 
@@ -51,19 +50,15 @@ The mono pressing is Impulse!'s original format for this title. Matrix: **A-5-A*
 
 The mono presents a more concentrated midrange and a tighter ensemble sound. Preferred by some collectors for this reason; others find the stereo's wider staging more revealing of Van Gelder's placement of instruments.
 
-**NM originals: $200–$500. VG+: $100–$250.**
-
 ### Stereo original – AS-5, orange/black label
 
 The stereo issue is the more commonly encountered and more widely collected of the two. Same orange/black label design, same RVG/Van Gelder stamp in deadwax. Matrix: **AS-5-A** / **AS-5-B**.
 
 The two cover states (abstract and revised blue portrait) both appear on original pressings. [Discogs r12434112](https://www.discogs.com/release/12434112-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) documents the revised cover variant with AS-5-A / AS-5-B matrices on the labels. The abstract cover first state is documented separately.
 
-**NM originals: $150–$400. VG+: $75–$200.**
-
 ### Later Impulse! pressings
 
-Impulse! moved through several label design changes: the **black/red rim** label appeared from around 1968 (still with Van Gelder stamp on early copies); later ABC/MCA pressings use different label designs entirely. As LJC notes, early black/red rim copies with the Van Gelder stamp can be sonically very close to the originals but trade at a significant discount. **$40–$120 VG+.**
+Impulse! moved through several label design changes: the **black/red rim** label appeared from around 1968 (still with Van Gelder stamp on early copies); later ABC/MCA pressings use different label designs entirely. As LJC notes, early black/red rim copies with the Van Gelder stamp can be sonically very close to the originals but trade at a significant discount.
 
 ---
 
@@ -71,33 +66,33 @@ Impulse! moved through several label design changes: the **black/red rim** label
 
 ### Acoustic Sounds Series 180g (2021) – the current reference
 
-**Cat. AS-5** (Acoustic Sounds / Verve) | Format: 180g LP, 33⅓, gatefold. **Mastered by Ryan K. Smith at Sterling Sound, AAA, from the original master tapes. Pressed at QRP.** The most widely praised modern pressing of this title. [Discogs](https://www.discogs.com/release/19292413-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) owners are unanimous: "This Verve/Impulse! Acoustic Sounds Series reissue is an essential purchase and a truly definitive pressing. The soundstage is incredibly wide, offering precise imaging and a three-dimensional depth that makes the all-star band jump out of the speakers." Another: "This pressing sounds insanely good in every respect." And: "5 star pressing for a modern reissue – quiet and all the instruments are very clear in the mix." Widely available new. **~$35 new.**
+**Cat. AS-5** (Acoustic Sounds / Verve) | Format: 180g LP, 33⅓, gatefold. **Mastered by Ryan K. Smith at Sterling Sound, AAA, from the original master tapes. Pressed at QRP.** The most widely praised modern pressing of this title. [Discogs](https://www.discogs.com/release/19292413-Oliver-Nelson-The-Blues-And-The-Abstract-Truth) owners are unanimous: "This Verve/Impulse! Acoustic Sounds Series reissue is an essential purchase and a truly definitive pressing. The soundstage is incredibly wide, offering precise imaging and a three-dimensional depth that makes the all-star band jump out of the speakers." Another: "This pressing sounds insanely good in every respect." And: "5 star pressing for a modern reissue – quiet and all the instruments are very clear in the mix." Widely available new.
 
 ### Speakers Corner 180g (2003) – the warmer alternative
 
-**Cat. IMP A-5** (Speakers Corner) | Format: 180g LP, 33⅓, gatefold. **Mastered by Kevin Gray, Pallas pressing, Germany.** The Speakers Corner edition predates the Acoustic Sounds by 18 years and remains a strong pressing. One Discogs owner who compared both directly: "The Speakers Corner is warmer with fuller bass and a more cohesive sense of a band playing off one another and vibing together. The RKS mastering is more crisp and airy, bigger stage, bass a little more reserved, I'm guessing closer to how the tape sounds. Neither is bad, but I prefer the Speakers Corner." Another: "I took a chance on this pressing and it sounds AWESOME! It has ALL the tubey magic of a vintage copy. I highly recommend it." Now out of print on secondary market. **$80–$150 secondary.** [Discogs r1700545](https://www.discogs.com/release/1700545-Oliver-Nelson-The-Blues-And-The-Abstract-Truth)
+**Cat. IMP A-5** (Speakers Corner) | Format: 180g LP, 33⅓, gatefold. **Mastered by Kevin Gray, Pallas pressing, Germany.** The Speakers Corner edition predates the Acoustic Sounds by 18 years and remains a strong pressing. One Discogs owner who compared both directly: "The Speakers Corner is warmer with fuller bass and a more cohesive sense of a band playing off one another and vibing together. The RKS mastering is more crisp and airy, bigger stage, bass a little more reserved, I'm guessing closer to how the tape sounds. Neither is bad, but I prefer the Speakers Corner." Another: "I took a chance on this pressing and it sounds AWESOME! It has ALL the tubey magic of a vintage copy. I highly recommend it." Now out of print on secondary market. [Discogs r1700545](https://www.discogs.com/release/1700545-Oliver-Nelson-The-Blues-And-The-Abstract-Truth)
 
 ### Analogue Productions 45rpm 2LP – 200g QRP pressing (2010)
 
-**Cat. AAIMP 5** | Format: 2×200g LP, 45rpm, gatefold. **Mastered by Kevin Gray and Steve Hoffman at AcousTech, from the original master tapes. Pressed at QRP.** The upgraded AP pressing on 200g QRP vinyl followed the original 2009 RTI pressing. Dennis Davis in Hi-Fi+ (Issue 68): "Let me cut to the chase here and recommend that you buy two copies – one to enjoy and the other to hold for resale, because some day Acoustic Sounds' licence will run out and lots of jazz fans will be kicking themselves for not buying a copy. Kevin Gray has turned out a perfect remastering job and this is my choice for reissue of the year." Recording = 10/10; Music = 10/10. Now OOP; secondary prices have risen since the Acoustic Sounds Series took over as the accessible modern reference. A direct A/B by one long-time collector who owns both found the AP 45rpm "sounds a bit better" than the newer 33⅓ Acoustic Sounds Series, though both were called excellent and the price gap is now substantial – this is a single listener's preference rather than a consensus, and does not change the tier ordering below. **$150–$300 secondary.** [Discogs r2940887](https://www.discogs.com/release/2940887-Oliver-Nelson-The-Blues-And-The-Abstract-Truth)
+**Cat. AAIMP 5** | Format: 2×200g LP, 45rpm, gatefold. **Mastered by Kevin Gray and Steve Hoffman at AcousTech, from the original master tapes. Pressed at QRP.** The upgraded AP pressing on 200g QRP vinyl followed the original 2009 RTI pressing. Dennis Davis in Hi-Fi+ (Issue 68): "Let me cut to the chase here and recommend that you buy two copies – one to enjoy and the other to hold for resale, because some day Acoustic Sounds' licence will run out and lots of jazz fans will be kicking themselves for not buying a copy. Kevin Gray has turned out a perfect remastering job and this is my choice for reissue of the year." Recording = 10/10; Music = 10/10. Now OOP; secondary prices have risen since the Acoustic Sounds Series took over as the accessible modern reference. A direct A/B by one long-time collector who owns both found the AP 45rpm "sounds a bit better" than the newer 33⅓ Acoustic Sounds Series, though both were called excellent and the price gap between them is now substantial – this is a single listener's preference rather than a consensus, and does not change the tier ordering below. [Discogs r2940887](https://www.discogs.com/release/2940887-Oliver-Nelson-The-Blues-And-The-Abstract-Truth)
 
 ### Analogue Productions 45rpm 2LP – 180g RTI pressing (2009)
 
-**Cat. AAIMP 5** | Format: 2×180g LP, 45rpm, gatefold, first 1,500 numbered. **Mastered by Kevin Gray and Steve Hoffman at AcousTech, from the original master tapes. Pressed at RTI.** The original AP pressing, slightly earlier than the 200g QRP version. Same mastering; QRP vinyl is generally preferred for its lower noise floor. **$100–$200 secondary.** [Discogs r3775239](https://www.discogs.com/release/3775239-Oliver-Nelson-The-Blues-And-The-Abstract-Truth)
+**Cat. AAIMP 5** | Format: 2×180g LP, 45rpm, gatefold, first 1,500 numbered. **Mastered by Kevin Gray and Steve Hoffman at AcousTech, from the original master tapes. Pressed at RTI.** The original AP pressing, slightly earlier than the 200g QRP version. Same mastering; QRP vinyl is generally preferred for its lower noise floor. [Discogs r3775239](https://www.discogs.com/release/3775239-Oliver-Nelson-The-Blues-And-The-Abstract-Truth)
 
 ---
 
 ### Japanese pressing (1981) – the vintage alternative
 
-A 1981 Japanese pressing of *The Blues and the Abstract Truth* exists on the ABC/Impulse! Japan imprint. Japanese Impulse! pressings from this era are known for dead-quiet vinyl and warm reproduction. **$40–$80 NM with obi.** [Discogs r7218138](https://www.discogs.com/release/7218138)
+A 1981 Japanese pressing of *The Blues and the Abstract Truth* exists on the ABC/Impulse! Japan imprint. Japanese Impulse! pressings from this era are known for dead-quiet vinyl and warm reproduction, typically found with obi. [Discogs r7218138](https://www.discogs.com/release/7218138)
 
 ---
 
 ## Pressings to avoid
 
-**UK EMI pressings:** The UK Stateside/HMV mono and stereo pressings from the 1960s are cut from copy tapes rather than the original Van Gelder master. [LJC](https://londonjazzcollector.wordpress.com/2011/11/26/oliver-nelson-the-blues-and-the-abstract-truth-1961/) notes they "sound pale in comparison to the Van Gelder sourced master." Not recommended when the Acoustic Sounds is available at $35.
+**UK EMI pressings:** The UK Stateside/HMV mono and stereo pressings from the 1960s are cut from copy tapes rather than the original Van Gelder master. [LJC](https://londonjazzcollector.wordpress.com/2011/11/26/oliver-nelson-the-blues-and-the-abstract-truth-1961/) notes they "sound pale in comparison to the Van Gelder sourced master." Not recommended when the Acoustic Sounds Series is a readily available, affordable alternative.
 
-**ABC, MCA, and GRP-era reissues (1970s–90s):** Pressed from secondary sources or digital transfers. Not recommended when the Acoustic Sounds is available new at $35.
+**ABC, MCA, and GRP-era reissues (1970s–90s):** Pressed from secondary sources or digital transfers. Not recommended when the Acoustic Sounds Series is a readily available, affordable alternative.
 
 **Generic EU reissues (DOL, Waxtime, etc.):** Not licensed or sourced from original tapes. Avoid.
 
