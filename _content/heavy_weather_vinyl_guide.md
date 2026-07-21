@@ -6,11 +6,11 @@
 
 The original US Columbia first pressing is the audiophile collector target, with the Terre Haute plant pressings consistently rated above those from other plants. The **ORG 2LP 45rpm (2011)** – Bernie Grundman from the original analog master tapes – is the definitive modern reference and selected by [Vinyl Gourmet](https://blog.vinylgourmet.com/p/top-100.html). The Music on Vinyl 180g is the best-value option.
 
-**Best early pressing for audiophiles:** [Original US Columbia PC 34418 – Terre Haute plant pressing](https://www.discogs.com/release/877385-Weather-Report-Heavy-Weather) – AL-34418-A matrix, "T" or no plant code in runout; $30–$80 NM.
+**Best early pressing for audiophiles:** [Original US Columbia PC 34418 – Terre Haute plant pressing](https://www.discogs.com/release/877385-Weather-Report-Heavy-Weather) – AL-34418-A matrix, "T" or no plant code in runout.
 
-**Best modern pressing for audiophiles:** [ORG ORGM-2009 2LP 45rpm 180g (2011)](https://www.discogs.com/release/3526540-Weather-Report-Heavy-Weather) – Bernie Grundman, original analog master tapes, RTI; 2,500 numbered copies; $150–$300 secondary.
+**Best modern pressing for audiophiles:** [ORG ORGM-2009 2LP 45rpm 180g (2011)](https://www.discogs.com/release/3526540-Weather-Report-Heavy-Weather) – Bernie Grundman, original analog master tapes, RTI; 2,500 numbered copies.
 
-**Best-value modern:** [Music on Vinyl MOVLP088 180g (2011)](https://www.discogs.com/release/4332389-Weather-Report-Heavy-Weather) – licensed reissue, 180g, warm and musical; $25–$40.
+**Best-value modern:** [Music on Vinyl MOVLP088 180g (2011)](https://www.discogs.com/release/4332389-Weather-Report-Heavy-Weather) – licensed reissue, 180g, warm and musical.
 
 
 ## Recording history and tape provenance
@@ -47,7 +47,7 @@ The **Terre Haute pressing** is generally preferred by collectors for this title
 
 Note: the Discogs aggregate rating for original pressings (4.25/5 from ~1,000 ratings) reflects all condition grades and matrix variants – the best low-matrix NM copies outperform the average significantly. Originals vary; condition and matrix suffix matter. The Japanese CBS/Sony (see below) is a strong alternative that some experienced listeners prefer to the US original at lower cost.
 
-Later pressings with barcode on the rear cover indicate a post-1981 repress. Originals have no barcode. **NM originals: $30–$80; VG+: $15–$40.**
+Later pressings with barcode on the rear cover indicate a post-1981 repress. Originals have no barcode.
 
 ---
 
@@ -59,11 +59,11 @@ Later pressings with barcode on the rear cover indicate a post-1981 repress. Ori
 
 [Michael Fremer reviewed it in Stereophile](https://www.stereophile.com/content/weather-report-heavy-weather-original-recordings-group) (December 2011): "This reissue produces an exceptionally wide stage with ear-popping three-dimensionality. It sounds as if the recording engineer and mixer were purposely manipulating certain elements in order to produce such vivid dimensionality. Instrumental separation was also pronounced." [Analog Planet](https://www.analogplanet.com/content/org-reinvents-heavy-weather) rated it Music 8/11, Sound 9/11.
 
-A direct comparison from Discogs against the Music on Vinyl pressing: "Compared to the Music On Vinyl reissue I had sworn by til now, this has upped the game in several areas. You kinda just know it's gonna be special when the living legend that is Bernie Grundman signs his full name in the deadwax. What's most apparent is a HUGE dynamic range, HUGE soundstaging front to back, side to side and height wise and a tonal believability I've never heard from this recording... in every other way the ORG is better." Now out of print. **$150–$300 secondary.** [Discogs r3526540](https://www.discogs.com/release/3526540-Weather-Report-Heavy-Weather)
+A direct comparison from Discogs against the Music on Vinyl pressing: "Compared to the Music On Vinyl reissue I had sworn by til now, this has upped the game in several areas. You kinda just know it's gonna be special when the living legend that is Bernie Grundman signs his full name in the deadwax. What's most apparent is a HUGE dynamic range, HUGE soundstaging front to back, side to side and height wise and a tonal believability I've never heard from this recording... in every other way the ORG is better." Now out of print. [Discogs r3526540](https://www.discogs.com/release/3526540-Weather-Report-Heavy-Weather)
 
 ### Japanese CBS/Sony 25AP 357 (1977) – the vintage alternative
 
-**Cat. 25AP 357** | Format: 33⅓, stereo, obi strip with yellow obi and one-sided brown insert with Japanese liner notes. **CBS/Sony Inc., Tokyo Japan.** Released simultaneously with the US edition in 1977. [Discogs](https://www.discogs.com/release/13432557-Weather-Report-Heavy-Weather) owners are enthusiastic: "Yeah this is a brilliant sounding pressing of a brilliant album. The dynamics of this record will truly blow you away. I haven't heard a US pressing but I would honestly be shocked if there was any version of this album with better instrument separation and punch." Another: "Surprisingly sounds better than the US copy. It's brighter and has better dynamics." Dead-quiet CBS/Sony vinyl. Note: some Japanese copies list Jaco Pastorius as appearing "by courtesy of Epic Records," reflecting his solo contract status at the time. **$40–$100 NM with obi.**
+**Cat. 25AP 357** | Format: 33⅓, stereo, obi strip with yellow obi and one-sided brown insert with Japanese liner notes. **CBS/Sony Inc., Tokyo Japan.** Released simultaneously with the US edition in 1977. [Discogs](https://www.discogs.com/release/13432557-Weather-Report-Heavy-Weather) owners are enthusiastic: "Yeah this is a brilliant sounding pressing of a brilliant album. The dynamics of this record will truly blow you away. I haven't heard a US pressing but I would honestly be shocked if there was any version of this album with better instrument separation and punch." Another: "Surprisingly sounds better than the US copy. It's brighter and has better dynamics." Dead-quiet CBS/Sony vinyl. Note: some Japanese copies list Jaco Pastorius as appearing "by courtesy of Epic Records," reflecting his solo contract status at the time. Typically found with obi.
 
 ### Friday Music 180g – a newer audiophile alternative
 
@@ -75,7 +75,7 @@ Format: 180g LP, 33⅓, gatefold jacket reproducing the original Lou Beach cover
 
 ### Music on Vinyl MOVLP088 180g (2011) – the best-value modern option
 
-**Cat. MOVLP088** | Format: 180g LP, 33⅓, gatefold. **Licensed from Sony. Pressed in the EU.** Music on Vinyl's *Heavy Weather* is widely praised for its warm, musical presentation. The bass is slightly boosted relative to the original and the ORG – which some collectors find pleasing and others find inaccurate. Discogs community is enthusiastic: "Sounds so much better than my OG US Pitman press. A lot more bass and much more balanced midrange. Highly recommended." Another owner: "Really nice sounding disc, sporting a fine dynamic balance and wide soundstage." Available new or used at accessible prices. **$25–$40 new.** [Discogs r4332389](https://www.discogs.com/release/4332389-Weather-Report-Heavy-Weather)
+**Cat. MOVLP088** | Format: 180g LP, 33⅓, gatefold. **Licensed from Sony. Pressed in the EU.** Music on Vinyl's *Heavy Weather* is widely praised for its warm, musical presentation. The bass is slightly boosted relative to the original and the ORG – which some collectors find pleasing and others find inaccurate. Discogs community is enthusiastic: "Sounds so much better than my OG US Pitman press. A lot more bass and much more balanced midrange. Highly recommended." Another owner: "Really nice sounding disc, sporting a fine dynamic balance and wide soundstage." Available new or used at accessible prices. [Discogs r4332389](https://www.discogs.com/release/4332389-Weather-Report-Heavy-Weather)
 
 A 2023 repress on **peach coloured vinyl** (r28540660, 1,500 numbered copies) uses the same Music on Vinyl plates; some copies have documented surface noise issues. If purchasing new, inspect or buy with a return option.
 
