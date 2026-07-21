@@ -10,7 +10,7 @@ A tape machine error on March 2 ran the **prime three-track** deck roughly 2.4% 
 
 **Best modern pressing for audiophiles:** [Analogue Productions UHQR 45rpm 2LP (AUHQR 0004-45, 2022)](https://www.discogs.com/release/24373778-Miles-Davis-Kind-Of-Blue) – Grundman metal parts, 200g Clarity Vinyl, QRP; consensus best.
 
-**Best-value modern:** [Analogue Productions AAPJ 8163BLU 2LP (2025)](https://www.discogs.com/release/35666779-Miles-Davis-Kind-of-Blue) – same Grundman lineage, speed-corrected, ~$50–$60 new.
+**Best-value modern:** [Analogue Productions AAPJ 8163BLU 2LP (2025)](https://www.discogs.com/release/35666779-Miles-Davis-Kind-of-Blue) – same Grundman lineage, speed-corrected.
 
 
 ## Recording history and tape provenance
@@ -64,7 +64,7 @@ The original pressings use Columbia's **six-eye label** – named for the six CB
 
 ### Market values
 
-NM **stereo CS 8163 six-eye**, early matrix: **$400–$700+**. White-label stereo promos: **$1,000–$2,000**. NM **mono CL 1355 six-eye** with Side 2 label error: **$250–$600**. White-label mono promos: **$800–$1,500**. Clean six-eye copies in honest VG+ are significantly more affordable; ultrasonic cleaning is standard practice for anything in this price range.
+NM **stereo CS 8163 six-eye**, early matrix, commands strong prices; white-label stereo promos command considerably more still. NM **mono CL 1355 six-eye** with Side 2 label error follows a similar pattern, with white-label mono promos again commanding a premium over the standard issue. Clean six-eye copies in honest VG+ are significantly more affordable than NM examples across all these variants; ultrasonic cleaning is standard practice given the prices involved.
 
 ### The mono vs. stereo question
 
@@ -76,11 +76,11 @@ Fremer (AnalogPlanet): the mono reissue makes "a strong case for the superiority
 
 ## Later US Columbia label variants
 
-**Early two-eye "360 Sound" stereo (1962–65, black-text label):** Still tube-cut by Columbia's core engineering teams. Many experienced collectors – including Tom Port of Better Records – consider clean early two-eyes essentially equivalent to six-eyes sonically; price differences reflect collectibility more than sound. **Black-text two-eye NM: $100–$250.**
+**Early two-eye "360 Sound" stereo (1962–65, black-text label):** Still tube-cut by Columbia's core engineering teams. Many experienced collectors – including Tom Port of Better Records – consider clean early two-eyes essentially equivalent to six-eyes sonically; price differences reflect collectibility more than sound.
 
-**Late two-eye "360 Sound" stereo (1966–70, white-text label):** Columbia moved to solid-state cutting systems and revised mastering chains from the mid-1960s onward. The sonic step-down relative to the early two-eyes is real and documented – these pressings reflect a fundamentally different engineering environment than the tube-era originals. Still listenable and period-authentic; simply not in the same class as the black-text pressings. **White-text two-eye NM: $50–$150.**
+**Late two-eye "360 Sound" stereo (1966–70, white-text label):** Columbia moved to solid-state cutting systems and revised mastering chains from the mid-1960s onward. The sonic step-down relative to the early two-eyes is real and documented – these pressings reflect a fundamentally different engineering environment than the tube-era originals. Still listenable and period-authentic; simply not in the same class as the black-text pressings, and priced accordingly lower.
 
-**KCS 8163 / PC 8163 red "Trident" label (1974 onward):** A sleeper. One Discogs reviewer with the full range of pressings calls the 70s red label "[sweeter and more alive sounding than the Classic remix by BG](https://www.discogs.com/release/226414-Miles-Davis-Kind-Of-Blue)" – a minority view, but consistent enough to note. Some Santa Maria plant copies with Customatrix metalwork have been specifically praised. **$15–$40.**
+**KCS 8163 / PC 8163 red "Trident" label (1974 onward):** A sleeper. One Discogs reviewer with the full range of pressings calls the 70s red label "[sweeter and more alive sounding than the Classic remix by BG](https://www.discogs.com/release/226414-Miles-Davis-Kind-Of-Blue)" – a minority view, but consistent enough to note. Some Santa Maria plant copies with Customatrix metalwork have been specifically praised.
 
 ---
 
@@ -92,21 +92,21 @@ Bernie Grundman's 1995 direct cut from the three-track session master is the fou
 
 **Classic Records CS 8163 180g 33⅓rpm (1995)**
 
-[Discogs r3841623](https://www.discogs.com/release/3841623-Miles-Davis-Kind-Of-Blue) | Format: 2×LP, 33⅓, 180g. Structure: Sides A/B at original (uncorrected) speed; Side C corrected speed; Side D = alternate take of "Flamenco Sketches" at 45rpm (previously unreleased). Same Grundman cut. The first vinyl speed-corrected release of Side 1. **$150–$350 used.**
+[Discogs r3841623](https://www.discogs.com/release/3841623-Miles-Davis-Kind-Of-Blue) | Format: 2×LP, 33⅓, 180g. Structure: Sides A/B at original (uncorrected) speed; Side C corrected speed; Side D = alternate take of "Flamenco Sketches" at 45rpm (previously unreleased). Same Grundman cut. The first vinyl speed-corrected release of Side 1.
 
 **Classic Records CS 8163-45 4×45rpm single-sided box (1999)**
 
-[Discogs r5189885](https://www.discogs.com/release/5189885-Miles-Davis-Kind-Of-Blue) | Format: 4×LP, 45rpm, single-sided, Clarity Vinyl, stereo, uncorrected speed. The same Grundman 1995 cut. Fremer (AnalogPlanet): "The Classic single sided 45rpm version of 'Freddie Freeloader' was definitely more open, spacious and transparent" than the MoFi. Fred Kaplan (Stereophile): considered it "very close in quality to Columbia's Six-Eye first pressing." Out of print; **$500–$1,500** on the secondary market.
+[Discogs r5189885](https://www.discogs.com/release/5189885-Miles-Davis-Kind-Of-Blue) | Format: 4×LP, 45rpm, single-sided, Clarity Vinyl, stereo, uncorrected speed. The same Grundman 1995 cut. Fremer (AnalogPlanet): "The Classic single sided 45rpm version of 'Freddie Freeloader' was definitely more open, spacious and transparent" than the MoFi. Fred Kaplan (Stereophile): considered it "very close in quality to Columbia's Six-Eye first pressing." Out of print.
 
 **Analogue Productions UHQR 33⅓rpm (UHQR 0004, 2021)**
 
-[Discogs r18884065](https://www.discogs.com/release/18884065-Miles-Davis-Kind-Of-Blue) | Format: single 200g Clarity Vinyl, 33⅓, stereo, speed-corrected, numbered to 25,000, hand-pressed on Finebilt press at QRP. Grundman metal parts. Michael Fremer (AnalogPlanet): "Quite clearly and obviously this new UHQR Kind of Blue sourced from Bernie Grundman's 'live' mix from the 3-track master, directly to lacquer sounds best compared to two early '6-Eyes,' Classic's own double 180g set and that label's single-sided 45rpm set, and Mobile Fidelity's double 45 boxed edition." Fred Kaplan (Stereophile, August 2021): the UHQR 33 is "the best-sounding Kind of Blue ever, superior in every way to all previous pressings, including the original… Cobb's drumkit is spooky real." Some copies reported with Clarity Vinyl surface noise that responds to ultrasonic cleaning. **~$100 MSRP; $150–$250 secondary.**
+[Discogs r18884065](https://www.discogs.com/release/18884065-Miles-Davis-Kind-Of-Blue) | Format: single 200g Clarity Vinyl, 33⅓, stereo, speed-corrected, numbered to 25,000, hand-pressed on Finebilt press at QRP. Grundman metal parts. Michael Fremer (AnalogPlanet): "Quite clearly and obviously this new UHQR Kind of Blue sourced from Bernie Grundman's 'live' mix from the 3-track master, directly to lacquer sounds best compared to two early '6-Eyes,' Classic's own double 180g set and that label's single-sided 45rpm set, and Mobile Fidelity's double 45 boxed edition." Fred Kaplan (Stereophile, August 2021): the UHQR 33 is "the best-sounding Kind of Blue ever, superior in every way to all previous pressings, including the original… Cobb's drumkit is spooky real." Some copies reported with Clarity Vinyl surface noise that responds to ultrasonic cleaning.
 
 **Analogue Productions UHQR 45rpm 2LP (AUHQR 0004-45, 2022)**
 
 [Discogs r24373778](https://www.discogs.com/release/24373778-Miles-Davis-Kind-Of-Blue) | Format: 2×200g Clarity Vinyl, 45rpm, stereo, speed-corrected, numbered to 25,000, QRP. Grundman metal parts. The current consensus best pressing of *Kind of Blue* in any format.
 
-Fred Kaplan (TrackingAngle.com): 11/11 music and 11/11 sound – "Everything is more present, more brassy, woody, or metallic, depending on the instrument. There's a more palpable sense of a human being blowing through a mouthpiece, plucking a string, coaxing a keyboard, or tapping a snare drum." Mike Hobson (Classic Records founder): "The Analogue Productions UHQR pressing from the same metal parts has taken it up a notch and gotten us even closer to the sound on those 1/2-inch analog session master tapes." **~$150 MSRP; $200–$350 secondary.**
+Fred Kaplan (TrackingAngle.com): 11/11 music and 11/11 sound – "Everything is more present, more brassy, woody, or metallic, depending on the instrument. There's a more palpable sense of a human being blowing through a mouthpiece, plucking a string, coaxing a keyboard, or tapping a snare drum." Mike Hobson (Classic Records founder): "The Analogue Productions UHQR pressing from the same metal parts has taken it up a notch and gotten us even closer to the sound on those 1/2-inch analog session master tapes."
 
 **Analogue Productions AAPJ 8163BLU 2LP (2025)**
 
@@ -114,7 +114,7 @@ Fred Kaplan (TrackingAngle.com): 11/11 music and 11/11 sound – "Everything is 
 
 LP structure: LP1 Side 1 = speed-corrected ("So What," "Freddie Freeloader," "Blue in Green"); LP1 Side 2 = "All Blues," "Flamenco Sketches" at their native correct speed (April 22 session – never affected by the March 2 tape fault); LP2 Side 3 = original uncorrected speed ("So What," "Freddie Freeloader," "Blue in Green"); LP2 Side 4 = "Flamenco Sketches (Alternate Take)" at 45rpm. Same Grundman/Classic metal parts.
 
-Mark Smotroff ([AnalogPlanet](https://www.analogplanet.com/content/listening-analogue-productions-speed-corrected-180g-2lp-edition-miles-davis-1959-benchmark)): 11/11 music, 10/11 sound – "a fine release, and I'm quite happy to add it into my collection. It is certainly a marked improvement over the 2010 Columbia/Legacy blue-vinyl edition." The right play copy for regular enjoyment relative to the more precious UHQR. **~$50–$60 new.**
+Mark Smotroff ([AnalogPlanet](https://www.analogplanet.com/content/listening-analogue-productions-speed-corrected-180g-2lp-edition-miles-davis-1959-benchmark)): 11/11 music, 10/11 sound – "a fine release, and I'm quite happy to add it into my collection. It is certainly a marked improvement over the 2010 Columbia/Legacy blue-vinyl edition." The right play copy for regular enjoyment relative to the more precious UHQR.
 
 ---
 
@@ -126,21 +126,21 @@ Mark Wilder's 1997 two-track fold-down is the source for MoFi's vinyl box and So
 
 [Discogs r5164493](https://www.discogs.com/release/5164493-Miles-Davis-Kind-Of-Blue) (numbered RSD edition, 6,000 copies) | [r5142904](https://www.discogs.com/release/5142904-Miles-Davis-Kind-Of-Blue) (unnumbered standard edition) | Format: single 180g, 33⅓, mono, speed-corrected, RTI pressing. Mastered by Ryan K. Smith at Sterling Sound (matrix: "STERLING RKS") from a newly made 2013 mono fold-down of the safety three-track – not from the 1997 stereo two-track.
 
-Since both original full-track mono tapes are lost, this is the definitive modern mono pressing. Fremer ([AnalogPlanet](https://www.analogplanet.com/content/miles-davis-kind-blue-monophonic-reissue-sonylegacy-analog-planet-exclusive)): the mono reissue is "a necessity not an 'add-on' option." Music on Vinyl also released an EU-pressing mono the same day as MOVLP961 ([r6956871](https://www.discogs.com/release/6956871-Miles-Davis-Kind-Of-Blue), EU, numbered; [r5166551](https://www.discogs.com/release/5166551-Miles-Davis-Kind-Of-Blue) also documented). **$30–$80 used.**
+Since both original full-track mono tapes are lost, this is the definitive modern mono pressing. Fremer ([AnalogPlanet](https://www.analogplanet.com/content/miles-davis-kind-blue-monophonic-reissue-sonylegacy-analog-planet-exclusive)): the mono reissue is "a necessity not an 'add-on' option." Music on Vinyl also released an EU-pressing mono the same day as MOVLP961 ([r6956871](https://www.discogs.com/release/6956871-Miles-Davis-Kind-Of-Blue), EU, numbered; [r5166551](https://www.discogs.com/release/5166551-Miles-Davis-Kind-Of-Blue) also documented).
 
 **Sony/Legacy 180g stereo, Kevin Gray mastering (2010, cat. 88697680571-S1)**
 
-[Discogs r2825456](https://www.discogs.com/release/2825456-Miles-Davis-Kind-Of-Blue) | [r10694927](https://www.discogs.com/release/10694927-Miles-Davis-Kind-Of-Blue) | Format: single 180g, 33⅓, stereo. Matrix etches "88697680571-A KPG&MZ@CA" and "-B KPG&MZ@CA" – confirming **Kevin Gray** mastering at Cohearent Audio, a different engineer from either the Grundman or Wilder chains described above. Reception is consistently strong ("This Kevin Gray cut sounds really good and for the price it's a slam dunk," "very nice sounding press, flat and solid, well mastered and easily worth $30-40"), but its exact tape source is disputed and unresolved among owners – a recurring Discogs/Steve Hoffman Forums question ("Anyone know if the Kevin Gray mastering of this... is sourced digital or analogue?") has no definitive documented answer. Treat as a genuinely good, inexpensive stereo option from a well-regarded engineer, but not verified as part of either the Grundman or Wilder tape lineage above. A minority of copies report digital-sounding artifact noises unrelated to surface dust. [One reviewer](https://www.youtube.com/watch?v=J-LjCKntslw) directly comparing this pressing (on a limited-edition "blue marble" colored-vinyl variant) against the AP UHQR and MoFi found it close in character to the MoFi – similar soundstage and clarity – though noted the colored vinyl carried slightly more surface noise than the same pressing's standard black-vinyl edition, worth factoring in if choosing between color variants. **$20–$40 used.**
+[Discogs r2825456](https://www.discogs.com/release/2825456-Miles-Davis-Kind-Of-Blue) | [r10694927](https://www.discogs.com/release/10694927-Miles-Davis-Kind-Of-Blue) | Format: single 180g, 33⅓, stereo. Matrix etches "88697680571-A KPG&MZ@CA" and "-B KPG&MZ@CA" – confirming **Kevin Gray** mastering at Cohearent Audio, a different engineer from either the Grundman or Wilder chains described above. Reception is consistently strong ("This Kevin Gray cut sounds really good and for the price it's a slam dunk," "very nice sounding press, flat and solid, well mastered and easily worth $30-40"), but its exact tape source is disputed and unresolved among owners – a recurring Discogs/Steve Hoffman Forums question ("Anyone know if the Kevin Gray mastering of this... is sourced digital or analogue?") has no definitive documented answer. Treat as a genuinely good, inexpensive stereo option from a well-regarded engineer, but not verified as part of either the Grundman or Wilder tape lineage above. A minority of copies report digital-sounding artifact noises unrelated to surface dust. [One reviewer](https://www.youtube.com/watch?v=J-LjCKntslw) directly comparing this pressing (on a limited-edition "blue marble" colored-vinyl variant) against the AP UHQR and MoFi found it close in character to the MoFi – similar soundstage and clarity – though noted the colored vinyl carried slightly more surface noise than the same pressing's standard black-vinyl edition, worth factoring in if choosing between color variants.
 
 **Mobile Fidelity MFSL 2-45011 45rpm 2LP (2015, repressed 2020, 2021)**
 
 [Discogs r7303082](https://www.discogs.com/release/7303082-Miles-Davis-Kind-Of-Blue) (2015 first run) | [r16433790](https://www.discogs.com/release/16433790-Miles-Davis-Kind-Of-Blue) (2020 hand-numbered repress) | [r19794313](https://www.discogs.com/release/19794313-Miles-Davis-Kind-Of-Blue) (2021 gold-stamped repress) | Format: 2×180g, 45rpm, stereo, speed-corrected, numbered box, RTI pressing. Mastered by Krieg Wunderlich ("KW @ MoFi" in deadwax). Source chain: Wilder's 1997 two-track → **DSD-64 digital intermediate** → analog console → lathe. The digital step was not disclosed until the 2022 "MoFiGate" revelations.
 
-Pre-2022 it drew strong praise. Post-2022, comparisons against the UHQR 45rpm have placed it lower. Kaplan (pre-2022, Stereophile): "the bass is too strong, the highs seem boosted." Fremer: finds the Classic/Grundman cut "more open, spacious and transparent" than the MoFi. Still a musical pressing – better than most – but no longer the reference it once seemed. **$150–$300 used.**
+Pre-2022 it drew strong praise. Post-2022, comparisons against the UHQR 45rpm have placed it lower. Kaplan (pre-2022, Stereophile): "the bass is too strong, the highs seem boosted." Fremer: finds the Classic/Grundman cut "more open, spacious and transparent" than the MoFi. Still a musical pressing – better than most – but no longer the reference it once seemed.
 
 **Music on Vinyl MOVLP019 2LP stereo (2010)**
 
-[Discogs r2506823](https://www.discogs.com/release/2506823-Miles-Davis-Kind-Of-Blue) (black vinyl) | [r2317524](https://www.discogs.com/release/2317524-Miles-Davis-Kind-Of-Blue) (blue vinyl, 3,000 numbered copies) | Format: 2×180g, 33⅓, stereo, speed-corrected, gatefold, Optimal pressing. Includes "Flamenco Sketches (alt.)" and "On Green Dolphin Street." Source: 24/96 PCM from Wilder's master – digitally sourced; mastered by George Marino at Sterling Sound. Dead-silent surfaces. **$30–$60.**
+[Discogs r2506823](https://www.discogs.com/release/2506823-Miles-Davis-Kind-Of-Blue) (black vinyl) | [r2317524](https://www.discogs.com/release/2317524-Miles-Davis-Kind-Of-Blue) (blue vinyl, 3,000 numbered copies) | Format: 2×180g, 33⅓, stereo, speed-corrected, gatefold, Optimal pressing. Includes "Flamenco Sketches (alt.)" and "On Green Dolphin Street." Source: 24/96 PCM from Wilder's master – digitally sourced; mastered by George Marino at Sterling Sound. Dead-silent surfaces.
 
 ---
 
@@ -148,17 +148,17 @@ Pre-2022 it drew strong praise. Post-2022, comparisons against the UHQR 45rpm ha
 
 **[CBS/Sony 18AP 2056 (1981)](https://www.discogs.com/release/2110043-Miles-Davis-Kind-Of-Blue)**
 
-Stereo, uncorrected speed (predates 1992 discovery); heavy dead-quiet Japanese vinyl, SJ Seal of Approval, obi strip and insert. Consistently praised on Discogs for clear, well-defined sound and exceptional pressing quality. **NM with obi: $50–$150.**
+Stereo, uncorrected speed (predates 1992 discovery); heavy dead-quiet Japanese vinyl, SJ Seal of Approval, obi strip and insert. Consistently praised on Discogs for clear, well-defined sound and exceptional pressing quality, typically found with obi.
 
 **[CBS/Sony SOPL 155 SX68 Mark II (1972)](https://www.discogs.com/release/3492952-Miles-Davis-Kind-Of-Blue)**
 
-Earlier Japanese audiophile pressing in the SX68 series; matrix SOPL-155A1. Heavy and quiet; generally well-regarded. **NM with obi: $40–$120.**
+Earlier Japanese audiophile pressing in the SX68 series; matrix SOPL-155A1. Heavy and quiet; generally well-regarded, typically found with obi.
 
 ---
 
 ## Pressings to avoid
 
-**EU public-domain pressings (DOL, Doxy, WaxTime, Not Now Music, Jazz Wax, Vinyl Passion, Jazz Images, Green Corner, 20th Century Masterworks):** Not licensed from Sony; sourced from CD or worse. "Very silent vinyl but sounds like the master was a not very high quality MP3" is a consistent Discogs description. The coloured 180g variants at $15–$20 are tempting; they sound like what they are.
+**EU public-domain pressings (DOL, Doxy, WaxTime, Not Now Music, Jazz Wax, Vinyl Passion, Jazz Images, Green Corner, 20th Century Masterworks):** Not licensed from Sony; sourced from CD or worse. "Very silent vinyl but sounds like the master was a not very high quality MP3" is a consistent Discogs description. The coloured 180g variants are tempting given how cheap they are; they sound like what they are.
 
 **Sony/Legacy 50th Anniversary blue LP (2008, in box set only):** Lacquers by Greg Calbi and Ray Janos; pressing (Noiseland) widely criticised for noisy non-fill. Fremer: "poorly pressed on 180g with a lot of noisy non-fill." Not sold separately.
 
@@ -168,7 +168,7 @@ Earlier Japanese audiophile pressing in the SX68 series; matrix SOPL-155A1. Heav
 
 ## Buyer's guide by budget
 
-**$$ (Affordable):** The [**AP AAPJ 8163BLU 2LP (2025)**](https://www.discogs.com/release/35596555) at ~$50–$60 new – Grundman lineage, speed-corrected, tip-on gatefold, QRP. The entry point into the authoritative source chain. Add the [**Sony 88883761031 mono**](https://www.discogs.com/release/5166551) at $30–$80 for the other half of the picture.
+**$$ (Affordable):** The [**AP AAPJ 8163BLU 2LP (2025)**](https://www.discogs.com/release/35596555) – Grundman lineage, speed-corrected, tip-on gatefold, QRP. The entry point into the authoritative source chain. Add the [**Sony 88883761031 mono**](https://www.discogs.com/release/5166551) for the other half of the picture.
 
 **$$$$ (Premium):** The [**AP UHQR 33rpm**](https://www.discogs.com/release/18884065) for a step up in pressing luxury from the same source. Ultrasonically clean before first play; Clarity Vinyl surface noise often clears after cleaning.
 
@@ -178,7 +178,7 @@ Earlier Japanese audiophile pressing in the SX68 series; matrix SOPL-155A1. Heav
 
 **$$$$$ (Grail / Rare):** A clean [**Columbia CS 8163 six-eye stereo**](https://www.discogs.com/release/9322816) original for the tube-cut, period character no reissue fully recovers – note Side 1 plays sharp at the original (uncorrected) speed.
 
-Note on Mobile Fidelity: still a musical pressing worth having if acquired cheaply (roughly $80–120 used), but not worth premium prices now that the AP 2025 undercuts it on both price and provenance.
+Note on Mobile Fidelity: still a musical pressing worth having if acquired cheaply, but not worth premium prices now that the AP 2025 undercuts it on both price and provenance.
 
 ---
 
