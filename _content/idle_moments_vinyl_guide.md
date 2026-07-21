@@ -10,7 +10,7 @@ The nearly 15-minute title track, composed by Pearson, exists by accident: it wa
 
 **Best modern pressing for audiophiles:** [Analogue Productions 45rpm 2LP (2009)](https://www.discogs.com/release/2513425-Grant-Green-Idle-Moments) – Kevin Gray, numbered, widely cited by owners who also have the Music Matters as their preferred version.
 
-**Best-value modern:** [Blue Note Classic Vinyl 180g](https://www.discogs.com/release/19865380-Grant-Green-Idle-Moments) – Kevin Gray, Optimal, ~$25–$35 new.
+**Best-value modern:** [Blue Note Classic Vinyl 180g](https://www.discogs.com/release/19865380-Grant-Green-Idle-Moments) – Kevin Gray, Optimal.
 
 ## Recording history and tape provenance
 
@@ -24,11 +24,11 @@ The album was shelved for roughly two years before release – common Blue Note 
 
 ## Original Blue Note pressings (1965)
 
-**Catalogue: BLP 4154** (mono) / **BST 84154** (stereo), New York USA label era. Standard authentication applies: Van Gelder stamp and Plastylite "ear" etched in the deadwax, deep groove may be present on the earliest copies. Because the album's original release was already delayed two years past recording, first pressings fall within Blue Note's mid-1960s "New York USA" label period rather than the earlier "47 West 63rd" era seen on titles actually recorded and released in the same year. **NM originals: $150–$400, depending on mono/stereo and condition.**
+**Catalogue: BLP 4154** (mono) / **BST 84154** (stereo), New York USA label era. Standard authentication applies: Van Gelder stamp and Plastylite "ear" etched in the deadwax, deep groove may be present on the earliest copies. Because the album's original release was already delayed two years past recording, first pressings fall within Blue Note's mid-1960s "New York USA" label period rather than the earlier "47 West 63rd" era seen on titles actually recorded and released in the same year. NM originals command a real premium, varying by mono/stereo and condition.
 
 ### Liberty and later reissues (1970s)
 
-Several 1970s-era reissues circulate on Liberty/United Artists-period labels, generally well-regarded by owners for retaining the original recording's warmth even without first-pressing metalwork. **$30–$80 VG+.**
+Several 1970s-era reissues circulate on Liberty/United Artists-period labels, generally well-regarded by owners for retaining the original recording's warmth even without first-pressing metalwork.
 
 ---
 
@@ -36,25 +36,25 @@ Several 1970s-era reissues circulate on Liberty/United Artists-period labels, ge
 
 ### Analogue Productions 45rpm 2LP (2009) – a top-tier modern pressing
 
-**Cat. (AP series)** | Format: 2×180g LP, 45rpm, numbered. **Mastered by Kevin Gray, pressed at Record Technology Incorporated (RTI).** Owners who've directly compared this against the later Music Matters 33⅓ describe the AP as "outstanding in every way" and their go-to version, though – as with several other Blue Note titles both labels have tackled – reasonable people differ on which they prefer. [A direct 3-way comparison](https://www.youtube.com/watch?v=wKnJ2Ci3fXM) against the Music Matters SRX and Blue Note Classic Vinyl – all mastered by Kevin Gray, but pressed at different plants – ranked this AP edition first, the Music Matters SRX a close second (helped by its notably quiet SuperVinyl-style compound), and the Classic Vinyl third but still a strong recommendation given it costs a fraction of either. [Discogs](https://www.discogs.com/release/2513425-Grant-Green-Idle-Moments) **$150–$300 secondary.**
+**Cat. (AP series)** | Format: 2×180g LP, 45rpm, numbered. **Mastered by Kevin Gray, pressed at Record Technology Incorporated (RTI).** Owners who've directly compared this against the later Music Matters 33⅓ describe the AP as "outstanding in every way" and their go-to version, though – as with several other Blue Note titles both labels have tackled – reasonable people differ on which they prefer. [A direct 3-way comparison](https://www.youtube.com/watch?v=wKnJ2Ci3fXM) against the Music Matters SRX and Blue Note Classic Vinyl – all mastered by Kevin Gray, but pressed at different plants – ranked this AP edition first, the Music Matters SRX a close second (helped by its notably quiet SuperVinyl-style compound), and the Classic Vinyl third but still a strong recommendation given it costs a fraction of either. [Discogs](https://www.discogs.com/release/2513425-Grant-Green-Idle-Moments)
 
 ### Music Matters 45rpm 2LP (2014) and 33⅓ SRX (2020)
 
-**Cat. MM-45-BNST-84154** (45rpm) / **MM33 BNST-84154** (33⅓ SRX) | Format: 45rpm 2LP or 33⅓ single LP, 180g, gatefold, laminated. **Mastered by Kevin Gray at Cohearent Audio (produced by Ron Rambach for Music Matters Ltd.), pressed at RTI.** Both the original 45rpm edition and the later 33⅓ SRX repress are highly regarded; the 33⅓ series was specifically noted on release for using an upgraded lacquer-cutting chain at Gray's newer Cohearent facility. A handful of owners report non-fill pressing defects on the SRX pressing specifically – worth inspecting on arrival. [Discogs (45rpm)](https://www.discogs.com/release/5354019-Grant-Green-Idle-Moments) / [Discogs (33⅓ SRX)](https://www.discogs.com/release/14993986-Grant-Green-Idle-Moments) **45rpm: $150–$250. 33⅓ SRX: $80–$150.**
+**Cat. MM-45-BNST-84154** (45rpm) / **MM33 BNST-84154** (33⅓ SRX) | Format: 45rpm 2LP or 33⅓ single LP, 180g, gatefold, laminated. **Mastered by Kevin Gray at Cohearent Audio (produced by Ron Rambach for Music Matters Ltd.), pressed at RTI.** Both the original 45rpm edition and the later 33⅓ SRX repress are highly regarded; the 33⅓ series was specifically noted on release for using an upgraded lacquer-cutting chain at Gray's newer Cohearent facility. A handful of owners report non-fill pressing defects on the SRX pressing specifically – worth inspecting on arrival. The 45rpm edition commands a meaningfully higher secondary-market price than the 33⅓ SRX. [Discogs (45rpm)](https://www.discogs.com/release/5354019-Grant-Green-Idle-Moments) / [Discogs (33⅓ SRX)](https://www.discogs.com/release/14993986-Grant-Green-Idle-Moments)
 
 ### Blue Note 75th Anniversary (2014) – Bernie Grundman, mixed pressing quality
 
-**Cat. (75th Anniversary series)** | Format: LP, 33⅓, 2014 | **Remastered by Bernie Grundman as part of Blue Note's 75th Anniversary vinyl campaign, a separate mastering chain from the Kevin Gray-mastered Classic Vinyl and Music Matters editions.** Reception is genuinely mixed at the pressing level – some buyers report a perfect, quiet copy, but a larger number describe glitching, clicks, pops, warping, and off-center holes, consistent with broader complaints about QC variance across the 75th Anniversary series generally. Worth buying only from a seller with an easy return policy, and not a first recommendation given the more consistent Classic Vinyl and Music Matters alternatives. [Discogs](https://www.discogs.com/release/5738035-Grant-Green-Idle-Moments) **$25–$50.**
+**Cat. (75th Anniversary series)** | Format: LP, 33⅓, 2014 | **Remastered by Bernie Grundman as part of Blue Note's 75th Anniversary vinyl campaign, a separate mastering chain from the Kevin Gray-mastered Classic Vinyl and Music Matters editions.** Reception is genuinely mixed at the pressing level – some buyers report a perfect, quiet copy, but a larger number describe glitching, clicks, pops, warping, and off-center holes, consistent with broader complaints about QC variance across the 75th Anniversary series generally. Worth buying only from a seller with an easy return policy, and not a first recommendation given the more consistent Classic Vinyl and Music Matters alternatives. [Discogs](https://www.discogs.com/release/5738035-Grant-Green-Idle-Moments)
 
 ### Blue Note Classic Vinyl 180g – the accessible modern option
 
-**Cat. BST 84154** | Format: 180g LP, 33⅓. **Mastered by Kevin Gray, from the original master tapes. Pressed at Optimal in Germany.** Reviews are largely positive, though a vocal minority report significant non-fill and QC problems on specific pressing runs, enough that some buyers went through multiple copies before finding a clean one. [One reviewer](https://www.youtube.com/watch?v=ZXWFEfkcXTY) reported intermittent left-channel distortion on his copy – a specific, mild version of a defect he also heard more severely on the companion Classic Vinyl release of Kenny Burrell's *Midnight Blue* from the same series batch. Worth buying from a seller with an easy return policy. [Discogs](https://www.discogs.com/release/19865380-Grant-Green-Idle-Moments) **$25–$40 new.**
+**Cat. BST 84154** | Format: 180g LP, 33⅓. **Mastered by Kevin Gray, from the original master tapes. Pressed at Optimal in Germany.** Reviews are largely positive, though a vocal minority report significant non-fill and QC problems on specific pressing runs, enough that some buyers went through multiple copies before finding a clean one. [One reviewer](https://www.youtube.com/watch?v=ZXWFEfkcXTY) reported intermittent left-channel distortion on his copy – a specific, mild version of a defect he also heard more severely on the companion Classic Vinyl release of Kenny Burrell's *Midnight Blue* from the same series batch. Worth buying from a seller with an easy return policy. [Discogs](https://www.discogs.com/release/19865380-Grant-Green-Idle-Moments)
 
 ---
 
 ## Japanese pressings
 
-**King Records GXF-3178 (1980)** – a well-regarded Japanese pressing, described by collectors who own it as having "huge sound, very crisp, wide and dynamic" with excellent instrument separation and notably quiet vinyl. A strong vintage alternative for those who want an analog-era pressing without chasing an expensive US original. [Discogs](https://www.discogs.com/release/3611482-Grant-Green-Idle-Moments) **$40–$90 with obi.**
+**King Records GXF-3178 (1980)** – a well-regarded Japanese pressing, described by collectors who own it as having "huge sound, very crisp, wide and dynamic" with excellent instrument separation and notably quiet vinyl. A strong vintage alternative for those who want an analog-era pressing without chasing an expensive US original. Typically found with obi. [Discogs](https://www.discogs.com/release/3611482-Grant-Green-Idle-Moments)
 
 ---
 
