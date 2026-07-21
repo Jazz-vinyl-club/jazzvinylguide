@@ -282,7 +282,9 @@ def inject_market_column(content_html, market_data):
 
 
 def get_last_updated(content_file):
-    """Fetch last commit date for a file from GitHub API."""
+    """Fetch last commit date for a file from GitHub API, as an ISO-8601
+    date (YYYY-MM-DD) -- used for machine-readable metadata (sitemap
+    <lastmod>, structured-data dateModified), not for display."""
     try:
         url = f"{GITHUB_API}?path=_content/{content_file}&per_page=1"
         req = urllib.request.Request(url, headers={"Accept": "application/vnd.github.v3+json"})
@@ -291,7 +293,7 @@ def get_last_updated(content_file):
             if commits:
                 date_str = commits[0]['commit']['committer']['date']
                 dt = datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%SZ")
-                return dt.strftime("%B %Y")
+                return dt.strftime("%Y-%m-%d")
     except Exception:
         pass
     return None
@@ -312,7 +314,12 @@ def site_footer():
   <p><a href="https://jazzvinylguide.com">jazzvinylguide.com</a> — Collector-grade pressing guides. <a href="/contribute.html">Contribute</a>.</p>
 </footer>'''
 
-def html_shell(title, description, body):
+SITE_URL = "https://jazzvinylguide.com"
+
+def html_shell(title, description, body, canonical_path="/", structured_data=None, og_type="website", noindex=False):
+    canonical_url = SITE_URL + canonical_path
+    ld_json = f'\n  <script type="application/ld+json">{structured_data}</script>' if structured_data else ""
+    robots_tag = '\n  <meta name="robots" content="noindex, nofollow">' if noindex else ""
     return f'''<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -320,7 +327,18 @@ def html_shell(title, description, body):
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{title} — Jazz Vinyl Guide</title>
   <meta name="description" content="{description}">
-  <link rel="stylesheet" href="/style.css">
+  <link rel="canonical" href="{canonical_url}">
+  <link rel="stylesheet" href="/style.css">{robots_tag}
+  <meta property="og:type" content="{og_type}">
+  <meta property="og:site_name" content="Jazz Vinyl Guide">
+  <meta property="og:title" content="{title} — Jazz Vinyl Guide">
+  <meta property="og:description" content="{description}">
+  <meta property="og:url" content="{canonical_url}">
+  <meta property="og:image" content="{SITE_URL}/logo.png">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{title} — Jazz Vinyl Guide">
+  <meta name="twitter:description" content="{description}">
+  <meta name="twitter:image" content="{SITE_URL}/logo.png">{ld_json}
 </head>
 <body>
 {site_header()}
@@ -402,9 +420,21 @@ def build_index(albums):
 {rows}  </div>
   <p class="albums-no-results" id="albumsNoResults" style="display:none">No albums match your search.</p>
 </section>'''
+    website_ld = json.dumps({
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Jazz Vinyl Guide",
+        "url": SITE_URL,
+        "description": "Collector-grade vinyl pressing guides for essential jazz albums.",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": SITE_URL + "/?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    })
     out = os.path.join(OUTPUT_DIR, "index.html")
     with open(out, 'w') as f:
-        f.write(html_shell("Jazz Vinyl Guide", "Collector-grade vinyl pressing guides for essential jazz albums.", body))
+        f.write(html_shell("Jazz Vinyl Guide", "Collector-grade vinyl pressing guides for essential jazz albums.", body, canonical_path="/", structured_data=website_ld))
     print("  ✓ index.html")
 
 def build_album(album):
@@ -475,10 +505,28 @@ def build_album(album):
   </article>
 </div>'''
 
+    last_updated = get_last_updated(album['content_file'])
+    article_ld = {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": f"{title} Vinyl Pressing Guide",
+        "description": album['description'],
+        "author": {"@type": "Organization", "name": "Jazz Vinyl Guide", "url": SITE_URL},
+        "publisher": {"@type": "Organization", "name": "Jazz Vinyl Guide", "url": SITE_URL},
+        "mainEntityOfPage": {"@type": "WebPage", "@id": f"{SITE_URL}/albums/{slug}.html"},
+        "about": {
+            "@type": "MusicAlbum",
+            "name": title,
+            "byArtist": {"@type": "MusicGroup", "name": artist},
+            "datePublished": str(year)
+        }
+    }
+    if last_updated:
+        article_ld["dateModified"] = last_updated
     out = os.path.join(OUTPUT_DIR, "albums", f"{slug}.html")
     os.makedirs(os.path.dirname(out), exist_ok=True)
     with open(out, 'w') as f:
-        f.write(html_shell(title, album['description'], body))
+        f.write(html_shell(f"{title} ({artist})", album['description'], body, canonical_path=f"/albums/{slug}.html", structured_data=json.dumps(article_ld), og_type="article"))
     print(f"  ✓ albums/{slug}.html")
 
 
@@ -545,7 +593,7 @@ def build_changelog(album):
     )
     out = os.path.join(OUTPUT_DIR, "albums", f"{slug}-changelog.html")
     with open(out, "w") as f:
-        f.write(html_shell(title + " Update Log", "Update history for the " + title + " vinyl pressing guide.", body))
+        f.write(html_shell(title + " Update Log", "Update history for the " + title + " vinyl pressing guide.", body, canonical_path=f"/albums/{slug}-changelog.html", noindex=True))
     print(f"  ✓ albums/{slug}-changelog.html")
 
 
@@ -616,9 +664,31 @@ def build_status(albums):
     )
     out = os.path.join(OUTPUT_DIR, "status.html")
     with open(out, "w") as f:
-        f.write(html_shell("Guide Status", "Internal status tracking for jazzvinylguide.com.", body))
+        f.write(html_shell("Guide Status", "Internal status tracking for jazzvinylguide.com.", body, canonical_path="/status.html", noindex=True))
     print("  \u2713 status.html")
 
+
+def build_sitemap(albums):
+    from datetime import date
+    urls = [
+        (SITE_URL + "/", "1.0"),
+        (SITE_URL + "/about.html", "0.5"),
+        (SITE_URL + "/contribute.html", "0.5"),
+    ]
+    for a in albums:
+        lastmod = get_last_updated(a['content_file'])
+        urls.append((f"{SITE_URL}/albums/{a['slug']}.html", "0.8", lastmod))
+    entries = []
+    for entry in urls:
+        loc, priority = entry[0], entry[1]
+        lastmod = entry[2] if len(entry) > 2 and entry[2] else None
+        lastmod_tag = f"\n    <lastmod>{lastmod}</lastmod>" if lastmod else ""
+        entries.append(f"  <url>\n    <loc>{loc}</loc>{lastmod_tag}\n    <priority>{priority}</priority>\n  </url>")
+    xml = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "\n".join(entries) + "\n</urlset>\n"
+    out = os.path.join(OUTPUT_DIR, "sitemap.xml")
+    with open(out, 'w') as f:
+        f.write(xml)
+    print("  ✓ sitemap.xml")
 
 def main():
     with open(ALBUMS_FILE) as f:
@@ -636,6 +706,7 @@ def main():
         print("Building all pages...")
         build_index(albums)
         build_status(albums)
+        build_sitemap(albums)
         for a in albums:
             build_album(a)
             build_changelog(a)

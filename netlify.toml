@@ -15,3 +15,8 @@
   for = "/status.html"
   [headers.values]
     X-Robots-Tag = "noindex"
+
+[[headers]]
+  for = "/albums/*-changelog.html"
+  [headers.values]
+    X-Robots-Tag = "noindex"
