@@ -6,7 +6,7 @@
 
 This is the rare case where buying a reissue means accepting a real, well-documented compromise: the original 1960 master tape went missing sometime in the 1960s or 70s, and for decades every reissue – vinyl and CD alike – was cut from a "mother dub" made from surviving metal parts rather than the tape itself, producing results collectors have described as everything from dull to boxy. In 2025, Craft Recordings' engineers turned up a Japanese-made stereo copy tape in the vault and used it for a new cut, but even that is a copy, not the lost original – and reception has been genuinely split between listeners who consider it the best version since 1960 and others who still prefer a clean original pressing.
 
-**Best early pressing for audiophiles:** [Original Riverside mono, RLP 12-320](https://www.discogs.com/release/1340330-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) – deep groove, small blue labels without "Inc." after Bill Grauer Productions; median around $108, up to $300 for clean copies.
+**Best early pressing for audiophiles:** [Original Riverside mono, RLP 12-320](https://www.discogs.com/release/1340330-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) – deep groove, small blue labels without "Inc." after Bill Grauer Productions; condition drives significant price variance, with clean copies commanding considerably more than average examples.
 
 **Best modern pressing for audiophiles:** [Craft Recordings / Original Jazz Classics, CR00850 (2025)](https://www.discogs.com/release/33275373-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) – the first reissue in decades cut from an actual tape rather than the old mother dub, though opinions on the result are divided.
 
@@ -55,7 +55,7 @@ Collectors who've compared US pressings against contemporaneous UK Riverside pre
 
 ### Original Jazz Classics OJC-036 (1982–2000s) – the known-quantity budget option
 
-**Cat. OJC-036 / RLP-9320** | Format: Stereo, various pressings 1982 through the 2000s | **Mastered by Gary Hobish**, reissued with minimal changes across two decades of Fantasy/OJC pressings. Sounds notably narrower and more forward than a genuine stereo image – several reviewers note it "sure sounds like mono." Reliable, cheap, and easy to find; not a sonic revelation, but a fair way to own the album on vinyl without chasing a $100+ original.
+**Cat. OJC-036 / RLP-9320** | Format: Stereo, various pressings 1982 through the 2000s | **Mastered by Gary Hobish**, reissued with minimal changes across two decades of Fantasy/OJC pressings. Sounds notably narrower and more forward than a genuine stereo image – several reviewers note it "sure sounds like mono." Reliable, cheap, and easy to find; not a sonic revelation, but a fair way to own the album on vinyl without chasing a considerably pricier original.
 
 ---
 
@@ -75,7 +75,7 @@ A 2022 reissue on the UK public-domain label Not Now Music (barcode 506034858333
 
 **$ (Budget):** [Original Jazz Classics, OJC-036](https://www.discogs.com/release/468353-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) – the cheapest legitimate way onto vinyl, even with its narrow imaging.
 
-**$$ (Affordable):** [Craft Recordings / OJC, CR00850 (2025)](https://www.discogs.com/release/33275373-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) – the current pressing, tape-sourced but divisive; new copies run $30–60.
+**$$ (Affordable):** [Craft Recordings / OJC, CR00850 (2025)](https://www.discogs.com/release/33275373-Wes-Montgomery-The-Incredible-Jazz-Guitar-Of-Wes-Montgomery) – the current pressing, tape-sourced but divisive.
 
 **$$$ (Mid-range):** The Milestone *While We're Young* twofer (47003) – secondhand, generally well-regarded for its balance.
 
