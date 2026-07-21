@@ -95,4 +95,37 @@
     });
   });
 
+  // ── Cover art fallback via iTunes Search API ──────────────────────────────
+  // Two failure modes feed into this: (1) an <img> with a Cover Art Archive
+  // src whose mbid has no artwork registered there (fires onerror), and
+  // (2) an <img> with no src at all, for albums with no mbid yet. Both cases
+  // carry a data-itunes-fallback query string. iTunes has near-universal
+  // commercial-release coverage and needs no API key, so this self-heals
+  // cover art for future albums automatically rather than requiring anyone
+  // to manually source and commit an image file when MusicBrainz comes up
+  // short.
+  var itunesFallbackInFlight = {};
+  window.tryItunesCoverFallback = function (img) {
+    var query = img.getAttribute('data-itunes-fallback');
+    if (!query || itunesFallbackInFlight[query]) { return; }
+    itunesFallbackInFlight[query] = true;
+    img.removeAttribute('onerror');
+    fetch('https://itunes.apple.com/search?entity=album&limit=1&term=' + query)
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        var hit = data && data.results && data.results[0];
+        var art = hit && hit.artworkUrl100;
+        if (art) {
+          img.src = art.replace('100x100bb', '600x600bb');
+        } else {
+          img.style.display = 'none';
+        }
+      })
+      .catch(function () { img.style.display = 'none'; });
+  };
+
+  document.querySelectorAll('img[data-itunes-fallback]:not([src])').forEach(function (img) {
+    window.tryItunesCoverFallback(img);
+  });
+
 })();

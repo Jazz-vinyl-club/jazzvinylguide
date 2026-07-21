@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import json, os, re, sys, urllib.request, urllib.error
+import json, os, re, sys, urllib.request, urllib.error, urllib.parse
 from datetime import datetime
 
 try:
@@ -371,14 +371,18 @@ def build_index(albums):
         artist_lower = a['artist'].lower().replace('"', '&quot;')
         label_lower  = a['label'].lower().replace('"', '&quot;')
         year_val     = str(a['year'])
-        if mbid:
-            title_esc = a['title']
-            thumb = f'<img src="https://coverartarchive.org/release-group/{mbid}/front-250" alt="{title_esc}" class="album-card__cover" loading="lazy" onerror="this.style.display:none">'
+        title_esc = a['title']
+        itunes_query = urllib.parse.quote(f"{a['artist']} {a['title']}")
+        cp = os.path.join(BASE_DIR, "covers", f"{a['slug']}.jpg")
+        if os.path.exists(cp):
+            thumb = f'<img src="/covers/{a["slug"]}.jpg" alt="{title_esc}" class="album-card__cover" loading="lazy">'
+        elif mbid:
+            # onerror had "this.style.display:none" (colon, not "=") which is
+            # invalid JS and silently no-ops -- fixed here, and now also
+            # falls back to an iTunes lookup instead of just hiding the image.
+            thumb = f'<img src="https://coverartarchive.org/release-group/{mbid}/front-250" alt="{title_esc}" class="album-card__cover" loading="lazy" data-itunes-fallback="{itunes_query}" onerror="window.tryItunesCoverFallback(this)">'
         else:
-            cp = os.path.join(BASE_DIR, "covers", f"{a['slug']}.jpg")
-            slug_val = a['slug']
-            title_val = a['title']
-            thumb = f'<img src="/covers/{slug_val}.jpg" alt="{title_val}" class="album-card__cover">' if os.path.exists(cp) else ''
+            thumb = f'<img alt="{title_esc}" class="album-card__cover" loading="lazy" data-itunes-fallback="{itunes_query}">'
         rows += f'''    <a class="album-card" href="/albums/{a['slug']}.html" data-title="{title_lower}" data-artist="{artist_lower}" data-label="{label_lower}" data-year="{year_val}">
       {thumb}
       <h2 class="album-card__title">{a['title']}</h2>
@@ -421,18 +425,31 @@ def build_album(album):
     content_html = inject_market_column(content_html, load_market_data())
 
     mbid = album.get('mbid', '')
-    if mbid:
+    itunes_query = urllib.parse.quote(f"{artist} {title}")
+    cover_path = os.path.join(BASE_DIR, "covers", f"{slug}.jpg")
+    if os.path.exists(cover_path):
+        # Pre-vetted local file takes priority when we have one.
         cover_html = f'''    <figure class="album-header__cover">
-      <img src="https://coverartarchive.org/release-group/{mbid}/front-500" alt="{title} album cover" width="160" height="160" loading="lazy" onerror="this.style.display='none'">
-    </figure>'''
-    else:
-        cover_path = os.path.join(BASE_DIR, "covers", f"{slug}.jpg")
-        if os.path.exists(cover_path):
-            cover_html = f'''    <figure class="album-header__cover">
       <img src="/covers/{slug}.jpg" alt="{title} album cover" width="160" height="160" loading="lazy">
     </figure>'''
-        else:
-            cover_html = ''
+    elif mbid:
+        # Try Cover Art Archive via mbid first; if that specific release-group
+        # has no art registered (a real, fairly common gap), fall back to an
+        # iTunes Search API lookup by artist+title at runtime in the visitor's
+        # browser. iTunes has near-universal commercial-release coverage and
+        # needs no mbid or API key, so this self-heals future albums too
+        # without anyone needing to manually source and commit an image file.
+        cover_html = f'''    <figure class="album-header__cover">
+      <img src="https://coverartarchive.org/release-group/{mbid}/front-500" alt="{title} album cover" width="160" height="160" loading="lazy" data-itunes-fallback="{itunes_query}" onerror="window.tryItunesCoverFallback(this)">
+    </figure>'''
+    else:
+        # No mbid at all -- go straight to the iTunes fallback. main.js scans
+        # for cover images with no src on page load and triggers the lookup
+        # directly, since a missing src doesn't reliably fire onerror in
+        # every browser.
+        cover_html = f'''    <figure class="album-header__cover">
+      <img alt="{title} album cover" width="160" height="160" loading="lazy" data-itunes-fallback="{itunes_query}">
+    </figure>'''
 
     # Public album pages no longer surface "Last updated / update history" -
     # that's for internal tracking only. Changelog pages are still generated
