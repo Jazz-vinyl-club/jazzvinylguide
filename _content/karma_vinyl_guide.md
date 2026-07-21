@@ -6,11 +6,11 @@
 
 *Karma* is a rare case among Impulse! reissues where the modern audiophile pressing isn't chasing a compromised or half-lost source – the tapes are intact and well cared for, so the collector conversation is really about label-variant dating on the originals versus the genuinely excellent 2022 Acoustic Sounds Series remaster.
 
-**Best early pressing for audiophiles:** [Original Impulse! stereo, AS-9181](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) – laminated gatefold, black/red-rim label; median around $56, up to $300 for top condition.
+**Best early pressing for audiophiles:** [Original Impulse! stereo, AS-9181](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) – laminated gatefold, black/red-rim label; genuinely attainable for most collectors, with top-condition copies commanding real premiums.
 
 **Best modern pressing for audiophiles:** [Verve Acoustic Sounds Series (2022)](https://www.discogs.com/release/25484281-Pharoah-Sanders-Karma) – mastered by Ryan K. Smith at Sterling Sound, pressed at QRP; rated 5/5 for both music and sonics by The Absolute Sound.
 
-**Best-value modern:** the same Acoustic Sounds Series pressing – widely available new for well under $40 and a legitimate first choice, not just a budget compromise.
+**Best-value modern:** the same Acoustic Sounds Series pressing – widely available new and a legitimate first choice, not just a budget compromise.
 
 ## Recording history and tape provenance
 
@@ -65,7 +65,7 @@ An unofficial, unlicensed pressing (catalog ACL0087) circulates outside the main
 
 **$ (Budget):** [Verve Acoustic Sounds Series (2022)](https://www.discogs.com/release/25484281-Pharoah-Sanders-Karma) – genuinely the easiest recommendation in this guide; new, tape-sourced, and critically acclaimed.
 
-**$$$ (Mid-range):** A clean [original Impulse! stereo pressing](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) – median price for this title is around $56, making a decent original realistically attainable.
+**$$$ (Mid-range):** A clean [original Impulse! stereo pressing](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) – genuinely realistic to find a decent original at this tier, unlike many equally sought-after titles from the same era.
 
 **$$$$$ (Grail / Rare):** A near-mint, laminated-gatefold original first pressing (single-box logo, no ®) for collectors chasing the earliest possible copy.
 
