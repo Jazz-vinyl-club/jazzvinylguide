@@ -6,11 +6,11 @@
 
 The stereo is widely preferred for this title – Tony Williams's drumming and the open suspended harmonics both benefit from the stereo spread. Original New York USA pressings are the collector benchmark; the Music Matters 33rpm AAA is the finest modern version; the Blue Note Classic Vinyl is the accessible entry point.
 
-**Best early pressing for audiophiles:** [Original Blue Note BST 84195 stereo, New York USA label](https://www.discogs.com/release/1407692-Herbie-Hancock-Maiden-Voyage) – deep groove (Side A), Van Gelder stamp, Plastylite ear; $200–$500 NM.
+**Best early pressing for audiophiles:** [Original Blue Note BST 84195 stereo, New York USA label](https://www.discogs.com/release/1407692-Herbie-Hancock-Maiden-Voyage) – deep groove (Side A), Van Gelder stamp, Plastylite ear.
 
 **Best modern pressing for audiophiles:** [Music Matters SRX 33rpm AAA stereo 180g](https://www.discogs.com/release/14993652-Herbie-Hancock-Maiden-Voyage) – Kevin Gray, QRP, gatefold tip-on.
 
-**Best-value modern:** [Blue Note Classic Vinyl BST 84195 180g (2021)](https://www.discogs.com/release/20316430-Herbie-Hancock-Maiden-Voyage) – Kevin Gray, Optimal, 180g, ~$25.
+**Best-value modern:** [Blue Note Classic Vinyl BST 84195 180g (2021)](https://www.discogs.com/release/20316430-Herbie-Hancock-Maiden-Voyage) – Kevin Gray, Optimal, 180g.
 
 
 ## Recording history and tape provenance
@@ -46,11 +46,11 @@ The New York USA label pressings (1965–67) are the correct target:
 
 Note: r1907831 on Discogs is listed as Mono (DG Side 1) – the stereo original is r1407692. Both are 1965 NY USA pressings.
 
-**NM originals: $200–$500. VG+: $100–$300.**
+**NM originals command a real premium over VG+ copies.**
 
 ### Liberty-era pressings (1966–1971)
 
-"A Division of Liberty Records Inc." label text. Van Gelder stamps remain on many. [LondonJazzCollector](https://londonjazzcollector.wordpress.com/2014/09/02/herbie-hancock-maiden-voyage-1965-blue-note/) notes the later dark blue/yellow "Transamerica period" Liberty labels tend to lack "the visceral punch of Plastylite" – but not everyone agrees these are simply inferior to modern reissues: [one detailed Discogs comparison](https://www.discogs.com/release/3154908-Herbie-Hancock-Maiden-Voyage) against the Blue Note Classic Vinyl series found the Liberty pressing "more present, had more impact, more depth and more air" than the reissue, concluding flatly that "the Classic series is not (always) the definitive vinyl issue." Quality is genuinely variable across this pressing run – check the deadwax for a Van Gelder stamp regardless. **$40–$100 VG+.**
+"A Division of Liberty Records Inc." label text. Van Gelder stamps remain on many. [LondonJazzCollector](https://londonjazzcollector.wordpress.com/2014/09/02/herbie-hancock-maiden-voyage-1965-blue-note/) notes the later dark blue/yellow "Transamerica period" Liberty labels tend to lack "the visceral punch of Plastylite" – but not everyone agrees these are simply inferior to modern reissues: [one detailed Discogs comparison](https://www.discogs.com/release/3154908-Herbie-Hancock-Maiden-Voyage) against the Blue Note Classic Vinyl series found the Liberty pressing "more present, had more impact, more depth and more air" than the reissue, concluding flatly that "the Classic series is not (always) the definitive vinyl issue." Quality is genuinely variable across this pressing run – check the deadwax for a Van Gelder stamp regardless.
 
 ---
 
@@ -58,23 +58,23 @@ Note: r1907831 on Discogs is listed as Mono (DG Side 1) – the stereo original 
 
 ### Music Matters SRX 33rpm AAA stereo 180g – the pre-Classic Vinyl benchmark
 
-**Cat. MM33 BNST-84195** (SRX pressing) | Format: 180g LP, 33⅓, stereo, gatefold tip-on jacket. **Mastered by Kevin Gray at Cohearent Audio, AAA, from the original stereo master tape. Pressed at QRP.** Music Matters' *Maiden Voyage* is consistently praised and now out of print. Discogs owners: "This pressing sounds incredible. I own an 1965 original and to my ears you couldn't ask for a better sounding repress." Secondary market prices have risen. **$150–$250 secondary.**
+**Cat. MM33 BNST-84195** (SRX pressing) | Format: 180g LP, 33⅓, stereo, gatefold tip-on jacket. **Mastered by Kevin Gray at Cohearent Audio, AAA, from the original stereo master tape. Pressed at QRP.** Music Matters' *Maiden Voyage* is consistently praised and now out of print. Discogs owners: "This pressing sounds incredible. I own an 1965 original and to my ears you couldn't ask for a better sounding repress." Secondary market prices have risen accordingly.
 
 ### Analogue Productions AP-84195 45rpm 2LP (2010) – the earlier audiophile benchmark
 
-**Cat. AP-84195** | Format: 2×180g LP, 45rpm, numbered. **Mastered by Kevin Gray and Steve Hoffman at AcousTech, AAA, from a safety copy of the master tapes. Pressed at RTI.** Limited to 2,500 numbered copies; now out of print. The AP preceded the Music Matters 33rpm by a few years. [Stereophile](https://www.stereophile.com/content/herbie-hancock-maiden-voyage) noted the Music Matters 33rpm sounds "more transparent, airy, and dynamic" than the AP 45rpm, attributing this to improved equipment at Cohearent Audio and, crucially, the fact that the AP 45rpm was mastered from a safety copy of the master tape while the Music Matters 33rpm was sourced from the original master tape. The AP remains an excellent pressing – just not the current reference. **$150–$300 secondary.**
+**Cat. AP-84195** | Format: 2×180g LP, 45rpm, numbered. **Mastered by Kevin Gray and Steve Hoffman at AcousTech, AAA, from a safety copy of the master tapes. Pressed at RTI.** Limited to 2,500 numbered copies; now out of print. The AP preceded the Music Matters 33rpm by a few years. [Stereophile](https://www.stereophile.com/content/herbie-hancock-maiden-voyage) noted the Music Matters 33rpm sounds "more transparent, airy, and dynamic" than the AP 45rpm, attributing this to improved equipment at Cohearent Audio and, crucially, the fact that the AP 45rpm was mastered from a safety copy of the master tape while the Music Matters 33rpm was sourced from the original master tape. The AP remains an excellent pressing – just not the current reference.
 
 ### Japanese King/Toshiba pressings (1970s–80s) – the vintage alternative
 
-Japanese licensed pressings of *Maiden Voyage* – particularly the **King/Toshiba GXF** and later Toshiba-EMI 33rpm pressings – are consistently praised for dead-quiet vinyl and warm, faithful reproduction. As with most Japanese Blue Note pressings from this era, they were pressed under licence using dubbed tape sources rather than original US metalwork, but King's vinyl quality in the late 1970s was exceptional. One Discogs owner comparing a King reissue directly against streaming: "I was just A/B-ing my copy of this King reissue with the most recent 'lossless' remaster on streaming, and this is a touch less bright, and is warmer." **$40–$100 NM with obi.**
+Japanese licensed pressings of *Maiden Voyage* – particularly the **King/Toshiba GXF** and later Toshiba-EMI 33rpm pressings – are consistently praised for dead-quiet vinyl and warm, faithful reproduction. As with most Japanese Blue Note pressings from this era, they were pressed under licence using dubbed tape sources rather than original US metalwork, but King's vinyl quality in the late 1970s was exceptional. One Discogs owner comparing a King reissue directly against streaming: "I was just A/B-ing my copy of this King reissue with the most recent 'lossless' remaster on streaming, and this is a touch less bright, and is warmer." Typically found with obi.
 
 ### Blue Note Classic Vinyl 180g (2021) – the recommended modern option
 
-**Cat. BST 84195** | Format: 180g LP, 33⅓, stereo. **Mastered by Kevin Gray at Cohearent Audio. Pressed at Optimal in Germany.** Unlike the Song for My Father Classic Vinyl, the Maiden Voyage pressing receives consistently positive reviews: "Sounds as good as any Tone Poet I've heard and at nearly half the price it's a KILLER record. Glass flat, noise free." Another: "Dead quiet, perfectly flat, and it throws a wide, genuinely deep soundstage with excellent imaging." **$20–$35 new.**
+**Cat. BST 84195** | Format: 180g LP, 33⅓, stereo. **Mastered by Kevin Gray at Cohearent Audio. Pressed at Optimal in Germany.** Unlike the Song for My Father Classic Vinyl, the Maiden Voyage pressing receives consistently positive reviews: "Sounds as good as any Tone Poet I've heard and at nearly half the price it's a KILLER record. Glass flat, noise free." Another: "Dead quiet, perfectly flat, and it throws a wide, genuinely deep soundstage with excellent imaging."
 
 ### Blue Note Essentials 140g – the budget entry point
 
-A separate, more basic reissue line from the Classic Vinyl series: 140g LP, single (non-gatefold) sleeve, [pressed at Optimal from a hi-res digital master](https://store.everythingjazz.com/products/herbie-hancock-maiden-voyage-blue-note-essentials-vinyl-series-1lp) rather than the all-analogue chain used for Classic Vinyl. Released July 17, 2026 – catalog BLUN-243674. Positioned explicitly as the label's most affordable way to own its classics, not as an audiophile pressing – a reasonable option only if the Classic Vinyl isn't available or budget is the deciding factor. **~$20 new.**
+A separate, more basic reissue line from the Classic Vinyl series: 140g LP, single (non-gatefold) sleeve, [pressed at Optimal from a hi-res digital master](https://store.everythingjazz.com/products/herbie-hancock-maiden-voyage-blue-note-essentials-vinyl-series-1lp) rather than the all-analogue chain used for Classic Vinyl. Released July 17, 2026 – catalog BLUN-243674. Positioned explicitly as the label's most affordable way to own its classics, not as an audiophile pressing – a reasonable option only if the Classic Vinyl isn't available or budget is the deciding factor.
 
 ---
 
