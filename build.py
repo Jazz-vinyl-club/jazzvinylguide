@@ -509,23 +509,35 @@ def build_album(album):
 </div>'''
 
     last_updated = get_last_updated(album['content_file'])
+    breadcrumb_ld = {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Albums", "item": SITE_URL + "/"},
+            {"@type": "ListItem", "position": 2, "name": title, "item": f"{SITE_URL}/albums/{slug}.html"}
+        ]
+    }
     article_ld = {
         "@context": "https://schema.org",
-        "@type": "Article",
-        "headline": f"{title} Vinyl Pressing Guide",
-        "description": album['description'],
-        "author": {"@type": "Organization", "name": "Jazz Vinyl Guide", "url": SITE_URL},
-        "publisher": {"@type": "Organization", "name": "Jazz Vinyl Guide", "url": SITE_URL},
-        "mainEntityOfPage": {"@type": "WebPage", "@id": f"{SITE_URL}/albums/{slug}.html"},
-        "about": {
-            "@type": "MusicAlbum",
-            "name": title,
-            "byArtist": {"@type": "MusicGroup", "name": artist},
-            "datePublished": str(year)
-        }
+        "@graph": [
+            {
+                "@type": "Article",
+                "headline": f"{title} Vinyl Pressing Guide",
+                "description": album['description'],
+                "author": {"@type": "Organization", "name": "Jazz Vinyl Guide", "url": SITE_URL},
+                "publisher": {"@type": "Organization", "name": "Jazz Vinyl Guide", "url": SITE_URL},
+                "mainEntityOfPage": {"@type": "WebPage", "@id": f"{SITE_URL}/albums/{slug}.html"},
+                "about": {
+                    "@type": "MusicAlbum",
+                    "name": title,
+                    "byArtist": {"@type": "MusicGroup", "name": artist},
+                    "datePublished": str(year)
+                }
+            },
+            breadcrumb_ld
+        ]
     }
     if last_updated:
-        article_ld["dateModified"] = last_updated
+        article_ld["@graph"][0]["dateModified"] = last_updated
     out = os.path.join(OUTPUT_DIR, "albums", f"{slug}.html")
     os.makedirs(os.path.dirname(out), exist_ok=True)
     with open(out, 'w') as f:
