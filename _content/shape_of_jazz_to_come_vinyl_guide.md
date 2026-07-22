@@ -56,13 +56,13 @@ The counterargument – well made by multiple Discogs reviewers – is that the 
 
 ### Later Atlantic label variants (1960s–70s)
 
-**Plum/orange white fan label (from ~1962):** The bullseye was replaced by the plum/orange label with a white fan design. Copies of 1317/SD 1317 in this format are second pressings but still excellent sounding and sonically very close to originals. One collector who owns a 1966 US reissue alongside the Speakers Corner finds the 1966 Atlantic superior in "sharp attack" – a minority view, but the 1960s reprints are genuinely good. These trade for **$30–$80** in clean condition.
+**Plum/orange white fan label (from ~1962):** The bullseye was replaced by the plum/orange label with a white fan design. Copies of 1317/SD 1317 in this format are second pressings but still excellent sounding and sonically very close to originals. One collector who owns a 1966 US reissue alongside the Speakers Corner finds the 1966 Atlantic superior in "sharp attack" – a minority view, but the 1960s reprints are genuinely good and trade for considerably less than the bullseye originals in clean condition.
 
 **Green/red Warner-era labels (1970s):** Later pressings on thin vinyl with degraded masters. [Fred Kaplan (Stereophile)](https://www.stereophile.com/content/ithe-shape-jazz-comei-45rpm) called these the "dreadful 1970s Atlantic pressings" when noting that ORG reproduced those labels on their reissue rather than the bullseye original. Sonically inferior; avoid.
 
 ### Market values
 
-NM **stereo SD 1317 bullseye label** first press: **$200–$500**. NM **mono 1317 bullseye**: **$100–$250**. NM **plum/orange 1960s repress**: **$30–$80**. Condition is decisive – the quiet bass-and-drums opening of "Lonely Woman" makes any surface noise immediately apparent.
+NM **stereo SD 1317 bullseye label** first press commands the highest prices; NM **mono 1317 bullseye** sits a step below; NM **plum/orange 1960s repress** is considerably more affordable than either bullseye original. Condition is decisive – the quiet bass-and-drums opening of "Lonely Woman" makes any surface noise immediately apparent.
 
 ---
 
@@ -70,7 +70,7 @@ NM **stereo SD 1317 bullseye label** first press: **$200–$500**. NM **mono 131
 
 ### Rhino 180g 33rpm (c.2008) – a sleeper
 
-A 180g reissue on the Rhino/Atlantic catalogue. [Fred Kaplan (Stereophile)](https://www.stereophile.com/content/ithe-shape-jazz-comei-45rpm) praised it before the ORG existed, writing that it "sounds in every way better than the original pressing, which itself sounds quite good." He later revised upward to the ORG. One collector who owns both a 1966 Atlantic and the Speakers Corner considers the 1966 Atlantic superior to the Kevin Gray cut, though this is a minority view. **$15–$30** used.
+A 180g reissue on the Rhino/Atlantic catalogue. [Fred Kaplan (Stereophile)](https://www.stereophile.com/content/ithe-shape-jazz-comei-45rpm) praised it before the ORG existed, writing that it "sounds in every way better than the original pressing, which itself sounds quite good." He later revised upward to the ORG. One collector who owns both a 1966 Atlantic and the Speakers Corner considers the 1966 Atlantic superior to the Kevin Gray cut, though this is a minority view.
 
 ### ORG Music ORGM-1099 45rpm 2LP (2013) – the stereo audiophile benchmark
 
@@ -80,9 +80,7 @@ A 180g reissue on the Rhino/Atlantic catalogue. [Fred Kaplan (Stereophile)](http
 
 Multiple Discogs owners with the ORG: "Sound is stellar, it is truly outstanding. Way beyond all expectations." One reviewer who has the ORG, the Speakers Corner, and the VMP: "I prefer the VMP slightly more... between Ryan's cut and the mono presentation that's the copy I need in my rotation over this Kevin Gray cut."
 
-**Pressing quality caveat:** The ORG has a documented pressing quality problem. Multiple Discogs owners report non-fill (unfilled groove) defects specifically on Side 3, some severe enough to cause unlistenable constant surface noise. One owner had to exchange copies; the second had the same defect in a different channel. A second owner reports his copy is "quite fine, some smaller issues here and there but overall great, except side 3 which is – to my rather sensible ears – unlistenable." Pallas pressing inconsistency is the culprit. Inspect carefully before purchase or buy from a dealer who will accept returns. Cover reproduction is also poor relative to the original.
-
-**$80–$150** on the secondary market.
+**Pressing quality caveat:** The ORG has a documented pressing quality problem. Multiple Discogs owners report non-fill (unfilled groove) defects specifically on Side 3, some severe enough to cause unlistenable constant surface noise. One owner had to exchange copies; the second had the same defect in a different channel. A second owner reports his copy is "quite fine, some smaller issues here and there but overall great, except side 3 which is – to my rather sensible ears – unlistenable." Pallas pressing inconsistency is the culprit. Inspect carefully before purchase or buy from a dealer who will accept returns. Cover reproduction is also poor relative to the original. Out of print, now a secondary-market purchase only.
 
 ### Speakers Corner SD 1317 180g 33rpm (2021) – Kevin Gray stereo
 
@@ -92,7 +90,7 @@ Multiple Discogs owners with the ORG: "Sound is stellar, it is truly outstanding
 
 **Sound:** Those who receive a good copy are enthusiastic. "Kevin Gray, AAA and Pallas a winning combination." "Perfect record, mix, master and pressing. One of the best sounding records in my collection." One dissenting view from a collector who prefers a 1966 Atlantic: "terrific but a little too robust, lacking the sharp attack of a copy closer in time to the original tape." This reflects system-dependent responses to Kevin Gray's characteristic warmth.
 
-**~$35–$50 new** (widely available). Despite the QC concerns, at this price it remains an excellent choice if you receive a good copy.
+Widely available. Despite the QC concerns, it remains an excellent choice if you receive a good copy.
 
 ### VMP Classics VMP-C058 mono 180g (2022) – the current consensus best
 
@@ -102,7 +100,7 @@ Matrix: VMP-C058-A / VMP-C058-B, runout confirms "RKS STERLING."
 
 This pressing is mono – a deliberate curatorial choice by VMP that has generated strong community consensus. Discogs reviewers: "Insanely good mono repressing." "When it comes to jazz records pre-65, mono is almost always the way to go. Stereo cuts usually have one channel with drums and one channel with all the melodic instruments and the balance is always off. This mono record sounds superb! Punchy, dynamic and airy." [Note: this reviewer's general characterisation of 1960s stereo panning does not accurately describe *this* album's stereo field, which splits the two horns – Coleman left, Cherry right – rather than drums versus melodics. The case for mono here rests on ensemble coherence, not the drum/melody imbalance the reviewer describes.] "What a brilliant pressing! This is how a record should sound... I've ordered two other VMP AAA records on the back of this." One owner who has both the Speakers Corner stereo and the VMP mono: "it just wasn't getting any time on my deck when the VMP was sitting right next to it."
 
-The case for the VMP is not purely sonic – it is also curatorial. The mono was the primary format in 1959, and Ryan K. Smith's mastering from the original mono tapes gives the quartet a coherent ensemble presence that the stereo's hard panning sacrifices. **Out of print as a VMP subscription exclusive; $50–$100 on the secondary market.**
+The case for the VMP is not purely sonic – it is also curatorial. The mono was the primary format in 1959, and Ryan K. Smith's mastering from the original mono tapes gives the quartet a coherent ensemble presence that the stereo's hard panning sacrifices. Out of print as a VMP subscription exclusive; secondary-market purchase only.
 
 Not everyone reaches the same conclusion, though. [One direct A/B against the Rhino 180g stereo](https://www.youtube.com/watch?v=9et5klxOnm8) – from a reviewer who expected the mono to win, based on prior experience with mono generally outperforming stereo reissues of this era – found the opposite here: the Rhino's bass felt more fleshed-out and the overall presentation "more liquid," while the VMP mono struck this listener as comparatively "sterile" and edgy in the highs. The same reviewer also didn't find this particular stereo mix as extremely or awkwardly panned as some 1959-era jazz stereo mixes can be. Worth remembering that the mono-vs-stereo case here, while strongly argued by many, isn't unanimous – as with most format debates on this title, it's worth hearing both if you can.
 
@@ -114,11 +112,11 @@ Two distinct periods and manufacturers are worth distinguishing:
 
 ### Victor ATL-5038 mono (c.1960) – earliest Japanese issue
 
-Pressed by **Victor Record Company Ltd., Japan** under licence from Atlantic via Cosdel Inc., this is the earliest Japanese release, in mono (cat. ATL-5038). It carries "Full dynamics frequency spectrum" on the label and comes with an insert with Japanese liner notes. As a very early licence pressed from tape rather than metal parts, sound quality varies but these are collector curiosities. **$100–$200 with insert.**
+Pressed by **Victor Record Company Ltd., Japan** under licence from Atlantic via Cosdel Inc., this is the earliest Japanese release, in mono (cat. ATL-5038). It carries "Full dynamics frequency spectrum" on the label and comes with an insert with Japanese liner notes. As a very early licence pressed from tape rather than metal parts, sound quality varies but these are collector curiosities, typically found with insert.
 
 ### Warner Bros.-Pioneer P-6004A stereo (1971) – first stereo Japanese issue
 
-Pressed by **Warner Bros.-Pioneer Corporation** (WBP had acquired Atlantic's Japanese distribution) under the "Jazz Age" series. Cat. P-6004A alongside legacy SD 1317 numbering. Label notes: "Made by Warner Bros.-Pioneer Corporation, Japan under license from Atlantic Recording Corp. U.S.A." Comes with insert. Matrix: P-6004A1 / P-6004A2 with Japanese pressing suffixes. **$50–$100 with insert.**
+Pressed by **Warner Bros.-Pioneer Corporation** (WBP had acquired Atlantic's Japanese distribution) under the "Jazz Age" series. Cat. P-6004A alongside legacy SD 1317 numbering. Label notes: "Made by Warner Bros.-Pioneer Corporation, Japan under license from Atlantic Recording Corp. U.S.A." Comes with insert. Matrix: P-6004A1 / P-6004A2 with Japanese pressing suffixes.
 
 ### Warner-Pioneer P-7510A stereo (1976) – "Jazz-Forever Excellent" series
 
@@ -128,7 +126,7 @@ Matrix: **P-7510A1 ST-A-59175 H** (Side A) and **P-7510A2 ST-A-59176 H** (Side B
 
 This is the Japanese pressing most frequently cited in collector discussions. Discogs reviewers compare it directly with the Speakers Corner: "This pressing sounds great to me – nice balance between bass, mids and highs, and excellent separation. Love the sound of Ornette's sax on this pressing, and Haden's basslines also really pop here. Compared to my Speaker Corners version, this Japanese one sounds more alive, 'hot', and engaged. Dead silent vinyl."
 
-The P-7510A is the Japanese pressing to seek for this title. **$50–$120 NM with obi.**
+The P-7510A is the Japanese pressing to seek for this title. Typically found with obi.
 
 ---
 
@@ -142,7 +140,7 @@ The P-7510A is the Japanese pressing to seek for this title. **$50–$120 NM wit
 
 ## Buyer's guide by budget
 
-**$$ (Affordable):** The [**Speakers Corner 180g**](https://www.discogs.com/release/18616948-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) at ~$40 new is the obvious recommendation – Kevin Gray, AAA, Pallas, stereo, widely available. Buy from a dealer who accepts returns given the documented QC inconsistency. If you prefer mono, hunt for the [**VMP Classics**](https://www.discogs.com/release/24779189-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) on the secondary market.
+**$$ (Affordable):** The [**Speakers Corner 180g**](https://www.discogs.com/release/18616948-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) is the obvious recommendation – Kevin Gray, AAA, Pallas, stereo, widely available. Buy from a dealer who accepts returns given the documented QC inconsistency. If you prefer mono, hunt for the [**VMP Classics**](https://www.discogs.com/release/24779189-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) on the secondary market.
 
 **$$$ (Mid-range):** The **VMP Classics mono** secondhand, or the [**P-7510A Japanese pressing**](https://www.discogs.com/release/2776761-Ornette-Coleman-The-Shape-Of-Jazz-To-Come) with obi for a highly regarded stereo option.
 
