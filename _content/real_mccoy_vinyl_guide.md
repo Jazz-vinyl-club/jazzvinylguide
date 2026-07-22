@@ -10,7 +10,7 @@ This title lands right at the seam of Blue Note's 1965–66 sale to Liberty Reco
 
 **Best modern pressing for audiophiles:** [Music Matters 45rpm 2LP (2011)](https://www.discogs.com/release/3378635-McCoy-Tyner-The-Real-McCoy) – MMBST-84264, gatefold, 180g.
 
-**Best-value modern:** [Blue Note Classic Vinyl](https://www.discogs.com/release/16316769-McCoy-Tyner-The-Real-McCoy) – Kevin Gray at Cohearent Audio, ~$28–$34 new; inspect on arrival given documented QC variance.
+**Best-value modern:** [Blue Note Classic Vinyl](https://www.discogs.com/release/16316769-McCoy-Tyner-The-Real-McCoy) – Kevin Gray at Cohearent Audio; inspect on arrival given documented QC variance.
 
 ## Recording history and tape provenance
 
@@ -26,13 +26,13 @@ The Penguin Guide to Jazz selected the album for its Core Collection, calling it
 
 **Catalogue: BLP 4264** (mono) / **BST 84264** (stereo). The true first pressing carries blue-and-white labels reading "A Division of Liberty Records, Inc." rather than the earlier Blue Note "New York, USA" design – Liberty had acquired Blue Note in 1965–66, and by the time this session was recorded and released in 1967, the Liberty label design was already standard. Matrix reads **BNST-84264-A VAN GELDER** / **BNST-84264-B VAN GELDER**, confirming Rudy Van Gelder's original lacquer cut. A pressing-plant variant exists with "114" etched in the runout, indicating an All Disc pressing from the same metalwork rather than a distinct later pressing.
 
-The important collector point: because this Liberty-label design is the genuine 1967 original for this title, it should not be discounted the way a true later reissue would be. As one longtime collector puts it, this is "a Blue Note in everything but the Liberty label" – Van Gelder-cut, first-generation metalwork, simply carrying the label design Blue Note was using company-wide by 1967. **NM copies: $150–$350.**
+The important collector point: because this Liberty-label design is the genuine 1967 original for this title, it should not be discounted the way a true later reissue would be. As one longtime collector puts it, this is "a Blue Note in everything but the Liberty label" – Van Gelder-cut, first-generation metalwork, simply carrying the label design Blue Note was using company-wide by 1967. NM copies are genuinely collectible.
 
 ---
 
 ## Japanese pressings
 
-**King Records (Blue Note GXF-3008, 1977)** – a licensed Japanese pressing from King's Blue Note series. As with other King-era Japan Blue Note licenses, expect quiet vinyl and a period-correct obi. [Discogs](https://www.discogs.com/release/3937192-McCoy-Tyner-The-Real-McCoy) **$40–$90 with obi.**
+**King Records (Blue Note GXF-3008, 1977)** – a licensed Japanese pressing from King's Blue Note series. As with other King-era Japan Blue Note licenses, expect quiet vinyl and a period-correct obi. [Discogs](https://www.discogs.com/release/3937192-McCoy-Tyner-The-Real-McCoy)
 
 ---
 
@@ -40,11 +40,11 @@ The important collector point: because this Liberty-label design is the genuine 
 
 ### Music Matters 45rpm 2LP (2011) – the audiophile benchmark
 
-**Cat. MMBST-84264** | Format: 2×180g LP, 45rpm, gatefold. **Remastered by Kevin Gray and Steve Hoffman at AcousTech Mastering, from the original Rudy Van Gelder stereo session tapes, pressed at RTI.** This 2011 release predates Music Matters' move to Kevin Gray's own Cohearent Audio facility, so credit both engineers. Owners consistently praise the "clarity and precision" typical of the Music Matters series applied to this session – Elvin Jones's drums and cymbal work in particular come through with the kind of separation the format is known for. Out of print. **$150–$300 secondary.**
+**Cat. MMBST-84264** | Format: 2×180g LP, 45rpm, gatefold. **Remastered by Kevin Gray and Steve Hoffman at AcousTech Mastering, from the original Rudy Van Gelder stereo session tapes, pressed at RTI.** This 2011 release predates Music Matters' move to Kevin Gray's own Cohearent Audio facility, so credit both engineers. Owners consistently praise the "clarity and precision" typical of the Music Matters series applied to this session – Elvin Jones's drums and cymbal work in particular come through with the kind of separation the format is known for. Out of print.
 
 ### Blue Note Classic Vinyl – the accessible modern option, with real QC caveats
 
-**Cat. BST 84264** | Format: 180g LP, 33⅓. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes.** Discogs reviews are a genuine mixed bag: several owners report flat, silent, punchy copies and call it "an audiophile bargain" at the price, while a comparable number describe dished (bowl-shaped) vinyl, visible dirt on arrival, and audible pops and clicks, particularly on side two. One reviewer bluntly notes this is a "budget" release in construction – simple paper inner sleeve, no tip-on jacket – even where the mastering itself draws praise. Buy from a seller with an easy return policy. **$28–$40 new.**
+**Cat. BST 84264** | Format: 180g LP, 33⅓. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes.** Discogs reviews are a genuine mixed bag: several owners report flat, silent, punchy copies and call it "an audiophile bargain" at the price, while a comparable number describe dished (bowl-shaped) vinyl, visible dirt on arrival, and audible pops and clicks, particularly on side two. One reviewer bluntly notes this is a "budget" release in construction – simple paper inner sleeve, no tip-on jacket – even where the mastering itself draws praise. Buy from a seller with an easy return policy.
 
 Note: unlike other Tyner titles such as *Time For Tyner*, *Expansions*, and *Extensions*, *The Real McCoy* has not been issued as part of Blue Note's Tone Poet series as of this writing. [Blue Note president Don Was confirmed](https://www.youtube.com/watch?v=hWx30qQXc_c) this title as one of the two launch albums (alongside Lee Morgan's *The Sidewinder*) for the Classic Vinyl series when it debuted December 4, as an extension of the label's 80th anniversary vinyl reissue program – confirming the Kevin Gray/Optimal chain directly from label leadership, and framing the series as an ongoing one rather than a one-off.
 
