@@ -32,17 +32,17 @@ Van Gelder recorded genuine two-track stereo alongside the mono mix for this 196
 
 ## Original Blue Note pressings (1965)
 
-**Mono: BLP 4167** ([Discogs](https://www.discogs.com/release/2108087-Andrew-Hill-Point-Of-Departure)) / **Stereo: BST 84167** ([Discogs](https://www.discogs.com/release/4393383-Andrew-Hill-Point-Of-Departure)), both on New York USA labels with the Van Gelder stamp in the deadwax. **NM originals: $150–$400**, with stereo generally commanding a modest premium.
+**Mono: BLP 4167** ([Discogs](https://www.discogs.com/release/2108087-Andrew-Hill-Point-Of-Departure)) / **Stereo: BST 84167** ([Discogs](https://www.discogs.com/release/4393383-Andrew-Hill-Point-Of-Departure)), both on New York USA labels with the Van Gelder stamp in the deadwax. NM originals of either are collectible, with stereo generally commanding a modest premium over mono.
 
 ### Liberty and United Artists-era pressings (1966–73)
 
-Later pressings on Liberty ("A Division of Liberty Records, Inc.") and United Artists labels retain the Van Gelder stamp and are widely regarded as sonically close to the originals, since they're cut from the same metalwork. **$40–$100.**
+Later pressings on Liberty ("A Division of Liberty Records, Inc.") and United Artists labels retain the Van Gelder stamp and are widely regarded as sonically close to the originals, since they're cut from the same metalwork.
 
 ---
 
 ## Japanese pressings
 
-Toshiba-EMI issued this title in Japan with Japanese liner notes and an obi ([Discogs](https://www.discogs.com/release/12384470-Andrew-Hill-Point-Of-Departure)); a King Records pressing (catalog GXK 8139) is also referenced by collectors, though with less-documented audiophile reputation than the Toshiba-EMI edition. **$40–$90 with obi.**
+Toshiba-EMI issued this title in Japan with Japanese liner notes and an obi ([Discogs](https://www.discogs.com/release/12384470-Andrew-Hill-Point-Of-Departure)); a King Records pressing (catalog GXK 8139) is also referenced by collectors, though with less-documented audiophile reputation than the Toshiba-EMI edition. Typically found with obi.
 
 ---
 
@@ -50,15 +50,15 @@ Toshiba-EMI issued this title in Japan with Japanese liner notes and an obi ([Di
 
 ### Music Matters 33rpm (2014) – a distinct, fresh mastering from the 75th Anniversary series
 
-**Cat. 33BST-4167** | Format: 180g LP, 33⅓, stereo, gatefold. **Mastered by Kevin Gray at Cohearent Audio, from the original Van Gelder master tapes, pressed at RTI.** Released as part of Music Matters' 2014 75th Anniversary campaign, this is not simply a slower cut of the same 45rpm lacquer above – Music Matters described undertaking a significant studio upgrade (new front-end electronics, new cabling) specifically to make the 33rpm format a fully credible standalone alternative to their 45rpm series, rather than a compromise. Now out of print. **$100–$200 secondary.**
+**Cat. 33BST-4167** | Format: 180g LP, 33⅓, stereo, gatefold. **Mastered by Kevin Gray at Cohearent Audio, from the original Van Gelder master tapes, pressed at RTI.** Released as part of Music Matters' 2014 75th Anniversary campaign, this is not simply a slower cut of the same 45rpm lacquer above – Music Matters described undertaking a significant studio upgrade (new front-end electronics, new cabling) specifically to make the 33rpm format a fully credible standalone alternative to their 45rpm series, rather than a compromise. Now out of print.
 
 ### Music Matters 45rpm 2LP (2015) – the audiophile benchmark
 
-**Cat. MMBST-84167** | Format: 2×180g LP, 45rpm, stereo, gatefold, limited to 2,500 copies. **Mastered by Kevin Gray at AcousTech, from the original master tapes.** Owners consistently call this the best-sounding version available: "This is the best sounding version of this post bop/avant classic available... worth every penny," with several reviewers noting the extra resolution of the 45rpm format makes the wide stereo separation between Dolphy/Dorham (left) and Henderson/Williams (right) especially vivid. Out of print. [Discogs](https://www.discogs.com/release/2530637-Andrew-Hill-Point-Of-Departure) **$150–$300 secondary.**
+**Cat. MMBST-84167** | Format: 2×180g LP, 45rpm, stereo, gatefold, limited to 2,500 copies. **Mastered by Kevin Gray at AcousTech, from the original master tapes.** Owners consistently call this the best-sounding version available: "This is the best sounding version of this post bop/avant classic available... worth every penny," with several reviewers noting the extra resolution of the 45rpm format makes the wide stereo separation between Dolphy/Dorham (left) and Henderson/Williams (right) especially vivid. Out of print. [Discogs](https://www.discogs.com/release/2530637-Andrew-Hill-Point-Of-Departure)
 
 ### Blue Note Classic Vinyl (2022) – the recommended modern pressing
 
-**Cat. 4535330** | Format: 180g LP, 33⅓, stereo. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes, pressed at Optimal in Germany.** This title has not been issued as part of the Tone Poet series; the Classic Vinyl edition is the only current in-print option and reviewers rate it highly – "wonderfully well balanced... Kevin Gray has, once again, done a sumptuous job" – though as with other titles in this series, some buyers report pressing defects (warping, distortion on one side) alongside many trouble-free copies; a thorough cleaning has resolved apparent defects for at least one reviewer. [Discogs](https://www.discogs.com/release/25191424-Andrew-Hill-Point-Of-Departure) **$25–$40 new.**
+**Cat. 4535330** | Format: 180g LP, 33⅓, stereo. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes, pressed at Optimal in Germany.** This title has not been issued as part of the Tone Poet series; the Classic Vinyl edition is the only current in-print option and reviewers rate it highly – "wonderfully well balanced... Kevin Gray has, once again, done a sumptuous job" – though as with other titles in this series, some buyers report pressing defects (warping, distortion on one side) alongside many trouble-free copies; a thorough cleaning has resolved apparent defects for at least one reviewer. [Discogs](https://www.discogs.com/release/25191424-Andrew-Hill-Point-Of-Departure)
 
 ---
 
