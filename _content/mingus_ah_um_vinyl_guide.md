@@ -12,7 +12,7 @@ The central complication for collectors is this: the original 1959 pressings –
 
 **Best modern pressing for audiophiles:** [ORG 130 45rpm 2LP](https://www.discogs.com/release/4143037-Charles-Mingus-Mingus-Ah-Um) – Bernie Grundman AAA, RTI, full unedited tracks.
 
-**Best-value modern:** [Music on Vinyl MOVLP065](https://www.discogs.com/release/2447595-Charles-Mingus-Mingus-Ah-Um) – ~$30 new, dead-quiet 180g, full unedited tracks.
+**Best-value modern:** [Music on Vinyl MOVLP065](https://www.discogs.com/release/2447595-Charles-Mingus-Mingus-Ah-Um) – dead-quiet 180g, full unedited tracks.
 
 
 ## Recording history and tape provenance
@@ -53,9 +53,9 @@ Columbia's "Six Eye" label (named for the six circles arranged symmetrically aro
 **Sonic character of the originals:** [LJC](https://londonjazzcollector.wordpress.com/2013/02/12/charles-mingus-ah-um-1959-columbia-six-eye/) on his CL 1370 mono 1B/1E stamper copy: "Put on the Six Eye and suddenly the room explodes, that soundstage opens up, fills the room. Whoa!! That's Mingus Ah Um!!" [The Skeptical Audiophile](https://ontherecord.co/2023/01/29/charles-mingus-ah-um/): "The rich, sweet, spacious sound of the vintage tubes used to record the session is reproduced faithfully here – without that sound, it would just not be Ah Um." [Better Records / Tom Port](https://www.betterrecords.com/mingus-ah-um) community rates outstanding six-eye stereo copies as "Double Plus (A++)" – "BIG and BOLD... a huge soundfield, with the music positively jumping out of the speakers."
 
 **Market values (NM condition):**
-- NM mono CL 1370 Six Eye (machine-stamped): **$200–$500**; exceptional copies with the earliest 1B/1E stampers or white label promos: **$400–$800+**
-- NM stereo CS 8171 Six Eye with deep groove: **$300–$600**
-- Non-deep-groove stereo CS 8171, still Six Eye era: **$150–$350**
+- NM mono CL 1370 Six Eye (machine-stamped) is comparable to or somewhat below the stereo deep-groove pressing in typical pricing; exceptional copies with the earliest 1B/1E stampers or white label promos command considerably more than either
+- NM stereo CS 8171 Six Eye with deep groove sits a step above the standard mono, reflecting its own collector demand
+- Non-deep-groove stereo CS 8171, still Six Eye era, is more affordable than either deep-groove variant
 
 **UK Philips pressing:** The UK first press appeared on Philips (cat. BBL 7340 mono / SBBL 507 stereo). [LJC](https://londonjazzcollector.wordpress.com/2013/02/12/charles-mingus-ah-um-1959-columbia-six-eye/)'s assessment: "When you put on the Philips, it's all a bit tame and withholding, dull and worthy... Stick on the Six Eye and suddenly the room explodes." The UK pressing is significantly inferior to the US original and is not recommended as a collector target for sonic reasons.
 
@@ -75,7 +75,7 @@ Beginning in the late 1970s, engineers mixed down the three-track tapes to new s
 
 **Cat. CS 8171** ([Discogs r11547530](https://www.discogs.com/release/11547530-Charles-Mingus-Mingus-Ah-Um) for 180g; [r1981568](https://www.discogs.com/release/1981568-Charles-Mingus-Mingus-Ah-Um) for 200g Quiex SV-P). Classic Records issued the stereo edition only, using Columbia's CS 8171 label number. **Mastered by Bernie Grundman, AAA.** Pressed at RTI (US). 180g first pressings from mid-late 1990s; 200g Quiex SV-P repress from the later 2000s. Single LP, 33⅓, stereo. Label: red Classic Records with Columbia artwork.
 
-The Classic Records pressing was the first audiophile vinyl reissue of *Mingus Ah Um* and established Grundman's approach to this material. The 180g version is identified by a small pressing ring near the spindle; the 200g Quiex SV-P has a large ring near the rim. Both are stereo/unedited. [Discogs](https://www.discogs.com/release/1981568-Charles-Mingus-Mingus-Ah-Um) owner: "This is a wonderful reissue of the album. Grundman outdoes himself too many times to count. I have no original to compare with but I'm almost certain this is as good or better. It sports some fantastic resolution and clarity for all instruments, with the exception of bass. The horns and drums just melt in your ears." Out of print and now collectible: **$150–$300** NM for the 200g; **$80–$150** for the 180g.
+The Classic Records pressing was the first audiophile vinyl reissue of *Mingus Ah Um* and established Grundman's approach to this material. The 180g version is identified by a small pressing ring near the spindle; the 200g Quiex SV-P has a large ring near the rim. Both are stereo/unedited. [Discogs](https://www.discogs.com/release/1981568-Charles-Mingus-Mingus-Ah-Um) owner: "This is a wonderful reissue of the album. Grundman outdoes himself too many times to count. I have no original to compare with but I'm almost certain this is as good or better. It sports some fantastic resolution and clarity for all instruments, with the exception of bass. The horns and drums just melt in your ears." Out of print and now collectible, with the 200g Quiex SV-P commanding a real premium over the standard 180g.
 
 ### Music on Vinyl 180g 33⅓ (2010–present) – the widely available budget reference
 
@@ -83,7 +83,7 @@ The Classic Records pressing was the first audiophile vinyl reissue of *Mingus A
 
 The MOV is controversial on the question of whether it was mastered digitally or from an analog source – "Word on the street is that it's a digital cut" ([Discogs](https://www.discogs.com/release/2447595-Charles-Mingus-Mingus-Ah-Um)). Despite this uncertainty, it consistently earns strong community praise for its pressing quality ([Discogs](https://www.discogs.com/release/2447595-Charles-Mingus-Mingus-Ah-Um)): "Amazing sound for the price. Dead quiet and dynamic. For me, this is plenty good and no need to track down a MoFi." Another: "Whoa. No need for another pressing. This is an excellent mastering and pressing job by MOV. Excellent clarity, the brass instruments has plenty of bite." A third: "This MOV is definitely a bargain for the €22 I paid for it. Warm, organic, rhythmic, and not digital at all. Great dynamics, ultra-quiet vinyl."
 
-One owner who compared MOV against the MoFi One-Step directly: "They have more grip and texture than the MoFi OneStep which I also own. I'm not saying it's better than the OneStep, but I would need to spend more time doing critical listening to decide my preference." The sleeve art is "slightly unsharp reproduction of the original" per the Discogs description. A repressed version from 2015 exists with slightly different sticker text. **~$25–$35 new**; still in print and readily available.
+One owner who compared MOV against the MoFi One-Step directly: "They have more grip and texture than the MoFi OneStep which I also own. I'm not saying it's better than the OneStep, but I would need to spend more time doing critical listening to decide my preference." The sleeve art is "slightly unsharp reproduction of the original" per the Discogs description. A repressed version from 2015 exists with slightly different sticker text; still in print and readily available.
 
 A 2021 limited-edition variant on **blue and white marble vinyl** was issued by MOV as cat. **MOVLP515** (also labelled Columbia KC 32210) – this is a collector edition and not necessarily a sonic upgrade.
 
@@ -93,7 +93,7 @@ A 2021 limited-edition variant on **blue and white marble vinyl** was issued by 
 
 The ORG is the pure-analog community benchmark for this album – unambiguously AAA, Grundman, RTI, 45rpm. [Vinyl Gourmet](https://blog.vinylgourmet.com/2014/02/charles-mingus-mingus-ah-um-org-original-recordings-group-vinyl-lp-record-review.html)'s 9/10 sound rating. [Vinyl Gourmet review](https://blog.vinylgourmet.com/2014/02/charles-mingus-mingus-ah-um-org-original-recordings-group-vinyl-lp-record-review.html): "You'll suddenly find your room filled with the ghosts of Mingus, Parlan, Ervin and his peers... This double LP cut at 45rpm comes housed in a lovely thick and solid gatefold cover with faithful artwork reproduction." The 45rpm groove width relative to the Classic Records 33rpm allowed Grundman to resolve Mingus's bass significantly better: "One thing that is really improved is that you can really hear and feel Mingus playing with so much more resolution and focus because the bass now sounds like there are bass strings being played, it's not all over the room with 'boomy' effect." Multiple [Discogs](https://www.discogs.com/release/4143037-Charles-Mingus-Mingus-Ah-Um) owners: "This is by far the best I've heard this album and I've heard many versions." "Stands very well against the MoFi Ultradisc."
 
-Strictly limited to 2,500 copies; out of print. **$300–$600** on the secondary market. Whoever did not buy this at the original price of ~$55 will pay for it now.
+Strictly limited to 2,500 copies; out of print. Commands a substantial premium on the secondary market well above its original launch price, for anyone who didn't buy in at release.
 
 ### Mobile Fidelity UltraDisc One-Step 2×45rpm (2020) – the pressing pinnacle with provenance caveat
 
@@ -105,7 +105,7 @@ Despite this, community reception has been broadly positive ([Discogs](https://w
 
 One dissenting voice from a Discogs owner comparing carefully: "sounds real good and dead silent but my brand new sealed copy is quite warped while it does not affect play... and then of course, the 'all analogue' lies which leaves a bad taste in the mouth." The warp issue has been reported across multiple sealed copies, a known QC concern with this release.
 
-For collectors informed by the MoFi-gate context: the UD1S here occupies the same tier as the Kind of Blue MoFi – sonically impressive but carrying a provenance asterisk. Market value sealed/NM: **$350–$550**, down from pre-2022 peaks.
+For collectors informed by the MoFi-gate context: the UD1S here occupies the same tier as the Kind of Blue MoFi – sonically impressive but carrying a provenance asterisk. Market value has settled down meaningfully from pre-2022 peaks.
 
 ---
 
@@ -135,7 +135,7 @@ The practical conclusion: **vintage mono for the 1959 listening experience; mode
 
 **Grey-market EU editions (DOL, Waxtime, JazzWax Records, Not Now, Vinyl Passion):** *Mingus Ah Um* is one of the most bootlegged jazz titles in the EU budget market. DOL's version is documented on Discogs as "sounds more like a CD than vinyl – very clean sounding pressing" from a digital source. JazzWax 2009 similarly: "clean sounding but digital quality to it." One Discogs reviewer: "these European labels are working within a grey market and they don't pay licensing fees, hence they've stolen the music." Avoid.
 
-**1970s–80s Columbia represses:** Post-Westrex/Scully era (post-1972 especially), these use Neumann cutterheads on Scully lathes and sound noticeably thinner and brighter. The [1971 Columbia repress](https://www.discogs.com/release/3541016-Charles-Mingus-Mingus-Ah-Um) has mixed reviews: "top-end heavy pressing with hardly any bass to fill it out... Mingus' bass gets lost in busier passages." Acceptable for casual listening at $15–$30; not recommended for serious listening when MOV exists.
+**1970s–80s Columbia represses:** Post-Westrex/Scully era (post-1972 especially), these use Neumann cutterheads on Scully lathes and sound noticeably thinner and brighter. The [1971 Columbia repress](https://www.discogs.com/release/3541016-Charles-Mingus-Mingus-Ah-Um) has mixed reviews: "top-end heavy pressing with hardly any bass to fill it out... Mingus' bass gets lost in busier passages." Acceptable for casual listening given how cheap they are; not recommended for serious listening when MOV exists.
 
 **1987 digital remaster (CJ 40648):** Columbia Jazz Masterpieces series, Vlado Meller mastering, "GI" Carrollton GA plant. Early CD-era mastering, digitally sourced. Identifiable by "Digital Master Prepared by Teo Macero" and "Mastered by Vlado Meller" credits.
 
@@ -143,13 +143,13 @@ The practical conclusion: **vintage mono for the 1959 listening experience; mode
 
 ## Buyer's guide by budget
 
-**$ (Budget):** The [**Music on Vinyl MOVLP065**](https://www.discogs.com/release/2447595) (~$25–35 new) is the answer. Dead-quiet 180g pressing, full unedited tracks, widely available. Its provenance is debated (possible digital cut) but the sonic results have won over most listeners. This is genuinely excellent for the price.
+**$ (Budget):** The [**Music on Vinyl MOVLP065**](https://www.discogs.com/release/2447595) is the answer. Dead-quiet 180g pressing, full unedited tracks, widely available. Its provenance is debated (possible digital cut) but the sonic results have won over most listeners. This is genuinely excellent for the price.
 
 **$$$$ (Premium):** The [**Classic Records 180g or 200g**](https://www.discogs.com/release/1981568) on the used market gives you a confirmed-analog Grundman mastering at 33⅓ in excellent packaging. The 200g Quiex SV-P is particularly prized. Also in this range: a clean [**Columbia Six Eye CS 8171 stereo**](https://www.discogs.com/release/14453808-Charles-Mingus-Mingus-Ah-Um) (non-deep-groove) – edited tracks but with genuine 1959 tube energy that no modern reissue fully matches.
 
-**$$$$$ (Grail / Rare):** The [**MoFi UD1S 2-010**](https://www.discogs.com/release/14857369) at current resale prices (~$350–400) delivers the best pressing quality currently available – SuperVinyl, RTI, 45rpm, Wunderlich lacquers. The DSD intermediate proviso applies but the sonic results are not in dispute. Also in this range: a [**NM deep-groove Six Eye CS 8171 stereo**](https://www.discogs.com/release/10486052) (edited but tube-authentic) or a genuine [**NM Six Eye mono CL 1370**](https://www.discogs.com/release/1355742-Charles-Mingus-Mingus-Ah-Um).
+**$$$$$ (Grail / Rare):** The [**MoFi UD1S 2-010**](https://www.discogs.com/release/14857369) delivers the best pressing quality currently available – SuperVinyl, RTI, 45rpm, Wunderlich lacquers. The DSD intermediate proviso applies but the sonic results are not in dispute. Also in this range: a [**NM deep-groove Six Eye CS 8171 stereo**](https://www.discogs.com/release/10486052) (edited but tube-authentic) or a genuine [**NM Six Eye mono CL 1370**](https://www.discogs.com/release/1355742-Charles-Mingus-Mingus-Ah-Um).
 
-**$$$$$ (Grail / Rare):** The [**ORG 130**](https://www.discogs.com/release/4143037) on the secondary market is the pure AAA benchmark – Grundman, RTI, 45rpm, 2,500 copies. This is what audiophile conviction sounds like. If you find one at $300, buy it.
+**$$$$$ (Grail / Rare):** The [**ORG 130**](https://www.discogs.com/release/4143037) on the secondary market is the pure AAA benchmark – Grundman, RTI, 45rpm, 2,500 copies. This is what audiophile conviction sounds like. If you find one at a fair price, buy it.
 
 For most listeners, the [**Music on Vinyl MOVLP065**](https://www.discogs.com/release/2447595) fills most of the musical and sonic need for a modest outlay. For the dedicated step-up, the MoFi UD1S (accepting its provenance) or the [**ORG 130**](https://www.discogs.com/release/4143037) (accepting secondary-market pricing) are the completists' answers. For vintage character and the 1959 studio sound in edited form, a NM Six Eye stereo CS 8171 with deep groove.
 
