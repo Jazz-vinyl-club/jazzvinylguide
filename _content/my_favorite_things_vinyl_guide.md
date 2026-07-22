@@ -9,11 +9,11 @@
 
 The stereo mix is hard-panned – saxophone and piano split far left and right – which many listeners find fatiguing, making the mono presentation particularly compelling for this title. For decades the original mono master was believed lost in a studio fire; it was rediscovered in 2021 in an unlabelled storage case and used for the first time on the 2022 Rhino 60th Anniversary 2LP. A second, independent Kevin Gray cut of the mono followed in November 2025 as part of Rhino's *John Coltrane: 1960–1964 Mono* box (also available as a standalone breakout LP) – direct comparison finds it very close to the 2022 cut, marginally quieter. The 2013 ORG 45rpm Bernie Grundman mastering remains the sonic benchmark for stereo; the 2024 Analogue Productions Atlantic 75 45rpm is the current new-production standard. EU grey-market pressings (Waxtime, DOL) should be avoided – the Atlantic catalogue is licensed through Rhino/Warner.
 
-**Best early pressing for audiophiles:** [Original mono Atlantic A-1361 white-fan label](https://www.discogs.com/master/46560-John-Coltrane-My-Favorite-Things) – ankh deadwax, no ® symbol; hum-free, unified ensemble; $300–$600 NM.
+**Best early pressing for audiophiles:** [Original mono Atlantic A-1361 white-fan label](https://www.discogs.com/master/46560-John-Coltrane-My-Favorite-Things) – ankh deadwax, no ® symbol; hum-free, unified ensemble.
 
 **Best modern pressing for audiophiles:** [ORG Music ORGM-1080 45rpm 2LP](https://www.discogs.com/release/5109867-John-Coltrane-My-Favorite-Things) – Bernie Grundman, AAA, Pallas; the decade-long benchmark.
 
-**Best-value modern:** [Rhino/Atlantic 60th Anniversary R1 666923](https://www.discogs.com/release/23290832-John-Coltrane-My-Favorite-Things) – Kevin Gray, AAA, includes the rediscovered mono master; ~$40 new.
+**Best-value modern:** [Rhino/Atlantic 60th Anniversary R1 666923](https://www.discogs.com/release/23290832-John-Coltrane-My-Favorite-Things) – Kevin Gray, AAA, includes the rediscovered mono master.
 
 ## Recording history and tape provenance
 
@@ -62,7 +62,7 @@ The UK first release is **ATL 5022** on the Atlantic UK label, pressed by Decca 
 
 ### Market values
 
-NM **white-fan mono A-1361** with ankh in deadwax: **$300–$600**; exceptional copies higher. NM **second mono (white fan with ®)**: **$150–$350**. NM **black-fan mono** variants: **$80–$200**. NM **original stereo SD-1361 white-fan**: **$200–$400** (stereo originals are less pressed-upon by audiophiles given the hard panning, but still collectible). **UK ATL 5022**: **£80–£200** NM.
+NM **white-fan mono A-1361** with ankh in deadwax commands the highest prices of the mono variants; exceptional copies command more still. NM **second mono (white fan with ®)** sits well below the ankh variant. NM **black-fan mono** variants are more affordable again. NM **original stereo SD-1361 white-fan** falls between the white-fan and black-fan mono tiers (stereo originals are less pressed-upon by audiophiles given the hard panning, but still collectible). **UK ATL 5022** trades in its own separate, generally lower range.
 
 ---
 
@@ -74,7 +74,7 @@ NM **white-fan mono A-1361** with ankh in deadwax: **$300–$600**; exceptional 
 
 For a decade this was the consensus best reissue of this album. One Discogs reviewer who compared it directly with the 2022 Kevin Gray 60th Anniversary 2LP: "The Bernie 2LP 45RPM from 2013? That's something special. And as much as I prefer the mono presentation of My Favorite Things to hard-panned stereo in theory, the BG cut still has the edge in overall sonics. Coltrane's sax and Tyner's piano are simply more present and alive on the 2013." A second reviewer comparing the ORG and the earlier Rhino 33rpm: "This ORG edition at 45 rpm sounds way better than the Rhino 33 rpm. More detailed and with wider soundstage." A third comparing ORG and 2022 KG: "For all intents and purposes it's the same mastering on different speeds and I would not recommend one if you have the other."
 
-One caveat: the jacket on the ORG is widely criticised as cheaply made – "plain text on white background inside the gatefold jacket and plain and boring red back cover" – a significant contrast to the Rhino 180g 33rpm's better-produced packaging. Grundman's mastering does however achieve the clarity and presence that the recording demands. Out of print as original numbered edition; **$200–$400** on resale.
+One caveat: the jacket on the ORG is widely criticised as cheaply made – "plain text on white background inside the gatefold jacket and plain and boring red back cover" – a significant contrast to the Rhino 180g 33rpm's better-produced packaging. Grundman's mastering does however achieve the clarity and presence that the recording demands. Out of print as original numbered edition, commanding a real premium on resale.
 
 ### Analogue Productions Atlantic 75 Series 45rpm 2LP (2024)
 
@@ -82,7 +82,7 @@ One caveat: the jacket on the ORG is widely criticised as cheaply made – "plai
 
 Discogs community responses immediately after release: "This is the absolute best I have ever heard this album!! Kudos to Chad and Ryan K Smith!! Beautifully done!!" Multiple buyers confirm dead-quiet surfaces from QRP and excellent presentation via Stoughton's tip-on gatefold. A direct comparison from one owner who has the ORG, the 2022 Kevin Gray 60th, and now the AP: "The cover is definitely nicer on the AP!!" (the ORG's famously poor jacket is frequently mentioned as a reason to prefer the AP). One dissenting voice on Discogs prefers the 1975 Monarch stereo pressing over both the ORG and AP 45rpm editions – a minority view but indicative that some listeners respond differently to the vintage lacquer character.
 
-The AP is the current new-production benchmark for stereo. Its relationship to the ORG is likely equivalent to the same phenomenon seen on other titles in this series – Ryan K. Smith's Sterling Sound cut has slightly more low-end extension and a slightly different tonal balance compared to Grundman's characteristic approach. **~$80–$100 new** (part of the Atlantic 75 series); available at Acoustic Sounds.
+The AP is the current new-production benchmark for stereo. Its relationship to the ORG is likely equivalent to the same phenomenon seen on other titles in this series – Ryan K. Smith's Sterling Sound cut has slightly more low-end extension and a slightly different tonal balance compared to Grundman's characteristic approach. Part of the Atlantic 75 series; available at Acoustic Sounds.
 
 ### Rhino/Atlantic 60th Anniversary 2LP – Stereo + Mono (2022)
 
@@ -92,15 +92,15 @@ This is the only widely available pressing to include the mono from the original
 
 ### Rhino High Fidelity mono (2025) – a newly independent mono pressing
 
-Part of a six-album box, *John Coltrane: 1960–1964 Mono*, released November 2025 as an early launch for Coltrane's 2026 centennial celebration – also issued as a standalone breakout LP for Record Store Day's 2026 "Start Your Ear Off Right" event. **AAA cut by Kevin Gray at Cohearent Audio directly from the original analog mono master tapes, pressed on 180g vinyl at Optimal.** [One direct comparison](https://www.youtube.com/watch?v=EpXgtcEBMzE) against the 2022 60th Anniversary mono confirmed via deadwax inspection that this is a genuinely different cut, not a repress of the same metalwork – though in careful listening the reviewer found the two "super, super" close, with only a marginally quieter surface favoring the Rhino High Fidelity pressing. Both were judged to have modestly more bass and treble than an original vintage mono pressing, without being dramatically different in character. Packaging uses alternate French cover art on the front, with the original US cover reproduced inside the gatefold. The box is limited to 2,000 numbered copies; the standalone SYEOR breakout LP is a separate, less strictly limited edition. **~$35–$40 new** for the standalone LP.
+Part of a six-album box, *John Coltrane: 1960–1964 Mono*, released November 2025 as an early launch for Coltrane's 2026 centennial celebration – also issued as a standalone breakout LP for Record Store Day's 2026 "Start Your Ear Off Right" event. **AAA cut by Kevin Gray at Cohearent Audio directly from the original analog mono master tapes, pressed on 180g vinyl at Optimal.** [One direct comparison](https://www.youtube.com/watch?v=EpXgtcEBMzE) against the 2022 60th Anniversary mono confirmed via deadwax inspection that this is a genuinely different cut, not a repress of the same metalwork – though in careful listening the reviewer found the two "super, super" close, with only a marginally quieter surface favoring the Rhino High Fidelity pressing. Both were judged to have modestly more bass and treble than an original vintage mono pressing, without being dramatically different in character. Packaging uses alternate French cover art on the front, with the original US cover reproduced inside the gatefold. The box is limited to 2,000 numbered copies; the standalone SYEOR breakout LP is a separate, less strictly limited edition.
 
-The mono side is the star of this package for most serious listeners – the first time the true original mono mix has been on LP since the 1960s. **$35–$50 new**; still in print.
+The mono side is the star of this package for most serious listeners – the first time the true original mono mix has been on LP since the 1960s. Still in print.
 
 ### Rhino 180g 33⅓ (2010, EU) – the well-packaged earlier reissue
 
 **Cat. SD-1361** | Barcode: **081227980498** | Format: Single 180g LP at 33⅓, tip-on jacket. **Mastered by Bernie Grundman, AAA, from the original analog tapes.** Pressed at **Optimal** (Germany). Stereo only.
 
-This is the same Grundman mastering as the ORG 45rpm but at 33⅓ speed. The comparison with the ORG 45 goes back and forth: one reviewer who did a careful A/B: "Now I've closely compared the ORG 45 and Rhino 33, specifically on A1 and B1 and have to say there is very little in it... For all intents and purposes it's the same mastering on different speeds." Advantages: the Rhino 33 has better-executed packaging than the ORG's notoriously sparse gatefold – the ORG uses plain white inner pages and a plain red back cover described by multiple buyers as "cheap," while the Rhino tip-on features stronger artwork reproduction and printing. The ORG does have the gatefold format, but the quality of execution makes the Rhino's single tip-on the more satisfying physical object. Quieter vinyl per some reports, and costs a fraction of the ORG's resale price. Vinyl Gourmet: "You'd be hard pressed to find a better pressing of this release. AAA mastered by Bernie Grundman from the original tapes, plated at RTI and pressed on silent vinyl at Optimal." Out of print; **$60–$120** on resale.
+This is the same Grundman mastering as the ORG 45rpm but at 33⅓ speed. The comparison with the ORG 45 goes back and forth: one reviewer who did a careful A/B: "Now I've closely compared the ORG 45 and Rhino 33, specifically on A1 and B1 and have to say there is very little in it... For all intents and purposes it's the same mastering on different speeds." Advantages: the Rhino 33 has better-executed packaging than the ORG's notoriously sparse gatefold – the ORG uses plain white inner pages and a plain red back cover described by multiple buyers as "cheap," while the Rhino tip-on features stronger artwork reproduction and printing. The ORG does have the gatefold format, but the quality of execution makes the Rhino's single tip-on the more satisfying physical object. Quieter vinyl per some reports, and costs a fraction of the ORG's resale price. Vinyl Gourmet: "You'd be hard pressed to find a better pressing of this release. AAA mastered by Bernie Grundman from the original tapes, plated at RTI and pressed on silent vinyl at Optimal." Out of print.
 
 Note: Some copies are the US Rhino variant; others say "Manufactured in the E.U." on the back cover with catalogue number 8122798049 printed on jacket and labels. Matrix etchings confirm: "R1 1361-A BA 04906-01 A1 19023.1(3).. BG" / "R1 1361-B BA 04906-01 B1 19023.2(3).. BG" – the "BG" confirming Grundman.
 
@@ -108,15 +108,15 @@ Note: Some copies are the US Rhino variant; others say "Manufactured in the E.U.
 
 Limited to **300 copies**, cut from the **rediscovered original mono master tape**. ERC's signature approach: lacquer-cut at their facility in London on vintage equipment, pressed on a dedicated pressing machine. Pete Hutchison (ERC): "It's not a fold down. The original mono tape was thought to be lost in a fire but was in fact re-boxed in a plain case and lost, then rediscovered. The authenticity is identified by the edits on the tape."
 
-With only 300 copies and ERC's customary audiophile-grade process, this is a collector holy grail for mono enthusiasts – the only pressing cut directly from the original mono tape before the Rhino 60th Anniversary. Extremely hard to find; when copies appear they command **$400–$1,000+**. For most listeners the 2022 Rhino 60th mono (from the same tape, mastered by Kevin Gray) is the practical alternative.
+With only 300 copies and ERC's customary audiophile-grade process, this is a collector holy grail for mono enthusiasts – the only pressing cut directly from the original mono tape before the Rhino 60th Anniversary. Extremely hard to find; when copies appear they command a substantial premium. For most listeners the 2022 Rhino 60th mono (from the same tape, mastered by Kevin Gray) is the practical alternative.
 
 ### Various Atlantic/Rhino reissues and pressings to evaluate
 
-**1960s–1970s Atlantic represses:** The black-fan stereo in green/blue labels (~1962–66) sounds decent and is reasonably priced ($50–$150 NM). The 1970s Atlantic orange/green bullseye reissues are budget-tier quality and not recommended for serious listening.
+**1960s–1970s Atlantic represses:** The black-fan stereo in green/blue labels (~1962–66) sounds decent and is reasonably priced. The 1970s Atlantic orange/green bullseye reissues are budget-tier quality and not recommended for serious listening.
 
 **1975 Monarch pressing (stereo):** One Discogs community member who compared the ORG 45 and AP 45 concluded they prefer the 1975 Monarch pressing above both: "the high-pitched instruments and piano sound much fresher." This is a minority but noteworthy view; the vintage lacquer character of mid-1970s Atlantic reissues occasionally earns passionate defenders.
 
-**Japanese pressings:** Atlantic Japan/Victor Japan pressings from the late 1970s–early 1980s (P-6030A, P-7505A series) carry the standard praise for Japanese vinyl quality – dead-quiet surfaces, faithful reproduction. One Discogs reviewer: "Such a clean sounding pressing on my good sound system. Love the sound stage." Market: **$40–$120 NM** with obi strip.
+**Japanese pressings:** Atlantic Japan/Victor Japan pressings from the late 1970s–early 1980s (P-6030A, P-7505A series) carry the standard praise for Japanese vinyl quality – dead-quiet surfaces, faithful reproduction. One Discogs reviewer: "Such a clean sounding pressing on my good sound system. Love the sound stage." Typically found with obi strip.
 
 **Back-catalogue 33rpm Rhino (late 1990s–2000s):** Standard-weight, variable quality. The Tom Port/Better Records community occasionally finds standout copies but overall these are not recommended over the 2010 Grundman 180g.
 
@@ -146,7 +146,7 @@ The 2022 Kevin Gray 60th Anniversary 2LP gives most listeners their best practic
 
 ## Pressings to avoid
 
-**EU grey-market editions:** The usual suspects – DOL, Waxtime, Vinyl Lovers and similar unlicensed European pressings. These circulate in large numbers at $15–$25 for this title. Atlantic's catalogue is owned by Warner Music/Rhino and is not in EU public domain. Digital-sourced without tape access.
+**EU grey-market editions:** The usual suspects – DOL, Waxtime, Vinyl Lovers and similar unlicensed European pressings. These circulate in large numbers, cheaply, for this title. Atlantic's catalogue is owned by Warner Music/Rhino and is not in EU public domain. Digital-sourced without tape access.
 
 **Standard-weight 1980s–90s Atlantic/Rhino budget pressings:** Oil-crisis-era thin vinyl, variable surface noise. The recording's quiet passages demand better.
 
@@ -156,7 +156,7 @@ The 2022 Kevin Gray 60th Anniversary 2LP gives most listeners their best practic
 
 ## Buyer's guide by budget
 
-**$$ (Affordable):** The [**2022 Rhino/Kevin Gray 60th Anniversary 2LP**](https://www.discogs.com/release/23290832-John-Coltrane-My-Favorite-Things) (~$35–40) is the clear recommendation. It includes both the stereo Kevin Gray remaster and the mono from the original mono master tape. For a casual listener or someone new to this album, it comprehensively solves the format question at once. Pressing quality (Optimal, Germany) is very good. The mono alone is worth the price.
+**$$ (Affordable):** The [**2022 Rhino/Kevin Gray 60th Anniversary 2LP**](https://www.discogs.com/release/23290832-John-Coltrane-My-Favorite-Things) is the clear recommendation. It includes both the stereo Kevin Gray remaster and the mono from the original mono master tape. For a casual listener or someone new to this album, it comprehensively solves the format question at once. Pressing quality (Optimal, Germany) is very good. The mono alone is worth the price.
 
 **$$$ (Mid-range):** The [**Rhino/Grundman 180g 33rpm (EU, 2010)**](https://www.discogs.com/release/3897169-John-Coltrane-My-Favorite-Things) remains an excellent pressing at used-market prices – Grundman's AAA mastering from the original tapes on quiet 180g vinyl, tip-on jacket. Better packaged than the ORG 45rpm at a fraction of the cost, and sonically very close.
 
