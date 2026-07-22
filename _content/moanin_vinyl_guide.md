@@ -6,11 +6,11 @@
 
 The central collector consideration here is the stereo panning: Van Gelder placed Morgan's trumpet hard left and Golson's tenor hard right, creating a wide channel separation that some find exhilarating and others find fatiguing. The mono original (BLP 4003) collapses this into a unified, punchy ensemble sound many prefer. Most modern reissues are stereo; a small number of audiophile mono reissues exist but are scarce and of uncertain provenance. *Moanin'* is also heavily bootlegged in the EU budget market – DOL, Waxtime, and similar grey-market pressings should be avoided entirely.
 
-**Best early pressing for audiophiles:** [Original mono Blue Note BLP 4003](https://www.discogs.com/release/757945-Art-Blakey-And-The-Jazz-Messengers-Art-Blakey-And-The-Jazz-Messengers) – 47W63rd label, no ® INC, RVG + ear + Plastylite P; unified ensemble sound; $600–$1,500 NM.
+**Best early pressing for audiophiles:** [Original mono Blue Note BLP 4003](https://www.discogs.com/release/757945-Art-Blakey-And-The-Jazz-Messengers-Art-Blakey-And-The-Jazz-Messengers) – 47W63rd label, no ® INC, RVG + ear + Plastylite P; unified ensemble sound.
 
 **Best modern pressing for audiophiles:** [Analogue Productions ABNJ 84003 45rpm 2LP, 2011 QRP repress](https://www.discogs.com/release/6401273-Art-Blakey-And-The-Jazz-Messengers-Moanin) – Gray/Hoffman AcousTech mastering, 200g QRP, the 45rpm stereo reference.
 
-**Best-value modern:** [Blue Note Classic Vinyl Series 0746568](https://www.discogs.com/release/18150907-Art-Blakey-The-Jazz-Messengers-Moanin) – Kevin Gray mastering from original tapes, 180g Optimal, ~$30 new; inspect for non-fill.
+**Best-value modern:** [Blue Note Classic Vinyl Series 0746568](https://www.discogs.com/release/18150907-Art-Blakey-The-Jazz-Messengers-Moanin) – Kevin Gray mastering from original tapes, 180g Optimal; inspect for non-fill.
 
 
 ## Recording history and tape provenance
@@ -78,11 +78,11 @@ The stereo BST 84003 was issued simultaneously with the mono BLP 4003 in 1959. U
 
 ### Market values (NM condition)
 
-- NM **mono BLP 4003 47W63rd label** (47W63rd, no ® INC, RVG + ear + Plastylite P): **$600–$1,500**; white label promos: **$1,500–$3,000+**
-- NM **mono BLP 4003 47W63rd label** (47W63rd with INC+®, RVG + ear + Plastylite P): **$300–$700**
-- NM **stereo BST 84003 47W63rd label** (47W63rd, no ® INC): **$400–$900**
-- NM **stereo BST 84003 47W63rd label** (47W63rd with INC+®): **$200–$500**
-- Keel plant copies (RVG + "K" instead of Plastylite P, no ear): **$150–$400**
+- NM **mono BLP 4003 47W63rd label** (47W63rd, no ® INC, RVG + ear + Plastylite P) commands the highest prices of any variant; white label promos command considerably more still
+- NM **mono BLP 4003 47W63rd label** (47W63rd with INC+®, RVG + ear + Plastylite P) sits well below the no-INC mono variant
+- NM **stereo BST 84003 47W63rd label** (47W63rd, no ® INC) sits between the two mono variants above
+- NM **stereo BST 84003 47W63rd label** (47W63rd with INC+®) is comparable to the with-INC mono variant
+- Keel plant copies (RVG + "K" instead of Plastylite P, no ear) are the most affordable of the genuine original-era pressings
 
 ---
 
@@ -90,7 +90,7 @@ The stereo BST 84003 was issued simultaneously with the mono BLP 4003 in 1959. U
 
 **UK Parlophone / EMI pressings (1960s):** Blue Note titles were licensed to Parlophone in the UK from 1958. These carry a blue Parlophone label rather than a Blue Note label. Sonically they are made from copy tapes (not the original metal), pressed at the UK EMI Middlesex plant. Tonally acceptable and historically interesting but clearly inferior to US originals.
 
-**Japanese pressings (various):** King Records and later Toshiba-EMI pressed Blue Note titles for Japan from the late 1960s. The GXF-series King Records pressings (1970s) are highly regarded by Japanese audiophiles and carry genuinely excellent pressing quality, though not from Van Gelder metal. A Discogs user comment on a specific GXF-3002 repress notes: "This is repressed from the same GXF-3002 stampers again but the cover presentation is a replica of original Blue Note in every way. Sound is liquid gold." Japanese pressings typically come with OBI strips and are prized for quiet surfaces. **$80–$250 NM with OBI.**
+**Japanese pressings (various):** King Records and later Toshiba-EMI pressed Blue Note titles for Japan from the late 1960s. The GXF-series King Records pressings (1970s) are highly regarded by Japanese audiophiles and carry genuinely excellent pressing quality, though not from Van Gelder metal. A Discogs user comment on a specific GXF-3002 repress notes: "This is repressed from the same GXF-3002 stampers again but the cover presentation is a replica of original Blue Note in every way. Sound is liquid gold." Japanese pressings typically come with OBI strips and are prized for quiet surfaces.
 
 ---
 
@@ -102,7 +102,7 @@ The stereo BST 84003 was issued simultaneously with the mono BLP 4003 in 1959. U
 
 This is widely regarded as the sonic benchmark for modern reissues of this album – the reference against which all others are measured. The Elusive Disc description: "Incredible Jazz Records + the original analog master tapes + cut at 45 RPM + mastered by Kevin Gray and Steve Hoffman at AcousTech + pressed on two 180-gram virgin vinyl LPs by RTI = THE ULTIMATE LP REISSUE!" [Wayne Garcia (*The Absolute Sound*, June/July 2009 print issue)](https://www.theabsolutesound.com): "This set has outstanding clarity, a fine feeling of breadth, rich tonality, and a visceral sense of life." Multiple Discogs owners: "This album, this pressing in particular, is beyond comprehension. The sound quality is fully intact and just superb." "What hasn't been said about this album and pressing. Just perfect in every respect. Often one I'll put on to show off my system to friends and/or convert people to jazz."
 
-The 2011 repress on 200g QRP vinyl is widely considered sonically equal to or slightly superior to the original 2008 RTI pressing – QRP's pressing quality and Finebilt press providing marginally quieter surfaces. The AP pressing uses the stereo BST 84003 – the wide-panned stereo image that some Discogs owners note as "marmite": "Beautiful pressing. Lee Morgan cuts through so strong on 'Moanin'!" versus "I will always prefer the 33 over the 45RPM." Out of print in both editions. Secondary market: **$200–$500** for the 2008 RTI; **$150–$400** for the 2011 QRP 200g repress.
+The 2011 repress on 200g QRP vinyl is widely considered sonically equal to or slightly superior to the original 2008 RTI pressing – QRP's pressing quality and Finebilt press providing marginally quieter surfaces. The AP pressing uses the stereo BST 84003 – the wide-panned stereo image that some Discogs owners note as "marmite": "Beautiful pressing. Lee Morgan cuts through so strong on 'Moanin'!" versus "I will always prefer the 33 over the 45RPM." Out of print in both editions, with the 2008 RTI commanding a somewhat higher secondary-market price than the 2011 QRP 200g repress.
 
 ### Music Matters Jazz 33rpm 180g LP (2014) – the definitive single-disc reissue
 
@@ -110,13 +110,13 @@ The 2011 repress on 200g QRP vinyl is widely considered sonically equal to or sl
 
 Music Matters Jazz, run by Joe Harley and Ron Rambach, produced what is broadly considered the definitive modern 33rpm reissue of this album – and indeed of the entire Blue Note catalogue they touched. The Kevin Gray Cohearent Audio mastering is specifically praised for staying truer to the RVG spirit than the somewhat brighter AP AcousTech mastering. The matrix on the Music Matters pressing reflects Kevin Gray's Cohearent Audio work – the "JH" initials for Joe Harley's quality-control sign-off appear alongside Kevin Gray's "KG" or "KPG" mark. [Vinyl Gourmet](https://www.vinylgourmet.com/en/music/145-art-blakey-and-the-jazz-messengers-moanin-music-matters-180g-vinyl-lp-33rpm-limited-edition-blue-note-us.html): "Audiophile mastering from Original Analog Master Tapes by Kevin Gray at Cohearent Audio on 33rpm 180 grams virgin vinyl pressed at RTI." Vinyl Gourmet rating: Music 10/10, Sound 9.5/10.
 
-This pressing resolves the AP's "wide-panning fatigue" complaint partly through the 33rpm format's slightly less pronounced channel separation – the stereo image is still wide but less extreme. Multiple owners report it as their preferred everyday listening pressing for this title. **OOP; $250–$500** on secondary market.
+This pressing resolves the AP's "wide-panning fatigue" complaint partly through the 33rpm format's slightly less pronounced channel separation – the stereo image is still wide but less extreme. Multiple owners report it as their preferred everyday listening pressing for this title. Out of print.
 
 ### Blue Note Classic Vinyl Series 33rpm 180g LP (2021) – the accessible modern option
 
 **Cat. 0746568** / **00602507465681** | Blue Note label: **BST-84003** / **BST 84003** ([Discogs r18150907](https://www.discogs.com/release/18150907-Art-Blakey-The-Jazz-Messengers-Moanin)) | Barcode: **0602507465681**. Format: single 180g LP at 33⅓, standard sleeve (not gatefold). **Mastered by Kevin Gray from the original master tapes, AAA.** Pressed at **Optimal** (Germany). Stereo. Released April 9, 2021.
 
-This is the current in-print, affordable Kevin Gray reissue. It uses the same Gray mastering approach as the Music Matters but in a standard non-gatefold sleeve and pressed at Optimal rather than RTI. Key caveats from community reviews: **non-fill issues have been reported repeatedly across multiple batches** – "I can't believe the non fill issue on Side 1 is still a thing in 2025" (Discogs). Some copies play perfectly; others have pressing artifacts in the quiet sections. The stereo panning is prominent, with multiple owners noting the "trumpet ALL THE WAY to the left, and sax ALL THE WAY to the right" separation as a dividing characteristic. Despite QC variability, the Kevin Gray mastering ensures the successful copies sound excellent: "Superb cut as well, just wish this was a Blue Note Tone Poet release." [One direct comparison against the AP 45rpm](https://www.youtube.com/watch?v=_liB8RFRnsU) found the two genuinely close – "not a lot in it" – with the AP offering marginally more air and a slightly wider soundstage, but noted their specific Classic Vinyl copy exhibited a subtle pitch flutter on sustained notes at the start of the title track that wasn't present on their AP copy; worth listening for, though this may be an individual-copy characteristic rather than systemic across the pressing run. List price approximately **$30 new**; still in print.
+This is the current in-print, affordable Kevin Gray reissue. It uses the same Gray mastering approach as the Music Matters but in a standard non-gatefold sleeve and pressed at Optimal rather than RTI. Key caveats from community reviews: **non-fill issues have been reported repeatedly across multiple batches** – "I can't believe the non fill issue on Side 1 is still a thing in 2025" (Discogs). Some copies play perfectly; others have pressing artifacts in the quiet sections. The stereo panning is prominent, with multiple owners noting the "trumpet ALL THE WAY to the left, and sax ALL THE WAY to the right" separation as a dividing characteristic. Despite QC variability, the Kevin Gray mastering ensures the successful copies sound excellent: "Superb cut as well, just wish this was a Blue Note Tone Poet release." [One direct comparison against the AP 45rpm](https://www.youtube.com/watch?v=_liB8RFRnsU) found the two genuinely close – "not a lot in it" – with the AP offering marginally more air and a slightly wider soundstage, but noted their specific Classic Vinyl copy exhibited a subtle pitch flutter on sustained notes at the start of the title track that wasn't present on their AP copy; worth listening for, though this may be an individual-copy characteristic rather than systemic across the pressing run. Still in print.
 
 A **Blue Note 85th Anniversary Edition on blue vinyl** (2024) was issued as Discogs r31429742 – same stampers and mastering as the Classic Series 2021, purely a collector colour variant. "Same stamper as the Classic Series reissue so it sounds great as you would expect."
 
@@ -124,11 +124,11 @@ A **Blue Note 85th Anniversary Edition on blue vinyl** (2024) was issued as Disc
 
 ### Analogue Productions early mono 33rpm (c.1997) – the unverified sleeper
 
-Some Discogs community members reference an early Analogue Productions or associated-label 200g mono 33rpm pressing of *Moanin'*, mastered by Bernie Grundman. This is **not a confirmed Classic Records release** – Classic Records held licenses for Columbia, RCA Victor, Vanguard, and Verve, not Blue Note, so a "Classic Records" Blue Note edition would be anomalous. The Discogs comment "Can't touch my Classic Records true mono cut by Grundman" may refer to an early AP mono pressing or may be a label misattribution by the reviewer. If a Grundman mono 200g pressing of BLP 4003 exists from this era, it is most likely an early **Analogue Productions** edition from their 1990s–2000s Blue Note mono series (which used Stan Ricker and/or Grundman). Treat any copy claiming this provenance with care – verify the label and matrix before purchase. Difficult to find; if genuine Grundman mono, **$150–$300** when it surfaces.
+Some Discogs community members reference an early Analogue Productions or associated-label 200g mono 33rpm pressing of *Moanin'*, mastered by Bernie Grundman. This is **not a confirmed Classic Records release** – Classic Records held licenses for Columbia, RCA Victor, Vanguard, and Verve, not Blue Note, so a "Classic Records" Blue Note edition would be anomalous. The Discogs comment "Can't touch my Classic Records true mono cut by Grundman" may refer to an early AP mono pressing or may be a label misattribution by the reviewer. If a Grundman mono 200g pressing of BLP 4003 exists from this era, it is most likely an early **Analogue Productions** edition from their 1990s–2000s Blue Note mono series (which used Stan Ricker and/or Grundman). Treat any copy claiming this provenance with care – verify the label and matrix before purchase. Difficult to find; commands a real premium if genuine Grundman mono when it surfaces.
 
 ### Japanese King Records GXF-series (1970s)
 
-The GXF-3002 stampers (used for multiple repressings of this title across the 1970s–80s) represent Japan's approach to the Blue Note catalogue: meticulous pressing quality, quiet vinyl, faithful reproduction – but from copy tape sources rather than original metal. A Discogs user comment on a specific GXF-3002 repress notes: "Sound is liquid gold... the cover presentation is a replica of original Blue Note in every way." Market: **$80–$200 NM with OBI**.
+The GXF-3002 stampers (used for multiple repressings of this title across the 1970s–80s) represent Japan's approach to the Blue Note catalogue: meticulous pressing quality, quiet vinyl, faithful reproduction – but from copy tape sources rather than original metal. A Discogs user comment on a specific GXF-3002 repress notes: "Sound is liquid gold... the cover presentation is a replica of original Blue Note in every way." Typically found with OBI.
 
 ---
 
@@ -160,13 +160,13 @@ For most buyers choosing among modern stereo reissues, the 33rpm format (Music M
 
 **EMI/Capitol standard reissues (1980s–2000s):** Various generic pressings from the Capitol Records era. Not from Van Gelder metal; mastered from various sources including earlier digital transfers or, for later pressings, potentially the 1998 RVG CD remaster. Avoid for serious listening.
 
-**EU grey-market editions (Waxtime, DOL, Not Now, etc.):** *Moanin'* is heavily bootlegged in Europe. The standard tells apply: no mastering credit, price under $20 for sealed 180g, "Made in EU" without a label address. Digitally sourced. One Discogs owner on the Waxtime pressing: "On the WaxTime it's more classic and in the center (which I prefer)... On Blue Note [Classic] trumpet is artificially panned all to the left, and sax to the right." The Waxtime's "classic centre" sound is a consequence of its digital source, not superior musicality.
+**EU grey-market editions (Waxtime, DOL, Not Now, etc.):** *Moanin'* is heavily bootlegged in Europe. The standard tells apply: no mastering credit, a sealed 180g pressing priced noticeably below the going rate for a legitimate AAA reissue, "Made in EU" without a label address. Digitally sourced. One Discogs owner on the Waxtime pressing: "On the WaxTime it's more classic and in the center (which I prefer)... On Blue Note [Classic] trumpet is artificially panned all to the left, and sax to the right." The Waxtime's "classic centre" sound is a consequence of its digital source, not superior musicality.
 
 ---
 
 ## Buyer's guide by budget
 
-**$ (Budget):** The [**Blue Note Classic Vinyl 2021 (0746568)**](https://www.discogs.com/release/18150907-Art-Blakey-The-Jazz-Messengers-Moanin) at ~$28–30 new is the current answer. Kevin Gray mastering from the original tapes, 180g Optimal pressing. Accept that QC is variable – inspect for non-fill. Sonically excellent when pressed correctly.
+**$ (Budget):** The [**Blue Note Classic Vinyl 2021 (0746568)**](https://www.discogs.com/release/18150907-Art-Blakey-The-Jazz-Messengers-Moanin) is the current answer. Kevin Gray mastering from the original tapes, 180g Optimal pressing. Accept that QC is variable – inspect for non-fill. Sonically excellent when pressed correctly.
 
 **$$$ (Mid-range):** The [**Japanese King Records GXF-3002 pressing**](https://www.discogs.com/release/6775238-Art-Blakey-And-The-Jazz-Messengers-Moanin) with OBI gives you excellent surfaces, faithful reproduction, and a beautiful object – a valid alternative to the Classic Vinyl if you prefer quiet vinyl over the Optimal QC lottery. Also in this range: an original stereo 47W63rd label pressing (INC+®), if you prefer vintage character over modern mastering.
 
