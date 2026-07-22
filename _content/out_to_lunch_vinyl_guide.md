@@ -6,11 +6,11 @@
 
 The mono presentation is the studio-intended version and the one Van Gelder optimised for. Original New York USA pressings with the Van Gelder stamp and Plastylite ear are the collector's target. This title was never issued in Blue Note's Tone Poet series – the Blue Note Classic Vinyl Series (2021) is the modern reference, using the same Kevin Gray mastering chain that Music Matters used for its 2009 45rpm edition.
 
-**Best early pressing for audiophiles:** [Original Blue Note BLP 4163 mono, New York USA label](https://www.discogs.com/release/662848-Eric-Dolphy-Out-To-Lunch) – deep groove, Van Gelder stamp, Plastylite ear; $300–$700 NM.
+**Best early pressing for audiophiles:** [Original Blue Note BLP 4163 mono, New York USA label](https://www.discogs.com/release/662848-Eric-Dolphy-Out-To-Lunch) – deep groove, Van Gelder stamp, Plastylite ear.
 
 **Best modern pressing for audiophiles:** [Music Matters 45rpm mono (2009)](https://www.discogs.com/release/2736558-Eric-Dolphy-Out-To-Lunch) – Kevin Gray & Steve Hoffman, AAA; the finest available version, OOP.
 
-**Best-value modern:** [Blue Note Classic Vinyl 180g (2021)](https://www.discogs.com/release/20348707-Eric-Dolphy-Out-To-Lunch) – Kevin Gray at Cohearent Audio, Optimal pressing; ~$25–$30 new.
+**Best-value modern:** [Blue Note Classic Vinyl 180g (2021)](https://www.discogs.com/release/20348707-Eric-Dolphy-Out-To-Lunch) – Kevin Gray at Cohearent Audio, Optimal pressing.
 
 
 ## Recording history and tape provenance
@@ -51,11 +51,11 @@ As [LJC notes](https://londonjazzcollector.wordpress.com/2013/05/04/eric-dolphy-
 
 Van Gelder's engineering on this session is exceptional even by his standards. [LJC writes](https://londonjazzcollector.wordpress.com/2013/05/04/eric-dolphy-out-to-lunch-1964-blue-note/): "Van Gelder's recording here is a marvel, cymbal strikes resonate and hang suspended in mid-air." The Music Matters and Blue Note Classic Vinyl reissues confirm the tapes are in fine shape. One specific characteristic worth knowing before you assume a pressing issue: [a four-way comparison](https://www.youtube.com/watch?v=5VTjvMnlLPc) across a Classic Vinyl copy, a 1966 Liberty pressing, a 1977 Japanese pressing, and the Music Matters 45rpm found Freddie Hubbard's trumpet solo on "Gazzelloni" sounding slightly muffled and less dynamic than the rest of the album on every single pressing, including the AAA 45rpm cut from the original tape – confirming this is a characteristic baked into the original 1964 recording, not something any reissue mastering can fix.
 
-**NM mono originals: $300–$700. VG+: $150–$350. NM stereo BST 84163 (NY USA, with Plastylite): $250–$500.**
+**NM mono originals command a significant premium over VG+ copies; NM stereo BST 84163 (NY USA, with Plastylite) trades in a comparable range to the mono.**
 
 ### Liberty-era pressings (1966–1970)
 
-After Liberty Records acquired Blue Note in 1966, labels read "A Division of Liberty Records Inc." Van Gelder stamps often remain on early Liberty pressings (original metalwork), making them sonically adequate. Without the VG stamp they are not the first-choice collector pressing. **$40–$100 VG+.**
+After Liberty Records acquired Blue Note in 1966, labels read "A Division of Liberty Records Inc." Van Gelder stamps often remain on early Liberty pressings (original metalwork), making them sonically adequate. Without the VG stamp they are not the first-choice collector pressing.
 
 ### Mono vs. stereo
 
@@ -69,21 +69,21 @@ However, [LJC's own position evolved](https://londonjazzcollector.wordpress.com/
 
 ### Music Matters 45rpm 2LP mono (2009) – the audiophile benchmark
 
-**Cat. MMBST-84163-(45)** | Format: 2×180g LP, 45rpm, mono, gatefold tip-on jacket with session photos. **Mastered by Kevin Gray and Steve Hoffman, AAA, from the original mono master tape. Manufactured by EMI Music Special Markets.** Limited to 2,500 copies. Widely regarded as the finest available version of this title, predating and matching the sound quality of the later Blue Note Classic Vinyl edition, with the added resolution of the 45rpm format and a more lavish gatefold package. Out of print; secondary market prices have risen accordingly. **$150–$300 secondary.**
+**Cat. MMBST-84163-(45)** | Format: 2×180g LP, 45rpm, mono, gatefold tip-on jacket with session photos. **Mastered by Kevin Gray and Steve Hoffman, AAA, from the original mono master tape. Manufactured by EMI Music Special Markets.** Limited to 2,500 copies. Widely regarded as the finest available version of this title, predating and matching the sound quality of the later Blue Note Classic Vinyl edition, with the added resolution of the 45rpm format and a more lavish gatefold package. Out of print; secondary market prices have risen accordingly.
 
 ### Blue Note Classic Vinyl 180g (2021) – the recommended budget option
 
-**Cat. BLP 4163** | Format: 180g LP, 33⅓, mono. **Mastered by Kevin Gray at Cohearent Audio, from the original mono master tape. Pressed at Optimal in Germany.** The same Kevin Gray mastering chain at an accessible price point, with Optimal's typically quiet surfaces. The [Blue Note store](https://store.bluenote.com/products/eric-dolphy-out-to-lunch-lp-blue-note-classic-vinyl-series) describes it as "all-analog, mastered by Kevin Gray directly from the original master tapes." Some QC variation has been reported across the Classic Vinyl series generally; this title is generally well-regarded. [One detailed four-way comparison](https://www.youtube.com/watch?v=5VTjvMnlLPc) against a 1966 Liberty pressing, a 1977 Japanese pressing, and the Music Matters 45rpm found this considerably cheaper pressing shockingly close to the $150+ Music Matters edition – "if the 45 beats it out it is not by much" – making a strong case that most buyers don't need to spend more to get most of what the premium pressings offer. **~$20–$30 new.**
+**Cat. BLP 4163** | Format: 180g LP, 33⅓, mono. **Mastered by Kevin Gray at Cohearent Audio, from the original mono master tape. Pressed at Optimal in Germany.** The same Kevin Gray mastering chain at an accessible price point, with Optimal's typically quiet surfaces. The [Blue Note store](https://store.bluenote.com/products/eric-dolphy-out-to-lunch-lp-blue-note-classic-vinyl-series) describes it as "all-analog, mastered by Kevin Gray directly from the original master tapes." Some QC variation has been reported across the Classic Vinyl series generally; this title is generally well-regarded. [One detailed four-way comparison](https://www.youtube.com/watch?v=5VTjvMnlLPc) against a 1966 Liberty pressing, a 1977 Japanese pressing, and the considerably pricier Music Matters 45rpm found this pressing shockingly close to it – "if the 45 beats it out it is not by much" – making a strong case that most buyers don't need to spend more to get most of what the premium pressings offer.
 
 ### Japanese King GXF-3009 (1977) – the vintage alternative
 
-**Cat. GXF-3009** | Format: 33⅓, single LP, Japan. The Japanese King pressing is among the most praised vintage alternatives for this title – pressed under licence from Blue Note, King's late-1970s vinyl formulation was exceptional, with dead-quiet surfaces and a warm character typical of Japanese jazz pressings from this period. Not from original US metalwork but from high-quality Japanese plating from the tape source. **$60–$150 NM with obi.**
+**Cat. GXF-3009** | Format: 33⅓, single LP, Japan. The Japanese King pressing is among the most praised vintage alternatives for this title – pressed under licence from Blue Note, King's late-1970s vinyl formulation was exceptional, with dead-quiet surfaces and a warm character typical of Japanese jazz pressings from this period. Not from original US metalwork but from high-quality Japanese plating from the tape source. Typically found with obi.
 
 ---
 
 ## Pressings to avoid
 
-**Later Blue Note/EMI reissues (1970s–1990s):** Various reissues from this period – including UK EMI Harvest pressings and several European sub-label editions – are cut from dubs or, in later cases, digital transfers. The Classic Vinyl at ~$25 new is a better choice than any of these.
+**Later Blue Note/EMI reissues (1970s–1990s):** Various reissues from this period – including UK EMI Harvest pressings and several European sub-label editions – are cut from dubs or, in later cases, digital transfers. The Classic Vinyl is a better choice than any of these.
 
 **Stereo for pure listening:** The stereo BST 84163 is not a bad pressing; it is an authentic period Blue Note. But for the most listeners the mono is the intended presentation.
 
