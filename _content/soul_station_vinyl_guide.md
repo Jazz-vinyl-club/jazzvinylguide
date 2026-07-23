@@ -6,11 +6,11 @@
 
 As [Bob Blumenthal wrote](https://www.bluenote.com/spotlight/next-stop-hank-mobleys-soul-station/) in the Rudy Van Gelder Edition liner notes, the album is understood to be for Mobley what *Saxophone Colossus* is for Sonny Rollins or *Giant Steps* for Coltrane: the definitive statement. Leonard Feather described Mobley as the "middleweight champion of the tenor saxophone" – neither as aggressive as Coltrane nor as mellow as Lester Young, but occupying a uniquely lyrical space between them. The Music Matters 45rpm 2LP is the collector benchmark for this title and widely considered one of the finest Blue Note reissues ever made; the Blue Note Classic Vinyl is the accessible modern entry point.
 
-**Best early pressing for audiophiles:** [Original Blue Note BLP 4031 mono, NY USA label, Van Gelder stamp](https://www.discogs.com/release/1249135-Hank-Mobley-Soul-Station) – deep groove, Plastylite ear; $300–$700 NM.
+**Best early pressing for audiophiles:** [Original Blue Note BLP 4031 mono, NY USA label, Van Gelder stamp](https://www.discogs.com/release/1249135-Hank-Mobley-Soul-Station) – deep groove, Plastylite ear.
 
-**Best modern pressing for audiophiles:** [Music Matters 45rpm 2LP (MMBST-84031, 2008)](https://www.discogs.com/release/3009895-Hank-Mobley-Soul-Station) – Kevin Gray and Steve Hoffman, AcousTech, 180g, RTI; 2,500 copies; OOP $200–$400 secondary.
+**Best modern pressing for audiophiles:** [Music Matters 45rpm 2LP (MMBST-84031, 2008)](https://www.discogs.com/release/3009895-Hank-Mobley-Soul-Station) – Kevin Gray and Steve Hoffman, AcousTech, 180g, RTI; 2,500 copies; now out of print.
 
-**Best-value modern:** [Blue Note Classic Vinyl BST 84031 180g (2021)](https://www.discogs.com/release/18097726-Hank-Mobley-Soul-Station) – Kevin Gray, Optimal; ~$25–$35 new.
+**Best-value modern:** [Blue Note Classic Vinyl BST 84031 180g (2021)](https://www.discogs.com/release/18097726-Hank-Mobley-Soul-Station) – Kevin Gray, Optimal.
 
 
 ## Recording history and tape provenance
@@ -52,11 +52,11 @@ Blue Note's **"New York USA"** label was in use from 1963–67. Authentication m
 
 The mono is the rarer and more sought-after format. The stereo first pressing is more commonly encountered at auction.
 
-**NM mono originals: $300–$700. NM stereo originals: $200–$500.**
+**NM mono and NM stereo originals trade in broadly comparable ranges, with mono generally the more sought-after of the two.**
 
 ### Liberty-era pressings (1966–1971)
 
-"A Division of Liberty Records Inc." label text. **Important note:** Liberty West Coast pressings of this title were cut at Research Craft from copy tape rather than original Van Gelder metal – the deadwax will lack the Van Gelder stamp. [LJC documents](https://londonjazzcollector.wordpress.com/2021/04/30/hank-mobley-soul-station-1960-blue-note-vinyl-classics-2021/) that "Research Craft routinely remastered Blue Note reissues from copy tape sent from the East Coast, hence no VAN GELDER stamp, resulting in tape generation loss." East Coast Liberty pressings do carry the VG stamp and are much preferred. **Inspect deadwax before purchasing any Liberty copy.** East Coast VG-stamped copies: **$50–$120 VG+.**
+"A Division of Liberty Records Inc." label text. **Important note:** Liberty West Coast pressings of this title were cut at Research Craft from copy tape rather than original Van Gelder metal – the deadwax will lack the Van Gelder stamp. [LJC documents](https://londonjazzcollector.wordpress.com/2021/04/30/hank-mobley-soul-station-1960-blue-note-vinyl-classics-2021/) that "Research Craft routinely remastered Blue Note reissues from copy tape sent from the East Coast, hence no VAN GELDER stamp, resulting in tape generation loss." East Coast Liberty pressings do carry the VG stamp and are much preferred. **Inspect deadwax before purchasing any Liberty copy.**
 
 ---
 
@@ -66,7 +66,7 @@ The mono is the rarer and more sought-after format. The stereo first pressing is
 
 **Cat. MMBST-84031** | Format: 2×180g LP, 45rpm, stereo, laminated gatefold with session photos, 2,500 copies. **Mastered by Kevin Gray and Steve Hoffman at AcousTech, from the original Blue Note stereo master tapes. Pressed at RTI.** The Music Matters *Soul Station* is one of the most praised pressings in the entire Blue Note reissue programme.
 
-[Discogs](https://www.discogs.com/release/3009895-Hank-Mobley-Soul-Station) owners: "As always the Music Matters pressing is insanely good and as cliché as it is it sounds like Mobley is playing in the room with you." Another: "This is an absolutely fantastic pressing of one of the greatest jazz albums of all time." A third, comparing the Music Matters against newer digital-era alternatives: "you are basically paying $90 for a jacket with the Classic Series available" – a minority view; the consensus strongly favours the MM for those who can find it. Now out of print. **$200–$400 secondary.** [Discogs r3009895](https://www.discogs.com/release/3009895-Hank-Mobley-Soul-Station)
+[Discogs](https://www.discogs.com/release/3009895-Hank-Mobley-Soul-Station) owners: "As always the Music Matters pressing is insanely good and as cliché as it is it sounds like Mobley is playing in the room with you." Another: "This is an absolutely fantastic pressing of one of the greatest jazz albums of all time." A third, comparing the Music Matters against newer digital-era alternatives: "you are basically paying $90 for a jacket with the Classic Series available" – a minority view; the consensus strongly favours the MM for those who can find it. Now out of print. [Discogs r3009895](https://www.discogs.com/release/3009895-Hank-Mobley-Soul-Station)
 
 ### Music Matters 33rpm SRX (2014 / 2020 SRX repress) – two separate pressings
 
@@ -76,21 +76,21 @@ The mono is the rarer and more sought-after format. The stereo first pressing is
 
 **2020 SRX repress** (r14870997) – pressed on Music Matters' proprietary SRX ultra-low-noise vinyl compound (translucent smoky grey when held to light). Matrix confirms: **MM33 BNST-84031-A KPG & RR @CA 22441.1(3)**. Wynton Kelly and Paul Chambers courtesy credit to Vee-Jay Records visible on label. One owner: "Superb recording of one of Mobley's best sessions of his life. This record is a must for any jazz collection. Pressing is amazing." Note: LJC found the SRX his least favourite of the Soul Station pressings despite loving the album – a data point, not a consensus.
 
-The 33rpm editions are more accessible than the OOP 45rpm. **$80–$150 secondary.**
+The 33rpm editions are more accessible than the OOP 45rpm.
 
 ### Blue Note Classic Vinyl 180g (2021) – the accessible entry point
 
 **Cat. BST 84031** | Format: 180g LP, 33⅓, stereo. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes. Pressed at Optimal in Germany.** Some QC issues were reported early in the run ("some v strange noises"), but later copies appear clean. One owner who received a clean copy: "Flat, no non-fill, silent even without cleaning, dynamic, balanced... One of my favorite Jazz albums of all time and this one is a keeper." Another: "I must have gotten incredibly lucky as this is an incredible pressing. The best sounding of the Blue Note Classics reissues in my collection." Buy from a seller with returns in case of early-run QC issues.
 
-Hard panning is noted by LJC: "The horn is hard-panned left and drums hard-panned right... the piano and bass in the middle make the hard-panning less distracting than some other stereo sessions." **$25–$35 new.** [Discogs r18097726](https://www.discogs.com/release/18097726-Hank-Mobley-Soul-Station)
+Hard panning is noted by LJC: "The horn is hard-panned left and drums hard-panned right... the piano and bass in the middle make the hard-panning less distracting than some other stereo sessions." [Discogs r18097726](https://www.discogs.com/release/18097726-Hank-Mobley-Soul-Station)
 
 ### Blue Note 75th Anniversary / Classic Records Quiex SV-P (2014) – an overlooked AAA option
 
-**Cat. BN-LP 4031** | Format: 200g LP, 33⅓, stereo, Quiex SV-P Super Vinyl. **Remastered by Bernie Grundman.** Issued as part of Blue Note's 75th Anniversary vinyl reissue campaign, spearheaded by current label president Don Was, alongside other titles like Donald Byrd's *Chant*, Dexter Gordon's *Clubhouse*, and Lee Morgan's *The Rajah*. A genuine AAA alternative from a different mastering engineer than the Kevin Gray-dominated reissue lineage for this title, but with far less documented owner discussion than the Music Matters or Classic Vinyl pressings – worth trying if you specifically want to hear Grundman's take on this session. [Discogs](https://www.discogs.com/release/2617240-Hank-Mobley-Soul-Station) **$40–$90 secondary.**
+**Cat. BN-LP 4031** | Format: 200g LP, 33⅓, stereo, Quiex SV-P Super Vinyl. **Remastered by Bernie Grundman.** Issued as part of Blue Note's 75th Anniversary vinyl reissue campaign, spearheaded by current label president Don Was, alongside other titles like Donald Byrd's *Chant*, Dexter Gordon's *Clubhouse*, and Lee Morgan's *The Rajah*. A genuine AAA alternative from a different mastering engineer than the Kevin Gray-dominated reissue lineage for this title, but with far less documented owner discussion than the Music Matters or Classic Vinyl pressings – worth trying if you specifically want to hear Grundman's take on this session. [Discogs](https://www.discogs.com/release/2617240-Hank-Mobley-Soul-Station)
 
 ### Japanese Toshiba pressing – the vintage alternative
 
-The Japanese Toshiba-EMI pressing of *Soul Station* is consistently praised on Discogs as one of the finest-sounding Blue Note reissues to come out of Japan. One owner on the Discogs master page: "Incredible Toshiba pressing of this Hank Mobley classic. Huge huge sound and completely silent in between songs. Great instrumental separation, very wide soundstage. Hank's saxophone sounds dynamic and sweet. Art Blakey's drumming really shines." Another collector notes: "The Toshiba pressing is widely considered one of the finest-sounding Blue Note reissues ever pressed in Japan... King engineers mastered this with a warm, fleshy midrange." **$50–$120 NM with obi.**
+The Japanese Toshiba-EMI pressing of *Soul Station* is consistently praised on Discogs as one of the finest-sounding Blue Note reissues to come out of Japan. One owner on the Discogs master page: "Incredible Toshiba pressing of this Hank Mobley classic. Huge huge sound and completely silent in between songs. Great instrumental separation, very wide soundstage. Hank's saxophone sounds dynamic and sweet. Art Blakey's drumming really shines." Another collector notes: "The Toshiba pressing is widely considered one of the finest-sounding Blue Note reissues ever pressed in Japan... King engineers mastered this with a warm, fleshy midrange." Typically found with obi.
 
 ---
 
