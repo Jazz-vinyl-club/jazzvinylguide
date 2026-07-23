@@ -6,7 +6,7 @@
 
 Both mono and stereo originals are worthwhile, and both are free of a well-documented tape problem affecting every reissue since: a piano speed/warble issue on the title track, present on the Blue Note Classic Vinyl and virtually every pressing and CD that followed the original 1965 run. Music Matters specifically commissioned custom restoration work to fix it for their 2010 45rpm edition. Absent that pressing (or an original), buyers should expect the warble on modern reissues.
 
-**Best early pressing for audiophiles:** [Original Blue Note BLP 4185 mono, NY USA label](https://www.discogs.com/release/2019742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) – deep groove Side 1, Van Gelder stamp, Plastylite ear; $150–$400 NM.
+**Best early pressing for audiophiles:** [Original Blue Note BLP 4185 mono, NY USA label](https://www.discogs.com/release/2019742-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) – deep groove Side 1, Van Gelder stamp, Plastylite ear.
 
 **Best modern pressing for audiophiles:** [Music Matters 45rpm 2LP (MMBST-84185, 2010)](https://www.discogs.com/release/2721587-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) – Kevin Gray, with a custom Plangent Process restoration of the title track's warble issue; the only pressing to fix it.
 
@@ -54,11 +54,11 @@ Blue Note's **"New York USA"** label was in use from 1963–67. Authentication m
 
 Note: r2019742 on Discogs shows a "43 West 61st" address pressing – this is the standard first pressing label for this title. True first pressings of *Song for My Father* (1965) feature "43 West 61st St., New York 23" on the label combined with "Blue Note Records Inc. • New York USA" in the rim text; these are not mutually exclusive but appear together on the same label. The true NY USA copies are the standard first pressing for most BN 4000-series titles released from late 1962 through mid-1966.
 
-**NM originals: $150–$400. VG+: $75–$200.**
+**NM originals command a real premium over VG+ copies.**
 
 ### Liberty-era pressings (1966–1971)
 
-"A Division of Liberty Records Inc." label text. Van Gelder stamps remain on many. Affordable and adequate. **$30–$80 VG+.**
+"A Division of Liberty Records Inc." label text. Van Gelder stamps remain on many. Affordable and adequate.
 
 ---
 
@@ -66,11 +66,11 @@ Note: r2019742 on Discogs shows a "43 West 61st" address pressing – this is th
 
 ### Music Matters 45rpm 2LP (2010) – the only pressing that fixes the title-track warble
 
-**Cat. MMBST-84185** | Format: 2×180g LP, 45rpm, gatefold, limited to 2,500 numbered copies. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes, with a custom restoration of the title track by Jamie Howarth of Airshow Mastering using his "Plangent Process."** This is the pressing to own if the title track's well-documented warble bothers you: one reviewer noted the improvement is "greatly improved over the McMaster CD, and all but those who are the most sensitive to such fluctuations should hardly notice it at all." The rest of the album benefits from full 45rpm resolution, with reviewers singling out Teddy Smith's bass and Joe Henderson's tenor as newly vivid. "Lonely Woman" still shows some inherent boxiness in Silver's piano sound, a limitation of the original recording rather than the reissue. Gatefold sleeve with high-resolution session photos. Out of print. [Discogs](https://www.discogs.com/release/2721587-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai) **$150–$300 secondary.**
+**Cat. MMBST-84185** | Format: 2×180g LP, 45rpm, gatefold, limited to 2,500 numbered copies. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes, with a custom restoration of the title track by Jamie Howarth of Airshow Mastering using his "Plangent Process."** This is the pressing to own if the title track's well-documented warble bothers you: one reviewer noted the improvement is "greatly improved over the McMaster CD, and all but those who are the most sensitive to such fluctuations should hardly notice it at all." The rest of the album benefits from full 45rpm resolution, with reviewers singling out Teddy Smith's bass and Joe Henderson's tenor as newly vivid. "Lonely Woman" still shows some inherent boxiness in Silver's piano sound, a limitation of the original recording rather than the reissue. Gatefold sleeve with high-resolution session photos. Out of print. [Discogs](https://www.discogs.com/release/2721587-The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai)
 
 ### Blue Note Classic Vinyl 180g (2020) – the accessible modern option
 
-**Cat. BST 84185** | Format: 180g LP, 33⅓. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes. Pressed at Optimal in Germany.** Kevin Gray's mastering is good, but this pressing carries the same title-track warble as virtually every reissue since 1965 (unaddressed here, unlike the Music Matters), and [Discogs community reviews](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father) additionally document separate manufacturing QC issues: dished vinyl, underweight pressings, and audible flutter reported by multiple buyers. One owner: "Mine is very dished and it's very audibly noticeable." [One direct comparison against the Music Matters SRX](https://www.youtube.com/watch?v=PugtljXJVAk) – part of a series comparing several Blue Note Classic Series/SRX pairs across different titles – found this Classic Vinyl copy convincing on its own terms ("beautiful sounding record, very beautiful sound stage"), but noted the gap to the SRX version was the largest of the four album pairs tested (alongside Sidewinder, The Real McCoy, and Speak No Evil): the SRX offered more dynamics, tempo, and a wider soundstage, attributed largely to a quieter vinyl compound with less surface noise obscuring detail. Given the roughly $250–$300 price gap between the two, the reviewer still recommended the Classic Vinyl as the practical choice for most buyers. **Inspect before buying, or buy from a seller with a return policy. $20–$35 new.**
+**Cat. BST 84185** | Format: 180g LP, 33⅓. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes. Pressed at Optimal in Germany.** Kevin Gray's mastering is good, but this pressing carries the same title-track warble as virtually every reissue since 1965 (unaddressed here, unlike the Music Matters), and [Discogs community reviews](https://www.discogs.com/release/16953990-The-Horace-Silver-Quintet-Song-For-My-Father) additionally document separate manufacturing QC issues: dished vinyl, underweight pressings, and audible flutter reported by multiple buyers. One owner: "Mine is very dished and it's very audibly noticeable." [One direct comparison against the Music Matters SRX](https://www.youtube.com/watch?v=PugtljXJVAk) – part of a series comparing several Blue Note Classic Series/SRX pairs across different titles – found this Classic Vinyl copy convincing on its own terms ("beautiful sounding record, very beautiful sound stage"), but noted the gap to the SRX version was the largest of the four album pairs tested (alongside Sidewinder, The Real McCoy, and Speak No Evil): the SRX offered more dynamics, tempo, and a wider soundstage, attributed largely to a quieter vinyl compound with less surface noise obscuring detail. Given the substantial price gap between the two, the reviewer still recommended the Classic Vinyl as the practical choice for most buyers. Inspect before buying, or buy from a seller with a return policy.
 
 ---
 
@@ -80,7 +80,7 @@ A US pressing manufactured for Manhattan Records and Capitol Industries/EMI by E
 
 ## Japanese pressings
 
-**King Records GXF-3017 (1977)**, licensed from Blue Note for the Japanese market. A well-regarded vintage Japanese pressing on King's characteristically quiet vinyl formulation from this era, comparable in reputation to King's other late-1970s Blue Note licenses. **$40–$90 with obi.**
+**King Records GXF-3017 (1977)**, licensed from Blue Note for the Japanese market. A well-regarded vintage Japanese pressing on King's characteristically quiet vinyl formulation from this era, comparable in reputation to King's other late-1970s Blue Note licenses. Typically found with obi.
 
 ---
 
