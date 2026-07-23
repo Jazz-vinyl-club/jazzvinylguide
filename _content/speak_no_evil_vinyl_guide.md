@@ -45,23 +45,23 @@ The most sought-after first pressings carry the **"Blue Note Records Inc. • Ne
 
 Note: *Speak No Evil* was released in 1966; Blue Note had phased out both deep groove labels and laminated covers by approximately 1963–64, so first pressings of this title do not carry those features.
 
-These are the sonic benchmark. Discogs reviewer: "If you want to buy only one Wayne Shorter album, this is it! A true masterpiece from start to finish." Another notes that original stereo copies have a notably wide panning – the balance tends to sit quite right-heavy in some copies. **NM: $250–$600. VG+: $100–$300.**
+These are the sonic benchmark. Discogs reviewer: "If you want to buy only one Wayne Shorter album, this is it! A true masterpiece from start to finish." Another notes that original stereo copies have a notably wide panning – the balance tends to sit quite right-heavy in some copies. NM copies command a substantial premium over VG+.
 
 ### Second stereo pressing – New York USA (no Plastylite)
 
-[New York USA labels, VAN GELDER stamped but no Plastylite "P"](https://www.discogs.com/release/16727037-Wayne-Shorter-Speak-No-Evil). Non-laminated cover. Sonically considered very close to the first pressing; the Plastylite pressing difference on this title is debated. **NM: $120–$250.**
+[New York USA labels, VAN GELDER stamped but no Plastylite "P"](https://www.discogs.com/release/16727037-Wayne-Shorter-Speak-No-Evil). Non-laminated cover. Sonically considered very close to the first pressing; the Plastylite pressing difference on this title is debated.
 
 ### First mono pressing – BLP 4194
 
-The mono is somewhat less sought-after than the stereo on the secondary market (reflecting the preference for the stereo's wide soundstage on this particular title) but delivers the concentrated RVG mono experience many collectors prize. Same New York USA label period, same Van Gelder/Plastylite deadwax authentication. LJC on the original mono: the organic vitality of Van Gelder's tube-era mono mastering is audible even on Liberty copies. **NM: $200–$450. VG+: $100–$200.**
+The mono is somewhat less sought-after than the stereo on the secondary market (reflecting the preference for the stereo's wide soundstage on this particular title) but delivers the concentrated RVG mono experience many collectors prize. Same New York USA label period, same Van Gelder/Plastylite deadwax authentication. LJC on the original mono: the organic vitality of Van Gelder's tube-era mono mastering is audible even on Liberty copies.
 
 ### Liberty and United Artists era (1966–1973)
 
-After Liberty Records acquired Blue Note in 1966, pressings show "A Division of Liberty Records Inc." on the label. Van Gelder stamps remain on many early Liberty pressings (these used original metalwork), making them sonically acceptable. Later United Artists pressings (1971–73, [r7778903](https://www.discogs.com/release/7778903-Wayne-Shorter-Speak-No-Evil)) vary: those that used original Van Gelder–cut metalwork will carry the VAN GELDER stamp and are sonically close to the Liberty copies; those without the stamp were cut from new lacquers by other engineers and are noticeably inferior. Always check the deadwax – the stamp is the key indicator. **Liberty/UA with VG stamp: $30–$80 VG+. UA without stamp: $15–$40.**
+After Liberty Records acquired Blue Note in 1966, pressings show "A Division of Liberty Records Inc." on the label. Van Gelder stamps remain on many early Liberty pressings (these used original metalwork), making them sonically acceptable. Later United Artists pressings (1971–73, [r7778903](https://www.discogs.com/release/7778903-Wayne-Shorter-Speak-No-Evil)) vary: those that used original Van Gelder–cut metalwork will carry the VAN GELDER stamp and are sonically close to the Liberty copies; those without the stamp were cut from new lacquers by other engineers and are noticeably inferior. Always check the deadwax – the stamp is the key indicator, and stamped copies command a real premium over unstamped ones.
 
 ### French Pathé Marconi pressing (1983)
 
-A [French pressing from Pathé Marconi](https://www.discogs.com/release/1367801-Wayne-Shorter-Speak-No-Evil) that receives strong collector reviews for a European issue: "I like this pressing very much... sounds wonderful." Bright but not harsh. Note that Pathé Marconi was an early adopter of Direct Metal Mastering (DMM) technology from 1982 onward; this 1983 pressing may be a DMM cut rather than a conventional lacquer – check the deadwax for DMM identification. A recommended affordable alternative when originals are out of reach. **$30–$60.**
+A [French pressing from Pathé Marconi](https://www.discogs.com/release/1367801-Wayne-Shorter-Speak-No-Evil) that receives strong collector reviews for a European issue: "I like this pressing very much... sounds wonderful." Bright but not harsh. Note that Pathé Marconi was an early adopter of Direct Metal Mastering (DMM) technology from 1982 onward; this 1983 pressing may be a DMM cut rather than a conventional lacquer – check the deadwax for DMM identification. A recommended affordable alternative when originals are out of reach.
 
 ---
 
@@ -73,19 +73,19 @@ A [French pressing from Pathé Marconi](https://www.discogs.com/release/1367801-
 
 [LondonJazzCollector on the Music Matters stereo](https://londonjazzcollector.wordpress.com/2015/12/02/wayne-shorter-speak-no-evil-1964-blue-note-mm33/): "MM deliver a luxurious widescreen presentation, left and right instruments extending beyond the boundaries of the speakers… The MM conveys the emotion in the music more strongly than my other vintage stereo reissues. A very satisfying listen that encouraged me to revisit the music in a fresh way."
 
-**$200–$400 secondary market.** Out of print.
+Out of print.
 
 ### Music Matters 33rpm stereo – standard and SRX editions
 
-**Cat. MMBST-84194** | The [2015 standard 33rpm](https://www.discogs.com/release/15015100-Wayne-Shorter-Speak-No-Evil) uses Kevin Gray's mastering from the original stereo tape, pressed at **RTI**. The [2020 SRX pressing](https://www.discogs.com/release/15529480-Wayne-Shorter-Speak-No-Evil) uses the same Kevin Gray mastering, pressed at **QRP**, with a different vinyl formulation. Both are excellent and considerably more affordable than the 45rpm. **$100–$200 secondary market.**
+**Cat. MMBST-84194** | The [2015 standard 33rpm](https://www.discogs.com/release/15015100-Wayne-Shorter-Speak-No-Evil) uses Kevin Gray's mastering from the original stereo tape, pressed at **RTI**. The [2020 SRX pressing](https://www.discogs.com/release/15529480-Wayne-Shorter-Speak-No-Evil) uses the same Kevin Gray mastering, pressed at **QRP**, with a different vinyl formulation. Both are excellent and considerably more affordable than the 45rpm.
 
 ### Blue Note Classic Vinyl 180g (2021) – the accessible modern option
 
-**Cat. 0744042 / BST 84194** | Format: 180g LP, 33⅓. **Mastered by Kevin Gray at Cohearent Audio, from the original analog master tape. Pressed at Optimal in Germany.** [Discogs](https://www.discogs.com/release/16941774-Wayne-Shorter-Speak-No-Evil). The Blue Note Classic Vinyl *Speak No Evil* is one of the best received in the series. Multiple owners report flat, quiet pressings with genuinely excellent sound. Some early batches had QC variation – inspect if buying secondhand. Kevin Gray's cut has been praised: "Perfectly Flat ✅ Dead Centered ✅ Silent Grooves ✅ Superb Recording ✅ Lovely AAA Remastering ✅ And all for £22." Another: "This is just outstanding work. A perfect pressing. It's hard to improve on the original but this really is as good as it gets." **$20–$35 new.**
+**Cat. 0744042 / BST 84194** | Format: 180g LP, 33⅓. **Mastered by Kevin Gray at Cohearent Audio, from the original analog master tape. Pressed at Optimal in Germany.** [Discogs](https://www.discogs.com/release/16941774-Wayne-Shorter-Speak-No-Evil). The Blue Note Classic Vinyl *Speak No Evil* is one of the best received in the series. Multiple owners report flat, quiet pressings with genuinely excellent sound. Some early batches had QC variation – inspect if buying secondhand. Kevin Gray's cut has been praised: "Perfectly Flat ✅ Dead Centered ✅ Silent Grooves ✅ Superb Recording ✅ Lovely AAA Remastering ✅ And all for £22." Another: "This is just outstanding work. A perfect pressing. It's hard to improve on the original but this really is as good as it gets."
 
 ### Blue Note 85th Anniversary blue vinyl (2024)
 
-Limited to 3,000 copies. 180g blue vinyl ([r31430060](https://www.discogs.com/release/31430060-Wayne-Shorter-Speak-No-Evil)); same Kevin Gray cut as the Classic Vinyl. A collectible curiosity for the colour, not for any sonic advantage. **$40–$60.**
+Limited to 3,000 copies. 180g blue vinyl ([r31430060](https://www.discogs.com/release/31430060-Wayne-Shorter-Speak-No-Evil)); same Kevin Gray cut as the Classic Vinyl. A collectible curiosity for the colour, not for any sonic advantage.
 
 ---
 
