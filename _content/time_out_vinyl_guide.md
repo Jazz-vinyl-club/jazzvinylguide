@@ -6,7 +6,7 @@
 
 The album's sonic character is defined by the 30th Street Studio's vast acoustic: Brubeck's piano has an earthy resonance, Desmond's alto is feathered but focused, Morello's drums have ideal weight and shimmer, and Eugene Wright's bass – the most commonly criticised element of lesser pressings – is either present and grounded or frustratingly buried depending on the cut. *Time Out* is also one of the most bootlegged jazz titles in the EU budget market; DOL, Waxtime, Vinyl Passion and similar grey-market pressings should be avoided entirely.
 
-**Best early pressing for audiophiles:** [Original six-eye stereo CS 8192, no CBS](https://www.discogs.com/release/4327349-The-Dave-Brubeck-Quartet-Time-Out) – Fred Plaut lacquer, 30th Street; rich midrange, natural air; $200–$500 NM.
+**Best early pressing for audiophiles:** [Original six-eye stereo CS 8192, no CBS](https://www.discogs.com/release/4327349-The-Dave-Brubeck-Quartet-Time-Out) – Fred Plaut lacquer, 30th Street; rich midrange, natural air.
 
 **Best modern pressing for audiophiles:** [Analogue Productions APJ 8192-45 45rpm 2LP](https://www.discogs.com/release/3791080-The-Dave-Brubeck-Quartet-Time-Out) – Bernie Grundman, AAA, QRP; the current benchmark.
 
@@ -51,12 +51,12 @@ Both cut on Scully lathes by Fred Plaut.
 **The mono situation:** The mono CL 1397 is **not** a fold-down of the stereo master – it is a **separate discrete mono mix** of the original three-track session. This makes it a genuinely different listening experience rather than a collapsed stereo.
 
 **Market values (NM condition):**
-- NM stereo CS 8192 six-eye, no CBS, early matrix: **$200–$500**
-- NM stereo CS 8192 six-eye, later stampers, no CBS: **$100–$300**
-- NM stereo CS 8192 CBS six-eye: **$50–$120**
-- NM mono CL 1397 six-eye, no CBS: **$150–$350**
+- NM stereo CS 8192 six-eye, no CBS, early matrix commands the highest prices of any variant
+- NM stereo CS 8192 six-eye, later stampers, no CBS, sits a step below the early matrix
+- NM stereo CS 8192 CBS six-eye is the most affordable of the six-eye stereo variants
+- NM mono CL 1397 six-eye, no CBS, falls between the early and later stereo six-eye tiers
 
-**The Dutch Fontana pressing:** [LJC's head-to-head](https://londonjazzcollector.wordpress.com/2013/03/15/dave-brubeck-time-out-1959-fontana/) compared a Dutch Fontana 682 065 TL (Philips Holland pressing) against a CBS-overprinted six-eye. The Fontana won convincingly: "a delight, Morello's cymbals sparkle and sizzle, Brubeck's piano resonates, notes have attack and decay, transients, musically, everything flows, draws you in. The CBS Six Eye shrivels before the Fontana." **Importantly, the Fontana 682 065 TL is a MONO pressing** – the "TL" suffix in the Dutch Fontana/Philips catalogue denotes mono. LJC was comparing his mono Fontana against a CBS-overprinted six-eye stereo; the comparison speaks to the quality of the Fontana pressing and the mediocrity of the CBS six-eye, not to stereo vs. mono superiority. Collectors seeking a stereo Fontana should look for the YL or 885-series catalogue numbers. Matrix: AA 682 065 1L/2L. An undervalued mono alternative. **$80–$200 NM.** [Discogs r3518844](https://www.discogs.com/release/3518844-The-Dave-Brubeck-Quartet-Time-Out)
+**The Dutch Fontana pressing:** [LJC's head-to-head](https://londonjazzcollector.wordpress.com/2013/03/15/dave-brubeck-time-out-1959-fontana/) compared a Dutch Fontana 682 065 TL (Philips Holland pressing) against a CBS-overprinted six-eye. The Fontana won convincingly: "a delight, Morello's cymbals sparkle and sizzle, Brubeck's piano resonates, notes have attack and decay, transients, musically, everything flows, draws you in. The CBS Six Eye shrivels before the Fontana." **Importantly, the Fontana 682 065 TL is a MONO pressing** – the "TL" suffix in the Dutch Fontana/Philips catalogue denotes mono. LJC was comparing his mono Fontana against a CBS-overprinted six-eye stereo; the comparison speaks to the quality of the Fontana pressing and the mediocrity of the CBS six-eye, not to stereo vs. mono superiority. Collectors seeking a stereo Fontana should look for the YL or 885-series catalogue numbers. Matrix: AA 682 065 1L/2L. A genuinely undervalued mono alternative relative to its sound quality. [Discogs r3518844](https://www.discogs.com/release/3518844-The-Dave-Brubeck-Quartet-Time-Out)
 
 ---
 
@@ -78,13 +78,13 @@ Classic Records issued *Time Out* in 1995 as single-LP editions:
 
 **200g Quiex SV-P version:** Same Grundman mastering, on Classic Records' 200g Quiex SV-P compound. Generally considered the superior vinyl formulation.
 
-Both were standard double-sided single LPs at 33⅓rpm. Market: **$60–$150** for clean copies.
+Both were standard double-sided single LPs at 33⅓rpm.
 
 ### Classic Records 4×45rpm single-sided box (2000 and 2008)
 
-**2000 edition (200g Quiex SV-P):** Same Bernie Grundman mastering, now on 4×single-sided LPs at 45rpm. One track per side, in the Classic Records single-sided format. Widely considered the best-sounding Classic edition. Market: **$150–$300.**
+**2000 edition (200g Quiex SV-P):** Same Bernie Grundman mastering, now on 4×single-sided LPs at 45rpm. One track per side, in the Classic Records single-sided format. Widely considered the best-sounding Classic edition.
 
-**2008 edition (Clarity SV-P II clear vinyl):** Same Bernie Grundman mastering and same metal stampers as the 2000 Quiex SV-P. The only difference is the vinyl compound – Clarity SV-P II omits carbon black, producing a clear disc. Some collectors find this more analytically neutral; others prefer the Quiex warmth. The mastering is identical. Market: **$150–$350.**
+**2008 edition (Clarity SV-P II clear vinyl):** Same Bernie Grundman mastering and same metal stampers as the 2000 Quiex SV-P. The only difference is the vinyl compound – Clarity SV-P II omits carbon black, producing a clear disc. Some collectors find this more analytically neutral; others prefer the Quiex warmth. The mastering is identical.
 
 Note: Both 4LP boxes reused the 1995 single-LP jacket artwork with "Copyright 1995" – this caused widespread dating confusion; the 4LP 45rpm format was first released in 2000, not 1995.
 
@@ -104,7 +104,7 @@ Discogs: "The recording of the drum set is amazing – captures all the grungy s
 
 Note on distortion: some owners report piano distortion specifically on "Kathy's Waltz" at high-output passages. This is most often a cartridge alignment or loading issue rather than a universal pressing defect, though a minority of copies may have a cutting-level issue on that track.
 
-**Still in print from Acoustic Sounds; ~$80–$100 new.** [Discogs r3791080](https://www.discogs.com/release/3791080-The-Dave-Brubeck-Quartet-Time-Out)
+**Still in print from Acoustic Sounds.** [Discogs r3791080](https://www.discogs.com/release/3791080-The-Dave-Brubeck-Quartet-Time-Out)
 
 ### Analogue Productions AAPJ 8192 33rpm 180g (2015) – the single-disc option
 
@@ -112,7 +112,7 @@ Note on distortion: some owners report piano distortion specifically on "Kathy's
 
 **Important note:** The cover of this edition erroneously states "RECORDING IS DESIGNED FOR USE ON 45 RPM STEREOPHONIC REPRODUCERS" – this was copy-pasted from the 45rpm cover art. The vinyl is 33⅓rpm. Check the label, not the cover.
 
-The 33rpm version delivers the same Grundman mastering at slightly reduced groove-width advantage. Multiple owners who own both prefer the 45rpm's bass definition and transient detail, but rate the 33rpm as excellent value and significantly more convenient. **Still in print; ~$35–$45 new.** [Discogs r7632519](https://www.discogs.com/release/7632519-The-Dave-Brubeck-Quartet-Time-Out)
+The 33rpm version delivers the same Grundman mastering at slightly reduced groove-width advantage. Multiple owners who own both prefer the 45rpm's bass definition and transient detail, but rate the 33rpm as excellent value and significantly more convenient. **Still in print.** [Discogs r7632519](https://www.discogs.com/release/7632519-The-Dave-Brubeck-Quartet-Time-Out)
 
 ---
 
@@ -140,7 +140,7 @@ The 33rpm version delivers the same Grundman mastering at slightly reduced groov
 
 ## Buyer's guide by budget
 
-**$$ (Affordable):** The [**AP AAPJ 8192 33rpm**](https://www.discogs.com/release/7632519) at ~$35–$40 new – Bernie Grundman AAA, QRP, gatefold. The best accessible option.
+**$$ (Affordable):** The [**AP AAPJ 8192 33rpm**](https://www.discogs.com/release/7632519) – Bernie Grundman AAA, QRP, gatefold. The best accessible option.
 
 **$$$ (Mid-range):** The [**AP APJ 8192-45 45rpm 2LP**](https://www.discogs.com/release/3791080) – the complete audiophile treatment. Wayne Garcia's "edition to own" verdict holds.
 
