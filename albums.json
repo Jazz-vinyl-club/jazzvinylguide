@@ -890,5 +890,33 @@
     "content_file": "a_night_in_tunisia_blakey_vinyl_guide.md",
     "cover_url": "",
     "mbid": ""
+  },
+  {
+    "slug": "bird-and-diz",
+    "title": "Bird and Diz",
+    "artist": "Charlie Parker / Dizzy Gillespie",
+    "label": "Clef",
+    "year": 1952,
+    "recorded": "June 6, 1950 (plus March 2 & May 5, 1949)",
+    "original_cat": "MG C-512",
+    "wikipedia": "Bird_and_Diz",
+    "description": "The only studio recording pairing Parker, Gillespie, and Thelonious Monk, and Parker and Gillespie's last studio date together: original 10-inch Clef pressing, the Genius of Charlie Parker 12-inch reissue, and the current Verve Vital Vinyl edition.",
+    "content_file": "bird_and_diz_vinyl_guide.md",
+    "cover_url": "",
+    "mbid": ""
+  },
+  {
+    "slug": "tales-from-the-hudson",
+    "title": "Tales from the Hudson",
+    "artist": "Michael Brecker",
+    "label": "Impulse!/GRP",
+    "year": 1996,
+    "recorded": "1996",
+    "original_cat": "IMPD-191",
+    "wikipedia": "Tales_from_the_Hudson",
+    "description": "Brecker's Grammy-winning fourth album as a leader with Metheny, DeJohnette, Holland, and Tyner: CD-only until 2012, when Universal Music Korea's Play 33 1/3 Series produced the first and only vinyl pressing.",
+    "content_file": "tales_from_the_hudson_vinyl_guide.md",
+    "cover_url": "",
+    "mbid": ""
   }
 ]
