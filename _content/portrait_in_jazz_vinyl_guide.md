@@ -2,31 +2,52 @@
 
 ## Summary
 
-*Portrait in Jazz* was recorded December 28, 1959 at Reeves Sound Studios in New York City, produced by Orrin Keepnews. Released in 1960 as Riverside RLP 12-315 (mono) and RLP 1162 (stereo), this was the first of only two studio albums Bill Evans recorded with the trio that would become his most celebrated – bassist Scott LaFaro and drummer Paul Motian – eight months before LaFaro's death. Notably, the mono and stereo pressings feature genuinely different takes of "Autumn Leaves," not just a different mix of the same performance.
+*Portrait in Jazz* was recorded December 28, 1959 at Reeves Sound Studios in New York City, produced by Orrin Keepnews. Released in 1960 as Riverside RLP 12-315 (mono) and RLP 1162 (stereo), this was the first of only two studio albums Bill Evans recorded with the trio that would become his most celebrated – bassist Scott LaFaro and drummer Paul Motian – eight months before LaFaro's death in a car accident in 1961 cut the collaboration short. Evans had spent nine months in 1958 as the pianist in Miles Davis's sextet, an association that culminated in *Kind of Blue* earlier that same year, and this record marks his return to leading his own group with an entirely new rhythm section built around a genuinely different idea of what a piano trio could be: LaFaro's bass promoted from accompaniment to something closer to equal partnership with the piano, years before that became a common approach.
 
-This is an early-stereo-era trio recording where imaging choices from 1959–60 read as unusual by modern standards. Stereophile's review of the Analogue Productions Riverside box describes the stereo image here as "open and dynamic, though imaging is vague," attributed to channel-bleeding or the era's tendency to spread instruments hard across the soundstage rather than to any specific reissue's shortcomings.
+Notably, the mono and stereo pressings of this album feature genuinely different takes of "Autumn Leaves," not merely a different mix of the same performance – a real, audible difference worth knowing before assuming any single pressing gives you the complete picture of what was recorded that day. This is an early-stereo-era trio recording, and imaging choices from 1959–60 read as unusual by modern standards: Stereophile's review of the Analogue Productions Riverside box describes the stereo image here as "open and dynamic, though imaging is vague," attributing that quality to channel-bleeding or the era's general tendency to spread instruments hard across a still-new stereo format, rather than to any specific reissue's shortcomings.
 
 **Best early pressing for audiophiles:** [Riverside RLP 12-315 (mono) / RLP 1162 (stereo)](https://www.discogs.com/release/3595311) – 1960 original pressing, deep groove blue labels, no "Inc." after "Bill Grauer Productions."
 
-**Best modern pressing for audiophiles:** genuinely contested among three legitimate options – the Mobile Fidelity One-Step, the Analogue Productions 45rpm cut, and an Electric Recording Company stereo pressing – see the note below before assuming any one is a clear winner.
+**Best modern pressing for audiophiles:** genuinely contested among three legitimate options – the Mobile Fidelity One-Step, the Analogue Productions 45rpm cut, and an Electric Recording Company stereo pressing. See the note below before assuming any one of them is a clear winner.
 
 **Best-value modern:** Orpheum reissue (c. 1966–68) – first US reissue after Orpheum Productions acquired Riverside; no standalone Discogs release ID confirmed, see note below.
 
----
+## Three competing modern reissues, and a real disagreement between reviewers
 
-## A note on the three competing modern reissues
+Reviewer accounts genuinely conflict on this title, so this guide presents the disagreement directly rather than picking a side to make things tidier than they actually are. A detailed video comparison (45 RPM Audiophile, "How Good Is The Bill Evans Riverside Box? Portrait In Jazz vs. MoFi vs. ERC") directly compared all three modern pressings in one sitting and reported the Mobile Fidelity One-Step as the noisiest of the three despite its low-noise "Super Vinyl" formulation, with Evans's piano sounding disconnected from the rest of the trio and comparatively lacking in fine detail. The reviewer speculated this might trace to the One-Step's DSD256 digital intermediate step in the mastering chain, though couldn't confirm that as the actual cause rather than just a correlation. The same reviewer called the Analogue Productions 45rpm cut the clear winner on that specific comparison – bigger, more impressive soundstage, more discoverable detail on repeated listens – and described the Electric Recording Company stereo pressing as warmer and more subtle than either, without ultimately landing on an outright favorite between AP and ERC.
 
-Reviewer accounts genuinely conflict here, so I'm presenting the disagreement rather than picking a winner. A detailed video comparison (45 RPM Audiophile, "How Good Is The Bill Evans Riverside Box? Portrait In Jazz vs. MoFi vs. ERC") directly compared all three and reported the Mobile Fidelity One-Step as the noisiest of the three despite its low-noise "Super Vinyl," with the piano sounding disconnected from the rest of the trio and comparatively lacking in detail – the reviewer speculated this might trace to the One-Step's DSD256 digital intermediate step, though couldn't confirm that as the cause. The same reviewer called the Analogue Productions 45rpm cut the clear winner over the MoFi on that specific comparison, and described the Electric Recording Company stereo pressing as warmer and more subtle than either, without landing on an outright favorite between AP and ERC.
+This isn't a universal verdict, though. Multiple Discogs owner reviews of the MoFi One-Step describe it in glowing terms – dead quiet, exceptional detail, "concert hall stereo separation" – and a separate Discogs review of the ERC stereo pressing independently praised it as superior to the original Riverside stereo cut, awarding it a "silver medal" behind an unspecified top pick of the reviewer's own. Take the specific claim about MoFi noise and heavy EQ as one credible but not universally corroborated account rather than a settled verdict: pressing-to-pressing variation is real on any title, and especially plausible for a One-Step limited to 6,000 individually numbered copies, where consistency across the whole run is harder to guarantee than on a standard pressing.
 
-This is not universal, though: multiple Discogs owner reviews of the MoFi One-Step describe it very positively (dead quiet, exceptional detail, "concert hall stereo separation"), and a separate Discogs review of the ERC stereo pressing independently praised it as superior to the original Riverside stereo cut and awarded it "silver medal" behind an unspecified top pick. Take the specific claim about MoFi noise/EQ as one credible but not universally corroborated account, not a settled verdict – pressing-to-pressing and system-to-system variation is real, especially for a One-Step limited to 6,000 copies.
+There's also a mono-only Electric Recording Company pressing (catalog ERC052M, limited to 300 copies, using the mono "Autumn Leaves" alternate take rather than the stereo one) not included in the tier table below, since I couldn't independently verify a specific sound-quality account of that pressing the way I could for the stereo ERC edition.
 
----
+## A note on the Orpheum reissue and one sourcing gap
 
-## A note on the Orpheum reissue
+I was not able to confirm a standalone Discogs release ID for the Orpheum-era reissue from the mid-to-late 1960s, only detailed prose descriptions from collector sources, most usefully LondonJazzCollector's direct comparison of an Orpheum copy against an original Riverside pressing. The Discogs column for that row in the tier table below is left blank rather than guessing at a release number that I can't verify actually exists.
 
-I was not able to confirm a standalone Discogs release ID for the Orpheum-era reissue (c. 1966–68), only detailed prose descriptions from collector sources (LondonJazzCollector). The Discogs column for that row is left blank rather than guessing at a release number.
+## Sound quality by pressing
 
----
+### Riverside RLP 12-315 (mono) / RLP 1162 (stereo), 1960 original
+The true first pressing: deep groove blue labels reading "Bill Grauer Productions" without the "Inc." suffix that a slightly later repress adds to the same text – a small but genuine distinguishing detail confirmed directly against Discogs' own version history for this release, which flags the "Inc." copy as a repress rather than the original.
+
+### Mobile Fidelity UD1S 2-009 (2019, One-Step)
+Uses MoFi's one-step lacquer process, which involves fewer plating generations between the master lacquer and the pressed disc than a standard three-step process, generally associated with lower surface noise and greater fidelity to the original cut. Limited to 6,000 hand-numbered copies, sourced from the original 1/4" 15ips analog master transferred to DSD256 for the digital-domain step in mastering. See the note above on a genuine disagreement between reviewers about how this particular title's One-Step actually performs.
+
+### Analogue Productions APJ-1162 (Riverside Recordings box)
+Part of Analogue Productions' larger box collecting all of Bill Evans's Riverside-era albums at 45rpm. Matrix runout data confirms mastering by Kevin Gray and Steve Hoffman at AcousTech Mastering, a more reliable source than promotional copy for this specific credit.
+
+### Electric Recording Company, stereo (2021)
+An all-analog cut from the original stereo master tapes. Praised in an owner review as superior to the original Riverside stereo pressing, and described in the video comparison above as warmer and more subtle in character than either the MoFi or Analogue Productions cuts.
+
+### Orpheum reissue (c. 1966–68)
+The first US reissue after Bill Grauer's death, when Orpheum Productions acquired the Riverside catalog. Identifiable by "Orpheum Productions NYC" text on the label in place of the original twin-reels Riverside logo. Described by collectors as very close to the original Riverside pressing in overall quality, just a touch less bright – a reasonable way in when a clean Riverside original is unavailable or priced beyond reason.
+
+## Buyer's guide by budget
+
+**$$:** The Orpheum reissue (c. 1966–68) – described by collectors as very close to the original Riverside pressing, just a touch less bright.
+
+**$$$$:** A clean [Riverside RLP 12-315/1162](https://www.discogs.com/release/3595311) original – budget for real hunting or a trusted, pre-graded source given the title's stature and age.
+
+**$$$$$:** The [Mobile Fidelity UD1S 2-009 One-Step](https://www.discogs.com/release/13599282), the [Analogue Productions 45rpm cut](https://www.discogs.com/release/2726979) from the Riverside Recordings box, or the [Electric Recording Company stereo pressing](https://www.discogs.com/release/18517270) – genuinely contested territory, see the note above before choosing.
 
 ## Pressing tier summary
 
@@ -37,16 +58,6 @@ I was not able to confirm a standalone Discogs release ID for the Orpheum-era re
 | **A** | Analogue Productions APJ-1162 (Riverside Recordings box) | APJ-1162 | – | Stereo, 45rpm, 2×12" | Kevin Gray, Steve Hoffman, AcousTech Mastering | Matrix-confirmed mastering credit; called the clear winner over the MoFi in one direct video comparison | [Discogs](https://www.discogs.com/release/2726979) |
 | **A** | Riverside RLP 12-315 (mono) / RLP 1162 (stereo) | RLP 12-315 / RLP 1162 | 1960 | Mono & Stereo, 33⅓ | Riverside lacquer | First pressing; deep groove blue labels with no "Inc." after "Bill Grauer Productions" (a later repress adds "Inc." to the same text) | [Discogs (mono)](https://www.discogs.com/release/3595311) |
 | **B** | Orpheum reissue | RLP 12-315 / RLP 1162 (Orpheum) | c. 1966–68 | Mono & Stereo, 33⅓ | Riverside lacquer, Orpheum Productions era | Twin-reels Riverside logo replaced by "Orpheum Productions NYC" tag; no standalone Discogs ID confirmed | – |
-
-There's also a mono-only Electric Recording Company pressing (ERC052M, limited to 300 copies, using the mono "Autumn Leaves" alternate take) not included in the table above since I couldn't independently verify a sound-quality account of that specific pressing.
-
-## Buyer's guide by budget
-
-**$$ (Affordable):** The Orpheum reissue (c. 1966–68) – described by collectors as very close to the original Riverside pressing, just a touch less bright.
-
-**$$$$ (Mid-range):** A clean [**Riverside RLP 12-315/1162**](https://www.discogs.com/release/3595311) original – budget for real hunting or a trusted, pre-graded source given the title's stature.
-
-**$$$$$ (Premium):** The [**Mobile Fidelity UD1S 2-009 One-Step**](https://www.discogs.com/release/13599282), the [**Analogue Productions 45rpm cut**](https://www.discogs.com/release/2726979) from the Riverside Recordings box, or the [**Electric Recording Company stereo pressing**](https://www.discogs.com/release/18517270) – genuinely contested territory, see the note above.
 
 ## References
 
