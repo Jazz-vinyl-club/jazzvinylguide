@@ -224,7 +224,7 @@ def check_links(content, r, do_network):
 def check_albums_json_entry(slug, entry, r):
     mbid = entry.get("mbid", "")
     if mbid == "":
-        r.warn("mbid is blank")
+        r.warn("mbid is blank -- try scripts/resolve_mbid.py --slug " + slug + " before assuming it can't be found")
     elif not UUID_RE.match(mbid):
         r.error(f"mbid is not a syntactically valid UUID: {mbid!r}")
 

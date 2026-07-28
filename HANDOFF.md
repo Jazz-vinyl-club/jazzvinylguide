@@ -136,7 +136,7 @@ Two separate systems, don't confuse them:
 
 ### Cover Art — no local pre-committed image files anymore (removed this session, standardized on the mbid→CAA→iTunes chain for every album, no exceptions). `download_covers.py` is gone.
 
-### MusicBrainz ID (mbid) — intentional blanks where no confirmed match exists (e.g. Complete Savoy and Dial); never fabricate.
+### MusicBrainz ID (mbid) — intentional blanks where no confirmed match exists (e.g. Complete Savoy and Dial); never fabricate. Note this also feeds the cover-art chain (mbid→CAA→iTunes), so a blank mbid means no cover art, not just missing metadata. Before assuming a match can't be found, run `scripts/resolve_mbid.py` (locally, or via the `Resolve MusicBrainz IDs` GitHub Action, since musicbrainz.org isn't reachable from every environment guides get drafted in) — it queries the MusicBrainz API directly and only auto-applies matches with a high relevance score against a matching artist name; anything less confident is left blank for manual review rather than guessed.
 
 ---
 
