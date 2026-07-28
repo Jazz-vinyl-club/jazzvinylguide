@@ -806,5 +806,33 @@
     "content_file": "red_clay_vinyl_guide.md",
     "cover_url": "",
     "mbid": "2c39394e-b9e4-352b-b339-8e61df67479e"
+  },
+  {
+    "slug": "art-pepper-meets-the-rhythm-section",
+    "title": "Art Pepper Meets The Rhythm Section",
+    "artist": "Art Pepper",
+    "label": "Contemporary",
+    "year": 1957,
+    "recorded": "January 19, 1957",
+    "original_cat": "C3532 / S7532",
+    "wikipedia": "Art_Pepper_Meets_the_Rhythm_Section",
+    "description": "Art Pepper's Contemporary debut, paired with Miles Davis's touring rhythm section: original mono pressing, Analogue Productions' UHQR and 45rpm reissues, and the standard OJC edition.",
+    "content_file": "art_pepper_meets_the_rhythm_section_vinyl_guide.md",
+    "cover_url": "",
+    "mbid": ""
+  },
+  {
+    "slug": "page-one",
+    "title": "Page One",
+    "artist": "Joe Henderson",
+    "label": "Blue Note",
+    "year": 1963,
+    "recorded": "June 3, 1963",
+    "original_cat": "BLP 4140 / BST 84140",
+    "wikipedia": "Page_One_(Joe_Henderson_album)",
+    "description": "Joe Henderson's debut as a leader with Kenny Dorham, McCoy Tyner, Butch Warren, and Pete La Roca: original mono pressing, and two competing top-tier reissues from Analogue Productions and Music Matters.",
+    "content_file": "page_one_vinyl_guide.md",
+    "cover_url": "",
+    "mbid": ""
   }
 ]
