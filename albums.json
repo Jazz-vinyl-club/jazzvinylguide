@@ -862,5 +862,33 @@
     "content_file": "free_jazz_vinyl_guide.md",
     "cover_url": "",
     "mbid": ""
+  },
+  {
+    "slug": "bright-size-life",
+    "title": "Bright Size Life",
+    "artist": "Pat Metheny",
+    "label": "ECM",
+    "year": 1976,
+    "recorded": "December 1975",
+    "original_cat": "ECM 1073",
+    "wikipedia": "Bright_Size_Life",
+    "description": "Pat Metheny's debut as a leader with Jaco Pastorius and Bob Moses: original German pressing, and a documented Side A distortion defect on the 2024 Luminessence reissue that ECM has acknowledged and replaced.",
+    "content_file": "bright_size_life_vinyl_guide.md",
+    "cover_url": "",
+    "mbid": ""
+  },
+  {
+    "slug": "a-night-in-tunisia-blakey",
+    "title": "A Night In Tunisia",
+    "artist": "Art Blakey & The Jazz Messengers",
+    "label": "Blue Note",
+    "year": 1961,
+    "recorded": "August 7 & 14, 1960",
+    "original_cat": "BLP 4049 / BST 84049",
+    "wikipedia": "A_Night_in_Tunisia_(1961_album)",
+    "description": "The Lee Morgan-Wayne Shorter-Bobby Timmons-Jymie Merritt Jazz Messengers lineup's Blue Note classic: original mono pressing, the Music Matters 45rpm reissue, and a note distinguishing this from an unrelated earlier Vik-label recording of the same title.",
+    "content_file": "a_night_in_tunisia_blakey_vinyl_guide.md",
+    "cover_url": "",
+    "mbid": ""
   }
 ]
