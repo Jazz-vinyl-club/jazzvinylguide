@@ -39,5 +39,5 @@ I was not able to confirm a standalone Discogs release ID for the Orpheum-era re
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: dc3d3207-9505-45ba-bd06-879806c6e0fd
 - Discogs (master, all versions): [https://www.discogs.com/master/104371](https://www.discogs.com/master/104371)

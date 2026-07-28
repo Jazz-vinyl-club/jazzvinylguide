@@ -40,5 +40,5 @@ Separately, I was not able to confirm a standalone Discogs release ID for the 20
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: dcc0d723-e27f-36e8-8438-dbbde7eb9a67
 - Discogs (master, all versions): [https://www.discogs.com/master/249899](https://www.discogs.com/master/249899)

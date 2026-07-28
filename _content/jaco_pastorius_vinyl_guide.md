@@ -38,5 +38,5 @@ This catalog number saw many pressing-plant and label-color variants over the ye
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: 346b2263-a899-3d3e-8b08-84efe58dfe10
 - Discogs (master, all versions): [https://www.discogs.com/master/49071](https://www.discogs.com/master/49071)

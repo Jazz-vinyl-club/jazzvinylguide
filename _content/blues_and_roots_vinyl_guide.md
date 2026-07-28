@@ -34,5 +34,5 @@ This is a hard-driving nine-piece hard bop session with a lot of horn density, s
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: 58a66044-fe3b-3b04-98b0-b955c24a2f62
 - Discogs (master, all versions): [https://www.discogs.com/master/176882](https://www.discogs.com/master/176882)

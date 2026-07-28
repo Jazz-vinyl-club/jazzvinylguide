@@ -41,5 +41,5 @@ Separately, I was not able to find a standalone Discogs `/release/` page for the
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: 32830984-751a-4308-91dc-94771f882ab7
 - Discogs (master, all versions): search "Bill Evans Everybody Digs Bill Evans" on discogs.com – standalone master page ID not confirmed in this pass, flag for follow-up

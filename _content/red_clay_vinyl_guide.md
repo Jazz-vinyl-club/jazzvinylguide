@@ -32,5 +32,5 @@ This is a landmark early-fusion recording from Van Gelder's studio, with a mix o
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: 2c39394e-b9e4-352b-b339-8e61df67479e
 - Discogs (master, all versions): [https://www.discogs.com/master/72319](https://www.discogs.com/master/72319)
