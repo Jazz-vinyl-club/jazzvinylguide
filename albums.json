@@ -834,5 +834,33 @@
     "content_file": "page_one_vinyl_guide.md",
     "cover_url": "",
     "mbid": ""
+  },
+  {
+    "slug": "midnight-blue",
+    "title": "Midnight Blue",
+    "artist": "Kenny Burrell",
+    "label": "Blue Note",
+    "year": 1963,
+    "recorded": "January 8, 1963",
+    "original_cat": "BLP 4123 / BST 84123",
+    "wikipedia": "Midnight_Blue_(Kenny_Burrell_album)",
+    "description": "Kenny Burrell's Blue Note masterwork with Stanley Turrentine: original mono/stereo pressings, and a genuine reviewer disagreement between the Analogue Productions 45rpm and Music Matters 33 1/3 reissues.",
+    "content_file": "midnight_blue_vinyl_guide.md",
+    "cover_url": "",
+    "mbid": ""
+  },
+  {
+    "slug": "free-jazz",
+    "title": "Free Jazz: A Collective Improvisation",
+    "artist": "Ornette Coleman",
+    "label": "Atlantic",
+    "year": 1961,
+    "recorded": "December 21, 1960",
+    "original_cat": "1364 / SD-1364",
+    "wikipedia": "Free_Jazz:_A_Collective_Improvisation",
+    "description": "Ornette Coleman's double-quartet landmark, the album that named the genre: original mono/stereo pressings, the ORG Music 45rpm reissue, and a documented pressing-defect caution on the current Speakers Corner edition.",
+    "content_file": "free_jazz_vinyl_guide.md",
+    "cover_url": "",
+    "mbid": ""
   }
 ]
