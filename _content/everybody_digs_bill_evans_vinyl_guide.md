@@ -4,7 +4,7 @@
 
 *Everybody Digs Bill Evans* was recorded December 15, 1958 at Reeves Sound Studio in New York City, produced by Orrin Keepnews, with Sam Jones on bass and Philly Joe Jones on drums. Released in early 1959 as Riverside RLP 12-291 (mono) and RLP 1129 (stereo), this was Evans's second album as a leader and the one that established him as a major voice, including three unaccompanied solo piano tracks ("Lucky to Be Me," "Peace Piece," "Epilogue"). The cover carries tribute quotes from Miles Davis, George Shearing, Ahmad Jamal, and Cannonball Adderley.
 
-This is a small-group piano trio date with a genuinely strong original recording. Mono is generally considered the more cohesive listen for this particular album, which is part of why it's had two distinct modern mono reissues.
+This is a small-group piano trio date with a genuinely strong original recording. Mono is generally considered the more cohesive listen for this particular album, which is part of why it's had two distinct modern mono reissues. One caveat worth knowing before blaming a specific pressing: a detailed album review (Ten-Minute Record Reviews, "Bill Evans - Everybody Digs Bill Evans (Episode 434)") notes a fair amount of distortion on the piano at points on the original 1958 source tape itself – not severe enough to seriously detract from the listening experience, but present across pressings rather than a defect specific to any one of them.
 
 **Best early pressing for audiophiles:** [Riverside RLP 12-291 mono / RLP 1129 stereo](https://www.discogs.com/sell/release/3416397) – 1959 first pressing, deep groove, black "twin reels and microphone" label.
 
@@ -43,3 +43,4 @@ Separately, I was not able to find a standalone Discogs `/release/` page for the
 
 - MusicBrainz release group: 32830984-751a-4308-91dc-94771f882ab7
 - Discogs (master, all versions): search "Bill Evans Everybody Digs Bill Evans" on discogs.com – standalone master page ID not confirmed in this pass, flag for follow-up
+- Ten-Minute Record Reviews, "Bill Evans - Everybody Digs Bill Evans (Episode 434)": [https://www.youtube.com/watch?v=kIVLP5qu9ww](https://www.youtube.com/watch?v=kIVLP5qu9ww)

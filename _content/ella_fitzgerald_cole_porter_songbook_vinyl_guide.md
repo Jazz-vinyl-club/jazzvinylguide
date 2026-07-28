@@ -8,15 +8,15 @@ This is a mono-only original recording – there is no legitimate contemporaneou
 
 **Best early pressing for audiophiles:** [Verve MG V-4001-2](https://www.discogs.com/release/6304011) – 1956 original mono pressing, RCA Indianapolis pressing-plant variant.
 
-**Best modern pressing for audiophiles:** Analog Spark AS00007 (2016) – 60th-anniversary 3LP mono box, mastered by Ryan K. Smith at Sterling Sound from the original mono master tapes, pressed at RTI; no standalone Discogs release page was confirmed, see note below.
+**Best modern pressing for audiophiles:** [Verve Acoustic Sounds Series AVER 40304](https://store.acousticsounds.com/d/197406/) (2026) – mastered by Matthew Lutthans, now confirmed by three independent sources (see note below); the mastering-credit conflict flagged earlier in this project's research is resolved.
 
-**Best-value modern:** Verve Acoustic Sounds Series AVER 40304 – see note below on a disputed mastering credit before treating this as a confirmed recommendation.
+**Best-value modern:** Analog Spark AS00007 (2016) – 60th-anniversary 3LP mono box, mastered by Ryan K. Smith at Sterling Sound from the original mono master tapes, pressed at RTI; no standalone Discogs release page was confirmed, see note below.
 
 ---
 
-## A note on two sourcing gaps
+## A note on the mastering-credit resolution, and one remaining sourcing gap
 
-The Acoustic Sounds Series reissue AVER 40304's own product page credits mastering to Matthew Lutthans at The Mastering Lab. Several other retailers (uDiscoverMusic, Elusive Disc, Amazon, Fontana Records) instead describe it using what reads like boilerplate for the whole "Verve/Impulse! Acoustic Sounds Series" line – "mastered by Ryan K. Smith at Sterling Sound, pressed at QRP" – which matches a different reissue program's credits, not necessarily this specific title's. I'm treating the direct-from-label product page as more reliable, but flagging the conflict rather than picking silently.
+An earlier pass on this guide flagged a conflict: Acoustic Sounds' own product page for AVER 40304 credits Matthew Lutthans, while several retailers (uDiscoverMusic, Elusive Disc, Amazon, Fontana Records) used what read like boilerplate for the wider "Verve/Impulse! Acoustic Sounds Series" line crediting Ryan K. Smith instead. That's now resolved with higher confidence: a detailed Audiophilia review of this exact reissue (written by Scott, who also runs the YouTube channel The Pressing Matters) and a separate Headphonesty preview both independently state Matthew Lutthans mastered this specific title from the original analog tapes. Three independent sources agreeing (the label's own page plus two independent editorial reviews) against one likely-boilerplate retailer description is enough to treat this as settled rather than still-disputed.
 
 Separately, I was not able to confirm a standalone Discogs release ID for the 2016 Analog Spark AS00007 3LP box – only a general retailer product listing (Vinyl Gourmet, barcode 888072004733).
 
@@ -28,7 +28,7 @@ Separately, I was not able to confirm a standalone Discogs release ID for the 20
 |---|---|---|---|---|---|---|---|
 | **S** | Analog Spark AS00007 | AS00007 | 2016 | Mono, 33⅓, 3×180g | Ryan K. Smith, Sterling Sound; RTI | 60th-anniversary box; expanded from 2LP to 3LP layout; no standalone Discogs release ID confirmed | – |
 | **A** | Verve MG V-4001-2 | MG V-4001-2 | 1956 | Mono, 33⅓, 2LP gatefold | Verve lacquer | First pressing; this copy is an RCA Indianapolis pressing-plant variant | [Discogs](https://www.discogs.com/release/6304011) |
-| **B** | Verve Acoustic Sounds Series | AVER 40304 | 2026 | Mono, 33⅓, 2×180g | Disputed – see note above | Mastering credit conflicts between label product page and retailer copy | [Acoustic Sounds](https://store.acousticsounds.com/d/197406/) |
+| **A** | Verve Acoustic Sounds Series | AVER 40304 | 2026 | Mono, 33⅓, 2×180g | Matthew Lutthans, from the original analog tapes (mastering credit confirmed via three independent sources – see note above) | Praised in an Audiophilia review for transparency and vocal presence | [Acoustic Sounds](https://store.acousticsounds.com/d/197406/) |
 
 ## Buyer's guide by budget
 
