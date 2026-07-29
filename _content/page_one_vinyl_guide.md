@@ -51,7 +51,7 @@ A more recent, more accessible all-analog reissue, mastered by Kevin Gray from t
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: b8387a4b-fd1a-3b68-bdba-95ec30962428
 - Discogs (master, all versions): [https://www.discogs.com/master/176819](https://www.discogs.com/master/176819)
 - Wikipedia, "Page One (Joe Henderson album)": [https://en.wikipedia.org/wiki/Page_One_(Joe_Henderson_album)](https://en.wikipedia.org/wiki/Page_One_(Joe_Henderson_album))
 - LondonJazzCollector, "Joe Henderson: Page One (1963) Blue Note": [https://londonjazzcollector.wordpress.com/2020/03/24/joe-henderson-page-one-1963-blue-note/](https://londonjazzcollector.wordpress.com/2020/03/24/joe-henderson-page-one-1963-blue-note/)

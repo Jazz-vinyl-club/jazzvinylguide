@@ -47,7 +47,7 @@ Praised by at least one owner as exceptionally detailed and spacious, with unusu
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: abac8d3d-f25a-386f-a819-5063c8df56a4
 - Discogs (master, all versions): [https://www.discogs.com/master/62235](https://www.discogs.com/master/62235)
 - Wikipedia, "Bright Size Life": [https://en.wikipedia.org/wiki/Bright_Size_Life](https://en.wikipedia.org/wiki/Bright_Size_Life)
 - AnalogPlanet, "Pat Metheny's 1976 Debut LP, Bright Size Life... ECM Luminessence Series Vinyl Reissue": [https://www.analogplanet.com/content/pat-metheny%E2%80%99s-1976-debut-lp-bright-size-life-sounds-fantastic-fresh-and-futuristic-ever-its](https://www.analogplanet.com/content/pat-metheny%E2%80%99s-1976-debut-lp-bright-size-life-sounds-fantastic-fresh-and-futuristic-ever-its)

@@ -54,7 +54,7 @@ Part of Blue Note's ongoing Classic Vinyl Reissue Series, a continuation of the 
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: 88861537-d884-370c-800d-7b4a7aed782c
 - Wikipedia, "Midnight Blue (Kenny Burrell album)": [https://en.wikipedia.org/wiki/Midnight_Blue_(Kenny_Burrell_album)](https://en.wikipedia.org/wiki/Midnight_Blue_(Kenny_Burrell_album))
 - LondonJazzCollector, "Kenny Burrell: Midnight Blue (1963) Blue Note": [https://londonjazzcollector.wordpress.com/2013/12/02/kenny-burrell-midnight-blue-1963-blue-note/](https://londonjazzcollector.wordpress.com/2013/12/02/kenny-burrell-midnight-blue-1963-blue-note/)
 - AnalogPlanet, "Kenny Burrell's Classic Midnight Blue At 33 1/3 From Music Matters": [https://www.analogplanet.com/content/kenny-burrells-classic-midnight-blue%C2%A0%C2%A0-33-13-music-matters](https://www.analogplanet.com/content/kenny-burrells-classic-midnight-blue%C2%A0%C2%A0-33-13-music-matters)

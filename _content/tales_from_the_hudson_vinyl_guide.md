@@ -32,6 +32,6 @@ This is a mid-1990s digital-era jazz recording, tracked and mixed using the stud
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: 53e977dd-e1c4-3d10-8cba-17bdea68a26f
 - Discogs (master, all versions): [https://www.discogs.com/master/284678](https://www.discogs.com/master/284678)
 - Wikipedia, "Tales from the Hudson": [https://en.wikipedia.org/wiki/Tales_from_the_Hudson](https://en.wikipedia.org/wiki/Tales_from_the_Hudson)

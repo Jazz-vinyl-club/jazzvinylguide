@@ -51,7 +51,7 @@ All-analog, mastered by Kevin Gray from the original master tapes, pressed at Op
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: 86ee6a37-c44d-372d-b9d0-a03e07e2db06
 - Discogs (master, all versions): [https://www.discogs.com/master/176732](https://www.discogs.com/master/176732)
 - Wikipedia, "A Night in Tunisia (1961 album)": [https://en.wikipedia.org/wiki/A_Night_in_Tunisia_(1961_album)](https://en.wikipedia.org/wiki/A_Night_in_Tunisia_(1961_album))
 - Mosaic Records, "Art Blakey's 1960 Jazz Messengers": [https://www.mosaicrecords.com/art-blakey-1960-jazz-messengers-mosaic-records/](https://www.mosaicrecords.com/art-blakey-1960-jazz-messengers-mosaic-records/)

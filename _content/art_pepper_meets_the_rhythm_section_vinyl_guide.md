@@ -56,7 +56,7 @@ A more accessible modern reissue than the UHQR, also mastered by Bernie Grundman
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: 5dc7981a-c20f-361b-8365-ad677ba41b7a
 - Discogs (master, all versions): [https://www.discogs.com/master/221127](https://www.discogs.com/master/221127)
 - Wikipedia, "Art Pepper Meets the Rhythm Section": [https://en.wikipedia.org/wiki/Art_Pepper_Meets_the_Rhythm_Section](https://en.wikipedia.org/wiki/Art_Pepper_Meets_the_Rhythm_Section)
 - LondonJazzCollector, "Art Pepper Meets the Rhythm Section (1957)": [https://londonjazzcollector.wordpress.com/2011/12/12/art-pepper-meets-the-rhythm-section-1957/](https://londonjazzcollector.wordpress.com/2011/12/12/art-pepper-meets-the-rhythm-section-1957/)

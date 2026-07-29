@@ -47,6 +47,6 @@ Current in-print reissue, pressed in the Czech Republic, presented with the orig
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: 069a4693-1752-36da-9707-d98b47a57146
 - Discogs (master, all versions): [https://www.discogs.com/master/176947](https://www.discogs.com/master/176947)
 - Wikipedia, "Bird and Diz": [https://en.wikipedia.org/wiki/Bird_and_Diz](https://en.wikipedia.org/wiki/Bird_and_Diz)

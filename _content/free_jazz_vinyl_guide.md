@@ -53,6 +53,6 @@ See the quality-control note above before buying – the mastering and concept a
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: 8e921fc1-a775-3875-9f0e-55260c5f835e
 - Discogs (master, all versions): [https://www.discogs.com/master/28578](https://www.discogs.com/master/28578)
 - Wikipedia, "Free Jazz: A Collective Improvisation": [https://en.wikipedia.org/wiki/Free_Jazz:_A_Collective_Improvisation](https://en.wikipedia.org/wiki/Free_Jazz:_A_Collective_Improvisation)
