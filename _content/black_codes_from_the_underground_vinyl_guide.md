@@ -33,6 +33,6 @@ Documented pressing-plant variants include Carrollton and Pitman manufacturing, 
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: b5dfd3b1-2c14-36f9-82c1-66e7e7441665
 - Wikipedia, "Black Codes (From the Underground)": [https://en.wikipedia.org/wiki/Black_Codes_(From_the_Underground)](https://en.wikipedia.org/wiki/Black_Codes_(From_the_Underground))
 - Library of Congress blog, "Wynton Marsalis, 'Black Codes' and Thoughts on the Highway": [https://blogs.loc.gov/loc/2023/04/wynton-marsalis-black-codes-and-thoughts-on-the-highway/](https://blogs.loc.gov/loc/2023/04/wynton-marsalis-black-codes-and-thoughts-on-the-highway/)

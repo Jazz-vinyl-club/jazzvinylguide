@@ -47,7 +47,7 @@ Presents both takes together for the first time on vinyl, mastered by Ryan K. Sm
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: bc126e06-2f61-300c-afe5-e2fe7b10021f
 - Discogs (master, Edition I): [https://www.discogs.com/master/32364](https://www.discogs.com/master/32364)
 - Discogs (master, Edition II): [https://www.discogs.com/master/33212](https://www.discogs.com/master/33212)
 - Wikipedia, "Ascension (John Coltrane album)": [https://en.wikipedia.org/wiki/Ascension_(John_Coltrane_album)](https://en.wikipedia.org/wiki/Ascension_(John_Coltrane_album))

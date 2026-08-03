@@ -45,6 +45,6 @@ An entirely analogue signal path from master tape to cutting head, pressed at Pa
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: c06d6702-eacb-324b-b9fd-d19c8331e178
 - Discogs (master, all versions): [https://discogs.com/master/72290](https://discogs.com/master/72290)
 - Wikipedia, "Birds of Fire": [https://en.wikipedia.org/wiki/Birds_of_Fire](https://en.wikipedia.org/wiki/Birds_of_Fire)

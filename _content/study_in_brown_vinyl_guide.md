@@ -43,6 +43,6 @@ An earlier audiophile reissue with a solid general reputation, though this guide
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: ecdf91a1-9e2a-44db-83f2-7f6c9ff82c10
 - Wikipedia, "Study in Brown": [https://en.wikipedia.org/wiki/Study_in_Brown](https://en.wikipedia.org/wiki/Study_in_Brown)
 - SoundStage Ultra, "Clifford Brown and Max Roach: 'Study in Brown'": [https://www.soundstageultra.com/index.php/features-menu/recording-of-the-month-menu/1030-clifford-brown-and-max-roach-study-in-brown](https://www.soundstageultra.com/index.php/features-menu/recording-of-the-month-menu/1030-clifford-brown-and-max-roach-study-in-brown)
