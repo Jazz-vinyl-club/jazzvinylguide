@@ -8,15 +8,19 @@ Dorham contributes two compositions that open the album, "Blue Bossa" and "La Me
 
 **Best early pressing for audiophiles:** [Blue Note BLP 4140](https://www.discogs.com/release/3382197) – 1963 original mono pressing; see the note below on identifying a genuine first pressing.
 
-**Best modern pressing for audiophiles:** contested between two well-regarded audiophile reissues – [Analogue Productions' 2009 45rpm edition](https://www.discogs.com/release/4714314) and [Music Matters' 2014 180g edition](https://www.discogs.com/release/5851213) – see the note below.
+**Best modern pressing for audiophiles:** genuinely close between three options – Analogue Productions' 2009 45rpm edition, Music Matters' 2014 180g edition, and the Blue Note Classic Vinyl Edition – see the note below on a detailed direct comparison that found two of these nearly indistinguishable once volume-matched.
 
-**Best-value modern:** the Blue Note Classic Vinyl Edition – all-analog, mastered by Kevin Gray, pressed at Optimal in Germany; no standalone Discogs release ID confirmed in this pass.
+**Best-value modern:** the Blue Note Classic Vinyl Edition – all-analog, mastered by Kevin Gray, pressed at Optimal in Germany; see the note below for why this may be a better value than its price gap with Music Matters suggests.
 
 ## Identifying a genuine first pressing, and two competing audiophile reissues
 
 Blue Note mono originals from this era are notoriously easy to mistake for later pressings sharing the same catalog number, and this title is no exception. Per the standard collector reference (the "Blue Note Records Guide for Identifying Original Pressings," compiled by Frederick Cohen of the Jazz Record Center), a genuine BLP 4140 first pressing shows: a "NEW YORK USA" address on both labels rather than a later West Coast address; no "deep groove" ring stamped into the label paper; the back cover address reading "47 West 63rd St., New York 23"; a hand-etched Plastylite "ear" mark (a small pretzel-shaped "P") in the dead wax, indicating the original pressing plant; and a laminated front cover. Copies without the Plastylite ear mark all postdate Liberty Records' purchase of Blue Note and are reissues rather than true firsts, regardless of what the label itself claims.
 
 Two separate, well-regarded modern audiophile reissues compete for the title of best-sounding modern version, and this guide isn't picking a winner between them since both have strong independent reputations. Analogue Productions issued a 45rpm edition in 2009 as part of "The Blue Note Reissues" series, manufactured by EMI Music Special Markets; one Discogs owner review calls it "top notch," specifically noting it holds its own against Music Matters' work. Music Matters itself issued a 180-gram, single-speed 33⅓ edition in 2014, limited to either 2,500 copies (per the matrix-confirmed Discogs release listing) or 3,500 copies (per one retailer's product description) – a real discrepancy between sources that I wasn't able to resolve, so both figures are noted here rather than one asserted as fact. It's mastered by Kevin Gray at Cohearent Audio, matrix-confirmed via the runout etching itself.
+
+## The Music Matters vs. Blue Note Classic Vinyl Edition question, in more detail
+
+A detailed video review by the owner of a Phoenix, Arizona record shop (The 'In' Groove) directly A/B'd this exact title's Music Matters and Blue Note Classic Vinyl editions – along with two other Blue Note titles for cross-check – using volume-matching and a decibel meter to rule out the well-known effect where a louder-cut record simply sounds more impressive by default. His conclusion, after finding the two nearly indistinguishable once matched for level: both editions share the same mastering engineer (Kevin Gray) working from the same original tapes, and he argues there's no plausible reason an experienced engineer with over a hundred prior Blue Note credits would master the higher-volume, wider-run Classic Vinyl series worse than the smaller, pricier Music Matters run. He frames the price gap (Music Matters copies often reselling for $200–300 versus roughly $25–35 for a Classic Vinyl copy) as reflecting packaging and scarcity rather than a genuine sonic advantage – Music Matters' gatefold jacket, thicker tip-on construction, and session-photography reproduction are real, tangible upgrades, just not necessarily audio ones. He also reports a real, if minor, quality-control inconsistency on his own Classic Vinyl copy of this specific title: it arrived in a plain paper inner sleeve rather than the poly-lined sleeve his other Classic Vinyl titles came with, and the record itself had light surface scuffs (inaudible on playback) as a result. Take this as one detailed, methodologically careful account rather than a universal verdict, but it's a legitimate reason to consider the Classic Vinyl Edition a genuinely strong option rather than settling for it only when the pricier alternatives are unavailable.
 
 ## Sound quality by pressing
 
@@ -34,11 +38,11 @@ A more recent, more accessible all-analog reissue, mastered by Kevin Gray from t
 
 ## Buyer's guide by budget
 
-**$$$:** The Blue Note Classic Vinyl Edition – all-analog Kevin Gray mastering at a more accessible price than the limited-edition audiophile pressings.
+**$$$:** The Blue Note Classic Vinyl Edition – all-analog Kevin Gray mastering, and per a detailed direct comparison, close to sonically indistinguishable from the pricier Music Matters edition once volume-matched.
 
 **$$$$:** A clean [Blue Note BLP 4140](https://www.discogs.com/release/3382197) original – verify the full first-pressing checklist above before paying a premium.
 
-**$$$$$:** [Music Matters' 2014 180g edition](https://www.discogs.com/release/5851213), or [Analogue Productions' 2009 45rpm edition](https://www.discogs.com/release/4714314) – both are strongly regarded, genuinely contested territory rather than one clear winner.
+**$$$$$:** [Music Matters' 2014 180g edition](https://www.discogs.com/release/5851213), or [Analogue Productions' 2009 45rpm edition](https://www.discogs.com/release/4714314) – the premium here buys superior packaging and collectibility more than a confirmed sonic edge, per the comparison above.
 
 ## Pressing tier summary
 
@@ -47,7 +51,7 @@ A more recent, more accessible all-analog reissue, mastered by Kevin Gray from t
 | **S** | Analogue Productions 45rpm | BST 84140 (AP) | 2009 | Stereo, 45rpm, 2×12" | The Blue Note Reissues series; EMI-manufactured | Numbered by sticker on some copies | [Discogs](https://www.discogs.com/release/4714314) |
 | **S** | Music Matters | MM33BNST-84140 | 2014 | Stereo, 33⅓, 180g | Kevin Gray, Cohearent Audio | Limited to 2,500 copies per Discogs, or 3,500 per one retailer – discrepancy unresolved | [Discogs](https://www.discogs.com/release/5851213) |
 | **A** | Blue Note BLP 4140 | BLP 4140 | 1963 | Mono, 33⅓ | Rudy Van Gelder / Plastylite | First pressing; see identification checklist above | [Discogs](https://www.discogs.com/release/3382197) |
-| **B** | Blue Note Classic Vinyl Edition | BST 84140 | – | Stereo, 33⅓, 180g | Kevin Gray; pressed at Optimal (Germany) | More accessible modern reissue | – |
+| **A** | Blue Note Classic Vinyl Edition | BST 84140 | – | Stereo, 33⅓, 180g | Kevin Gray; pressed at Optimal (Germany) | A detailed volume-matched comparison found this close to indistinguishable from Music Matters sonically; the price gap is mostly packaging | – |
 
 ## References
 
@@ -55,3 +59,4 @@ A more recent, more accessible all-analog reissue, mastered by Kevin Gray from t
 - Discogs (master, all versions): [https://www.discogs.com/master/176819](https://www.discogs.com/master/176819)
 - Wikipedia, "Page One (Joe Henderson album)": [https://en.wikipedia.org/wiki/Page_One_(Joe_Henderson_album)](https://en.wikipedia.org/wiki/Page_One_(Joe_Henderson_album))
 - LondonJazzCollector, "Joe Henderson: Page One (1963) Blue Note": [https://londonjazzcollector.wordpress.com/2020/03/24/joe-henderson-page-one-1963-blue-note/](https://londonjazzcollector.wordpress.com/2020/03/24/joe-henderson-page-one-1963-blue-note/)
+- The 'In' Groove, "Blue Note Classic LP's VS Music Matters Jazz Review and shootout": [https://www.youtube.com/watch?v=xES9Wdojec8](https://www.youtube.com/watch?v=xES9Wdojec8)
