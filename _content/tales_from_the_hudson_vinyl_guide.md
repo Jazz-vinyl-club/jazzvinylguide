@@ -14,7 +14,7 @@ The original 1996 recording and mixing were done by James Farber, with mastering
 
 ## The 2012 first-ever vinyl pressing
 
-Issued in 2012 as a 180-gram 2LP set, mastered by Greg Calbi from the original master tapes – a different mastering pass from the 1996 CD's Masterdisk mastering, done specifically for this vinyl cut. The package includes a gatefold cover, a 6-page insert booklet, and black poly-lined inner sleeves, with cover and packaging design work credited to Khiov, a Korean design and manufacturing house that has produced a number of similar first-time-on-vinyl reissues for other CD-era jazz titles in the same series. Because no earlier vinyl edition exists to compare it against, there isn't a "definitive original pressing versus reissue" comparison to make here the way there is for most albums on this site – this pressing simply is the vinyl version of the album, full stop.
+Issued in 2012 as a 180-gram 2LP set, mastered by Greg Calbi from the original master tapes – a different mastering pass from the 1996 CD's Masterdisk mastering, done specifically for this vinyl cut. The package includes a gatefold cover, a 6-page insert booklet, and black poly-lined inner sleeves. Retailer product descriptions credit two separate contributors here, worth distinguishing rather than conflating: the vinyl itself was pressed by MMP, a German pressing plant, while the packaging and sleeve design work is separately credited to Khiov, a design house that has worked on a number of similar first-time-on-vinyl reissues in the same series. Because no earlier vinyl edition exists to compare it against, there isn't a "definitive original pressing versus reissue" comparison to make here the way there is for most albums on this site – this pressing simply is the vinyl version of the album, full stop.
 
 ## Sound quality
 
@@ -28,7 +28,7 @@ This is a mid-1990s digital-era jazz recording, tracked and mixed using the stud
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | Universal Music Korea, Play 33⅓ Series | DZ 3107 | 2012 | Stereo, 33⅓, 2×180g | Greg Calbi, from the original master tapes | First and only vinyl pressing of this title; gatefold, 6-page insert | [Discogs](https://www.discogs.com/release/5833512) |
+| **A** | Universal Music Korea, Play 33⅓ Series | DZ 3107 | 2012 | Stereo, 33⅓, 2×180g | Greg Calbi, from the original master tapes; pressed by MMP (Germany) | First and only vinyl pressing of this title; gatefold, 6-page insert; packaging design by Khiov | [Discogs](https://www.discogs.com/release/5833512) |
 
 ## References
 
