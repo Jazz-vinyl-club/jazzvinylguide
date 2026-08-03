@@ -24,7 +24,7 @@ As part of the Coltrane Estate's centennial celebration campaign, Impulse! issue
 The take Impulse initially chose to release, featuring Elvin Jones's drum solo on side two and a different solo order than Edition II. No "EDITION II" text appears in the dead wax on genuine Edition I copies.
 
 ### Impulse A-95/AS-95, Edition II (1966, later pressings)
-Coltrane's preferred take, identifiable by "EDITION II" etched into the runout. This became the standard version pressed from this point forward, meaning most surviving vintage copies of this catalog number carry this take rather than the originally-released one.
+Coltrane's preferred take, identifiable by "EDITION II" etched into the runout. This became the standard version pressed from this point forward, meaning most surviving vintage copies of this catalog number carry this take rather than the originally-released one – one detailed collector account specifically notes that US LPs from the 1970s and early 1980s used Edition II but had stopped including the "Edition II" text in the dead wax by that point, so absence of the etching on a later pressing doesn't necessarily mean it's Edition I. A Japanese pressing (Nippon Columbia, 1976) of Edition II is also documented, distinct from an earlier Japanese first pressing.
 
 ### Verve Vault Series 2LP (2026)
 Presents both takes together for the first time on vinyl, mastered by Ryan K. Smith from the original stereo analogue tapes.

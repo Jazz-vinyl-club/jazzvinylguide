@@ -14,6 +14,8 @@
 
 The 2021 Verve Acoustic Sounds Series pressing, produced by Chad Kassem, was reportedly the album's first US vinyl appearance in some time – prior collectors largely had to rely on a mid-1980s CD release (which itself carried no printed mastering-engineer credit) or hunt down vintage EmArcy pressings or the earlier 2007 Speakers Corner reissue. Ryan K. Smith's all-analog remastering for the 2021 edition is matrix-confirmed and specifically sourced from the original tapes, a more traceable credit than the unclear CD-era mastering that preceded it. The 2007 Speakers Corner edition predates this by over a decade and has its own solid reputation among collectors, though this guide found less independently-verified mastering-credit detail for that specific pressing than for the newer Acoustic Sounds Series edition.
 
+A real concern some collectors raised about the 2021 reissue is worth addressing directly: given the 2008 Universal Studios fire that destroyed a significant portion of that vault's master tape holdings, some wondered whether the Acoustic Sounds Series cut might actually be sourced from a lower-generation tape than earlier digital transfers made in the 1990s, before the fire. One detailed Discogs owner review, from someone who owns both an original first pressing and the reissue, addresses this directly by ear rather than by assumption: comparing the two side by side, the reissue's bass extension and treble detail clearly surpass the original, with no evidence of the tape-generation problem some had speculated about.
+
 ## Sound quality by pressing
 
 ### EmArcy MG-36037 (1955 original)
