@@ -1002,5 +1002,19 @@
     "content_file": "body_and_soul_hawkins_vinyl_guide.md",
     "cover_url": "",
     "mbid": ""
+  },
+  {
+    "slug": "birds-of-fire",
+    "title": "Birds of Fire",
+    "artist": "Mahavishnu Orchestra",
+    "label": "Columbia",
+    "year": 1973,
+    "recorded": "August 1972",
+    "original_cat": "KC 31996",
+    "wikipedia": "Birds_of_Fire",
+    "description": "The classic lineup's fusion landmark and swan song: original Columbia pressing (quality reportedly varies widely copy to copy), and a genuine trade-off between the Friday Music (Kevin Gray) and Speakers Corner reissues.",
+    "content_file": "birds_of_fire_vinyl_guide.md",
+    "cover_url": "",
+    "mbid": ""
   }
 ]
