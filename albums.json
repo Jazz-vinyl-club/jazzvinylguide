@@ -1016,5 +1016,19 @@
     "content_file": "birds_of_fire_vinyl_guide.md",
     "cover_url": "",
     "mbid": ""
+  },
+  {
+    "slug": "ascension",
+    "title": "Ascension",
+    "artist": "John Coltrane",
+    "label": "Impulse!",
+    "year": 1966,
+    "recorded": "June 28, 1965",
+    "original_cat": "A-95 / AS-95",
+    "wikipedia": "Ascension_(John_Coltrane_album)",
+    "description": "Coltrane's watershed turn toward free jazz, recorded with an expanded 11-piece ensemble. A genuine collector puzzle: Impulse swapped takes after initial release and re-etched the dead wax rather than issue a new catalog number, creating two distinct editions under one number.",
+    "content_file": "ascension_vinyl_guide.md",
+    "cover_url": "",
+    "mbid": ""
   }
 ]
