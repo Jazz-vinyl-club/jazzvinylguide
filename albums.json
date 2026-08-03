@@ -988,5 +988,19 @@
     "content_file": "jazz_at_massey_hall_vinyl_guide.md",
     "cover_url": "",
     "mbid": "f9afcb1d-6674-353e-8a8a-0dbff1054ed7"
+  },
+  {
+    "slug": "body-and-soul-hawkins",
+    "title": "Body and Soul",
+    "artist": "Coleman Hawkins",
+    "label": "RCA Victor",
+    "year": 1961,
+    "recorded": "1939-1956",
+    "original_cat": "LPV-501",
+    "wikipedia": "Body_and_Soul_(Coleman_Hawkins_album)",
+    "description": "The famous 1939 tenor sax landmark is a single 78rpm track; 'the album' is a much later RCA compilation spanning 1939-1956, and multiple different compilations share this title. This guide clarifies the distinction rather than conflating the single with the LP.",
+    "content_file": "body_and_soul_hawkins_vinyl_guide.md",
+    "cover_url": "",
+    "mbid": ""
   }
 ]
