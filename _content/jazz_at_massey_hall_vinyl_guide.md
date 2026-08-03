@@ -47,7 +47,7 @@ The definitive modern treatment, both for sound (Paul Blakemore's restoration an
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: f9afcb1d-6674-353e-8a8a-0dbff1054ed7
 - Discogs (master, all versions): [https://www.discogs.com/master/176938](https://www.discogs.com/master/176938)
 - Wikipedia, "Jazz at Massey Hall": [https://en.wikipedia.org/wiki/Jazz_at_Massey_Hall](https://en.wikipedia.org/wiki/Jazz_at_Massey_Hall)
 - Craft Recordings, "Hot House: The Complete Jazz at Massey Hall Recordings" (press release): [https://craftrecordings.com/blogs/news/hot-house-the-complete-jazz-at-massey-hall-recordings](https://craftrecordings.com/blogs/news/hot-house-the-complete-jazz-at-massey-hall-recordings)

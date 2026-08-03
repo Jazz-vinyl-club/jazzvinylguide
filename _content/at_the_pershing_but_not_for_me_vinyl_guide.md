@@ -49,7 +49,7 @@ A straightforward later stereo reissue on blue and silver Chess labels, catalog 
 
 ## References
 
-- MusicBrainz release: not yet confirmed as a release-group ID – flag for follow-up rather than guess
+- MusicBrainz release group: 0a8e97fd-457c-30bc-938a-2fba79cb04e7
 - Discogs (master, all versions): [https://www.discogs.com/master/59857](https://www.discogs.com/master/59857)
 - Wikipedia, "At the Pershing: But Not for Me": [https://en.wikipedia.org/wiki/At_the_Pershing:_But_Not_for_Me](https://en.wikipedia.org/wiki/At_the_Pershing:_But_Not_for_Me)
 - Kenny's Audiophile Record Reviews, "Ahmad Jamal Trio at the Pershing stereo vs mono vinyl record albums": [https://www.youtube.com/watch?v=38l7hV2EW8o](https://www.youtube.com/watch?v=38l7hV2EW8o)

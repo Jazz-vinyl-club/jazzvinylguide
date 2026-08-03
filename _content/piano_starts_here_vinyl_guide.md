@@ -28,6 +28,6 @@ Given the sourcing gaps and the fake-stereo caveat above, this guide isn't prese
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: 1e493068-b80b-30c5-85f2-38009dd6a6c0
 - Wikipedia, "Art Tatum discography": [https://en.wikipedia.org/wiki/Art_Tatum_discography](https://en.wikipedia.org/wiki/Art_Tatum_discography)
 - Internet Archive, "Art Tatum - Piano Starts Here": [https://archive.org/details/art-tatum-piano-starts-here](https://archive.org/details/art-tatum-piano-starts-here)

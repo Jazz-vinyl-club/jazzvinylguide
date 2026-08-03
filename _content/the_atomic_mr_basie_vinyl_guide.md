@@ -35,6 +35,6 @@ Given the sourcing gaps described above beyond the two confirmed pressings, this
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: 1b464368-017c-3aba-8a2d-437bcf43b5d0
 - Discogs (master, all versions): [https://www.discogs.com/master/303975](https://www.discogs.com/master/303975)
 - Wikipedia, "The Atomic Mr. Basie": [https://en.wikipedia.org/wiki/The_Atomic_Mr._Basie](https://en.wikipedia.org/wiki/The_Atomic_Mr._Basie)
