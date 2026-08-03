@@ -974,5 +974,19 @@
     "content_file": "piano_starts_here_vinyl_guide.md",
     "cover_url": "",
     "mbid": ""
+  },
+  {
+    "slug": "jazz-at-massey-hall",
+    "title": "Jazz at Massey Hall",
+    "artist": "The Quintet (Dizzy Gillespie, Charlie Parker, Bud Powell, Charles Mingus, Max Roach)",
+    "label": "Debut",
+    "year": 1953,
+    "recorded": "May 15, 1953",
+    "original_cat": "DLP-2 / DLP-4 (10 inch); later 12 inch consolidation",
+    "wikipedia": "Jazz_at_Massey_Hall",
+    "description": "Often called the greatest jazz concert ever recorded, the only known quintet recording of Parker, Gillespie, Powell, Mingus, and Roach together: original Debut 10-inch pressings, the documented Mingus bass-overdub controversy, and the 2023 Craft Recordings complete box including dub-free versions.",
+    "content_file": "jazz_at_massey_hall_vinyl_guide.md",
+    "cover_url": "",
+    "mbid": ""
   }
 ]
