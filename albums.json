@@ -960,5 +960,19 @@
     "content_file": "sarah_vaughan_with_clifford_brown_vinyl_guide.md",
     "cover_url": "",
     "mbid": ""
+  },
+  {
+    "slug": "piano-starts-here",
+    "title": "Piano Starts Here",
+    "artist": "Art Tatum",
+    "label": "Columbia",
+    "year": 1968,
+    "recorded": "March 1933 & May 1949",
+    "original_cat": "CS 9655",
+    "wikipedia": "Art_Tatum_discography",
+    "description": "A compilation of Tatum's first-ever 1933 studio recordings and a 1949 live concert, released together for the first time 16 years later. This guide flags a genuine fake-stereo concern on the original release rather than asserting a confident tier list.",
+    "content_file": "piano_starts_here_vinyl_guide.md",
+    "cover_url": "",
+    "mbid": ""
   }
 ]
