@@ -4,7 +4,7 @@
 
 *Free Jazz: A Collective Improvisation* was recorded December 21, 1960 at A&R Studios in New York City, produced by Nesuhi Ertegun. Ornette Coleman's concept was audacious even by the standards of an artist already known for upending convention: two complete jazz quartets playing simultaneously in the same room, each with its own reed player, trumpeter, bassist, and drummer, improvising together for over 36 minutes with no predetermined structure, no splicing, and no overdubs – exactly as performed, start to finish, in a single continuous take. Coleman's regular working quartet – himself on alto sax, Don Cherry on pocket trumpet, Scott LaFaro on bass, and Billy Higgins on drums – occupies the left channel; a second quartet featuring Eric Dolphy on bass clarinet, Freddie Hubbard on trumpet, Charlie Haden on bass, and Ed Blackwell on drums occupies the right. Released September 1961 as Atlantic 1364 (mono) and SD-1364 (stereo), the album's title effectively named an entire subsequent genre, even though the term "free jazz" had existed earlier with an unrelated meaning (jazz performed without an admission charge).
 
-The record's reception was genuinely split at the time, memorably captured by DownBeat magazine's decision to run a double review of the same album, with one critic awarding it the maximum five stars and another giving it zero. The cover reproduces Jackson Pollock's painting "White Light," a deliberate visual analogy for the music inside – abstract, dense, and resistant to a single fixed reading. Decades later, the album's cover concept would itself become a reference point, inspiring the artwork for Floating Points, Pharoah Sanders, and the London Symphony Orchestra's 2021 album *Promises*.
+The record's reception was genuinely split at the time, memorably captured by DownBeat magazine's decision to run a double review of the same album: Pete Welding awarded it the maximum five stars, while John Tynan – reportedly the most conservative of the era's jazz critics – gave it zero. The cover reproduces Jackson Pollock's painting "White Light," a deliberate visual analogy for the music inside – abstract, dense, and resistant to a single fixed reading. Decades later, the album's cover concept would itself become a reference point, inspiring the artwork for Floating Points, Pharoah Sanders, and the London Symphony Orchestra's 2021 album *Promises*.
 
 **Best early pressing for audiophiles:** [Atlantic 1364 mono](https://www.discogs.com/release/1942501) or [SD-1364 stereo](https://www.discogs.com/release/370754) – 1961 original pressings.
 
@@ -32,6 +32,9 @@ Mastered by Bernie Grundman from the original analog tapes and pressed at Pallas
 ### Speakers Corner 180g reissue (2021)
 See the quality-control note above before buying – the mastering and concept are sound, but documented "non-fill" pressing defects affect an inconsistent portion of the pressing run.
 
+### 1972 Japanese pressing
+A well-regarded 1970s Japanese pressing also circulates among collectors, described by one reviewer as sounding "pretty good" – a reasonable option if you're specifically after a vintage-era pressing but an original US copy proves hard to source or is priced high. This guide wasn't able to independently confirm a specific catalog number for it.
+
 ## Buyer's guide by budget
 
 **$$:** A used copy of an earlier reissue (1970s–90s Atlantic pressings exist, sharing the SD-1364 catalog number with later label variants) – a reasonable way in if you're not chasing an original or the current Speakers Corner pressing.
@@ -50,9 +53,11 @@ See the quality-control note above before buying – the mastering and concept a
 | **A** | Atlantic 1364 (mono) | 1364 | 1961 | Mono, 33⅓ | Tom Dowd / Atlantic lacquer | Orange/purple label, white fan logo, die-cut gatefold | [Discogs](https://www.discogs.com/release/1942501) |
 | **A** | Atlantic SD-1364 (stereo) | SD-1364 | 1961 | Stereo, 33⅓ | Tom Dowd / Atlantic lacquer | Blue/green label, white fan logo; delivers the intended two-quartet channel separation | [Discogs](https://www.discogs.com/release/370754) |
 | **B** | Speakers Corner 180g | AATL 1364 | 2021 | Stereo, 33⅓, 180g | All-analog remaster; pressed at Pallas | Documented "non-fill" pressing defects reported by multiple owners – inspect before buying | [Discogs](https://www.discogs.com/release/20407990) |
+| **B** | 1972 Japanese pressing | – | 1972 | Mono, 33⅓ | Not independently confirmed | Described by one reviewer as sounding "pretty good"; specific catalog number not confirmed | – |
 
 ## References
 
 - MusicBrainz release group: 8e921fc1-a775-3875-9f0e-55260c5f835e
 - Discogs (master, all versions): [https://www.discogs.com/master/28578](https://www.discogs.com/master/28578)
 - Wikipedia, "Free Jazz: A Collective Improvisation": [https://en.wikipedia.org/wiki/Free_Jazz:_A_Collective_Improvisation](https://en.wikipedia.org/wiki/Free_Jazz:_A_Collective_Improvisation)
+- Ten-Minute Record Reviews, "Ornette Coleman - Free Jazz (Episode 257)": [https://www.youtube.com/watch?v=m_D2aMGfEdQ](https://www.youtube.com/watch?v=m_D2aMGfEdQ)
