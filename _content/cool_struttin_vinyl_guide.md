@@ -55,7 +55,7 @@ All-analog, mastered by Kevin Gray from the original master tapes, pressed at Op
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: 5b91f2d3-bc5b-365c-99f0-1cee467f0249
 - Wikipedia, "Cool Struttin'": [https://en.wikipedia.org/wiki/Cool_Struttin%27](https://en.wikipedia.org/wiki/Cool_Struttin%27)
 - LondonJazzCollector, "Rare Blue Note: what's the collector alternative?": [https://londonjazzcollector.wordpress.com/2015/01/16/rare-blue-note-whats-the-collector-alternative/](https://londonjazzcollector.wordpress.com/2015/01/16/rare-blue-note-whats-the-collector-alternative/)
 - Deep Groove Mono, "Vinyl Spotlight: Sonny Clark, Cool Struttin' (Blue Note 1588) Liberty Mono Pressing": [https://dgmono.com/2019/05/09/vinyl-spotlight-sonny-clark-cool-struttin-blp-1588-liberty-mono-pressing/](https://dgmono.com/2019/05/09/vinyl-spotlight-sonny-clark-cool-struttin-blp-1588-liberty-mono-pressing/)

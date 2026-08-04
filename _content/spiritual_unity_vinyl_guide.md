@@ -12,9 +12,9 @@ AllMusic's five-star review calls the album "a landmark recording that's essenti
 
 **Best-value modern:** any clearly-labeled current ESP-Disk pressing – see the note below on verifying track content before assuming any reissue is identical to the original.
 
-## A serious claim worth flagging: some reissues may substitute a different performance for "Spirits"
+## A serious, now-confirmed issue: some reissues substitute a different performance for "Spirits"
 
-This deserves more caution than a typical pressing-variant note. A detailed Discogs contributor comment on this title makes a specific, pointed claim: that the track listed as "Spirits" on the original mono ESP 1002 pressing is a genuine trio performance of that composition, matching the "Spirits" recorded at a related Cellar Café concert (later released as ESP 3030, *Prophecy*) – but that on "subsequent reissues" of *Spiritual Unity*, the track labeled "Spirits" is actually a performance of a different composition called "Children," drawn from a different Ayler session entirely (released elsewhere as *Ghosts*, also known as *Vibrations*). If accurate, this would mean some reissues of this album don't just remaster the same audio – they substitute genuinely different recorded material under the same track title. I was not able to independently verify this claim beyond the single detailed contributor account, so it's presented here as a flagged, specific claim rather than settled fact – but it's specific and technical enough (naming exact alternate sources) that it reads as informed rather than speculative. If you're chasing bit-for-bit fidelity to the original 1964 session specifically, this is worth investigating further on your own copy before assuming any given pressing matches the original content.
+This deserves more attention than a typical pressing-variant note, and it's no longer just a flagged rumor. ESP-Disk's own official liner description for the album's 50th Anniversary Expanded Edition confirms the issue directly: a different performance was "briefly and accidentally substituted for 'Spirits' on an early vinyl edition." That substituted track is the same tune known as "Vibrations" on the Arista/Freedom release of that title (also released as "Ghosts" on Debut) – a genuinely different recording from a different Ayler session, not just an alternate mix or take of the same performance. ESP-Disk corrected the error for later editions and, for the 50th Anniversary reissue, included the substituted "Vibrations" performance as a bonus track specifically so that both versions would finally appear on a single edition. A separate, detailed Discogs contributor comment independently corroborates this account with more technical specificity, confirming which exact "Spirits" belongs on the true original mono ESP 1002 pressing versus which reissues carry the substituted track. If you're chasing bit-for-bit fidelity to the original 1964 session specifically, this is a real, documented reason to verify which pressing you're getting rather than assuming any copy titled *Spiritual Unity* contains the same content.
 
 Separately, at least one European pressing (an Italian "Base Record" label edition, labeled "monaural" on the sleeve but "stereo" and catalog ESPS 1002 on the actual labels – a real mono/stereo labeling mismatch on the packaging itself) has been flagged by an owner as "badly pressed and of dubious legality," suggesting some historical European pressings of this catalog number may be unauthorized or poor-quality rather than legitimate licensed editions.
 
@@ -36,12 +36,13 @@ A recent, in-print 180-gram repress with the original artwork restored – a str
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | ESP 1002 (mono, original) | ESP 1002 | 1965 | Mono, 33⅓ | ESP-Disk lacquer, Plastylite pressed | First pressing; deep groove Side A; see note above on a serious, unverified claim about later reissues substituting different content for "Spirits" | [Discogs](https://www.discogs.com/release/4339219) |
+| **A** | ESP 1002 (mono, original) | ESP 1002 | 1965 | Mono, 33⅓ | ESP-Disk lacquer, Plastylite pressed | First pressing; deep groove Side A; confirmed by ESP-Disk itself to carry the correct "Spirits" performance, unlike some later reissues – see note above | [Discogs](https://www.discogs.com/release/4339219) |
 | **B** | 2024 ESP-Disk repress | ESP 1002 | 2024 | Stereo/Mono, 33⅓, 180g | Not independently confirmed | Original artwork restored; currently in print | – |
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: 0299b455-5537-3b27-ba6e-396882bf3ef2
 - Discogs (master, all versions): [https://www.discogs.com/master/39790](https://www.discogs.com/master/39790)
 - Wikipedia, "Spiritual Unity": [https://en.wikipedia.org/wiki/Spiritual_Unity](https://en.wikipedia.org/wiki/Spiritual_Unity)
 - ESP-Disk, official album page: [http://www.espdisk.com/1002.html](http://www.espdisk.com/1002.html)
+- ESP-Disk, Bandcamp (50th Anniversary Expanded Edition liner description, confirming the "Spirits" substitution): [https://albertayler.bandcamp.com/album/spiritual-unity](https://albertayler.bandcamp.com/album/spiritual-unity)
