@@ -51,7 +51,7 @@ An electronically rechanneled fake-stereo edition – see the note above before 
 
 ## References
 
-- MusicBrainz release group: not yet confirmed – flag for follow-up rather than guess
+- MusicBrainz release group: genuinely ambiguous – Wikidata cites two different MusicBrainz release-group IDs for this title at different retrieval dates (2019 and 2022), which likely reflects the same 10"/12" discography confusion documented above rather than a simple update. Left blank rather than picking one with false confidence.
 - Discogs (master, all versions): [https://www.discogs.com/master/224363](https://www.discogs.com/master/224363)
 - Wikipedia, "The Amazing Bud Powell, Vols. 1 & 2": [https://en.wikipedia.org/wiki/The_Amazing_Bud_Powell,_Vols._1_%26_2](https://en.wikipedia.org/wiki/The_Amazing_Bud_Powell,_Vols._1_%26_2)
 - jazzdisco.org, Bud Powell discography: [https://www.jazzdisco.org/bud-powell/discography/](https://www.jazzdisco.org/bud-powell/discography/)
