@@ -2,7 +2,9 @@
 
 ## Summary
 
-*Study in Brown* was recorded February 23–25, 1955 at Capitol Studios in New York City, the third outing for the Clifford Brown/Max Roach quintet following *Clifford Brown & Max Roach* and *Brown and Roach Incorporated*. The lineup is completed by tenor saxophonist Harold Land, bassist George Morrow, and pianist Richie Powell – Powell would die alongside Brown in the same car accident on the Pennsylvania Turnpike in June 1956, cutting the group short at the height of its powers. Several tracks from this session became genuine jazz standards in their own right, including Land's "Land's End," Brown's "Sandu," and the quintet's take on "Cherokee," which showcases one of Brown's most celebrated recorded solos. Released in 1955 as EmArcy MG-36037, mono.
+*Study in Brown* was recorded February 23–25, 1955 at Capitol Studios in New York City, produced by Bob Shad, the third of four studio albums the Clifford Brown/Max Roach quintet completed together for EmArcy – following *Clifford Brown & Max Roach* (1954) and *Brown and Roach Incorporated* (1954), and preceding *Clifford Brown and Max Roach at Basin Street* (1956), the last album the group recorded before Brown's death. The lineup is completed by tenor saxophonist Harold Land, bassist George Morrow, and pianist Richie Powell – Powell would die alongside Brown in the same car accident on the Pennsylvania Turnpike in June 1956, cutting the group short at the height of its powers. Several tracks from this session became genuine jazz standards in their own right, including Land's "Land's End," Brown's "Sandu," and the quintet's take on "Cherokee," which showcases one of Brown's most celebrated recorded solos. Released in 1955 as EmArcy MG-36037, mono.
+
+This particular catalog has been unusually thoroughly excavated over the decades. A first attempt at gathering the complete Brown/Roach quintet recordings came in 1976, but it was Japanese producer Kiyoshi Koyama's later work, digging repeatedly through EmArcy's vaults for anything not yet documented, that turned up enough additional material to fill out releases titled *More Study In Brown* and eventually a complete box set covering every surviving fragment of Brown's EmArcy period. If you come across a release with "Study in Brown" in the title but an unfamiliar subtitle or expanded tracklist, it may well be one of these later archival compilations rather than the original 1955 program – worth checking before assuming any "Study in Brown"-titled release matches this guide's coverage exactly.
 
 **Best early pressing for audiophiles:** [EmArcy MG-36037](https://www.discogs.com/release/1146247) – 1955 original mono pressing, small "drummer" label with silver rim.
 
@@ -10,9 +12,9 @@
 
 **Best-value modern:** the 2007 Speakers Corner reissue – an earlier, also well-regarded audiophile pressing.
 
-## Two modern reissues, thirteen years apart
+## Two modern reissues, thirteen years apart, plus a limited box set worth knowing about
 
-The 2021 Verve Acoustic Sounds Series pressing, produced by Chad Kassem, was reportedly the album's first US vinyl appearance in some time – prior collectors largely had to rely on a mid-1980s CD release (which itself carried no printed mastering-engineer credit) or hunt down vintage EmArcy pressings or the earlier 2007 Speakers Corner reissue. Ryan K. Smith's all-analog remastering for the 2021 edition is matrix-confirmed and specifically sourced from the original tapes, a more traceable credit than the unclear CD-era mastering that preceded it. The 2007 Speakers Corner edition predates this by over a decade and has its own solid reputation among collectors, though this guide found less independently-verified mastering-credit detail for that specific pressing than for the newer Acoustic Sounds Series edition.
+The 2021 Verve Acoustic Sounds Series pressing, produced by Chad Kassem, is a standalone reissue of this specific album on its own – but it's worth correcting a claim that circulates about it: this wasn't actually the album's first return to US vinyl in decades, as some retailer copy implies. Mosaic Records had already issued the complete Brown/Roach EmArcy quintet catalog, including this album, as a limited 4LP box set (catalog MRLP 3004) back in 2012, mastered by an engineer also named Ryan Smith. Stereophile's review of that box specifically notes its mastering chain as "ADA" – analog tape to digital intermediate step back to analog cutting – rather than a pure all-analog (AAA) signal path, a detail worth knowing if you're specifically chasing AAA mastering. Whether the 2012 Mosaic Ryan Smith and the 2021 Acoustic Sounds Ryan K. Smith are the same engineer wasn't independently confirmed for this guide, so the two credits are treated as separate until verified otherwise. Either way, Ryan K. Smith's 2021 remastering for Acoustic Sounds is matrix-confirmed and specifically sourced from the original tapes, and is presented on its own as a standalone LP rather than a limited box set alongside three other albums – a more practical way to own just this title than tracking down a complete, and likely long-out-of-print, Mosaic box. The 2007 Speakers Corner edition predates both of these and has its own solid reputation among collectors, though this guide found less independently-verified mastering-credit detail for that specific pressing than for the newer Acoustic Sounds Series edition.
 
 A real concern some collectors raised about the 2021 reissue is worth addressing directly: given the 2008 Universal Studios fire that destroyed a significant portion of that vault's master tape holdings, some wondered whether the Acoustic Sounds Series cut might actually be sourced from a lower-generation tape than earlier digital transfers made in the 1990s, before the fire. One detailed Discogs owner review, from someone who owns both an original first pressing and the reissue, addresses this directly by ear rather than by assumption: comparing the two side by side, the reissue's bass extension and treble detail clearly surpass the original, with no evidence of the tape-generation problem some had speculated about.
 
@@ -22,7 +24,10 @@ A real concern some collectors raised about the 2021 reissue is worth addressing
 The true first pressing, identifiable by the small drummer-logo label with a silver rim, deep groove, and a blue-backed jacket (a later white-backed jacket variant also circulates, sharing the same catalog number). Condition and specific label/jacket variant both matter for anyone chasing a genuine early copy.
 
 ### Verve Acoustic Sounds Series (2021)
-Mastered by Ryan K. Smith at Sterling Sound from the original analog tapes, pressed at Quality Record Pressings on 180-gram vinyl. Reviewers describe it as a genuinely overdue return to US vinyl for this title after years of the format being effectively unavailable domestically.
+Mastered by Ryan K. Smith at Sterling Sound from the original analog tapes, pressed at Quality Record Pressings on 180-gram vinyl. A standalone, single-LP reissue rather than part of a limited box, making it the more practical modern option for anyone who just wants this one album.
+
+### Mosaic MRLP 3004 (2012, box set)
+A limited 4LP box collecting the complete Brown/Roach EmArcy quintet catalog, including this album, mastered by an engineer credited as Ryan Smith. Stereophile's review specifically notes an "ADA" mastering chain – analog to digital to analog – rather than pure analog, and rates both the performances and the sonics at the top of its scale regardless. Long since out of print as a limited box, but worth knowing about if you come across a copy, since it predates the 2021 standalone reissue by nearly a decade.
 
 ### Speakers Corner (2007)
 An earlier audiophile reissue with a solid general reputation, though this guide was not able to independently confirm a specific mastering engineer credit for it with the same confidence as the newer Acoustic Sounds Series edition.
@@ -31,15 +36,18 @@ An earlier audiophile reissue with a solid general reputation, though this guide
 
 **$$$:** The 2007 Speakers Corner reissue.
 
-**$$$$:** The 2021 Verve Acoustic Sounds Series edition – matrix-confirmed Ryan K. Smith mastering, QRP pressing.
+**$$$$:** The 2021 Verve Acoustic Sounds Series edition – matrix-confirmed Ryan K. Smith mastering, QRP pressing, standalone LP.
 
 **$$$$:** A clean [EmArcy MG-36037](https://www.discogs.com/release/1146247) original, condition-dependent – confirm the drummer label and deep groove for a genuine early copy.
+
+**$$$$$:** The Mosaic MRLP 3004 box set (2012), if you can still find a copy – includes this album alongside the complete Brown/Roach EmArcy quintet catalog.
 
 ## Pressing tier summary
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | Verve Acoustic Sounds Series | B0032412-01 | 2021 | Mono, 33⅓, 180g | Ryan K. Smith, Sterling Sound; QRP | Its first US vinyl appearance in some time, per one detailed review | – |
+| **A** | Verve Acoustic Sounds Series | B0032412-01 | 2021 | Mono, 33⅓, 180g | Ryan K. Smith, Sterling Sound; QRP | Standalone LP reissue, matrix-confirmed mastering | – |
+| **A** | Mosaic MRLP 3004 (box set) | MRLP 3004 | 2012 | Mono, 33⅓, part of 4LP box | Ryan Smith; ADA mastering chain (not pure analog), per Stereophile | Predates the 2021 standalone reissue; long out of print as a limited box | – |
 | **A** | EmArcy MG-36037 | MG-36037 | 1955 | Mono, 33⅓ | EmArcy lacquer | First pressing; drummer label with silver rim, deep groove | [Discogs](https://www.discogs.com/release/1146247) |
 | **B** | Speakers Corner | MG-36037 | 2007 | Mono, 33⅓ | Not independently confirmed | Solid general reputation among collectors | – |
 
@@ -48,3 +56,4 @@ An earlier audiophile reissue with a solid general reputation, though this guide
 - MusicBrainz release group: ecdf91a1-9e2a-44db-83f2-7f6c9ff82c10
 - Wikipedia, "Study in Brown": [https://en.wikipedia.org/wiki/Study_in_Brown](https://en.wikipedia.org/wiki/Study_in_Brown)
 - SoundStage Ultra, "Clifford Brown and Max Roach: 'Study in Brown'": [https://www.soundstageultra.com/index.php/features-menu/recording-of-the-month-menu/1030-clifford-brown-and-max-roach-study-in-brown](https://www.soundstageultra.com/index.php/features-menu/recording-of-the-month-menu/1030-clifford-brown-and-max-roach-study-in-brown)
+- Stereophile, "Recording of February 2013: The Clifford Brown/Max Roach Emarcy Albums": [https://www.stereophile.com/content/recording-february-2013-ithe-clifford-brownmax-roach-emarcy-albumsi](https://www.stereophile.com/content/recording-february-2013-ithe-clifford-brownmax-roach-emarcy-albumsi)
