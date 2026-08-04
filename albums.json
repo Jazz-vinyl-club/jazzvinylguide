@@ -1072,5 +1072,19 @@
     "content_file": "spiritual_unity_vinyl_guide.md",
     "cover_url": "",
     "mbid": ""
+  },
+  {
+    "slug": "money-jungle",
+    "title": "Money Jungle",
+    "artist": "Duke Ellington",
+    "label": "United Artists",
+    "year": 1963,
+    "recorded": "September 17, 1962",
+    "original_cat": "UAJS 15017",
+    "wikipedia": "Money_Jungle",
+    "description": "The only trio meeting of Ellington, Mingus, and Roach: original United Artists pressing, and the Tone Poet reissue. This guide flags a well-documented piano-sound issue traceable to the original 1962 engineering, not any specific pressing.",
+    "content_file": "money_jungle_vinyl_guide.md",
+    "cover_url": "",
+    "mbid": ""
   }
 ]
