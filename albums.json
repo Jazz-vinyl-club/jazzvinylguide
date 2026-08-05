@@ -1128,5 +1128,19 @@
     "content_file": "unit_structures_vinyl_guide.md",
     "cover_url": "",
     "mbid": "370d6fb7-8a0b-3e3e-a5f4-d0fcdf2869a1"
+  },
+  {
+    "slug": "duke-ellington-john-coltrane",
+    "title": "Duke Ellington & John Coltrane",
+    "artist": "Duke Ellington & John Coltrane",
+    "label": "Impulse!",
+    "year": 1963,
+    "recorded": "September 26, 1962",
+    "original_cat": "A-30 / AS-30",
+    "wikipedia": "Duke_Ellington_%26_John_Coltrane",
+    "description": "A single-session intergenerational summit, recorded just nine days after Ellington's Money Jungle date. Flags a real pressing-identification trap: some stereo copies with older-looking labels are actually later Bell Sound remasters, not Van Gelder's original mastering.",
+    "content_file": "duke_ellington_john_coltrane_vinyl_guide.md",
+    "cover_url": "",
+    "mbid": "4f64c4fc-1de9-3b28-970c-e86f78c631be"
   }
 ]
