@@ -6,30 +6,29 @@ This title has a genuine, well-documented collector puzzle built into its own pr
 
 ## Summary
 
-*Ascension* was recorded at Rudy Van Gelder's Englewood Cliffs studio, produced by Bob Thiele, with Coltrane leading a dramatically expanded eleven-piece ensemble far beyond his usual quartet: trumpeters Freddie Hubbard and Dewey Johnson; saxophonists Pharoah Sanders, Marion Brown, John Tchicai, and Archie Shepp alongside Coltrane's own tenor; McCoy Tyner on piano; Art Davis and Jimmy Garrison both on bass; and Elvin Jones on drums. Released February 1966, the album marks the clearest dividing line in Coltrane's catalog – everything before it is comparatively conventional in structure, and everything after commits fully to the looser, collectively improvised language of free jazz. It was also his clearest signal of moving away from the quartet format that had defined his most celebrated work.
+*Ascension* was recorded at Rudy Van Gelder's Englewood Cliffs studio, produced by Bob Thiele, with Coltrane leading a dramatically expanded eleven-piece ensemble far beyond his usual quartet. Released February 1966, the album marks the clearest dividing line in Coltrane's catalog – everything before it is comparatively conventional in structure, and everything after commits fully to the looser, collectively improvised language of free jazz.
 
-The timing makes the record's radicalism even more striking: Coltrane made this decisive turn away from convention at the absolute commercial and critical peak of his career, barely six months after *A Love Supreme* had earned him a Grammy nomination and been named Album of the Year by both DownBeat and Jazz magazine. Rather than build on that success with something more accessible, he assembled a large, largely unrehearsed ensemble, handed the musicians sheets of chords and scales rather than fixed parts, and directed the piece's shifts between full-ensemble chaos and individual solo spotlights mostly through gesture in the room. His biographer Ben Ratliff described the result as "an experiment in the democratic ideal" – bassist Jimmy Garrison and drummer Elvin Jones can be heard intermittently trying to anchor the piece to something like a conventional swinging pulse underneath the collective improvisation, not always successfully, which is very much the point rather than a flaw in the performance. One further, admittedly speculative detail some Coltrane scholars have noted: eleven carries a particular significance in numerology, associated with spiritual awakening, and Coltrane was a committed and wide-ranging reader of metaphysical texts by this point in his life – whether the ensemble size was a deliberate reference or simply how many musicians the piece needed is something no source consulted for this guide claims to know for certain, so it's offered here as an interesting possibility rather than a confirmed fact.
-
-**Best early pressing for audiophiles:** an original Impulse A-95/AS-95, either Edition I or Edition II depending on which take you're after – see the note above on how to tell them apart.
+**Best early pressing for audiophiles:** an original Impulse A-95/AS-95, either Edition I or Edition II depending on which take you're after – see above on how to tell them apart.
 
 **Best modern pressing for audiophiles:** the 2026 Verve Vault Series 2LP edition – the first release ever to present both complete takes together on vinyl, mastered by Ryan K. Smith from the original stereo analogue tapes.
 
 **Best-value modern:** a later 1970s/80s Impulse/ABC or MCA-era repress – reliably the Edition II take, though without the "Edition II" etching some earlier pressings carry.
 
-## The 2026 Verve Vault Series: both takes, together, for the first time
+## Recording history and tape provenance
+
+The ensemble was trumpeters Freddie Hubbard and Dewey Johnson; saxophonists Pharoah Sanders, Marion Brown, John Tchicai, and Archie Shepp alongside Coltrane's own tenor; McCoy Tyner on piano; Art Davis and Jimmy Garrison both on bass; and Elvin Jones on drums. It was also Coltrane's clearest signal of moving away from the quartet format that had defined his most celebrated work.
+
+The timing makes the record's radicalism even more striking: Coltrane made this decisive turn away from convention at the absolute commercial and critical peak of his career, barely six months after *A Love Supreme* had earned him a Grammy nomination and been named Album of the Year by both DownBeat and Jazz magazine. Rather than build on that success with something more accessible, he assembled a large, largely unrehearsed ensemble, handed the musicians sheets of chords and scales rather than fixed parts, and directed the piece's shifts between full-ensemble chaos and individual solo spotlights mostly through gesture in the room. His biographer Ben Ratliff described the result as "an experiment in the democratic ideal" – bassist Jimmy Garrison and drummer Elvin Jones can be heard intermittently trying to anchor the piece to something like a conventional swinging pulse underneath the collective improvisation, not always successfully, which is very much the point rather than a flaw in the performance. One further, admittedly speculative detail some Coltrane scholars have noted: eleven carries a particular significance in numerology, associated with spiritual awakening, and Coltrane was a committed and wide-ranging reader of metaphysical texts by this point in his life – whether the ensemble size was a deliberate reference or simply how many musicians the piece needed is something no source consulted for this guide claims to know for certain, so it's offered here as an interesting possibility rather than a confirmed fact.
 
 As part of the Coltrane Estate's centennial celebration campaign, Impulse! issued *Ascension: Edition I & II* as a double LP in 2026 – the first release in the format's history to present both complete takes on vinyl in one package, rather than forcing a collector to track down two separate original pressings to hear both versions. Mastered by Ryan K. Smith from the original stereo analogue tapes and pressed on 180-gram vinyl, this is a genuinely different and more complete listening experience than any single vintage pressing can offer, since no original edition ever included both takes together.
 
 ## Sound quality by pressing
 
-### Impulse A-95/AS-95, Edition I (1966 original release)
-The take Impulse initially chose to release, running approximately 38:30, featuring Elvin Jones's drum solo on side two and a different solo order than Edition II. No "EDITION II" text appears in the dead wax on genuine Edition I copies.
+Impulse A-95/AS-95, Edition I (1966 original release) is the take Impulse initially chose to release, running approximately 38:30, featuring Elvin Jones's drum solo on side two and a different solo order than Edition II. No "EDITION II" text appears in the dead wax on genuine Edition I copies.
 
-### Impulse A-95/AS-95, Edition II (1966, later pressings)
-Coltrane's preferred take, running slightly longer at approximately 40:49, identifiable by "EDITION II" etched into the runout. This became the standard version pressed from this point forward, meaning most surviving vintage copies of this catalog number carry this take rather than the originally-released one – one detailed collector account specifically notes that US LPs from the 1970s and early 1980s used Edition II but had stopped including the "Edition II" text in the dead wax by that point, so absence of the etching on a later pressing doesn't necessarily mean it's Edition I. A Japanese pressing (Nippon Columbia, 1976) of Edition II is also documented, distinct from an earlier Japanese first pressing.
+Impulse A-95/AS-95, Edition II (1966, later pressings) is Coltrane's preferred take, running slightly longer at approximately 40:49, identifiable by "EDITION II" etched into the runout. This became the standard version pressed from this point forward, meaning most surviving vintage copies of this catalog number carry this take rather than the originally-released one – one detailed collector account specifically notes that US LPs from the 1970s and early 1980s used Edition II but had stopped including the "Edition II" text in the dead wax by that point, so absence of the etching on a later pressing doesn't necessarily mean it's Edition I. A Japanese pressing (Nippon Columbia, 1976) of Edition II is also documented, distinct from an earlier Japanese first pressing.
 
-### Verve Vault Series 2LP (2026)
-Presents both takes together for the first time on vinyl, mastered by Ryan K. Smith from the original stereo analogue tapes.
+The Verve Vault Series 2LP (2026) presents both takes together for the first time on vinyl, mastered by Ryan K. Smith from the original stereo analogue tapes.
 
 ## Buyer's guide by budget
 
@@ -49,7 +48,6 @@ Presents both takes together for the first time on vinyl, mastered by Ryan K. Sm
 
 ## References
 
-- MusicBrainz release group: bc126e06-2f61-300c-afe5-e2fe7b10021f
 - Discogs (master, Edition I): [https://www.discogs.com/master/32364](https://www.discogs.com/master/32364)
 - Discogs (master, Edition II): [https://www.discogs.com/master/33212](https://www.discogs.com/master/33212)
 - Wikipedia, "Ascension (John Coltrane album)": [https://en.wikipedia.org/wiki/Ascension_(John_Coltrane_album)](https://en.wikipedia.org/wiki/Ascension_(John_Coltrane_album))
