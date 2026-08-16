@@ -1184,5 +1184,19 @@
     "content_file": "hot_five_hot_seven_sessions_vinyl_guide.md",
     "cover_url": "",
     "mbid": ""
+  },
+  {
+    "slug": "the-cooker",
+    "title": "The Cooker",
+    "artist": "Lee Morgan",
+    "label": "Blue Note",
+    "year": 1958,
+    "recorded": "September 29, 1957",
+    "original_cat": "BLP 1578",
+    "wikipedia": "The_Cooker",
+    "description": "Recorded when Morgan was just 19, two weeks after his session on Coltrane's Blue Train. Original mono pressing, a Classic Records reissue, and the Tone Poet Series edition -- flags a documented editing error affecting the stereo master of A Night in Tunisia on some pressings.",
+    "content_file": "the_cooker_vinyl_guide.md",
+    "cover_url": "",
+    "mbid": "e4c04a85-5ac6-3764-b77d-18ddd768e0b2"
   }
 ]
