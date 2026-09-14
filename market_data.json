@@ -1,8 +1,8 @@
 {
   "10131408": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:06:46Z",
-    "for_sale": 8,
+    "fetched_at": "2026-09-14T08:44:13Z",
+    "for_sale": 9,
     "lowest_price": 52.31,
     "suggested_prices": {
       "Good (G)": 50.18,
@@ -14,7 +14,7 @@
   },
   "10176523": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:06:48Z",
+    "fetched_at": "2026-09-14T08:44:16Z",
     "for_sale": 8,
     "lowest_price": 45.0,
     "suggested_prices": {
@@ -27,8 +27,8 @@
   },
   "1018844": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:06:51Z",
-    "for_sale": 10,
+    "fetched_at": "2026-09-14T08:44:18Z",
+    "for_sale": 8,
     "lowest_price": 5.74,
     "suggested_prices": {
       "Good (G)": 2.67,
@@ -40,8 +40,8 @@
   },
   "10266087": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:06:53Z",
-    "for_sale": 9,
+    "fetched_at": "2026-09-14T08:44:21Z",
+    "for_sale": 10,
     "lowest_price": 49.0,
     "suggested_prices": {
       "Good (G)": 27.57,
@@ -53,7 +53,7 @@
   },
   "1029793": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:06:56Z",
+    "fetched_at": "2026-09-14T08:44:23Z",
     "for_sale": 7,
     "lowest_price": 2.33,
     "suggested_prices": {
@@ -66,9 +66,9 @@
   },
   "10355513": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:06:59Z",
-    "for_sale": 9,
-    "lowest_price": 7.5,
+    "fetched_at": "2026-09-14T08:44:26Z",
+    "for_sale": 8,
+    "lowest_price": 10.94,
     "suggested_prices": {
       "Good (G)": 5.08,
       "Mint (M)": 32.16,
@@ -79,7 +79,7 @@
   },
   "10381961": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:01Z",
+    "fetched_at": "2026-09-14T08:44:29Z",
     "for_sale": 2,
     "lowest_price": 574.31,
     "suggested_prices": {
@@ -92,9 +92,9 @@
   },
   "1038695": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:04Z",
-    "for_sale": 28,
-    "lowest_price": 25.2,
+    "fetched_at": "2026-09-14T08:44:31Z",
+    "for_sale": 29,
+    "lowest_price": 18.01,
     "suggested_prices": {
       "Good (G)": 15.31,
       "Mint (M)": 96.94,
@@ -105,7 +105,7 @@
   },
   "10440728": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:06Z",
+    "fetched_at": "2026-09-14T08:44:34Z",
     "for_sale": 54,
     "lowest_price": 200.0,
     "suggested_prices": {
@@ -118,21 +118,21 @@
   },
   "10453858": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:09Z",
-    "for_sale": 11,
-    "lowest_price": 98.78,
+    "fetched_at": "2026-09-14T08:44:37Z",
+    "for_sale": 9,
+    "lowest_price": 108.7,
     "suggested_prices": {
-      "Good (G)": 53.28,
-      "Mint (M)": 337.46,
-      "Near Mint (NM or M-)": 301.94,
-      "Very Good (VG)": 159.85,
-      "Very Good Plus (VG+)": 230.89
+      "Good (G)": 52.63,
+      "Mint (M)": 333.35,
+      "Near Mint (NM or M-)": 298.26,
+      "Very Good (VG)": 157.9,
+      "Very Good Plus (VG+)": 228.08
     }
   },
   "10456756": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:11Z",
-    "for_sale": 24,
+    "fetched_at": "2026-09-14T08:44:39Z",
+    "for_sale": 26,
     "lowest_price": 25.31,
     "suggested_prices": {
       "Good (G)": 15.03,
@@ -144,22 +144,22 @@
   },
   "10459736": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:14Z",
+    "fetched_at": "2026-09-14T08:44:42Z",
     "for_sale": 0,
     "lowest_price": null,
     "suggested_prices": {
-      "Good (G)": 0.98,
-      "Mint (M)": 6.18,
-      "Near Mint (NM or M-)": 5.53,
-      "Very Good (VG)": 2.93,
-      "Very Good Plus (VG+)": 4.23
+      "Good (G)": 0.97,
+      "Mint (M)": 6.11,
+      "Near Mint (NM or M-)": 5.47,
+      "Very Good (VG)": 2.9,
+      "Very Good Plus (VG+)": 4.18
     }
   },
   "10486052": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:16Z",
+    "fetched_at": "2026-09-14T08:44:45Z",
     "for_sale": 6,
-    "lowest_price": 41.13,
+    "lowest_price": 45.0,
     "suggested_prices": {
       "Good (G)": 73.34,
       "Mint (M)": 464.51,
@@ -170,9 +170,9 @@
   },
   "10488968": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:19Z",
-    "for_sale": 12,
-    "lowest_price": 12.48,
+    "fetched_at": "2026-09-14T08:44:47Z",
+    "for_sale": 14,
+    "lowest_price": 12.36,
     "suggested_prices": {
       "Good (G)": 3.85,
       "Mint (M)": 24.37,
@@ -183,7 +183,7 @@
   },
   "1049796": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:22Z",
+    "fetched_at": "2026-09-14T08:44:50Z",
     "for_sale": 21,
     "lowest_price": 45.0,
     "suggested_prices": {
@@ -196,7 +196,7 @@
   },
   "10538384": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:24Z",
+    "fetched_at": "2026-09-14T08:44:52Z",
     "for_sale": 1,
     "lowest_price": 20.0,
     "suggested_prices": {
@@ -209,7 +209,7 @@
   },
   "10694927": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:27Z",
+    "fetched_at": "2026-09-14T08:44:55Z",
     "for_sale": 15,
     "lowest_price": 17.0,
     "suggested_prices": {
@@ -222,7 +222,7 @@
   },
   "1073239": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:30Z",
+    "fetched_at": "2026-09-14T08:44:57Z",
     "for_sale": 3,
     "lowest_price": 250.0,
     "suggested_prices": {
@@ -235,9 +235,9 @@
   },
   "10859534": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:32Z",
-    "for_sale": 15,
-    "lowest_price": 48.0,
+    "fetched_at": "2026-09-14T08:45:00Z",
+    "for_sale": 16,
+    "lowest_price": 39.79,
     "suggested_prices": {
       "Good (G)": 47.4,
       "Mint (M)": 300.18,
@@ -248,8 +248,8 @@
   },
   "1102285": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:35Z",
-    "for_sale": 1,
+    "fetched_at": "2026-09-14T08:45:03Z",
+    "for_sale": 2,
     "lowest_price": 750.0,
     "suggested_prices": {
       "Good (G)": 491.69,
@@ -261,8 +261,8 @@
   },
   "1141070": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:37Z",
-    "for_sale": 31,
+    "fetched_at": "2026-09-14T08:45:05Z",
+    "for_sale": 33,
     "lowest_price": 8.0,
     "suggested_prices": {
       "Good (G)": 23.98,
@@ -274,8 +274,8 @@
   },
   "1146247": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:40Z",
-    "for_sale": 8,
+    "fetched_at": "2026-09-14T08:45:08Z",
+    "for_sale": 7,
     "lowest_price": 31.5,
     "suggested_prices": {
       "Good (G)": 50.77,
@@ -287,9 +287,9 @@
   },
   "11481689": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:42Z",
-    "for_sale": 38,
-    "lowest_price": 22.99,
+    "fetched_at": "2026-09-14T08:45:10Z",
+    "for_sale": 41,
+    "lowest_price": 20.0,
     "suggested_prices": {
       "Good (G)": 15.51,
       "Mint (M)": 98.26,
@@ -300,8 +300,8 @@
   },
   "1151131": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:45Z",
-    "for_sale": 16,
+    "fetched_at": "2026-09-14T08:45:13Z",
+    "for_sale": 15,
     "lowest_price": 24.99,
     "suggested_prices": {
       "Good (G)": 6.79,
@@ -313,9 +313,9 @@
   },
   "11537615": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:48Z",
-    "for_sale": 29,
-    "lowest_price": 40.0,
+    "fetched_at": "2026-09-14T08:45:15Z",
+    "for_sale": 28,
+    "lowest_price": 43.65,
     "suggested_prices": {
       "Good (G)": 20.21,
       "Mint (M)": 128.02,
@@ -326,7 +326,7 @@
   },
   "11547530": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:50Z",
+    "fetched_at": "2026-09-14T08:45:18Z",
     "for_sale": 9,
     "lowest_price": 160.45,
     "suggested_prices": {
@@ -339,8 +339,8 @@
   },
   "1157814": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:53Z",
-    "for_sale": 27,
+    "fetched_at": "2026-09-14T08:45:21Z",
+    "for_sale": 28,
     "lowest_price": 20.0,
     "suggested_prices": {
       "Good (G)": 19.68,
@@ -352,7 +352,7 @@
   },
   "1172029": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:55Z",
+    "fetched_at": "2026-09-14T08:45:23Z",
     "for_sale": 21,
     "lowest_price": 45.0,
     "suggested_prices": {
@@ -365,7 +365,7 @@
   },
   "11786823": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:07:58Z",
+    "fetched_at": "2026-09-14T08:45:26Z",
     "for_sale": 0,
     "lowest_price": null,
     "suggested_prices": {
@@ -378,7 +378,7 @@
   },
   "11873486": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:01Z",
+    "fetched_at": "2026-09-14T08:45:28Z",
     "for_sale": 3,
     "lowest_price": 98.6,
     "suggested_prices": {
@@ -391,8 +391,8 @@
   },
   "12032942": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:03Z",
-    "for_sale": 22,
+    "fetched_at": "2026-09-14T08:45:31Z",
+    "for_sale": 23,
     "lowest_price": 22.0,
     "suggested_prices": {
       "Good (G)": 47.95,
@@ -404,8 +404,8 @@
   },
   "1208022": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:06Z",
-    "for_sale": 13,
+    "fetched_at": "2026-09-14T08:45:33Z",
+    "for_sale": 14,
     "lowest_price": 105.0,
     "suggested_prices": {
       "Good (G)": 220.96,
@@ -417,8 +417,8 @@
   },
   "12341594": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:08Z",
-    "for_sale": 22,
+    "fetched_at": "2026-09-14T08:45:36Z",
+    "for_sale": 23,
     "lowest_price": 14.3,
     "suggested_prices": {
       "Good (G)": 14.26,
@@ -430,8 +430,8 @@
   },
   "12384470": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:11Z",
-    "for_sale": 4,
+    "fetched_at": "2026-09-14T08:45:39Z",
+    "for_sale": 5,
     "lowest_price": 79.99,
     "suggested_prices": {
       "Good (G)": 26.23,
@@ -443,7 +443,7 @@
   },
   "12418756": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:13Z",
+    "fetched_at": "2026-09-14T08:45:41Z",
     "for_sale": 20,
     "lowest_price": 5.0,
     "suggested_prices": {
@@ -456,7 +456,7 @@
   },
   "12434112": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:16Z",
+    "fetched_at": "2026-09-14T08:45:44Z",
     "for_sale": 4,
     "lowest_price": 40.0,
     "suggested_prices": {
@@ -469,7 +469,7 @@
   },
   "1249135": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:18Z",
+    "fetched_at": "2026-09-14T08:45:46Z",
     "for_sale": 3,
     "lowest_price": 1925.66,
     "suggested_prices": {
@@ -482,20 +482,20 @@
   },
   "1259362": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:21Z",
-    "for_sale": 45,
+    "fetched_at": "2026-09-14T08:45:49Z",
+    "for_sale": 50,
     "lowest_price": 3.62,
     "suggested_prices": {
-      "Good (G)": 15.51,
-      "Mint (M)": 98.26,
-      "Near Mint (NM or M-)": 87.92,
-      "Very Good (VG)": 46.54,
-      "Very Good Plus (VG+)": 67.23
+      "Good (G)": 13.49,
+      "Mint (M)": 85.44,
+      "Near Mint (NM or M-)": 76.45,
+      "Very Good (VG)": 40.47,
+      "Very Good Plus (VG+)": 58.46
     }
   },
   "12605728": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:24Z",
+    "fetched_at": "2026-09-14T08:45:51Z",
     "for_sale": 6,
     "lowest_price": 93.01,
     "suggested_prices": {
@@ -508,7 +508,7 @@
   },
   "12956965": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:26Z",
+    "fetched_at": "2026-09-14T08:45:54Z",
     "for_sale": 2,
     "lowest_price": 1396.12,
     "suggested_prices": {
@@ -521,7 +521,7 @@
   },
   "13040821": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:29Z",
+    "fetched_at": "2026-09-14T08:45:57Z",
     "for_sale": 20,
     "lowest_price": 27.0,
     "suggested_prices": {
@@ -534,8 +534,8 @@
   },
   "1309909": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:31Z",
-    "for_sale": 22,
+    "fetched_at": "2026-09-14T08:45:59Z",
+    "for_sale": 21,
     "lowest_price": 22.79,
     "suggested_prices": {
       "Good (G)": 11.27,
@@ -547,7 +547,7 @@
   },
   "13207671": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:34Z",
+    "fetched_at": "2026-09-14T08:46:02Z",
     "for_sale": 10,
     "lowest_price": 129.95,
     "suggested_prices": {
@@ -560,8 +560,8 @@
   },
   "1324258": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:36Z",
-    "for_sale": 21,
+    "fetched_at": "2026-09-14T08:46:05Z",
+    "for_sale": 20,
     "lowest_price": 27.0,
     "suggested_prices": {
       "Good (G)": 21.1,
@@ -573,8 +573,8 @@
   },
   "1340330": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:39Z",
-    "for_sale": 12,
+    "fetched_at": "2026-09-14T08:46:07Z",
+    "for_sale": 11,
     "lowest_price": 33.53,
     "suggested_prices": {
       "Good (G)": 84.63,
@@ -586,7 +586,7 @@
   },
   "13432557": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:41Z",
+    "fetched_at": "2026-09-14T08:46:10Z",
     "for_sale": 31,
     "lowest_price": 20.53,
     "suggested_prices": {
@@ -599,7 +599,7 @@
   },
   "13438783": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:44Z",
+    "fetched_at": "2026-09-14T08:46:12Z",
     "for_sale": 2,
     "lowest_price": 174.42,
     "suggested_prices": {
@@ -612,7 +612,7 @@
   },
   "13516565": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:47Z",
+    "fetched_at": "2026-09-14T08:46:15Z",
     "for_sale": 32,
     "lowest_price": 32.56,
     "suggested_prices": {
@@ -625,8 +625,8 @@
   },
   "1353040": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:49Z",
-    "for_sale": 5,
+    "fetched_at": "2026-09-14T08:46:17Z",
+    "for_sale": 6,
     "lowest_price": 50.0,
     "suggested_prices": {
       "Good (G)": 112.84,
@@ -638,7 +638,7 @@
   },
   "13543935": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:52Z",
+    "fetched_at": "2026-09-14T08:46:20Z",
     "for_sale": 0,
     "lowest_price": null,
     "suggested_prices": {
@@ -651,7 +651,7 @@
   },
   "1355742": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:54Z",
+    "fetched_at": "2026-09-14T08:46:22Z",
     "for_sale": 2,
     "lowest_price": 100.0,
     "suggested_prices": {
@@ -664,7 +664,7 @@
   },
   "13599282": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:57Z",
+    "fetched_at": "2026-09-14T08:46:25Z",
     "for_sale": 59,
     "lowest_price": 40.54,
     "suggested_prices": {
@@ -677,7 +677,7 @@
   },
   "13630870": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:08:59Z",
+    "fetched_at": "2026-09-14T08:46:28Z",
     "for_sale": 3,
     "lowest_price": 54.35,
     "suggested_prices": {
@@ -690,7 +690,7 @@
   },
   "1367801": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:02Z",
+    "fetched_at": "2026-09-14T08:46:30Z",
     "for_sale": 13,
     "lowest_price": 48.78,
     "suggested_prices": {
@@ -703,8 +703,8 @@
   },
   "13708439": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:04Z",
-    "for_sale": 31,
+    "fetched_at": "2026-09-14T08:46:33Z",
+    "for_sale": 32,
     "lowest_price": 19.99,
     "suggested_prices": {
       "Good (G)": 12.26,
@@ -716,9 +716,9 @@
   },
   "1375064": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:07Z",
-    "for_sale": 34,
-    "lowest_price": 3.25,
+    "fetched_at": "2026-09-14T08:46:35Z",
+    "for_sale": 35,
+    "lowest_price": 5.0,
     "suggested_prices": {
       "Good (G)": 42.31,
       "Mint (M)": 267.97,
@@ -729,20 +729,20 @@
   },
   "1376103": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:09Z",
-    "for_sale": 14,
+    "fetched_at": "2026-09-14T08:46:38Z",
+    "for_sale": 13,
     "lowest_price": 27.91,
     "suggested_prices": {
-      "Good (G)": 8.34,
-      "Mint (M)": 52.82,
-      "Near Mint (NM or M-)": 47.26,
-      "Very Good (VG)": 25.02,
-      "Very Good Plus (VG+)": 36.14
+      "Good (G)": 9.59,
+      "Mint (M)": 60.74,
+      "Near Mint (NM or M-)": 54.35,
+      "Very Good (VG)": 28.77,
+      "Very Good Plus (VG+)": 41.56
     }
   },
   "13964933": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:12Z",
+    "fetched_at": "2026-09-14T08:46:41Z",
     "for_sale": 16,
     "lowest_price": 24.86,
     "suggested_prices": {
@@ -755,9 +755,9 @@
   },
   "13975220": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:14Z",
+    "fetched_at": "2026-09-14T08:46:43Z",
     "for_sale": 5,
-    "lowest_price": 226.95,
+    "lowest_price": 230.98,
     "suggested_prices": {
       "Good (G)": 457.44,
       "Mint (M)": 2897.12,
@@ -768,7 +768,7 @@
   },
   "14010199": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:17Z",
+    "fetched_at": "2026-09-14T08:46:46Z",
     "for_sale": 13,
     "lowest_price": 22.03,
     "suggested_prices": {
@@ -781,9 +781,9 @@
   },
   "1407692": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:20Z",
-    "for_sale": 4,
-    "lowest_price": 74.55,
+    "fetched_at": "2026-09-14T08:46:48Z",
+    "for_sale": 3,
+    "lowest_price": 299.97,
     "suggested_prices": {
       "Good (G)": 338.51,
       "Mint (M)": 2143.87,
@@ -794,9 +794,9 @@
   },
   "14174187": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:22Z",
-    "for_sale": 68,
-    "lowest_price": 84.53,
+    "fetched_at": "2026-09-14T08:46:51Z",
+    "for_sale": 70,
+    "lowest_price": 89.99,
     "suggested_prices": {
       "Good (G)": 41.69,
       "Mint (M)": 264.03,
@@ -807,7 +807,7 @@
   },
   "14453808": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:25Z",
+    "fetched_at": "2026-09-14T08:46:53Z",
     "for_sale": 0,
     "lowest_price": null,
     "suggested_prices": {
@@ -820,8 +820,8 @@
   },
   "14481054": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:27Z",
-    "for_sale": 19,
+    "fetched_at": "2026-09-14T08:46:56Z",
+    "for_sale": 18,
     "lowest_price": 11.04,
     "suggested_prices": {
       "Good (G)": 5.08,
@@ -833,7 +833,7 @@
   },
   "14551678": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:30Z",
+    "fetched_at": "2026-09-14T08:46:58Z",
     "for_sale": 3,
     "lowest_price": 8.0,
     "suggested_prices": {
@@ -846,9 +846,9 @@
   },
   "1464211": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:32Z",
-    "for_sale": 16,
-    "lowest_price": 139.53,
+    "fetched_at": "2026-09-14T08:47:01Z",
+    "for_sale": 18,
+    "lowest_price": 85.37,
     "suggested_prices": {
       "Good (G)": 180.41,
       "Mint (M)": 1142.57,
@@ -859,8 +859,8 @@
   },
   "1465575": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:35Z",
-    "for_sale": 28,
+    "fetched_at": "2026-09-14T08:47:04Z",
+    "for_sale": 26,
     "lowest_price": 15.0,
     "suggested_prices": {
       "Good (G)": 42.31,
@@ -872,21 +872,21 @@
   },
   "1468729": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:38Z",
-    "for_sale": 36,
-    "lowest_price": 3.0,
+    "fetched_at": "2026-09-14T08:47:06Z",
+    "for_sale": 34,
+    "lowest_price": 4.5,
     "suggested_prices": {
-      "Good (G)": 4.17,
-      "Mint (M)": 26.41,
-      "Near Mint (NM or M-)": 23.63,
-      "Very Good (VG)": 12.51,
-      "Very Good Plus (VG+)": 18.07
+      "Good (G)": 2.08,
+      "Mint (M)": 13.19,
+      "Near Mint (NM or M-)": 11.8,
+      "Very Good (VG)": 6.25,
+      "Very Good Plus (VG+)": 9.03
     }
   },
   "14857369": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:41Z",
-    "for_sale": 41,
+    "fetched_at": "2026-09-14T08:47:09Z",
+    "for_sale": 40,
     "lowest_price": 145.0,
     "suggested_prices": {
       "Good (G)": 69.67,
@@ -898,7 +898,7 @@
   },
   "14859436": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:44Z",
+    "fetched_at": "2026-09-14T08:47:11Z",
     "for_sale": 13,
     "lowest_price": 94.59,
     "suggested_prices": {
@@ -911,7 +911,7 @@
   },
   "14870997": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:46Z",
+    "fetched_at": "2026-09-14T08:47:14Z",
     "for_sale": 1,
     "lowest_price": 289.99,
     "suggested_prices": {
@@ -924,8 +924,8 @@
   },
   "14993652": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:49Z",
-    "for_sale": 7,
+    "fetched_at": "2026-09-14T08:47:17Z",
+    "for_sale": 5,
     "lowest_price": 185.0,
     "suggested_prices": {
       "Good (G)": 62.33,
@@ -937,20 +937,20 @@
   },
   "14993986": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:51Z",
+    "fetched_at": "2026-09-14T08:47:19Z",
     "for_sale": 1,
     "lowest_price": 239.95,
     "suggested_prices": {
-      "Good (G)": 106.57,
-      "Mint (M)": 674.92,
-      "Near Mint (NM or M-)": 603.88,
-      "Very Good (VG)": 319.7,
-      "Very Good Plus (VG+)": 461.79
+      "Good (G)": 105.27,
+      "Mint (M)": 666.69,
+      "Near Mint (NM or M-)": 596.51,
+      "Very Good (VG)": 315.8,
+      "Very Good Plus (VG+)": 456.16
     }
   },
   "15015100": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:54Z",
+    "fetched_at": "2026-09-14T08:47:22Z",
     "for_sale": 1,
     "lowest_price": 225.0,
     "suggested_prices": {
@@ -963,7 +963,7 @@
   },
   "15058367": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:56Z",
+    "fetched_at": "2026-09-14T08:47:24Z",
     "for_sale": 6,
     "lowest_price": 40.0,
     "suggested_prices": {
@@ -976,7 +976,7 @@
   },
   "15107481": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:09:59Z",
+    "fetched_at": "2026-09-14T08:47:27Z",
     "for_sale": 2,
     "lowest_price": 24.99,
     "suggested_prices": {
@@ -989,7 +989,7 @@
   },
   "15132913": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:01Z",
+    "fetched_at": "2026-09-14T08:47:29Z",
     "for_sale": 5,
     "lowest_price": 499.0,
     "suggested_prices": {
@@ -1002,20 +1002,20 @@
   },
   "15175594": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:04Z",
-    "for_sale": 21,
+    "fetched_at": "2026-09-14T08:47:32Z",
+    "for_sale": 24,
     "lowest_price": 43.0,
     "suggested_prices": {
-      "Good (G)": 14.63,
-      "Mint (M)": 92.69,
-      "Near Mint (NM or M-)": 82.93,
-      "Very Good (VG)": 43.9,
-      "Very Good Plus (VG+)": 63.42
+      "Good (G)": 13.9,
+      "Mint (M)": 88.01,
+      "Near Mint (NM or M-)": 78.74,
+      "Very Good (VG)": 41.69,
+      "Very Good Plus (VG+)": 60.22
     }
   },
   "15261698": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:06Z",
+    "fetched_at": "2026-09-14T08:47:35Z",
     "for_sale": 14,
     "lowest_price": 14.65,
     "suggested_prices": {
@@ -1028,7 +1028,7 @@
   },
   "15295035": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:09Z",
+    "fetched_at": "2026-09-14T08:47:37Z",
     "for_sale": 1,
     "lowest_price": 249.99,
     "suggested_prices": {
@@ -1041,7 +1041,7 @@
   },
   "15529480": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:12Z",
+    "fetched_at": "2026-09-14T08:47:40Z",
     "for_sale": 3,
     "lowest_price": 175.0,
     "suggested_prices": {
@@ -1054,7 +1054,7 @@
   },
   "15625375": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:14Z",
+    "fetched_at": "2026-09-14T08:47:42Z",
     "for_sale": 0,
     "lowest_price": null,
     "suggested_prices": {
@@ -1067,7 +1067,7 @@
   },
   "15719501": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:17Z",
+    "fetched_at": "2026-09-14T08:47:45Z",
     "for_sale": 11,
     "lowest_price": 23.26,
     "suggested_prices": {
@@ -1080,8 +1080,8 @@
   },
   "15833366": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:19Z",
-    "for_sale": 37,
+    "fetched_at": "2026-09-14T08:47:47Z",
+    "for_sale": 41,
     "lowest_price": 18.0,
     "suggested_prices": {
       "Good (G)": 16.57,
@@ -1093,8 +1093,8 @@
   },
   "1583965": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:22Z",
-    "for_sale": 1,
+    "fetched_at": "2026-09-14T08:47:50Z",
+    "for_sale": 2,
     "lowest_price": 99.99,
     "suggested_prices": {
       "Good (G)": 36.47,
@@ -1106,8 +1106,8 @@
   },
   "15928051": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:24Z",
-    "for_sale": 33,
+    "fetched_at": "2026-09-14T08:47:53Z",
+    "for_sale": 32,
     "lowest_price": 21.48,
     "suggested_prices": {
       "Good (G)": 12.56,
@@ -1119,20 +1119,20 @@
   },
   "16026339": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:27Z",
-    "for_sale": 46,
+    "fetched_at": "2026-09-14T08:47:55Z",
+    "for_sale": 45,
     "lowest_price": 29.75,
     "suggested_prices": {
-      "Good (G)": 14.7,
-      "Mint (M)": 93.13,
-      "Near Mint (NM or M-)": 83.32,
-      "Very Good (VG)": 44.11,
-      "Very Good Plus (VG+)": 63.72
+      "Good (G)": 15.44,
+      "Mint (M)": 97.81,
+      "Near Mint (NM or M-)": 87.51,
+      "Very Good (VG)": 46.33,
+      "Very Good Plus (VG+)": 66.92
     }
   },
   "16046297": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:30Z",
+    "fetched_at": "2026-09-14T08:47:58Z",
     "for_sale": 7,
     "lowest_price": 68.0,
     "suggested_prices": {
@@ -1145,7 +1145,7 @@
   },
   "16266778": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:32Z",
+    "fetched_at": "2026-09-14T08:48:00Z",
     "for_sale": 2,
     "lowest_price": 495.0,
     "suggested_prices": {
@@ -1158,8 +1158,8 @@
   },
   "16312236": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:35Z",
-    "for_sale": 101,
+    "fetched_at": "2026-09-14T08:48:03Z",
+    "for_sale": 106,
     "lowest_price": 20.0,
     "suggested_prices": {
       "Good (G)": 7.76,
@@ -1171,7 +1171,7 @@
   },
   "16316769": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:38Z",
+    "fetched_at": "2026-09-14T08:48:06Z",
     "for_sale": 79,
     "lowest_price": 22.0,
     "suggested_prices": {
@@ -1184,9 +1184,9 @@
   },
   "16433790": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:40Z",
-    "for_sale": 34,
-    "lowest_price": 39.99,
+    "fetched_at": "2026-09-14T08:48:08Z",
+    "for_sale": 32,
+    "lowest_price": 46.38,
     "suggested_prices": {
       "Good (G)": 33.45,
       "Mint (M)": 211.88,
@@ -1197,8 +1197,8 @@
   },
   "16493715": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:43Z",
-    "for_sale": 13,
+    "fetched_at": "2026-09-14T08:48:11Z",
+    "for_sale": 15,
     "lowest_price": 68.0,
     "suggested_prices": {
       "Good (G)": 27.32,
@@ -1210,7 +1210,7 @@
   },
   "16508523": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:45Z",
+    "fetched_at": "2026-09-14T08:48:13Z",
     "for_sale": 2,
     "lowest_price": 13.5,
     "suggested_prices": {
@@ -1223,7 +1223,7 @@
   },
   "16727037": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:48Z",
+    "fetched_at": "2026-09-14T08:48:16Z",
     "for_sale": 1,
     "lowest_price": 523.26,
     "suggested_prices": {
@@ -1236,8 +1236,8 @@
   },
   "16840773": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:50Z",
-    "for_sale": 36,
+    "fetched_at": "2026-09-14T08:48:18Z",
+    "for_sale": 39,
     "lowest_price": 25.95,
     "suggested_prices": {
       "Good (G)": 15.13,
@@ -1249,8 +1249,8 @@
   },
   "16941774": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:53Z",
-    "for_sale": 56,
+    "fetched_at": "2026-09-14T08:48:21Z",
+    "for_sale": 57,
     "lowest_price": 24.0,
     "suggested_prices": {
       "Good (G)": 9.47,
@@ -1262,22 +1262,22 @@
   },
   "16953990": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:56Z",
-    "for_sale": 116,
+    "fetched_at": "2026-09-14T08:48:24Z",
+    "for_sale": 106,
     "lowest_price": 15.94,
     "suggested_prices": {
-      "Good (G)": 8.75,
-      "Mint (M)": 55.43,
-      "Near Mint (NM or M-)": 49.59,
-      "Very Good (VG)": 26.26,
-      "Very Good Plus (VG+)": 37.92
+      "Good (G)": 8.65,
+      "Mint (M)": 54.75,
+      "Near Mint (NM or M-)": 48.99,
+      "Very Good (VG)": 25.94,
+      "Very Good Plus (VG+)": 37.46
     }
   },
   "1695530": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:10:58Z",
-    "for_sale": 13,
-    "lowest_price": 31.48,
+    "fetched_at": "2026-09-14T08:48:26Z",
+    "for_sale": 14,
+    "lowest_price": 31.1,
     "suggested_prices": {
       "Good (G)": 35.88,
       "Mint (M)": 227.25,
@@ -1288,8 +1288,8 @@
   },
   "1700545": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:01Z",
-    "for_sale": 17,
+    "fetched_at": "2026-09-14T08:48:29Z",
+    "for_sale": 16,
     "lowest_price": 52.33,
     "suggested_prices": {
       "Good (G)": 25.06,
@@ -1301,8 +1301,8 @@
   },
   "1704128": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:03Z",
-    "for_sale": 24,
+    "fetched_at": "2026-09-14T08:48:31Z",
+    "for_sale": 25,
     "lowest_price": 39.98,
     "suggested_prices": {
       "Good (G)": 22.28,
@@ -1314,9 +1314,9 @@
   },
   "1718798": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:06Z",
-    "for_sale": 29,
-    "lowest_price": 34.57,
+    "fetched_at": "2026-09-14T08:48:34Z",
+    "for_sale": 33,
+    "lowest_price": 34.15,
     "suggested_prices": {
       "Good (G)": 16.77,
       "Mint (M)": 106.22,
@@ -1327,7 +1327,7 @@
   },
   "17262070": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:08Z",
+    "fetched_at": "2026-09-14T08:48:36Z",
     "for_sale": 5,
     "lowest_price": 28.04,
     "suggested_prices": {
@@ -1340,9 +1340,9 @@
   },
   "17355181": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:11Z",
-    "for_sale": 64,
-    "lowest_price": 20.0,
+    "fetched_at": "2026-09-14T08:48:39Z",
+    "for_sale": 65,
+    "lowest_price": 25.33,
     "suggested_prices": {
       "Good (G)": 7.83,
       "Mint (M)": 49.6,
@@ -1353,7 +1353,7 @@
   },
   "18050422": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:14Z",
+    "fetched_at": "2026-09-14T08:48:42Z",
     "for_sale": 16,
     "lowest_price": 24.89,
     "suggested_prices": {
@@ -1366,8 +1366,8 @@
   },
   "18097726": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:16Z",
-    "for_sale": 54,
+    "fetched_at": "2026-09-14T08:48:44Z",
+    "for_sale": 52,
     "lowest_price": 20.0,
     "suggested_prices": {
       "Good (G)": 7.32,
@@ -1379,8 +1379,8 @@
   },
   "18150907": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:19Z",
-    "for_sale": 90,
+    "fetched_at": "2026-09-14T08:48:47Z",
+    "for_sale": 89,
     "lowest_price": 12.0,
     "suggested_prices": {
       "Good (G)": 8.1,
@@ -1392,8 +1392,8 @@
   },
   "1841234": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:21Z",
-    "for_sale": 23,
+    "fetched_at": "2026-09-14T08:48:49Z",
+    "for_sale": 22,
     "lowest_price": 5.23,
     "suggested_prices": {
       "Good (G)": 5.02,
@@ -1405,7 +1405,7 @@
   },
   "18517270": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:24Z",
+    "fetched_at": "2026-09-14T08:48:52Z",
     "for_sale": 7,
     "lowest_price": 525.0,
     "suggested_prices": {
@@ -1418,20 +1418,20 @@
   },
   "18616948": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:26Z",
-    "for_sale": 39,
+    "fetched_at": "2026-09-14T08:48:54Z",
+    "for_sale": 40,
     "lowest_price": 32.56,
     "suggested_prices": {
-      "Good (G)": 9.17,
-      "Mint (M)": 58.1,
-      "Near Mint (NM or M-)": 51.99,
-      "Very Good (VG)": 27.52,
-      "Very Good Plus (VG+)": 39.75
+      "Good (G)": 10.41,
+      "Mint (M)": 65.96,
+      "Near Mint (NM or M-)": 59.02,
+      "Very Good (VG)": 31.24,
+      "Very Good Plus (VG+)": 45.13
     }
   },
   "1869494": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:29Z",
+    "fetched_at": "2026-09-14T08:48:57Z",
     "for_sale": 0,
     "lowest_price": null,
     "suggested_prices": {
@@ -1444,8 +1444,8 @@
   },
   "18697090": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:32Z",
-    "for_sale": 11,
+    "fetched_at": "2026-09-14T08:49:00Z",
+    "for_sale": 12,
     "lowest_price": 24.06,
     "suggested_prices": {
       "Good (G)": 56.59,
@@ -1457,7 +1457,7 @@
   },
   "18884065": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:34Z",
+    "fetched_at": "2026-09-14T08:49:02Z",
     "for_sale": 93,
     "lowest_price": 90.58,
     "suggested_prices": {
@@ -1470,7 +1470,7 @@
   },
   "1907831": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:37Z",
+    "fetched_at": "2026-09-14T08:49:05Z",
     "for_sale": 0,
     "lowest_price": null,
     "suggested_prices": {
@@ -1483,7 +1483,7 @@
   },
   "19125328": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:39Z",
+    "fetched_at": "2026-09-14T08:49:07Z",
     "for_sale": 18,
     "lowest_price": 23.46,
     "suggested_prices": {
@@ -1496,8 +1496,8 @@
   },
   "1914353": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:42Z",
-    "for_sale": 33,
+    "fetched_at": "2026-09-14T08:49:10Z",
+    "for_sale": 35,
     "lowest_price": 20.0,
     "suggested_prices": {
       "Good (G)": 39.25,
@@ -1509,8 +1509,8 @@
   },
   "19292413": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:44Z",
-    "for_sale": 56,
+    "fetched_at": "2026-09-14T08:49:13Z",
+    "for_sale": 58,
     "lowest_price": 30.0,
     "suggested_prices": {
       "Good (G)": 13.33,
@@ -1522,8 +1522,8 @@
   },
   "1942501": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:47Z",
-    "for_sale": 16,
+    "fetched_at": "2026-09-14T08:49:15Z",
+    "for_sale": 15,
     "lowest_price": 62.11,
     "suggested_prices": {
       "Good (G)": 72.16,
@@ -1535,8 +1535,8 @@
   },
   "1946625": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:51Z",
-    "for_sale": 32,
+    "fetched_at": "2026-09-14T08:49:18Z",
+    "for_sale": 33,
     "lowest_price": 15.0,
     "suggested_prices": {
       "Good (G)": 59.04,
@@ -1548,21 +1548,21 @@
   },
   "1954167": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:54Z",
-    "for_sale": 44,
-    "lowest_price": 17.6,
+    "fetched_at": "2026-09-14T08:49:20Z",
+    "for_sale": 41,
+    "lowest_price": 25.0,
     "suggested_prices": {
-      "Good (G)": 15.64,
-      "Mint (M)": 99.04,
-      "Near Mint (NM or M-)": 88.61,
-      "Very Good (VG)": 46.91,
-      "Very Good Plus (VG+)": 67.76
+      "Good (G)": 10.91,
+      "Mint (M)": 69.1,
+      "Near Mint (NM or M-)": 61.82,
+      "Very Good (VG)": 32.73,
+      "Very Good Plus (VG+)": 47.28
     }
   },
   "19583212": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:56Z",
-    "for_sale": 157,
+    "fetched_at": "2026-09-14T08:49:23Z",
+    "for_sale": 160,
     "lowest_price": 12.5,
     "suggested_prices": {
       "Good (G)": 8.46,
@@ -1574,9 +1574,9 @@
   },
   "19608823": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:11:59Z",
-    "for_sale": 4,
-    "lowest_price": 12.77,
+    "fetched_at": "2026-09-14T08:49:26Z",
+    "for_sale": 5,
+    "lowest_price": 7.19,
     "suggested_prices": {
       "Good (G)": 11.28,
       "Mint (M)": 71.44,
@@ -1587,8 +1587,8 @@
   },
   "1966323": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:02Z",
-    "for_sale": 3,
+    "fetched_at": "2026-09-14T08:49:28Z",
+    "for_sale": 4,
     "lowest_price": 59.99,
     "suggested_prices": {
       "Good (G)": 22.67,
@@ -1600,7 +1600,7 @@
   },
   "19716562": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:04Z",
+    "fetched_at": "2026-09-14T08:49:31Z",
     "for_sale": 4,
     "lowest_price": 59.99,
     "suggested_prices": {
@@ -1613,8 +1613,8 @@
   },
   "19794313": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:07Z",
-    "for_sale": 48,
+    "fetched_at": "2026-09-14T08:49:33Z",
+    "for_sale": 49,
     "lowest_price": 36.99,
     "suggested_prices": {
       "Good (G)": 26.76,
@@ -1626,9 +1626,9 @@
   },
   "1979996": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:09Z",
-    "for_sale": 27,
-    "lowest_price": 13.0,
+    "fetched_at": "2026-09-14T08:49:36Z",
+    "for_sale": 25,
+    "lowest_price": 20.49,
     "suggested_prices": {
       "Good (G)": 21.96,
       "Mint (M)": 139.1,
@@ -1639,9 +1639,9 @@
   },
   "1981546": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:12Z",
-    "for_sale": 22,
-    "lowest_price": 47.82,
+    "fetched_at": "2026-09-14T08:49:39Z",
+    "for_sale": 21,
+    "lowest_price": 69.99,
     "suggested_prices": {
       "Good (G)": 23.98,
       "Mint (M)": 151.86,
@@ -1652,7 +1652,7 @@
   },
   "1981568": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:14Z",
+    "fetched_at": "2026-09-14T08:49:41Z",
     "for_sale": 1,
     "lowest_price": 150.95,
     "suggested_prices": {
@@ -1665,7 +1665,7 @@
   },
   "19865380": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:17Z",
+    "fetched_at": "2026-09-14T08:49:44Z",
     "for_sale": 90,
     "lowest_price": 20.0,
     "suggested_prices": {
@@ -1678,7 +1678,7 @@
   },
   "19942006": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:20Z",
+    "fetched_at": "2026-09-14T08:49:46Z",
     "for_sale": 44,
     "lowest_price": 30.0,
     "suggested_prices": {
@@ -1691,8 +1691,8 @@
   },
   "2000393": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:23Z",
-    "for_sale": 19,
+    "fetched_at": "2026-09-14T08:49:49Z",
+    "for_sale": 18,
     "lowest_price": 9.99,
     "suggested_prices": {
       "Good (G)": 17.77,
@@ -1704,8 +1704,8 @@
   },
   "2006252": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:25Z",
-    "for_sale": 19,
+    "fetched_at": "2026-09-14T08:49:51Z",
+    "for_sale": 18,
     "lowest_price": 28.0,
     "suggested_prices": {
       "Good (G)": 9.17,
@@ -1717,7 +1717,7 @@
   },
   "2011442": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:28Z",
+    "fetched_at": "2026-09-14T08:49:54Z",
     "for_sale": 10,
     "lowest_price": 178.12,
     "suggested_prices": {
@@ -1730,9 +1730,9 @@
   },
   "2019733": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:30Z",
-    "for_sale": 8,
-    "lowest_price": 232.56,
+    "fetched_at": "2026-09-14T08:49:57Z",
+    "for_sale": 7,
+    "lowest_price": 300.0,
     "suggested_prices": {
       "Good (G)": 140.72,
       "Mint (M)": 891.2,
@@ -1743,7 +1743,7 @@
   },
   "2019742": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:33Z",
+    "fetched_at": "2026-09-14T08:49:59Z",
     "for_sale": 11,
     "lowest_price": 8.0,
     "suggested_prices": {
@@ -1756,7 +1756,7 @@
   },
   "20316430": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:35Z",
+    "fetched_at": "2026-09-14T08:50:02Z",
     "for_sale": 97,
     "lowest_price": 19.0,
     "suggested_prices": {
@@ -1769,8 +1769,8 @@
   },
   "20348707": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:38Z",
-    "for_sale": 96,
+    "fetched_at": "2026-09-14T08:50:04Z",
+    "for_sale": 98,
     "lowest_price": 16.67,
     "suggested_prices": {
       "Good (G)": 9.4,
@@ -1782,8 +1782,8 @@
   },
   "20407990": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:40Z",
-    "for_sale": 23,
+    "fetched_at": "2026-09-14T08:50:07Z",
+    "for_sale": 25,
     "lowest_price": 25.0,
     "suggested_prices": {
       "Good (G)": 15.19,
@@ -1795,9 +1795,9 @@
   },
   "20649181": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:43Z",
+    "fetched_at": "2026-09-14T08:50:10Z",
     "for_sale": 11,
-    "lowest_price": 40.81,
+    "lowest_price": 40.4,
     "suggested_prices": {
       "Good (G)": 13.33,
       "Mint (M)": 84.45,
@@ -1808,7 +1808,7 @@
   },
   "2065360": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:45Z",
+    "fetched_at": "2026-09-14T08:50:12Z",
     "for_sale": 0,
     "lowest_price": null,
     "suggested_prices": {
@@ -1821,9 +1821,9 @@
   },
   "2075721": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:48Z",
-    "for_sale": 26,
-    "lowest_price": 29.19,
+    "fetched_at": "2026-09-14T08:50:15Z",
+    "for_sale": 30,
+    "lowest_price": 29.7,
     "suggested_prices": {
       "Good (G)": 16.73,
       "Mint (M)": 105.95,
@@ -1834,8 +1834,8 @@
   },
   "21029962": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:51Z",
-    "for_sale": 76,
+    "fetched_at": "2026-09-14T08:50:17Z",
+    "for_sale": 78,
     "lowest_price": 25.0,
     "suggested_prices": {
       "Good (G)": 15.99,
@@ -1847,8 +1847,8 @@
   },
   "21035491": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:53Z",
-    "for_sale": 23,
+    "fetched_at": "2026-09-14T08:50:20Z",
+    "for_sale": 22,
     "lowest_price": 19.76,
     "suggested_prices": {
       "Good (G)": 7.25,
@@ -1860,9 +1860,9 @@
   },
   "2108087": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:56Z",
+    "fetched_at": "2026-09-14T08:50:22Z",
     "for_sale": 10,
-    "lowest_price": 120.0,
+    "lowest_price": 174.42,
     "suggested_prices": {
       "Good (G)": 180.41,
       "Mint (M)": 1142.57,
@@ -1873,8 +1873,8 @@
   },
   "2110043": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:12:58Z",
-    "for_sale": 58,
+    "fetched_at": "2026-09-14T08:50:25Z",
+    "for_sale": 60,
     "lowest_price": 12.0,
     "suggested_prices": {
       "Good (G)": 35.36,
@@ -1886,7 +1886,7 @@
   },
   "2117287": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:01Z",
+    "fetched_at": "2026-09-14T08:50:28Z",
     "for_sale": 38,
     "lowest_price": 20.64,
     "suggested_prices": {
@@ -1899,22 +1899,22 @@
   },
   "2122223": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:03Z",
+    "fetched_at": "2026-09-14T08:50:30Z",
     "for_sale": 42,
     "lowest_price": 22.59,
     "suggested_prices": {
-      "Good (G)": 13.36,
-      "Mint (M)": 84.62,
-      "Near Mint (NM or M-)": 75.71,
-      "Very Good (VG)": 40.08,
-      "Very Good Plus (VG+)": 57.9
+      "Good (G)": 13.6,
+      "Mint (M)": 86.12,
+      "Near Mint (NM or M-)": 77.06,
+      "Very Good (VG)": 40.79,
+      "Very Good Plus (VG+)": 58.93
     }
   },
   "2132290": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:06Z",
+    "fetched_at": "2026-09-14T08:50:33Z",
     "for_sale": 13,
-    "lowest_price": 127.89,
+    "lowest_price": 130.15,
     "suggested_prices": {
       "Good (G)": 47.95,
       "Mint (M)": 303.68,
@@ -1925,7 +1925,7 @@
   },
   "2155244": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:08Z",
+    "fetched_at": "2026-09-14T08:50:36Z",
     "for_sale": 5,
     "lowest_price": 199.98,
     "suggested_prices": {
@@ -1938,7 +1938,7 @@
   },
   "21740968": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:11Z",
+    "fetched_at": "2026-09-14T08:50:38Z",
     "for_sale": 0,
     "lowest_price": null,
     "suggested_prices": {
@@ -1951,22 +1951,22 @@
   },
   "2189695": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:13Z",
+    "fetched_at": "2026-09-14T08:50:41Z",
     "for_sale": 11,
-    "lowest_price": 22.13,
+    "lowest_price": 22.5,
     "suggested_prices": {
-      "Good (G)": 9.75,
-      "Mint (M)": 61.75,
-      "Near Mint (NM or M-)": 55.25,
-      "Very Good (VG)": 29.25,
-      "Very Good Plus (VG+)": 42.25
+      "Good (G)": 9.92,
+      "Mint (M)": 62.85,
+      "Near Mint (NM or M-)": 56.23,
+      "Very Good (VG)": 29.77,
+      "Very Good Plus (VG+)": 43.0
     }
   },
   "2216318": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:16Z",
-    "for_sale": 48,
-    "lowest_price": 32.32,
+    "fetched_at": "2026-09-14T08:50:43Z",
+    "for_sale": 49,
+    "lowest_price": 32.9,
     "suggested_prices": {
       "Good (G)": 26.26,
       "Mint (M)": 166.33,
@@ -1977,8 +1977,8 @@
   },
   "2244709": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:19Z",
-    "for_sale": 19,
+    "fetched_at": "2026-09-14T08:50:46Z",
+    "for_sale": 18,
     "lowest_price": 10.0,
     "suggested_prices": {
       "Good (G)": 23.98,
@@ -1990,7 +1990,7 @@
   },
   "22458916": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:21Z",
+    "fetched_at": "2026-09-14T08:50:49Z",
     "for_sale": 2,
     "lowest_price": 529.0,
     "suggested_prices": {
@@ -2003,7 +2003,7 @@
   },
   "2252871": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:24Z",
+    "fetched_at": "2026-09-14T08:50:52Z",
     "for_sale": 21,
     "lowest_price": 25.0,
     "suggested_prices": {
@@ -2016,7 +2016,7 @@
   },
   "2261853": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:26Z",
+    "fetched_at": "2026-09-14T08:50:55Z",
     "for_sale": 10,
     "lowest_price": 10.0,
     "suggested_prices": {
@@ -2029,8 +2029,8 @@
   },
   "226414": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:29Z",
-    "for_sale": 48,
+    "fetched_at": "2026-09-14T08:50:57Z",
+    "for_sale": 50,
     "lowest_price": 13.33,
     "suggested_prices": {
       "Good (G)": 14.09,
@@ -2042,8 +2042,8 @@
   },
   "2271038": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:31Z",
-    "for_sale": 147,
+    "fetched_at": "2026-09-14T08:51:00Z",
+    "for_sale": 150,
     "lowest_price": 5.81,
     "suggested_prices": {
       "Good (G)": 12.84,
@@ -2055,8 +2055,8 @@
   },
   "22729826": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:34Z",
-    "for_sale": 36,
+    "fetched_at": "2026-09-14T08:51:03Z",
+    "for_sale": 34,
     "lowest_price": 39.95,
     "suggested_prices": {
       "Good (G)": 15.31,
@@ -2068,7 +2068,7 @@
   },
   "2277717": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:37Z",
+    "fetched_at": "2026-09-14T08:51:05Z",
     "for_sale": 26,
     "lowest_price": 61.2,
     "suggested_prices": {
@@ -2081,7 +2081,7 @@
   },
   "2317524": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:39Z",
+    "fetched_at": "2026-09-14T08:51:08Z",
     "for_sale": 10,
     "lowest_price": 46.31,
     "suggested_prices": {
@@ -2094,8 +2094,8 @@
   },
   "23290832": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:42Z",
-    "for_sale": 29,
+    "fetched_at": "2026-09-14T08:51:10Z",
+    "for_sale": 28,
     "lowest_price": 24.0,
     "suggested_prices": {
       "Good (G)": 13.2,
@@ -2107,8 +2107,8 @@
   },
   "2342633": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:44Z",
-    "for_sale": 19,
+    "fetched_at": "2026-09-14T08:51:13Z",
+    "for_sale": 21,
     "lowest_price": 4.95,
     "suggested_prices": {
       "Good (G)": 3.02,
@@ -2120,8 +2120,8 @@
   },
   "2360049": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:47Z",
-    "for_sale": 27,
+    "fetched_at": "2026-09-14T08:51:16Z",
+    "for_sale": 28,
     "lowest_price": 125.0,
     "suggested_prices": {
       "Good (G)": 78.07,
@@ -2133,20 +2133,20 @@
   },
   "23904962": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:49Z",
-    "for_sale": 51,
+    "fetched_at": "2026-09-14T08:51:18Z",
+    "for_sale": 52,
     "lowest_price": 17.44,
     "suggested_prices": {
-      "Good (G)": 12.24,
-      "Mint (M)": 77.54,
-      "Near Mint (NM or M-)": 69.38,
-      "Very Good (VG)": 36.73,
-      "Very Good Plus (VG+)": 53.05
+      "Good (G)": 14.08,
+      "Mint (M)": 89.17,
+      "Near Mint (NM or M-)": 79.79,
+      "Very Good (VG)": 42.24,
+      "Very Good Plus (VG+)": 61.01
     }
   },
   "2400742": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:52Z",
+    "fetched_at": "2026-09-14T08:51:21Z",
     "for_sale": 21,
     "lowest_price": 65.0,
     "suggested_prices": {
@@ -2159,7 +2159,7 @@
   },
   "2415967": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:55Z",
+    "fetched_at": "2026-09-14T08:51:23Z",
     "for_sale": 8,
     "lowest_price": 89.99,
     "suggested_prices": {
@@ -2172,8 +2172,8 @@
   },
   "2426187": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:13:57Z",
-    "for_sale": 20,
+    "fetched_at": "2026-09-14T08:51:26Z",
+    "for_sale": 22,
     "lowest_price": 23.26,
     "suggested_prices": {
       "Good (G)": 30.78,
@@ -2185,8 +2185,8 @@
   },
   "2426208": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:00Z",
-    "for_sale": 18,
+    "fetched_at": "2026-09-14T08:51:29Z",
+    "for_sale": 19,
     "lowest_price": 54.98,
     "suggested_prices": {
       "Good (G)": 30.06,
@@ -2198,9 +2198,9 @@
   },
   "24373778": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:02Z",
-    "for_sale": 66,
-    "lowest_price": 114.99,
+    "fetched_at": "2026-09-14T08:51:31Z",
+    "for_sale": 69,
+    "lowest_price": 109.73,
     "suggested_prices": {
       "Good (G)": 48.49,
       "Mint (M)": 307.08,
@@ -2211,9 +2211,9 @@
   },
   "2447595": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:05Z",
-    "for_sale": 20,
-    "lowest_price": 17.78,
+    "fetched_at": "2026-09-14T08:51:34Z",
+    "for_sale": 21,
+    "lowest_price": 17.56,
     "suggested_prices": {
       "Good (G)": 11.3,
       "Mint (M)": 71.57,
@@ -2224,7 +2224,7 @@
   },
   "24504497": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:07Z",
+    "fetched_at": "2026-09-14T08:51:36Z",
     "for_sale": 82,
     "lowest_price": 32.28,
     "suggested_prices": {
@@ -2237,9 +2237,9 @@
   },
   "24522110": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:10Z",
-    "for_sale": 119,
-    "lowest_price": 35.0,
+    "fetched_at": "2026-09-14T08:51:39Z",
+    "for_sale": 121,
+    "lowest_price": 32.0,
     "suggested_prices": {
       "Good (G)": 15.03,
       "Mint (M)": 95.18,
@@ -2250,8 +2250,8 @@
   },
   "2467928": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:12Z",
-    "for_sale": 33,
+    "fetched_at": "2026-09-14T08:51:42Z",
+    "for_sale": 35,
     "lowest_price": 20.0,
     "suggested_prices": {
       "Good (G)": 78.98,
@@ -2263,8 +2263,8 @@
   },
   "24779189": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:15Z",
-    "for_sale": 35,
+    "fetched_at": "2026-09-14T08:51:44Z",
+    "for_sale": 33,
     "lowest_price": 30.99,
     "suggested_prices": {
       "Good (G)": 12.11,
@@ -2276,9 +2276,9 @@
   },
   "2499163": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:18Z",
+    "fetched_at": "2026-09-14T08:51:47Z",
     "for_sale": 63,
-    "lowest_price": 3.07,
+    "lowest_price": 3.13,
     "suggested_prices": {
       "Good (G)": 16.47,
       "Mint (M)": 104.32,
@@ -2289,8 +2289,8 @@
   },
   "2506261": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:20Z",
-    "for_sale": 59,
+    "fetched_at": "2026-09-14T08:51:49Z",
+    "for_sale": 61,
     "lowest_price": 28.65,
     "suggested_prices": {
       "Good (G)": 9.75,
@@ -2302,8 +2302,8 @@
   },
   "2506823": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:23Z",
-    "for_sale": 55,
+    "fetched_at": "2026-09-14T08:51:52Z",
+    "for_sale": 52,
     "lowest_price": 30.23,
     "suggested_prices": {
       "Good (G)": 11.89,
@@ -2315,8 +2315,8 @@
   },
   "2513324": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:25Z",
-    "for_sale": 10,
+    "fetched_at": "2026-09-14T08:51:54Z",
+    "for_sale": 11,
     "lowest_price": 149.99,
     "suggested_prices": {
       "Good (G)": 83.61,
@@ -2328,9 +2328,9 @@
   },
   "2513425": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:28Z",
+    "fetched_at": "2026-09-14T08:51:57Z",
     "for_sale": 16,
-    "lowest_price": 47.26,
+    "lowest_price": 48.1,
     "suggested_prices": {
       "Good (G)": 97.55,
       "Mint (M)": 617.85,
@@ -2341,8 +2341,8 @@
   },
   "25191424": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:30Z",
-    "for_sale": 106,
+    "fetched_at": "2026-09-14T08:51:59Z",
+    "for_sale": 105,
     "lowest_price": 17.44,
     "suggested_prices": {
       "Good (G)": 11.21,
@@ -2354,9 +2354,9 @@
   },
   "2527331": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:33Z",
+    "fetched_at": "2026-09-14T08:52:02Z",
     "for_sale": 11,
-    "lowest_price": 90.0,
+    "lowest_price": 100.95,
     "suggested_prices": {
       "Good (G)": 171.54,
       "Mint (M)": 1086.42,
@@ -2367,9 +2367,9 @@
   },
   "2530637": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:35Z",
+    "fetched_at": "2026-09-14T08:52:05Z",
     "for_sale": 25,
-    "lowest_price": 69.99,
+    "lowest_price": 60.0,
     "suggested_prices": {
       "Good (G)": 36.25,
       "Mint (M)": 229.55,
@@ -2380,7 +2380,7 @@
   },
   "2542733": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:38Z",
+    "fetched_at": "2026-09-14T08:52:07Z",
     "for_sale": 9,
     "lowest_price": 69.96,
     "suggested_prices": {
@@ -2393,9 +2393,9 @@
   },
   "25484281": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:41Z",
+    "fetched_at": "2026-09-14T08:52:10Z",
     "for_sale": 93,
-    "lowest_price": 30.0,
+    "lowest_price": 28.0,
     "suggested_prices": {
       "Good (G)": 12.1,
       "Mint (M)": 76.62,
@@ -2406,9 +2406,9 @@
   },
   "25484383": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:44Z",
+    "fetched_at": "2026-09-14T08:52:12Z",
     "for_sale": 68,
-    "lowest_price": 20.0,
+    "lowest_price": 21.74,
     "suggested_prices": {
       "Good (G)": 9.16,
       "Mint (M)": 57.99,
@@ -2419,9 +2419,9 @@
   },
   "25739833": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:46Z",
-    "for_sale": 25,
-    "lowest_price": 40.0,
+    "fetched_at": "2026-09-14T08:52:15Z",
+    "for_sale": 26,
+    "lowest_price": 42.75,
     "suggested_prices": {
       "Good (G)": 28.84,
       "Mint (M)": 182.64,
@@ -2432,7 +2432,7 @@
   },
   "2587385": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:49Z",
+    "fetched_at": "2026-09-14T08:52:18Z",
     "for_sale": 6,
     "lowest_price": 127.83,
     "suggested_prices": {
@@ -2445,8 +2445,8 @@
   },
   "25980667": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:51Z",
-    "for_sale": 49,
+    "fetched_at": "2026-09-14T08:52:20Z",
+    "for_sale": 51,
     "lowest_price": 26.25,
     "suggested_prices": {
       "Good (G)": 14.89,
@@ -2458,9 +2458,9 @@
   },
   "2617240": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:54Z",
-    "for_sale": 3,
-    "lowest_price": 162.31,
+    "fetched_at": "2026-09-14T08:52:23Z",
+    "for_sale": 2,
+    "lowest_price": 186.05,
     "suggested_prices": {
       "Good (G)": 47.4,
       "Mint (M)": 300.18,
@@ -2471,7 +2471,7 @@
   },
   "2618697": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:56Z",
+    "fetched_at": "2026-09-14T08:52:25Z",
     "for_sale": 17,
     "lowest_price": 143.47,
     "suggested_prices": {
@@ -2484,8 +2484,8 @@
   },
   "2623855": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:14:59Z",
-    "for_sale": 5,
+    "fetched_at": "2026-09-14T08:52:28Z",
+    "for_sale": 6,
     "lowest_price": 10.57,
     "suggested_prices": {
       "Good (G)": 33.33,
@@ -2497,7 +2497,7 @@
   },
   "26251973": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:01Z",
+    "fetched_at": "2026-09-14T08:52:30Z",
     "for_sale": 0,
     "lowest_price": null,
     "suggested_prices": {
@@ -2510,9 +2510,9 @@
   },
   "26441327": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:04Z",
-    "for_sale": 96,
-    "lowest_price": 23.62,
+    "fetched_at": "2026-09-14T08:52:33Z",
+    "for_sale": 103,
+    "lowest_price": 24.0,
     "suggested_prices": {
       "Good (G)": 8.1,
       "Mint (M)": 51.3,
@@ -2523,8 +2523,8 @@
   },
   "2657162": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:06Z",
-    "for_sale": 13,
+    "fetched_at": "2026-09-14T08:52:36Z",
+    "for_sale": 15,
     "lowest_price": 99.95,
     "suggested_prices": {
       "Good (G)": 68.28,
@@ -2536,8 +2536,8 @@
   },
   "26604263": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:09Z",
-    "for_sale": 62,
+    "fetched_at": "2026-09-14T08:52:39Z",
+    "for_sale": 61,
     "lowest_price": 27.0,
     "suggested_prices": {
       "Good (G)": 14.55,
@@ -2549,8 +2549,8 @@
   },
   "2705676": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:12Z",
-    "for_sale": 10,
+    "fetched_at": "2026-09-14T08:52:42Z",
+    "for_sale": 11,
     "lowest_price": 17.9,
     "suggested_prices": {
       "Good (G)": 23.7,
@@ -2562,7 +2562,7 @@
   },
   "2721587": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:17Z",
+    "fetched_at": "2026-09-14T08:52:47Z",
     "for_sale": 15,
     "lowest_price": 149.99,
     "suggested_prices": {
@@ -2575,7 +2575,7 @@
   },
   "2726979": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:19Z",
+    "fetched_at": "2026-09-14T08:52:49Z",
     "for_sale": 7,
     "lowest_price": 120.0,
     "suggested_prices": {
@@ -2588,8 +2588,8 @@
   },
   "27345327": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:22Z",
-    "for_sale": 48,
+    "fetched_at": "2026-09-14T08:52:52Z",
+    "for_sale": 54,
     "lowest_price": 30.0,
     "suggested_prices": {
       "Good (G)": 15.76,
@@ -2601,7 +2601,7 @@
   },
   "2736558": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:24Z",
+    "fetched_at": "2026-09-14T08:52:55Z",
     "for_sale": 12,
     "lowest_price": 99.98,
     "suggested_prices": {
@@ -2614,7 +2614,7 @@
   },
   "27428121": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:27Z",
+    "fetched_at": "2026-09-14T08:52:57Z",
     "for_sale": 1,
     "lowest_price": 17.38,
     "suggested_prices": {
@@ -2627,9 +2627,9 @@
   },
   "2776761": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:29Z",
-    "for_sale": 26,
-    "lowest_price": 26.0,
+    "fetched_at": "2026-09-14T08:53:00Z",
+    "for_sale": 22,
+    "lowest_price": 24.86,
     "suggested_prices": {
       "Good (G)": 13.94,
       "Mint (M)": 88.29,
@@ -2640,8 +2640,8 @@
   },
   "2781435": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:32Z",
-    "for_sale": 8,
+    "fetched_at": "2026-09-14T08:53:02Z",
+    "for_sale": 9,
     "lowest_price": 26.31,
     "suggested_prices": {
       "Good (G)": 22.78,
@@ -2653,7 +2653,7 @@
   },
   "2790342": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:35Z",
+    "fetched_at": "2026-09-14T08:53:05Z",
     "for_sale": 6,
     "lowest_price": 69.77,
     "suggested_prices": {
@@ -2666,8 +2666,8 @@
   },
   "27972597": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:37Z",
-    "for_sale": 22,
+    "fetched_at": "2026-09-14T08:53:07Z",
+    "for_sale": 19,
     "lowest_price": 37.21,
     "suggested_prices": {
       "Good (G)": 52.12,
@@ -2679,9 +2679,9 @@
   },
   "2799032": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:40Z",
+    "fetched_at": "2026-09-14T08:53:10Z",
     "for_sale": 4,
-    "lowest_price": 46.51,
+    "lowest_price": 40.7,
     "suggested_prices": {
       "Good (G)": 55.01,
       "Mint (M)": 348.38,
@@ -2692,8 +2692,8 @@
   },
   "28210087": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:42Z",
-    "for_sale": 30,
+    "fetched_at": "2026-09-14T08:53:12Z",
+    "for_sale": 28,
     "lowest_price": 22.09,
     "suggested_prices": {
       "Good (G)": 41.82,
@@ -2705,8 +2705,8 @@
   },
   "2825456": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:45Z",
-    "for_sale": 35,
+    "fetched_at": "2026-09-14T08:53:15Z",
+    "for_sale": 28,
     "lowest_price": 13.0,
     "suggested_prices": {
       "Good (G)": 7.21,
@@ -2718,20 +2718,20 @@
   },
   "28538188": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:47Z",
-    "for_sale": 20,
-    "lowest_price": 40.0,
+    "fetched_at": "2026-09-14T08:53:18Z",
+    "for_sale": 19,
+    "lowest_price": 49.95,
     "suggested_prices": {
-      "Good (G)": 24.51,
-      "Mint (M)": 155.21,
-      "Near Mint (NM or M-)": 138.87,
-      "Very Good (VG)": 73.52,
-      "Very Good Plus (VG+)": 106.2
+      "Good (G)": 22.3,
+      "Mint (M)": 141.26,
+      "Near Mint (NM or M-)": 126.39,
+      "Very Good (VG)": 66.91,
+      "Very Good Plus (VG+)": 96.65
     }
   },
   "28540660": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:50Z",
+    "fetched_at": "2026-09-14T08:53:20Z",
     "for_sale": 1,
     "lowest_price": 99.99,
     "suggested_prices": {
@@ -2744,8 +2744,8 @@
   },
   "2856904": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:53Z",
-    "for_sale": 21,
+    "fetched_at": "2026-09-14T08:53:23Z",
+    "for_sale": 22,
     "lowest_price": 58.14,
     "suggested_prices": {
       "Good (G)": 30.64,
@@ -2757,8 +2757,8 @@
   },
   "2862128": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:55Z",
-    "for_sale": 9,
+    "fetched_at": "2026-09-14T08:53:25Z",
+    "for_sale": 11,
     "lowest_price": 22.09,
     "suggested_prices": {
       "Good (G)": 66.49,
@@ -2770,8 +2770,8 @@
   },
   "28640077": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:15:58Z",
-    "for_sale": 18,
+    "fetched_at": "2026-09-14T08:53:28Z",
+    "for_sale": 19,
     "lowest_price": 40.0,
     "suggested_prices": {
       "Good (G)": 25.92,
@@ -2783,8 +2783,8 @@
   },
   "28716559": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:00Z",
-    "for_sale": 12,
+    "fetched_at": "2026-09-14T08:53:31Z",
+    "for_sale": 14,
     "lowest_price": 20.26,
     "suggested_prices": {
       "Good (G)": 11.4,
@@ -2796,9 +2796,9 @@
   },
   "28861354": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:03Z",
-    "for_sale": 42,
-    "lowest_price": 35.0,
+    "fetched_at": "2026-09-14T08:53:33Z",
+    "for_sale": 44,
+    "lowest_price": 36.0,
     "suggested_prices": {
       "Good (G)": 12.96,
       "Mint (M)": 82.07,
@@ -2809,7 +2809,7 @@
   },
   "29043274": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:05Z",
+    "fetched_at": "2026-09-14T08:53:36Z",
     "for_sale": 46,
     "lowest_price": 57.55,
     "suggested_prices": {
@@ -2822,7 +2822,7 @@
   },
   "2912145": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:08Z",
+    "fetched_at": "2026-09-14T08:53:38Z",
     "for_sale": 50,
     "lowest_price": 25.0,
     "suggested_prices": {
@@ -2835,8 +2835,8 @@
   },
   "29189929": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:10Z",
-    "for_sale": 36,
+    "fetched_at": "2026-09-14T08:53:41Z",
+    "for_sale": 37,
     "lowest_price": 50.0,
     "suggested_prices": {
       "Good (G)": 22.19,
@@ -2848,8 +2848,8 @@
   },
   "2929861": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:13Z",
-    "for_sale": 92,
+    "fetched_at": "2026-09-14T08:53:44Z",
+    "for_sale": 93,
     "lowest_price": 21.29,
     "suggested_prices": {
       "Good (G)": 16.47,
@@ -2861,8 +2861,8 @@
   },
   "2936339": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:15Z",
-    "for_sale": 11,
+    "fetched_at": "2026-09-14T08:53:46Z",
+    "for_sale": 12,
     "lowest_price": 16.86,
     "suggested_prices": {
       "Good (G)": 24.3,
@@ -2874,7 +2874,7 @@
   },
   "2940887": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:21Z",
+    "fetched_at": "2026-09-14T08:53:51Z",
     "for_sale": 5,
     "lowest_price": 23.26,
     "suggested_prices": {
@@ -2887,8 +2887,8 @@
   },
   "2942743": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:23Z",
-    "for_sale": 9,
+    "fetched_at": "2026-09-14T08:53:54Z",
+    "for_sale": 10,
     "lowest_price": 135.0,
     "suggested_prices": {
       "Good (G)": 83.61,
@@ -2900,9 +2900,9 @@
   },
   "2954469": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:26Z",
-    "for_sale": 5,
-    "lowest_price": 80.0,
+    "fetched_at": "2026-09-14T08:53:56Z",
+    "for_sale": 6,
+    "lowest_price": 69.77,
     "suggested_prices": {
       "Good (G)": 26.06,
       "Mint (M)": 165.06,
@@ -2913,8 +2913,8 @@
   },
   "2975405": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:28Z",
-    "for_sale": 16,
+    "fetched_at": "2026-09-14T08:53:59Z",
+    "for_sale": 15,
     "lowest_price": 50.0,
     "suggested_prices": {
       "Good (G)": 37.09,
@@ -2926,8 +2926,8 @@
   },
   "2980546": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:31Z",
-    "for_sale": 18,
+    "fetched_at": "2026-09-14T08:54:01Z",
+    "for_sale": 19,
     "lowest_price": 26.78,
     "suggested_prices": {
       "Good (G)": 19.44,
@@ -2939,9 +2939,9 @@
   },
   "2993318": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:33Z",
-    "for_sale": 16,
-    "lowest_price": 50.0,
+    "fetched_at": "2026-09-14T08:54:04Z",
+    "for_sale": 15,
+    "lowest_price": 97.56,
     "suggested_prices": {
       "Good (G)": 253.88,
       "Mint (M)": 1607.89,
@@ -2952,21 +2952,21 @@
   },
   "29941381": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:36Z",
+    "fetched_at": "2026-09-14T08:54:07Z",
     "for_sale": 4,
     "lowest_price": 249.99,
     "suggested_prices": {
-      "Good (G)": 79.46,
-      "Mint (M)": 503.25,
-      "Near Mint (NM or M-)": 450.28,
-      "Very Good (VG)": 238.38,
-      "Very Good Plus (VG+)": 344.33
+      "Good (G)": 83.36,
+      "Mint (M)": 527.97,
+      "Near Mint (NM or M-)": 472.39,
+      "Very Good (VG)": 250.09,
+      "Very Good Plus (VG+)": 361.24
     }
   },
   "2997973": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:38Z",
-    "for_sale": 20,
+    "fetched_at": "2026-09-14T08:54:09Z",
+    "for_sale": 21,
     "lowest_price": 7.0,
     "suggested_prices": {
       "Good (G)": 20.64,
@@ -2978,9 +2978,9 @@
   },
   "30049555": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:41Z",
-    "for_sale": 37,
-    "lowest_price": 48.6,
+    "fetched_at": "2026-09-14T08:54:12Z",
+    "for_sale": 36,
+    "lowest_price": 48.99,
     "suggested_prices": {
       "Good (G)": 21.44,
       "Mint (M)": 135.79,
@@ -2991,8 +2991,8 @@
   },
   "30051634": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:44Z",
-    "for_sale": 36,
+    "fetched_at": "2026-09-14T08:54:15Z",
+    "for_sale": 32,
     "lowest_price": 35.0,
     "suggested_prices": {
       "Good (G)": 22.3,
@@ -3004,8 +3004,8 @@
   },
   "3009895": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:46Z",
-    "for_sale": 21,
+    "fetched_at": "2026-09-14T08:54:17Z",
+    "for_sale": 20,
     "lowest_price": 150.0,
     "suggested_prices": {
       "Good (G)": 72.73,
@@ -3017,21 +3017,21 @@
   },
   "30408008": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:49Z",
-    "for_sale": 18,
-    "lowest_price": 50.0,
+    "fetched_at": "2026-09-14T08:54:20Z",
+    "for_sale": 15,
+    "lowest_price": 54.64,
     "suggested_prices": {
-      "Good (G)": 12.51,
-      "Mint (M)": 79.2,
-      "Near Mint (NM or M-)": 70.87,
-      "Very Good (VG)": 37.52,
-      "Very Good Plus (VG+)": 54.19
+      "Good (G)": 14.09,
+      "Mint (M)": 89.22,
+      "Near Mint (NM or M-)": 79.83,
+      "Very Good (VG)": 42.26,
+      "Very Good Plus (VG+)": 61.05
     }
   },
   "3050687": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:51Z",
-    "for_sale": 9,
+    "fetched_at": "2026-09-14T08:54:22Z",
+    "for_sale": 8,
     "lowest_price": 19.95,
     "suggested_prices": {
       "Good (G)": 82.72,
@@ -3043,7 +3043,7 @@
   },
   "3080100": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:54Z",
+    "fetched_at": "2026-09-14T08:54:25Z",
     "for_sale": 8,
     "lowest_price": 67.44,
     "suggested_prices": {
@@ -3056,8 +3056,8 @@
   },
   "30804867": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:56Z",
-    "for_sale": 23,
+    "fetched_at": "2026-09-14T08:54:27Z",
+    "for_sale": 27,
     "lowest_price": 31.4,
     "suggested_prices": {
       "Good (G)": 20.21,
@@ -3069,7 +3069,7 @@
   },
   "3112828": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:16:59Z",
+    "fetched_at": "2026-09-14T08:54:30Z",
     "for_sale": 45,
     "lowest_price": 29.06,
     "suggested_prices": {
@@ -3082,8 +3082,8 @@
   },
   "31207348": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:01Z",
-    "for_sale": 46,
+    "fetched_at": "2026-09-14T08:54:32Z",
+    "for_sale": 45,
     "lowest_price": 21.98,
     "suggested_prices": {
       "Good (G)": 9.4,
@@ -3095,8 +3095,8 @@
   },
   "31288886": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:04Z",
-    "for_sale": 27,
+    "fetched_at": "2026-09-14T08:54:35Z",
+    "for_sale": 28,
     "lowest_price": 159.75,
     "suggested_prices": {
       "Good (G)": 66.55,
@@ -3108,8 +3108,8 @@
   },
   "31293074": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:07Z",
-    "for_sale": 32,
+    "fetched_at": "2026-09-14T08:54:38Z",
+    "for_sale": 33,
     "lowest_price": 149.75,
     "suggested_prices": {
       "Good (G)": 64.67,
@@ -3121,8 +3121,8 @@
   },
   "31381": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:10Z",
-    "for_sale": 44,
+    "fetched_at": "2026-09-14T08:54:41Z",
+    "for_sale": 42,
     "lowest_price": 5.98,
     "suggested_prices": {
       "Good (G)": 40.47,
@@ -3134,34 +3134,34 @@
   },
   "31384796": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:12Z",
+    "fetched_at": "2026-09-14T08:54:43Z",
     "for_sale": 24,
     "lowest_price": 21.5,
     "suggested_prices": {
-      "Good (G)": 13.38,
-      "Mint (M)": 84.74,
-      "Near Mint (NM or M-)": 75.82,
-      "Very Good (VG)": 40.14,
-      "Very Good Plus (VG+)": 57.98
+      "Good (G)": 13.31,
+      "Mint (M)": 84.32,
+      "Near Mint (NM or M-)": 75.44,
+      "Very Good (VG)": 39.94,
+      "Very Good Plus (VG+)": 57.69
     }
   },
   "31430060": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:15Z",
-    "for_sale": 23,
+    "fetched_at": "2026-09-14T08:54:46Z",
+    "for_sale": 22,
     "lowest_price": 32.44,
     "suggested_prices": {
-      "Good (G)": 10.61,
-      "Mint (M)": 67.22,
-      "Near Mint (NM or M-)": 60.15,
-      "Very Good (VG)": 31.84,
-      "Very Good Plus (VG+)": 45.99
+      "Good (G)": 12.21,
+      "Mint (M)": 77.31,
+      "Near Mint (NM or M-)": 69.17,
+      "Very Good (VG)": 36.62,
+      "Very Good Plus (VG+)": 52.89
     }
   },
   "3154908": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:17Z",
-    "for_sale": 16,
+    "fetched_at": "2026-09-14T08:54:48Z",
+    "for_sale": 17,
     "lowest_price": 40.0,
     "suggested_prices": {
       "Good (G)": 70.52,
@@ -3173,7 +3173,7 @@
   },
   "3163215": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:20Z",
+    "fetched_at": "2026-09-14T08:54:51Z",
     "for_sale": 0,
     "lowest_price": null,
     "suggested_prices": {
@@ -3186,9 +3186,9 @@
   },
   "3197967": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:22Z",
-    "for_sale": 11,
-    "lowest_price": 175.0,
+    "fetched_at": "2026-09-14T08:54:54Z",
+    "for_sale": 13,
+    "lowest_price": 155.0,
     "suggested_prices": {
       "Good (G)": 138.57,
       "Mint (M)": 877.6,
@@ -3199,7 +3199,7 @@
   },
   "3236651": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:25Z",
+    "fetched_at": "2026-09-14T08:54:56Z",
     "for_sale": 8,
     "lowest_price": 32.56,
     "suggested_prices": {
@@ -3212,7 +3212,7 @@
   },
   "33022326": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:27Z",
+    "fetched_at": "2026-09-14T08:54:59Z",
     "for_sale": 4,
     "lowest_price": 25.0,
     "suggested_prices": {
@@ -3225,8 +3225,8 @@
   },
   "33121785": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:30Z",
-    "for_sale": 14,
+    "fetched_at": "2026-09-14T08:55:01Z",
+    "for_sale": 15,
     "lowest_price": 43.23,
     "suggested_prices": {
       "Good (G)": 19.15,
@@ -3238,7 +3238,7 @@
   },
   "3327141": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:33Z",
+    "fetched_at": "2026-09-14T08:55:04Z",
     "for_sale": 4,
     "lowest_price": 167.95,
     "suggested_prices": {
@@ -3251,8 +3251,8 @@
   },
   "33275373": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:35Z",
-    "for_sale": 33,
+    "fetched_at": "2026-09-14T08:55:07Z",
+    "for_sale": 35,
     "lowest_price": 21.74,
     "suggested_prices": {
       "Good (G)": 12.83,
@@ -3264,7 +3264,7 @@
   },
   "33400274": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:38Z",
+    "fetched_at": "2026-09-14T08:55:10Z",
     "for_sale": 11,
     "lowest_price": 42.29,
     "suggested_prices": {
@@ -3277,7 +3277,7 @@
   },
   "3353360": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:40Z",
+    "fetched_at": "2026-09-14T08:55:13Z",
     "for_sale": 18,
     "lowest_price": 16.28,
     "suggested_prices": {
@@ -3290,8 +3290,8 @@
   },
   "3360149": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:43Z",
-    "for_sale": 33,
+    "fetched_at": "2026-09-14T08:55:15Z",
+    "for_sale": 39,
     "lowest_price": 30.0,
     "suggested_prices": {
       "Good (G)": 19.52,
@@ -3303,8 +3303,8 @@
   },
   "3378018": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:45Z",
-    "for_sale": 11,
+    "fetched_at": "2026-09-14T08:55:18Z",
+    "for_sale": 10,
     "lowest_price": 40.7,
     "suggested_prices": {
       "Good (G)": 34.85,
@@ -3316,7 +3316,7 @@
   },
   "3378635": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:48Z",
+    "fetched_at": "2026-09-14T08:55:21Z",
     "for_sale": 13,
     "lowest_price": 46.51,
     "suggested_prices": {
@@ -3329,8 +3329,8 @@
   },
   "3380009": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:51Z",
-    "for_sale": 45,
+    "fetched_at": "2026-09-14T08:55:24Z",
+    "for_sale": 44,
     "lowest_price": 19.48,
     "suggested_prices": {
       "Good (G)": 20.23,
@@ -3342,7 +3342,7 @@
   },
   "3380665": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:53Z",
+    "fetched_at": "2026-09-14T08:55:26Z",
     "for_sale": 15,
     "lowest_price": 226.74,
     "suggested_prices": {
@@ -3355,7 +3355,7 @@
   },
   "3382197": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:56Z",
+    "fetched_at": "2026-09-14T08:55:29Z",
     "for_sale": 7,
     "lowest_price": 399.99,
     "suggested_prices": {
@@ -3368,8 +3368,8 @@
   },
   "33848460": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:17:58Z",
-    "for_sale": 60,
+    "fetched_at": "2026-09-14T08:55:31Z",
+    "for_sale": 61,
     "lowest_price": 100.0,
     "suggested_prices": {
       "Good (G)": 44.49,
@@ -3381,7 +3381,7 @@
   },
   "3400248": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:01Z",
+    "fetched_at": "2026-09-14T08:55:34Z",
     "for_sale": 0,
     "lowest_price": null,
     "suggested_prices": {
@@ -3394,7 +3394,7 @@
   },
   "3408141": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:03Z",
+    "fetched_at": "2026-09-14T08:55:36Z",
     "for_sale": 19,
     "lowest_price": 34.99,
     "suggested_prices": {
@@ -3407,7 +3407,7 @@
   },
   "3415732": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:06Z",
+    "fetched_at": "2026-09-14T08:55:39Z",
     "for_sale": 4,
     "lowest_price": 2000.0,
     "suggested_prices": {
@@ -3420,7 +3420,7 @@
   },
   "3415863": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:08Z",
+    "fetched_at": "2026-09-14T08:55:41Z",
     "for_sale": 12,
     "lowest_price": 220.0,
     "suggested_prices": {
@@ -3433,7 +3433,7 @@
   },
   "3419426": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:11Z",
+    "fetched_at": "2026-09-14T08:55:44Z",
     "for_sale": 9,
     "lowest_price": 20.0,
     "suggested_prices": {
@@ -3446,8 +3446,8 @@
   },
   "34925762": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:13Z",
-    "for_sale": 24,
+    "fetched_at": "2026-09-14T08:55:47Z",
+    "for_sale": 21,
     "lowest_price": 129.98,
     "suggested_prices": {
       "Good (G)": 55.73,
@@ -3459,33 +3459,33 @@
   },
   "3492952": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:16Z",
-    "for_sale": 34,
-    "lowest_price": 28.78,
+    "fetched_at": "2026-09-14T08:55:49Z",
+    "for_sale": 35,
+    "lowest_price": 32.0,
     "suggested_prices": {
-      "Good (G)": 18.84,
-      "Mint (M)": 119.33,
-      "Near Mint (NM or M-)": 106.77,
-      "Very Good (VG)": 56.52,
-      "Very Good Plus (VG+)": 81.64
+      "Good (G)": 22.05,
+      "Mint (M)": 139.66,
+      "Near Mint (NM or M-)": 124.96,
+      "Very Good (VG)": 66.15,
+      "Very Good Plus (VG+)": 95.55
     }
   },
   "34957193": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:19Z",
-    "for_sale": 22,
-    "lowest_price": 31.99,
+    "fetched_at": "2026-09-14T08:55:52Z",
+    "for_sale": 29,
+    "lowest_price": 28.52,
     "suggested_prices": {
-      "Good (G)": 10.4,
-      "Mint (M)": 65.87,
-      "Near Mint (NM or M-)": 58.94,
-      "Very Good (VG)": 31.2,
-      "Very Good Plus (VG+)": 45.07
+      "Good (G)": 10.64,
+      "Mint (M)": 67.41,
+      "Near Mint (NM or M-)": 60.31,
+      "Very Good (VG)": 31.93,
+      "Very Good Plus (VG+)": 46.12
     }
   },
   "3496063": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:21Z",
+    "fetched_at": "2026-09-14T08:55:54Z",
     "for_sale": 19,
     "lowest_price": 100.0,
     "suggested_prices": {
@@ -3498,9 +3498,9 @@
   },
   "3504030": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:24Z",
+    "fetched_at": "2026-09-14T08:55:57Z",
     "for_sale": 36,
-    "lowest_price": 28.2,
+    "lowest_price": 28.7,
     "suggested_prices": {
       "Good (G)": 15.08,
       "Mint (M)": 95.52,
@@ -3511,9 +3511,9 @@
   },
   "3513495": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:26Z",
+    "fetched_at": "2026-09-14T08:55:59Z",
     "for_sale": 17,
-    "lowest_price": 59.89,
+    "lowest_price": 64.49,
     "suggested_prices": {
       "Good (G)": 30.92,
       "Mint (M)": 195.83,
@@ -3524,7 +3524,7 @@
   },
   "3518844": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:29Z",
+    "fetched_at": "2026-09-14T08:56:02Z",
     "for_sale": 12,
     "lowest_price": 12.0,
     "suggested_prices": {
@@ -3537,9 +3537,9 @@
   },
   "3526540": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:31Z",
-    "for_sale": 5,
-    "lowest_price": 127.91,
+    "fetched_at": "2026-09-14T08:56:05Z",
+    "for_sale": 6,
+    "lowest_price": 104.65,
     "suggested_prices": {
       "Good (G)": 61.31,
       "Mint (M)": 388.3,
@@ -3550,8 +3550,8 @@
   },
   "3541016": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:34Z",
-    "for_sale": 25,
+    "fetched_at": "2026-09-14T08:56:07Z",
+    "for_sale": 27,
     "lowest_price": 21.0,
     "suggested_prices": {
       "Good (G)": 23.97,
@@ -3563,7 +3563,7 @@
   },
   "3548638": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:37Z",
+    "fetched_at": "2026-09-14T08:56:10Z",
     "for_sale": 7,
     "lowest_price": 33.0,
     "suggested_prices": {
@@ -3576,8 +3576,8 @@
   },
   "3549349": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:39Z",
-    "for_sale": 17,
+    "fetched_at": "2026-09-14T08:56:12Z",
+    "for_sale": 20,
     "lowest_price": 17.43,
     "suggested_prices": {
       "Good (G)": 6.04,
@@ -3589,7 +3589,7 @@
   },
   "3557880": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:42Z",
+    "fetched_at": "2026-09-14T08:56:15Z",
     "for_sale": 2,
     "lowest_price": 279.07,
     "suggested_prices": {
@@ -3602,8 +3602,8 @@
   },
   "35596555": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:44Z",
-    "for_sale": 18,
+    "fetched_at": "2026-09-14T08:56:17Z",
+    "for_sale": 19,
     "lowest_price": 120.0,
     "suggested_prices": {
       "Good (G)": 40.4,
@@ -3615,8 +3615,8 @@
   },
   "35666779": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:47Z",
-    "for_sale": 17,
+    "fetched_at": "2026-09-14T08:56:20Z",
+    "for_sale": 15,
     "lowest_price": 64.95,
     "suggested_prices": {
       "Good (G)": 25.7,
@@ -3628,8 +3628,8 @@
   },
   "35912773": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:49Z",
-    "for_sale": 45,
+    "fetched_at": "2026-09-14T08:56:22Z",
+    "for_sale": 46,
     "lowest_price": 47.66,
     "suggested_prices": {
       "Good (G)": 16.73,
@@ -3641,8 +3641,8 @@
   },
   "3595311": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:52Z",
-    "for_sale": 10,
+    "fetched_at": "2026-09-14T08:56:25Z",
+    "for_sale": 9,
     "lowest_price": 50.0,
     "suggested_prices": {
       "Good (G)": 335.82,
@@ -3654,7 +3654,7 @@
   },
   "3611482": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:54Z",
+    "fetched_at": "2026-09-14T08:56:28Z",
     "for_sale": 3,
     "lowest_price": 64.99,
     "suggested_prices": {
@@ -3667,7 +3667,7 @@
   },
   "36150202": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:18:57Z",
+    "fetched_at": "2026-09-14T08:56:30Z",
     "for_sale": 24,
     "lowest_price": 33.99,
     "suggested_prices": {
@@ -3680,8 +3680,8 @@
   },
   "36150229": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:00Z",
-    "for_sale": 34,
+    "fetched_at": "2026-09-14T08:56:33Z",
+    "for_sale": 33,
     "lowest_price": 25.0,
     "suggested_prices": {
       "Good (G)": 13.27,
@@ -3693,8 +3693,8 @@
   },
   "3630941": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:02Z",
-    "for_sale": 5,
+    "fetched_at": "2026-09-14T08:56:35Z",
+    "for_sale": 6,
     "lowest_price": 24.0,
     "suggested_prices": {
       "Good (G)": 14.1,
@@ -3706,8 +3706,8 @@
   },
   "37006": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:06Z",
-    "for_sale": 43,
+    "fetched_at": "2026-09-14T08:56:38Z",
+    "for_sale": 42,
     "lowest_price": 49.99,
     "suggested_prices": {
       "Good (G)": 95.91,
@@ -3719,7 +3719,7 @@
   },
   "370754": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:08Z",
+    "fetched_at": "2026-09-14T08:56:41Z",
     "for_sale": 4,
     "lowest_price": 65.0,
     "suggested_prices": {
@@ -3732,7 +3732,7 @@
   },
   "371461": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:11Z",
+    "fetched_at": "2026-09-14T08:56:43Z",
     "for_sale": 44,
     "lowest_price": 5.0,
     "suggested_prices": {
@@ -3745,7 +3745,7 @@
   },
   "3720390": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:13Z",
+    "fetched_at": "2026-09-14T08:56:46Z",
     "for_sale": 10,
     "lowest_price": 90.0,
     "suggested_prices": {
@@ -3758,7 +3758,7 @@
   },
   "372109": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:16Z",
+    "fetched_at": "2026-09-14T08:56:48Z",
     "for_sale": 12,
     "lowest_price": 10.0,
     "suggested_prices": {
@@ -3771,8 +3771,8 @@
   },
   "37415985": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:19Z",
-    "for_sale": 68,
+    "fetched_at": "2026-09-14T08:56:51Z",
+    "for_sale": 69,
     "lowest_price": 36.75,
     "suggested_prices": {
       "Good (G)": 11.39,
@@ -3784,8 +3784,8 @@
   },
   "374507": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:21Z",
-    "for_sale": 20,
+    "fetched_at": "2026-09-14T08:56:54Z",
+    "for_sale": 21,
     "lowest_price": 178.32,
     "suggested_prices": {
       "Good (G)": 193.53,
@@ -3797,7 +3797,7 @@
   },
   "3746898": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:24Z",
+    "fetched_at": "2026-09-14T08:56:56Z",
     "for_sale": 3,
     "lowest_price": 15.0,
     "suggested_prices": {
@@ -3810,8 +3810,8 @@
   },
   "3747701": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:26Z",
-    "for_sale": 11,
+    "fetched_at": "2026-09-14T08:56:59Z",
+    "for_sale": 12,
     "lowest_price": 65.0,
     "suggested_prices": {
       "Good (G)": 75.25,
@@ -3823,7 +3823,7 @@
   },
   "37618128": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:29Z",
+    "fetched_at": "2026-09-14T08:57:02Z",
     "for_sale": 0,
     "lowest_price": null,
     "suggested_prices": {
@@ -3836,7 +3836,7 @@
   },
   "3771718": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:31Z",
+    "fetched_at": "2026-09-14T08:57:04Z",
     "for_sale": 6,
     "lowest_price": 200.0,
     "suggested_prices": {
@@ -3849,8 +3849,8 @@
   },
   "3775239": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:34Z",
-    "for_sale": 21,
+    "fetched_at": "2026-09-14T08:57:07Z",
+    "for_sale": 23,
     "lowest_price": 99.98,
     "suggested_prices": {
       "Good (G)": 69.67,
@@ -3862,8 +3862,8 @@
   },
   "3791080": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:36Z",
-    "for_sale": 31,
+    "fetched_at": "2026-09-14T08:57:09Z",
+    "for_sale": 32,
     "lowest_price": 55.99,
     "suggested_prices": {
       "Good (G)": 29.6,
@@ -3875,7 +3875,7 @@
   },
   "3804472": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:39Z",
+    "fetched_at": "2026-09-14T08:57:12Z",
     "for_sale": 3,
     "lowest_price": 38.0,
     "suggested_prices": {
@@ -3888,7 +3888,7 @@
   },
   "382469": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:41Z",
+    "fetched_at": "2026-09-14T08:57:14Z",
     "for_sale": 0,
     "lowest_price": null,
     "suggested_prices": {
@@ -3901,9 +3901,9 @@
   },
   "3835076": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:44Z",
-    "for_sale": 9,
-    "lowest_price": 73.04,
+    "fetched_at": "2026-09-14T08:57:17Z",
+    "for_sale": 10,
+    "lowest_price": 72.06,
     "suggested_prices": {
       "Good (G)": 190.6,
       "Mint (M)": 1207.13,
@@ -3914,8 +3914,8 @@
   },
   "3841623": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:47Z",
-    "for_sale": 24,
+    "fetched_at": "2026-09-14T08:57:20Z",
+    "for_sale": 26,
     "lowest_price": 50.0,
     "suggested_prices": {
       "Good (G)": 52.75,
@@ -3927,8 +3927,8 @@
   },
   "3858513": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:49Z",
-    "for_sale": 23,
+    "fetched_at": "2026-09-14T08:57:22Z",
+    "for_sale": 22,
     "lowest_price": 16.68,
     "suggested_prices": {
       "Good (G)": 33.18,
@@ -3940,8 +3940,8 @@
   },
   "386125": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:52Z",
-    "for_sale": 47,
+    "fetched_at": "2026-09-14T08:57:25Z",
+    "for_sale": 52,
     "lowest_price": 98.81,
     "suggested_prices": {
       "Good (G)": 83.4,
@@ -3953,8 +3953,8 @@
   },
   "3866394": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:54Z",
-    "for_sale": 61,
+    "fetched_at": "2026-09-14T08:57:27Z",
+    "for_sale": 60,
     "lowest_price": 38.0,
     "suggested_prices": {
       "Good (G)": 39.33,
@@ -3966,8 +3966,8 @@
   },
   "3877405": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:57Z",
-    "for_sale": 14,
+    "fetched_at": "2026-09-14T08:57:30Z",
+    "for_sale": 13,
     "lowest_price": 4.64,
     "suggested_prices": {
       "Good (G)": 4.92,
@@ -3979,8 +3979,8 @@
   },
   "3897169": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:19:59Z",
-    "for_sale": 39,
+    "fetched_at": "2026-09-14T08:57:32Z",
+    "for_sale": 37,
     "lowest_price": 16.22,
     "suggested_prices": {
       "Good (G)": 7.25,
@@ -3992,8 +3992,8 @@
   },
   "3898087": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:02Z",
-    "for_sale": 5,
+    "fetched_at": "2026-09-14T08:57:35Z",
+    "for_sale": 7,
     "lowest_price": 174.42,
     "suggested_prices": {
       "Good (G)": 180.41,
@@ -4005,7 +4005,7 @@
   },
   "3909676": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:04Z",
+    "fetched_at": "2026-09-14T08:57:38Z",
     "for_sale": 0,
     "lowest_price": null,
     "suggested_prices": {
@@ -4018,8 +4018,8 @@
   },
   "3917269": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:07Z",
-    "for_sale": 1,
+    "fetched_at": "2026-09-14T08:57:40Z",
+    "for_sale": 2,
     "lowest_price": 99.99,
     "suggested_prices": {
       "Good (G)": 95.9,
@@ -4031,9 +4031,9 @@
   },
   "3917736": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:09Z",
+    "fetched_at": "2026-09-14T08:57:43Z",
     "for_sale": 11,
-    "lowest_price": 137.3,
+    "lowest_price": 123.57,
     "suggested_prices": {
       "Good (G)": 119.89,
       "Mint (M)": 759.29,
@@ -4044,7 +4044,7 @@
   },
   "3934932": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:12Z",
+    "fetched_at": "2026-09-14T08:57:45Z",
     "for_sale": 7,
     "lowest_price": 150.0,
     "suggested_prices": {
@@ -4057,9 +4057,9 @@
   },
   "3934957": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:14Z",
+    "fetched_at": "2026-09-14T08:57:48Z",
     "for_sale": 13,
-    "lowest_price": 224.26,
+    "lowest_price": 228.23,
     "suggested_prices": {
       "Good (G)": 246.01,
       "Mint (M)": 1558.05,
@@ -4070,7 +4070,7 @@
   },
   "3936547": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:17Z",
+    "fetched_at": "2026-09-14T08:57:50Z",
     "for_sale": 36,
     "lowest_price": 15.99,
     "suggested_prices": {
@@ -4083,7 +4083,7 @@
   },
   "3937192": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:19Z",
+    "fetched_at": "2026-09-14T08:57:53Z",
     "for_sale": 44,
     "lowest_price": 23.26,
     "suggested_prices": {
@@ -4096,8 +4096,8 @@
   },
   "395634": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:22Z",
-    "for_sale": 16,
+    "fetched_at": "2026-09-14T08:57:55Z",
+    "for_sale": 17,
     "lowest_price": 30.23,
     "suggested_prices": {
       "Good (G)": 52.51,
@@ -4109,8 +4109,8 @@
   },
   "395747": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:25Z",
-    "for_sale": 40,
+    "fetched_at": "2026-09-14T08:57:58Z",
+    "for_sale": 36,
     "lowest_price": 5.0,
     "suggested_prices": {
       "Good (G)": 5.28,
@@ -4122,8 +4122,8 @@
   },
   "3979641": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:27Z",
-    "for_sale": 87,
+    "fetched_at": "2026-09-14T08:58:01Z",
+    "for_sale": 90,
     "lowest_price": 25.0,
     "suggested_prices": {
       "Good (G)": 10.88,
@@ -4135,22 +4135,22 @@
   },
   "4055226": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:30Z",
-    "for_sale": 18,
-    "lowest_price": 24.86,
+    "fetched_at": "2026-09-14T08:58:03Z",
+    "for_sale": 14,
+    "lowest_price": 25.73,
     "suggested_prices": {
-      "Good (G)": 15.31,
-      "Mint (M)": 96.97,
-      "Near Mint (NM or M-)": 86.76,
-      "Very Good (VG)": 45.93,
-      "Very Good Plus (VG+)": 66.35
+      "Good (G)": 17.61,
+      "Mint (M)": 111.52,
+      "Near Mint (NM or M-)": 99.78,
+      "Very Good (VG)": 52.82,
+      "Very Good Plus (VG+)": 76.3
     }
   },
   "4069438": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:32Z",
-    "for_sale": 5,
-    "lowest_price": 38.4,
+    "fetched_at": "2026-09-14T08:58:06Z",
+    "for_sale": 4,
+    "lowest_price": 39.09,
     "suggested_prices": {
       "Good (G)": 16.73,
       "Mint (M)": 105.95,
@@ -4161,7 +4161,7 @@
   },
   "4078103": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:35Z",
+    "fetched_at": "2026-09-14T08:58:08Z",
     "for_sale": 2,
     "lowest_price": 45.0,
     "suggested_prices": {
@@ -4174,8 +4174,8 @@
   },
   "4085008": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:37Z",
-    "for_sale": 29,
+    "fetched_at": "2026-09-14T08:58:11Z",
+    "for_sale": 30,
     "lowest_price": 58.13,
     "suggested_prices": {
       "Good (G)": 55.76,
@@ -4187,9 +4187,9 @@
   },
   "410609": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:40Z",
-    "for_sale": 13,
-    "lowest_price": 22.47,
+    "fetched_at": "2026-09-14T08:58:13Z",
+    "for_sale": 14,
+    "lowest_price": 20.0,
     "suggested_prices": {
       "Good (G)": 23.16,
       "Mint (M)": 146.66,
@@ -4200,7 +4200,7 @@
   },
   "4117533": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:42Z",
+    "fetched_at": "2026-09-14T08:58:16Z",
     "for_sale": 7,
     "lowest_price": 66.0,
     "suggested_prices": {
@@ -4213,7 +4213,7 @@
   },
   "4143037": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:45Z",
+    "fetched_at": "2026-09-14T08:58:19Z",
     "for_sale": 4,
     "lowest_price": 200.0,
     "suggested_prices": {
@@ -4226,9 +4226,9 @@
   },
   "4183685": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:48Z",
-    "for_sale": 23,
-    "lowest_price": 16.96,
+    "fetched_at": "2026-09-14T08:58:21Z",
+    "for_sale": 20,
+    "lowest_price": 17.26,
     "suggested_prices": {
       "Good (G)": 16.73,
       "Mint (M)": 105.95,
@@ -4239,8 +4239,8 @@
   },
   "4186775": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:50Z",
-    "for_sale": 15,
+    "fetched_at": "2026-09-14T08:58:24Z",
+    "for_sale": 14,
     "lowest_price": 34.88,
     "suggested_prices": {
       "Good (G)": 287.51,
@@ -4252,9 +4252,9 @@
   },
   "4231572": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:53Z",
+    "fetched_at": "2026-09-14T08:58:26Z",
     "for_sale": 5,
-    "lowest_price": 5.31,
+    "lowest_price": 4.79,
     "suggested_prices": {
       "Good (G)": 12.69,
       "Mint (M)": 80.4,
@@ -4265,7 +4265,7 @@
   },
   "4239636": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:55Z",
+    "fetched_at": "2026-09-14T08:58:29Z",
     "for_sale": 26,
     "lowest_price": 10.0,
     "suggested_prices": {
@@ -4278,8 +4278,8 @@
   },
   "424029": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:20:58Z",
-    "for_sale": 14,
+    "fetched_at": "2026-09-14T08:58:31Z",
+    "for_sale": 13,
     "lowest_price": 28.34,
     "suggested_prices": {
       "Good (G)": 8.39,
@@ -4291,8 +4291,8 @@
   },
   "424427": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:00Z",
-    "for_sale": 7,
+    "fetched_at": "2026-09-14T08:58:34Z",
+    "for_sale": 8,
     "lowest_price": 30.0,
     "suggested_prices": {
       "Good (G)": 98.37,
@@ -4304,7 +4304,7 @@
   },
   "424774": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:03Z",
+    "fetched_at": "2026-09-14T08:58:37Z",
     "for_sale": 9,
     "lowest_price": 35.0,
     "suggested_prices": {
@@ -4317,8 +4317,8 @@
   },
   "4271873": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:05Z",
-    "for_sale": 50,
+    "fetched_at": "2026-09-14T08:58:39Z",
+    "for_sale": 53,
     "lowest_price": 27.99,
     "suggested_prices": {
       "Good (G)": 10.4,
@@ -4330,7 +4330,7 @@
   },
   "4327349": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:08Z",
+    "fetched_at": "2026-09-14T08:58:42Z",
     "for_sale": 2,
     "lowest_price": 65.0,
     "suggested_prices": {
@@ -4343,7 +4343,7 @@
   },
   "4332389": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:10Z",
+    "fetched_at": "2026-09-14T08:58:44Z",
     "for_sale": 12,
     "lowest_price": 23.24,
     "suggested_prices": {
@@ -4356,7 +4356,7 @@
   },
   "4339219": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:13Z",
+    "fetched_at": "2026-09-14T08:58:47Z",
     "for_sale": 5,
     "lowest_price": 400.0,
     "suggested_prices": {
@@ -4369,7 +4369,7 @@
   },
   "4393358": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:16Z",
+    "fetched_at": "2026-09-14T08:58:50Z",
     "for_sale": 0,
     "lowest_price": null,
     "suggested_prices": {
@@ -4382,7 +4382,7 @@
   },
   "4393383": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:18Z",
+    "fetched_at": "2026-09-14T08:58:52Z",
     "for_sale": 8,
     "lowest_price": 150.0,
     "suggested_prices": {
@@ -4395,9 +4395,9 @@
   },
   "4403277": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:21Z",
-    "for_sale": 9,
-    "lowest_price": 51.91,
+    "fetched_at": "2026-09-14T08:58:55Z",
+    "for_sale": 5,
+    "lowest_price": 99.99,
     "suggested_prices": {
       "Good (G)": 104.55,
       "Mint (M)": 662.17,
@@ -4408,8 +4408,8 @@
   },
   "4408872": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:23Z",
-    "for_sale": 8,
+    "fetched_at": "2026-09-14T08:58:57Z",
+    "for_sale": 7,
     "lowest_price": 110.0,
     "suggested_prices": {
       "Good (G)": 141.04,
@@ -4421,8 +4421,8 @@
   },
   "4427710": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:26Z",
-    "for_sale": 10,
+    "fetched_at": "2026-09-14T08:59:00Z",
+    "for_sale": 12,
     "lowest_price": 45.0,
     "suggested_prices": {
       "Good (G)": 23.67,
@@ -4434,8 +4434,8 @@
   },
   "4493829": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:28Z",
-    "for_sale": 11,
+    "fetched_at": "2026-09-14T08:59:02Z",
+    "for_sale": 12,
     "lowest_price": 36.22,
     "suggested_prices": {
       "Good (G)": 19.18,
@@ -4447,7 +4447,7 @@
   },
   "4497482": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:31Z",
+    "fetched_at": "2026-09-14T08:59:05Z",
     "for_sale": 7,
     "lowest_price": 209.3,
     "suggested_prices": {
@@ -4460,7 +4460,7 @@
   },
   "4515555": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:33Z",
+    "fetched_at": "2026-09-14T08:59:08Z",
     "for_sale": 1,
     "lowest_price": 143.49,
     "suggested_prices": {
@@ -4473,20 +4473,20 @@
   },
   "4609609": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:36Z",
-    "for_sale": 11,
-    "lowest_price": 45.0,
+    "fetched_at": "2026-09-14T08:59:10Z",
+    "for_sale": 10,
+    "lowest_price": 75.0,
     "suggested_prices": {
-      "Good (G)": 56.42,
-      "Mint (M)": 357.31,
-      "Near Mint (NM or M-)": 319.7,
-      "Very Good (VG)": 169.25,
-      "Very Good Plus (VG+)": 244.48
+      "Good (G)": 73.78,
+      "Mint (M)": 467.25,
+      "Near Mint (NM or M-)": 418.07,
+      "Very Good (VG)": 221.33,
+      "Very Good Plus (VG+)": 319.7
     }
   },
   "4632226": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:38Z",
+    "fetched_at": "2026-09-14T08:59:13Z",
     "for_sale": 9,
     "lowest_price": 19.99,
     "suggested_prices": {
@@ -4499,8 +4499,8 @@
   },
   "468353": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:41Z",
-    "for_sale": 25,
+    "fetched_at": "2026-09-14T08:59:15Z",
+    "for_sale": 27,
     "lowest_price": 14.54,
     "suggested_prices": {
       "Good (G)": 11.99,
@@ -4512,22 +4512,22 @@
   },
   "4712200": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:44Z",
-    "for_sale": 43,
+    "fetched_at": "2026-09-14T08:59:18Z",
+    "for_sale": 40,
     "lowest_price": 39.99,
     "suggested_prices": {
-      "Good (G)": 32.18,
-      "Mint (M)": 203.78,
-      "Near Mint (NM or M-)": 182.33,
-      "Very Good (VG)": 96.53,
-      "Very Good Plus (VG+)": 139.43
+      "Good (G)": 31.78,
+      "Mint (M)": 201.3,
+      "Near Mint (NM or M-)": 180.11,
+      "Very Good (VG)": 95.35,
+      "Very Good Plus (VG+)": 137.73
     }
   },
   "4714314": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:46Z",
-    "for_sale": 19,
-    "lowest_price": 75.99,
+    "fetched_at": "2026-09-14T08:59:21Z",
+    "for_sale": 21,
+    "lowest_price": 74.99,
     "suggested_prices": {
       "Good (G)": 36.37,
       "Mint (M)": 230.32,
@@ -4538,7 +4538,7 @@
   },
   "4716235": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:49Z",
+    "fetched_at": "2026-09-14T08:59:23Z",
     "for_sale": 62,
     "lowest_price": 29.0,
     "suggested_prices": {
@@ -4551,8 +4551,8 @@
   },
   "4773442": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:51Z",
-    "for_sale": 43,
+    "fetched_at": "2026-09-14T08:59:26Z",
+    "for_sale": 47,
     "lowest_price": 19.0,
     "suggested_prices": {
       "Good (G)": 10.18,
@@ -4564,8 +4564,8 @@
   },
   "4798295": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:54Z",
-    "for_sale": 59,
+    "fetched_at": "2026-09-14T08:59:28Z",
+    "for_sale": 60,
     "lowest_price": 25.0,
     "suggested_prices": {
       "Good (G)": 8.97,
@@ -4577,7 +4577,7 @@
   },
   "4831551": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:57Z",
+    "fetched_at": "2026-09-14T08:59:31Z",
     "for_sale": 1,
     "lowest_price": 24.5,
     "suggested_prices": {
@@ -4590,8 +4590,8 @@
   },
   "4849512": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:21:59Z",
-    "for_sale": 18,
+    "fetched_at": "2026-09-14T08:59:33Z",
+    "for_sale": 16,
     "lowest_price": 5.39,
     "suggested_prices": {
       "Good (G)": 97.75,
@@ -4603,7 +4603,7 @@
   },
   "4869491": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:02Z",
+    "fetched_at": "2026-09-14T08:59:36Z",
     "for_sale": 14,
     "lowest_price": 14.0,
     "suggested_prices": {
@@ -4616,7 +4616,7 @@
   },
   "488973": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:04Z",
+    "fetched_at": "2026-09-14T08:59:39Z",
     "for_sale": 5,
     "lowest_price": 60.0,
     "suggested_prices": {
@@ -4629,8 +4629,8 @@
   },
   "490628": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:07Z",
-    "for_sale": 58,
+    "fetched_at": "2026-09-14T08:59:41Z",
+    "for_sale": 59,
     "lowest_price": 35.0,
     "suggested_prices": {
       "Good (G)": 46.8,
@@ -4642,9 +4642,9 @@
   },
   "4923105": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:09Z",
+    "fetched_at": "2026-09-14T08:59:44Z",
     "for_sale": 66,
-    "lowest_price": 39.0,
+    "lowest_price": 39.99,
     "suggested_prices": {
       "Good (G)": 21.13,
       "Mint (M)": 133.83,
@@ -4655,22 +4655,22 @@
   },
   "4923574": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:12Z",
-    "for_sale": 14,
-    "lowest_price": 11.0,
+    "fetched_at": "2026-09-14T08:59:46Z",
+    "for_sale": 13,
+    "lowest_price": 11.05,
     "suggested_prices": {
-      "Good (G)": 5.58,
-      "Mint (M)": 35.32,
-      "Near Mint (NM or M-)": 31.6,
-      "Very Good (VG)": 16.73,
-      "Very Good Plus (VG+)": 24.16
+      "Good (G)": 4.85,
+      "Mint (M)": 30.71,
+      "Near Mint (NM or M-)": 27.48,
+      "Very Good (VG)": 14.55,
+      "Very Good Plus (VG+)": 21.01
     }
   },
   "4938344": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:14Z",
+    "fetched_at": "2026-09-14T08:59:50Z",
     "for_sale": 15,
-    "lowest_price": 25.0,
+    "lowest_price": 29.07,
     "suggested_prices": {
       "Good (G)": 15.09,
       "Mint (M)": 95.59,
@@ -4681,20 +4681,20 @@
   },
   "5039954": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:17Z",
-    "for_sale": 44,
-    "lowest_price": 17.67,
+    "fetched_at": "2026-09-14T08:59:53Z",
+    "for_sale": 47,
+    "lowest_price": 17.98,
     "suggested_prices": {
-      "Good (G)": 25.26,
-      "Mint (M)": 159.96,
-      "Near Mint (NM or M-)": 143.12,
-      "Very Good (VG)": 75.77,
-      "Very Good Plus (VG+)": 109.45
+      "Good (G)": 21.96,
+      "Mint (M)": 139.1,
+      "Near Mint (NM or M-)": 124.45,
+      "Very Good (VG)": 65.89,
+      "Very Good Plus (VG+)": 95.17
     }
   },
   "5052985": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:19Z",
+    "fetched_at": "2026-09-14T08:59:55Z",
     "for_sale": 1,
     "lowest_price": 3.2,
     "suggested_prices": {
@@ -4707,7 +4707,7 @@
   },
   "5109867": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:22Z",
+    "fetched_at": "2026-09-14T08:59:58Z",
     "for_sale": 3,
     "lowest_price": 2.91,
     "suggested_prices": {
@@ -4720,7 +4720,7 @@
   },
   "5113505": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:25Z",
+    "fetched_at": "2026-09-14T09:00:00Z",
     "for_sale": 3,
     "lowest_price": 40.2,
     "suggested_prices": {
@@ -4733,8 +4733,8 @@
   },
   "5142904": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:27Z",
-    "for_sale": 13,
+    "fetched_at": "2026-09-14T09:00:03Z",
+    "for_sale": 11,
     "lowest_price": 25.15,
     "suggested_prices": {
       "Good (G)": 10.64,
@@ -4746,7 +4746,7 @@
   },
   "5164493": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:30Z",
+    "fetched_at": "2026-09-14T09:00:06Z",
     "for_sale": 16,
     "lowest_price": 52.33,
     "suggested_prices": {
@@ -4759,9 +4759,9 @@
   },
   "5166551": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:33Z",
+    "fetched_at": "2026-09-14T09:00:08Z",
     "for_sale": 5,
-    "lowest_price": 30.89,
+    "lowest_price": 30.59,
     "suggested_prices": {
       "Good (G)": 18.12,
       "Mint (M)": 114.78,
@@ -4772,8 +4772,8 @@
   },
   "5186127": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:35Z",
-    "for_sale": 56,
+    "fetched_at": "2026-09-14T09:00:11Z",
+    "for_sale": 57,
     "lowest_price": 12.32,
     "suggested_prices": {
       "Good (G)": 9.19,
@@ -4785,8 +4785,8 @@
   },
   "5189885": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:38Z",
-    "for_sale": 9,
+    "fetched_at": "2026-09-14T09:00:14Z",
+    "for_sale": 10,
     "lowest_price": 235.53,
     "suggested_prices": {
       "Good (G)": 145.44,
@@ -4798,8 +4798,8 @@
   },
   "519402": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:40Z",
-    "for_sale": 46,
+    "fetched_at": "2026-09-14T09:00:16Z",
+    "for_sale": 45,
     "lowest_price": 4.64,
     "suggested_prices": {
       "Good (G)": 9.26,
@@ -4811,7 +4811,7 @@
   },
   "5195430": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:43Z",
+    "fetched_at": "2026-09-14T09:00:19Z",
     "for_sale": 4,
     "lowest_price": 6.98,
     "suggested_prices": {
@@ -4824,7 +4824,7 @@
   },
   "5223683": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:45Z",
+    "fetched_at": "2026-09-14T09:00:21Z",
     "for_sale": 8,
     "lowest_price": 10.47,
     "suggested_prices": {
@@ -4837,8 +4837,8 @@
   },
   "5275186": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:48Z",
-    "for_sale": 8,
+    "fetched_at": "2026-09-14T09:00:24Z",
+    "for_sale": 7,
     "lowest_price": 11.0,
     "suggested_prices": {
       "Good (G)": 40.52,
@@ -4850,8 +4850,8 @@
   },
   "5322863": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:51Z",
-    "for_sale": 62,
+    "fetched_at": "2026-09-14T09:00:26Z",
+    "for_sale": 63,
     "lowest_price": 13.99,
     "suggested_prices": {
       "Good (G)": 20.27,
@@ -4863,7 +4863,7 @@
   },
   "5349832": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:53Z",
+    "fetched_at": "2026-09-14T09:00:29Z",
     "for_sale": 36,
     "lowest_price": 60.0,
     "suggested_prices": {
@@ -4876,8 +4876,8 @@
   },
   "5354019": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:56Z",
-    "for_sale": 13,
+    "fetched_at": "2026-09-14T09:00:32Z",
+    "for_sale": 12,
     "lowest_price": 120.99,
     "suggested_prices": {
       "Good (G)": 67.64,
@@ -4889,8 +4889,8 @@
   },
   "5381783": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:22:58Z",
-    "for_sale": 42,
+    "fetched_at": "2026-09-14T09:00:34Z",
+    "for_sale": 43,
     "lowest_price": 31.0,
     "suggested_prices": {
       "Good (G)": 25.1,
@@ -4902,7 +4902,7 @@
   },
   "5456857": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:01Z",
+    "fetched_at": "2026-09-14T09:00:37Z",
     "for_sale": 6,
     "lowest_price": 31.5,
     "suggested_prices": {
@@ -4915,7 +4915,7 @@
   },
   "5478479": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:03Z",
+    "fetched_at": "2026-09-14T09:00:39Z",
     "for_sale": 4,
     "lowest_price": 116.28,
     "suggested_prices": {
@@ -4928,8 +4928,8 @@
   },
   "549847": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:07Z",
-    "for_sale": 26,
+    "fetched_at": "2026-09-14T09:00:42Z",
+    "for_sale": 25,
     "lowest_price": 50.0,
     "suggested_prices": {
       "Good (G)": 130.88,
@@ -4941,7 +4941,7 @@
   },
   "5504247": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:10Z",
+    "fetched_at": "2026-09-14T09:00:45Z",
     "for_sale": 18,
     "lowest_price": 100.0,
     "suggested_prices": {
@@ -4954,21 +4954,21 @@
   },
   "557286": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:12Z",
-    "for_sale": 19,
+    "fetched_at": "2026-09-14T09:00:47Z",
+    "for_sale": 17,
     "lowest_price": 6.5,
     "suggested_prices": {
-      "Good (G)": 13.68,
-      "Mint (M)": 86.67,
-      "Near Mint (NM or M-)": 77.55,
-      "Very Good (VG)": 41.05,
-      "Very Good Plus (VG+)": 59.3
+      "Good (G)": 14.1,
+      "Mint (M)": 89.33,
+      "Near Mint (NM or M-)": 79.92,
+      "Very Good (VG)": 42.31,
+      "Very Good Plus (VG+)": 61.12
     }
   },
   "5575735": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:15Z",
-    "for_sale": 5,
+    "fetched_at": "2026-09-14T09:00:50Z",
+    "for_sale": 7,
     "lowest_price": 199.0,
     "suggested_prices": {
       "Good (G)": 75.0,
@@ -4980,8 +4980,8 @@
   },
   "5612513": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:17Z",
-    "for_sale": 95,
+    "fetched_at": "2026-09-14T09:00:52Z",
+    "for_sale": 99,
     "lowest_price": 19.35,
     "suggested_prices": {
       "Good (G)": 10.18,
@@ -4993,7 +4993,7 @@
   },
   "5687834": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:20Z",
+    "fetched_at": "2026-09-14T09:00:55Z",
     "for_sale": 7,
     "lowest_price": 115.01,
     "suggested_prices": {
@@ -5006,9 +5006,9 @@
   },
   "5720655": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:22Z",
-    "for_sale": 20,
-    "lowest_price": 19.88,
+    "fetched_at": "2026-09-14T09:00:57Z",
+    "for_sale": 19,
+    "lowest_price": 25.0,
     "suggested_prices": {
       "Good (G)": 49.86,
       "Mint (M)": 315.76,
@@ -5019,8 +5019,8 @@
   },
   "572717": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:25Z",
-    "for_sale": 15,
+    "fetched_at": "2026-09-14T09:01:00Z",
+    "for_sale": 14,
     "lowest_price": 84.99,
     "suggested_prices": {
       "Good (G)": 55.81,
@@ -5032,9 +5032,9 @@
   },
   "5738035": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:27Z",
-    "for_sale": 15,
-    "lowest_price": 29.73,
+    "fetched_at": "2026-09-14T09:01:03Z",
+    "for_sale": 13,
+    "lowest_price": 34.95,
     "suggested_prices": {
       "Good (G)": 9.59,
       "Mint (M)": 60.73,
@@ -5045,7 +5045,7 @@
   },
   "5796502": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:30Z",
+    "fetched_at": "2026-09-14T09:01:05Z",
     "for_sale": 9,
     "lowest_price": 9.3,
     "suggested_prices": {
@@ -5058,9 +5058,9 @@
   },
   "5804415": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:33Z",
+    "fetched_at": "2026-09-14T09:01:08Z",
     "for_sale": 66,
-    "lowest_price": 50.72,
+    "lowest_price": 59.88,
     "suggested_prices": {
       "Good (G)": 23.03,
       "Mint (M)": 145.87,
@@ -5071,7 +5071,7 @@
   },
   "5833512": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:35Z",
+    "fetched_at": "2026-09-14T09:01:10Z",
     "for_sale": 0,
     "lowest_price": null,
     "suggested_prices": {
@@ -5084,9 +5084,9 @@
   },
   "5835192": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:38Z",
+    "fetched_at": "2026-09-14T09:01:13Z",
     "for_sale": 20,
-    "lowest_price": 50.0,
+    "lowest_price": 80.23,
     "suggested_prices": {
       "Good (G)": 52.69,
       "Mint (M)": 333.73,
@@ -5097,20 +5097,20 @@
   },
   "584022": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:40Z",
+    "fetched_at": "2026-09-14T09:01:16Z",
     "for_sale": 96,
-    "lowest_price": 2.67,
+    "lowest_price": 2.62,
     "suggested_prices": {
-      "Good (G)": 6.56,
-      "Mint (M)": 41.53,
-      "Near Mint (NM or M-)": 37.16,
-      "Very Good (VG)": 19.67,
-      "Very Good Plus (VG+)": 28.41
+      "Good (G)": 5.7,
+      "Mint (M)": 36.11,
+      "Near Mint (NM or M-)": 32.31,
+      "Very Good (VG)": 17.1,
+      "Very Good Plus (VG+)": 24.71
     }
   },
   "5851206": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:43Z",
+    "fetched_at": "2026-09-14T09:01:18Z",
     "for_sale": 14,
     "lowest_price": 125.0,
     "suggested_prices": {
@@ -5123,8 +5123,8 @@
   },
   "5851213": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:45Z",
-    "for_sale": 21,
+    "fetched_at": "2026-09-14T09:01:21Z",
+    "for_sale": 19,
     "lowest_price": 94.2,
     "suggested_prices": {
       "Good (G)": 31.52,
@@ -5136,9 +5136,9 @@
   },
   "5871578": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:48Z",
+    "fetched_at": "2026-09-14T09:01:23Z",
     "for_sale": 22,
-    "lowest_price": 27.0,
+    "lowest_price": 29.99,
     "suggested_prices": {
       "Good (G)": 21.39,
       "Mint (M)": 135.48,
@@ -5149,7 +5149,7 @@
   },
   "5876487": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:51Z",
+    "fetched_at": "2026-09-14T09:01:26Z",
     "for_sale": 7,
     "lowest_price": 160.0,
     "suggested_prices": {
@@ -5162,7 +5162,7 @@
   },
   "5923976": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:53Z",
+    "fetched_at": "2026-09-14T09:01:29Z",
     "for_sale": 4,
     "lowest_price": 40.0,
     "suggested_prices": {
@@ -5175,7 +5175,7 @@
   },
   "6011184": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:56Z",
+    "fetched_at": "2026-09-14T09:01:31Z",
     "for_sale": 19,
     "lowest_price": 105.0,
     "suggested_prices": {
@@ -5188,7 +5188,7 @@
   },
   "6024135": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:23:58Z",
+    "fetched_at": "2026-09-14T09:01:34Z",
     "for_sale": 3,
     "lowest_price": 116.28,
     "suggested_prices": {
@@ -5201,7 +5201,7 @@
   },
   "6046217": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:01Z",
+    "fetched_at": "2026-09-14T09:01:36Z",
     "for_sale": 0,
     "lowest_price": null,
     "suggested_prices": {
@@ -5214,7 +5214,7 @@
   },
   "6190224": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:03Z",
+    "fetched_at": "2026-09-14T09:01:39Z",
     "for_sale": 1,
     "lowest_price": 406.98,
     "suggested_prices": {
@@ -5227,7 +5227,7 @@
   },
   "6243620": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:06Z",
+    "fetched_at": "2026-09-14T09:01:42Z",
     "for_sale": 13,
     "lowest_price": 74.99,
     "suggested_prices": {
@@ -5240,9 +5240,9 @@
   },
   "6253121": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:08Z",
-    "for_sale": 45,
-    "lowest_price": 21.44,
+    "fetched_at": "2026-09-14T09:01:44Z",
+    "for_sale": 46,
+    "lowest_price": 21.82,
     "suggested_prices": {
       "Good (G)": 14.55,
       "Mint (M)": 92.13,
@@ -5253,8 +5253,8 @@
   },
   "6293734": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:11Z",
-    "for_sale": 20,
+    "fetched_at": "2026-09-14T09:01:47Z",
+    "for_sale": 21,
     "lowest_price": 4.99,
     "suggested_prices": {
       "Good (G)": 9.59,
@@ -5266,8 +5266,8 @@
   },
   "6304011": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:14Z",
-    "for_sale": 7,
+    "fetched_at": "2026-09-14T09:01:49Z",
+    "for_sale": 9,
     "lowest_price": 1.98,
     "suggested_prices": {
       "Good (G)": 19.75,
@@ -5279,9 +5279,9 @@
   },
   "636663": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:16Z",
-    "for_sale": 53,
-    "lowest_price": 2.0,
+    "fetched_at": "2026-09-14T09:01:52Z",
+    "for_sale": 55,
+    "lowest_price": 1.92,
     "suggested_prices": {
       "Good (G)": 8.59,
       "Mint (M)": 54.37,
@@ -5292,8 +5292,8 @@
   },
   "6401273": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:19Z",
-    "for_sale": 2,
+    "fetched_at": "2026-09-14T09:01:54Z",
+    "for_sale": 4,
     "lowest_price": 143.0,
     "suggested_prices": {
       "Good (G)": 111.5,
@@ -5305,7 +5305,7 @@
   },
   "6451173": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:21Z",
+    "fetched_at": "2026-09-14T09:01:57Z",
     "for_sale": 18,
     "lowest_price": 63.94,
     "suggested_prices": {
@@ -5318,8 +5318,8 @@
   },
   "6454559": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:25Z",
-    "for_sale": 44,
+    "fetched_at": "2026-09-14T09:02:00Z",
+    "for_sale": 40,
     "lowest_price": 42.55,
     "suggested_prices": {
       "Good (G)": 32.8,
@@ -5331,9 +5331,9 @@
   },
   "6462527": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:27Z",
-    "for_sale": 24,
-    "lowest_price": 30.72,
+    "fetched_at": "2026-09-14T09:02:02Z",
+    "for_sale": 28,
+    "lowest_price": 31.27,
     "suggested_prices": {
       "Good (G)": 24.6,
       "Mint (M)": 155.8,
@@ -5344,9 +5344,9 @@
   },
   "6502013": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:30Z",
+    "fetched_at": "2026-09-14T09:02:05Z",
     "for_sale": 16,
-    "lowest_price": 27.52,
+    "lowest_price": 28.01,
     "suggested_prices": {
       "Good (G)": 9.76,
       "Mint (M)": 61.78,
@@ -5357,7 +5357,7 @@
   },
   "6513605": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:32Z",
+    "fetched_at": "2026-09-14T09:02:07Z",
     "for_sale": 22,
     "lowest_price": 30.38,
     "suggested_prices": {
@@ -5370,7 +5370,7 @@
   },
   "654119": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:35Z",
+    "fetched_at": "2026-09-14T09:02:10Z",
     "for_sale": 8,
     "lowest_price": 15.0,
     "suggested_prices": {
@@ -5383,7 +5383,7 @@
   },
   "6584452": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:37Z",
+    "fetched_at": "2026-09-14T09:02:12Z",
     "for_sale": 5,
     "lowest_price": 23.99,
     "suggested_prices": {
@@ -5396,7 +5396,7 @@
   },
   "6595630": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:40Z",
+    "fetched_at": "2026-09-14T09:02:15Z",
     "for_sale": 14,
     "lowest_price": 28.0,
     "suggested_prices": {
@@ -5409,7 +5409,7 @@
   },
   "6605926": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:43Z",
+    "fetched_at": "2026-09-14T09:02:18Z",
     "for_sale": 8,
     "lowest_price": 7.64,
     "suggested_prices": {
@@ -5422,9 +5422,9 @@
   },
   "662848": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:45Z",
-    "for_sale": 15,
-    "lowest_price": 405.41,
+    "fetched_at": "2026-09-14T09:02:20Z",
+    "for_sale": 16,
+    "lowest_price": 400.0,
     "suggested_prices": {
       "Good (G)": 635.68,
       "Mint (M)": 4025.99,
@@ -5435,7 +5435,7 @@
   },
   "6675112": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:48Z",
+    "fetched_at": "2026-09-14T09:02:23Z",
     "for_sale": 10,
     "lowest_price": 19.0,
     "suggested_prices": {
@@ -5448,7 +5448,7 @@
   },
   "6771572": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:50Z",
+    "fetched_at": "2026-09-14T09:02:25Z",
     "for_sale": 14,
     "lowest_price": 69.77,
     "suggested_prices": {
@@ -5461,9 +5461,9 @@
   },
   "6775238": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:53Z",
-    "for_sale": 22,
-    "lowest_price": 34.56,
+    "fetched_at": "2026-09-14T09:02:28Z",
+    "for_sale": 19,
+    "lowest_price": 35.18,
     "suggested_prices": {
       "Good (G)": 24.0,
       "Mint (M)": 152.01,
@@ -5474,7 +5474,7 @@
   },
   "6796081": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:55Z",
+    "fetched_at": "2026-09-14T09:02:31Z",
     "for_sale": 4,
     "lowest_price": 48.0,
     "suggested_prices": {
@@ -5487,7 +5487,7 @@
   },
   "6798808": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:24:58Z",
+    "fetched_at": "2026-09-14T09:02:33Z",
     "for_sale": 6,
     "lowest_price": 68.0,
     "suggested_prices": {
@@ -5500,7 +5500,7 @@
   },
   "689458": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:00Z",
+    "fetched_at": "2026-09-14T09:02:36Z",
     "for_sale": 0,
     "lowest_price": null,
     "suggested_prices": {
@@ -5513,8 +5513,8 @@
   },
   "6956871": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:03Z",
-    "for_sale": 46,
+    "fetched_at": "2026-09-14T09:02:38Z",
+    "for_sale": 44,
     "lowest_price": 32.28,
     "suggested_prices": {
       "Good (G)": 9.9,
@@ -5526,9 +5526,9 @@
   },
   "7218138": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:05Z",
+    "fetched_at": "2026-09-14T09:02:41Z",
     "for_sale": 34,
-    "lowest_price": 15.87,
+    "lowest_price": 16.16,
     "suggested_prices": {
       "Good (G)": 15.68,
       "Mint (M)": 99.32,
@@ -5539,7 +5539,7 @@
   },
   "7219516": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:08Z",
+    "fetched_at": "2026-09-14T09:02:43Z",
     "for_sale": 18,
     "lowest_price": 104.65,
     "suggested_prices": {
@@ -5552,8 +5552,8 @@
   },
   "7230759": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:11Z",
-    "for_sale": 4,
+    "fetched_at": "2026-09-14T09:02:46Z",
+    "for_sale": 5,
     "lowest_price": 460.73,
     "suggested_prices": {
       "Good (G)": 284.91,
@@ -5565,8 +5565,8 @@
   },
   "7303082": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:13Z",
-    "for_sale": 81,
+    "fetched_at": "2026-09-14T09:02:49Z",
+    "for_sale": 80,
     "lowest_price": 59.99,
     "suggested_prices": {
       "Good (G)": 26.06,
@@ -5578,7 +5578,7 @@
   },
   "7303391": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:16Z",
+    "fetched_at": "2026-09-14T09:02:51Z",
     "for_sale": 3,
     "lowest_price": 639.42,
     "suggested_prices": {
@@ -5591,9 +5591,9 @@
   },
   "7314300": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:20Z",
+    "fetched_at": "2026-09-14T09:02:54Z",
     "for_sale": 8,
-    "lowest_price": 30.0,
+    "lowest_price": 28.98,
     "suggested_prices": {
       "Good (G)": 14.76,
       "Mint (M)": 93.48,
@@ -5604,8 +5604,8 @@
   },
   "735430": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:22Z",
-    "for_sale": 32,
+    "fetched_at": "2026-09-14T09:02:56Z",
+    "for_sale": 31,
     "lowest_price": 13.66,
     "suggested_prices": {
       "Good (G)": 32.8,
@@ -5617,8 +5617,8 @@
   },
   "738267": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:25Z",
-    "for_sale": 27,
+    "fetched_at": "2026-09-14T09:02:59Z",
+    "for_sale": 26,
     "lowest_price": 1.99,
     "suggested_prices": {
       "Good (G)": 1.41,
@@ -5630,8 +5630,8 @@
   },
   "7383499": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:28Z",
-    "for_sale": 116,
+    "fetched_at": "2026-09-14T09:03:02Z",
+    "for_sale": 111,
     "lowest_price": 28.78,
     "suggested_prices": {
       "Good (G)": 11.25,
@@ -5643,8 +5643,8 @@
   },
   "7495983": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:30Z",
-    "for_sale": 4,
+    "fetched_at": "2026-09-14T09:03:04Z",
+    "for_sale": 5,
     "lowest_price": 60.0,
     "suggested_prices": {
       "Good (G)": 33.44,
@@ -5656,8 +5656,8 @@
   },
   "7540570": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:33Z",
-    "for_sale": 53,
+    "fetched_at": "2026-09-14T09:03:07Z",
+    "for_sale": 54,
     "lowest_price": 11.63,
     "suggested_prices": {
       "Good (G)": 15.33,
@@ -5669,8 +5669,8 @@
   },
   "757945": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:36Z",
-    "for_sale": 17,
+    "fetched_at": "2026-09-14T09:03:10Z",
+    "for_sale": 16,
     "lowest_price": 14.98,
     "suggested_prices": {
       "Good (G)": 368.88,
@@ -5682,7 +5682,7 @@
   },
   "7581256": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:38Z",
+    "fetched_at": "2026-09-14T09:03:12Z",
     "for_sale": 1,
     "lowest_price": 23.26,
     "suggested_prices": {
@@ -5695,21 +5695,21 @@
   },
   "7632519": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:41Z",
-    "for_sale": 16,
+    "fetched_at": "2026-09-14T09:03:15Z",
+    "for_sale": 13,
     "lowest_price": 25.0,
     "suggested_prices": {
-      "Good (G)": 39.17,
-      "Mint (M)": 248.06,
-      "Near Mint (NM or M-)": 221.95,
-      "Very Good (VG)": 117.5,
-      "Very Good Plus (VG+)": 169.72
+      "Good (G)": 19.24,
+      "Mint (M)": 121.84,
+      "Near Mint (NM or M-)": 109.01,
+      "Very Good (VG)": 57.71,
+      "Very Good Plus (VG+)": 83.36
     }
   },
   "7661254": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:43Z",
-    "for_sale": 19,
+    "fetched_at": "2026-09-14T09:03:17Z",
+    "for_sale": 17,
     "lowest_price": 22.81,
     "suggested_prices": {
       "Good (G)": 22.3,
@@ -5721,9 +5721,9 @@
   },
   "7778903": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:46Z",
-    "for_sale": 2,
-    "lowest_price": 112.01,
+    "fetched_at": "2026-09-14T09:03:20Z",
+    "for_sale": 3,
+    "lowest_price": 114.0,
     "suggested_prices": {
       "Good (G)": 42.78,
       "Mint (M)": 270.96,
@@ -5734,7 +5734,7 @@
   },
   "7794147": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:49Z",
+    "fetched_at": "2026-09-14T09:03:22Z",
     "for_sale": 1,
     "lowest_price": 930.23,
     "suggested_prices": {
@@ -5747,7 +5747,7 @@
   },
   "7848894": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:51Z",
+    "fetched_at": "2026-09-14T09:03:25Z",
     "for_sale": 5,
     "lowest_price": 32.43,
     "suggested_prices": {
@@ -5760,8 +5760,8 @@
   },
   "8067003": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:54Z",
-    "for_sale": 19,
+    "fetched_at": "2026-09-14T09:03:28Z",
+    "for_sale": 17,
     "lowest_price": 14.86,
     "suggested_prices": {
       "Good (G)": 6.48,
@@ -5773,8 +5773,8 @@
   },
   "8164069": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:56Z",
-    "for_sale": 28,
+    "fetched_at": "2026-09-14T09:03:30Z",
+    "for_sale": 29,
     "lowest_price": 16.22,
     "suggested_prices": {
       "Good (G)": 6.97,
@@ -5786,7 +5786,7 @@
   },
   "8170159": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:25:59Z",
+    "fetched_at": "2026-09-14T09:03:33Z",
     "for_sale": 0,
     "lowest_price": null,
     "suggested_prices": {
@@ -5799,9 +5799,9 @@
   },
   "8406468": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:01Z",
-    "for_sale": 2,
-    "lowest_price": 350.0,
+    "fetched_at": "2026-09-14T09:03:35Z",
+    "for_sale": 3,
+    "lowest_price": 290.0,
     "suggested_prices": {
       "Good (G)": 107.92,
       "Mint (M)": 683.46,
@@ -5812,20 +5812,20 @@
   },
   "8409254": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:04Z",
-    "for_sale": 22,
+    "fetched_at": "2026-09-14T09:03:38Z",
+    "for_sale": 24,
     "lowest_price": 23.88,
     "suggested_prices": {
-      "Good (G)": 27.93,
-      "Mint (M)": 176.89,
-      "Near Mint (NM or M-)": 158.27,
-      "Very Good (VG)": 83.79,
-      "Very Good Plus (VG+)": 121.03
+      "Good (G)": 24.29,
+      "Mint (M)": 153.82,
+      "Near Mint (NM or M-)": 137.63,
+      "Very Good (VG)": 72.86,
+      "Very Good Plus (VG+)": 105.24
     }
   },
   "8451696": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:06Z",
+    "fetched_at": "2026-09-14T09:03:41Z",
     "for_sale": 2,
     "lowest_price": 150.0,
     "suggested_prices": {
@@ -5838,7 +5838,7 @@
   },
   "8509196": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:09Z",
+    "fetched_at": "2026-09-14T09:03:43Z",
     "for_sale": 23,
     "lowest_price": 14.99,
     "suggested_prices": {
@@ -5851,9 +5851,9 @@
   },
   "8684498": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:11Z",
+    "fetched_at": "2026-09-14T09:03:46Z",
     "for_sale": 2,
-    "lowest_price": 389.86,
+    "lowest_price": 390.62,
     "suggested_prices": {
       "Good (G)": 35.26,
       "Mint (M)": 223.3,
@@ -5864,8 +5864,8 @@
   },
   "873261": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:14Z",
-    "for_sale": 49,
+    "fetched_at": "2026-09-14T09:03:48Z",
+    "for_sale": 51,
     "lowest_price": 38.0,
     "suggested_prices": {
       "Good (G)": 70.52,
@@ -5877,7 +5877,7 @@
   },
   "8735978": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:17Z",
+    "fetched_at": "2026-09-14T09:03:51Z",
     "for_sale": 43,
     "lowest_price": 6.72,
     "suggested_prices": {
@@ -5890,8 +5890,8 @@
   },
   "873968": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:19Z",
-    "for_sale": 11,
+    "fetched_at": "2026-09-14T09:03:54Z",
+    "for_sale": 12,
     "lowest_price": 56.24,
     "suggested_prices": {
       "Good (G)": 196.81,
@@ -5903,8 +5903,8 @@
   },
   "877385": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:22Z",
-    "for_sale": 84,
+    "fetched_at": "2026-09-14T09:03:56Z",
+    "for_sale": 82,
     "lowest_price": 2.99,
     "suggested_prices": {
       "Good (G)": 8.15,
@@ -5916,9 +5916,9 @@
   },
   "8922419": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:24Z",
-    "for_sale": 1,
-    "lowest_price": 343.38,
+    "fetched_at": "2026-09-14T09:03:59Z",
+    "for_sale": 0,
+    "lowest_price": null,
     "suggested_prices": {
       "Good (G)": 282.09,
       "Mint (M)": 1786.56,
@@ -5929,8 +5929,8 @@
   },
   "9028605": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:27Z",
-    "for_sale": 5,
+    "fetched_at": "2026-09-14T09:04:02Z",
+    "for_sale": 4,
     "lowest_price": 16.22,
     "suggested_prices": {
       "Good (G)": 21.16,
@@ -5942,9 +5942,9 @@
   },
   "9108027": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:29Z",
-    "for_sale": 25,
-    "lowest_price": 17.33,
+    "fetched_at": "2026-09-14T09:04:04Z",
+    "for_sale": 26,
+    "lowest_price": 16.99,
     "suggested_prices": {
       "Good (G)": 5.99,
       "Mint (M)": 37.95,
@@ -5955,7 +5955,7 @@
   },
   "9110742": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:32Z",
+    "fetched_at": "2026-09-14T09:04:07Z",
     "for_sale": 8,
     "lowest_price": 32.37,
     "suggested_prices": {
@@ -5968,8 +5968,8 @@
   },
   "9262777": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:35Z",
-    "for_sale": 17,
+    "fetched_at": "2026-09-14T09:04:09Z",
+    "for_sale": 15,
     "lowest_price": 47.0,
     "suggested_prices": {
       "Good (G)": 23.98,
@@ -5981,7 +5981,7 @@
   },
   "9322816": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:37Z",
+    "fetched_at": "2026-09-14T09:04:12Z",
     "for_sale": 8,
     "lowest_price": 80.0,
     "suggested_prices": {
@@ -5994,20 +5994,20 @@
   },
   "9333998": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:40Z",
-    "for_sale": 6,
+    "fetched_at": "2026-09-14T09:04:15Z",
+    "for_sale": 7,
     "lowest_price": 1.35,
     "suggested_prices": {
-      "Good (G)": 1.14,
-      "Mint (M)": 7.22,
-      "Near Mint (NM or M-)": 6.46,
-      "Very Good (VG)": 3.42,
-      "Very Good Plus (VG+)": 4.94
+      "Good (G)": 2.29,
+      "Mint (M)": 14.49,
+      "Near Mint (NM or M-)": 12.96,
+      "Very Good (VG)": 6.86,
+      "Very Good Plus (VG+)": 9.91
     }
   },
   "9485353": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:42Z",
+    "fetched_at": "2026-09-14T09:04:17Z",
     "for_sale": 2,
     "lowest_price": 69.76,
     "suggested_prices": {
@@ -6020,7 +6020,7 @@
   },
   "9588188": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:45Z",
+    "fetched_at": "2026-09-14T09:04:20Z",
     "for_sale": 2,
     "lowest_price": 13.0,
     "suggested_prices": {
@@ -6033,7 +6033,7 @@
   },
   "9746524": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:47Z",
+    "fetched_at": "2026-09-14T09:04:22Z",
     "for_sale": 18,
     "lowest_price": 5.76,
     "suggested_prices": {
@@ -6046,7 +6046,7 @@
   },
   "9782567": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:50Z",
+    "fetched_at": "2026-09-14T09:04:25Z",
     "for_sale": 23,
     "lowest_price": 20.0,
     "suggested_prices": {
@@ -6059,8 +6059,8 @@
   },
   "982633": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:53Z",
-    "for_sale": 52,
+    "fetched_at": "2026-09-14T09:04:28Z",
+    "for_sale": 50,
     "lowest_price": 58.69,
     "suggested_prices": {
       "Good (G)": 163.32,
@@ -6072,8 +6072,8 @@
   },
   "9908455": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:55Z",
-    "for_sale": 10,
+    "fetched_at": "2026-09-14T09:04:30Z",
+    "for_sale": 11,
     "lowest_price": 85.0,
     "suggested_prices": {
       "Good (G)": 73.88,
@@ -6085,8 +6085,8 @@
   },
   "9971709": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:26:58Z",
-    "for_sale": 34,
+    "fetched_at": "2026-09-14T09:04:33Z",
+    "for_sale": 33,
     "lowest_price": 4.07,
     "suggested_prices": {
       "Good (G)": 25.67,
@@ -6098,9 +6098,9 @@
   },
   "9987034": {
     "currency": "USD",
-    "fetched_at": "2026-09-07T08:27:00Z",
-    "for_sale": 5,
-    "lowest_price": 135.0,
+    "fetched_at": "2026-09-14T09:04:35Z",
+    "for_sale": 4,
+    "lowest_price": 140.0,
     "suggested_prices": {
       "Good (G)": 35.97,
       "Mint (M)": 227.79,
