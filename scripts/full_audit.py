@@ -13,8 +13,19 @@ WHAT THIS CHECKS
      - Em-dashes (—) must be zero (n-dashes only)
      - No discogs.com/master/ links inside tier-table rows
      - No hyperlinks inside the Cat# column of the tier table
-     - Summary section has at most 2 paragraphs before the "Best early
-       pressing" bullets
+  1b. Style, structure and depth (scripts/style_checks.py, rules in STYLE.md)
+     ERRORS: missing/out-of-order required sections; Summary not exactly 2
+       paragraphs; 'Best ...' lines not bulleted; tier descriptors in
+       buyer's guide bands; first person; references to the site or other
+       guides; narrating the guide's own verification; prose link text
+       'Discogs'; a named review/video/source with no link in its
+       paragraph; any sentence over 35 words.
+     WARNINGS: sentences over 25 words; paragraphs over 4 sentences or 90
+       words; more than one spaced n-dash per paragraph; semicolons;
+       mid-sentence colons; known flourish phrases; second person outside
+       the buyer's guide; 'below'/'above' positional references; consensus
+       claims with no link; reception, awards or reissue labels inside
+       Recording history; under 150 words of pressing analysis per tier row.
   2. Tier table integrity
      - Tier order is non-decreasing (S, A, B, C, D, F — no S appearing
        after an A, etc.)
@@ -63,6 +74,9 @@ import argparse
 import time
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError, URLError
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from style_checks import run_style_checks  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONTENT_DIR = os.path.join(ROOT, "_content")
@@ -184,7 +198,7 @@ def check_buyers_guide_order(content, r):
         section = section.split("## Pressing tier")[0]
     # New system: headers use a relative $ .. $$$$$ symbol scale, e.g. "**$$$ (Mid-range):**",
     # rather than absolute dollar figures. Check the symbol-count sequence is non-decreasing.
-    header_re = re.compile(r'^\*\*(\${1,5})\s*\(')
+    header_re = re.compile(r'^[-*]?\s*\*\*(\${1,5})')
     lines = [l for l in section.split("\n") if l.strip().startswith("**")]
     band_counts = []
     for l in lines:
@@ -255,7 +269,6 @@ def audit_one(slug, entry, do_network):
         return r
 
     check_em_dashes(content, r)
-    check_summary_paragraphs(content, r)
     rows = extract_tier_rows(content)
     if not rows:
         r.error("no tier table rows found")
@@ -265,6 +278,7 @@ def audit_one(slug, entry, do_network):
         check_tier_order(rows, r)
         check_duplicate_catnos(rows, r)
     check_buyers_guide_order(content, r)
+    run_style_checks(content, len(rows), r)
     check_links(content, r, do_network)
     check_albums_json_entry(slug, entry, r)
 

@@ -243,6 +243,12 @@ def inject_market_column(content_html, market_data):
         year_match = YEAR_TEXT_RE.match(cells[3])
         year = year_match.group(1) if year_match else ""
 
+        # Allow the Year cell to wrap after "/" (e.g. "2022/2023"), which
+        # browsers otherwise treat as unbreakable. Text only, never the tag.
+        year_inner_match = CELL_INNER_RE.match(cells[3])
+        if year_inner_match and "/" in year_inner_match.group(1):
+            cells[3] = "<td>" + year_inner_match.group(1).replace("/", "/<wbr>") + "</td>"
+
         discogs_cell = cells[7]
         href_match = DISCOGS_HREF_RE.search(discogs_cell)
 
