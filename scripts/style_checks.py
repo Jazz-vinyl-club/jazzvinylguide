@@ -242,7 +242,7 @@ def check_depth(secs, n_rows, r):
         return
     per = words / n_rows
     if per < WORDS_PER_PRESSING_MIN:
-        r.warn(f"thin pressing analysis: {words} words across {n_rows} tier rows "
+        r.warn(f"thin pressing analysis: {words} words across {n_rows} rated tier rows "
                f"({per:.0f}/pressing, flag < {WORDS_PER_PRESSING_MIN}); check hierarchy completeness too")
 
 
@@ -257,4 +257,5 @@ def run_style_checks(content, n_rows, r):
     if "Recording history and tape provenance" in d:
         check_recording_scope(d["Recording history and tape provenance"], r)
     check_prose(secs, r)
-    check_depth(secs, n_rows, r)
+    rated = len(re.findall(r"^\|\s*\*\*[SABCDF]\*\*\s*\|", d.get("Pressing tier summary", ""), flags=re.M))
+    check_depth(secs, rated, r)

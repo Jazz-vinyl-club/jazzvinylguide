@@ -38,6 +38,10 @@ Required sections, in this order, with other pressing sections between Recording
 6. `## Pressing tier summary`
 7. `## References`
 
+## Unrated pressings
+
+A pressing that exists but has no published sound comparison still goes in the tier table, with `**–**` in the Tier column and "Not rated." at the start of its Notes. Unrated rows sit after all rated rows. A tier is assigned only with evidence: a review, a direct comparison, or several consistent owner reports.
+
 ## Depth
 
-The audit flags guides with under 150 words of pressing analysis per tier row. A flag means the guide needs research, usually because the hierarchy is missing pressings, not just because the prose is short.
+The audit flags guides with under 150 words of pressing analysis per rated tier row. A flag means the guide needs research, usually because the hierarchy is missing pressings, not just because the prose is short.

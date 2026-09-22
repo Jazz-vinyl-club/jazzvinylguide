@@ -24,7 +24,23 @@ William Claxton took the cover photograph in a small grove of trees off Fargo St
 
 [Contemporary C3532](https://www.discogs.com/release/2993318) is the mono first pressing. Original copies exist with both red and blue cover designs, and which came first is unresolved. [LondonJazzCollector](https://londonjazzcollector.wordpress.com/2011/12/12/art-pepper-meets-the-rhythm-section-1957/) leans toward red on pricing evidence, and calls that evidence circumstantial. A later cover with a green title and box is not treated as a first pressing.
 
-Sources disagree on the first stereo catalogue number. [Sound Evaluations](https://soundevaluations.blogspot.com/) gives Stereo Records S7008 (1958), on Contemporary's stereo sub-label. The [1992 Analogue Productions release](https://www.discogs.com/release/2511840) describes itself as a pressing of Contemporary S7532.
+The first stereo issue was [Stereo Records S 7018](https://www.discogs.com/release/3019588-Art-Pepper-Art-Pepper-Meets-The-Rhythm-Section) (1958), on Contemporary's stereo sub-label, per its Discogs entry. A 4-track reel of the same year also carries 7018 (CYX 7018). [Sound Evaluations](https://soundevaluations.blogspot.com/) gives S7008 instead, but no Discogs entry supports that number. Later stereo pressings moved to Contemporary's main number, S7532.
+
+[Tracking Angle](https://trackingangle.com/music/art-pepper-never-does-meet-the-rhythm-section-nonetheless-this-is-a-classic-encounter) reports original stereo copies selling for up to $550 on Discogs, and mono copies for up to $930.
+
+Period pressings outside the US include the UK Vogue mono [LAC.12066](https://www.discogs.com/release/3808734-Art-Pepper-Art-Pepper-Meets-The-Rhythm-Section) (1957) and a Japanese mono on London Records, [LY 1007](https://www.discogs.com/release/12413786-Art-Pepper-Art-Pepper-Meets-The-Rhythm-Section). No sound comparisons with the US original have been published.
+
+## Later Contemporary stereo pressings
+
+Contemporary reissued the stereo LP as [S7532 in 1973](https://www.discogs.com/release/2675554-Art-Pepper-Art-Pepper-Meets-The-Rhythm-Section), with a Monarch-pressed variant also listed. [Tracking Angle](https://trackingangle.com/music/art-pepper-never-does-meet-the-rhythm-section-nonetheless-this-is-a-classic-encounter) found its 1973 stereo copy relaxed, transparent and tonally right, and preferred it to the 1992 Analogue Productions cut.
+
+An owner review on another [S7532 stereo pressing](https://www.discogs.com/release/14858240-Art-Pepper-Art-Pepper-Meets-The-Rhythm-Section) calls it the second stereo cutting, on thin, light vinyl. The reviewer rates it better than every reissue of the last 50 years. Discogs also lists a 1984 US S7532 reissue.
+
+## Japanese and European pressings
+
+Japanese stereo reissues include [SR 3085](https://www.discogs.com/release/13350379-Art-Pepper-Art-Pepper-Meets-The-Rhythm-Section) (1971), the limited [LAX 3011](https://www.discogs.com/release/6072112-Art-Pepper-Art-Pepper-Meets-The-Rhythm-Section) (1974), GXC 3101 (1979), VIJ-301 (1988) and SGD-29 (1991), per the [Discogs master](https://www.discogs.com/master/221127-Art-Pepper-Art-Pepper-Meets-The-Rhythm-Section). One owner review on LAX 3011 is positive. None has a published comparison with other pressings.
+
+An Italian 180g stereo reissue in the [Jazz 33 Giri series](https://www.discogs.com/release/4134962-Art-Pepper-Art-Pepper-Meets-The-Rhythm-Section) has one owner review, which praises its sound and low price. Its source is not stated.
 
 ## Analogue Productions reissues
 
@@ -33,6 +49,8 @@ Sources disagree on the first stereo catalogue number. [Sound Evaluations](https
 [Analogue Productions AJAZ 7532](https://www.discogs.com/release/3917736) (2003) is a 2×180g 45rpm set in the Fantasy 45 Series. Kevin Gray and Steve Hoffman mastered it, and Gray cut it at AcousTech Mastering. [Tracking Angle](https://trackingangle.com/features/2002-art-pepper-meets-the-rhythm-section-45rpm-vs-uhqr) reports it was plated and pressed at RTI.
 
 [Analogue Productions UHQR 0022-45](https://www.discogs.com/release/34925762) (2025) is a 2×200g 45rpm set on Clarity Vinyl. Bernie Grundman cut it from the original analog tapes, and it was pressed at Quality Record Pressings in Salina, Kansas. It comes in a clamshell box with a Stoughton tip-on gatefold and a booklet by John Koenig and Bernie Grundman, per [Acoustic Sounds](https://store.acousticsounds.com/d/189246/Art_Pepper-Art_Pepper_-_Meets_The_Rhythm_Section-UHQR_Vinyl_Record). The run is limited to 2,750 numbered copies.
+
+Michael Fremer rated the UHQR 11/11 for music and 10/11 for sound, as quoted by [Acoustic Sounds](https://store.acousticsounds.com/d/189246/Art_Pepper-Art_Pepper_-_Meets_The_Rhythm_Section-UHQR_Vinyl_Record).
 
 ## Craft Recordings reissues
 
@@ -54,7 +72,7 @@ The same [Tracking Angle review](https://trackingangle.com/music/art-pepper-neve
 
 ## Buyer's guide by budget
 
-**$$:** The [Original Jazz Classics OJC-338](https://www.discogs.com/release/3422317) reissue. Easy to find and inexpensive.
+**$$:** The [Original Jazz Classics OJC-338](https://www.discogs.com/release/3422317) reissue. Easy to find and inexpensive. A [1973 Contemporary S7532](https://www.discogs.com/release/2675554-Art-Pepper-Art-Pepper-Meets-The-Rhythm-Section) stereo copy is a well-reviewed vintage alternative.
 
 **$$$:** The [Craft Recordings CR00382](https://www.discogs.com/release/26198678) stereo edition. Grundman mastering at a lower price than the UHQR.
 
@@ -72,7 +90,12 @@ The same [Tracking Angle review](https://trackingangle.com/music/art-pepper-neve
 | **B** | Craft Recordings Acoustic Sounds Series | CR00382 | 2021 | Stereo, 33⅓, 180g | Bernie Grundman, QRP | Part of Craft's 70th-anniversary Contemporary Records series. ℗ 2021 on label | [Discogs](https://www.discogs.com/release/26198678) |
 | **B** | Craft Recordings RSD Mono | CR00491 | 2022 | Mono, 33⅓, 180g | Bernie Grundman, QRP | Reviews conflict. One comparison found it less integrated than the stereo pressings. Another rates it 9.5/10 | – |
 | **B** | Original Jazz Classics OJC-338 | OJC-338 | 1988 | Stereo, 33⅓ | Phil De Lancie, Fantasy Studios | Standard, affordable, easy to find | [Discogs](https://www.discogs.com/release/3422317) |
+| **B** | Contemporary stereo reissue | S7532 | 1973 | Stereo, 33⅓ | Contemporary lacquer | Preferred to APJ 010 in one detailed comparison | [Discogs](https://www.discogs.com/release/2675554-Art-Pepper-Art-Pepper-Meets-The-Rhythm-Section) |
 | **C** | Analogue Productions APJ 010 | APJ 010 | 1992 | Stereo, 33⅓, 180g | Doug Sax, The Mastering Lab. Pressed at RTI | Rated grating and hard-edged against a 1973 Contemporary stereo reissue in one comparison | [Discogs](https://www.discogs.com/release/2511840) |
+| **–** | Stereo Records original | S 7018 | 1958 | Stereo, 33⅓ | Roy DuNann / Contemporary lacquer | Not rated. First stereo issue. No published comparison | [Discogs](https://www.discogs.com/release/3019588-Art-Pepper-Art-Pepper-Meets-The-Rhythm-Section) |
+| **–** | Vogue UK | LAC.12066 | 1957 | Mono, 33⅓ | Licensed UK pressing | Not rated. Period UK issue | [Discogs](https://www.discogs.com/release/3808734-Art-Pepper-Art-Pepper-Meets-The-Rhythm-Section) |
+| **–** | Contemporary Japan, limited | LAX 3011 | 1974 | Stereo, 33⅓ | Japanese pressing | Not rated. One positive owner review | [Discogs](https://www.discogs.com/release/6072112-Art-Pepper-Art-Pepper-Meets-The-Rhythm-Section) |
+| **–** | Jazz 33 Giri (Italy) | S7532 | – | Stereo, 33⅓, 180g | Source not stated | Not rated. One positive owner review | [Discogs](https://www.discogs.com/release/4134962-Art-Pepper-Art-Pepper-Meets-The-Rhythm-Section) |
 
 ## References
 

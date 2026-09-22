@@ -2,11 +2,11 @@
 
 ## Summary
 
-*Blues & Roots* was recorded on February 4, 1959, at Atlantic Studios in New York, produced by Nesuhi Ertegun and engineered by Tom Dowd. Critics had been saying Charles Mingus did not swing enough. Ertegun suggested he answer with a whole album of blues, gospel and early New Orleans jazz. Atlantic released it in 1960 as SD 1305.
+*Blues & Roots* was recorded on February 4, 1959, at Atlantic Studios in New York, produced by Nesuhi Ertegun and engineered by Tom Dowd. Critics had been saying Charles Mingus did not swing enough. Ertegun suggested he answer with a whole album of blues, gospel and early New Orleans jazz. Atlantic released it in March 1960, in mono as 1305 and in stereo as SD 1305.
 
 The session packs a nine-piece band with five horns into a small studio, so a pressing's ability to separate the horns matters. The stereo mix hard-pans much of the band, and some listeners prefer the mono mix for that reason. The two leading modern editions split along that line, with a stereo 45rpm set from Analogue Productions and a mono LP from Rhino Reserve.
 
-- **Best early pressing for audiophiles:** [Atlantic SD 1305](https://www.discogs.com/release/5923976). The 1960 stereo original, green and blue "bullseye" label with fan logo.
+- **Best early pressing for audiophiles:** [Atlantic SD 1305](https://www.discogs.com/release/5923976). The 1960 stereo original, green and blue "bullseye" label with fan logo. The [mono 1305](https://www.discogs.com/release/3496796-Charlie-Mingus-Blues-Roots) came out the same month.
 - **Best modern pressing for audiophiles:** Contested between the [Analogue Productions APA 001-45](https://www.discogs.com/release/28538188) stereo 45rpm set (2023) and the [Rhino Reserve RES1 1305](https://www.discogs.com/release/36150229) mono LP (2026).
 - **Best-value modern:** [London/Atlantic UK pressing](https://www.discogs.com/release/5113505) (Decca manufactured, 1960). An alternative when a US original is scarce or overpriced.
 
@@ -24,7 +24,13 @@ A 1998 Rhino CD added four alternate takes not on the original six-track LP.
 
 [Atlantic SD 1305](https://www.discogs.com/release/5923976) is the US stereo first pressing, identified by the green and blue bullseye label with the fan logo. Condition and price vary widely. The SD 1305 number should appear on the front cover, labels and back liner.
 
-The [London/Atlantic UK pressing](https://www.discogs.com/release/5113505) was manufactured by Decca, on a blue label with silver print. Owner reports on its Discogs page describe it as sounding very good. It is a reasonable alternative when a clean US original is hard to find or overpriced.
+[Atlantic 1305](https://www.discogs.com/release/3496796-Charlie-Mingus-Blues-Roots) is the US mono pressing from the same month, on a red and purple bullseye label with the fan logo. Its Discogs entry gives the runouts as 11641-A AT. and 11642-A AT., with lacquers cut at Atlantic Studios. Lee Friedlander took the cover photograph.
+
+Given how divided listeners are over the hard-panned stereo mix, an original mono copy is worth considering alongside the stereo. No published comparison of the two 1960 pressings has been found.
+
+The [London Atlantic UK stereo pressing](https://www.discogs.com/release/5113505), catalogue SAH-K 6087, was made in England by Decca. It has a blue label with silver print in a flipback sleeve. Owner reports on its Discogs page describe it as sounding very good. It is a reasonable alternative when a clean US original is hard to find.
+
+London also issued a [UK mono](https://www.discogs.com/release/4800523-Charlie-Mingus-Blues-Roots), catalogue LTZ-K.15194. Atlantic issued the stereo album in [Canada](https://www.discogs.com/release/486813-Charles-Mingus-Blues-Roots) and a mono edition in [France](https://www.discogs.com/release/3496988-Charlie-Mingus-Blues-Roots) as 332.020 S, both in 1960.
 
 ## Rhino reissues
 
@@ -46,9 +52,9 @@ One owner review on the [Rhino Reserve Discogs page](https://www.discogs.com/rel
 
 ## Buyer's guide by budget
 
-**$$:** The [London/Atlantic UK pressing](https://www.discogs.com/release/5113505), or the [Rhino vinyl reissue](https://www.discogs.com/release/2006252) for the four alternate takes.
+**$$:** The [London Atlantic UK pressing](https://www.discogs.com/release/5113505), or the [Rhino vinyl reissue](https://www.discogs.com/release/2006252) for the four alternate takes.
 
-**$$$:** A clean [Atlantic SD 1305](https://www.discogs.com/release/5923976) original, priced on condition.
+**$$$:** A clean [Atlantic SD 1305](https://www.discogs.com/release/5923976) stereo original, or the [mono 1305](https://www.discogs.com/release/3496796-Charlie-Mingus-Blues-Roots), both priced on condition.
 
 **$$$$$:** The [Analogue Productions APA 001-45](https://www.discogs.com/release/28538188) 45rpm stereo set, or the [Rhino Reserve](https://www.discogs.com/release/36150229) mono LP. The choice is mainly stereo against mono.
 
@@ -60,8 +66,10 @@ One owner review on the [Rhino Reserve Discogs page](https://www.discogs.com/rel
 | **S** | Analogue Productions APA 001-45, RTI-pressed (unnumbered) | APA 001-45 | 2023 | Stereo, 45rpm, 2×180g | Kevin Gray, Cohearent Audio. Pressed at RTI | Same mastering, later unnumbered run | [Discogs](https://www.discogs.com/release/28640077) |
 | **S** | Rhino Reserve | RES1 1305 | 2026 | Mono, 33⅓, 180g | Matthew Lutthans, The Mastering Lab. Pressed at Fidelity Record Pressing | "Start Your Ear Off Right" series. One owner heard a lower noise floor than the AP QRP pressing | [Discogs](https://www.discogs.com/release/36150229) |
 | **A** | Atlantic SD 1305 | SD 1305 | 1960 | Stereo, 33⅓ | Tom Dowd / Atlantic lacquer | Green/blue bullseye label, fan logo | [Discogs](https://www.discogs.com/release/5923976) |
-| **B** | London/Atlantic UK pressing | SD 1305 (UK) | 1960 | Stereo, 33⅓ | Decca manufactured | Blue label, silver writing | [Discogs](https://www.discogs.com/release/5113505) |
+| **B** | London Atlantic UK pressing | SAH-K 6087 | 1960 | Stereo, 33⅓ | Decca manufactured | Blue label, silver writing. Flipback sleeve | [Discogs](https://www.discogs.com/release/5113505) |
 | **C** | Rhino vinyl reissue (2000s) | SD 1305 (Rhino) | – | Stereo, 33⅓, 180g | Lacquer credited only as "DC." Pressed at Rainbo Records | Four bonus alternate takes not on the original LP | [Discogs](https://www.discogs.com/release/2006252) |
+| **–** | Atlantic mono original | 1305 | 1960 | Mono, 33⅓ | Lacquers cut at Atlantic Studios | Not rated. Red/purple bullseye label. No published comparison with the stereo | [Discogs](https://www.discogs.com/release/3496796-Charlie-Mingus-Blues-Roots) |
+| **–** | London Atlantic UK mono | LTZ-K.15194 | 1960 | Mono, 33⅓ | Decca manufactured | Not rated | [Discogs](https://www.discogs.com/release/4800523-Charlie-Mingus-Blues-Roots) |
 
 ## References
 
