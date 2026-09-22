@@ -31,7 +31,7 @@ SITE_REF_RE = re.compile(
 SECOND_PERSON_RE = re.compile(r"\b(you|your|you're|you'll|yourself)\b", re.I)
 REFERENCE_WORD_RE = re.compile(
     r"\b(review|reviewer|reviewers|video|forum|thread|interview|article|podcast|"
-    r"channel|blog|write-up|liner notes)\b", re.I)
+    r"YouTube channel|blog|write-up|liner notes)\b", re.I)
 CONSENSUS_RE = re.compile(
     r"\b(widely (rated|regarded|considered|praised|cited)|generally (considered|regarded|agreed)|"
     r"most (agree|listeners|collectors|reviewers)|universally|often cited|commonly (cited|regarded))\b", re.I)
@@ -83,6 +83,16 @@ def strip_quoted(text):
 
 
 def sentences(text):
+    lines = [l for l in text.split("\n") if l.strip()]
+    if len(lines) > 1 and all(l.lstrip().startswith(("- ", "* ")) for l in lines):
+        out = []
+        for l in lines:
+            out.extend(_sentences(l.lstrip()[2:]))
+        return out
+    return _sentences(text)
+
+
+def _sentences(text):
     t = strip_md(text)
     for a in ABBREVS:
         t = t.replace(a, a.replace(".", "\u2024"))

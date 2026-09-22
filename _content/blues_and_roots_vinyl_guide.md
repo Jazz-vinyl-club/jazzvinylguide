@@ -2,54 +2,70 @@
 
 ## Summary
 
-*Blues & Roots* was recorded February 4, 1959 at Atlantic Studios in New York City, produced by Nesuhi Ertegun and engineered by Tom Dowd. The album exists because of a specific complaint: critics had spent the preceding years accusing Charles Mingus of losing touch with swing as his compositions grew more ambitious and structurally adventurous, and Ertegun suggested he answer directly with a record built entirely around blues, gospel, and old-time New Orleans jazz.
+*Blues & Roots* was recorded on February 4, 1959, at Atlantic Studios in New York, produced by Nesuhi Ertegun and engineered by Tom Dowd. Critics had been saying Charles Mingus did not swing enough. Ertegun suggested he answer with a whole album of blues, gospel and early New Orleans jazz. Atlantic released it in 1960 as SD 1305.
 
-This is a hard-driving nine-piece hard bop session with a lot of horn density packed into a small studio space, so pressing quality matters more than usual for how well individual horns separate versus blur into each other.
+The session packs a nine-piece band with five horns into a small studio, so a pressing's ability to separate the horns matters. The stereo mix hard-pans much of the band, and some listeners prefer the mono mix for that reason. The two leading modern editions split along that line, with a stereo 45rpm set from Analogue Productions and a mono LP from Rhino Reserve.
 
-**Best early pressing for audiophiles:** [Atlantic SD 1305](https://www.discogs.com/release/5923976) – 1960 original pressing, green/blue "bullseye" label with fan logo.
-
-**Best modern pressing for audiophiles:** contested between two current, well-documented options – see below on the 2026 Rhino Reserve mono pressing versus the Analogue Productions APA 001-45 stereo reissue.
-
-**Best-value modern:** [London/Atlantic UK pressing](https://www.discogs.com/release/5113505) (Decca manufactured, 1960) – a reasonable alternate when a US original is scarce or overpriced.
+- **Best early pressing for audiophiles:** [Atlantic SD 1305](https://www.discogs.com/release/5923976). The 1960 stereo original, green and blue "bullseye" label with fan logo.
+- **Best modern pressing for audiophiles:** Contested between the [Analogue Productions APA 001-45](https://www.discogs.com/release/28538188) stereo 45rpm set (2023) and the [Rhino Reserve RES1 1305](https://www.discogs.com/release/36150229) mono LP (2026).
+- **Best-value modern:** [London/Atlantic UK pressing](https://www.discogs.com/release/5113505) (Decca manufactured, 1960). An alternative when a US original is scarce or overpriced.
 
 ## Recording history and tape provenance
 
-Mingus later described his own reaction to Ertegun's suggestion in the liner notes – conflicted, since he felt he'd already proven he could swing and had moved on to other things, but ultimately he agreed, and the result became, by his own account and most critics' since, his most purely swinging, joyously direct record. To make it, Mingus assembled an unusually large nine-piece group for a date this focused: Jackie McLean and John Handy on alto sax, Booker Ervin on tenor, Pepper Adams on baritone, Jimmy Knepper and Willie Dennis on trombones, Horace Parlan and Mal Waldron splitting piano duties, and Dannie Richmond on drums. All six original tracks are Mingus compositions, most memorably the opening "Wednesday Night Prayer Meeting" and "Moanin'," built around Pepper Adams's instantly recognizable baritone riff – a tune distinct from, and not to be confused with, Bobby Timmons and Art Blakey's better-known song of the same title from the same era. Recorded before Mingus's more famous *Ah Um* but released after it, the two albums are often discussed as companion pieces: *Ah Um* the more expansive artistic statement, *Blues & Roots* the deliberately narrower, harder-swinging response to its critics.
+Mingus described his reaction in the liner notes, quoted by the [Charles Mingus estate](https://www.charlesmingus.com/blog/record-re-release-blues-and-roots-rhino-reserve-series). He had grown up swinging and felt he had moved on, but decided blues could do more than swing, so he agreed.
 
-A 1998 Rhino CD reissue added four alternate takes not present on the original six-track LP, and that expanded tracklist later carried over onto at least one Rhino vinyl reissue as well – worth knowing if you specifically want the additional material, since not every vinyl edition of this title includes it. As with many Atlantic stereo releases of this era, Tom Dowd hard-panned much of the instrumentation rather than blending it toward center – a deliberate mixing choice of the period, not a reissue's fault, though it does mean some listeners genuinely prefer the more unified mono mix to the wide, hard-panned stereo image.
+The band had Jackie McLean and John Handy on alto saxophone, Booker Ervin on tenor and Pepper Adams on baritone. Jimmy Knepper and Willie Dennis played trombone. Horace Parlan and Mal Waldron shared piano, with Mingus on bass and Dannie Richmond on drums.
 
-Analogue Productions' APA 001-45 (2023) is the better-known of two modern reference pressings, part of their Atlantic 75th-anniversary reissue series, mastered by Kevin Gray at Cohearent Audio from the original tape and pressed in stereo across two 45rpm discs. Michael Fremer's TrackingAngle review rated it 9/11 for both music and sound, and it's widely regarded as a definitive treatment of this recording. First-run copies (the first 2,000) were numbered and pressed at Quality Record Pressings; a later, unnumbered pressing run was pressed at RTI instead with the same mastering – both are documented as distinct Discogs releases sharing the same catalog number.
+All six tracks are Mingus compositions, including "Wednesday Night Prayer Meeting" and "Moanin'." This "Moanin'" is built on Pepper Adams's baritone riff. It is a different tune from the Bobby Timmons piece of the same name. The album was recorded before *Mingus Ah Um* but released after it.
 
-A second, newer reference pressing turned up after this guide's initial research pass: Rhino Reserve's mono edition (catalog RES1 1305), released January 9, 2026 as part of Rhino's "Start Your Ear Off Right" promotional series. It's mastered by Matthew Lutthans at The Mastering Lab from the original analog mono master tapes and pressed at the newly opened Fidelity Record Pressing plant in Southern California – a facility staffed in part by the same personnel who used to run Quality Record Pressings. This is confirmed via a real Discogs release page carrying full matrix data, not just promotional copy. A video review (That Shelf) covers the Rhino Reserve series favorably in general and this title specifically, and one unusually detailed Discogs owner review directly compared it against the Analogue Productions stereo pressing: that reviewer preferred the AP's packaging and felt its stereo mix pronounced Mingus's bass more clearly, but ultimately preferred the Rhino Reserve's mono mix overall, and noted a quieter noise floor on the Fidelity Record Pressing vinyl compared to the AP's Quality Record Pressings vinyl. The practical takeaway: if you specifically want stereo, the Analogue Productions pressing is still the reference; if you're open to mono and want the current state of the art in surface noise, Rhino Reserve is a legitimate, well-documented rival rather than a lesser alternative.
+A 1998 Rhino CD added four alternate takes not on the original six-track LP.
+
+## Original Atlantic pressings (1960)
+
+[Atlantic SD 1305](https://www.discogs.com/release/5923976) is the US stereo first pressing, identified by the green and blue bullseye label with the fan logo. Condition and price vary widely. The SD 1305 number should appear on the front cover, labels and back liner.
+
+The [London/Atlantic UK pressing](https://www.discogs.com/release/5113505) was manufactured by Decca, on a blue label with silver print. Owner reports on its Discogs page describe it as sounding very good. It is a reasonable alternative when a clean US original is hard to find or overpriced.
+
+## Rhino reissues
+
+The [Rhino vinyl reissue](https://www.discogs.com/release/2006252) from the 2000s carries the four alternate takes from the 1998 CD. They are "Wednesday Night Prayer Meeting," "Tensions," "My Jelly Roll Soul" and "E's Flat Ah's Flat Too." It was pressed at Rainbo Records. The lacquer cut is credited only by the initials "DC," so the engineer is unconfirmed.
+
+[Rhino Reserve RES1 1305](https://www.discogs.com/release/36150229) is a 180g mono LP released on January 9, 2026, in Rhino's "Start Your Ear Off Right" series. [Rhino's product copy](https://www.charlesmingus.com/blog/record-re-release-blues-and-roots-rhino-reserve-series) states it was cut from the original mono tapes by Matthew Lutthans at The Mastering Lab. It was pressed at Fidelity Record Pressing in Oxnard, California.
+
+## Analogue Productions reissue
+
+[Analogue Productions APA 001-45](https://www.discogs.com/release/28538188) (2023) is a stereo 2×180g 45rpm set in the label's Atlantic 75th-anniversary series. [Acoustic Sounds](https://store.acousticsounds.com/d/164126/Charles_Mingus-Blues__Roots-45_RPM_Vinyl_Record) credits the mastering to Kevin Gray at Cohearent Audio from the original analog tape. Michael Fremer rated it 9 for music and 9 for sound, as quoted by [Elusive Disc](https://elusivedisc.com/charles-mingus-blues-roots-atlantic-75-series-180g-45rpm-2lp).
+
+The first 2,000 copies are numbered, pressed at Quality Record Pressings, in a Stoughton tip-on gatefold. A later unnumbered run was [pressed at RTI (Record Technology Inc.)](https://www.discogs.com/release/28640077) with the same mastering. Discogs lists the two runs as separate releases under one catalogue number.
 
 ## Sound quality by pressing
 
-The true US first pressing, Atlantic SD 1305, is identifiable by the green/blue bullseye label carrying Atlantic's fan logo. Condition and asking price both vary widely for originals of this era – confirm the label style and catalog placement (front cover, labels, and back liner should all carry the SD 1305 number) before paying a premium.
+One owner review on the [Rhino Reserve Discogs page](https://www.discogs.com/release/36150229) compares it directly with the Analogue Productions set. The reviewer preferred the Analogue Productions packaging and found its stereo mix clearer on Mingus's bass. Overall, the reviewer preferred the Rhino Reserve mono mix and heard a lower noise floor than on the Quality Record Pressings copy.
 
-The London/Atlantic UK pressing (Decca manufactured) is a UK pressing on the London Atlantic imprint, with a blue label and silver print rather than Atlantic's US bullseye design. Owner reports describe it as sounding great and a genuinely worthwhile alternative when a clean US original isn't readily available or is priced beyond reason.
-
-The Rhino vinyl reissue (2000s) includes the four bonus alternate takes first added on Rhino's 1998 CD reissue – "Wednesday Night Prayer Meeting," "Tensions," "My Jelly Roll Soul," and "E's Flat Ah's Flat Too" – making this the vinyl edition to seek out specifically if you want that expanded track list. Pressed at Rainbo Records; the mastering/lacquer-cut credit on the pressing itself is listed only by initials rather than a full name, so treat the specific engineer as unconfirmed. Not to be confused with the 2026 Rhino Reserve mono pressing described above, which is a completely different, much more recent release sharing only the Rhino name.
+[That Shelf](https://www.youtube.com/watch?v=xd28FjdJ3j8) reviews the Rhino Reserve edition favorably. For stereo, the Analogue Productions set remains the reference. For mono and the lowest surface noise, Rhino Reserve is a strong alternative.
 
 ## Buyer's guide by budget
 
-**$$:** The [London/Atlantic UK pressing](https://www.discogs.com/release/5113505), or the [Rhino vinyl reissue](https://www.discogs.com/release/2006252) specifically if you want the bonus alternate takes.
+**$$:** The [London/Atlantic UK pressing](https://www.discogs.com/release/5113505), or the [Rhino vinyl reissue](https://www.discogs.com/release/2006252) for the four alternate takes.
 
-**$$$:** A clean [Atlantic SD 1305](https://www.discogs.com/release/5923976) original, condition-dependent.
+**$$$:** A clean [Atlantic SD 1305](https://www.discogs.com/release/5923976) original, priced on condition.
 
-**$$$$$:** The [Analogue Productions APA 001-45](https://www.discogs.com/release/28538188) 45rpm stereo reissue, or the [Rhino Reserve](https://www.discogs.com/release/36150229) mono pressing – see the note above on the genuine trade-offs between them.
+**$$$$$:** The [Analogue Productions APA 001-45](https://www.discogs.com/release/28538188) 45rpm stereo set, or the [Rhino Reserve](https://www.discogs.com/release/36150229) mono LP. The choice is mainly stereo against mono.
 
 ## Pressing tier summary
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Analogue Productions APA 001-45, QRP-pressed (numbered) | APA 001-45 | 2023 | Stereo, 45rpm, 2×180g | Kevin Gray, Cohearent Audio; QRP | First 2,000 copies numbered; Stoughton tip-on gatefold | [Discogs](https://www.discogs.com/release/28538188) |
-| **S** | Analogue Productions APA 001-45, RTI-pressed (unnumbered) | APA 001-45 | 2023 | Stereo, 45rpm, 2×180g | Kevin Gray, Cohearent Audio; RTI | Same mastering, later/unnumbered pressing run | [Discogs](https://www.discogs.com/release/28640077) |
-| **S** | Rhino Reserve | RES1 1305 | 2026 | Mono, 33⅓, 180g | Matthew Lutthans, The Mastering Lab; Fidelity Record Pressing | "Start Your Ear Off Right" series; owner comparison found a quieter noise floor than the AP QRP pressing, mono-only | [Discogs](https://www.discogs.com/release/36150229) |
+| **S** | Analogue Productions APA 001-45, QRP-pressed (numbered) | APA 001-45 | 2023 | Stereo, 45rpm, 2×180g | Kevin Gray, Cohearent Audio. Pressed at QRP | First 2,000 copies numbered. Stoughton tip-on gatefold | [Discogs](https://www.discogs.com/release/28538188) |
+| **S** | Analogue Productions APA 001-45, RTI-pressed (unnumbered) | APA 001-45 | 2023 | Stereo, 45rpm, 2×180g | Kevin Gray, Cohearent Audio. Pressed at RTI | Same mastering, later unnumbered run | [Discogs](https://www.discogs.com/release/28640077) |
+| **S** | Rhino Reserve | RES1 1305 | 2026 | Mono, 33⅓, 180g | Matthew Lutthans, The Mastering Lab. Pressed at Fidelity Record Pressing | "Start Your Ear Off Right" series. One owner heard a lower noise floor than the AP QRP pressing | [Discogs](https://www.discogs.com/release/36150229) |
 | **A** | Atlantic SD 1305 | SD 1305 | 1960 | Stereo, 33⅓ | Tom Dowd / Atlantic lacquer | Green/blue bullseye label, fan logo | [Discogs](https://www.discogs.com/release/5923976) |
 | **B** | London/Atlantic UK pressing | SD 1305 (UK) | 1960 | Stereo, 33⅓ | Decca manufactured | Blue label, silver writing | [Discogs](https://www.discogs.com/release/5113505) |
-| **C** | Rhino vinyl reissue (2000s) | SD 1305 (Rhino) | – | Stereo, 33⅓, 180g | Mastering credited only by initials ("DC"); pressed at Rainbo Records | Includes four bonus alternate takes not on the original LP; not to be confused with the 2026 Rhino Reserve above | [Discogs](https://www.discogs.com/release/2006252) |
+| **C** | Rhino vinyl reissue (2000s) | SD 1305 (Rhino) | – | Stereo, 33⅓, 180g | Lacquer credited only as "DC." Pressed at Rainbo Records | Four bonus alternate takes not on the original LP | [Discogs](https://www.discogs.com/release/2006252) |
 
 ## References
 
 - Discogs (master, all versions): [https://www.discogs.com/master/176882](https://www.discogs.com/master/176882)
+- Charles Mingus official site, "Record Re-Release: Blues and Roots (Rhino Reserve series)": [https://www.charlesmingus.com/blog/record-re-release-blues-and-roots-rhino-reserve-series](https://www.charlesmingus.com/blog/record-re-release-blues-and-roots-rhino-reserve-series)
+- Acoustic Sounds, "Charles Mingus – Blues & Roots – 45 RPM Vinyl Record": [https://store.acousticsounds.com/d/164126/Charles_Mingus-Blues__Roots-45_RPM_Vinyl_Record](https://store.acousticsounds.com/d/164126/Charles_Mingus-Blues__Roots-45_RPM_Vinyl_Record)
 - That Shelf, "Charles Mingus - Blues & Roots Rhino Reserve Audiophile Vinyl": [https://www.youtube.com/watch?v=xd28FjdJ3j8](https://www.youtube.com/watch?v=xd28FjdJ3j8)

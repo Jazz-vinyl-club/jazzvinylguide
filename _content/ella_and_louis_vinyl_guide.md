@@ -2,92 +2,100 @@
 
 ## Summary
 
-*Ella and Louis* was recorded in a single day, August 16, 1956, at the newly-opened Capitol Studios in Hollywood, and released that October as Verve MG V-4003. Ella Fitzgerald and Louis Armstrong (both vocals, Armstrong also on trumpet) are backed by the Oscar Peterson Quartet – Peterson (piano), Herb Ellis (guitar), Ray Brown (bass), Buddy Rich (drums). Norman Granz produced, with arranging/A&R support from Buddy Bregman; Val Valentin engineered, using a three-track Ampex setup.
+*Ella and Louis* was recorded in a single day, August 16, 1956, at Capitol Studios in Hollywood, and Verve released it that October as MG V-4003. Ella Fitzgerald and Louis Armstrong sing, with Armstrong also on trumpet. The Oscar Peterson Quartet backs them, with Peterson on piano, Herb Ellis on guitar, Ray Brown on bass and Buddy Rich on drums. Norman Granz produced and Val Valentin engineered.
 
-This album was recorded and released in mono only – despite the three-track session tape, no legitimate stereo mix has ever been issued, and more than one reviewer has noted with surprise how spacious and "almost holographic" a well-mastered mono pressing of this session can sound. Any copy claiming stereo should be treated with suspicion; the recording simply doesn't exist that way.
+The album was released in mono only, and every legitimate vinyl edition is mono. Copies labelled "stereo" exist, but they are labelling errors, not a separate mix. The best mono pressings present the two voices with strong presence and depth. The main choice for most buyers is between a scarce original, a 45rpm audiophile edition and a well-reviewed 33⅓ reissue from 2022.
 
-**Best early pressing for audiophiles:** [Original Verve mono, orange/black "T" label](https://www.discogs.com/release/10538384-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) – genuinely difficult to find in better than VG+ condition.
-**Best modern pressing for audiophiles:** [Analogue Productions 45rpm 2LP (2011)](https://www.discogs.com/release/3513495-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) – George Marino at Sterling Sound, mono, widely rated the finest-sounding version available.
-**Best-value modern:** [Verve Acoustic Sounds Series (2022)](https://www.discogs.com/release/23904962-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) – Ryan K. Smith at Sterling Sound, mono, gatefold tip-on, QRP pressing.
+- **Best early pressing for audiophiles:** [Verve MG V-4003, orange and black "T" label](https://www.discogs.com/release/10538384-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis). The 1956 first pressing, hard to find better than VG+.
+- **Best modern pressing for audiophiles:** [Analogue Productions AVRJ 4003-45](https://www.discogs.com/release/3513495-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) (2011). A 45rpm mono set mastered by George Marino at Sterling Sound.
+- **Best-value modern:** [Verve Acoustic Sounds Series B0033748-01](https://www.discogs.com/release/23904962-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) (2022). Mastered by Ryan K. Smith at Sterling Sound, pressed at Quality Record Pressings.
 
 ## Recording history and tape provenance
 
-Norman Granz had taken over as Ella Fitzgerald's manager and founded Verve Records as a vehicle to elevate her beyond a purely jazz-club following. On August 15, 1956, Fitzgerald and Louis Armstrong both appeared at Granz's Jazz at the Philharmonic concert at the Hollywood Bowl – the first bona fide jazz concert the venue had hosted, alongside Art Tatum and Oscar Peterson. The next day, with no time built in for rehearsal, Granz brought Fitzgerald and Armstrong five minutes down the freeway to Capitol Studios with the Oscar Peterson Quartet and recorded the entire album in a single session.
+Norman Granz had become Fitzgerald's manager and founded Verve Records in part to record her. On August 15, 1956, Fitzgerald and Armstrong both appeared at Granz's Jazz at the Philharmonic concert at the Hollywood Bowl. The next day, with no rehearsal time, Granz took them to Capitol Studios with the Oscar Peterson Quartet. They recorded the whole album in one session.
 
-Granz gave Armstrong final say over both song selection and key, and Fitzgerald – by her own account a longtime admirer of Armstrong – deferred to him throughout, singing every song in Armstrong's key even where it wasn't ideal for her own voice. The eleven tracks, drawn mostly from Depression-era show tunes and the Great American Songbook (Gershwin, Irving Berlin, Hoagy Carmichael), are almost entirely ballads or moderate-tempo standards – a deliberate choice by Granz to foreground the interplay between Fitzgerald's precise, silken delivery and Armstrong's rough-hewn, instantly recognizable rasp. Engineer Val Valentin's three-track Ampex setup captured unusually direct, intimate vocal presence for a mid-1950s vocal jazz session, which is a large part of why the album's mono mix has such a strong reputation among engineers and audiophiles alike – there simply wasn't much processing standing between the microphones and the tape.
+Granz gave Armstrong final say over song selection and keys. Fitzgerald sang every song in Armstrong's key, even where it did not suit her own voice. The eleven tracks are ballads and mid-tempo standards by writers including Gershwin, Irving Berlin and Hoagy Carmichael.
 
-The album topped Billboard's Jazz Best Sellers chart, reached number 12 on the pop albums chart, and was followed by two sequels: 1957's *Ella and Louis Again* and 1959's *Porgy and Bess*. It was inducted into the Grammy Hall of Fame in 2016. The Penguin Guide to Jazz awards it three and a half stars while noting Armstrong and Fitzgerald's approaches "may not have been entirely compatible" – a minority critical view against an otherwise overwhelming critical and popular consensus; AllMusic's Scott Yanow calls it a "charming" set of "tasteful renditions." Björk named it among her favorite albums in a 1993 interview, admiring how the two singers "were opposites in how they sung, but were still completely functional together." Phil Stern shot the cover photography.
-
----
+Val Valentin recorded the session on a three-track Ampex machine. The album was mixed and issued in mono, and no stereo mix has been released.
 
 ## Original Verve pressings (1956)
 
-**Catalogue: MG V-4003** (also printed MGV-4003, MGV 4003 depending on pressing). True first pressings carry an orange-and-black "T" label design; a later 1950s repress used a black-and-silver "T" label variant, both sonically comparable since they derive from the same metalwork. This was a genuinely popular record in its day and consequently was played hard on mediocre equipment by many original owners – clean copies in better than VG+ are reported as difficult to find even by dedicated collectors, and NM originals command genuinely high prices when found.
+[Verve MG V-4003](https://www.discogs.com/release/10538384-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) first pressings carry an orange and black "T" label. The catalogue number also appears as MGV-4003 or MGV 4003 depending on the copy. Phil Stern took the cover photographs.
+
+A [later 1950s repress](https://www.discogs.com/release/16508523-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) uses a black and silver "T" label. It is described as sonically comparable, since it comes from the same metalwork.
+
+The album sold well, and many copies were played hard on basic equipment. Clean originals better than VG+ are difficult to find, and near-mint copies are expensive.
 
 ### UK original: His Master's Voice CLP 1098 (December 1956)
 
-Licensed via the Verve Series and manufactured by The Gramophone Co. Ltd., this UK pressing was issued the same month as the US original – a genuine period-contemporary alternative rather than a later reissue, for buyers in or shipping from the UK/Europe. [Discogs](https://www.discogs.com/release/4849512-Ella-Fitzgerald-Louis-Armstrong-Ella-And-Louis) lists matrix/runouts MGV 4003-A-1N and MGV 4003-B-1N. No dedicated sound-quality comparison against the US original has surfaced; treat it as a collectible period pressing rather than a confirmed audiophile alternative.
+[His Master's Voice CLP 1098](https://www.discogs.com/release/4849512-Ella-Fitzgerald-Louis-Armstrong-Ella-And-Louis) was manufactured by The Gramophone Co. Ltd. under licence and issued in the UK in December 1956. Its runouts read MGV 4003-A-1N and MGV 4003-B-1N. No sound comparison with the US original has been published, so it is best treated as a collectible period pressing.
 
-### French Barclay pressing – pressed from the original US stampers
+### French Barclay pressing
 
-A less commonly discussed option: [one detailed collector account](https://jazzcollector.com/blue-note/ella-and-louis-as-rare-jazz-vinyl/) describes a French Barclay pressing sourced from the original US Verve stampers rather than a separate transfer, on notably heavier vinyl than the US pressing, and reports it "sounds great." A useful way to identify a copy: the cover photo is a different frame from the same photo session as the US cover, with Fitzgerald and Armstrong in slightly different positions – not a reprint of the identical US photo. No specific catalogue number confirmed.
-
----
+A [collector account on jazzcollector.com](https://jazzcollector.com/blue-note/ella-and-louis-as-rare-jazz-vinyl/) describes a French Barclay pressing made from the original US Verve stampers, on heavier vinyl than the US pressing. The writer reports that it sounds very good. Its cover uses a different frame from the same photo session, with Fitzgerald and Armstrong in slightly different positions. No catalogue number has been confirmed.
 
 ## The reissue hierarchy
 
-### Supersense Archival Tape Edition No. 7 (2022) – a hand-cut acetate curiosity
+### Analogue Productions AVRJ 4003-45 (2011)
 
-Vienna-based boutique label Supersense's seventh release in its Archival Tape Edition series: hand-cut acetate lacquers made directly from the analog tape, deliberately without conventional remastering or noise reduction, packaged with a cyanotype print and other collector ephemera. Reception is genuinely mixed on Discogs – some owners find it a revelatory, uniquely intimate listen ("a real treasure," "the hype is real on this one"), while at least one reports significant print-through (bleed-through of the recorded signal from an adjacent layer of tape onto the pressing) as a real flaw. This is a fundamentally different proposition from the QRP-pressed reissues below – a boutique, hand-made object aimed at collectors interested in hearing tape character directly rather than a conventional audiophile mastering chain. Numbered edition, limited quantity. [Discogs](https://www.discogs.com/release/5186127-Ella-Fitzgerald-Louis-Armstrong-Ella-And-Louis) **Pricing varies significantly; check current listings.**
+[Analogue Productions AVRJ 4003-45](https://www.discogs.com/release/3513495-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) is a mono 2LP set at 45rpm, originally on 200g vinyl, in a gatefold. [Acoustic Sounds](https://store.acousticsounds.com/d/67241) credits the mastering to George Marino at Sterling Sound and the pressing to Quality Record Pressings. A later repress is on 180g vinyl.
 
-### Analogue Productions 45rpm 2LP (2011) – the reference edition
+Fred Kaplan praised it in both Stereophile and Slate on release, as quoted by [Acoustic Sounds](https://store.acousticsounds.com/d/67241). [45 RPM Audiophile](https://www.youtube.com/watch?v=YuVJpQmO73c) compared it with the 2022 Acoustic Sounds Series LP and preferred the 45rpm set for soundstage and bass. The reviewer attributes the gap to the 45rpm format, not to weaker mastering on the newer LP.
 
-**Cat. AVRJ 4003-45** | Format: 2×200g LP, 45rpm, mono, gatefold. **Mastered by George Marino at Sterling Sound, from the original master tapes.** Widely regarded as the best-sounding version of this title in any format – Slate's Fred Kaplan wrote on release, "if you have a good stereo, you'll swear they're in the room." Direct comparisons against the later Acoustic Sounds Series single-LP edition consistently favor the 45rpm for soundstage and bass extension, though reviewers are careful to note this reflects the resolution advantage of 45rpm over 33⅓ rather than any shortcoming in the newer edition's mastering. Out of print. [Discogs](https://www.discogs.com/release/3513495-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis)
+### Verve Acoustic Sounds Series B0033748-01 (2022)
 
-### Speakers Corner (2000) – the earlier audiophile option
+[Verve B0033748-01](https://www.discogs.com/release/23904962-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) is a 180g mono LP in a tip-on gatefold, released in July 2022. It was mastered by Ryan K. Smith at Sterling Sound from the original analog tapes and pressed at Quality Record Pressings. The catalogue number is from retailer listings such as [Plaid Room Records](https://www.plaidroomrecords.com/products/ella-fitzgerald-ella-louis-verve-acoustic-sounds-series).
 
-**Cat. 009 4003** | Format: 180g LP, mono, replica black/silver "T" labels with no ®. Reception is positive, though slightly more mixed than the later reissues: "a fine quiet pressing," "sounds incredible," while a separate direct comparison against the Acoustic Sounds Series found it "slightly shouty at times and with harsh sibilance" by comparison. Out of print. [Discogs](https://www.discogs.com/release/2980546-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis)
+[AnalogPlanet's Mark Smotroff](https://www.analogplanet.com/content/ella-and-louis-serve-sweet-n-salty-vocals-side-rich-trumpet-terrific-verve-acoustic-sounds) rated it 10/11 for music and 8/11 for sound. He notes that the labels reproduce an early orange and yellow Verve design used on some pressings of the period.
 
-### Verve Acoustic Sounds Series (2022) – the best-value modern option
+Owner reviews on its [Discogs page](https://www.discogs.com/release/23904962-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) describe flat, quiet vinyl and a wide, deep image for a mono record. A few owners report surface pops or slight warps on individual copies. One owner compared it with a 1979 French Verve box set. The new edition was less sibilant, but the owner preferred the older set's more open vocals.
 
-**Format: 180g LP, 33⅓, mono, tip-on gatefold sleeve.** **Mastered by Ryan K. Smith at Sterling Sound, from the original analog tapes, pressed at Quality Record Pressings (QRP).** [AnalogPlanet's Mark Smotroff rated it](https://www.analogplanet.com/content/ella-and-louis-serve-sweet-n-salty-vocals-side-rich-trumpet-terrific-verve-acoustic-sounds) 10/11 for music and 8/11 for sonics, and noted the pressing reproduces the early orange-and-yellow Verve label design used on some pressings from this era, rather than the more common black label. Reviews are enthusiastic and consistent: "dead flat and virtually silent... a remarkably wide, deep, almost holographic presentation that hardly seems possible for mono," with the deluxe gatefold packaging – a significant upgrade over the single-pocket sleeve of the 1956 original – repeatedly singled out for praise. A handful of owners report minor surface pops or slight warping on individual copies, typical low-level variance for a modern pressing rather than a systemic issue. [One reviewer](https://www.youtube.com/watch?v=Us5Z8DiRNNw) who owns an original pressing directly compared the two: the original "does sound quite good, especially for when it was recorded," but the Acoustic Sounds edition pulled ahead on fine vocal detail – he pointed specifically to Louis Armstrong's entrance on "Isn't It a Lovely Day," where the texture and attack of his voice came through with noticeably more resolution on the new pressing. [Discogs](https://www.discogs.com/release/23904962-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis)
+[WCB Jazz Vinyl](https://www.youtube.com/watch?v=Us5Z8DiRNNw) compared it with an original pressing. He found the original good for its age. The new edition gave Armstrong's voice more texture and attack, notably on his entrance in "Isn't This a Lovely Day."
 
----
+### Speakers Corner 009 4003 (2000)
+
+[Speakers Corner 009 4003](https://www.discogs.com/release/2980546-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) is a 180g mono LP with replica black and silver "T" labels without the ® mark. Owner reviews on its Discogs page are positive. One owner who compared it with the 2022 Acoustic Sounds Series LP preferred the Speakers Corner. It is out of print.
+
+### Supersense Archival Tape Edition No. 7 (2022)
+
+The [Supersense Archival Tape Edition No. 7](https://the.supersense.com/products/archival-tape-edition-no-7-ella-louis) comes from a Vienna-based label. Each copy is a hand-cut lacquer, cut directly from an unedited 1:1 copy of the original tape without remastering. It was the label's first mono release. The package includes a cyanotype print and other printed material.
+
+It is a numbered, limited edition aimed at collectors who want to hear the tape without a conventional mastering chain. One owner review on the [Discogs master page](https://www.discogs.com/master/173462-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) describes a lifelike image and high detail. Prices vary widely.
 
 ## Pressings to avoid
 
-Numerous European reissues circulate from the 1960s–80s on Verve/MGM-distributed labels (Dutch, Italian, and other pressings), generally legitimate licensed releases of variable but usually acceptable quality – fine as budget listening copies. Be cautious of any listing describing this title as "stereo": at least one Dutch MGM-era reissue has been observed with a "Stereo" label printed over back-cover text reading "Mono," an apparent labeling error rather than a genuine alternate mix – this recording has no legitimate stereo release.
+Many European reissues from the 1960s to the 1980s appeared on Verve and MGM-distributed labels in the Netherlands, Italy and elsewhere. They are licensed releases of variable but usually acceptable quality, and fine as budget copies. One [Dutch 1970s reissue](https://www.discogs.com/release/3877405-Ella-Fitzgerald-Louis-Armstrong-Ella-And-Louis) is an example.
 
----
+Some copies carry a "Stereo" label although the recording is mono. At least one Dutch MGM-era reissue has a "Stereo" label with back-cover text reading "Mono." These are labelling errors, not a stereo mix.
 
 ## Buyer's guide by budget
 
-**$ (Budget):** The [**Verve Acoustic Sounds Series (2022)**](https://www.discogs.com/release/23904962-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) – excellent mastering, deluxe packaging, and the easy recommendation for most buyers.
+**$:** The [Verve Acoustic Sounds Series LP](https://www.discogs.com/release/23904962-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) (2022). Strong mastering and a deluxe gatefold at a modest price.
 
-**$$$$ (Premium):** The [**Analogue Productions 45rpm 2LP**](https://www.discogs.com/release/3513495-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) on the secondary market, for the outright best-sounding version of this session.
+**$$$$:** The [Analogue Productions 45rpm 2LP](https://www.discogs.com/release/3513495-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis). Preferred to the 2022 LP in the [45 RPM Audiophile](https://www.youtube.com/watch?v=YuVJpQmO73c) comparison.
 
-**$$$$$ (Grail / Rare):** A clean original [**Verve MG V-4003, orange/black "T" label**](https://www.discogs.com/release/10538384-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) – be prepared to search patiently for a presentable copy.
-
----
+**$$$$$:** A clean original [Verve MG V-4003 with the orange and black "T" label](https://www.discogs.com/release/10538384-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis). Presentable copies take patience to find.
 
 ## Pressing tier summary
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Analogue Productions 45rpm 2LP | AVRJ 4003-45 | 2011 | Mono, 45rpm, 2×200g | Orig tape → George Marino, Sterling Sound | Widely rated best-sounding version | [Discogs](https://www.discogs.com/release/3513495-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) |
-| **A** | Verve Acoustic Sounds Series | – | 2022 | Mono, 33⅓, 180g | Orig tape → Ryan K. Smith, Sterling Sound, QRP | Best value; deluxe gatefold | [Discogs](https://www.discogs.com/release/23904962-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) |
-| **A** | Speakers Corner | 009 4003 | 2000 | Mono, 33⅓, 180g | Orig tape, Virgin Vinyl | OOP; solid but slightly more sibilant than later reissues per direct comparison | [Discogs](https://www.discogs.com/release/2980546-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) |
-| **A** | Original Verve mono, orange/black "T" label | MG V-4003 | 1956 | Mono, 33⅓ | Original 1956 mastering | Genuinely scarce in clean condition | [Discogs](https://www.discogs.com/release/10538384-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) |
-| **B** | Supersense Archival Tape Edition No. 7 | 007 | 2022 | Mono, 33⅓, hand-cut acetate | Direct from analog tape, no remastering | Boutique, hand-made; genuinely mixed reception; some report print-through | [Discogs](https://www.discogs.com/release/5186127-Ella-Fitzgerald-Louis-Armstrong-Ella-And-Louis) |
-| **B** | UK original, His Master's Voice | CLP 1098 | 1956 | Mono, 33⅓ | Same period master, licensed UK pressing | Period-contemporary UK alternative; no confirmed A/B vs. US original | [Discogs](https://www.discogs.com/release/4849512-Ella-Fitzgerald-Louis-Armstrong-Ella-And-Louis) |
+| **S** | Analogue Productions 45rpm 2LP | AVRJ 4003-45 | 2011 | Mono, 45rpm, 2×200g | Original tape. George Marino, Sterling Sound. Pressed at QRP | Later repress on 180g | [Discogs](https://www.discogs.com/release/3513495-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) |
+| **A** | Verve Acoustic Sounds Series | B0033748-01 | 2022 | Mono, 33⅓, 180g | Original tape. Ryan K. Smith, Sterling Sound. Pressed at QRP | Tip-on gatefold | [Discogs](https://www.discogs.com/release/23904962-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) |
+| **A** | Speakers Corner | 009 4003 | 2000 | Mono, 33⅓, 180g | Original tape, virgin vinyl | Out of print. Owner reviews positive | [Discogs](https://www.discogs.com/release/2980546-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) |
+| **A** | Original Verve mono, orange/black "T" label | MG V-4003 | 1956 | Mono, 33⅓ | Original 1956 mastering | Scarce in clean condition | [Discogs](https://www.discogs.com/release/10538384-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) |
+| **B** | Supersense Archival Tape Edition No. 7 | 007 | 2022 | Mono, 33⅓, hand-cut lacquer | Cut from a 1:1 tape copy, no remastering | Numbered, limited. One owner review, positive | – |
+| **B** | UK original, His Master's Voice | CLP 1098 | 1956 | Mono, 33⅓ | Same period master, licensed UK pressing | No published comparison with the US original | [Discogs](https://www.discogs.com/release/4849512-Ella-Fitzgerald-Louis-Armstrong-Ella-And-Louis) |
 | **B** | Later black/silver "T" label repress | MG V-4003 | c.1957–60 | Mono, 33⅓ | Same metalwork as original | Sonically comparable to first pressing | [Discogs](https://www.discogs.com/release/16508523-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) |
-| **C** | European MGM/Verve reissues | Various | 1960s–80s | Mono, 33⅓ | Licensed European pressings | Variable quality; affordable; verify not mislabeled "stereo" | [Discogs](https://www.discogs.com/release/3877405-Ella-Fitzgerald-Louis-Armstrong-Ella-And-Louis) |
+| **C** | European MGM/Verve reissues | Various | 1960s–80s | Mono, 33⅓ | Licensed European pressings | Variable quality. Check for a mislabelled "stereo" copy | [Discogs](https://www.discogs.com/release/3877405-Ella-Fitzgerald-Louis-Armstrong-Ella-And-Louis) |
 
 ## References
 
 - Discogs (master): [https://www.discogs.com/master/173462-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis](https://www.discogs.com/master/173462-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis)
+- Acoustic Sounds, "Ella Fitzgerald and Louis Armstrong – Ella and Louis – 45 RPM Vinyl Record": [https://store.acousticsounds.com/d/67241](https://store.acousticsounds.com/d/67241)
 - AnalogPlanet, "Ella And Louis Serve Up Sweet 'N' Salty Vocals With a Side of Rich Trumpet for This Terrific Verve & Acoustic Sounds Mono 180g LP Reissue": [https://www.analogplanet.com/content/ella-and-louis-serve-sweet-n-salty-vocals-side-rich-trumpet-terrific-verve-acoustic-sounds](https://www.analogplanet.com/content/ella-and-louis-serve-sweet-n-salty-vocals-side-rich-trumpet-terrific-verve-acoustic-sounds)
+- Plaid Room Records, "Ella Fitzgerald – Ella & Louis [Verve Acoustic Sounds Series]": [https://www.plaidroomrecords.com/products/ella-fitzgerald-ella-louis-verve-acoustic-sounds-series](https://www.plaidroomrecords.com/products/ella-fitzgerald-ella-louis-verve-acoustic-sounds-series)
 - jazzcollector.com, "Ella and Louis as Rare Jazz Vinyl": [https://jazzcollector.com/blue-note/ella-and-louis-as-rare-jazz-vinyl/](https://jazzcollector.com/blue-note/ella-and-louis-as-rare-jazz-vinyl/)
-- YouTube, 45 RPM Audiophile, "Acoustic Sound Series: Ella Fitzgerald & Louis Armstrong vs Analogue Production 45 rpm": [https://www.youtube.com/watch?v=YuVJpQmO73c](https://www.youtube.com/watch?v=YuVJpQmO73c)
-- YouTube, WCB Jazz Vinyl, "Top Jazz Vinyl Reissues of 2022": [https://www.youtube.com/watch?v=Us5Z8DiRNNw](https://www.youtube.com/watch?v=Us5Z8DiRNNw)
-- Supersense, "Archival Tape Edition No. 7: Ella & Louis": [https://the.supersense.com/collections/archival-tape-editions/products/archival-tape-edition-no-7-ella-louis](https://the.supersense.com/collections/archival-tape-editions/products/archival-tape-edition-no-7-ella-louis)
+- 45 RPM Audiophile, "Acoustic Sound Series: Ella Fitzgerald & Louis Armstrong vs Analogue Production 45 rpm": [https://www.youtube.com/watch?v=YuVJpQmO73c](https://www.youtube.com/watch?v=YuVJpQmO73c)
+- WCB Jazz Vinyl, "Top Jazz Vinyl Reissues of 2022": [https://www.youtube.com/watch?v=Us5Z8DiRNNw](https://www.youtube.com/watch?v=Us5Z8DiRNNw)
+- Supersense, "Archival Tape Edition No. 7: Ella & Louis": [https://the.supersense.com/products/archival-tape-edition-no-7-ella-louis](https://the.supersense.com/products/archival-tape-edition-no-7-ella-louis)
