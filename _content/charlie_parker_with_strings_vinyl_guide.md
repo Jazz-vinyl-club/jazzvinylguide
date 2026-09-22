@@ -2,39 +2,67 @@
 
 ## Summary
 
-Charlie Parker's string-backed sessions for producer Norman Granz were recorded in two parts: November 30, 1949, at a Mercury studio in New York, yielding the first 10" "Charlie Parker with Strings" (six tracks); and July 5, 1950, yielding a second 10" volume (eight tracks). Both sessions were arranged and conducted by Jimmy Carroll and Joe Lipman, with Mitch Miller on oboe, Ray Brown on bass, and Buddy Rich on drums, setting Parker against a small classical string section rather than his usual bebop rhythm section.
+*Charlie Parker with Strings* began as two 10" albums for Norman Granz. The first session, on November 30, 1949, in New York, produced six tracks, and the second, on July 5, 1950, produced eight. Jimmy Carroll and Joe Lipman arranged and conducted. Mitch Miller played oboe, Ray Brown bass and Buddy Rich drums, with Parker set against a small classical string section.
 
-This title's reissue history is unusually complicated compared to the rest of this site's catalog. Catalog numbers conflict even across normally reliable sources, and not every discrepancy could be resolved with confidence. Rather than force a clean answer where the underlying research doesn't support one, this guide is more conservative than usual: the tier table below is intentionally thin, containing only the one pressing verified with real confidence, and the prose spends more time explaining what remains unresolved than most guides on this site need to.
+Clef combined the two 10" albums onto one 12" LP in 1955 as MG C-675, per its [Discogs entry](https://www.discogs.com/release/6255700-Charlie-Parker-With-Strings-Charlie-Parker-With-Strings). That is the first single-album version of the program. The catalogue history around it is tangled, and the same recordings later appeared under a different title. Sources also disagree on the early Mercury and Clef numbering, so several entries here are listed without a tier.
 
-**Best early pressing for audiophiles:** the 1955 Clef MG C-675 12" LP is the historically definitive vinyl document of the consolidated 14-track program – see the catalog-confusion note below before chasing an original 10" pressing instead.
-
-**Best modern pressing for audiophiles:** not confirmed in this pass – see below.
-
-**Best-value modern:** "The Verve Years (1950–51)," a mid-1970s chronological Verve compilation – see below for what it actually contains before assuming it's a direct substitute for MG C-675.
+- **Best early pressing for audiophiles:** [Clef MG C-675](https://www.discogs.com/release/6255700-Charlie-Parker-With-Strings-Charlie-Parker-With-Strings) (1955). The first 12" consolidation of both 10" volumes.
+- **Best modern pressing for audiophiles:** None confirmed. No modern reissue with a named mastering engineer could be verified.
+- **Best-value modern:** [The 2013 Verve 180g reissue](https://www.discogs.com/release/5142713-Charlie-Parker-With-Strings-Charlie-Parker-With-Strings), with the caveat that owner reports on its surface noise conflict.
 
 ## Recording history and tape provenance
 
-Parker had reportedly wanted to record in this kind of setting for years – Granz finally gave him the chance, and the results, unusually for the era, became Parker's best-selling recordings during his lifetime, well ahead of anything he cut with a conventional quintet. The Grammy Hall of Fame recognized the sessions in 1988. The two 10" volumes were consolidated into a single 12" LP in 1955 on Granz's Clef label as "Charlie Parker with Strings," catalog MG C-675 – the first time both sessions appeared together as one coherent album rather than two separate 10" releases. That consolidation is the closest thing to a canonical, single-album version of these recordings, though even that apparent simplicity conceals a genuinely tangled catalog history underneath it.
+Parker had wanted to record with strings for years, and Granz arranged it. The sessions became his best-selling records during his lifetime, ahead of his quintet material.
 
-Sources disagree on the exact sequence of early Mercury/Clef catalog numbers for the first 10" volume, and the disagreement isn't a minor footnote – it's between two otherwise reliable references describing the same object in opposite order. Wikipedia states the first 10" was "released on 10\" as Mercury MG-35010, reissued as MG C-501 and then MG C-101." A specialist Mercury-label discography site states the opposite sequence: MG-35010 first, reissued as MG C-101, and only later reissued as MG C-501. Neither account could be confirmed as correct with confidence, so both are noted here rather than picking one arbitrarily to make the guide look more finished than the research actually supports.
+The two 10" volumes appeared on Mercury around 1950 and 1951, as MG C-501 and MG C-509. That is the sequence in the [Charlie Parker discography on Wikipedia](https://en.wikipedia.org/wiki/Charlie_Parker_discography). The [Discogs entry](https://www.discogs.com/release/6255700-Charlie-Parker-With-Strings-Charlie-Parker-With-Strings) for the 1955 12" describes it as a compilation of those two records. It also notes that MG C-501 appeared as MG C-170.
 
-No specific, well-sourced modern audiophile vinyl reissue of the consolidated 14-track program with a named mastering engineer and verified catalog number could be independently confirmed either. Several leads turned up but none held up to the specificity bar this project holds itself to. A widely-circulated "stereo, 180 gram, remastered" pressing reuses the same MG C-675 catalog number, which is odd on its face since the 1955 recordings predate stereo entirely – this must be some later reissue, but its year, label, and mastering credit couldn't be confirmed. A limited-edition blue vinyl DMM reissue catalogued 840110 turned up in Discogs owner reviews but nowhere else independently verifiable. And an Analogue Productions interview about their 25-album Verve reissue series describes a documented channel-reversal error corrected on "this title" – but the interview covers 25 different albums, and there's no certainty the specific quote refers to Charlie Parker with Strings rather than a different title in the same series. That's a lead worth chasing in a follow-up pass, not a fact to print here.
+Sources disagree on the earliest numbering of the first 10". [Wikipedia](https://en.wikipedia.org/wiki/Charlie_Parker_with_Strings) has it released as Mercury MG-35010, then reissued as MG C-501 and then MG C-101. A Mercury-label discography gives the same starting point but the reverse order afterwards, MG C-101 before MG C-501. Neither could be confirmed.
 
-One genuine, verifiable alternative did turn up: in the mid-1970s, Verve issued a three-part chronological series covering Parker's complete Verve-era master takes across three 2LP sets. The middle set, "The Verve Years (1950–51)" (catalog VE-2-2512, per jazzdisco.org's Verve reissue catalog and independently confirmed via Dusty Groove and an Internet Archive listing), focuses mostly on the string sessions, but mixes them in alongside unrelated quintet material with Miles Davis and a separate pairing with Coleman Hawkins. It's a real, findable, and typically affordable way to own most of these recordings on vinyl, but it's a fundamentally different compilation approach from MG C-675 – a chronological career survey rather than a dedicated "with strings" program – so don't expect the same listening experience.
+## Original Clef and Mercury pressings
+
+[Clef MG C-675](https://www.discogs.com/release/6255700-Charlie-Parker-With-Strings-Charlie-Parker-With-Strings) (1955) is the 12" consolidation and the standard vinyl document of these sessions. Side A carries the first 10" album and side B the second. An Australian Clef pressing is also reported in its Discogs comments.
+
+Discogs lists a [1954 10" pressing](https://www.discogs.com/release/5838717-Charlie-Parker-With-Strings-Charlie-Parker-With-Strings) of the first volume. Prices for the 10" volumes are generally higher than for the 12".
+
+## The same recordings as "April in Paris"
+
+Columbia reissued the 1955 album in 1956 under the title *April in Paris*, credited to Charlie Parker with Strings, per [Wikipedia](https://en.wikipedia.org/wiki/Charlie_Parker_with_Strings). Verve reissued it again in 1957 as *April in Paris: The Genius of Charlie Parker #2*, catalogue MGV-8004.
+
+The [Verve discography](https://en.wikipedia.org/wiki/Verve_Records_discography) lists MGV-8004 as a reissue of Clef MGC 675. A mid-1970s Book of the Month Club pressing of the same album, catalogue [50-5263](https://www.discogs.com/release/5261378-Charlie-Parker-With-Strings-April-In-Paris), carries silver-on-black "T" labels. One owner review calls its mono sound clean, with a midrange lift.
+
+Buyers hunting the string sessions on vinyl should therefore search both titles. An *April in Paris* copy holds the same program as MG C-675.
+
+## Later reissues
+
+The [2013 Verve 180g reissue](https://www.discogs.com/release/5142713-Charlie-Parker-With-Strings-Charlie-Parker-With-Strings) reuses the MG C-675 catalogue number and is listed as stereo, although the recordings predate stereo. Owner reviews conflict. Two describe flat, quiet copies, and one reports heavy surface noise, no separation and flat sound.
+
+A limited blue-vinyl DMM edition, catalogue 840110, appears in reviews on the [Discogs master](https://www.discogs.com/master/271505). Its label, year and mastering credit are not established.
+
+In the mid-1970s Verve issued a three-part chronological series of Parker's Verve-era master takes as three 2LP sets. The middle set, *The Verve Years (1950–51)*, catalogue VE-2-2512, covers most of the string material. It also carries unrelated quintet tracks with Miles Davis and a session with Coleman Hawkins. It is a career survey, not a dedicated strings album.
 
 ## Buyer's guide by budget
 
-Given the sourcing gaps documented above, this guide isn't presenting confident dollar-sign price tiers for every option the way most guides on this site do. The 1955 Clef MG C-675 is the reasonable starting point for anyone who specifically wants the original vinyl document of these sessions and nothing else mixed in. "The Verve Years (1950–51)" is a real, typically affordable alternative if MG C-675 proves hard to source, so long as you're comfortable with unrelated material sharing the same LPs. Beyond those two, treat any specific reissue claim you encounter for this title with the same skepticism applied throughout this guide, and consider a follow-up research pass – ideally with the site's YouTube collector-review protocol fully in scope – before trusting a confident-sounding pressing recommendation from elsewhere.
+**$$:** *The Verve Years (1950–51)* (VE-2-2512), if mixed programming is acceptable. Prices are usually low.
+
+**$$$:** A [Verve or Book of the Month Club *April in Paris*](https://www.discogs.com/release/5261378-Charlie-Parker-With-Strings-April-In-Paris) pressing, which holds the same program under another title.
+
+**$$$$:** A clean [Clef MG C-675](https://www.discogs.com/release/6255700-Charlie-Parker-With-Strings-Charlie-Parker-With-Strings), the original 12" consolidation.
 
 ## Pressing tier summary
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | Clef 12" LP, consolidating both 10" volumes | MG C-675 | 1955 | Mono, 33⅓ | Clef lacquer | Historically definitive vinyl document of the 14-track program; no standalone Discogs release ID confirmed | – |
-| **B** | The Verve Years (1950–51), 2LP chronological set | VE-2-2512 | Mid-1970s | Stereo, 33⅓, 2LP gatefold | Verve lacquer | Compiles the string sessions alongside unrelated Miles Davis quintet and Coleman Hawkins material, not a dedicated "with strings" program | – |
+| **A** | Clef 12" LP, consolidating both 10" volumes | MG C-675 | 1955 | Mono, 33⅓ | Clef lacquer | First single-album version of the program | [Discogs](https://www.discogs.com/release/6255700-Charlie-Parker-With-Strings-Charlie-Parker-With-Strings) |
+| **B** | *The Verve Years (1950–51)*, 2LP chronological set | VE-2-2512 | Mid-1970s | Mono, 33⅓, 2LP gatefold | Verve lacquer | Adds unrelated Miles Davis quintet and Coleman Hawkins material | – |
+| **C** | Verve 180g reissue | MG C-675 | 2013 | Listed as stereo, 33⅓, 180g | Not credited | Owner reports conflict, from flat and quiet to heavy surface noise | [Discogs](https://www.discogs.com/release/5142713-Charlie-Parker-With-Strings-Charlie-Parker-With-Strings) |
+| **–** | Mercury/Clef 10" volume 1 | MG C-501 | 1954 pressing listed | Mono, 33⅓, 10" | Mercury/Clef lacquer | Not rated. Early numbering disputed | [Discogs](https://www.discogs.com/release/5838717-Charlie-Parker-With-Strings-Charlie-Parker-With-Strings) |
+| **–** | *April in Paris*, Book of the Month Club | 50-5263 | Mid-1970s | Mono, 33⅓ | Verve-era lacquer | Not rated. Same program, different title. One positive owner review | [Discogs](https://www.discogs.com/release/5261378-Charlie-Parker-With-Strings-April-In-Paris) |
+| **–** | Blue vinyl DMM edition | 840110 | – | Mono, 33⅓, 180g | Not credited | Not rated. Known only from Discogs owner reviews | – |
 
 ## References
 
 - Discogs (master, all versions): [https://www.discogs.com/master/271505](https://www.discogs.com/master/271505)
 - Wikipedia, "Charlie Parker with Strings": [https://en.wikipedia.org/wiki/Charlie_Parker_with_Strings](https://en.wikipedia.org/wiki/Charlie_Parker_with_Strings)
+- Wikipedia, "Charlie Parker discography": [https://en.wikipedia.org/wiki/Charlie_Parker_discography](https://en.wikipedia.org/wiki/Charlie_Parker_discography)
+- Wikipedia, "Verve Records discography": [https://en.wikipedia.org/wiki/Verve_Records_discography](https://en.wikipedia.org/wiki/Verve_Records_discography)
 - David Reaboi, "How to Buy Charlie Parker on Vinyl? Not As Simple As You Think": [https://www.youtube.com/watch?v=j9K3H8h6RKk](https://www.youtube.com/watch?v=j9K3H8h6RKk)

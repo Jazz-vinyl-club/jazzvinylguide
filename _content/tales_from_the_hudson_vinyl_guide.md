@@ -1,34 +1,45 @@
 # Tales from the Hudson on Vinyl: The Definitive Pressing Guide
 
-## A note before anything else: this title has no original vinyl pressing
-
-Unlike every other guide on this site, there is no vintage pressing to chase here. *Tales from the Hudson* was recorded and released in 1996, well into the CD era, and was issued exclusively on CD at the time – no vinyl edition existed until 2012, sixteen years later. This guide covers that single first-ever vinyl release rather than comparing multiple historical pressings, because there's only one to discuss.
-
 ## Summary
 
-*Tales from the Hudson* was recorded in 1996 at the Power Station in New York City, Michael Brecker's fourth album as a leader, produced by Brecker, George Whitty, and Pat Metheny. Released on Impulse!/GRP in 1996, the album won two Grammy Awards: Best Jazz Instrumental Solo, for Brecker's playing on "Cabin Fever," and Best Jazz Instrumental Album, Individual or Group.
+*Tales from the Hudson* was recorded in 1996 at the Power Station in New York. It is Michael Brecker's fourth album as a leader, produced by Brecker and George Whitty, with Pat Metheny co-producing. Impulse! released it in 1996. James Farber recorded and mixed it, and the CD was mastered at Masterdisk.
 
-**Best (and only) pressing:** [Universal Music Korea's Play 33⅓ Series edition](https://www.discogs.com/release/5833512) – catalog DZ 3107, the first and to date only vinyl release of this album.
+There is no vintage pressing to look for. The album came out on CD only, and no vinyl edition existed until 2012, sixteen years later. That 2LP remains the only vinyl version, so the usual original-against-reissue comparison does not apply here. The questions worth asking are about the package and the pressing plant, since there is no tape-generation question and no alternative cut to weigh it against.
+
+- **Best early pressing for audiophiles:** None exists. The album had no vinyl release in 1996.
+- **Best modern pressing for audiophiles:** [Universal's Play 33⅓ Series 2LP](https://www.discogs.com/release/5833512), the only vinyl edition.
+- **Best-value modern:** The same record, or the CD if a clean copy is hard to find.
 
 ## Recording history and tape provenance
 
-The band is a genuine all-star lineup: Jack DeJohnette on drums and Dave Holland on bass – the same rhythm section, decades later, that had anchored Miles Davis's electric band around 1970 – alongside pianist Joey Calderazzo on most tracks, with McCoy Tyner sitting in on piano for two tracks specifically ("Song for Bilbao" and "African Skies"), and Don Alias on percussion. Brecker wrote five of the nine compositions himself, with one composition apiece contributed by Metheny ("Song for Bilbao"), Calderazzo ("Midnight Voyage"), and the late pianist Don Grolnick ("Willie T."). The original 1996 recording and mixing were done by James Farber, with mastering for the CD release handled at Masterdisk Corporation.
+The band is Jack DeJohnette on drums and Dave Holland on bass, the rhythm section from Miles Davis's band around 1970. Joey Calderazzo plays piano on most tracks, with McCoy Tyner on "Song for Bilbao" and "African Skies." Don Alias plays percussion and Pat Metheny guitar.
 
-Sixteen years later, Universal Music Korea selected this title for its "Play 33⅓ Series" – a reissue program specifically dedicated to bringing CD-era albums originally issued between 1992 and 2010 onto vinyl for the very first time, since many of these recordings, having been made and released after vinyl's commercial decline, had simply never been pressed on the format at all. Issued in 2012 as a 180-gram 2LP set, it was mastered by Greg Calbi from the original master tapes – a different mastering pass from the 1996 CD's Masterdisk mastering, done specifically for this vinyl cut. The package includes a gatefold cover, a 6-page insert booklet, and black poly-lined inner sleeves. Retailer product descriptions credit two separate contributors here, worth distinguishing rather than conflating: the vinyl itself was pressed by MMP, a German pressing plant, while the packaging and sleeve design work is separately credited to Khiov, a design house that has worked on a number of similar first-time-on-vinyl reissues in the same series. Because no earlier vinyl edition exists to compare it against, there isn't a "definitive original pressing versus reissue" comparison to make here the way there is for most albums on this site – this pressing simply is the vinyl version of the album, full stop.
+Brecker wrote five of the nine pieces. Metheny contributed "Song for Bilbao," Calderazzo "Midnight Voyage" and Don Grolnick "Willie T."
 
-This is a mid-1990s digital-era jazz recording, tracked and mixed using the studio technology and conventions of its time – expect a cleaner, more contemporary sonic signature than the tape-era recordings covered elsewhere on this site, rather than vintage analog warmth. Greg Calbi's vinyl-specific mastering pass from the original tapes should, in principle, give this pressing a reasonable claim to representing the recording accurately, though a substantial body of independent owner reviews specifically evaluating the vinyl's sound quality against the CD could not be found.
+This is a mid-1990s digital-era recording, made and mixed with the studio conventions of its time. It does not have the tape-era character of the 1950s and 1960s recordings, and no reissue can give it one.
+
+## The 2012 Play 33⅓ Series pressing
+
+[Universal's Play 33⅓ Series edition](https://www.discogs.com/release/5833512) appeared in 2012 as a 180g 2LP, spreading the nine tracks across four sides. [Acoustic Sounds](https://store.acousticsounds.com/d/93210/Michael_Brecker-Tales_From_The_Hudson-180_Gram_Vinyl_Record) lists the catalogue number as AUNI 3107, where Discogs gives DZ 3107.
+
+The series exists to put 1990s and 2000s CD-only albums onto vinyl for the first time. Retailer descriptions credit the pressing to MMP in Germany, with sleeve and package design by Khiov.
+
+The package has a gatefold jacket, a six-page insert and two black poly-lined inner sleeves. No mastering engineer is named in the retailer listings or on the Discogs entry.
+
+No substantial body of owner reviews comparing this pressing with the CD could be found. With one vinyl edition and no published comparison, there is no basis for rating it against anything else.
 
 ## Buyer's guide by budget
 
-**$$$:** The Universal Music Korea Play 33⅓ Series edition (catalog DZ 3107) – there is no other vinyl option to weigh it against.
+**$$$:** The [Play 33⅓ Series 2LP](https://www.discogs.com/release/5833512). There is no other vinyl option to weigh it against.
 
 ## Pressing tier summary
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | Universal Music Korea, Play 33⅓ Series | DZ 3107 | 2012 | Stereo, 33⅓, 2×180g | Greg Calbi, from the original master tapes; pressed by MMP (Germany) | First and only vinyl pressing of this title; gatefold, 6-page insert; packaging design by Khiov | [Discogs](https://www.discogs.com/release/5833512) |
+| **–** | Universal, Play 33⅓ Series | DZ 3107 / AUNI 3107 | 2012 | Stereo, 33⅓, 2×180g | Not credited. Pressed by MMP in Germany | Not rated. The only vinyl edition. Gatefold, six-page insert, design by Khiov | [Discogs](https://www.discogs.com/release/5833512) |
 
 ## References
 
 - Discogs (master, all versions): [https://www.discogs.com/master/284678](https://www.discogs.com/master/284678)
 - Wikipedia, "Tales from the Hudson": [https://en.wikipedia.org/wiki/Tales_from_the_Hudson](https://en.wikipedia.org/wiki/Tales_from_the_Hudson)
+- Acoustic Sounds, "Michael Brecker – Tales From The Hudson – 180 Gram Vinyl Record": [https://store.acousticsounds.com/d/93210/Michael_Brecker-Tales_From_The_Hudson-180_Gram_Vinyl_Record](https://store.acousticsounds.com/d/93210/Michael_Brecker-Tales_From_The_Hudson-180_Gram_Vinyl_Record)
