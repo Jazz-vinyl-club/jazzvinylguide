@@ -2,45 +2,69 @@
 
 ## Summary
 
-This album was recorded across two sessions, December 16 and 18, 1954, at Fine Sound Studios in New York City, produced by Bob Shad. It was originally released simply as *Sarah Vaughan* – a self-titled record, catalog EmArcy MG-36004 – and only later reissues added "with Clifford Brown" to the title to foreground the trumpeter's involvement.
+This album was recorded over two sessions, on December 16 and 18, 1954, at Fine Sound Studios in New York, produced by Bob Shad. EmArcy released it in 1955 as MG-36004, titled simply *Sarah Vaughan*. Later reissues added "with Clifford Brown" to the title. The band has Herbie Mann on flute, Paul Quinichette on tenor saxophone, Jimmy Jones on piano, Joe Benjamin on bass and Roy Haynes on drums.
 
-**Best early pressing for audiophiles:** [EmArcy MG-36004](https://www.discogs.com/release/3050687) – 1955 original mono pressing, blue/silver "drummer" label.
+The practical choice is between a 1955 original and the Verve Acoustic Sounds Series reissue. Claims about other audiophile editions need checking, since at least one widely repeated claim about a 45rpm reissue of this title does not hold up. Budget reissues vary considerably in quality, and coloured vinyl imports carry no mastering credits at all.
 
-**Best modern pressing for audiophiles:** [the Verve Acoustic Sounds Series edition](https://www.discogs.com/release/16840773) – mastered by Ryan K. Smith at Sterling Sound from the original analog tapes, pressed at Quality Record Pressings; see below on a rejected claim about a different reissue.
-
-**Best-value modern:** a later Mercury/EmArcy Japanese pressing (1983) or a modern 180-gram reissue – see below on one specific reissue with mixed reports.
+- **Best early pressing for audiophiles:** [EmArcy MG-36004](https://www.discogs.com/release/3050687), the 1955 mono original on the blue and silver drummer label.
+- **Best modern pressing for audiophiles:** The [Verve Acoustic Sounds Series edition](https://www.discogs.com/release/16840773), cut by Ryan K. Smith at Sterling Sound and pressed at Quality Record Pressings.
+- **Best-value modern:** A 1983 Mercury/EmArcy Japanese pressing.
 
 ## Recording history and tape provenance
 
-Vaughan and Brown had reportedly discussed recording together for nearly three years before the sessions finally happened; by the time they did, both were on the same label (Vaughan recording pop material for Mercury and jazz for its EmArcy subsidiary, Brown established as one of the most talked-about young trumpeters in jazz), and the timing finally worked. The band also includes Herbie Mann on flute, Paul Quinichette on tenor sax, Jimmy Jones on piano, Joe Benjamin on bass, and Roy Haynes on drums – though notably, none of Brown, Quinichette, or Mann appear on the album's most celebrated track, "Embraceable You," which Vaughan performs with just the rhythm section. This was the only studio collaboration between Vaughan and Brown; he died in a car accident less than two years later, in June 1956, at age 25. AllMusic's John Bush called it, in whichever incarnation it's reissued, "one of the most important jazz-meets-vocal sessions ever recorded," and Vaughan herself reportedly named it her own favorite among her recordings through at least 1980. The album was inducted into the Grammy Hall of Fame in 1999.
+Vaughan and Brown had reportedly discussed recording together for nearly three years. By the time the sessions happened both were on the same label, with Vaughan recording pop material for Mercury and jazz for its EmArcy subsidiary.
 
-One source found during research for this guide claimed a 2019 Analogue Productions 45rpm reissue, mastered by Kevin Gray, exists for this specific album. That claim did not survive a cross-check against Analogue Productions' own comprehensive release catalog: their confirmed Sarah Vaughan titles are APJ 191 (*Crazy and Mixed Up*) and APJ 196 (*Send in the Clowns*, with the Count Basie Orchestra) – both later Pablo-label recordings from the 1980s, not this 1954 EmArcy session. No AP catalog number for *Sarah Vaughan with Clifford Brown* turned up anywhere in that discography. Rather than repeat an uncorroborated, likely-incorrect claim, this guide treats the real audiophile-tier reissue of this title as the confirmed Verve Acoustic Sounds Series edition described below, sourced directly from Acoustic Sounds' own product listing.
+Brown, Quinichette and Mann do not appear on the album's best-known track. Vaughan performs "Embraceable You" with the rhythm section alone.
 
-Separately, one Discogs reviewer of a 2019 Waxtime reissue of this title specifically flagged it as "a mixed bag for discerning collectors, audiophiles, and casual listeners" despite being marketed as an affordable alternative to pricier originals – worth knowing if you come across that specific edition and are expecting audiophile-grade sound at a budget price.
+This was the only studio meeting between Vaughan and Brown. He died in a car accident in June 1956, at 25.
 
-## Sound quality by pressing
+## A reissue that does not exist
 
-The EmArcy MG-36004 (1955 original) is the true first pressing, on the blue and silver "drummer" label design. Owner reviews describe a forward, full, and immediate sound characteristic of good mid-1950s EmArcy engineering, though clean copies are reportedly hard to find given how frequently a beloved vocal record like this one tends to get played rather than shelved.
+One source claims a 2019 Analogue Productions 45rpm reissue of this album, mastered by Kevin Gray. That claim does not survive a check against Analogue Productions' own catalogue.
 
-The Verve Acoustic Sounds Series edition is mastered by Ryan K. Smith at Sterling Sound from the original analog tapes (confirmed via the runout etching itself, which reads "STERLING"), pressed at Quality Record Pressings on 180-gram vinyl, packaged by Stoughton Printing in a gatefold tip-on jacket. Stereophile rated it 5 out of 5 for performance and 3.5 out of 5 for sonics, and one retailer review states plainly that the reissue "sounds markedly better than the original pressing." One recurring owner report worth flagging: at least one reviewer describes a very abrupt cutoff at the end of "It's Crazy," as if the needle had been lifted early – possibly a pressing-specific issue, possibly baked into the source tape, not confirmed as affecting every copy of this release.
+Their confirmed Sarah Vaughan titles are APJ 191, *Crazy and Mixed Up*, and APJ 196, *Send in the Clowns* with the Count Basie Orchestra. Both are Pablo-label recordings from the 1980s, not this 1954 EmArcy session.
 
-A 1983 Mercury/EmArcy Japanese pressing is generally well regarded by collectors for cleanliness and detail. Various later European DMM (Direct Metal Mastering) imports exist on both standard black and colored vinyl (blue and purple variants have both been documented); treat any specific claim about these as unconfirmed absent a specific mastering credit, and see above on the 2019 Waxtime edition's mixed reception specifically.
+No Analogue Productions catalogue number for this title appears anywhere in that discography. A seller offering one is describing something else.
+
+## Original EmArcy pressings (1955)
+
+[EmArcy MG-36004](https://www.discogs.com/release/3050687) on the blue and silver drummer label is the first pressing. Owner reviews describe a forward, full and immediate sound typical of good mid-1950s EmArcy engineering.
+
+Clean copies are hard to find. A well-loved vocal record of this age tends to have been played rather than shelved, so condition varies more than the label variant does.
+
+## Verve Acoustic Sounds Series
+
+The [Acoustic Sounds edition](https://www.discogs.com/release/16840773) was cut by Ryan K. Smith at Sterling Sound from the original analog tapes. The "STERLING" etching in the runout confirms it. It is pressed on 180g at Quality Record Pressings, in a Stoughton gatefold tip-on jacket.
+
+Stereophile rated [this edition](https://www.discogs.com/release/16840773) 5 out of 5 for performance and 3.5 for sonics. One retailer review states it sounds markedly better than the original pressing.
+
+One owner report describes an abrupt cutoff at the end of "It's Crazy," as though the needle had been lifted early. Whether that is in the source tape or specific to some copies is unresolved.
+
+## Japanese and European reissues
+
+A 1983 Mercury/EmArcy Japanese pressing is well regarded by collectors for cleanliness and detail. No mastering credit for it has been confirmed.
+
+Various later European Direct Metal Mastering imports exist, on black vinyl and on blue and purple coloured variants. None carries a confirmed mastering credit, so coloured vinyl and import packaging should not be read as audiophile production.
+
+One Discogs reviewer of a 2019 Waxtime reissue calls it a mixed bag for collectors, audiophiles and casual listeners. It is marketed as a cheaper alternative to an original. Its entry sits on the [Discogs master](https://www.discogs.com/master/229892).
 
 ## Buyer's guide by budget
 
-**$$:** A later Mercury/EmArcy Japanese pressing (1983) or a standard modern reissue, budget permitting – verify specific mastering claims rather than assuming any colored-vinyl import is audiophile-grade.
+**$$:** A 1983 Mercury/EmArcy Japanese pressing, or a standard modern reissue with its mastering credit checked rather than assumed.
 
-**$$$:** The [Verve Acoustic Sounds Series edition](https://www.discogs.com/release/16840773) – confirmed mastering credit, solid production values.
+**$$$:** The [Verve Acoustic Sounds Series edition](https://www.discogs.com/release/16840773), with a confirmed mastering credit and solid production.
 
-**$$$$:** A clean [EmArcy MG-36004](https://www.discogs.com/release/3050687) 1955 original, condition-dependent – rare and often expensive given how well-loved this record has always been.
+**$$$$:** A clean [EmArcy MG-36004](https://www.discogs.com/release/3050687) original, priced on condition.
 
 ## Pressing tier summary
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | EmArcy MG-36004 | MG-36004 | 1955 | Mono, 33⅓ | EmArcy lacquer | First pressing; blue/silver "drummer" label | [Discogs](https://www.discogs.com/release/3050687) |
-| **A** | Verve Acoustic Sounds Series | – | 2020 | Mono, 33⅓, 180g | Ryan K. Smith, Sterling Sound (confirmed via runout etching); QRP | Gatefold tip-on jacket; Stereophile rated 5/5 performance, 3.5/5 sonics | [Discogs](https://www.discogs.com/release/16840773) |
-| **B** | Mercury/EmArcy Japanese pressing | – | 1983 | Mono, 33⅓ | Not independently confirmed | Well regarded for cleanliness and detail | – |
+| **A** | EmArcy original | MG-36004 | 1955 | Mono, 33⅓ | EmArcy lacquer | First pressing. Blue and silver drummer label | [Discogs](https://www.discogs.com/release/3050687) |
+| **A** | Verve Acoustic Sounds Series | – | 2020 | Mono, 33⅓, 180g | Ryan K. Smith, Sterling Sound, confirmed by the runout. Pressed at QRP | Stoughton gatefold tip-on. Stereophile 5/5 performance, 3.5/5 sonics | [Discogs](https://www.discogs.com/release/16840773) |
+| **B** | Mercury/EmArcy (Japan) | – | 1983 | Mono, 33⅓ | Not credited | Well regarded by collectors for cleanliness and detail | – |
+| **C** | Waxtime reissue | – | 2019 | Mono, 33⅓ | Not credited | One owner review calls it a mixed bag against its budget-alternative marketing | – |
+| **–** | European DMM imports | – | Various | Mono, 33⅓ | Not credited | Not rated. Black, blue and purple vinyl variants documented | – |
 
 ## References
 
