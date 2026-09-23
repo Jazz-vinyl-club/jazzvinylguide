@@ -2,46 +2,57 @@
 
 ## Summary
 
-*The Epic* was recorded during an intensive month-long session in December 2011 at Kingsize Soundlabs in Echo Park, Los Angeles – part of the same "KSL Sessions" that yielded material for several other West Coast Get Down members' later albums – and released May 5, 2015 (CD/digital) and October 2, 2015 (vinyl) as Brainfeeder BF050. Kamasi Washington (tenor sax, bandleader) leads a ten-piece core band plus a 32-piece string orchestra and 20-person choir conducted by Miguel Atwood-Ferguson. Washington produced, with Tony Austin and Thundercat co-producing; Tony Austin, Chris Constable, and Brian Rosemeyer engineered.
+*The Epic* was recorded across a month of sessions in December 2011 at Kingsize Soundlabs in Echo Park, Los Angeles. Kamasi Washington plays tenor saxophone and leads a ten-piece core band, a 32-piece string orchestra and a 20-person choir conducted by Miguel Atwood-Ferguson. Washington produced, with Tony Austin and Thundercat co-producing. Brainfeeder released it on CD in May 2015 and on vinyl in October 2015 as BF050.
 
-Unlike the vintage titles elsewhere in this guide, the collector question here isn't which decades-old reissue best channels a fragile master tape – it's a straightforward, well-documented format problem: 172 minutes of music was pressed onto just three LPs (six sides), averaging close to 30 minutes per side. That's roughly twice the playing time per side that vinyl mastering engineers generally recommend for full dynamic range, and the sonic compromise shows up consistently across every pressing run of this title, not just a bad batch.
+The collector question here is not which reissue best serves an old tape, but a format problem that applies to every copy. The vinyl carries 172 minutes of music across six sides, close to 30 minutes a side. Cutting engineers generally treat 15 to 22 minutes a side as the limit for full dynamic range.
 
-**Best early pressing for audiophiles:** There isn't a meaningfully different "early" option – see the format note below.
+**Best early pressing for audiophiles:** No meaningfully different early option exists.
 
-**Best modern pressing for audiophiles:** All vinyl pressings ([Discogs](https://www.discogs.com/release/7383499-Kamasi-Washington-The-Epic)) share the same half-speed master; there's no reissue that fixes the underlying side-length compromise.
+**Best modern pressing for audiophiles:** All vinyl pressings share the same half-speed master, so no reissue fixes the side-length problem.
 
-**Best-value modern:** The vinyl box set at whatever price you find it – the vinyl-specific limitations apply equally to every copy, so there's little reason to pay a premium for a particular pressing year.
+**Best-value modern:** The [vinyl box set](https://www.discogs.com/release/7383499-Kamasi-Washington-The-Epic) at whatever price it turns up, since the limitations apply equally to every copy.
 
 ## Recording history and tape provenance
 
-Kamasi Washington's core band, later branded the West Coast Get Down, had played together since their teens at Locke High School's after-school jazz program in Los Angeles. In December 2011, the collective pooled resources to rent Kingsize Soundlabs for a full month, recording around 190 songs across 30 straight days that would eventually surface on multiple members' solo albums – Miles Mosley's *Uprising*, Ronald Bruner Jr.'s *Triumph*, Cameron Graves's *Planetary Prince*, and others, alongside Washington's own contribution. Washington shelved his own material for several years while session work – most notably string and horn arrangements for Kendrick Lamar's *To Pimp a Butterfly* and touring with Flying Lotus – raised his profile, before Flying Lotus's Brainfeeder label finally released *The Epic* in 2015.
+Washington's core band, later known as the West Coast Get Down, had played together since their teens. They met at Locke High School's after-school jazz program in Los Angeles. In December 2011 the collective pooled money to rent Kingsize Soundlabs for a month.
 
-The album unfolds across three named volumes (The Plan, The Glorious Tale, The Historic Repetition) built around a recurring dream Washington described of a guardian awaiting a worthy successor – a loose creation-myth narrative underpinning 17 mostly original compositions, alongside interpretations of the standard "Cherokee," Claude Debussy's "Clair de Lune," and Terence Blanchard's "Malcolm's Theme" (set to a recording of Ossie Davis's eulogy for Malcolm X). The personnel is unusually large even by big-band standards: doubled bassists (Miles Mosley, Stephen "Thundercat" Bruner) and doubled drummers (Ronald Bruner Jr., Tony Austin), Ryan Porter on trombone, Igmar Thomas on trumpet, Cameron Graves and Brandon Coleman on keys, Leon Mobley on percussion, and vocalists Patrice Quinn and Dwight Trible, on top of the string orchestra and choir.
+They recorded around 190 songs in 30 days. That material later surfaced across several members' solo albums, including Miles Mosley's *Uprising*, Ronald Bruner Jr.'s *Triumph* and Cameron Graves's *Planetary Prince*.
 
-*The Epic* received near-universal critical acclaim (Metacritic 83), was named DownBeat's Jazz Album of the Year in 2016, and later appeared on Rolling Stone's list of the 100 Best Albums of the 2010s. AllMusic's Thom Jurek called it holistic in breadth and deep in vision, praising its accessibility without compromise. CD and digital formats were mastered by Stephen Marcussen at Marcussen Mastering; the vinyl edition used an entirely separate mastering chain (see below), which is the source of the format-specific limitations discussed throughout this guide.
+Washington shelved his own share for several years. Session work raised his profile in the meantime, most visibly his string and horn arrangements for Kendrick Lamar's *To Pimp a Butterfly*. Flying Lotus's Brainfeeder label released *The Epic* in 2015.
 
----
+The album runs across three named volumes, The Plan, The Glorious Tale and The Historic Repetition. It holds 17 mostly original compositions, plus "Cherokee," Debussy's "Clair de Lune" and Terence Blanchard's "Malcolm's Theme." The last is set to a recording of Ossie Davis's eulogy for Malcolm X.
 
-## The vinyl format note
+The personnel is large even by big-band standards. Miles Mosley and Stephen "Thundercat" Bruner both play bass, and Ronald Bruner Jr. and Tony Austin both play drums. Ryan Porter plays trombone, Igmar Thomas trumpet, Cameron Graves and Brandon Coleman keys, Leon Mobley percussion, with vocals from Patrice Quinn and Dwight Trible.
 
-Every known vinyl pressing of *The Epic* – the original 2015 run and later repress batches from 2020 and 2021 – shares the same fundamental mastering: a half-speed cut by Matt Colton at Alchemy Mastering, pressed at MPO. The 2021 repress shows some sides (E and F, and reportedly some A/B copies) recut by a different engineer, Lex van Coeverden, likely due to lacquer replacement rather than a new mastering approach – the sound doesn't meaningfully differ between pressing years.
+Stephen Marcussen mastered the CD and digital editions at Marcussen Mastering. The vinyl went through an entirely separate chain, which is where the format-specific limitations come from.
 
-The complaint that surfaces consistently across Discogs reviews, regardless of pressing year, is the same: with six sides carrying roughly 172 minutes of music, each side runs close to 30 minutes – a length that inherently narrows the groove and compresses dynamic range compared to the 15-22 minutes per side generally considered ideal for full-fidelity vinyl. Reviewers describe the result as "dull and muffled compared to the digital," "over-compressed," and mastered at "super low" levels; one Discogs commenter summarized the shared view bluntly: "This should be properly mastered on 5 LPs." Reception isn't uniformly negative – several owners report a decent, clean-sounding pressing, particularly after cleaning – but the pattern of complaints is broad enough, and consistent enough across different pressing years, that it should be treated as an inherent property of this release rather than bad luck with an individual copy.
+## The vinyl format problem
 
-Given this, the practical guidance for this title is straightforward: buy the vinyl for the outstanding packaging (rigid board outer slipcase, individually artworked 3mm-spined sleeves, two 12" poster inserts with art by KC Woolf Haxton and calligraphy by Kenturah Davis) and the tactile experience of a 17-track triple album, but don't expect it to outperform the CD or digital masters, which several listeners and at least one Discogs reviewer explicitly recommend instead for critical listening.
+Every known vinyl pressing, from the original 2015 run through repress batches in 2020 and 2021, shares one mastering. It is a half-speed cut by Matt Colton at Alchemy Mastering, pressed at MPO.
 
----
+The 2021 repress shows sides E and F, and reportedly some A and B copies, recut by Lex van Coeverden. That looks like lacquer replacement rather than a new approach, and the sound does not meaningfully differ between pressing years.
+
+Six sides carrying 172 minutes means each side runs close to 30 minutes. Long sides narrow the groove and compress dynamic range. Reviewers on the [Discogs release](https://www.discogs.com/release/7383499-Kamasi-Washington-The-Epic) describe the result as dull and muffled against the digital, over-compressed and cut at very low level. One commenter there argues it should have been spread across five LPs.
+
+Reception is not uniformly negative. Several owners report a clean, decent-sounding pressing, particularly after cleaning. The complaints are broad and consistent enough across pressing years to read as a property of the release rather than bad luck with a copy.
+
+The practical guidance follows from that. The vinyl is worth buying for the packaging and the object. Several owners on the same page recommend the digital or CD master for critical listening.
+
+The package is a rigid board slipcase holding three individually artworked sleeves with 3mm spines. Two 12" poster inserts carry art by KC Woolf Haxton and calligraphy by Kenturah Davis.
+
+## Buyer's guide by budget
+
+**$$$:** The [vinyl box set](https://www.discogs.com/release/7383499-Kamasi-Washington-The-Epic), in any pressing year. Price and condition are the only variables.
 
 ## Pressing tier summary
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | CD / digital | BFCD050 | 2015 | Stereo | Mastered by Stephen Marcussen, Marcussen Mastering | Widely preferred over vinyl for critical listening on this title | – |
-| **B** | Vinyl box set (all pressing years) | BF050 | 2015–2021 | Stereo, 33⅓, 3×180g | Half-speed cut by Matt Colton, Alchemy Mastering, MPO | Same master across all years; ~30 min/side compresses dynamics; excellent packaging | [Discogs](https://www.discogs.com/release/7383499-Kamasi-Washington-The-Epic) |
+| **B** | Brainfeeder vinyl box set, all pressing years | BF050 | 2015–2021 | Stereo, 33⅓, 3×180g | Half-speed cut by Matt Colton, Alchemy Mastering. Pressed at MPO | Same master across all years. About 30 minutes a side. Rigid slipcase, two poster inserts | [Discogs](https://www.discogs.com/release/7383499-Kamasi-Washington-The-Epic) |
+| **–** | Brainfeeder CD and digital | BFCD050 | 2015 | Stereo | Stephen Marcussen, Marcussen Mastering | Not rated, not a vinyl pressing. Preferred to the vinyl for critical listening by several owners | – |
 
 ## References
 
-- Discogs (master): [https://www.discogs.com/master/837501-Kamasi-Washington-The-Epic](https://www.discogs.com/master/837501-Kamasi-Washington-The-Epic)
+- Discogs (master, all versions): [https://www.discogs.com/master/837501-Kamasi-Washington-The-Epic](https://www.discogs.com/master/837501-Kamasi-Washington-The-Epic)
 - AllMusic, Thom Jurek's review of "The Epic": [https://www.allmusic.com/album/the-epic-mw0002838338](https://www.allmusic.com/album/the-epic-mw0002838338)
-- TurntableLab, product page for the vinyl 3LP box set: [https://www.turntablelab.com/products/kamasi-washington-the-epic-180g-vinyl-3lp](https://www.turntablelab.com/products/kamasi-washington-the-epic-180g-vinyl-3lp)
-- Discogs release and community listings for all pressings of the vinyl box set (BF050, all pressing years 2015-2021)
+- TurntableLab, "Kamasi Washington – The Epic 180g Vinyl 3LP": [https://www.turntablelab.com/products/kamasi-washington-the-epic-180g-vinyl-3lp](https://www.turntablelab.com/products/kamasi-washington-the-epic-180g-vinyl-3lp)
