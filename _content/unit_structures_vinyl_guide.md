@@ -2,49 +2,68 @@
 
 ## Summary
 
-*Unit Structures* was recorded May 19, 1966 at Van Gelder Studio in Englewood Cliffs, NJ, produced by Alfred Lion. It was Cecil Taylor's first album for Blue Note and his first release of any kind since 1962, following an unusually quiet stretch even by his own standards. Released in October 1966 as Blue Note BLP 4237 (mono) and BST 84237 (stereo).
+*Unit Structures* was recorded on May 19, 1966 at Van Gelder Studio in Englewood Cliffs, New Jersey, produced by Alfred Lion. It was Cecil Taylor's first album for Blue Note and his first release of any kind since 1962. Blue Note issued it in October 1966 as BLP 4237 in mono and BST 84237 in stereo.
 
-**Best early pressing for audiophiles:** [Blue Note BLP 4237](https://www.discogs.com/release/2467928) – 1966 original mono pressing; see below on the identification detail.
+The septet is dense, with two basses playing at once, so pressing quality affects how well the individual voices separate rather than blur. The 2023 Blue Note Classic Vinyl Edition matters here for a specific reason. It is reported to be this title's first all-analog reissue, meaning every earlier reissue involved a digital step.
 
-**Best modern pressing for audiophiles:** the Blue Note Classic Vinyl Series – all-analog, mastered by Kevin Gray, pressed at Optimal in Germany, and notably described by TrackingAngle as this title's first-ever all-analog reissue.
-
-**Best-value modern:** a 1980 Japanese Toshiba EMI reissue (catalog GXT 8147) – a legitimate, well-packaged vintage-era alternative to a US original.
+- **Best early pressing for audiophiles:** [Blue Note BLP 4237](https://www.discogs.com/release/2467928), the 1966 mono original.
+- **Best modern pressing for audiophiles:** The Blue Note Classic Vinyl Edition (2023), cut by Kevin Gray from the original tapes and pressed at Optimal.
+- **Best-value modern:** The [1980 Japanese Toshiba EMI reissue](https://www.discogs.com/release/5871578), catalogue GXT 8147.
 
 ## Recording history and tape provenance
 
-Taylor leads a septet far larger and more texturally varied than his usual working group: trumpeter Eddie Gale Stevens Jr., saxophonists Jimmy Lyons and Ken McIntyre (who also plays oboe and bass clarinet), two bassists working simultaneously – Henry Grimes and Alan Silva – and drummer Andrew Cyrille, alongside Taylor himself on piano and bells. The dual-bass arrangement lets Grimes anchor a driving, elemental low end while Silva works in a more tonally abstract, "fugitive" register, giving the group an unusually wide harmonic and textural range for a free jazz session of this era. Author Philip Freeman, whose biography *In the Brewing Luminous: The Life & Music of Cecil Taylor* draws on new interviews and research into these sessions, describes Van Gelder's mixing approach on the date as prioritizing the horns and the two basses specifically, giving the record something like the feel of chamber music – while still, in Freeman's words, lacking "the dry perfection of a classical recording," retaining a rawness suited to the material.
+Taylor leads a septet larger than his usual group. Eddie Gale Stevens Jr. plays trumpet, Jimmy Lyons alto saxophone and Ken McIntyre alto, oboe and bass clarinet. Henry Grimes and Alan Silva both play bass, with Andrew Cyrille on drums and Taylor on piano and bells.
 
-The album is accompanied by a genuinely unusual liner essay in Taylor's own words, titled "Sound Structure of Subculture Becoming Major Breath/Naked Fire Gesture," blending poetry with an explanation of the compositional and philosophical ideas behind the four extended pieces. AllMusic's Scott Yanow gave the album a full five stars, writing that Taylor's high-energy atonalism wasn't merely part of the free jazz movement of the period but was "actually leading the way" ahead of it, arguing no other jazz of the era matched its ferocity and intensity. The Penguin Guide to Jazz awarded it three and a half out of four stars, singling out the interplay between the two bassists specifically. Taylor recorded a follow-up, *Conquistador!*, with a similar lineup that October, though Blue Note didn't release it until 1968.
+The two basses work differently. Grimes anchors the low end while Silva plays in a more abstract register, which widens the group's range beyond what a single bass would give.
 
-TrackingAngle's review of the Blue Note Classic Vinyl Series edition specifically frames it as this title's first all-analog reissue – meaning every prior reissue of *Unit Structures*, including the CD-era editions dating back to 1987, involved a digital step somewhere in the mastering chain. That's a meaningful distinction for a title recorded on 1966-vintage analog tape: the modern Classic Vinyl edition, mastered by Kevin Gray directly from the original master tapes with no digital intermediate step, represents a genuinely different signal path than anything available to collectors for nearly four decades between the original pressing and this reissue.
+Philip Freeman's biography *In the Brewing Luminous* draws on new interviews about these sessions. He describes Van Gelder's mixing as favouring the horns and the two basses, per [these radio notes](https://jazzontherideau.substack.com/p/rabble-without-a-cause-february-19). Freeman calls the result close to chamber music, while still lacking the dry perfection of a classical recording.
 
-## Sound quality by pressing
+Taylor wrote the liner essay himself, titled "Sound Structure of Subculture Becoming Major Breath/Naked Fire Gesture." It mixes poetry with an account of the ideas behind the four extended pieces. He recorded *Conquistador!* with a similar lineup that October, though Blue Note held it until 1968.
 
-The Blue Note BLP 4237 (mono) / BST 84237 (stereo), 1966 original are the true first pressings. A genuine original mono copy has runouts that are hand-etched except for a stamped "VAN GELDER" credit, a blue-and-white label reading "Blue Note Records Inc • New York USA," a back cover address of "43 West 61st St., New York, N.Y. 10023," and text noting "MONAURAL, also available in Stereo BST 84237" – useful details for confirming a genuine period-correct copy. Given the recording's dense, densely-layered free ensemble playing, pressing quality and condition have a real effect on how well individual voices (especially the two simultaneous basses) separate rather than blur together.
+## Original Blue Note pressings (1966)
 
-The Japanese Toshiba EMI reissue (1980) carries catalog GXT 8147 on the back cover and labels (also printed as GXT8147 on the obi strip), with stamped runouts and the Japanese Industrial Standards (〄) symbol stamped into the dead wax on both sides – a legitimate, well-documented vintage Japanese pressing, issued with Japanese-language liner notes and a series catalogue insert.
+A first-pressing mono [BLP 4237](https://www.discogs.com/release/2467928) has hand-etched runouts except for a stamped "VAN GELDER" credit. The label is blue and white, reading "Blue Note Records Inc • New York USA."
 
-The Blue Note Classic Vinyl Series is all-analog, mastered by Kevin Gray from the original master tapes, pressed at Optimal in Germany on 180-gram vinyl – see above on its significance as this title's first all-analog reissue.
+The back cover address reads "43 West 61st St., New York, N.Y. 10023," with text noting "MONAURAL, also available in Stereo BST 84237." Those details confirm a period-correct copy.
+
+The stereo original carries BST 84237. No published comparison of the mono and stereo originals has been found.
+
+## Japanese pressings
+
+The [1980 Toshiba EMI reissue](https://www.discogs.com/release/5871578) carries GXT 8147 on the back cover and labels, printed as GXT8147 on the obi strip. Its runouts are stamped, with the Japanese Industrial Standards mark stamped into the dead wax on both sides.
+
+It came with Japanese-language liner notes and a series catalogue insert, per its [Discogs entry](https://www.discogs.com/release/5871578). No published sound comparison with a US pressing has been found.
+
+## Blue Note Classic Vinyl Edition (2023)
+
+The Classic Vinyl Edition appeared on August 18, 2023, barcode 602455236579. [Retailer listings](https://elusivedisc.com/cecil-taylor-unit-structures-blue-note-classic-vinyl-series-180g-lp) carrying Blue Note's description give it as stereo and all-analog. Kevin Gray mastered it from the original tapes, and it was pressed on 180g at Optimal.
+
+[Tracking Angle](https://trackingangle.com/music/cecil-taylor-unit-structures-review-blue-note-classics-vinyl) frames it as this title's first all-analog reissue. On that account every prior reissue, including CD editions going back to 1987, had a digital step in the chain.
+
+That is a real distinction for a 1966 analog recording. It also means the comparison a buyer faces is between this cut and an original, with nothing in between that avoids digital.
 
 ## Buyer's guide by budget
 
-**$$$:** The Blue Note Classic Vinyl Series – the current, accessible, all-analog reissue.
+**$$$:** The [Blue Note Classic Vinyl Edition](https://elusivedisc.com/cecil-taylor-unit-structures-blue-note-classic-vinyl-series-180g-lp), the current all-analog reissue.
 
-**$$$$:** A 1980 Japanese Toshiba EMI reissue (catalog GXT 8147), a legitimate vintage alternative to a US original.
+**$$$$:** The [1980 Japanese Toshiba EMI pressing](https://www.discogs.com/release/5871578), a vintage alternative to a US original.
 
-**$$$$:** A clean [Blue Note BLP 4237](https://www.discogs.com/release/2467928) mono original, condition-dependent – confirm the identification details above.
+**$$$$:** A clean [Blue Note BLP 4237](https://www.discogs.com/release/2467928) mono original, checked against the identification details.
 
 ## Pressing tier summary
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Blue Note Classic Vinyl Series | BST 84237 | – | Stereo, 33⅓, 180g | Kevin Gray; pressed at Optimal (Germany) | Reportedly this title's first all-analog reissue | – |
-| **A** | Blue Note BLP 4237 / BST 84237 | BLP 4237 / BST 84237 | 1966 | Mono & Stereo, 33⅓ | Rudy Van Gelder | First pressing; hand-etched runouts except stamped "VAN GELDER" credit | [Discogs](https://www.discogs.com/release/2467928) |
-| **B** | Japanese Toshiba EMI reissue | GXT 8147 | 1980 | Stereo, 33⅓ | Not independently confirmed | Stamped runouts, JIS symbol in dead wax, Japanese liner notes and obi | [Discogs](https://www.discogs.com/release/5871578) |
+| **S** | Blue Note Classic Vinyl Edition | BST 84237 | 2023 | Stereo, 33⅓, 180g | Kevin Gray, all-analog, from the original tapes. Pressed at Optimal | Reported to be this title's first all-analog reissue | – |
+| **A** | Blue Note original, mono | BLP 4237 | 1966 | Mono, 33⅓ | Rudy Van Gelder | First pressing. Hand-etched runouts with a stamped "VAN GELDER" | [Discogs](https://www.discogs.com/release/2467928) |
+| **B** | Toshiba EMI (Japan) | GXT 8147 | 1980 | Stereo, 33⅓ | Not credited | Stamped runouts, JIS mark in the dead wax, obi and Japanese notes | [Discogs](https://www.discogs.com/release/5871578) |
+| **–** | Blue Note original, stereo | BST 84237 | 1966 | Stereo, 33⅓ | Rudy Van Gelder | Not rated. No published comparison with the mono | – |
 
 ## References
 
+- Discogs (master, all versions): [https://www.discogs.com/master/43554](https://www.discogs.com/master/43554)
 - Wikipedia, "Unit Structures": [https://en.wikipedia.org/wiki/Unit_Structures](https://en.wikipedia.org/wiki/Unit_Structures)
 - jazzdisco.org, Cecil Taylor discography: [https://www.jazzdisco.org/cecil-taylor/discography/](https://www.jazzdisco.org/cecil-taylor/discography/)
-- TrackingAngle, "Blue Note Classics Reissues Cecil Taylor's 'Unit Structures'": [https://trackingangle.com/music/cecil-taylor-unit-structures-review-blue-note-classics-vinyl](https://trackingangle.com/music/cecil-taylor-unit-structures-review-blue-note-classics-vinyl)
-- Rabble Without A Cause (radio show notes, drawing on Philip Freeman's biography "In the Brewing Luminous: The Life & Music of Cecil Taylor"): [https://jazzontherideau.substack.com/p/rabble-without-a-cause-february-19](https://jazzontherideau.substack.com/p/rabble-without-a-cause-february-19)
+- Tracking Angle, "Blue Note Classics Reissues Cecil Taylor's 'Unit Structures'": [https://trackingangle.com/music/cecil-taylor-unit-structures-review-blue-note-classics-vinyl](https://trackingangle.com/music/cecil-taylor-unit-structures-review-blue-note-classics-vinyl)
+- Elusive Disc, "Cecil Taylor – Unit Structures (Blue Note Classic Vinyl Series) 180g LP": [https://elusivedisc.com/cecil-taylor-unit-structures-blue-note-classic-vinyl-series-180g-lp](https://elusivedisc.com/cecil-taylor-unit-structures-blue-note-classic-vinyl-series-180g-lp)
+- Rabble Without A Cause, radio show notes drawing on Philip Freeman's *In the Brewing Luminous*: [https://jazzontherideau.substack.com/p/rabble-without-a-cause-february-19](https://jazzontherideau.substack.com/p/rabble-without-a-cause-february-19)
