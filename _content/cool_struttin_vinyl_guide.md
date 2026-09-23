@@ -2,57 +2,80 @@
 
 ## Summary
 
-*Cool Struttin'* was recorded January 5, 1958 at Van Gelder Studio in Hackensack, NJ, produced by Alfred Lion. It was pianist Sonny Clark's fifth date as a Blue Note leader, and the one that's since come to be regarded as his masterwork – a compact, deceptively relaxed hard bop session with Art Farmer on trumpet, Jackie McLean on alto sax, Paul Chambers on bass, and Philly Joe Jones on drums. Released August 1958 as Blue Note BLP 1588 (mono) and BST 81588 (stereo).
+*Cool Struttin'* was recorded on January 5, 1958 at Van Gelder Studio in Hackensack, New Jersey, produced by Alfred Lion. It was Sonny Clark's fifth date as a Blue Note leader. The quintet is Art Farmer on trumpet, Jackie McLean on alto saxophone, Paul Chambers on bass and Philly Joe Jones on drums. Blue Note released it in August 1958 as BLP 1588 in mono and BST 81588 in stereo.
 
-**Best early pressing for audiophiles:** an original Blue Note BLP 1588 (mono) or BST 81588 (stereo) – extremely scarce and expensive; see below on a more attainable alternative that retains the original mastering.
+Originals are among the most expensive records in the Blue Note catalogue, so the practical question is which alternative to buy. Three modern editions exist, two from Music Matters and one from Blue Note, all cut by Kevin Gray. A later Liberty-era pressing is a fourth route that keeps Rudy Van Gelder's original mono cut.
 
-**Best modern pressing for audiophiles:** genuinely contested – two Music Matters editions (a limited 2×45rpm pressing and a separate 33⅓ pressing) versus the Blue Note Classic Vinyl Edition, all mastered by the same engineer, Kevin Gray; see below before assuming Music Matters is worth its typical price premium.
-
-**Best-value modern:** the Blue Note Classic Vinyl Edition – all-analog, mastered by Kevin Gray, pressed at Optimal in Germany.
+- **Best early pressing for audiophiles:** An original [Blue Note BLP 1588 or BST 81588](https://www.discogs.com/release/6502013), scarce and expensive.
+- **Best modern pressing for audiophiles:** Contested between the Music Matters 45rpm, the Music Matters 33⅓ and the Blue Note Classic Vinyl Edition.
+- **Best-value modern:** The Blue Note Classic Vinyl Edition (2021), all-analog, cut by Kevin Gray and pressed at Optimal.
 
 ## Recording history and tape provenance
 
-Clark, heavily influenced by Bud Powell, made eleven albums under his own name between 1957 and 1961 before dying in January 1963 at just 31. The album's four lengthy performances – the title track, "Blue Minor," "Sippin' at Bells" (a Miles Davis composition), and a nine-and-a-half-minute closing take on the 1929 standard "Deep Night" – give the whole quintet room to stretch out in a way shorter, more compressed hard bop sessions don't always allow. The cover, designed by Reid Miles from a Francis Wolff photograph, actually depicts Alfred Lion's wife Ruth rather than any musician on the record – one of the more famous instances of a Blue Note cover image having nothing literally to do with the session inside.
+Clark was heavily influenced by Bud Powell and made eleven albums under his own name between 1957 and 1961. He died in January 1963 at 31.
 
-Mono was the primary format at the time of the original release, but stereo pressings have been favored in most reissue programs in the decades since. Original first pressings of this title are now exceptionally scarce and expensive – LondonJazzCollector's detailed survey of high-value Blue Note originals ranks *Cool Struttin'* as the second most valuable title in the entire catalog by collector auction activity, with clean original copies routinely fetching well over $2,000.
+The album has four long performances. They are the title track, "Blue Minor," Miles Davis's "Sippin' at Bells" and a nine-and-a-half-minute "Deep Night," a standard from 1929. The length gives the quintet room that shorter hard bop sessions do not.
 
-Given how scarce and expensive genuine first pressings have become, it's worth knowing that not every alternative to a true 1958 original means giving up Rudy Van Gelder's original mono mastering. One detailed collector account describes tracking down and purchasing what the collector identifies as a "third or fourth" Liberty-era pressing of BLP 1588 – meaning a repress from well after Blue Note's sale to Liberty Records in the mid-1960s, at least eight years removed from the original release – that still carries the original Van Gelder mono cutting, evidenced by the RVG stamp in the dead wax. This kind of later pressing, while still a genuine collector item in its own right, is typically far more attainable than a true first pressing while preserving the mastering generation that matters most to many listeners.
+The cover, designed by Reid Miles from a Francis Wolff photograph, shows Alfred Lion's wife Ruth rather than any musician on the record.
 
-Two separate Music Matters editions of this title exist and shouldn't be confused with each other: an earlier, limited 2×45rpm edition (numbered, limited to 3,500 copies, mastered by Kevin Gray and Steve Hoffman at AcousTech, pressed at RTI), and a later, separate single-LP 33⅓ edition, also mastered by Kevin Gray. Promotional copy circulating for Music Matters' 33⅓ series in general makes a striking claim about how much better their newer 33⅓ mastering sounds compared to their earlier 45rpm work – but that specific comparison, as written, describes a side-by-side test using *Kenny Burrell's Midnight Blue* as the reference title, not Cool Struttin' itself, and the same promotional text appears to be reused across product pages for multiple different Music Matters 33⅓ titles. This guide isn't treating that as a confirmed comparison of Cool Struttin's own two editions specifically, since the source doesn't actually make that direct comparison for this title.
+Van Gelder ran mono and stereo tapes simultaneously on Blue Note sessions from March 1957 until late 1958. Mono was the primary format at release, and most reissue programmes since have used the stereo tapes.
 
-Worth knowing before assuming Music Matters titles automatically outperform the Blue Note Classic Vinyl Edition on this or any title: a detailed, volume-matched shootout by an independent record store owner directly compared Blue Note Classic/80th Anniversary pressings against their equivalent Music Matters editions across three specific titles (Hank Mobley's *Soul Station*, Lee Morgan's *The Sidewinder*, and Joe Henderson's *Page One* – not Cool Struttin' itself, so this is general context rather than a direct claim about this title). The reviewer found the two series essentially indistinguishable once volume-matched, attributing an apparent Music Matters advantage to the Music Matters pressings simply being cut a few decibels louder – a well-documented psychoacoustic effect where louder audio is perceived as better even when the underlying fidelity is equivalent. Both series share the same mastering engineer (Kevin Gray) working from the same original tapes, which the reviewer argues makes a dramatic quality gap between them implausible on its face. This doesn't mean Cool Struttin's own two Music Matters editions and Blue Note Classic Vinyl Edition are proven identical – that specific comparison wasn't tested – but it's a reasonable caution against assuming the price gap between a $200+ Music Matters copy and a $25–35 Blue Note Classic copy reflects an equivalent gap in sound quality.
+## Original Blue Note pressings (1958)
 
-## Sound quality by pressing
+First pressings are exceptionally scarce. [LondonJazzCollector](https://londonjazzcollector.wordpress.com/2015/01/16/rare-blue-note-whats-the-collector-alternative/) ranks *Cool Struttin'* second in the whole Blue Note catalogue by collector auction activity, with clean originals routinely past $2,000.
 
-The Blue Note BLP 1588 (mono) / BST 81588 (stereo), 1958 original are the true first pressings – exceptionally scarce and among the most expensive Blue Note originals in the entire catalog. Later pressings under the same catalog number include a distinctive 1973–75 dark blue label variant carrying "A Division of United Artists Records, Inc." text, pressed by All Disc Records (identifiable via "22" and "66" codes in the runout); one documented copy of this era even shows a corrected matrix etching, with a crossed-out "B" and a squared "A" stamped below it.
+Later pressings under the same catalogue number include a dark blue label from 1973 to 1975. It carries "A Division of United Artists Records, Inc." text and was pressed by All Disc Records. The "22" and "66" codes stamped in the runout identify it. One documented copy of that era shows a corrected matrix, with a crossed-out "B" and a squared "A" stamped underneath it.
 
-A later Liberty-era pressing with retained RVG mastering is a genuine, more attainable way to hear Van Gelder's original mono cut without paying first-pressing prices – see above.
+## Liberty-era pressings with the RVG cut
 
-The Music Matters 2×45rpm (limited, 3,500 copies) is mastered by Kevin Gray and Steve Hoffman at AcousTech Mastering, pressed at RTI on 180-gram vinyl, in an extra-thick gatefold jacket with session photography. The Music Matters 33⅓ (single LP) is a separate, later Music Matters edition of this title, also mastered by Kevin Gray.
+Not every alternative to a 1958 original means giving up Van Gelder's mastering. [Deep Groove Mono](https://dgmono.com/2019/05/09/vinyl-spotlight-sonny-clark-cool-struttin-blp-1588-liberty-mono-pressing/) describes buying what the collector identifies as a third or fourth Liberty-era pressing of BLP 1588.
 
-The Blue Note Classic Vinyl Edition is all-analog, mastered by Kevin Gray from the original master tapes, pressed at Optimal in Germany – the most accessible modern option carrying Gray's mastering.
+That copy still carries the original Van Gelder mono cut, shown by the RVG stamp in the dead wax. It dates from at least eight years after the original release, after Blue Note's sale to Liberty.
+
+These pressings cost a fraction of a first pressing while keeping the mastering generation that matters most to many listeners. The RVG stamp is the thing to check.
+
+## Music Matters editions
+
+Two Music Matters editions exist and are easy to confuse. The [45rpm edition](https://elusivedisc.com/sonny-clark-cool-struttin-numbered-limited-edition-180g-45rpm-2lp/) is a numbered 2LP limited to 3,500 copies. Kevin Gray and Steve Hoffman remastered it at AcousTech from the Van Gelder master tapes, and it was pressed at RTI (Record Technology Inc.).
+
+The [33⅓ edition](https://elusivedisc.com/sonny-clark-cool-struttin-180g-lp) came later, in the 2014 series marking Blue Note's 75th anniversary, cut by Kevin Gray at Cohearent Audio.
+
+Music Matters' promotional copy claims the newer 33⅓ mastering improves on their 45rpm work. That comparison, as written, uses *Midnight Blue* as its reference title, and the same text appears across several Music Matters 33⅓ product pages. It is not a comparison of this album's two editions.
+
+## Blue Note Classic Vinyl Edition (2021)
+
+The Classic Vinyl Edition is all-analog, mastered by Kevin Gray from the original tapes. [Retailer listings](https://spindizzyrecords.com/products/sonny-clark-cool-struttin-blue-note-classic-vinyl-remastered-edition-lp-180g-vinyl) carrying Blue Note's description give the pressing as 180g at Optimal.
+
+[The 'In' Groove](https://www.youtube.com/watch?v=xES9Wdojec8) ran a volume-matched comparison of Classic Vinyl against Music Matters on three other titles, not this one. The two series were essentially indistinguishable once matched, with the apparent Music Matters advantage tracing to a louder cut.
+
+Both series come from the same engineer and the same tapes, which [that reviewer](https://www.youtube.com/watch?v=xES9Wdojec8) argues makes a large gap implausible. It is general context, since this album was not among the titles tested.
+
+The price gap is real, with Music Matters copies well past $100 against roughly $30 for a Classic Vinyl copy. Whether it buys sound or packaging is untested for this title.
 
 ## Buyer's guide by budget
 
-**$$$:** The Blue Note Classic Vinyl Edition – all-analog Kevin Gray mastering at standard pricing.
+**$$$:** The Blue Note Classic Vinyl Edition, Kevin Gray's mastering at ordinary pricing.
 
-**$$$$:** A later Liberty-era pressing confirmed to carry the original RVG mono stamp, or a Music Matters 33⅓ edition.
+**$$$$:** A Liberty-era pressing with the RVG stamp confirmed, or the [Music Matters 33⅓ edition](https://elusivedisc.com/sonny-clark-cool-struttin-180g-lp).
 
-**$$$$$:** The Music Matters 2×45rpm edition, or an original Blue Note BLP 1588/BST 81588 pressing if you can find and afford one – both represent the top and most expensive tiers of this particular title's market.
+**$$$$$:** The [Music Matters 45rpm](https://elusivedisc.com/sonny-clark-cool-struttin-numbered-limited-edition-180g-45rpm-2lp/), or an original [BLP 1588 or BST 81588](https://www.discogs.com/release/6502013).
 
 ## Pressing tier summary
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Music Matters 2×45rpm | – | – | Mono/Stereo, 45rpm, 2×180g | Kevin Gray & Steve Hoffman, AcousTech; RTI | Numbered, limited to 3,500 copies | – |
-| **A** | Blue Note BLP 1588 / BST 81588 | BLP 1588 / BST 81588 | 1958 | Mono & Stereo, 33⅓ | Rudy Van Gelder | First pressing; among the most valuable Blue Note originals – reportedly the second most valuable title in the catalog | [Discogs](https://www.discogs.com/release/6502013) |
-| **A** | Music Matters 33⅓ | – | – | Stereo, 33⅓, 180g | Kevin Gray | Separate, later single-LP edition, distinct from the 45rpm | – |
-| **A** | Blue Note Classic Vinyl Edition | BST 81588 | – | Stereo, 33⅓, 180g | Kevin Gray; pressed at Optimal (Germany) | Same mastering engineer and source tapes as Music Matters; a volume-matched shootout on other titles found the two series essentially indistinguishable – see above before paying a large premium for Music Matters | – |
-| **B** | Later Liberty-era pressing (RVG stamp retained) | BLP 1588 | c. 1966+ | Mono, 33⅓ | Rudy Van Gelder (original mastering retained on later stampers) | A more attainable way to hear the original mono cut without first-pressing prices | – |
+| **S** | Music Matters 45rpm | BST 81588 (MM) | – | Stereo, 45rpm, 2×180g | Kevin Gray and Steve Hoffman, AcousTech. Pressed at RTI | Numbered, 3,500 copies | – |
+| **A** | Blue Note original | BLP 1588 / BST 81588 | 1958 | Mono and stereo, 33⅓ | Rudy Van Gelder | First pressing. Second most valuable title in the catalogue by auction activity | [Discogs](https://www.discogs.com/release/6502013) |
+| **A** | Music Matters 33⅓ | BST 81588 (MM) | 2014 | Stereo, 33⅓, 180g | Kevin Gray, Cohearent Audio | Separate, later single-LP edition | – |
+| **A** | Blue Note Classic Vinyl Edition | BST 81588 | 2021 | Stereo, 33⅓, 180g | Kevin Gray, all-analog. Pressed at Optimal | Same engineer and tapes as Music Matters. Not tested in the volume-matched comparison | – |
+| **B** | Liberty-era pressing with RVG stamp | BLP 1588 | c. 1966 onwards | Mono, 33⅓ | Rudy Van Gelder, original cut retained | Check for the RVG stamp in the dead wax | – |
+| **–** | United Artists-era dark blue label | BLP 1588 | 1973–75 | 33⅓ | Not credited | Not rated. Pressed by All Disc Records, "22" and "66" runout codes | – |
 
 ## References
 
 - Wikipedia, "Cool Struttin'": [https://en.wikipedia.org/wiki/Cool_Struttin%27](https://en.wikipedia.org/wiki/Cool_Struttin%27)
 - LondonJazzCollector, "Rare Blue Note: what's the collector alternative?": [https://londonjazzcollector.wordpress.com/2015/01/16/rare-blue-note-whats-the-collector-alternative/](https://londonjazzcollector.wordpress.com/2015/01/16/rare-blue-note-whats-the-collector-alternative/)
-- Deep Groove Mono, "Vinyl Spotlight: Sonny Clark, Cool Struttin' (Blue Note 1588) Liberty Mono Pressing": [https://dgmono.com/2019/05/09/vinyl-spotlight-sonny-clark-cool-struttin-blp-1588-liberty-mono-pressing/](https://dgmono.com/2019/05/09/vinyl-spotlight-sonny-clark-cool-struttin-blp-1588-liberty-mono-pressing/)
-- The 'In' Groove, "Blue Note Classic LP's VS Music Matters Jazz Review and shootout + Mike Rambles A Bit": [https://www.youtube.com/watch?v=xES9Wdojec8](https://www.youtube.com/watch?v=xES9Wdojec8)
+- Deep Groove Mono, "Vinyl Spotlight: Sonny Clark, Cool Struttin' (BLP 1588) Liberty Mono Pressing": [https://dgmono.com/2019/05/09/vinyl-spotlight-sonny-clark-cool-struttin-blp-1588-liberty-mono-pressing/](https://dgmono.com/2019/05/09/vinyl-spotlight-sonny-clark-cool-struttin-blp-1588-liberty-mono-pressing/)
+- Elusive Disc, "Sonny Clark – Cool Struttin', numbered limited edition 180g 45rpm 2LP": [https://elusivedisc.com/sonny-clark-cool-struttin-numbered-limited-edition-180g-45rpm-2lp/](https://elusivedisc.com/sonny-clark-cool-struttin-numbered-limited-edition-180g-45rpm-2lp/)
+- Elusive Disc, "Sonny Clark – Cool Struttin' 180g LP" (Music Matters 33⅓): [https://elusivedisc.com/sonny-clark-cool-struttin-180g-lp](https://elusivedisc.com/sonny-clark-cool-struttin-180g-lp)
+- The 'In' Groove, "Blue Note Classic LP's VS Music Matters Jazz Review and shootout": [https://www.youtube.com/watch?v=xES9Wdojec8](https://www.youtube.com/watch?v=xES9Wdojec8)
