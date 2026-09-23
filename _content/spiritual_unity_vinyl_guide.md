@@ -8,7 +8,7 @@ The five tracks are "Ghosts (First Variation)," "The Wizard," "Spirits," "Units"
 
 **Best early pressing for audiophiles:** [ESP 1002 mono](https://www.discogs.com/release/4339219), the first pressing, with a Plastylite "ear" in the dead wax.
 
-**Best modern pressing for audiophiles:** The current ESP-Disk repress, 180g with the original artwork restored, listed by [Forced Exposure](https://www.forcedexposure.com/Catalog/ayler-trio-albert-spiritual-unity-lp/ESPDISK.1002LP.html) as a 2024 repress.
+**Best modern pressing for audiophiles:** The current [ESP-Disk repress](https://www.discogs.com/master/39790-Albert-Ayler-Trio-Spiritual-Unity), catalogue ESPDISK 1002LP, 180g with the original artwork restored.
 
 **Best-value modern:** The same ESP-Disk repress. Several vintage European pressings are poorly made.
 
@@ -36,7 +36,9 @@ Anyone who wants the 1964 session as recorded should check which "Spirits" a cop
 
 [ESP 1002](https://www.discogs.com/release/4339219) in mono is the first pressing. It has a deep groove on side A, a Plastylite "ear" in the dead wax and an "sf" lacquer credit for Bell Sound. The front cover carries no catalogue number or ESP address, which appear only on the label. Early copies included a booklet.
 
-A [stereo pressing](https://www.discogs.com/release/7625206-Albert-Ayler-Trio-Spiritual-Unity) carries ESPS 1002 in the runouts, also with Plastylite ears. ESP-Disk's production standards in this period were low-budget, so condition varies more than usual between copies.
+A [stereo pressing](https://www.discogs.com/release/7625206-Albert-Ayler-Trio-Spiritual-Unity) carries ESPS 1002 in the runouts, also with Plastylite ears. Stollman's own account of the session appears in [dealer listings of the reissue](https://www.sonicboommusic.com/products/albert-ayler-trio-spiritual-unity-vinyl). He learned afterwards that it had been recorded in mono, despite his request for stereo. An ESPS-labelled copy is therefore a label variant rather than a separate mix.
+
+ESP-Disk's production standards in this period were low-budget, so condition varies more than usual between copies.
 
 ## European pressings
 
@@ -46,13 +48,15 @@ The Italian [Get Back reissue](https://www.discogs.com/release/402263-Albert-Ayl
 
 ## Current ESP-Disk repress
 
-ESP-Disk has kept the album in print on 180g vinyl with the original artwork restored. [Forced Exposure](https://www.forcedexposure.com/Catalog/ayler-trio-albert-spiritual-unity-lp/ESPDISK.1002LP.html) lists the current stock as a 2024 repress, and earlier dealer listings describe a 2018 repress pressed in the United States.
+ESP-Disk has kept the album in print on 180g virgin vinyl with the original artwork restored, catalogued ESPDISK 1002LP. Dealer listings track repressings in 2018, 2021 and 2024, all pressed in the United States.
+
+Discogs does not separate these repressings by year, so the [master page](https://www.discogs.com/master/39790-Albert-Ayler-Trio-Spiritual-Unity) is the reference for them. [Forced Exposure](https://www.forcedexposure.com/Catalog/ayler-trio-albert-spiritual-unity-lp/ESPDISK.1002LP.html) states which repress is currently in stock.
 
 No mastering engineer is credited for these repressings, and no published comparison with an original has been found. They are the simplest way to own the album without navigating the vintage European editions.
 
 ## Buyer's guide by budget
 
-**$$:** The current [ESP-Disk repress](https://www.forcedexposure.com/Catalog/ayler-trio-albert-spiritual-unity-lp/ESPDISK.1002LP.html), in print and straightforward.
+**$$:** The current [ESP-Disk repress](https://www.discogs.com/master/39790-Albert-Ayler-Trio-Spiritual-Unity), in print and straightforward.
 
 **$$$$:** A clean [ESP 1002 mono](https://www.discogs.com/release/4339219) original, priced on condition, with the correct "Spirits" confirmed.
 
@@ -61,16 +65,15 @@ No mastering engineer is credited for these repressings, and no published compar
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
 | **A** | ESP-Disk original | ESP 1002 | 1965 | Mono, 33⅓ | ESP-Disk lacquer, cut at Bell Sound. Pressed by Plastylite | First pressing. Deep groove side A, Plastylite "ear" | [Discogs](https://www.discogs.com/release/4339219) |
-| **B** | Current ESP-Disk repress | ESP 1002 | 2018 and 2024 repressings | 33⅓, 180g | Not credited | Original artwork restored. In print | – |
+| **B** | Current ESP-Disk repress | ESPDISK 1002LP | 2018, 2021 and 2024 repressings | 33⅓, 180g | Not credited | Original artwork restored. In print. No separate Discogs release for the repressings | – |
 | **C** | Get Back (Italy) | – | – | 33⅓, 180g | Not credited | Owner reports of skipping and an audible tone on side B | [Discogs](https://www.discogs.com/release/402263-Albert-Ayler-Trio-Spiritual-Unity) |
 | **D** | Base Record (Italy) | ESPS 1002 | – | Labelled stereo, sleeve labelled monaural | Not credited | Sleeve and labels disagree. One owner calls it badly pressed and of dubious legality | [Discogs](https://www.discogs.com/release/1210930-Albert-Ayler-Trio-Spiritual-Unity) |
-| **–** | ESP-Disk stereo pressing | ESPS 1002 | 1965 | Stereo, 33⅓ | Pressed by Plastylite | Not rated. Plastylite "ear" in both runouts | [Discogs](https://www.discogs.com/release/7625206-Albert-Ayler-Trio-Spiritual-Unity) |
+| **–** | ESP-Disk stereo-labelled pressing | ESPS 1002 | 1965 | 33⅓ | Pressed by Plastylite | Not rated. The session was recorded in mono, so this is a label variant | [Discogs](https://www.discogs.com/release/7625206-Albert-Ayler-Trio-Spiritual-Unity) |
 
 ## References
 
 - Discogs (master, all versions): [https://www.discogs.com/master/39790](https://www.discogs.com/master/39790)
 - Wikipedia, "Spiritual Unity": [https://en.wikipedia.org/wiki/Spiritual_Unity](https://en.wikipedia.org/wiki/Spiritual_Unity)
-- ESP-Disk, official album page: [http://www.espdisk.com/1002.html](http://www.espdisk.com/1002.html)
 - ESP-Disk, Bandcamp, 50th Anniversary Expanded Edition: [https://albertayler.bandcamp.com/album/spiritual-unity](https://albertayler.bandcamp.com/album/spiritual-unity)
 - Forced Exposure, "Albert Ayler Trio: Spiritual Unity LP": [https://www.forcedexposure.com/Catalog/ayler-trio-albert-spiritual-unity-lp/ESPDISK.1002LP.html](https://www.forcedexposure.com/Catalog/ayler-trio-albert-spiritual-unity-lp/ESPDISK.1002LP.html)
 - ESP-Disk, "The Albert Ayler Story: 50th Anniversary of 'Spiritual Unity,' Bernard Stollman Interview": [https://www.youtube.com/watch?v=WeJ5dagugj4](https://www.youtube.com/watch?v=WeJ5dagugj4)
