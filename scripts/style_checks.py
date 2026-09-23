@@ -26,7 +26,7 @@ WORDS_PER_PRESSING_MIN = 150
 
 FIRST_PERSON_RE = re.compile(r"\b(I|I'm|I've|I'd|my|me|we|we've|our|us)\b")
 SITE_REF_RE = re.compile(
-    r"\b(this site|on the site|other guides?|elsewhere on|guides on|most of the guides|"
+    r"\b(this site|on the site|other guides?|elsewhere on (the|this) site|guides on|most of the guides|"
     r"this guide|these guides)\b", re.I)
 SECOND_PERSON_RE = re.compile(r"\b(you|your|you're|you'll|yourself)\b", re.I)
 REFERENCE_WORD_RE = re.compile(
