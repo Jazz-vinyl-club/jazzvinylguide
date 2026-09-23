@@ -2,9 +2,9 @@
 
 ## Summary
 
-*Jaco Pastorius* was recorded in October 1975 at Camp Colomby Studios in New City, New York. The rest was cut at Columbia Recording Studios C and B in New York City. Bobby Colomby produced, the Blood, Sweat & Tears drummer who had championed Pastorius after hearing him in Miami. Epic released it in late April 1976 as PE 33949. It was Pastorius's first widely distributed solo album, and it treats the electric bass as a lead voice rather than a support instrument.
+*Jaco Pastorius* was recorded in October 1975 at Camp Colomby Studios in New City, New York. The rest was cut at Columbia Recording Studios C and B. It was produced by Bobby Colomby, the drummer who had championed Pastorius after hearing him in Miami. Epic released it in late April 1976 as PE 33949. 
 
-The record moves between unaccompanied solo bass, small-combo funk and orchestral string writing across one LP side. Pressing quality matters more than usual as a result, because a thin or noisy copy buries the bass in the rest of the mix. This catalogue number also came from several plants with audible differences between them.
+It was Pastorius's first widely distributed solo album, and it treats the electric bass as a lead voice rather than a support instrument. The record moves between unaccompanied solo bass, small-combo funk and orchestral string writing across one LP side. Pressing quality matters more than usual as a result, because a thin or noisy copy buries the bass in the rest of the mix. This catalogue number also came from several plants with audible differences between them.
 
 **Best early pressing for audiophiles:** [Epic PE 33949, Terre Haute pressing](https://www.discogs.com/release/2781435), the 1976 original on orange Epic labels.
 
@@ -22,11 +22,17 @@ The tune's authorship is disputed. The original LP labels credit "Donna Lee" to 
 
 ## Original Epic pressings (1976)
 
-[Epic PE 33949](https://www.discogs.com/release/2781435) appeared from several plants, including Terre Haute, Santa Maria and Carrollton, with European pressings on orange, blue and grey Epic labels.
+[Epic PE 33949](https://www.discogs.com/release/2781435) appeared from several US plants, and Discogs documents them separately. The Terre Haute pressing on orange Epic labels is the one generally sought.
 
-Collector reports describe audible differences between plants on this title, more than is usual. The Terre Haute pressing on orange labels in the glossy gatefold is the one generally sought. The plant matters as much as the 1976 date.
+The [Santa Maria pressing](https://www.discogs.com/release/19531621-Jaco-Pastorius-Jaco-Pastorius) is identified by a "1 S" etching in the runout, on orange labels with the same design as Terre Haute. One owner calls it a great sounding pressing, and another reports a Santa Maria copy on blue Epic labels rather than orange.
 
-One experienced collector reports a UK pressing sounding crisper and more forward on the drums than the ORG reissue. The UK label and plant details could not be confirmed here, so that remains a lead rather than a recommendation.
+A [Pitman pressing](https://www.discogs.com/release/11027739-Jaco-Pastorius-Jaco-Pastorius) from 1978 also circulates. One owner rates its separation and soundstage ahead of both the CD and the Music On Vinyl reissue.
+
+Carrollton copies need care. One comment on the [Discogs master](https://www.discogs.com/master/49071-Jaco-Pastorius-Jaco-Pastorius) warns that some Carrollton pressings were cut in mono by mistake and sound dull. Another owner rates Carrollton the best of the plants. Both accounts sit on the same page.
+
+Later repressings vary more. An owner of one [reissue](https://www.discogs.com/release/1427205-Jaco-Pastorius-Jaco-Pastorius) reports almost no channel separation and a nearly mono soundstage. Another comment there describes a 1979 reissue on cursive Epic labels as a corrected cut.
+
+Outside the US, Epic issued it in the Netherlands as [EPC 81453](https://www.discogs.com/release/6492257-Jaco-Pastorius-Jaco-Pastorius), in several label variants. A [US promo](https://www.discogs.com/release/1599605-Jaco-Pastorius-Jaco-Pastorius) also exists.
 
 ## Original Recordings Group 45rpm (2012)
 
@@ -38,9 +44,11 @@ Wider groove spacing suits a record this dense. [The Audio Beat](https://theaudi
 
 ## Music On Vinyl (2010)
 
-The [Music On Vinyl 180g reissue](https://www.discogs.com/release/2506261) is the standard modern option. Owner reviews on Discogs describe it as flat and quiet, with the bass clearly defined rather than muddy.
+The [Music On Vinyl 180g reissue](https://www.discogs.com/release/2506261), catalogue MOVLP136, is the standard modern option. Some owner reviews describe it as flat and quiet, with the bass clearly defined rather than muddy.
 
-No mastering engineer is credited in the sources checked. It is the easiest way to own the album without chasing an original or paying ORG prices.
+Others disagree sharply. A 2026 review on the [Discogs master](https://www.discogs.com/master/49071-Jaco-Pastorius-Jaco-Pastorius) calls the vinyl crackly and noisy even after ultrasonic cleaning, while allowing that the soundstage is decent. An owner of a vintage Pitman copy prefers that pressing by a wide margin.
+
+No mastering engineer is credited in the sources checked. It is the easiest way to own the album without chasing an original or paying ORG prices, with more copy-to-copy variation than its price suggests.
 
 ## Buyer's guide by budget
 
@@ -56,13 +64,17 @@ No mastering engineer is credited in the sources checked. It is the easiest way 
 |---|---|---|---|---|---|---|---|
 | **S** | Original Recordings Group 45rpm | ORG 114 | 2012 | Stereo, 45rpm, 2×180g | Bernie Grundman, from the original analog masters. Pressed at RTI | Numbered, 2,500 copies. TONEAudio 2012 best audiophile pressings | [Discogs](https://www.discogs.com/release/3557880) |
 | **A** | Epic original, Terre Haute pressing | PE 33949 | 1976 | Stereo, 33⅓ | Epic lacquer | First pressing. Orange Epic labels, glossy gatefold | [Discogs](https://www.discogs.com/release/2781435) |
-| **B** | Music On Vinyl | PE 33949 (MOV) | 2010 | Stereo, 33⅓, 180g | Not credited | Owner reviews consistently positive on clarity and low end | [Discogs](https://www.discogs.com/release/2506261) |
-| **–** | Epic original, other US plants | PE 33949 | 1976 | Stereo, 33⅓ | Epic lacquer | Not rated. Santa Maria and Carrollton pressings, reported to differ audibly | – |
-| **–** | UK pressing | – | 1976 | Stereo, 33⅓ | Not credited | Not rated. One collector reports crisper drums than the ORG reissue | – |
+| **B** | Music On Vinyl | MOVLP136 | 2010 | Stereo, 33⅓, 180g | Not credited | Owner reviews split, from flat and quiet to crackly and noisy | [Discogs](https://www.discogs.com/release/2506261) |
+| **A** | Epic original, Santa Maria pressing | PE 33949 | 1976 | Stereo, 33⅓ | Epic lacquer | "1 S" runout etch. Orange labels, blue-label variant reported | [Discogs](https://www.discogs.com/release/19531621-Jaco-Pastorius-Jaco-Pastorius) |
+| **B** | Epic, Pitman pressing | PE 33949 | 1978 | Stereo, 33⅓ | Epic lacquer | One owner prefers it to the CD and the Music On Vinyl reissue | [Discogs](https://www.discogs.com/release/11027739-Jaco-Pastorius-Jaco-Pastorius) |
+| **C** | Epic repressing, later labels | PE 33949 | Late 1970s–80s | Stereo, 33⅓ | Epic lacquer | One owner reports nearly no channel separation. A 1979 cursive-label cut is described as corrected | [Discogs](https://www.discogs.com/release/1427205-Jaco-Pastorius-Jaco-Pastorius) |
+| **–** | Epic original, Carrollton pressing | PE 33949 | 1976 | Stereo, 33⅓ | Epic lacquer | Not rated. Accounts conflict. Best of the plants for one owner, mistakenly cut in mono and dull for another | – |
+| **–** | Epic (Netherlands) | EPC 81453 | 1976 | Stereo, 33⅓ | Epic lacquer | Not rated. Orange, black and white label variants documented | [Discogs](https://www.discogs.com/release/6492257-Jaco-Pastorius-Jaco-Pastorius) |
+| **–** | Epic US promo | PE 33949 | 1976 | Stereo, 33⅓ | Epic lacquer | Not rated. Promotional pressing | [Discogs](https://www.discogs.com/release/1599605-Jaco-Pastorius-Jaco-Pastorius) |
 
 ## References
 
-- Discogs (master, all versions): [https://www.discogs.com/master/49071](https://www.discogs.com/master/49071)
+- Discogs (master, all versions): [https://www.discogs.com/master/49071-Jaco-Pastorius-Jaco-Pastorius](https://www.discogs.com/master/49071-Jaco-Pastorius-Jaco-Pastorius)
 - The Audio Beat, "Jaco Pastorius, Epic/Original Recordings Group ORG 114": [https://theaudiobeat.com/music/jaco_pastorius_lp.htm](https://theaudiobeat.com/music/jaco_pastorius_lp.htm)
 - TONEAudio, "Jaco Pastorius": [https://tonepublications.com/?p=9442](https://tonepublications.com/?p=9442)
 - Elusive Disc, "Jaco Pastorius – Jaco Pastorius, numbered limited edition 180g 45rpm 2LP": [https://elusivedisc.com/jaco-pastorius-jaco-pastorius-numbered-limited-edition-180g-45rpm-2lp](https://elusivedisc.com/jaco-pastorius-jaco-pastorius-numbered-limited-edition-180g-45rpm-2lp)
