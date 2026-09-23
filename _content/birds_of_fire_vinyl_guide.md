@@ -2,54 +2,70 @@
 
 ## Summary
 
-*Birds of Fire* was recorded in August 1972 at Trident Studios in London and CBS Studios in New York, produced by the band itself. It's the second and, as it turned out, final studio album by the original Mahavishnu Orchestra lineup – John McLaughlin on guitar, Jerry Goodman on violin, Jan Hammer on keyboards and Moog synthesizer, Rick Laird on bass, and Billy Cobham on drums – before internal tensions broke the group apart. Released January 3, 1973 as Columbia KC 31996 in the US.
+*Birds of Fire* was recorded in August 1972 at Trident Studios in London and CBS Studios in New York, produced by the band. It is the second and last studio album by the original Mahavishnu Orchestra. The band is John McLaughlin on guitar, Jerry Goodman on violin, Jan Hammer on keyboards, Rick Laird on bass and Billy Cobham on drums. Columbia released it on January 3, 1973 as KC 31996.
 
-**Best early pressing for audiophiles:** an original Columbia KC 31996 (1973) – though see below on genuinely wide quality variance between individual copies.
+Original copies vary in sound more than most records of the period, which changes the usual original-against-reissue calculation. Two modern reissues have strong reputations, a 2010 Friday Music edition and a 2019 Speakers Corner edition. Owners who have compared them describe a trade-off rather than a winner. A quadraphonic mix also exists, though it is hard to find on vinyl.
 
-**Best modern pressing for audiophiles:** contested between two well-regarded reissues – the 2010 Friday Music edition (mastered by Kevin Gray) and the 2019 Speakers Corner edition – see below on a real, documented trade-off between them.
-
-**Best-value modern:** either reissue above is a safer, more consistent bet than an unknown-quality original pressing.
+- **Best early pressing for audiophiles:** An original [Columbia KC 31996](https://www.discogs.com/release/584022), if the copy can be heard or trusted first.
+- **Best modern pressing for audiophiles:** Contested between the Friday Music (2010) and [Speakers Corner](https://www.discogs.com/release/13516565) (2019) editions.
+- **Best-value modern:** Either reissue. Both are more consistent than an unheard original.
 
 ## Recording history and tape provenance
 
-The two-city session left an odd but well-documented mark on the album's engineering credits: Ken Scott, who'd already made his name working with the Beatles, Pink Floyd, and Supertramp, engineered the London sessions at Trident, but wasn't a member of the New York musicians' union and so wasn't permitted into the control room for the CBS sessions – Jim Green is credited as engineer there instead, even though Scott remained closely involved with the overall sound. At Trident, Billy Cobham's drum kit turned out to be too large to fit in the studio's dedicated drum booth at all, so it was set up out in the main room with makeshift baffling around it instead – a compromise Scott later wrote about in his memoir *Abbey Road to Ziggy Stardust*, describing it as part of a positive, high-energy session overall.
+The two-city session left an odd mark on the credits. Ken Scott engineered the London sessions at Trident. He was not in the New York musicians' union, so he could not enter the control room for the CBS sessions. Jim Green is credited there instead, though Scott stayed involved in the sound.
 
-Every composition is McLaughlin's, including "Miles Beyond," dedicated to his friend and former bandleader Miles Davis, and the back cover carries the poem "Revelation" by Sri Chinmoy, the spiritual teacher McLaughlin followed at the time. The album pushes further into the dense, rapid-fire fusion of jazz improvisation, rock volume, and Indian classical rhythmic structure the group had introduced on their 1971 debut, *The Inner Mounting Flame*. Released also as CBS S 65321 in the UK and Netherlands and CBS/Sony SOPL-175 in Japan, the title track earned a 1974 Grammy nomination for Best Pop Instrumental Performance, and the album reached No. 15 in the US, No. 5 in Canada, and charted across several European territories as well. A quadraphonic mix was also issued in 1973 (Columbia CQ 31996, in the SQ matrix format), remixed by Don Young under the sound supervision of Harold J. Kleiner – this survives today mainly through a 2015 Audio Fidelity numbered SACD reissue rather than an easily found vinyl quad copy, and at least one detailed listening comparison found the quad mix's bass definition on Rick Laird's playing notably weaker than the standard stereo mix, a trade-off inherent to the format rather than any specific pressing's fault.
+At Trident, Cobham's kit was too large for the drum booth. It was set up in the main room with makeshift baffling around it. Scott described the sessions as high-energy in his memoir *Abbey Road to Ziggy Stardust*, quoted on the [QuadraphonicQuad forum](https://quadraphonicquad.com/threads/mahavishnu-orchestra-the-birds-of-fire-sacd.20985/).
 
-A third studio album was attempted but never completed in its intended form – the tapes sat unlabeled in a Columbia vault until producer Bob Belden rediscovered them in 1998 while researching a *Birds of Fire* reissue, and they were eventually released in 1999 as *The Lost Trident Sessions*. McLaughlin has since described real tension within the band during this period, with competing strong voices making a third record with this lineup untenable.
+Every composition is McLaughlin's, including "Miles Beyond," dedicated to Miles Davis. The back cover carries the poem "Revelation" by Sri Chinmoy, the teacher McLaughlin followed then.
 
-Two separate modern audiophile reissues both have strong reputations, and reviewers who've directly compared them describe a real trade-off rather than a clear winner. The 2010 Friday Music edition was mastered from the original Columbia tapes by Joe Reagoso and Kevin Gray at AcousTech, pressed at RTI. The 2019 Speakers Corner edition was remastered "pure analogue" – no digital step anywhere in the chain from tape to cutting head – and pressed at Pallas in Germany. One detailed owner comparison found the Speakers Corner pressing notably quieter and better centered, but felt the Friday Music edition had a slightly better rendition of kick drums and bass, plus a touch more silkiness on the album's frequent cymbal crashes – concluding the two were "very close" and worth keeping both rather than picking a single winner.
+A third studio album was attempted and abandoned. The tapes sat unlabelled in a Columbia vault until producer Bob Belden found them in 1998 while researching a *Birds of Fire* reissue. They came out in 1999 as *The Lost Trident Sessions*.
 
-Original 1973 Columbia pressings present their own real variance. At least one detailed account describes most standard-issue original copies as sounding "shrill with no bass," a genuine sonic shortcoming rather than a subjective preference – but the same account references an exceptional "Hot Stamper" original copy (identified through the kind of intensive multi-copy shootout process the dealer Better Records is known for) that reportedly outperforms every reissue, at a correspondingly steep price for a copy verified to that standard. In other words: an average original pressing bought sight-unseen is a real gamble on this title, while a specifically verified exceptional copy is a different proposition entirely.
+## The quadraphonic mix
 
-## Sound quality by pressing
+Columbia issued a quadraphonic mix in 1973 as CQ 31996, in the SQ matrix format. Don Young remixed it under the sound supervision of Harold J. Kleiner.
 
-The Columbia KC 31996 (1973 original) is the true first pressing, including a documented Terre Haute manufacturing plant pressing variant. Quality genuinely varies copy to copy on this title more than is typical – see above before assuming any given original pressing will outperform a modern reissue.
+It survives mainly through a 2015 Audio Fidelity numbered SACD rather than a findable vinyl quad copy. One listening comparison on [HRAudio.net](https://www.hraudio.net/showmusic.php?title=10877&showall=1) found the quad mix weaker on Laird's bass definition than the stereo. That is a format trade-off rather than a pressing fault.
 
-The Friday Music (2010) is mastered by Joe Reagoso and Kevin Gray at AcousTech from the original Columbia tapes, pressed at RTI on 180-gram vinyl. Owner reviews praise its bass depth and cymbal detail specifically.
+## Original Columbia pressings (1973)
 
-The Speakers Corner (2019) has an entirely analogue signal path from master tape to cutting head, pressed at Pallas in Germany on 180-gram vinyl, faithfully reproducing the original red/gold Columbia label design. Reviewers consistently praise its quiet surfaces and centered pressing.
+[Columbia KC 31996](https://www.discogs.com/release/584022) is the US first pressing, with a documented Terre Haute plant variant. Copy-to-copy variation is wide enough on this title that an unheard original is a gamble.
 
-Worth knowing about if you're outside the US originals market: an original UK/Netherlands CBS pressing (S 65321) exists with its own documented first-pressing marker – a textured sleeve and a "PN" hand-etching in the runout, indicating a lacquer cut by engineer Pete Norman. Later pressings under the same catalog number lack both the textured sleeve and the PN etching, distinguishing genuine early copies from later repressings sharing the same catalog number and general appearance.
+One detailed account describes most standard original copies as shrill with no bass. The same account describes an exceptional copy, picked through the multi-copy shootout process the dealer Better Records uses, that outperforms every reissue. Such a copy costs accordingly.
+
+An original UK and Netherlands CBS pressing exists as S 65321. Its first pressings have a textured sleeve and a hand-etched "PN" in the runout, from a lacquer cut by Pete Norman. Later copies under the same number have neither.
+
+## Modern reissues
+
+Friday Music issued a 180g edition in 2010. [Elusive Disc](https://elusivedisc.com/the-mahavishnu-orchestra-birds-of-fire-180g-lp/) lists it as mastered by Joe Reagoso and Kevin Gray from the original Columbia tapes. It was pressed at RTI (Record Technology Inc.), catalogue FRMLP3199. Owner reviews praise its bass depth and cymbal detail.
+
+The [Speakers Corner edition](https://www.discogs.com/release/13516565) (2019) was remastered with an all-analog path from the master tapes to the cutting head and pressed at Pallas in Germany. [The Audio Beat](https://www.theaudiobeat.com/music/mahavishnu_orchestra_birds_of_fire_lp.htm) describes the pressing as dead quiet and flat, with a facsimile of the red and gold Columbia label.
+
+[The Absolute Sound](https://elusivedisc.com/the-mahavishnu-orchestra-birds-of-fire-180g-lp-speakers-corner) rated the Speakers Corner 5 out of 5 for music and 4 out of 5 for sound in September 2019.
+
+One owner comparison found the Speakers Corner quieter and better centred. The same owner preferred the Friday Music on kick drum and bass, and heard slightly more silk on cymbal crashes. The conclusion was that the two are close enough to keep both.
 
 ## Buyer's guide by budget
 
-**$$$:** The Friday Music (2010) or Speakers Corner (2019) reissue – both well-regarded, genuinely contested territory between them rather than one clear best choice.
+**$$$:** The Friday Music (2010) or [Speakers Corner](https://www.discogs.com/release/13516565) (2019) reissue. Speakers Corner for quiet surfaces, Friday Music for low end.
 
-**$$$$:** An original Columbia KC 31996 pressing verified in person or by a trusted seller, given the documented wide quality variance among individual copies.
+**$$$$:** An original [Columbia KC 31996](https://www.discogs.com/release/584022) heard in person or bought from a seller who has played it.
 
 ## Pressing tier summary
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Friday Music | – | 2010 | Stereo, 33⅓, 180g | Joe Reagoso & Kevin Gray, AcousTech; RTI | Praised for bass depth and cymbal detail | – |
-| **S** | Speakers Corner | 31996 | 2019 | Stereo, 33⅓, 180g | Pure analogue, no digital step; pressed at Pallas (Germany) | Quieter and better centered in direct comparison, per one detailed review | [Discogs](https://www.discogs.com/release/13516565) |
-| **A** | Columbia (original, Terre Haute pressing) | KC 31996 | 1973 | Stereo, 33⅓ | Columbia lacquer | Quality varies widely copy to copy; a verified exceptional copy reportedly outperforms all reissues | [Discogs](https://www.discogs.com/release/584022) |
-| **B** | CBS UK/Netherlands (Pete Norman lacquer) | S 65321 | 1973 | Stereo, 33⅓ | Pete Norman lacquer cut (Trident) | Textured sleeve and hand-etched "PN" mark identify a genuine early pressing; later represses under the same catalog number lack both | – |
+| **S** | Friday Music | FRMLP3199 | 2010 | Stereo, 33⅓, 180g | Joe Reagoso and Kevin Gray, AcousTech, from the original Columbia tapes. Pressed at RTI | Praised for bass depth and cymbal detail | – |
+| **S** | Speakers Corner | 31996 | 2019 | Stereo, 33⅓, 180g | All-analog from master tape to cutting head. Pressed at Pallas | Quiet and well centred. Facsimile red/gold Columbia label | [Discogs](https://www.discogs.com/release/13516565) |
+| **A** | Columbia original, Terre Haute pressing | KC 31996 | 1973 | Stereo, 33⅓ | Columbia lacquer | Wide copy-to-copy variation. A verified exceptional copy reportedly beats every reissue | [Discogs](https://www.discogs.com/release/584022) |
+| **B** | CBS UK and Netherlands | S 65321 | 1973 | Stereo, 33⅓ | Pete Norman lacquer cut | Textured sleeve and "PN" etching mark an early copy. Later repressings have neither | – |
+| **–** | Columbia quadraphonic, SQ matrix | CQ 31996 | 1973 | Quadraphonic, 33⅓ | Remixed by Don Young | Not rated. Weaker bass definition than the stereo in one comparison | – |
 
 ## References
 
-- Discogs (master, all versions): [https://discogs.com/master/72290](https://discogs.com/master/72290)
+- Discogs (master, all versions): [https://www.discogs.com/master/72290](https://www.discogs.com/master/72290)
 - Wikipedia, "Birds of Fire": [https://en.wikipedia.org/wiki/Birds_of_Fire](https://en.wikipedia.org/wiki/Birds_of_Fire)
-- QuadraphonicQuad forum, "Mahavishnu Orchestra – Birds of Fire [SACD]" (includes details from Ken Scott's memoir *Abbey Road to Ziggy Stardust*): [https://quadraphonicquad.com/threads/mahavishnu-orchestra-the-birds-of-fire-sacd.20985/](https://quadraphonicquad.com/threads/mahavishnu-orchestra-the-birds-of-fire-sacd.20985/)
-- HRAudio.net, "Mahavishnu Orchestra: Birds of Fire" (quadraphonic mix comparison): [https://www.hraudio.net/showmusic.php?title=10877&showall=1](https://www.hraudio.net/showmusic.php?title=10877&showall=1)
+- The Audio Beat, "Mahavishnu Orchestra • Birds of Fire": [https://www.theaudiobeat.com/music/mahavishnu_orchestra_birds_of_fire_lp.htm](https://www.theaudiobeat.com/music/mahavishnu_orchestra_birds_of_fire_lp.htm)
+- Elusive Disc, "The Mahavishnu Orchestra – Birds of Fire 180g LP" (Friday Music): [https://elusivedisc.com/the-mahavishnu-orchestra-birds-of-fire-180g-lp/](https://elusivedisc.com/the-mahavishnu-orchestra-birds-of-fire-180g-lp/)
+- Elusive Disc, "The Mahavishnu Orchestra – Birds of Fire 180g LP" (Speakers Corner): [https://elusivedisc.com/the-mahavishnu-orchestra-birds-of-fire-180g-lp-speakers-corner](https://elusivedisc.com/the-mahavishnu-orchestra-birds-of-fire-180g-lp-speakers-corner)
+- QuadraphonicQuad forum, "Mahavishnu Orchestra – Birds of Fire [SACD]": [https://quadraphonicquad.com/threads/mahavishnu-orchestra-the-birds-of-fire-sacd.20985/](https://quadraphonicquad.com/threads/mahavishnu-orchestra-the-birds-of-fire-sacd.20985/)
+- HRAudio.net, "Mahavishnu Orchestra: Birds of Fire": [https://www.hraudio.net/showmusic.php?title=10877&showall=1](https://www.hraudio.net/showmusic.php?title=10877&showall=1)

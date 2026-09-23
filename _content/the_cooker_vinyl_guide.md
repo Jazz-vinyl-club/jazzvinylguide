@@ -2,49 +2,75 @@
 
 ## Summary
 
-*The Cooker* was recorded September 29, 1957 at Van Gelder Studio in Hackensack, NJ, produced by Alfred Lion – just two weeks after Lee Morgan's session as a sideman on John Coltrane's *Blue Train*, recorded at the same studio. Morgan was 19 years old, and this was already his fifth album as a Blue Note leader. Released January 1958 as Blue Note BLP 1578, mono.
+*The Cooker* was recorded on September 29, 1957 at Van Gelder Studio in Hackensack, New Jersey, produced by Alfred Lion. Rudy Van Gelder engineered it, two weeks after Morgan played on John Coltrane's *Blue Train* in the same studio. Morgan was 19, and this was his fifth Blue Note album as a leader. Blue Note released it in January 1958 as BLP 1578, in mono.
 
-**Best early pressing for audiophiles:** an original Blue Note BLP 1578 mono pressing – the true first pressing.
+The band pairs Morgan's trumpet with Pepper Adams on baritone saxophone, over Bobby Timmons, Paul Chambers and Philly Joe Jones. The record was mono first, with the stereo edition following years later. That matters, because a documented editing error affects the stereo master of "A Night in Tunisia," and owner reports describe the stereo mix as hard-panned.
 
-**Best modern pressing for audiophiles:** the Blue Note Tone Poet Series edition – all-analog, mastered by Kevin Gray at Cohearent Audio from the original master tapes, pressed at RTI.
-
-**Best-value modern:** the Classic Records 200-gram Quiex SV-P reissue – matrix-confirmed Bernie Grundman mastering.
+- **Best early pressing for audiophiles:** An original Blue Note BLP 1578 mono pressing.
+- **Best modern pressing for audiophiles:** The [Blue Note Tone Poet edition](https://www.discogs.com/release/15185777-Lee-Morgan-The-Cooker) (2020), mastered by Kevin Gray from the original tapes.
+- **Best-value modern:** The [Classic Records 200g Quiex SV-P](https://www.discogs.com/release/2132290), with Bernie Grundman's mastering confirmed by the runout.
 
 ## Recording history and tape provenance
 
-Paul Chambers and Philly Joe Jones, both of whom also played on *Blue Train*, are joined by Pepper Adams on baritone sax and Bobby Timmons on piano – an unusual frontline pairing Morgan's trumpet with Adams's baritone rather than a more conventional alto or tenor voice. That pairing, though, wasn't the original plan. Lee Morgan told radio interviewer Dan McClosky in a 1969 interview that Hank Mobley was actually booked to play the second horn on this session, but couldn't make it – Pepper Adams stepped in as a last-minute replacement. Morgan explained that the arrangements had to be reworked on the spot as a result, with Adams playing at the upper end of his baritone's range more than he normally would, to cover passages that had originally been written for tenor sax. It's a genuine, artist-confirmed origin story for the record's distinctive horn blend, not just a stylistic choice made from the outset. It was the first album to feature Morgan's own original compositions, including "Heavy Dipper" and "New-Ma," and the first without any Benny Golson compositions. The opening track, a blistering take on Charlie Parker's "A Night in Tunisia," has drawn particular praise for Morgan's confident, "molten" soloing at just 19 years old.
+Pepper Adams was not the original plan. Morgan told radio interviewer Dan McClosky in 1969 that Hank Mobley was booked for the second horn. Mobley could not make the date, and Adams stepped in.
 
-A genuine, documented error affects the stereo master specifically, worth knowing before assuming any given stereo pressing is definitive. According to liner notes for a 2006 European CD reissue, the stereo master of "A Night in Tunisia" – both on this album and on the compilation *The Best of Lee Morgan* – used the wrong out-theme insert ending rather than the correct one from the master take, an editing mistake that was only corrected on that specific later reissue. This is a genuine tape-splicing error in the stereo master chain, not a claim about any particular vinyl pressing's mastering quality – but it means a "definitive" claim about the stereo mix specifically should be treated with some caution unless the source explicitly addresses this known issue.
+The arrangements had to be reworked in the studio. Adams played at the top of the baritone's range more than he usually would, covering lines written for tenor. The record's unusual horn blend comes from that substitution.
 
-Notably, the original 1957 release was mono-only; a stereo edition (BST 84... catalog conventions vary by source) was issued years later rather than simultaneously, consistent with Blue Note's general practice in this era. At least one detailed Discogs owner review of the Classic Records reissue states a clear preference: "Mono is the way to listen to this record. Sounds even better with proper mono pickup system" – a reasonable steer for anyone deciding which format to prioritize on a title recorded and mixed with mono as the primary format.
+This was the first Morgan album built on his own compositions, including "Heavy Dipper" and "New-Ma," and the first with no Benny Golson tunes. It opens with Charlie Parker's "A Night in Tunisia."
 
-## Sound quality by pressing
+## The stereo editing error
 
-An original Blue Note BLP 1578 mono pressing is the true first pressing. Given the record's stature as an early, historically important Lee Morgan leader date, condition and label authenticity both matter – at least one budget-minded collector account describes successfully previewing a well-worn (VG-grade) original before purchase via a collector's YouTube channel specializing in affordable original pressings, a reasonable strategy for a title where pristine originals command real premiums.
+Liner notes for a 2006 CD reissue are reproduced on its [Discogs entry](https://www.discogs.com/release/4775953-Lee-Morgan-The-Cooker). They state that the stereo master of "A Night in Tunisia" had the wrong out-theme insert ending edited onto the master take. The same error appears on *The Best of Lee Morgan*.
 
-The Classic Records 200-gram Quiex SV-P reissue is pressed with deep groove and a flat edge, etched runouts reading "BN-LP 1578-A BG" and "BN-LP 1578-B BG" – the "BG" confirming Bernie Grundman's mastering directly via the matrix rather than promotional copy alone.
+Blue Note corrected it for that 2006 reissue. The note also confirms that the stereo LP, BST 81578, appeared years after the mono original.
 
-The Blue Note Tone Poet Series edition is all-analog, mastered by Kevin Gray at Cohearent Audio from the original master tapes, pressed at RTI in Camarillo, CA, in deluxe Stoughton Printing "Old Style" gatefold tip-on packaging – part of the series producer Joe Harley (also a Music Matters co-founder) has described as aiming to let listeners "hear what the musicians heard as the master tape was played back on the studio monitors" decades ago.
+This is an error in the stereo tape chain, not in any particular pressing's mastering. It does mean a claim that a stereo pressing is definitive should say whether it addresses the splice.
+
+## Original Blue Note pressings (1958)
+
+The mono BLP 1578 is the first pressing. Its variants and later Liberty-era repressings are listed on the [Discogs master](https://www.discogs.com/master/239178-Lee-Morgan-The-Cooker). Condition and label authenticity both matter, since clean originals of an early Morgan leader date carry real premiums.
+
+[Deep Groove Mono](https://dgmono.com/2018/03/27/vinyl-spotlight-lee-morgan-the-cooker-original-1957-mono-pressing/) covers the original pressing in detail. A worn but playable copy costs a fraction of a mint one, which is worth weighing on a title with premiums this steep.
+
+An owner review of the [Classic Records reissue](https://www.discogs.com/release/2132290) makes the case for mono on this title. It calls mono the way to hear the record, and better still through a mono cartridge.
+
+## Classic Records reissue
+
+The [Classic Records 200g Quiex SV-P](https://www.discogs.com/release/2132290) is pressed with a deep groove and a flat edge. Its runouts read "BN-LP 1578-A BG" and "BN-LP 1578-B BG."
+
+The "BG" is Bernie Grundman's runout signature, so the mastering credit comes from the record rather than from marketing copy.
+
+## Blue Note Tone Poet edition (2020)
+
+The [Tone Poet edition](https://www.discogs.com/release/15185777-Lee-Morgan-The-Cooker) was released on April 24, 2020, catalogue B0031577-01, also carrying BST-81578. Kevin Gray cut and mastered it at Cohearent Audio. It was pressed at RTI (Record Technology Inc.) in Camarillo, California, with Joe Harley supervising.
+
+It is stereo, 180g, in a Stoughton "Old Style" gatefold tip-on jacket. [Blue Note](https://store.bluenote.com/collections/series/products/lee-morgan-the-cooker-lp-tone-poet-series) describes the series as all-analog and mastered direct from the original master tapes.
+
+Owner reviews on its Discogs page are mostly positive on sound, describing wide separation and natural cymbal decay. Several report clicks on the first track, and one notes flat, dead-quiet vinyl, so pressing quality appears to vary between copies.
+
+Several owners also describe the stereo image as artificial, with both horns in one channel and the drums in the other. That is the 1957 stereo mix, not a fault of this pressing, and it is the main reason to consider a mono copy instead.
 
 ## Buyer's guide by budget
 
-**$$$:** The Classic Records 200-gram Quiex SV-P reissue – matrix-confirmed Bernie Grundman mastering.
+**$$$:** The [Classic Records 200g Quiex SV-P](https://www.discogs.com/release/2132290), with Grundman mastering confirmed by the runout.
 
-**$$$$:** The Blue Note Tone Poet Series edition – all-analog Kevin Gray mastering, deluxe modern packaging.
+**$$$$:** The [Blue Note Tone Poet edition](https://www.discogs.com/release/15185777-Lee-Morgan-The-Cooker), for Kevin Gray's all-analog mastering and the deluxe jacket, accepting the 1957 stereo image.
 
-**$$$$:** A clean original Blue Note BLP 1578 mono pressing, condition-dependent – the historically definitive document, and per at least one owner, the format this recording is best heard in regardless of era.
+**$$$$:** A clean original Blue Note BLP 1578 mono pressing, priced on condition.
 
 ## Pressing tier summary
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Blue Note Tone Poet Series | BLP 1578 | 2020 | Stereo, 33⅓, 180g | Kevin Gray, Cohearent Audio; RTI | All-analog, deluxe gatefold tip-on packaging | – |
-| **A** | Blue Note BLP 1578 (original) | BLP 1578 | 1958 | Mono, 33⅓ | Rudy Van Gelder | First pressing; at least one owner recommends mono as the definitive way to hear this recording | [Discogs](https://www.discogs.com/release/1018844) |
-| **A** | Classic Records 200g Quiex SV-P | BN-LP 1578 | – | Mono, 33⅓, 200g | Bernie Grundman (matrix-confirmed "BG") | Deep groove, flat edge, etched runouts | [Discogs](https://www.discogs.com/release/2132290) |
+| **S** | Blue Note Tone Poet Series | B0031577-01 / BST-81578 | 2020 | Stereo, 33⅓, 180g | Kevin Gray, Cohearent Audio. Pressed at RTI (Record Technology Inc.) | All-analog. Stoughton gatefold tip-on. Some owners report clicks on side A | [Discogs](https://www.discogs.com/release/15185777-Lee-Morgan-The-Cooker) |
+| **A** | Blue Note original | BLP 1578 | 1958 | Mono, 33⅓ | Rudy Van Gelder | First pressing. One owner argues mono is the format for this record | – |
+| **A** | Classic Records 200g Quiex SV-P | BN-LP 1578 | – | Mono, 33⅓, 200g | Bernie Grundman, confirmed by "BG" in the runout | Deep groove, flat edge | [Discogs](https://www.discogs.com/release/2132290) |
+| **–** | Blue Note stereo | BST 81578 | Later 1950s–60s | Stereo, 33⅓ | Rudy Van Gelder | Not rated. Carries the "A Night in Tunisia" out-theme splice | – |
 
 ## References
 
+- Discogs (master, all versions): [https://www.discogs.com/master/239178-Lee-Morgan-The-Cooker](https://www.discogs.com/master/239178-Lee-Morgan-The-Cooker)
 - Wikipedia, "The Cooker": [https://en.wikipedia.org/wiki/The_Cooker](https://en.wikipedia.org/wiki/The_Cooker)
 - jazzdisco.org, Lee Morgan catalog: [https://www.jazzdisco.org/lee-morgan/catalog/](https://www.jazzdisco.org/lee-morgan/catalog/)
 - Deep Groove Mono, "Vinyl Spotlight: Lee Morgan, The Cooker (Blue Note 1578) Original Pressing": [https://dgmono.com/2018/03/27/vinyl-spotlight-lee-morgan-the-cooker-original-1957-mono-pressing/](https://dgmono.com/2018/03/27/vinyl-spotlight-lee-morgan-the-cooker-original-1957-mono-pressing/)
-- Blue Note Records, "The Cooker" (Tone Poet Series official product page): [https://store.bluenote.com/products/lee-morgan-the-cooker-lp-tone-poet-series](https://store.bluenote.com/products/lee-morgan-the-cooker-lp-tone-poet-series)
+- Blue Note Records, "The Cooker" (Tone Poet Series): [https://store.bluenote.com/collections/series/products/lee-morgan-the-cooker-lp-tone-poet-series](https://store.bluenote.com/collections/series/products/lee-morgan-the-cooker-lp-tone-poet-series)

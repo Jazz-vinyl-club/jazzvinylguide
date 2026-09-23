@@ -2,50 +2,67 @@
 
 ## Summary
 
-*Ella Fitzgerald Sings the Cole Porter Songbook* was recorded across three sessions at Capitol Studios in Hollywood – February 7, 8, and 9, plus a follow-up on March 27, 1956 – produced by Norman Granz, with arranger/conductor Buddy Bregman leading a full studio orchestra through 32 Cole Porter songs. Released May 15, 1956 as Verve MG V-4001-2, this was the first album ever issued on Granz's new label and inaugurated the eight-album "Songbook" series that followed.
+This album was recorded at Capitol Studios in Hollywood on February 7, 8 and 9, 1956, with a fourth session on March 27. Norman Granz produced, and Buddy Bregman arranged and conducted a full studio orchestra through 32 Cole Porter songs. Verve released it on May 15, 1956 as MG V-4001-2. It was the first album on Granz's new label and the first of eight Songbook volumes.
 
-This is a mono-only original recording. There is no legitimate contemporaneous stereo mix, since multitrack stereo recording wasn't standard practice for Verve sessions this early in the label's history. Be skeptical of any vinyl listing describing this title as "stereo" unless the seller specifically explains where that mix came from.
+The recording is mono, and no contemporaneous stereo mix exists. Multitrack stereo was not standard for Verve sessions this early. A listing describing this title as stereo needs an explanation of where that mix came from. Two modern reissues matter, a 2016 three-LP box and a 2026 two-LP set, and they differ in mastering, plant and layout.
 
-**Best early pressing for audiophiles:** [Verve MG V-4001-2](https://www.discogs.com/release/6304011) – 1956 original mono pressing, RCA Indianapolis pressing-plant variant.
-
-**Best modern pressing for audiophiles:** [Verve Acoustic Sounds Series AVER 40304](https://store.acousticsounds.com/d/197406/) (2026) – mastered by Matthew Lutthans, now confirmed with high confidence after an earlier mastering-credit conflict was resolved (see below).
-
-**Best-value modern:** Analog Spark AS00007 (2016) – 60th-anniversary 3LP mono box, mastered by Ryan K. Smith at Sterling Sound from the original mono master tapes, pressed at RTI; no standalone Discogs release page was confirmed, see below.
+- **Best early pressing for audiophiles:** [Verve MG V-4001-2](https://www.discogs.com/release/6304011), the 1956 mono original.
+- **Best modern pressing for audiophiles:** The Analog Spark AS00007 3LP box (2016), cut by Ryan K. Smith at Sterling Sound from the mono masters.
+- **Best-value modern:** The [Verve Acoustic Sounds Series AVER 40304](https://store.acousticsounds.com/d/197406/) (2026), mastered by Matthew Lutthans.
 
 ## Recording history and tape provenance
 
-Granz, who managed Fitzgerald and had just founded Verve Records, made a deliberate bet with this record: rather than another small-combo jazz session in the mold of her earlier Decca work, he built her first Verve release around a single songwriter's catalog, arranged for a full orchestra, aimed squarely at expanding her audience beyond the jazz-collector cult following she already had. Granz later explained the thinking plainly – he wanted Fitzgerald recognized as more than a singer for jazz fans specifically, and reasoned that dressing up first-rate American songbook material with just enough jazz inflection in the backing would do that without compromising her as an artist.
+Granz had just founded Verve and managed Fitzgerald. He avoided another small-combo session in the mould of her Decca work. Her first Verve release was built around one songwriter's catalogue, with a full orchestra.
 
-The gamble worked. The album reached No. 15 on Billboard's Best Sellers list within two months of release, and it remains widely regarded as the record that reintroduced Fitzgerald to a mainstream pop audience in her thirties, at the peak of her vocal powers. The Songbook series that followed ran through 1964, with each volume devoted to a single composer or songwriting team – Rodgers and Hart, Duke Ellington, Irving Berlin, the Gershwins, Harold Arlen, Jerome Kern, and Johnny Mercer each got their own volumes.
+He explained the thinking plainly. He wanted Fitzgerald heard as more than a singer for jazz fans. First-rate songbook material with enough jazz inflection in the backing would do it.
 
-An earlier pass on this guide flagged a genuine mastering-credit conflict on the 2026 Verve Acoustic Sounds Series reissue: Acoustic Sounds' own product page for the AVER 40304 reissue credits Matthew Lutthans, while several retailers (uDiscoverMusic, Elusive Disc, Amazon, Fontana Records) used copy that read like boilerplate for the wider "Verve/Impulse! Acoustic Sounds Series" line, crediting Ryan K. Smith instead – a credit that belongs to other titles in that same reissue program, not necessarily this one. That's now resolved with considerably more confidence: a detailed Audiophilia review of this exact reissue, written by Scott (who also runs the YouTube channel The Pressing Matters, cited elsewhere in this project), and a separate Headphonesty preview both independently state that Matthew Lutthans mastered this specific title from the original analog tapes. Three independent sources now agree – the label's own product page plus two independent editorial reviews – against one likely-boilerplate retailer description, which is enough to treat the credit as settled.
+The 32 songs were recorded live with the orchestra across the four sessions. The band included Harry "Sweets" Edison and Maynard Ferguson on trumpet, Bud Shank on alto saxophone and Ted Nash on tenor and flute.
 
-Separately, no standalone Discogs release ID could be confirmed for the 2016 Analog Spark AS00007 3LP box – only a general retailer product listing (Vinyl Gourmet, barcode 888072004733) that describes it in detail without linking to a Discogs page.
+The Songbook series ran to 1964, with volumes for Rodgers and Hart, Duke Ellington, Irving Berlin, the Gershwins, Harold Arlen, Jerome Kern, and Johnny Mercer.
 
-## Sound quality by pressing
+## Original Verve pressings (1956)
 
-The true first pressing, Verve MG V-4001-2, is on Verve's original catalog number. This copy is specifically an RCA Indianapolis pressing-plant variant – Verve's original manufacturing was spread across multiple plants, so condition and specific pressing-plant provenance both matter more than usual here given the record's age and enduring popularity.
+[Verve MG V-4001-2](https://www.discogs.com/release/6304011) is the 1956 mono first pressing, a two-LP set in a gatefold. That particular Discogs entry is an RCA Indianapolis plant variant.
 
-The Analog Spark AS00007 (2016, 3LP mono box) expands the original 2-LP layout to three LPs, mastered by Ryan K. Smith at Sterling Sound from the original mono master tapes and pressed at RTI. The extra disc real estate widens the groove spacing per side relative to the original pressing, generally a sonic improvement for a record with this much orchestral material to reproduce.
+Verve spread manufacturing across several plants, so plant provenance and condition both matter more than usual. The record sold well and stayed in circulation, so worn copies are common.
 
-The Verve Acoustic Sounds Series AVER 40304 (2026) is a newly announced 2-LP mono reissue on 180-gram vinyl. The Audiophilia review that helped resolve the mastering credit above praises the reissue specifically for transparency and vocal presence, noting that Fitzgerald's voice tests a system's ability to keep her forward and clear without the orchestra crowding in around her.
+## Analog Spark AS00007 (2016)
+
+Analog Spark issued a 60th-anniversary box for the album's 60th year. [AnalogPlanet](https://www.analogplanet.com/node/120523) reports that Ryan K. Smith cut lacquers at Sterling Sound from the original mono master tapes. The 32 songs are spread across three RTI-pressed records rather than the original two.
+
+Spreading the same music over six sides widens groove spacing, which generally helps a record carrying this much orchestral material. The original gatefold becomes a laminated lift-top box, with the gatefold annotation printed inside.
+
+The [AnalogPlanet review](https://www.analogplanet.com/node/120523) prefers the reissue to the original in strong terms. Comments there note a recurring complaint that Analog Spark reissues run bright, raised about other titles in the line rather than this one.
+
+No standalone Discogs release ID could be found for the box. Retailer listings carry barcode 888072004733.
+
+## Verve Acoustic Sounds Series AVER 40304 (2026)
+
+[Acoustic Sounds](https://store.acousticsounds.com/d/197406/) lists this two-LP mono reissue as mastered by Matthew Lutthans at The Mastering Lab from the original analog master tape. It is pressed on 180g at Quality Record Pressings, in Stoughton tip-on gatefold jackets.
+
+The mastering credit was worth checking. Several retailers used copy crediting Ryan K. Smith, which reads as boilerplate for the wider Acoustic Sounds Series rather than a credit for this title.
+
+Editorial reviews of this reissue also name Lutthans, which leaves the retailer copy as the outlier. No linkable review URL could be confirmed here, so the credit rests on the [label's own page](https://store.acousticsounds.com/d/197406/).
 
 ## Buyer's guide by budget
 
-**$$$:** The [Verve Acoustic Sounds Series AVER 40304](https://store.acousticsounds.com/d/197406/) – a confirmed, well-reviewed modern option now that the mastering credit is settled.
+**$$$:** The [Verve Acoustic Sounds Series AVER 40304](https://store.acousticsounds.com/d/197406/), a current two-LP mono edition.
 
-**$$$$:** A clean [Verve MG V-4001-2](https://www.discogs.com/release/6304011) original, condition-dependent.
+**$$$$:** A clean [Verve MG V-4001-2](https://www.discogs.com/release/6304011) original, priced on condition and plant.
 
-**$$$$$:** The Analog Spark AS00007 60th-anniversary 3LP mono box – the definitive modern reissue, though a specific copy should be sourced through a retailer since no standalone Discogs listing was confirmed.
+**$$$$$:** The Analog Spark AS00007 3LP box, for the wider groove spacing, sourced through a retailer since no Discogs listing was found.
 
 ## Pressing tier summary
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Analog Spark AS00007 | AS00007 | 2016 | Mono, 33⅓, 3×180g | Ryan K. Smith, Sterling Sound; RTI | 60th-anniversary box; expanded from 2LP to 3LP layout; no standalone Discogs release ID confirmed | – |
-| **A** | Verve MG V-4001-2 | MG V-4001-2 | 1956 | Mono, 33⅓, 2LP gatefold | Verve lacquer | First pressing; this copy is an RCA Indianapolis pressing-plant variant | [Discogs](https://www.discogs.com/release/6304011) |
-| **A** | Verve Acoustic Sounds Series | AVER 40304 | 2026 | Mono, 33⅓, 2×180g | Matthew Lutthans, from the original analog tapes (confirmed via three independent sources) | Praised in an Audiophilia review for transparency and vocal presence | [Acoustic Sounds](https://store.acousticsounds.com/d/197406/) |
+| **S** | Analog Spark 60th-anniversary box | AS00007 | 2016 | Mono, 33⅓, 3×180g | Ryan K. Smith, Sterling Sound, from the mono masters. Pressed at RTI | 32 songs across six sides instead of four. Lift-top box | – |
+| **A** | Verve original | MG V-4001-2 | 1956 | Mono, 33⅓, 2LP gatefold | Verve lacquer | First pressing. Linked entry is an RCA Indianapolis variant | [Discogs](https://www.discogs.com/release/6304011) |
+| **A** | Verve Acoustic Sounds Series | AVER 40304 | 2026 | Mono, 33⅓, 2×180g | Matthew Lutthans, The Mastering Lab, from the original analog tape. Pressed at QRP | Stoughton tip-on gatefold | [Acoustic Sounds](https://store.acousticsounds.com/d/197406/) |
 
 ## References
 
 - Discogs (master, all versions): [https://www.discogs.com/master/249899](https://www.discogs.com/master/249899)
+- Acoustic Sounds, "Ella Fitzgerald Sings The Cole Porter Songbook (Mono)": [https://store.acousticsounds.com/d/197406/](https://store.acousticsounds.com/d/197406/)
+- AnalogPlanet, "'Ella Fitzgerald Sings The Cole Porter Songbook' Coming Soon From Analog Spark": [https://www.analogplanet.com/node/120523](https://www.analogplanet.com/node/120523)
+- The Second Disc, "Ella Fitzgerald at 100: Analog Spark Reissues 'The Cole Porter Song Book' On SACD and Vinyl": [https://theseconddisc.com/2017/04/25/ella-fitzgerald-at-100-analog-spark-reissues-the-cole-porter-song-book-on-sacd-and-vinyl/](https://theseconddisc.com/2017/04/25/ella-fitzgerald-at-100-analog-spark-reissues-the-cole-porter-song-book-on-sacd-and-vinyl/)
