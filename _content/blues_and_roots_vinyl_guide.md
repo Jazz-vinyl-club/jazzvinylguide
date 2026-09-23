@@ -34,6 +34,16 @@ The [London Atlantic UK stereo pressing](https://www.discogs.com/release/5113505
 
 London also issued a [UK mono](https://www.discogs.com/release/4800523-Charlie-Mingus-Blues-Roots), catalogue LTZ-K.15194. Atlantic issued the stereo album in [Canada](https://www.discogs.com/release/486813-Charles-Mingus-Blues-Roots) and a mono edition in [France](https://www.discogs.com/release/3496988-Charlie-Mingus-Blues-Roots) as 332.020 S, both in 1960.
 
+## Atlantic reissues under the original number
+
+Atlantic kept the album in print for decades under SD 1305, with the label design dating a copy. Green and orange labels carrying the 1841 Broadway address came in from about 1968.
+
+One [Presswell pressing](https://www.discogs.com/release/22827131-Charlie-Mingus-Blues-Roots) of that era has "PR" in the label matrices, a gold embossed "Stereo" on the front cover and a ZIP-coded back liner. The catalogue number appears three ways across the package. It reads 1305 on the front and spine, SD 1305 on the labels and SD-1305 on the back.
+
+A [1973 Presswell reissue](https://www.discogs.com/release/8940820-Charlie-Mingus-Blues-Roots) draws a positive owner review, which calls it a great pressing with lively bass on "My Jelly Roll Soul". A [1970 pressing](https://www.discogs.com/release/6843239-Charles-Mingus-Blues-Roots) is also documented.
+
+A [Scorpio reissue](https://www.discogs.com/release/8006442-Charles-Mingus-Blues-Roots) from the late 1990s or early 2000s divides owners. Two call it a nice, quiet pressing, while another describes it as flat and CD-like.
+
 ## Rhino reissues
 
 The [Rhino vinyl reissue](https://www.discogs.com/release/2006252) from the 2000s carries the four alternate takes from the 1998 CD. They are "Wednesday Night Prayer Meeting," "Tensions," "My Jelly Roll Soul" and "E's Flat Ah's Flat Too." It was pressed at Rainbo Records. The lacquer cut is credited only by the initials "DC," so the engineer is unconfirmed.
@@ -54,7 +64,7 @@ One owner review on the [Rhino Reserve Discogs page](https://www.discogs.com/rel
 
 ## Buyer's guide by budget
 
-**$$:** The [London Atlantic UK pressing](https://www.discogs.com/release/5113505), or the [Rhino vinyl reissue](https://www.discogs.com/release/2006252) for the four alternate takes.
+**$$:** The [London Atlantic UK pressing](https://www.discogs.com/release/5113505), a later [Atlantic pressing](https://www.discogs.com/release/22827131-Charlie-Mingus-Blues-Roots) on green and orange labels, or the [Rhino vinyl reissue](https://www.discogs.com/release/2006252) for the four alternate takes.
 
 **$$$:** A clean [Atlantic SD 1305](https://www.discogs.com/release/5923976) stereo original, or the [mono 1305](https://www.discogs.com/release/3496796-Charlie-Mingus-Blues-Roots), both priced on condition.
 
@@ -70,12 +80,16 @@ One owner review on the [Rhino Reserve Discogs page](https://www.discogs.com/rel
 | **A** | Atlantic SD 1305 | SD 1305 | 1960 | Stereo, 33⅓ | Tom Dowd / Atlantic lacquer | Green/blue bullseye label, fan logo | [Discogs](https://www.discogs.com/release/5923976) |
 | **B** | London Atlantic UK pressing | SAH-K 6087 | 1960 | Stereo, 33⅓ | Decca manufactured | Blue label, silver writing. Flipback sleeve | [Discogs](https://www.discogs.com/release/5113505) |
 | **C** | Rhino vinyl reissue (2000s) | SD 1305 (Rhino) | – | Stereo, 33⅓, 180g | Lacquer credited only as "DC." Pressed at Rainbo Records | Four bonus alternate takes not on the original LP | [Discogs](https://www.discogs.com/release/2006252) |
+| **B** | Atlantic, Presswell pressing | SD 1305 | c. 1968 onwards | Stereo, 33⅓ | Atlantic lacquer | Green/orange 1841 Broadway labels. "PR" in the matrices | [Discogs](https://www.discogs.com/release/22827131-Charlie-Mingus-Blues-Roots) |
+| **B** | Atlantic reissue | SD 1305 | 1973 | Stereo, 33⅓ | Atlantic lacquer | One positive owner review on pressing and bass | [Discogs](https://www.discogs.com/release/8940820-Charlie-Mingus-Blues-Roots) |
+| **C** | Scorpio reissue | SD 1305 | c. 1998–2002 | Stereo, 33⅓ | Not credited | Owner reviews split between quiet and flat, CD-like | [Discogs](https://www.discogs.com/release/8006442-Charles-Mingus-Blues-Roots) |
+| **–** | Atlantic pressing | SD 1305 | 1970 | Stereo, 33⅓ | Atlantic lacquer | Not rated | [Discogs](https://www.discogs.com/release/6843239-Charles-Mingus-Blues-Roots) |
 | **–** | Atlantic mono original | 1305 | 1960 | Mono, 33⅓ | Lacquers cut at Atlantic Studios | Not rated. Red/purple bullseye label. No published comparison with the stereo | [Discogs](https://www.discogs.com/release/3496796-Charlie-Mingus-Blues-Roots) |
 | **–** | London Atlantic UK mono | LTZ-K.15194 | 1960 | Mono, 33⅓ | Decca manufactured | Not rated | [Discogs](https://www.discogs.com/release/4800523-Charlie-Mingus-Blues-Roots) |
 
 ## References
 
-- Discogs (master, all versions): [https://www.discogs.com/master/176882](https://www.discogs.com/master/176882)
+- Discogs (master, all versions): [https://www.discogs.com/master/176882-Charlie-Mingus-Blues-Roots](https://www.discogs.com/master/176882-Charlie-Mingus-Blues-Roots)
 - Charles Mingus official site, "Record Re-Release: Blues and Roots (Rhino Reserve series)": [https://www.charlesmingus.com/blog/record-re-release-blues-and-roots-rhino-reserve-series](https://www.charlesmingus.com/blog/record-re-release-blues-and-roots-rhino-reserve-series)
 - Acoustic Sounds, "Charles Mingus – Blues & Roots – 45 RPM Vinyl Record": [https://store.acousticsounds.com/d/164126/Charles_Mingus-Blues__Roots-45_RPM_Vinyl_Record](https://store.acousticsounds.com/d/164126/Charles_Mingus-Blues__Roots-45_RPM_Vinyl_Record)
 - That Shelf, "Charles Mingus - Blues & Roots Rhino Reserve Audiophile Vinyl": [https://www.youtube.com/watch?v=xd28FjdJ3j8](https://www.youtube.com/watch?v=xd28FjdJ3j8)
