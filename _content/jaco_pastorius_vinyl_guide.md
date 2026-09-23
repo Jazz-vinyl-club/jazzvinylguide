@@ -18,8 +18,6 @@ Colomby assembled an unusual cast. Herbie Hancock plays Fender Rhodes and clavin
 
 The tune's authorship is disputed. The original LP labels credit "Donna Lee" to Charlie Parker. Some sources attribute it to Miles Davis instead, while [The Audio Beat](https://theaudiobeat.com/music/jaco_pastorius_lp.htm) describes the Davis credit as the mistaken one. The dispute predates any pressing of this record.
 
-Some streaming descriptions list Stanley Turrentine as a performer. That credit appears in no LP credit or collector discography checked here, and looks like a mix-up with another session of the period.
-
 ## Original Epic pressings (1976)
 
 [Epic PE 33949](https://www.discogs.com/release/2781435) appeared from several plants, including Terre Haute, Santa Maria and Carrollton, with European pressings on orange, blue and grey Epic labels.
