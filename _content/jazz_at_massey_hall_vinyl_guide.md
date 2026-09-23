@@ -2,50 +2,71 @@
 
 ## Summary
 
-On May 15, 1953, Toronto's New Jazz Society staged a concert at Massey Hall bringing together five of bebop's founding figures for what remains their only known recording as a quintet: Dizzy Gillespie on trumpet, Charlie Parker on alto sax (billed on the original release as "Charlie Chan" due to contractual restrictions with another label), Bud Powell on piano, Charles Mingus on bass, and Max Roach on drums. The concert has been called "The Greatest Jazz Concert Ever" ever since.
+Toronto's New Jazz Society staged this concert at Massey Hall on May 15, 1953. The quintet is Dizzy Gillespie on trumpet, Charlie Parker on alto saxophone, Bud Powell on piano, Charles Mingus on bass and Max Roach on drums. Parker was billed as "Charlie Chan" because of a contract with another label. It is their only known recording as a quintet.
 
-**Best early pressing for audiophiles:** an original Debut 10" LP (DLP-2 and DLP-4) or the earliest 12" Debut consolidation – condition and authenticity matter more than chasing a specific year given a dating ambiguity noted below.
+Mingus recorded the concert himself and issued it on his own Debut label. The bass was picked up too quietly by the hall's system, so he overdubbed his own part afterwards on most tracks. The choice is between the overdubbed version, as it has been heard for seventy years, and the 2023 box set. That set also carries the undubbed tapes.
 
-**Best modern pressing for audiophiles:** *Hot House: The Complete Jazz at Massey Hall Recordings* (Craft Recordings, 2023) – see below on why this specific reissue is worth knowing about even if you're not usually a box-set buyer.
-
-**Best-value modern:** Original Jazz Classics OJC-044 – mastered by George Horn, a straightforward, well-regarded Fantasy-era reissue.
+- **Best early pressing for audiophiles:** An original Debut 10" (DLP-2, DLP-4) or the 1956 12" consolidation, [DEB-124](https://www.discogs.com/release/4165355-The-Quintet-Jazz-At-Massey-Hall).
+- **Best modern pressing for audiophiles:** *Hot House: The Complete Jazz at Massey Hall Recordings* (Craft Recordings, 2023), a 180g 3LP set.
+- **Best-value modern:** Original Jazz Classics OJC-044, the 1983 Fantasy-era reissue mastered by George Horn.
 
 ## Recording history and tape provenance
 
-The evening itself was famously chaotic behind the scenes – Powell was reportedly drunk before the first note, Gillespie kept slipping offstage to check the radio for updates on the Rocky Marciano–Jersey Joe Walcott heavyweight title fight happening that same night, and turnout was modest enough that the show didn't come close to selling out a hall that seated over 2,700.
+The evening was chaotic. Powell was reportedly drunk before the first note. Gillespie kept leaving the stage to check the radio for the Marciano and Walcott heavyweight fight. The hall seats over 2,700 and the concert did not sell out.
 
-Mingus recorded the concert himself and brought the tapes back to New York, where he discovered his own bass had been picked up too quietly by the venue's sound system to be usable on most tracks. Mingus later confirmed in a 1975 radio interview (with Toronto broadcaster Ted O'Reilly) that he re-recorded and overdubbed his own bass part on most of the performances afterward, using a different instrument than the one he'd played at the concert – a fact he stated plainly rather than concealed. Not every track got this treatment: "Salt Peanuts" survives across every subsequent release with its original, un-overdubbed bass line intact. Mingus released the results on his own label, Debut Records, first as two separate 10" LPs in 1953 (catalog DLP-2 and DLP-4, with a third volume, DLP-3, capturing a trio performance by Powell, Mingus, and Roach from the same evening), then consolidated onto a single 12" LP – sources differ on exactly when: this album's own chronology data lists a December 1953 release, while other historical accounts describe the 12" consolidation happening in 1956, after Parker's death in 1955. Both details may be true of different things (an early limited 12" pressing versus a more widely circulated one after Parker's death drew renewed attention to the recording), so this guide isn't asserting a single confident date given the conflicting sourcing. The album was inducted into the Grammy Hall of Fame in 1995.
+Mingus brought the tapes back to New York and found his bass was too quiet to use on most tracks. He confirmed the overdub in a 1975 radio interview with Toronto broadcaster Ted O'Reilly. He used a different instrument from the one he played that night. The [Discogs master page](https://www.discogs.com/master/176938-The-Quintet-Jazz-At-Massey-Hall) records the same account.
 
-Craft Recordings' 70th-anniversary release, *Hot House: The Complete Jazz at Massey Hall Recordings* (3LP/2CD, arriving November 2023), isn't just another remaster of the same familiar album – it's the first release to include the full evening's material in one place, with 24-bit audio restoration by Grammy-winning engineer Paul Blakemore. Alongside the original quintet program with Mingus's bass overdubs intact (as most listeners have known the album for seven decades), it includes all six quintet tracks in their un-overdubbed form, the previously issued Powell/Mingus/Roach trio set, and Roach's solo "Drum Conversation." For a recording whose backstory is arguably as famous as the music itself, having the dub-free versions available on a proper audiophile reissue for the first time is a genuinely different listening experience worth knowing about, not just a sonic upgrade of the familiar version.
+Not every track was treated this way. "Salt Peanuts" carries its original bass line on every subsequent release. The bass solo on "All the Things You Are" was also altered, per the [Discogs master page](https://www.discogs.com/master/176938-The-Quintet-Jazz-At-Massey-Hall).
 
-One caution worth passing along: a Discogs owner review of a separate reissue on the Jazz Wax Records label describes it, in French, as flat and emotionally lifeless compared to other pressings of this title – a pointed negative account from one listener rather than a broad consensus, but worth knowing if you come across that specific label's edition.
+## Original Debut pressings
 
-## Sound quality by pressing
+Debut issued the concert as three 10" LPs. [The Jazz Discography Project](https://www.jazzdisco.org/debut-records/catalog-lp-ep-series/album-index/) dates DLP-2 and DLP-3 to 1953 and DLP-4 to 1954. DLP-2 is *Vol. 1*, DLP-3 the Powell trio set and DLP-4 *Vol. 3*.
 
-The Debut 10" originals (DLP-2, DLP-4) and early 12" consolidation are the historically definitive originals, produced by Mingus himself under real technical constraints – this is a 1953 single-microphone-era live recording of a hall with imperfect PA reinforcement, overdubbed afterward to fix an audibility problem, not a pristine studio date. Owner reviews of vintage pressings acknowledge the "limited technical circumstances" of 1953 but still rate the historical and musical value as essential listening regardless.
+The 12" consolidation is [Debut DEB-124](https://www.discogs.com/release/4165355-The-Quintet-Jazz-At-Massey-Hall), which compiles DLP-2 and DLP-4. Both [Wikipedia](https://en.wikipedia.org/wiki/Debut_Records) and the Jazz Discography Project date it to 1956, after Parker's death. A December 1953 date appears in some chronologies, with no supporting source found here.
 
-Original Jazz Classics OJC-044 is a straightforward 1980s Fantasy-era reissue, mastered by George Horn. Owner reviews describe it as a great-sounding pressing, consistent with the OJC series' generally solid reputation across this site's other guides.
+The 10" volumes are scarce. One owner of a DEB-124 copy describes blue and purple labels with silver writing, and a cover with "The Quintet" in red.
 
-*Hot House: The Complete Jazz at Massey Hall Recordings* (Craft Recordings, 2023) is the definitive modern treatment, both for sound (Paul Blakemore's restoration and remastering) and for completeness (the first release to include un-overdubbed quintet tracks alongside the familiar overdubbed program).
+## Later reissues
+
+Fantasy reissued the 12" album as LP 6003 and LP 86003 in 1962. Prestige issued it in 1973 as PRST-24024 under the title *The Greatest Jazz Concert Ever*. France saw it on America as 30 AM 6053 in 1969. All are listed in [the Debut discography](https://www.jazzdisco.org/debut-records/discography-1948-1965/).
+
+Original Jazz Classics reissued it as OJC-044 in 1983, mastered by George Horn. Owner reviews describe it as a good-sounding pressing.
+
+One owner review on the [master page](https://www.discogs.com/master/176938-The-Quintet-Jazz-At-Massey-Hall) reports a later pressing carrying both 1983 and 1956 copyrights and Craft Recordings markings. Its mastering is not identified. An owner review of a Jazz Wax Records edition, written in French, calls it flat and lifeless next to other pressings.
+
+## Hot House: The Complete Jazz at Massey Hall Recordings (2023)
+
+Craft Recordings released this 180g 3LP set for the concert's 70th anniversary, with restoration by Paul Blakemore. [AnalogPlanet](https://www.analogplanet.com/content/hot-house-complete-jazz-massey-hall-recordings-receives-ultimate-70th-anniversary-180g-3lp) reports it pairs Mingus's overdubbed first-generation tape with the complete original master performance before the overdubs.
+
+It also carries the Powell trio set and Roach's solo "Drum Conversation." It is the first release to gather all of the evening's material in one package, at a list price of $99.99.
+
+The undubbed quintet tracks are a different listening experience, not only a cleaner one.
 
 ## Buyer's guide by budget
 
-**$$:** The [Original Jazz Classics OJC-044](https://www.discogs.com/master/176938) reissue – a solid, well-regarded standard edition.
+**$$:** The Original Jazz Classics OJC-044 reissue, mastered by George Horn.
 
-**$$$$:** A clean original Debut 10" (DLP-2/DLP-4) or early 12" consolidation, condition-dependent – the historically definitive document, dating ambiguity aside.
+**$$$$:** A clean original Debut 10" (DLP-2 or DLP-4) or the 1956 [DEB-124](https://www.discogs.com/release/4165355-The-Quintet-Jazz-At-Massey-Hall) 12", priced on condition.
 
-**$$$$$:** *Hot House: The Complete Jazz at Massey Hall Recordings* (Craft Recordings, 2023) – the only release offering both the familiar overdubbed program and the un-overdubbed quintet tracks in one place.
+**$$$$$:** *Hot House: The Complete Jazz at Massey Hall Recordings*, the only release with both the overdubbed and undubbed quintet performances.
 
 ## Pressing tier summary
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Hot House: The Complete Jazz at Massey Hall Recordings | – | 2023 | Mono, 33⅓, 3LP box | Paul Blakemore, 24-bit restoration | First release including un-overdubbed quintet tracks alongside the familiar overdubbed program | – |
-| **A** | Debut 10"/early 12" consolidation | DLP-2 / DLP-4 | 1953 | Mono, 33⅓ | Debut lacquer; produced by Charles Mingus | Historically definitive; overdubbed bass on most tracks except "Salt Peanuts" | – |
-| **B** | Original Jazz Classics OJC-044 | OJC-044 | 1980s | Mono, 33⅓ | George Horn | Solid, well-regarded standard reissue | – |
+| **S** | Hot House: The Complete Jazz at Massey Hall Recordings | – | 2023 | Mono, 33⅓, 3LP box | Paul Blakemore restoration | First release with the undubbed quintet tracks alongside the overdubbed program | – |
+| **A** | Debut 12" consolidation | DEB-124 | 1956 | Mono, 33⅓ | Debut lacquer. Produced by Charles Mingus | Compiles DLP-2 and DLP-4. Overdubbed bass except on "Salt Peanuts" | [Discogs](https://www.discogs.com/release/4165355-The-Quintet-Jazz-At-Massey-Hall) |
+| **B** | Original Jazz Classics | OJC-044 | 1983 | Mono, 33⅓ | George Horn, Fantasy | Owner reviews positive | – |
+| **–** | Debut 10" originals | DLP-2, DLP-4 | 1953, 1954 | Mono, 33⅓, 10" | Debut lacquer | Not rated. Scarce. DLP-3 holds the Powell trio set | – |
+| **–** | Prestige, *The Greatest Jazz Concert Ever* | PRST-24024 | 1973 | Mono, 33⅓, 2LP | Not credited | Not rated. Retitled reissue | – |
+| **–** | Fantasy reissue | LP 6003 / LP 86003 | 1962 | Mono, 33⅓ | Not credited | Not rated | – |
 
 ## References
 
 - Discogs (master, all versions): [https://www.discogs.com/master/176938](https://www.discogs.com/master/176938)
 - Wikipedia, "Jazz at Massey Hall": [https://en.wikipedia.org/wiki/Jazz_at_Massey_Hall](https://en.wikipedia.org/wiki/Jazz_at_Massey_Hall)
-- Craft Recordings, "Hot House: The Complete Jazz at Massey Hall Recordings" (press release): [https://craftrecordings.com/blogs/news/hot-house-the-complete-jazz-at-massey-hall-recordings](https://craftrecordings.com/blogs/news/hot-house-the-complete-jazz-at-massey-hall-recordings)
+- Wikipedia, "Debut Records": [https://en.wikipedia.org/wiki/Debut_Records](https://en.wikipedia.org/wiki/Debut_Records)
+- Jazz Discography Project, "Debut Records Catalog: LP, EP series": [https://www.jazzdisco.org/debut-records/catalog-lp-ep-series/album-index/](https://www.jazzdisco.org/debut-records/catalog-lp-ep-series/album-index/)
+- Jazz Discography Project, "Debut Records Discography: 1948-1965": [https://www.jazzdisco.org/debut-records/discography-1948-1965/](https://www.jazzdisco.org/debut-records/discography-1948-1965/)
+- AnalogPlanet, "Hot House: The Complete Jazz at Massey Hall Recordings Receives Ultimate 70th Anniversary 180g 3LP Restoration": [https://www.analogplanet.com/content/hot-house-complete-jazz-massey-hall-recordings-receives-ultimate-70th-anniversary-180g-3lp](https://www.analogplanet.com/content/hot-house-complete-jazz-massey-hall-recordings-receives-ultimate-70th-anniversary-180g-3lp)
+- Craft Recordings, "Hot House: The Complete Jazz at Massey Hall Recordings": [https://craftrecordings.com/blogs/news/hot-house-the-complete-jazz-at-massey-hall-recordings](https://craftrecordings.com/blogs/news/hot-house-the-complete-jazz-at-massey-hall-recordings)
