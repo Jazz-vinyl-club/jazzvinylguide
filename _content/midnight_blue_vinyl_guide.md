@@ -2,7 +2,7 @@
 
 ## Summary
 
-*Midnight Blue* was recorded on January 8, 1963 at Van Gelder Studio in Englewood Cliffs, New Jersey. Alfred Lion produced. The session is a slow blues date built around Stanley Turrentine's tenor saxophone. Major Holley Jr. plays bass, Bill English drums and Ray Barretto congas. It closes Burrell's seven-year Blue Note run, begun in 1956. Blue Note released it in early May 1963 as BLP 4123 in mono and BST 84123 in stereo.
+*Midnight Blue* was recorded on January 8, 1963 at Van Gelder Studio in Englewood Cliffs, New Jersey, produced by Alfred Lion. The session is a slow blues date built around Stanley Turrentine's tenor saxophone, with Major Holley Jr. on bass, Bill English on drums and Ray Barretto on congas. It closes Burrell's seven-year Blue Note run, begun in 1956. Blue Note released it in early May 1963 as BLP 4123 in mono and BST 84123 in stereo.
 
 The modern reissues make this title unusual. Three independent comparisons found that the 45rpm edition does not win, which contradicts the normal assumption about groove spacing. The reason is a change in the mastering chain between two cuts by the same engineer rather than anything to do with speed. Price and format are poor guides to sound on this title.
 
@@ -54,7 +54,7 @@ His conclusion is that the higher price does not buy a better record, only a dif
 
 Classic Records issued a mono edition on 200g, catalogue BN 4123-MONO-200GR. Given how hard-panned the stereo mix is, a mono cut is a different listening experience rather than a lesser one.
 
-A 2024 blue vinyl pressing in Blue Note's 85th-anniversary series has drawn mixed reports. One comparison against a 1985 French DMM pressing and a 1967 Liberty-labels mono reissue called it serviceable without surpassing either, and one buyer reported a noisy sealed copy.
+A 2024 blue vinyl pressing in Blue Note's 85th-anniversary series has drawn mixed reports. One comparison against a 1985 French DMM pressing and a 1967 Liberty-labels mono reissue called it serviceable without surpassing either. One buyer also reported a noisy sealed copy.
 
 Owners of several [Analogue Productions](https://www.discogs.com/release/3720390) titles from the 2008 era report off-centre spindle holes causing visible wobble. Reviewers differ on whether it is audible.
 
