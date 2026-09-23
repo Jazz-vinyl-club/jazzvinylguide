@@ -30,13 +30,13 @@ The distinction catches experienced collectors. An [AnalogPlanet](https://www.an
 
 ## The Bell Sound stereo remaster
 
-The stereo trap is more consequential than the label-text question. A genuine original AS-30 was mastered by Rudy Van Gelder, with "VAN GELDER" etched in the runout.
+The stereo trap is more consequential than the label-text question. The original AS-30 was mastered by Rudy Van Gelder, with "VAN GELDER" etched in the runout.
 
 A later stereo pressing under the same catalogue number was remastered at Bell Sound. That is a different facility, not a repress from the same lacquers.
 
 [LondonJazzCollector](https://londonjazzcollector.wordpress.com/2011/10/24/two-more-giants/) describes a copy with the older orange and black Impulse label design, the look most buyers associate with an early pressing. Its runout reads "Bell Sound LW" rather than carrying a Van Gelder credit.
 
-The label design alone does not tell you which mastering you have. Check the dead wax for "VAN GELDER" or a Bell Sound credit before paying for an original.
+The label design alone does not identify the mastering. Only the dead wax does, reading either "VAN GELDER" or a Bell Sound credit.
 
 ## Original Impulse! pressings (1963)
 
