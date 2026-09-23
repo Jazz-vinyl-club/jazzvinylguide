@@ -1,36 +1,54 @@
 # Body and Soul on Vinyl: The Definitive Pressing Guide
 
-## A note on what "Body and Soul" actually is
-
-The famous "Body and Soul" isn't an album at all in its original form – it's a single 78rpm side, recorded October 11, 1939 at RCA's studios in New York and issued on Bluebird. The resulting two-chorus improvisation, which barely touches the tune's original melody at all, is widely regarded as one of the most important recordings in the history of jazz saxophone – the Library of Congress inducted it into the National Recording Registry in 2004.
-
-"The album" that collector shorthand refers to as *Body and Soul* is something different: a compilation, first assembled decades later, drawing on Hawkins recording sessions spanning 1939 to 1956. The first vinyl LP packaging of this material was RCA Victor LPV-501, part of RCA's "Vintage Series" reissue line, subtitled *A Jazz Autobiography*. Crucially, this is not the only compilation to carry the *Body and Soul* title – Wikipedia specifically notes that because the 1939 recording is held in such high regard, multiple different compilations across different decades and labels (an earlier Topaz Jazz Records/Pearl CD, a 1996 RCA CD produced by John Snyder, and a Proper Records box set) have all used a similar or identical title with overlapping but not identical track selections. If you're chasing a specific vinyl "Body and Soul" LP, confirm exactly which track program and pressing you're getting rather than assuming any release with this title contains the same material.
-
 ## Summary
 
-Coleman Hawkins and his sidemen had gone into the studio that day to record three other, more forgettable tunes; "Body and Soul" was a last-minute addition, reportedly requested by a fan who'd heard Hawkins play the tune live at Kelly's Stable on 52nd Street and called the label to ask for a record of it.
+"Body and Soul" is not an album in its original form. It is one 78rpm side, recorded on October 11, 1939 at RCA's studio on East 24th Street in New York. Bluebird issued it as B-10523, backed with "Fine Dinner." Coleman Hawkins's two-chorus improvisation barely states the melody, and the Library of Congress added it to the National Recording Registry in 2004.
 
-**Best early pressing for audiophiles:** an original Bluebird 78rpm pressing of the 1939 recording (catalog B-10523) – the true historical artifact, though 78rpm shellac requires different playback equipment than a standard turntable.
+What collectors call the *Body and Soul* album is a compilation assembled decades later from Hawkins sessions between 1939 and 1956. The first vinyl version was RCA Victor LPV-501, part of the Vintage Series, subtitled *A Jazz Autobiography*. Several later compilations share the title with different track selections, so the program matters more than the name.
 
-**Best modern pressing for audiophiles:** not confirmed in this pass – see below.
-
-**Best-value modern:** any clearly labeled reissue compilation, provided you've confirmed its specific track list matches what you're after – see the disambiguation note above before assuming all "Body and Soul" releases are equivalent.
+- **Best early pressing for audiophiles:** An original Bluebird 78rpm of the 1939 recording, catalogue B-10523. Shellac at 78rpm needs different playback gear.
+- **Best modern pressing for audiophiles:** None confirmed. No dedicated audiophile vinyl edition of any of these compilations was found.
+- **Best-value modern:** Any clearly labelled reissue compilation, once its track list is checked.
 
 ## Recording history and tape provenance
 
-Recording supervisor Leonard Joy relayed the fan's request, and Hawkins cut it in a single take. Hawkins's radical break from melodic paraphrase toward pure harmonic improvisation directly influenced generations of saxophonists after him, including John Coltrane by his own account. The 1939 session itself featured Hawkins on tenor sax with Tommy Lindsay and Joe Guy on trumpets, Earl Hardy on trombone, Jackie Fields and Eustis Moore on alto saxophones, Gene Rodgers on piano, Oscar Smith on bass, and Arthur Herbert on drums, recorded at RCA's studio on East 24th Street in Manhattan. Hawkins had spent the preceding six years working in Europe before returning to the US ahead of the outbreak of war; "Body and Soul" was cut just as he was reestablishing himself on the New York scene, opening at Kelly's Stable. The original 78rpm pressing (Bluebird B-10523, paired with "Fine Dinner" on the B-side) was pressed at multiple RCA plants, including a documented Indianapolis pressing with distinguishing label-ring characteristics.
+Hawkins and his band went into the studio that day to record three other tunes. "Body and Soul" was a last-minute addition. A fan who had heard Hawkins play it at Kelly's Stable on 52nd Street reportedly called the label to request it.
 
-RCA's LPV-501 compilation, and the various later reissues sharing the *Body and Soul* title, extend well beyond the 1939 session to include material recorded January 1940, December 1947, and multiple sessions in January 1956 (including a later re-recording of "Body and Soul" itself, giving listeners a direct 17-years-apart comparison of Hawkins revisiting his own signature piece).
+Recording supervisor Leonard Joy passed on the request, and Hawkins cut it in one take. The session had Hawkins on tenor saxophone, with Tommy Lindsay and Joe Guy on trumpets and Earl Hardy on trombone. Jackie Fields and Eustis Moore played alto saxophones, Gene Rodgers piano, Oscar Smith bass and Arthur Herbert drums.
+
+Hawkins had spent the previous six years working in Europe and returned to the United States ahead of the war. The record was cut as he was re-establishing himself in New York.
+
+His move from melodic paraphrase to harmonic improvisation influenced later saxophonists, including John Coltrane by his own account.
+
+## Which "Body and Soul" is which
+
+[Wikipedia](https://en.wikipedia.org/wiki/Body_and_Soul_(Coleman_Hawkins_album)) notes that the 1939 recording's standing has led several compilations to use the same title with overlapping but different contents. Those include a Topaz Jazz and Pearl CD, a 1996 RCA CD produced by John Snyder, and a Proper Records box.
+
+RCA Victor LPV-501 covers sessions from January 1940, December 1947 and several in January 1956, alongside the 1939 side. The 1956 material includes Hawkins re-recording "Body and Soul," which puts two versions seventeen years apart on one record.
+
+Anyone chasing a specific vinyl edition should confirm the track list rather than the title. The [Discography of American Historical Recordings](https://adp.library.ucsb.edu/index.php/objects/refer/70664) documents LPV-501's contents.
+
+## The 1939 Bluebird 78
+
+Bluebird B-10523 was pressed at several RCA plants, including a documented Indianapolis pressing with its own label-ring characteristics. Condition on shellac of this age varies widely.
+
+A 78 needs a turntable that runs at that speed and a suitable stylus. Without that equipment, a later compilation is the only way to hear the performance.
 
 ## Buyer's guide by budget
 
-Given that this title's very identity is spread across a single historic 78rpm side and multiple non-identical compilation albums released decades apart, this guide isn't presenting confident dollar-sign price tiers the way most guides on this site do. If you specifically want the historic 1939 performance itself, any reissue compilation containing it will do; if you want the complete "Jazz Autobiography" concept spanning Hawkins's career from 1939 to 1956, confirm you're getting RCA Victor LPV-501 or a reissue with an equivalent, clearly documented track list rather than a differently-curated compilation sharing the same title.
+**$$:** Any reissue compilation containing the 1939 side, with the track list checked first.
+
+**$$$:** RCA Victor LPV-501, or a reissue with an equivalent documented track list, for the full 1939 to 1956 program.
+
+**$$$$:** An original Bluebird B-10523 78rpm pressing, for the historic artefact rather than for sound.
 
 ## Pressing tier summary
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | RCA Victor "Vintage Series" LP | LPV-501 | 1961 | Mono, 33⅓ | RCA lacquer | First vinyl LP compilation under this title; subtitled "A Jazz Autobiography" | – |
+| **A** | RCA Victor Vintage Series LP | LPV-501 | 1961 | Mono, 33⅓ | RCA lacquer | First vinyl compilation under this title. Subtitled "A Jazz Autobiography" | – |
+| **–** | Bluebird 78rpm original | B-10523 | 1939 | Mono, 78rpm shellac | RCA | Not rated. The original release, backed with "Fine Dinner" | – |
+| **–** | Later compilations sharing the title | Various | Various | Mono, 33⅓ | Various | Not rated. Track selections differ. Check contents before buying | – |
 
 ## References
 
