@@ -807,9 +807,30 @@ def build_sitemap(albums, lastmod_by_file=None):
         f.write(xml)
     print("  ✓ sitemap.xml")
 
+def print_build_provenance():
+    """Print what this build is actually reading, so a deploy log proves which
+    content was compiled. A stale checkout or cache shows up here immediately."""
+    import hashlib
+    import subprocess
+    try:
+        head = subprocess.run(["git", "rev-parse", "HEAD"], cwd=BASE_DIR,
+                              capture_output=True, text=True).stdout.strip()
+    except Exception:
+        head = "(git unavailable)"
+    h = hashlib.sha256()
+    names = sorted(n for n in os.listdir(CONTENT_DIR) if n.endswith(".md"))
+    for n in names:
+        with open(os.path.join(CONTENT_DIR, n), "rb") as f:
+            h.update(n.encode())
+            h.update(f.read())
+    print(f"  build provenance: HEAD={head or '(none)'} "
+          f"_content={len(names)} files sha256={h.hexdigest()[:16]}")
+
+
 def main():
     with open(ALBUMS_FILE) as f:
         albums = json.load(f)
+    print_build_provenance()
     itunes_cache = load_itunes_cache()
     target = sys.argv[1] if len(sys.argv) > 1 else None
     if target:
