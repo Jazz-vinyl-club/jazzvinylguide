@@ -6,9 +6,11 @@
 
 Two things make this title harder to buy than most. Original copies are scarce and come in more than one packaging variant. A second, alternate set of mixes by Bob Blank also exists, and opinion on whether they improve on the original is divided. Modern reissues also vary in pressing quality more than most, so the specific pressing matters more than usual.
 
-- **Best early pressing for audiophiles:** An original [1978 Philly Jazz pressing](https://www.discogs.com/release/12956965), PJ-1006, with the packaging variant checked.
-- **Best modern pressing for audiophiles:** The [Vinyl Me, Please "Translucent Red" edition](https://www.discogs.com/release/19716562-Sun-Ra-Lanquidity) (2021), mastered by Dave Cheppa.
-- **Best-value modern:** The Strut single-LP edition, STRUT237LP, carrying the original mix only.
+**Best early pressing for audiophiles:** An original [1978 Philly Jazz pressing](https://www.discogs.com/release/12956965), PJ-1006, with the packaging variant checked.
+
+**Best modern pressing for audiophiles:** The [Vinyl Me, Please "Translucent Red" edition](https://www.discogs.com/release/19716562-Sun-Ra-Lanquidity) (2021), mastered by Dave Cheppa.
+
+**Best-value modern:** The Strut single-LP edition, STRUT237LP, carrying the original mix only.
 
 ## Recording history and tape provenance
 

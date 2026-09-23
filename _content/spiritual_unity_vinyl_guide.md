@@ -6,9 +6,11 @@
 
 The five tracks are "Ghosts (First Variation)," "The Wizard," "Spirits," "Units" and "Ghosts (Second Variation)." One complication matters more than any pressing variant. A different performance was substituted for "Spirits" on an early vinyl edition, so some copies do not contain the 1964 take. Which take a copy holds matters more than its label variant or pressing year.
 
-- **Best early pressing for audiophiles:** [ESP 1002 mono](https://www.discogs.com/release/4339219), the first pressing, with a Plastylite "ear" in the dead wax.
-- **Best modern pressing for audiophiles:** The current ESP-Disk repress, 180g with the original artwork restored, listed by [Forced Exposure](https://www.forcedexposure.com/Catalog/ayler-trio-albert-spiritual-unity-lp/ESPDISK.1002LP.html) as a 2024 repress.
-- **Best-value modern:** The same ESP-Disk repress. Several vintage European pressings are poorly made.
+**Best early pressing for audiophiles:** [ESP 1002 mono](https://www.discogs.com/release/4339219), the first pressing, with a Plastylite "ear" in the dead wax.
+
+**Best modern pressing for audiophiles:** The current ESP-Disk repress, 180g with the original artwork restored, listed by [Forced Exposure](https://www.forcedexposure.com/Catalog/ayler-trio-albert-spiritual-unity-lp/ESPDISK.1002LP.html) as a 2024 repress.
+
+**Best-value modern:** The same ESP-Disk repress. Several vintage European pressings are poorly made.
 
 ## Recording history and tape provenance
 

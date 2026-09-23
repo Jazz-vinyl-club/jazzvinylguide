@@ -6,9 +6,11 @@
 
 The whole album runs under 40 minutes and was finished in one six-hour session. The buying decision is unusual for a reissue-heavy catalogue. Owner reports say the 2017 ECM reissue was pressed from the 1973 stampers rather than recut. That puts it closer to a late original pressing than to a remaster.
 
-- **Best early pressing for audiophiles:** A [1973 ECM 1027](https://www.discogs.com/release/12341594) original, yellow cover with green labels.
-- **Best modern pressing for audiophiles:** The 2017 ECM 180g reissue, reported by owners to use the original 1973 stampers.
-- **Best-value modern:** A [1976 or 1977 German reissue](https://www.discogs.com/release/7661254), identified by "Urheber- Und..." in the label rim text.
+**Best early pressing for audiophiles:** A [1973 ECM 1027](https://www.discogs.com/release/12341594) original, yellow cover with green labels.
+
+**Best modern pressing for audiophiles:** The 2017 ECM 180g reissue, reported by owners to use the original 1973 stampers.
+
+**Best-value modern:** A [1976 or 1977 German reissue](https://www.discogs.com/release/7661254), identified by "Urheber- Und..." in the label rim text.
 
 ## Recording history and tape provenance
 

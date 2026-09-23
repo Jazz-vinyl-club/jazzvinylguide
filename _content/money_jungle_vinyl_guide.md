@@ -6,9 +6,11 @@
 
 One characteristic shapes every buying decision here. Ellington's piano sounds wooly or jangly on effectively every pressing, including the Tone Poet, and the cause appears to be the original recording rather than any mastering. No reissue can fix it, so a premium pressing does not buy a cleaner piano. That makes a clean vintage copy more competitive here than on most titles of the period.
 
-- **Best early pressing for audiophiles:** [United Artists UAJS 15017](https://www.discogs.com/release/2936339), the 1963 original on grey labels, Plastylite pressed.
-- **Best modern pressing for audiophiles:** The Blue Note Tone Poet edition (2020), catalogue B0031461-01, cut by Kevin Gray from the original analog stereo master.
-- **Best-value modern:** A late-1960s Solid State yellow-label repress, or the Jazz Images 180g edition with the bonus tracks.
+**Best early pressing for audiophiles:** [United Artists UAJS 15017](https://www.discogs.com/release/2936339), the 1963 original on grey labels, Plastylite pressed.
+
+**Best modern pressing for audiophiles:** The Blue Note Tone Poet edition (2020), catalogue B0031461-01, cut by Kevin Gray from the original analog stereo master.
+
+**Best-value modern:** A late-1960s Solid State yellow-label repress, or the Jazz Images 180g edition with the bonus tracks.
 
 ## Recording history and tape provenance
 

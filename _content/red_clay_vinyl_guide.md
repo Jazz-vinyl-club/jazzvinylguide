@@ -6,9 +6,11 @@
 
 The record mixes electric and acoustic instruments. A muddy copy smears Hancock's electric piano into the rhythm section instead of placing it beside Carter's bass and White's kick drum. Original copies vary audibly by pressing plant, which matters more here than the 1970 date on the label. Streaming credits for this album are also misleading, for a reason the vinyl buyer can ignore.
 
-- **Best early pressing for audiophiles:** [CTI 6001](https://www.discogs.com/release/1583965), the 1970 original, Terre Haute plant, orange labels.
-- **Best modern pressing for audiophiles:** [ORG Music ORGM-2000](https://www.discogs.com/release/13543935) (2014), cut by Bernie Grundman at 45rpm and pressed at Pallas.
-- **Best-value modern:** [ORG Music ORGM-1085](https://www.discogs.com/release/9987034), the single-LP 33⅓ reissue, also cut by Grundman.
+**Best early pressing for audiophiles:** [CTI 6001](https://www.discogs.com/release/1583965), the 1970 original, Terre Haute plant, orange labels.
+
+**Best modern pressing for audiophiles:** [ORG Music ORGM-2000](https://www.discogs.com/release/13543935) (2014), cut by Bernie Grundman at 45rpm and pressed at Pallas.
+
+**Best-value modern:** [ORG Music ORGM-1085](https://www.discogs.com/release/9987034), the single-LP 33⅓ reissue, also cut by Grundman.
 
 ## Recording history and tape provenance
 

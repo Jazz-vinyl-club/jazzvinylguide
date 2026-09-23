@@ -6,9 +6,11 @@
 
 The band pairs Morgan's trumpet with Pepper Adams on baritone saxophone, over Bobby Timmons, Paul Chambers and Philly Joe Jones. The record was mono first, with the stereo edition following years later. That matters, because a documented editing error affects the stereo master of "A Night in Tunisia," and owner reports describe the stereo mix as hard-panned.
 
-- **Best early pressing for audiophiles:** An original Blue Note BLP 1578 mono pressing.
-- **Best modern pressing for audiophiles:** The [Blue Note Tone Poet edition](https://www.discogs.com/release/15185777-Lee-Morgan-The-Cooker) (2020), mastered by Kevin Gray from the original tapes.
-- **Best-value modern:** The [Classic Records 200g Quiex SV-P](https://www.discogs.com/release/2132290), with Bernie Grundman's mastering confirmed by the runout.
+**Best early pressing for audiophiles:** An original Blue Note BLP 1578 mono pressing.
+
+**Best modern pressing for audiophiles:** The [Blue Note Tone Poet edition](https://www.discogs.com/release/15185777-Lee-Morgan-The-Cooker) (2020), mastered by Kevin Gray from the original tapes.
+
+**Best-value modern:** The [Classic Records 200g Quiex SV-P](https://www.discogs.com/release/2132290), with Bernie Grundman's mastering confirmed by the runout.
 
 ## Recording history and tape provenance
 

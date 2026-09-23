@@ -6,9 +6,11 @@
 
 The two quartets are hard-panned to opposite channels, which makes the stereo and mono editions different listening propositions rather than variants. Channel separation is also the reason a 45rpm cut suits this record. One currently in-print reissue has a documented pressing defect, reported by many owners and absent from others.
 
-- **Best early pressing for audiophiles:** [Atlantic 1364 mono](https://www.discogs.com/release/1942501) or [SD-1364 stereo](https://www.discogs.com/release/370754), the 1961 originals.
-- **Best modern pressing for audiophiles:** The ORG Music 45rpm 2LP, cut by Bernie Grundman from the original analog tapes and pressed at Pallas.
-- **Best-value modern:** The [Speakers Corner 180g reissue](https://www.discogs.com/release/20407990), with the non-fill reports in mind.
+**Best early pressing for audiophiles:** [Atlantic 1364 mono](https://www.discogs.com/release/1942501) or [SD-1364 stereo](https://www.discogs.com/release/370754), the 1961 originals.
+
+**Best modern pressing for audiophiles:** The ORG Music 45rpm 2LP, cut by Bernie Grundman from the original analog tapes and pressed at Pallas.
+
+**Best-value modern:** The [Speakers Corner 180g reissue](https://www.discogs.com/release/20407990), with the non-fill reports in mind.
 
 ## Recording history and tape provenance
 

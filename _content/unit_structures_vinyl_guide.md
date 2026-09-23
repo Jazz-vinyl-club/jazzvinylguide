@@ -6,9 +6,11 @@
 
 The septet is dense, with two basses playing at once, so pressing quality affects how well the individual voices separate rather than blur. The 2023 Blue Note Classic Vinyl Edition matters here for a specific reason. It is reported to be this title's first all-analog reissue, meaning every earlier reissue involved a digital step.
 
-- **Best early pressing for audiophiles:** [Blue Note BLP 4237](https://www.discogs.com/release/2467928), the 1966 mono original.
-- **Best modern pressing for audiophiles:** The Blue Note Classic Vinyl Edition (2023), cut by Kevin Gray from the original tapes and pressed at Optimal.
-- **Best-value modern:** The [1980 Japanese Toshiba EMI reissue](https://www.discogs.com/release/5871578), catalogue GXT 8147.
+**Best early pressing for audiophiles:** [Blue Note BLP 4237](https://www.discogs.com/release/2467928), the 1966 mono original.
+
+**Best modern pressing for audiophiles:** The Blue Note Classic Vinyl Edition (2023), cut by Kevin Gray from the original tapes and pressed at Optimal.
+
+**Best-value modern:** The [1980 Japanese Toshiba EMI reissue](https://www.discogs.com/release/5871578), catalogue GXT 8147.
 
 ## Recording history and tape provenance
 

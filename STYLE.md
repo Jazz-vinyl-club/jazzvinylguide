@@ -30,7 +30,7 @@ These rules apply to every guide in `_content/`. `scripts/full_audit.py` enforce
 
 Required sections, in this order, with other pressing sections between Recording history and Buyer's guide:
 
-1. `## Summary`: exactly two paragraphs of at least 50 words each, then the "Best ..." lines as bullets.
+1. `## Summary`: exactly two paragraphs of at least 50 words each, then the "Best ..." lines, each as its own paragraph with a bold label. Not a bullet list.
 2. `## Recording history and tape provenance`: the sessions, personnel, and which tapes exist. No chart positions, awards, later reviews or endorsements. No detail about specific reissues. That belongs in the pressing sections.
 3. Pressing sections (free headings, e.g. `## Original Columbia pressings (1958)`). Each paragraph opens with the pressing's label and catalogue number, linked to its Discogs release. No "Discogs" link text in prose.
 4. `## Pressings to avoid` (optional).

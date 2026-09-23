@@ -6,9 +6,11 @@
 
 Originals are among the most expensive records in the Blue Note catalogue, so the practical question is which alternative to buy. Three modern editions exist, two from Music Matters and one from Blue Note, all cut by Kevin Gray. A later Liberty-era pressing is a fourth route that keeps Rudy Van Gelder's original mono cut.
 
-- **Best early pressing for audiophiles:** An original [Blue Note BLP 1588 or BST 81588](https://www.discogs.com/release/6502013), scarce and expensive.
-- **Best modern pressing for audiophiles:** Contested between the Music Matters 45rpm, the Music Matters 33⅓ and the Blue Note Classic Vinyl Edition.
-- **Best-value modern:** The Blue Note Classic Vinyl Edition (2021), all-analog, cut by Kevin Gray and pressed at Optimal.
+**Best early pressing for audiophiles:** An original [Blue Note BLP 1588 or BST 81588](https://www.discogs.com/release/6502013), scarce and expensive.
+
+**Best modern pressing for audiophiles:** Contested between the Music Matters 45rpm, the Music Matters 33⅓ and the Blue Note Classic Vinyl Edition.
+
+**Best-value modern:** The Blue Note Classic Vinyl Edition (2021), all-analog, cut by Kevin Gray and pressed at Optimal.
 
 ## Recording history and tape provenance
 

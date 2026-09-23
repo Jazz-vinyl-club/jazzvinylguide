@@ -6,9 +6,11 @@
 
 The album was recorded digitally on a Sony PCM-3324 multitrack, so no analog master tape exists. Any reissue is a digital source cut to lacquer, whatever the marketing says, so mastering and pressing quality are the only real variables between editions. Two modern reissues exist alongside the 1985 original, and the original itself came from several plants. Original copies remain common and cheap, which shapes the buying decision more than usual.
 
-- **Best early pressing for audiophiles:** An original [Columbia FC 40009](https://www.discogs.com/release/395747-Wynton-Marsalis-Black-Codes-From-The-Underground) (1985). Carrollton and Pitman variants are both well regarded.
-- **Best modern pressing for audiophiles:** The [2014 180g reissue](https://www.discogs.com/release/5793563-Wynton-Marsalis-Black-Codes-From-The-Underground), which an owner review credits to Bernie Grundman and a Pallas pressing.
-- **Best-value modern:** A clean original FC 40009. They are common and inexpensive.
+**Best early pressing for audiophiles:** An original [Columbia FC 40009](https://www.discogs.com/release/395747-Wynton-Marsalis-Black-Codes-From-The-Underground) (1985). Carrollton and Pitman variants are both well regarded.
+
+**Best modern pressing for audiophiles:** The [2014 180g reissue](https://www.discogs.com/release/5793563-Wynton-Marsalis-Black-Codes-From-The-Underground), which an owner review credits to Bernie Grundman and a Pallas pressing.
+
+**Best-value modern:** A clean original FC 40009. They are common and inexpensive.
 
 ## Recording history and tape provenance
 

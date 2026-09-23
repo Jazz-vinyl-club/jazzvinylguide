@@ -6,9 +6,11 @@
 
 The session packs a nine-piece band with five horns into a small studio, so a pressing's ability to separate the horns matters. The stereo mix hard-pans much of the band, and some listeners prefer the mono mix for that reason. The two leading modern editions split along that line, with a stereo 45rpm set from Analogue Productions and a mono LP from Rhino Reserve.
 
-- **Best early pressing for audiophiles:** [Atlantic SD 1305](https://www.discogs.com/release/5923976). The 1960 stereo original, green and blue "bullseye" label with fan logo. The [mono 1305](https://www.discogs.com/release/3496796-Charlie-Mingus-Blues-Roots) came out the same month.
-- **Best modern pressing for audiophiles:** Contested between the [Analogue Productions APA 001-45](https://www.discogs.com/release/28538188) stereo 45rpm set (2023) and the [Rhino Reserve RES1 1305](https://www.discogs.com/release/36150229) mono LP (2026).
-- **Best-value modern:** [London/Atlantic UK pressing](https://www.discogs.com/release/5113505) (Decca manufactured, 1960). An alternative when a US original is scarce or overpriced.
+**Best early pressing for audiophiles:** [Atlantic SD 1305](https://www.discogs.com/release/5923976). The 1960 stereo original, green and blue "bullseye" label with fan logo. The [mono 1305](https://www.discogs.com/release/3496796-Charlie-Mingus-Blues-Roots) came out the same month.
+
+**Best modern pressing for audiophiles:** Contested between the [Analogue Productions APA 001-45](https://www.discogs.com/release/28538188) stereo 45rpm set (2023) and the [Rhino Reserve RES1 1305](https://www.discogs.com/release/36150229) mono LP (2026).
+
+**Best-value modern:** [London/Atlantic UK pressing](https://www.discogs.com/release/5113505) (Decca manufactured, 1960). An alternative when a US original is scarce or overpriced.
 
 ## Recording history and tape provenance
 

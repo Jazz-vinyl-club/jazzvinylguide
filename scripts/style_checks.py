@@ -149,8 +149,8 @@ def check_structure(secs, r):
 def check_summary(body, r):
     lines = body.split("\n")
     for l in lines:
-        if re.match(r"^\*\*Best ", l.strip()):
-            r.error(f"'Best ...' line must be a bullet ('- **Best ...'): {short(l, 60)}")
+        if re.match(r"^\s*[-*]\s+\*\*Best ", l):
+            r.error(f"'Best ...' line must be its own paragraph, not a bullet: {short(l, 60)}")
     prose = re.split(r"^\s*[-*]?\s*\*\*Best ", body, maxsplit=1, flags=re.M)[0]
     paras = [p for p in prose.split("\n\n") if p.strip()]
     if len(paras) != 2:

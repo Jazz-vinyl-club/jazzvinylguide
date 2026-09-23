@@ -6,9 +6,11 @@
 
 Clef combined the two 10" albums onto one 12" LP in 1955 as MG C-675, per its [Discogs entry](https://www.discogs.com/release/6255700-Charlie-Parker-With-Strings-Charlie-Parker-With-Strings). That is the first single-album version of the program. The catalogue history around it is tangled, and the same recordings later appeared under a different title. Sources also disagree on the early Mercury and Clef numbering, so several entries here are listed without a tier.
 
-- **Best early pressing for audiophiles:** [Clef MG C-675](https://www.discogs.com/release/6255700-Charlie-Parker-With-Strings-Charlie-Parker-With-Strings) (1955). The first 12" consolidation of both 10" volumes.
-- **Best modern pressing for audiophiles:** None confirmed. No modern reissue with a named mastering engineer could be verified.
-- **Best-value modern:** [The 2013 Verve 180g reissue](https://www.discogs.com/release/5142713-Charlie-Parker-With-Strings-Charlie-Parker-With-Strings), with the caveat that owner reports on its surface noise conflict.
+**Best early pressing for audiophiles:** [Clef MG C-675](https://www.discogs.com/release/6255700-Charlie-Parker-With-Strings-Charlie-Parker-With-Strings) (1955). The first 12" consolidation of both 10" volumes.
+
+**Best modern pressing for audiophiles:** None confirmed. No modern reissue with a named mastering engineer could be verified.
+
+**Best-value modern:** [The 2013 Verve 180g reissue](https://www.discogs.com/release/5142713-Charlie-Parker-With-Strings-Charlie-Parker-With-Strings), with the caveat that owner reports on its surface noise conflict.
 
 ## Recording history and tape provenance
 

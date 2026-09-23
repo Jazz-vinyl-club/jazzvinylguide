@@ -6,9 +6,11 @@
 
 Both sources were recorded in mono. Columbia released the LP commercially in rechannelled stereo only, so every shop copy is electronically reprocessed. That single fact shapes the whole buying decision, because no commercial vinyl edition presents this material in its original mono. There is also no audiophile reissue to weigh against the 1968 pressing, so condition and price decide most purchases.
 
-- **Best early pressing for audiophiles:** An original 1968 [Columbia CS 9655](https://www.discogs.com/release/6293734) two-eye pressing, with the rechannelled-stereo caveat.
-- **Best modern pressing for audiophiles:** None. No dedicated audiophile reissue of this compilation was found.
-- **Best-value modern:** A later Columbia or CBS pressing under the same catalogue number. Condition matters more than the year.
+**Best early pressing for audiophiles:** An original 1968 [Columbia CS 9655](https://www.discogs.com/release/6293734) two-eye pressing, with the rechannelled-stereo caveat.
+
+**Best modern pressing for audiophiles:** None. No dedicated audiophile reissue of this compilation was found.
+
+**Best-value modern:** A later Columbia or CBS pressing under the same catalogue number. Condition matters more than the year.
 
 ## Recording history and tape provenance
 

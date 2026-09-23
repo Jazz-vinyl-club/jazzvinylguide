@@ -6,9 +6,11 @@
 
 The recordings date from 1949 and 1950, so fidelity is limited on every pressing. The choice between editions turns mostly on track content, format and condition, not on mastering. The 1957 Verve 12" reissue drops two of the original tracks and adds alternate takes. The original 10" is the only way to hear the album as first issued.
 
-- **Best early pressing for audiophiles:** [Clef MG C-512](https://www.discogs.com/release/8684498). The 1952 10" original and first US edition.
-- **Best modern pressing for audiophiles:** The Verve Vital Vinyl reissue. It reproduces the original label and cover and is pressed in the Czech Republic. No mastering engineer is credited.
-- **Best-value modern:** [Verve MG V-8006](https://www.discogs.com/release/2486384-Charlie-Parker-And-Dizzy-Gillespie-Bird-And-Diz), the 12" "Genius of Charlie Parker #4" reissue. It omits "Passport" and "Mohawk."
+**Best early pressing for audiophiles:** [Clef MG C-512](https://www.discogs.com/release/8684498). The 1952 10" original and first US edition.
+
+**Best modern pressing for audiophiles:** The Verve Vital Vinyl reissue. It reproduces the original label and cover and is pressed in the Czech Republic. No mastering engineer is credited.
+
+**Best-value modern:** [Verve MG V-8006](https://www.discogs.com/release/2486384-Charlie-Parker-And-Dizzy-Gillespie-Bird-And-Diz), the 12" "Genius of Charlie Parker #4" reissue. It omits "Passport" and "Mohawk."
 
 ## Recording history and tape provenance
 

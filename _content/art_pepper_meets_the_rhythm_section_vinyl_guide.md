@@ -6,9 +6,11 @@
 
 The stereo mix places Pepper's alto hard in the left channel and the whole rhythm section in the right, with nothing in the center. Every stereo pressing shares this layout. It is the main reason collectors argue over stereo and mono editions. The title has also been reissued often, with four Analogue Productions editions over three decades from different mastering engineers.
 
-- **Best early pressing for audiophiles:** [Contemporary C3532](https://www.discogs.com/release/2993318). The 1957 mono original. Which cover color came first is disputed.
-- **Best modern pressing for audiophiles:** [Analogue Productions UHQR 0022-45](https://www.discogs.com/release/34925762) (2025). Cut at 45rpm by Bernie Grundman on 200g Clarity Vinyl.
-- **Best-value modern:** [Original Jazz Classics OJC-338](https://www.discogs.com/release/3422317). The 1988 Fantasy-era reissue, remastered by Phil De Lancie.
+**Best early pressing for audiophiles:** [Contemporary C3532](https://www.discogs.com/release/2993318). The 1957 mono original. Which cover color came first is disputed.
+
+**Best modern pressing for audiophiles:** [Analogue Productions UHQR 0022-45](https://www.discogs.com/release/34925762) (2025). Cut at 45rpm by Bernie Grundman on 200g Clarity Vinyl.
+
+**Best-value modern:** [Original Jazz Classics OJC-338](https://www.discogs.com/release/3422317). The 1988 Fantasy-era reissue, remastered by Phil De Lancie.
 
 ## Recording history and tape provenance
 

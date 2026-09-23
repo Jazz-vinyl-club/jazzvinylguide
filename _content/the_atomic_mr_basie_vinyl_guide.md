@@ -6,9 +6,11 @@
 
 Two things complicate buying this record. The packaging uses three different titles, and Discogs lists 144 versions, including pressings with tracks missing or resequenced. The 1994 CD *The Complete Atomic Basie* adds five tracks. Some later vinyl follows that edit rather than the 1958 one, and at least one reissue resequences the sides.
 
-- **Best early pressing for audiophiles:** An original [Roulette R-52003](https://www.discogs.com/release/2000393) mono pressing.
-- **Best modern pressing for audiophiles:** The [Classic Records 200g QUIEX SV-P](https://www.discogs.com/release/3080100), with Bernie Grundman's mastering confirmed by the runout etching.
-- **Best-value modern:** A clearly labelled repress of the original eleven-track program. Check the track list before buying anything unfamiliar.
+**Best early pressing for audiophiles:** An original [Roulette R-52003](https://www.discogs.com/release/2000393) mono pressing.
+
+**Best modern pressing for audiophiles:** The [Classic Records 200g QUIEX SV-P](https://www.discogs.com/release/3080100), with Bernie Grundman's mastering confirmed by the runout etching.
+
+**Best-value modern:** A clearly labelled repress of the original eleven-track program. Check the track list before buying anything unfamiliar.
 
 ## Title variants
 

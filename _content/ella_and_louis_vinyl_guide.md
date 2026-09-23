@@ -6,9 +6,11 @@
 
 The album was released in mono only, and every legitimate vinyl edition is mono. Copies labelled "stereo" exist, but they are labelling errors, not a separate mix. The best mono pressings present the two voices with strong presence and depth. The main choice for most buyers is between a scarce original, a 45rpm audiophile edition and a well-reviewed 33⅓ reissue from 2022.
 
-- **Best early pressing for audiophiles:** [Verve MG V-4003, orange and yellow deep-groove label](https://www.discogs.com/release/6448122-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis). The October 1956 first pressing, hard to find better than VG+.
-- **Best modern pressing for audiophiles:** [Analogue Productions AVRJ 4003-45](https://www.discogs.com/release/3513495-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) (2011). A 45rpm mono set mastered by George Marino at Sterling Sound.
-- **Best-value modern:** [Verve Acoustic Sounds Series B0033748-01](https://www.discogs.com/release/23904962-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) (2022). Mastered by Ryan K. Smith at Sterling Sound, pressed at Quality Record Pressings.
+**Best early pressing for audiophiles:** [Verve MG V-4003, orange and yellow deep-groove label](https://www.discogs.com/release/6448122-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis). The October 1956 first pressing, hard to find better than VG+.
+
+**Best modern pressing for audiophiles:** [Analogue Productions AVRJ 4003-45](https://www.discogs.com/release/3513495-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) (2011). A 45rpm mono set mastered by George Marino at Sterling Sound.
+
+**Best-value modern:** [Verve Acoustic Sounds Series B0033748-01](https://www.discogs.com/release/23904962-Ella-Fitzgerald-And-Louis-Armstrong-Ella-And-Louis) (2022). Mastered by Ryan K. Smith at Sterling Sound, pressed at Quality Record Pressings.
 
 ## Recording history and tape provenance
 

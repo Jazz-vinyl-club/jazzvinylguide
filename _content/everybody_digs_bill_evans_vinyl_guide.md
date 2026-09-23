@@ -6,9 +6,11 @@
 
 Mono suits this record. Philly Joe Jones's bebop drumming and Sam Jones's walking bass sit more naturally centred than spread across a stereo image. That is part of why the title has drawn a modern mono reissue of its own. Two mastering credits need checking before buying, and one of them is contradicted by the pressing's own hype sticker.
 
-- **Best early pressing for audiophiles:** A [Riverside RLP 12-291 or RLP 1129](https://www.discogs.com/sell/release/3416397) first pressing, deep groove, black "twin reels and microphone" label.
-- **Best modern pressing for audiophiles:** The [Analogue Productions AJAZ 1129-45](https://elusivedisc.com/bill-evans-everybody-digs-bill-evans-180g-45rpm-2lp/), cut by Kevin Gray and Steve Hoffman at AcousTech.
-- **Best-value modern:** [Original Jazz Classics OJC-068](https://www.discogs.com/release/1324258) (1983), mastered by George Horn.
+**Best early pressing for audiophiles:** A [Riverside RLP 12-291 or RLP 1129](https://www.discogs.com/sell/release/3416397) first pressing, deep groove, black "twin reels and microphone" label.
+
+**Best modern pressing for audiophiles:** The [Analogue Productions AJAZ 1129-45](https://elusivedisc.com/bill-evans-everybody-digs-bill-evans-180g-45rpm-2lp/), cut by Kevin Gray and Steve Hoffman at AcousTech.
+
+**Best-value modern:** [Original Jazz Classics OJC-068](https://www.discogs.com/release/1324258) (1983), mastered by George Horn.
 
 ## Recording history and tape provenance
 

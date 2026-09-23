@@ -6,9 +6,11 @@
 
 The record moves between unaccompanied solo bass, small-combo funk and orchestral string writing across one LP side. Pressing quality matters more than usual as a result, because a thin or noisy copy buries the bass in the rest of the mix. This catalogue number also came from several plants with audible differences between them.
 
-- **Best early pressing for audiophiles:** [Epic PE 33949, Terre Haute pressing](https://www.discogs.com/release/2781435), the 1976 original on orange Epic labels.
-- **Best modern pressing for audiophiles:** The [Original Recordings Group 45rpm](https://www.discogs.com/release/3557880) (2012), ORG 114, mastered by Bernie Grundman.
-- **Best-value modern:** The [Music On Vinyl 180g](https://www.discogs.com/release/2506261) (2010), easy to find and well reviewed.
+**Best early pressing for audiophiles:** [Epic PE 33949, Terre Haute pressing](https://www.discogs.com/release/2781435), the 1976 original on orange Epic labels.
+
+**Best modern pressing for audiophiles:** The [Original Recordings Group 45rpm](https://www.discogs.com/release/3557880) (2012), ORG 114, mastered by Bernie Grundman.
+
+**Best-value modern:** The [Music On Vinyl 180g](https://www.discogs.com/release/2506261) (2010), easy to find and well reviewed.
 
 ## Recording history and tape provenance
 

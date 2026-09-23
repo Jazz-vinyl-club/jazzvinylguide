@@ -6,9 +6,11 @@
 
 Three modern reissues compete here, all well regarded. The 2009 Analogue Productions 45rpm, the 2014 Music Matters 180g and the 2021 Blue Note Classic Vinyl Edition. Two share a mastering engineer, and a volume-matched comparison found those two hard to tell apart. That bears directly on what the price gap buys.
 
-- **Best early pressing for audiophiles:** [Blue Note BLP 4140](https://www.discogs.com/release/3382197), the 1963 mono original.
-- **Best modern pressing for audiophiles:** Close between the [Analogue Productions 45rpm](https://www.discogs.com/release/4714314) and the [Music Matters 180g](https://www.discogs.com/release/5851213).
-- **Best-value modern:** The [Blue Note Classic Vinyl Edition](https://www.discogs.com/release/17366254-Joe-Henderson-Page-One), all-analog, mastered by Kevin Gray and pressed at Optimal in Germany.
+**Best early pressing for audiophiles:** [Blue Note BLP 4140](https://www.discogs.com/release/3382197), the 1963 mono original.
+
+**Best modern pressing for audiophiles:** Close between the [Analogue Productions 45rpm](https://www.discogs.com/release/4714314) and the [Music Matters 180g](https://www.discogs.com/release/5851213).
+
+**Best-value modern:** The [Blue Note Classic Vinyl Edition](https://www.discogs.com/release/17366254-Joe-Henderson-Page-One), all-analog, mastered by Kevin Gray and pressed at Optimal in Germany.
 
 ## Recording history and tape provenance
 

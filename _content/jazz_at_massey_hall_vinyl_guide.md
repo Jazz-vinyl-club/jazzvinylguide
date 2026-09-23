@@ -6,9 +6,11 @@ Toronto's New Jazz Society staged this concert at Massey Hall on May 15, 1953. T
 
 Mingus recorded the concert himself and issued it on his own Debut label. The bass was picked up too quietly by the hall's system, so he overdubbed his own part afterwards on most tracks. The choice is between the overdubbed version, as it has been heard for seventy years, and the 2023 box set. That set also carries the undubbed tapes.
 
-- **Best early pressing for audiophiles:** An original Debut 10" (DLP-2, DLP-4) or the 1956 12" consolidation, [DEB-124](https://www.discogs.com/release/4165355-The-Quintet-Jazz-At-Massey-Hall).
-- **Best modern pressing for audiophiles:** *Hot House: The Complete Jazz at Massey Hall Recordings* (Craft Recordings, 2023), a 180g 3LP set.
-- **Best-value modern:** Original Jazz Classics OJC-044, the 1983 Fantasy-era reissue mastered by George Horn.
+**Best early pressing for audiophiles:** An original Debut 10" (DLP-2, DLP-4) or the 1956 12" consolidation, [DEB-124](https://www.discogs.com/release/4165355-The-Quintet-Jazz-At-Massey-Hall).
+
+**Best modern pressing for audiophiles:** *Hot House: The Complete Jazz at Massey Hall Recordings* (Craft Recordings, 2023), a 180g 3LP set.
+
+**Best-value modern:** Original Jazz Classics OJC-044, the 1983 Fantasy-era reissue mastered by George Horn.
 
 ## Recording history and tape provenance
 

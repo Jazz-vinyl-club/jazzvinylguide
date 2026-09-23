@@ -6,9 +6,11 @@
 
 Original copies vary in sound more than most records of the period, which changes the usual original-against-reissue calculation. Two modern reissues have strong reputations, a 2010 Friday Music edition and a 2019 Speakers Corner edition. Owners who have compared them describe a trade-off rather than a winner. A quadraphonic mix also exists, though it is hard to find on vinyl.
 
-- **Best early pressing for audiophiles:** An original [Columbia KC 31996](https://www.discogs.com/release/584022), if the copy can be heard or trusted first.
-- **Best modern pressing for audiophiles:** Contested between the Friday Music (2010) and [Speakers Corner](https://www.discogs.com/release/13516565) (2019) editions.
-- **Best-value modern:** Either reissue. Both are more consistent than an unheard original.
+**Best early pressing for audiophiles:** An original [Columbia KC 31996](https://www.discogs.com/release/584022), if the copy can be heard or trusted first.
+
+**Best modern pressing for audiophiles:** Contested between the Friday Music (2010) and [Speakers Corner](https://www.discogs.com/release/13516565) (2019) editions.
+
+**Best-value modern:** Either reissue. Both are more consistent than an unheard original.
 
 ## Recording history and tape provenance
 

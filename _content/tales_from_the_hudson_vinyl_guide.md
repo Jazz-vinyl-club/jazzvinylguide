@@ -6,9 +6,11 @@
 
 There is no vintage pressing to look for. The album came out on CD only, and no vinyl edition existed until 2012, sixteen years later. That 2LP remains the only vinyl version, so the usual original-against-reissue comparison does not apply here. The questions worth asking are about the package and the pressing plant, since there is no tape-generation question and no alternative cut to weigh it against.
 
-- **Best early pressing for audiophiles:** None exists. The album had no vinyl release in 1996.
-- **Best modern pressing for audiophiles:** [Universal's Play 33⅓ Series 2LP](https://www.discogs.com/release/5833512), the only vinyl edition.
-- **Best-value modern:** The same record, or the CD if a clean copy is hard to find.
+**Best early pressing for audiophiles:** None exists. The album had no vinyl release in 1996.
+
+**Best modern pressing for audiophiles:** [Universal's Play 33⅓ Series 2LP](https://www.discogs.com/release/5833512), the only vinyl edition.
+
+**Best-value modern:** The same record, or the CD if a clean copy is hard to find.
 
 ## Recording history and tape provenance
 

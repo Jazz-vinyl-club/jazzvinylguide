@@ -6,9 +6,11 @@
 
 The recording is built around one voice and a large string section, not a small jazz group. Pressings are best judged on how cleanly they separate the strings and choir from Holiday's voice, and on midrange tone. The two original editions also differ in content. The mono LP has twelve tracks and the stereo LP has eleven, because "The End of a Love Affair" was left off the stereo release.
 
-- **Best early pressing for audiophiles:** [Columbia CL 1157 six-eye mono](https://www.discogs.com/release/1375064). The 1958 first pressing, identified by "T.M." in the label rim print.
-- **Best modern pressing for audiophiles:** [Analogue Productions APJ 144-45](https://www.discogs.com/release/25739833). A 2023 45rpm reissue pressed at Quality Record Pressings. Its mastering source is disputed.
-- **Best value:** [CBS 32259 UK reissue](https://www.discogs.com/release/6605926). A 1980s UK mono pressing with all twelve tracks.
+**Best early pressing for audiophiles:** [Columbia CL 1157 six-eye mono](https://www.discogs.com/release/1375064). The 1958 first pressing, identified by "T.M." in the label rim print.
+
+**Best modern pressing for audiophiles:** [Analogue Productions APJ 144-45](https://www.discogs.com/release/25739833). A 2023 45rpm reissue pressed at Quality Record Pressings. Its mastering source is disputed.
+
+**Best value:** [CBS 32259 UK reissue](https://www.discogs.com/release/6605926). A 1980s UK mono pressing with all twelve tracks.
 
 ## Recording history and tape provenance
 

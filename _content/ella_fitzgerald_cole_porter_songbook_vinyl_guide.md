@@ -6,9 +6,11 @@ This album was recorded at Capitol Studios in Hollywood on February 7, 8 and 9, 
 
 The recording is mono, and no contemporaneous stereo mix exists. Multitrack stereo was not standard for Verve sessions this early. A listing describing this title as stereo needs an explanation of where that mix came from. Two modern reissues matter, a 2016 three-LP box and a 2026 two-LP set, and they differ in mastering, plant and layout.
 
-- **Best early pressing for audiophiles:** [Verve MG V-4001-2](https://www.discogs.com/release/6304011), the 1956 mono original.
-- **Best modern pressing for audiophiles:** The Analog Spark AS00007 3LP box (2016), cut by Ryan K. Smith at Sterling Sound from the mono masters.
-- **Best-value modern:** The [Verve Acoustic Sounds Series AVER 40304](https://store.acousticsounds.com/d/197406/) (2026), mastered by Matthew Lutthans.
+**Best early pressing for audiophiles:** [Verve MG V-4001-2](https://www.discogs.com/release/6304011), the 1956 mono original.
+
+**Best modern pressing for audiophiles:** The Analog Spark AS00007 3LP box (2016), cut by Ryan K. Smith at Sterling Sound from the mono masters.
+
+**Best-value modern:** The [Verve Acoustic Sounds Series AVER 40304](https://store.acousticsounds.com/d/197406/) (2026), mastered by Matthew Lutthans.
 
 ## Recording history and tape provenance
 

@@ -6,9 +6,11 @@
 
 Two things complicate buying it. The original master tapes are reported lost in a fire, which affects any modern claim of mastering from them. A "stereo" copy may be the real 1958 stereo pressing or a later electronic reprocessing, and the two sound nothing alike. The mono original is the safe choice, and the reprocessed copies are worth avoiding.
 
-- **Best early pressing for audiophiles:** [Argo LP-628](https://www.discogs.com/release/371461), the 1958 mono original on black labels with a deep groove.
-- **Best modern pressing for audiophiles:** The [Analogue Productions 200g](https://www.discogs.com/release/15175594) (2020), with the mastering-credit caveat set out here.
-- **Best-value modern:** A Chess/Sugar Hill reissue from 1984, catalogue CH-91081.
+**Best early pressing for audiophiles:** [Argo LP-628](https://www.discogs.com/release/371461), the 1958 mono original on black labels with a deep groove.
+
+**Best modern pressing for audiophiles:** The [Analogue Productions 200g](https://www.discogs.com/release/15175594) (2020), with the mastering-credit caveat set out here.
+
+**Best-value modern:** A Chess/Sugar Hill reissue from 1984, catalogue CH-91081.
 
 ## Recording history and tape provenance
 

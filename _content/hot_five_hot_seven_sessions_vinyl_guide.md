@@ -6,9 +6,11 @@ Louis Armstrong's Hot Five and Hot Seven recordings are 89 individual sides, cut
 
 There is no original album to buy. Treating these sides as one album is a later packaging decision by reissue labels. What follows covers the vinyl compilations that exist, since there is no canonical pressing. The two most respected complete reissues were never pressed on vinyl, which leaves a gap for anyone wanting this material complete.
 
-- **Best early pressing for audiophiles:** An original OKeh or Columbia 78rpm single of any individual side. Collecting the full run this way is expensive and slow.
-- **Best modern pressing for audiophiles:** None. No complete vinyl edition of this material exists.
-- **Best-value modern:** A volume of Columbia's *Louis Armstrong Story* series, which divides the sessions across several LPs.
+**Best early pressing for audiophiles:** An original OKeh or Columbia 78rpm single of any individual side. Collecting the full run this way is expensive and slow.
+
+**Best modern pressing for audiophiles:** None. No complete vinyl edition of this material exists.
+
+**Best-value modern:** A volume of Columbia's *Louis Armstrong Story* series, which divides the sessions across several LPs.
 
 ## Recording history and tape provenance
 

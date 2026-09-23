@@ -6,9 +6,11 @@
 
 Two identification problems matter here more than the usual condition questions. Impulse's label text changed over time, so an orange-label copy is not necessarily an early pressing. More seriously, some stereo copies with an early-looking label were remastered at Bell Sound rather than by Rudy Van Gelder. Only the dead wax tells them apart.
 
-- **Best early pressing for audiophiles:** An original [Impulse! A-30](https://www.discogs.com/release/3909676) mono pressing, with the label text and runout checked.
-- **Best modern pressing for audiophiles:** The Verve Acoustic Sounds Series edition (2022), cut by Ryan K. Smith and pressed at Quality Record Pressings.
-- **Best-value modern:** A 1973 ABC/Impulse! stereo reissue.
+**Best early pressing for audiophiles:** An original [Impulse! A-30](https://www.discogs.com/release/3909676) mono pressing, with the label text and runout checked.
+
+**Best modern pressing for audiophiles:** The Verve Acoustic Sounds Series edition (2022), cut by Ryan K. Smith and pressed at Quality Record Pressings.
+
+**Best-value modern:** A 1973 ABC/Impulse! stereo reissue.
 
 ## Recording history and tape provenance
 

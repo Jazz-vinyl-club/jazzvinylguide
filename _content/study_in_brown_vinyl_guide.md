@@ -6,9 +6,11 @@
 
 The choice is between a 1955 original and three later audiophile editions. One of those is a 2012 Mosaic box that includes this album alongside the rest of the quintet's EmArcy work. Its mastering chain and the 2021 reissue's tape source have both been questioned, and both questions have answers.
 
-- **Best early pressing for audiophiles:** [EmArcy MG-36037](https://www.discogs.com/release/1146247), the 1955 mono original on the drummer label with a silver rim.
-- **Best modern pressing for audiophiles:** The Verve Acoustic Sounds Series edition (2021), catalogue B0032412-01.
-- **Best-value modern:** The 2007 Speakers Corner reissue.
+**Best early pressing for audiophiles:** [EmArcy MG-36037](https://www.discogs.com/release/1146247), the 1955 mono original on the drummer label with a silver rim.
+
+**Best modern pressing for audiophiles:** The Verve Acoustic Sounds Series edition (2021), catalogue B0032412-01.
+
+**Best-value modern:** The 2007 Speakers Corner reissue.
 
 ## Recording history and tape provenance
 

@@ -6,9 +6,11 @@
 
 The modern reissues make this title unusual. Three independent comparisons found that the 45rpm edition does not win, which contradicts the normal assumption about groove spacing. The reason is a change in the mastering chain between two cuts by the same engineer rather than anything to do with speed. Price and format are poor guides to sound on this title.
 
-- **Best early pressing for audiophiles:** [Blue Note BLP 4123 mono](https://www.discogs.com/release/1208022) or [BST 84123 stereo](https://www.discogs.com/release/37618128), with the identification details checked.
-- **Best modern pressing for audiophiles:** Contested between the Music Matters 33⅓ and the [Analogue Productions 45rpm](https://www.discogs.com/release/3720390).
-- **Best-value modern:** The Blue Note Classic Vinyl Edition, all-analog, cut by Kevin Gray and pressed at Optimal.
+**Best early pressing for audiophiles:** [Blue Note BLP 4123 mono](https://www.discogs.com/release/1208022) or [BST 84123 stereo](https://www.discogs.com/release/37618128), with the identification details checked.
+
+**Best modern pressing for audiophiles:** Contested between the Music Matters 33⅓ and the [Analogue Productions 45rpm](https://www.discogs.com/release/3720390).
+
+**Best-value modern:** The Blue Note Classic Vinyl Edition, all-analog, cut by Kevin Gray and pressed at Optimal.
 
 ## Recording history and tape provenance
 

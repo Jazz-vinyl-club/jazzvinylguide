@@ -6,9 +6,11 @@
 
 The choice is between a 1976 original and the 2024 Luminessence reissue, both under the same catalogue number. Originals vary by country of manufacture, and the 2024 pressing has a documented defect on some copies. One detailed owner comparison prefers the original. Later ECM repressings of the same number sit in between on price.
 
-- **Best early pressing for audiophiles:** [ECM 1073](https://www.discogs.com/release/7540570), the 1976 German original on green labels.
-- **Best modern pressing for audiophiles:** The [2024 ECM Luminessence reissue](https://www.discogs.com/release/31384796), subject to checking side A for distortion.
-- **Best-value modern:** A later ECM repress under the same catalogue number, which has a long print history.
+**Best early pressing for audiophiles:** [ECM 1073](https://www.discogs.com/release/7540570), the 1976 German original on green labels.
+
+**Best modern pressing for audiophiles:** The [2024 ECM Luminessence reissue](https://www.discogs.com/release/31384796), subject to checking side A for distortion.
+
+**Best-value modern:** A later ECM repress under the same catalogue number, which has a long print history.
 
 ## Recording history and tape provenance
 

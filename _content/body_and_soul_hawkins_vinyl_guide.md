@@ -6,9 +6,11 @@
 
 What collectors call the *Body and Soul* album is a compilation assembled decades later from Hawkins sessions between 1939 and 1956. The first vinyl version was RCA Victor LPV-501, part of the Vintage Series, subtitled *A Jazz Autobiography*. Several later compilations share the title with different track selections, so the program matters more than the name.
 
-- **Best early pressing for audiophiles:** An original Bluebird 78rpm of the 1939 recording, catalogue B-10523. Shellac at 78rpm needs different playback gear.
-- **Best modern pressing for audiophiles:** None confirmed. No dedicated audiophile vinyl edition of any of these compilations was found.
-- **Best-value modern:** Any clearly labelled reissue compilation, once its track list is checked.
+**Best early pressing for audiophiles:** An original Bluebird 78rpm of the 1939 recording, catalogue B-10523. Shellac at 78rpm needs different playback gear.
+
+**Best modern pressing for audiophiles:** None confirmed. No dedicated audiophile vinyl edition of any of these compilations was found.
+
+**Best-value modern:** Any clearly labelled reissue compilation, once its track list is checked.
 
 ## Recording history and tape provenance
 

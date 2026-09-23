@@ -6,9 +6,11 @@ This album was recorded over two sessions, on December 16 and 18, 1954, at Fine 
 
 The practical choice is between a 1955 original and the Verve Acoustic Sounds Series reissue. Claims about other audiophile editions need checking, since at least one widely repeated claim about a 45rpm reissue of this title does not hold up. Budget reissues vary considerably in quality, and coloured vinyl imports carry no mastering credits at all.
 
-- **Best early pressing for audiophiles:** [EmArcy MG-36004](https://www.discogs.com/release/3050687), the 1955 mono original on the blue and silver drummer label.
-- **Best modern pressing for audiophiles:** The [Verve Acoustic Sounds Series edition](https://www.discogs.com/release/16840773), cut by Ryan K. Smith at Sterling Sound and pressed at Quality Record Pressings.
-- **Best-value modern:** A 1983 Mercury/EmArcy Japanese pressing.
+**Best early pressing for audiophiles:** [EmArcy MG-36004](https://www.discogs.com/release/3050687), the 1955 mono original on the blue and silver drummer label.
+
+**Best modern pressing for audiophiles:** The [Verve Acoustic Sounds Series edition](https://www.discogs.com/release/16840773), cut by Ryan K. Smith at Sterling Sound and pressed at Quality Record Pressings.
+
+**Best-value modern:** A 1983 Mercury/EmArcy Japanese pressing.
 
 ## Recording history and tape provenance
 
