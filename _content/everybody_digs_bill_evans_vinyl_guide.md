@@ -2,54 +2,75 @@
 
 ## Summary
 
-*Everybody Digs Bill Evans* was recorded December 15, 1958 at Reeves Sound Studios in New York City, produced by Orrin Keepnews and engineered by Jack Higgins. Evans made the record during a two-year gap between his first Riverside album as a leader, 1957's *New Jazz Conceptions*, and the trio work that would define the rest of his career, joined by drummer Philly Joe Jones and bassist Sam Jones.
+*Everybody Digs Bill Evans* was recorded on December 15, 1958 at Reeves Sound Studios in New York. Orrin Keepnews produced and Jack Higgins engineered. It is Evans's second album as a leader, made 27 months after his debut, with Sam Jones on bass and Philly Joe Jones on drums. Riverside released it in early 1959 as RLP 12-291 in mono and RLP 1129 in stereo.
 
-Mono is generally considered the more cohesive presentation of this particular record, since Philly Joe Jones's bebop-rooted drumming and Sam Jones's straightforward walking bass sit more naturally centered than spread hard across a stereo image. That's part of why this title has drawn two separate modern mono reissues rather than the usual single stereo-focused audiophile treatment.
+Mono suits this record. Philly Joe Jones's bebop drumming and Sam Jones's walking bass sit more naturally centred than spread across a stereo image. That is part of why the title has drawn a modern mono reissue of its own. Two mastering credits need checking before buying, and one of them is contradicted by the pressing's own hype sticker.
 
-**Best early pressing for audiophiles:** [Riverside RLP 12-291 (mono) / RLP 1129 (stereo)](https://www.discogs.com/sell/release/3416397) – 1959 first pressing, deep groove, black "twin reels and microphone" label.
-
-**Best modern pressing for audiophiles:** Analogue Productions AJAZ 1129-45 – see the mastering-credit note below on this pressing and on the 2024 Craft mono reissue before treating either recommendation as fully settled.
-
-**Best-value modern:** [Original Jazz Classics OJC-068](https://www.discogs.com/release/1324258) (1983) – mastered by George Horn, a straightforward, honest Fantasy-era reissue.
+- **Best early pressing for audiophiles:** A [Riverside RLP 12-291 or RLP 1129](https://www.discogs.com/sell/release/3416397) first pressing, deep groove, black "twin reels and microphone" label.
+- **Best modern pressing for audiophiles:** The [Analogue Productions AJAZ 1129-45](https://elusivedisc.com/bill-evans-everybody-digs-bill-evans-180g-45rpm-2lp/), cut by Kevin Gray and Steve Hoffman at AcousTech.
+- **Best-value modern:** [Original Jazz Classics OJC-068](https://www.discogs.com/release/1324258) (1983), mastered by George Horn.
 
 ## Recording history and tape provenance
 
-In between his first two Riverside albums as a leader, Evans spent a stressful nine months as the sole white musician in Miles Davis's sextet – the only pianist Davis trusted enough to build *Kind of Blue* around a few months later – before leaving Davis in November 1958 to visit family in Florida and Louisiana. He returned to New York that December ready to record again, joined by two musicians he'd recently played with on a Cannonball Adderley session: Philly Joe Jones, fresh off his own stint with Davis, and Sam Jones (no relation), a Tampa transplant who'd moved to New York in 1955 and fallen in with Adderley's circle soon after.
+Evans spent most of 1958 in Miles Davis's sextet, leaving that November to visit family in Florida and Louisiana. He returned to New York in December ready to record.
 
-The record includes three unaccompanied solo piano pieces – "Lucky to Be Me," "Peace Piece," and "Epilogue" – the second of which is now regarded as one of the most significant compositions in Evans's output, a modal meditation built on a two-chord vamp that predates and arguably informs the modal language Davis and Evans would develop together on *Kind of Blue* just months later. The album's title turned out to be more prophetic than its makers intended: the cover carries unsolicited tribute quotes from Miles Davis, George Shearing, Ahmad Jamal, and Cannonball Adderley, praising a pianist the jazz-buying public was only then getting a chance to properly hear. Despite the pedigree of the session, it's not the cleanest-sounding tape in Evans's catalog – a documented amount of piano distortion is audible at points on the original recording, present across every pressing rather than specific to any one of them, and not severe enough to seriously undercut the listening experience.
+Both sidemen came from Cannonball Adderley's circle. Philly Joe Jones had just left Davis's band, and Sam Jones, no relation, had moved to New York from Tampa in 1955.
 
-Two mastering credits on this title are worth double-checking before you buy. The Craft Recordings CR00751 (2024 Record Store Day mono reissue) is sold everywhere with promotional copy crediting Kevin Gray for cutting the lacquers from the original master tapes, and Discogs owner reviews of the pressing itself are glowing – dead quiet, well-centered, described by one reviewer as "the definitive modern mono" with rich piano tone and natural bass weight. But Discogs' own release page for this exact pressing carries a contributor note stating that the Kevin Gray credit was printed incorrectly on the hype sticker. Who actually mastered it could not be independently confirmed, so the credit in the tier table below is marked unresolved rather than asserted as fact – this doesn't seem to affect how well-regarded the pressing itself is, just who should get the credit for it.
+The album includes three unaccompanied solo pieces, "Lucky to Be Me," "Peace Piece" and "Epilogue." "Peace Piece" is a modal meditation on a two-chord vamp, recorded months before *Kind of Blue*.
 
-Separately, no standalone Discogs `/release/` page could be found for the Analogue Productions 45rpm pressing (catalog AJAZ 1129-45, part of Analogue Productions' larger Riverside Recordings box collecting all of Evans's Riverside-era albums at 45rpm) – only a box-set-adjacent listing that happens to include its matrix data, and the general Acoustic Sounds retail product page. Matrix runout data for this pressing does independently confirm mastering by Kevin Gray and Steve Hoffman at AcousTech Mastering, which is a more reliable source than promotional copy, so that credit is solid even without a standalone Discogs page to link to.
+The cover carries tribute quotes from Miles Davis, George Shearing, Ahmad Jamal and Cannonball Adderley. Evans asked Keepnews why he had not also got a quote from his mother, per [Wikipedia](https://en.wikipedia.org/wiki/Everybody_Digs_Bill_Evans).
 
-## Sound quality by pressing
+The tape is not the cleanest in Evans's catalogue. Audible piano distortion appears at points on the original recording, present across every pressing rather than specific to one. It is not severe enough to undermine the record.
 
-The true first pressing, Riverside RLP 12-291 (mono) / RLP 1129 (stereo), has deep groove, a black label carrying the "twin reels and microphone" Riverside logo and Bill Grauer Productions Inc. credit. This catalog number was reissued repeatedly through the 1960s under Orpheum Productions after Riverside's founder died, so confirm deep groove and original label details before paying original-pressing prices for what might be a later repress sharing the same catalog number.
+## Two mastering credits worth checking
 
-The Analogue Productions AJAZ 1129-45, part of Analogue Productions' Riverside Recordings box, is matrix-confirmed as mastered by Kevin Gray and Steve Hoffman at AcousTech Mastering. Owner reports on Discogs single this title out specifically – multiple reviewers of the broader box describe this and *Portrait in Jazz* as sounding "more open and dynamic" than some of the trio's later, post-LaFaro albums in the same collection, attributing the character to the earlier, smaller-ensemble recording rather than any mastering shortfall.
+The Craft Recordings 2024 Record Store Day mono reissue is catalogue CR00751. Retailer copy everywhere credits Kevin Gray at Cohearent Audio for lacquers cut from the original master tapes. The [official Record Store Day listing](https://www.recordstoreday.co.uk/record/Everybody%20Digs%20Bill%20Evans) says the same.
 
-The Craft Recordings CR00751 (2024 mono) is a modern all-analog mono cut pressed at RTI on 180-gram vinyl in a Stoughton tip-on jacket, limited to 4,500 copies for Record Store Day 2024. Reviewed enthusiastically as dead quiet, well-centered, and richly detailed – the specific mastering-engineer attribution is the only open question here, not the sound quality itself.
+Its [Discogs release page](https://www.discogs.com/release/30408008), though, carries a contributor note stating that the Kevin Gray credit was printed incorrectly on the hype sticker. Who actually cut it could not be confirmed, so the tier table marks the credit unresolved.
 
-The Original Jazz Classics OJC-068 (1983) is the standard, widely available reissue from Fantasy's Original Jazz Classics series, mastered by George Horn. Reviewers consistently describe it as a solid, low-noise all-analog remaster – not as refined as the modern audiophile pressings above, but a legitimate and affordable way to own the album.
+That dispute has not dented the pressing's reputation. Owner reviews describe it as dead quiet and well centred, with rich piano tone and natural bass weight.
+
+Sources also disagree on the edition size. The UK Record Store Day page gives 7,500 copies globally, while US retailer listings give 4,500.
+
+The Analogue Productions 45rpm has the opposite problem. No standalone Discogs release page could be found for AJAZ 1129-45, which was broken out of the label's Bill Evans Riverside Recordings box. Its matrix runout independently confirms mastering by Kevin Gray and Steve Hoffman at AcousTech, which is stronger evidence than promotional copy.
+
+## Original Riverside pressings (1959)
+
+A first pressing has a deep groove and the black "twin reels and microphone" Riverside label. It carries a Bill Grauer Productions Inc. credit.
+
+The catalogue number was reissued repeatedly through the 1960s under Orpheum Productions after Riverside's founder died. Confirm the deep groove and label details before paying original prices for a later repress sharing the number.
+
+## Modern reissues
+
+The [Analogue Productions AJAZ 1129-45](https://elusivedisc.com/bill-evans-everybody-digs-bill-evans-180g-45rpm-2lp/) is a 180g 45rpm 2LP, all-analog from the original master tapes.
+
+Owner reports single this title out. Reviewers of the wider box describe it and *Portrait in Jazz* as more open and dynamic than the trio's later albums in the same set. They put that down to the earlier, smaller-ensemble recording rather than to mastering. Retailer quotes collected by [Acoustic Sounds](https://store.acousticsounds.com/d/12963/Bill_Evans_Trio-Everybody_Digs_Bill_Evans-45_RPM_Vinyl_Record) run the same way.
+
+The [Craft Recordings CR00751](https://www.discogs.com/release/30408008) is an all-analog mono cut pressed at RTI on 180g in a Stoughton tip-on jacket.
+
+[Original Jazz Classics OJC-068](https://www.discogs.com/release/1324258) (1983) is the standard affordable reissue, mastered by George Horn. Reviewers describe it as a solid, low-noise all-analog remaster, short of the modern audiophile cuts but legitimate.
 
 ## Buyer's guide by budget
 
-**$$:** The [Original Jazz Classics OJC-068](https://www.discogs.com/release/1324258) (1983) – a solid, low-surface-noise all-analog remaster.
+**$$:** The [Original Jazz Classics OJC-068](https://www.discogs.com/release/1324258), a low-noise all-analog remaster.
 
-**$$$:** The [Craft Recordings CR00751](https://www.discogs.com/release/30408008) 2024 mono RSD reissue – dead quiet, well-centered, cohesive mono presentation regardless of who mastered it.
+**$$$:** The [Craft Recordings CR00751](https://www.discogs.com/release/30408008) mono reissue, well reviewed whoever cut it.
 
-**$$$$–$$$$$:** A clean [Riverside RLP 12-291/1129](https://www.discogs.com/sell/release/3416397) original, condition-dependent, or the Analogue Productions AJAZ 1129-45 45rpm reissue from the Riverside Recordings box – owner reports single this out as one of the best-sounding titles in that collection.
+**$$$$:** A clean [Riverside RLP 12-291 or RLP 1129](https://www.discogs.com/sell/release/3416397) original, priced on condition, or the [Analogue Productions 45rpm](https://elusivedisc.com/bill-evans-everybody-digs-bill-evans-180g-45rpm-2lp/).
 
 ## Pressing tier summary
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Analogue Productions AJAZ 1129-45 | AJAZ 1129-45 | – | Stereo, 45rpm, 2×12" | Kevin Gray / Steve Hoffman, AcousTech Mastering | Matrix-confirmed mastering credit; no standalone Discogs release page found | [Acoustic Sounds](https://store.acousticsounds.com/d/12963/Bill_Evans_Trio-Everybody_Digs_Bill_Evans-45_RPM_Vinyl_Record) |
-| **A** | Riverside RLP 12-291 (mono) / RLP 1129 (stereo) | RLP 12-291 / RLP 1129 | 1959 | Mono & Stereo, 33⅓ | Riverside lacquer, Bill Grauer Productions Inc. | First pressing; deep groove, black "twin reels" label | [Discogs](https://www.discogs.com/sell/release/3416397) |
-| **A** | Craft Recordings CR00751 | CR00751 | 2024 | Mono, 33⅓, 180g | RTI pressing; mastering credit disputed (see note above) | RSD 2024, limited to 4,500 copies, Stoughton tip-on | [Discogs](https://www.discogs.com/release/30408008) |
-| **B** | Original Jazz Classics OJC-068 | OJC-068 | 1983 | Stereo, 33⅓ | George Horn | Standard Fantasy-era reissue | [Discogs](https://www.discogs.com/release/1324258) |
+| **S** | Analogue Productions 45rpm | AJAZ 1129-45 | – | Stereo, 45rpm, 2×180g | Kevin Gray and Steve Hoffman, AcousTech, confirmed by the matrix | Broken out of the Riverside Recordings box. No standalone Discogs page found | [Acoustic Sounds](https://store.acousticsounds.com/d/12963/Bill_Evans_Trio-Everybody_Digs_Bill_Evans-45_RPM_Vinyl_Record) |
+| **A** | Riverside original | RLP 12-291 / RLP 1129 | 1959 | Mono and stereo, 33⅓ | Riverside lacquer, Bill Grauer Productions Inc. | First pressing. Deep groove, black "twin reels" label | [Discogs](https://www.discogs.com/sell/release/3416397) |
+| **A** | Craft Recordings, Record Store Day mono | CR00751 | 2024 | Mono, 33⅓, 180g | Credit unresolved. Kevin Gray per retailer copy, disputed by a Discogs note | Pressed at RTI. Stoughton tip-on. Edition size given as 4,500 or 7,500 | [Discogs](https://www.discogs.com/release/30408008) |
+| **B** | Original Jazz Classics | OJC-068 | 1983 | Stereo, 33⅓ | George Horn | Standard Fantasy-era reissue | [Discogs](https://www.discogs.com/release/1324258) |
 
 ## References
 
-- Discogs (master, all versions): search "Bill Evans Everybody Digs Bill Evans" on discogs.com – standalone master page ID not confirmed in this pass, flag for follow-up
-- Ten-Minute Record Reviews, "Bill Evans - Everybody Digs Bill Evans (Episode 434)": [https://www.youtube.com/watch?v=kIVLP5qu9ww](https://www.youtube.com/watch?v=kIVLP5qu9ww)
+- Wikipedia, "Everybody Digs Bill Evans": [https://en.wikipedia.org/wiki/Everybody_Digs_Bill_Evans](https://en.wikipedia.org/wiki/Everybody_Digs_Bill_Evans)
+- Record Store Day UK, "Everybody Digs Bill Evans": [https://www.recordstoreday.co.uk/record/Everybody%20Digs%20Bill%20Evans](https://www.recordstoreday.co.uk/record/Everybody%20Digs%20Bill%20Evans)
+- Elusive Disc, "Bill Evans – Everybody Digs Bill Evans 180g 45rpm 2LP": [https://elusivedisc.com/bill-evans-everybody-digs-bill-evans-180g-45rpm-2lp/](https://elusivedisc.com/bill-evans-everybody-digs-bill-evans-180g-45rpm-2lp/)
+- Acoustic Sounds, "Bill Evans Trio – Everybody Digs Bill Evans – 45 RPM Vinyl Record": [https://store.acousticsounds.com/d/12963/Bill_Evans_Trio-Everybody_Digs_Bill_Evans-45_RPM_Vinyl_Record](https://store.acousticsounds.com/d/12963/Bill_Evans_Trio-Everybody_Digs_Bill_Evans-45_RPM_Vinyl_Record)
+- Ten-Minute Record Reviews, "Bill Evans – Everybody Digs Bill Evans (Episode 434)": [https://www.youtube.com/watch?v=kIVLP5qu9ww](https://www.youtube.com/watch?v=kIVLP5qu9ww)
