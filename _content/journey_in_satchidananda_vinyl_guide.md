@@ -2,9 +2,9 @@
 
 ## Summary
 
-*Journey in Satchidananda* was recorded on November 8, 1970 at the home studio in Dix Hills, New York. One track comes from a live set at the Village Gate on July 4, 1970. Alice Coltrane plays harp and piano, with Pharoah Sanders on soprano saxophone and Rashied Ali on drums. Cecil McBee plays bass on the studio tracks and Charlie Haden on the live one, with Tulsi on tambura, Majid Shabazz on bells and Vishnu Wood on oud. Impulse! released it in early 1971 as AS-9203.
+*Journey in Satchidananda* was recorded on November 8, 1970 at the home studio in Dix Hills, New York. One track comes from a live set at the Village Gate that July. Alice Coltrane plays harp and piano, with Pharoah Sanders on soprano saxophone and Rashied Ali on drums. Impulse! released it in early 1971 as AS-9203.
 
-The buying decision is unusually clear here. A 2023 Acoustic Sounds Series cut from the original analog tapes draws consistently strong owner reports. The 1971 original is expensive in clean condition, and the widely circulated 1997 reissue comes from a digital remaster rather than an analog cut. Anything else is packaging.
+Cecil McBee plays bass on the studio tracks and Charlie Haden on the live one, with Tulsi on tambura, Majid Shabazz on bells and Vishnu Wood on oud. The buying decision is unusually clear here. A 2023 Acoustic Sounds Series cut from the original analog tapes draws consistently strong owner reports. The 1971 original is expensive in clean condition, and the widely circulated 1997 reissue comes from a digital remaster rather than an analog cut. Anything else is packaging.
 
 **Best early pressing for audiophiles:** [Impulse! AS-9203](https://www.discogs.com/release/549847-Alice-Coltrane-Featuring-Pharoah-Sanders-Journey-In-Satchidananda), the 1971 first pressing.
 
