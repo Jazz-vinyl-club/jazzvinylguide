@@ -2,73 +2,82 @@
 
 ## Summary
 
-*Return to Forever* was recorded February 2–3, 1972 at A&R Studios, New York City, and released that year in Europe and Japan as ECM 1022 ST – though not in the United States until 1975. Chick Corea (electric piano) leads the debut lineup of what would become the band Return to Forever: Joe Farrell (flutes, soprano sax, courtesy of CTI Records), Flora Purim (vocals, percussion), Stanley Clarke (electric and double bass), and Airto Moreira (drums, percussion). Manfred Eicher produced; Tony May engineered.
+*Return to Forever* was recorded on February 2 and 3, 1972 at A&R Studios in New York City. Manfred Eicher produced and Tony May engineered, with Chick Corea on electric piano and Joe Farrell on flutes and soprano saxophone. Flora Purim sings, Stanley Clarke plays electric and double bass and Airto Moreira drums. ECM released it in Europe and Japan in 1972 as ECM 1022 ST, and not in the United States until 1975.
 
-This is a title where pressing-specific quirks matter more than usual: the original German pressing has a well-documented static-like noise at the start of both sides that multiple independent owners report across different copies, suggesting it's baked into the metalwork rather than individual wear, while some copies of the 1975 US pressing show audible pre-echo in quiet passages instead. Neither issue is universal – plenty of clean-sounding copies of both circulate – but it's worth knowing about before paying a premium for either.
+Pressing-specific faults matter more here than mastering does, since no audiophile reissue of this title exists. The original German pressing has a documented static-like noise at the start of both sides, reported by owners across separate copies. Some copies of the 1975 US pressing show audible pre-echo in quiet passages instead. Neither fault is universal.
 
-**Best early pressing for audiophiles:** [Original ECM 1022 ST, West Germany](https://www.discogs.com/release/2271038-Chick-Corea-Return-To-Forever) – the first pressing, though check for the noise issue described below.
+**Best early pressing for audiophiles:** The [original ECM 1022 ST](https://www.discogs.com/release/2271038-Chick-Corea-Return-To-Forever) from West Germany, inspected for the noise issue.
 
-**Best modern pressing for audiophiles:** No confirmed audiophile reissue series (Speakers Corner, Analogue Productions, MoFi) has been made of this title as of this writing.
+**Best modern pressing for audiophiles:** None. No Speakers Corner, Analogue Productions or Mobile Fidelity edition of this title has been made.
 
-**Best-value modern:** A clean original German or Japanese pressing remains the practical recommendation.
+**Best-value modern:** A clean original German or Japanese pressing, which is the practical option either way.
 
 ## Recording history and tape provenance
 
-By late 1971, Chick Corea had come through Miles Davis's electric period and the free-improvising collective Circle, and was ready to chart a more structured, melodic direction. He assembled a quintet built around the Brazilian duo of Flora Purim and her husband Airto Moreira, longtime collaborator Joe Farrell, and a young bassist named Stanley Clarke – the only member who would remain constant across every subsequent lineup of the group that took its name from this album's title track. The record leans heavily into Latin and Brazilian rhythmic language: the side-two epic "Sometime Ago–La Fiesta" runs some 23 minutes, built around an extended Corea piano introduction, a fierce Clarke double-bass solo, and a driving groove under Purim's wordless vocals and Farrell's flute.
+By late 1971 Corea had come through Miles Davis's electric period and the free-improvising collective Circle, and wanted a more structured, melodic direction. He built a quintet around the Brazilian duo of Flora Purim and Airto Moreira, his longtime collaborator Joe Farrell, and the young bassist Stanley Clarke.
 
-Manfred Eicher's ECM had a specific, spacious production aesthetic that suited the material – reviewers consistently single out the "vast, intimate, impeccably separated" soundstage, with Corea's Fender Rhodes on "La Fiesta" and Clarke's upright bass captured with unusual texture and presence for a jazz-fusion date. Despite this, ECM held the album back from US release for three years, issuing it only in Europe and Japan in 1972; American listeners didn't get an official pressing until 1975, by which point the Return to Forever name had already become attached to the band's subsequent, more overtly fusion-oriented albums for Polydor. Some critics and fans consider this ECM debut a genuinely different, warmer, more Latin-inflected record than the later Return to Forever albums that made the band famous – closer in spirit to Corea's *Crystal Silence* duo album with Gary Burton (which reprised the title track that same year) than to the jazz-rock of *Where Have I Known You Before* or *Romantic Warrior*.
+Clarke is the only member who stayed through every later lineup of the band, which took its name from this album's title track.
 
-The master tapes remain with ECM/Universal. A 1987 digital remix was used for CD releases; a later SACD remaster on Japan's Polydor imprint (PROZ-1088) has been favorably reviewed, though as a CD-format release it falls outside the scope of this vinyl guide.
+The record leans on Latin and Brazilian rhythmic language. The side-two piece "Sometime Ago–La Fiesta" runs about 23 minutes. It is built around an extended Corea piano introduction, a Clarke double-bass solo and a driving groove under Purim's wordless vocals and Farrell's flute.
 
----
+ECM held the album back from US release for three years. By the time an American pressing appeared in 1975, the Return to Forever name was attached to the band's later, more rock-oriented albums for Polydor.
 
-## Original pressings (1972)
+The master tapes remain with ECM and Universal. A 1987 digital remix was used for CD releases, and a later SACD remaster on Japan's Polydor imprint, PROZ-1088, has been well reviewed. Neither is a vinyl source.
 
-**Cat. ECM 1022 ST**, West Germany – the first pressing, lacquer cut and pressed at Phonodisc GmbH. A well-documented issue affects a meaningful number of copies: a static-like noise at the beginning of both sides, described by multiple independent owners (across separate purchases) as sounding "pressed into the vinyl" rather than surface wear, intensifying with louder or more treble-heavy passages (cymbals) and disappearing during quiet sections. Not every copy exhibits this – several owners report dead-quiet pressings after cleaning – but it's frequent enough to warrant inspecting before buying, or buying from a seller who accepts returns. From 1976, some remaining stock carries an additional small distributor sticker reading "2301 022" reflecting a change in ECM's German distribution.
+## Original German pressing (1972)
 
-### US pressing (1975)
+[ECM 1022 ST](https://www.discogs.com/release/2271038-Chick-Corea-Return-To-Forever) is the first pressing, with lacquers cut and records pressed at Phonodisc GmbH.
 
-**Cat. ECM-1-1022**, manufactured and distributed by Polydor Incorporated, pressed at the Columbia Records Pressing Plant in Pitman, New Jersey (identifiable by "CP" etched in the runouts). Reviews are mixed: some owners describe a "beautiful, spacious pressing with tons of air and separation," while others report noticeable pre-echo in quiet passages – a different issue from the German pressing's static noise, and again not universal. [Discogs](https://www.discogs.com/release/1141070-Chick-Corea-Return-To-Forever)
+A documented fault affects a meaningful number of copies. Owners across separate purchases describe a static-like noise at the start of both sides, pressed into the vinyl rather than worn into it. It intensifies on louder or cymbal-heavy passages and disappears in quiet sections.
 
----
+Not every copy has it, and several owners report dead-quiet records after cleaning. It is frequent enough to warrant inspection, or a seller who accepts returns.
 
-## French pressing
+From 1976, remaining stock carries a small distributor sticker reading "2301 022", reflecting a change in ECM's German distribution.
 
-A French pressing exists, confirmed via Discogs ("Imprimé en France" printed on the sleeve). No dedicated sound-quality comparisons against the German or US originals have surfaced, so treat it as a collectible period pressing from the same general era rather than a confirmed audiophile alternative. [Discogs](https://www.discogs.com/release/7581256-Chick-Corea-Return-To-Forever)
+## US pressing (1975)
 
----
+[ECM-1-1022](https://www.discogs.com/release/1141070-Chick-Corea-Return-To-Forever) was manufactured and distributed by Polydor Incorporated and pressed at the Columbia plant in Pitman, New Jersey. A "CP" etching in the runouts identifies it.
+
+Owner reports divide. Some describe a spacious pressing with air and separation, while others report noticeable pre-echo in quiet passages. That is a different fault from the German pressing's noise, and it is not universal either.
 
 ## Japanese pressings
 
-**Polydor K.K., licensed via Hara Music (1972)**, catalog MP-2273, comes with obi and Japanese liner notes. Reception is more divided than a quick glance at owner reviews might suggest. Some praise it in strong terms: "The sound of this Japanese pressed vinyl is beyond expectation. It is more natural and beautiful than any other country's pressing," and "dead quiet vinyl, outstanding dynamics, every instrument is clear." But a genuine counter-view exists too: [one detailed comparison across six different period copies](https://www.discogs.com/release/2271038-Chick-Corea-Return-To-Forever) (three US pressings, one Canadian, one German, one Japanese) found the Japanese pressing "the most disappointing of them all," describing "a weird on-and-off presence on some instruments, very noticeable on the percussions (especially cymbals) and flute on side B, almost like the master cut out the high-end" – not a condition issue, since the reviewer's copies were all NM or close. A second, separate owner similarly found the sound "meh." Treat the Japanese pressing as a legitimate contender worth trying, not an automatic best-in-class pick. A later 1978 Japanese repress (catalog MPF-1136) also circulates. [Discogs](https://www.discogs.com/release/2499163-Chick-Corea-Return-To-Forever)
+[Polydor K.K. MP-2273](https://www.discogs.com/release/2499163-Chick-Corea-Return-To-Forever) (1972) was licensed via Hara Music and comes with obi and Japanese liner notes.
 
----
+Reception is more divided than a glance at the reviews suggests. Some owners rate it ahead of every other country's pressing for natural tone, dead-quiet surfaces and clarity.
+
+A detailed comparison across six period copies, posted on the [German pressing's Discogs page](https://www.discogs.com/release/2271038-Chick-Corea-Return-To-Forever), reaches the opposite conclusion. That owner compared three US pressings, one Canadian, one German and one Japanese, all near mint, and found the Japanese the most disappointing.
+
+The complaint is specific. That owner describes an on-and-off presence on some instruments, as though the cut had rolled off the high end. It is most noticeable on cymbals, and on flute on side B. A second owner separately rated the sound unremarkable.
+
+A later Japanese repress, catalogue MPF-1136, circulates from 1978.
+
+## French pressing
+
+A [French pressing](https://www.discogs.com/release/7581256-Chick-Corea-Return-To-Forever) exists, identified by "Imprimé en France" on the sleeve. No sound comparison against the German or US pressings has been published, so it is a period pressing rather than a confirmed alternative.
 
 ## Pressings to avoid
 
-No specific bootleg is widely documented. Given the noise/pre-echo issues affecting both the German and US originals in some copies, prioritize sellers with clear photos of the vinyl and a return policy over paying a premium sight-unseen for either pressing.
+No bootleg of this title is widely documented.
 
----
+Noise and pre-echo reports affect both the German and US originals. Clear photos of the vinyl and a return policy are worth more here than a premium copy bought sight unseen.
 
 ## Buyer's guide by budget
 
-**$ (Budget):** A clean [**US 1975 pressing**](https://www.discogs.com/release/1141070-Chick-Corea-Return-To-Forever) – check seller photos/description for the known pre-echo issue before buying.
+**$:** A clean [US 1975 pressing](https://www.discogs.com/release/1141070-Chick-Corea-Return-To-Forever), checked against the pre-echo reports.
 
-**$$ (Affordable):** The [**Japanese Polydor pressing**](https://www.discogs.com/release/2499163-Chick-Corea-Return-To-Forever) with obi – a legitimate contender, though reception is genuinely mixed rather than uniformly best – or a clean [**German original**](https://www.discogs.com/release/2271038-Chick-Corea-Return-To-Forever), checking for the known noise issue first.
-
----
+**$$:** The [Japanese Polydor pressing](https://www.discogs.com/release/2499163-Chick-Corea-Return-To-Forever) with obi, where owner reception splits, or a clean [German original](https://www.discogs.com/release/2271038-Chick-Corea-Return-To-Forever) checked for the noise issue.
 
 ## Pressing tier summary
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | Japanese Polydor pressing | MP-2273 | 1972 | Stereo, 33⅓ | Licensed Japanese pressing via Hara Music | Reception genuinely mixed; some praise, some report thin top-end | [Discogs](https://www.discogs.com/release/2499163-Chick-Corea-Return-To-Forever) |
-| **B** | Original ECM 1022 ST, West Germany | ECM 1022 ST | 1972 | Stereo, 33⅓ | Original 1972 mastering, Phonodisc GmbH | First pressing; some copies have a documented static noise issue | [Discogs](https://www.discogs.com/release/2271038-Chick-Corea-Return-To-Forever) |
-| **B** | US pressing | ECM-1-1022 | 1975 | Stereo, 33⅓ | Polydor Inc., Columbia Pitman plant | Reviews mixed; some copies show pre-echo | [Discogs](https://www.discogs.com/release/1141070-Chick-Corea-Return-To-Forever) |
-| **C** | French pressing | ECM 1022 ST | 1972 | Stereo, 33⅓ | European pressing | No dedicated sound-quality reviews found; period curiosity | [Discogs](https://www.discogs.com/release/7581256-Chick-Corea-Return-To-Forever) |
-| **C** | Later Japanese repress | MPF-1136 | 1978 | Stereo, 33⅓ | Licensed Japanese pressing | Later repress of the MP-2273 metalwork | – |
+| **A** | Polydor K.K. (Japan) | MP-2273 | 1972 | Stereo, 33⅓ | Licensed Japanese pressing via Hara Music | Obi and Japanese notes. Reception split, from best-in-class to rolled-off highs | [Discogs](https://www.discogs.com/release/2499163-Chick-Corea-Return-To-Forever) |
+| **B** | ECM original, West Germany | ECM 1022 ST | 1972 | Stereo, 33⅓ | Original 1972 mastering. Pressed at Phonodisc GmbH | First pressing. Static-like noise at the start of both sides on many copies | [Discogs](https://www.discogs.com/release/2271038-Chick-Corea-Return-To-Forever) |
+| **B** | ECM US pressing | ECM-1-1022 | 1975 | Stereo, 33⅓ | Polydor Inc. Pressed at Columbia, Pitman | "CP" in the runouts. Some copies show pre-echo | [Discogs](https://www.discogs.com/release/1141070-Chick-Corea-Return-To-Forever) |
+| **C** | French pressing | ECM 1022 ST | 1972 | Stereo, 33⅓ | European pressing | No published sound comparison | [Discogs](https://www.discogs.com/release/7581256-Chick-Corea-Return-To-Forever) |
+| **–** | Japanese repress | MPF-1136 | 1978 | Stereo, 33⅓ | Licensed Japanese pressing | Not rated. Later repress | – |
 
 ## References
 
-- Discogs (master): [https://www.discogs.com/master/123528-Chick-Corea-Return-To-Forever](https://www.discogs.com/master/123528-Chick-Corea-Return-To-Forever)
-- Discogs release and community listings for all pressings referenced in the tier table above (original German ECM 1022 ST, US ECM-1-1022, French pressing, Japanese Polydor MP-2273, later Japanese repress MPF-1136)
+- Discogs (master, all versions): [https://www.discogs.com/master/123528-Chick-Corea-Return-To-Forever](https://www.discogs.com/master/123528-Chick-Corea-Return-To-Forever)
