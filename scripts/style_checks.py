@@ -73,13 +73,22 @@ def strip_md(text):
     return text
 
 
+ROMAN_CONTEXT_RE = re.compile(
+    r"\b(Edition|Editions|Vol\.?|Volume|Part|Parts|Take|Disc|Chapter|Book|Act|No\.)\s+(I+)\b")
+
+
+def strip_roman(text):
+    """Roman numerals after words like 'Edition' are not the pronoun 'I'."""
+    return ROMAN_CONTEXT_RE.sub(lambda m: m.group(1) + " <rn>", text)
+
+
 def strip_quoted(text):
     """Remove quoted titles/quotes and italics so song titles like
     "I'm a Fool to Want You" don't trip person/flourish checks."""
     text = re.sub(r"\"[^\"\n]*\"", '""', text)
     text = re.sub(r"\u201c[^\u201d\n]*\u201d", '""', text)
     text = re.sub(r"(?<![*\w])\*(?!\*)[^*\n]+\*(?!\*)", "TITLE", text)
-    return text
+    return strip_roman(text)
 
 
 def sentences(text):
