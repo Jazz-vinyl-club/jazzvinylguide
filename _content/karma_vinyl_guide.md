@@ -2,89 +2,93 @@
 
 ## Summary
 
-*Karma* was recorded across two sessions at RCA Studios in New York City – February 14, 1969 for "The Creator Has a Master Plan" and February 19, 1969 for "Colors" – and released that May as Impulse! AS-9181. Pharoah Sanders (tenor sax) leads a group built around vocalist-percussionist Leon Thomas and pianist Lonnie Liston Smith, with James Spaulding (flute), Julius Watkins (French horn), and Nathaniel Bettis (percussion) on both dates; Reggie Workman and Richard Davis share bass duties with Billy Hart on drums for "Master Plan," while Ron Carter (bass) and Freddie Waits (drums) take over for "Colors." Bob Thiele produced; Bob Simpson engineered at RCA Studios, New York.
+*Karma* was recorded at RCA Studios in New York City across two 1969 sessions, produced by Bob Thiele and engineered by Bob Simpson. "The Creator Has a Master Plan" was cut on February 14 and "Colors" on February 19. Pharoah Sanders plays tenor saxophone, with Leon Thomas on vocals and Lonnie Liston Smith on piano. Impulse! released it that May as AS-9181.
 
-*Karma* is a rare case among Impulse! reissues where the modern audiophile pressing isn't chasing a compromised or half-lost source – the tapes are intact and well cared for, so the collector conversation is really about label-variant dating on the originals versus the genuinely excellent 2022 Acoustic Sounds Series remaster.
+The tapes are intact and well kept, so there is no lost-source problem here. The decision is between label-variant dating on the 1969 originals and the 2022 Acoustic Sounds Series remaster. Two independent comparisons rate that remaster ahead of an original, which is unusual for an Impulse! title of this stature.
 
-**Best early pressing for audiophiles:** [Original Impulse! stereo, AS-9181](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) – laminated gatefold, black/red-rim label; genuinely attainable for most collectors, with top-condition copies commanding real premiums.
+**Best early pressing for audiophiles:** An [original Impulse! stereo pressing](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma), AS-9181, in a laminated gatefold.
 
-**Best modern pressing for audiophiles:** [Verve Acoustic Sounds Series (2022)](https://www.discogs.com/release/25484281-Pharoah-Sanders-Karma) – mastered by Ryan K. Smith at Sterling Sound, pressed at QRP; rated 5/5 for both music and sonics by The Absolute Sound.
+**Best modern pressing for audiophiles:** The [Verve Acoustic Sounds Series edition](https://www.discogs.com/release/25484281-Pharoah-Sanders-Karma) (2022), mastered by Ryan K. Smith at Sterling Sound.
 
-**Best-value modern:** the same Acoustic Sounds Series pressing – widely available new and a legitimate first choice, not just a budget compromise.
+**Best-value modern:** The same Acoustic Sounds pressing, which is a first choice rather than a budget compromise.
 
 ## Recording history and tape provenance
 
-Pharoah Sanders arrived at Impulse! as the wilder, more extreme saxophone voice in John Coltrane's final working groups, a role that earned him a reputation before he'd properly established his own. *Karma* followed *Tauhid* (1967) as one of his early Impulse! albums as a leader, preceding a prolific run of spiritually-themed records the label released through the early 1970s. It became, by a wide margin, the best known and most widely sampled record of that run.
+Sanders came to Impulse! as the wilder saxophone voice in John Coltrane's final working groups. That role built him a reputation before he had established his own. *Karma* followed *Tauhid* from 1967 and preceded a run of spiritually themed records the label released into the early 1970s.
 
-The album is essentially one long piece and one short one. "The Creator Has a Master Plan," co-written with vocalist Leon Thomas, runs past thirty minutes and echoes the structure of Coltrane's *A Love Supreme* – a suspended, out-of-tempo opening giving way to a bass vamp (Reggie Workman's line, widely compared to Jimmy Garrison's on "Acknowledgement") before building through Thomas's chant-and-yodel vocal, extended group improvisation featuring Sanders's overblowing and multiphonics, and a return to the opening theme. "Colors," recorded five days later with a different rhythm section, closes the album on a gentler, more contained note. Despite its length and avant-garde reputation, "Master Plan" achieved real FM radio airplay in 1969, and its influence runs through acid jazz, hip-hop sampling, and the more recent spiritual jazz revival. Charles Stewart, who shot roughly 2,000 album covers over his career including many for Impulse!, took the cover photograph.
+The album is one long piece and one short one. "The Creator Has a Master Plan," co-written with Leon Thomas, runs past thirty minutes and echoes the structure of *A Love Supreme*.
 
-Critically, *Karma* has only grown in stature: Pitchfork ranked it 53rd on its list of the greatest albums of the 1960s, Jazzwise included it among its "100 Jazz Albums That Shook the World," and The New Yorker named it one of the 100 essential jazz albums. The master tapes remain in good condition and in Universal's possession via the Verve Label Group, which now administers the Impulse! catalog – there is no tape-loss story complicating this one, and the 2022 Acoustic Sounds Series reissue was cut directly from them.
+It opens suspended and out of tempo, then gives way to a bass vamp from Reggie Workman that listeners compare to Jimmy Garrison's on "Acknowledgement." From there it builds through Thomas's chant-and-yodel vocal and extended group improvisation with Sanders overblowing, before returning to the opening theme.
 
----
+"Colors," recorded five days later with a different rhythm section, closes the album on a gentler note.
 
-## Stereo note
+The personnel differs between the two dates. James Spaulding on flute, Julius Watkins on French horn and Nathaniel Bettis on percussion play both. Workman and Richard Davis share bass with Billy Hart on drums for "Master Plan," while Ron Carter and Freddie Waits take over for "Colors."
 
-*Karma* was recorded and released in stereo only; by 1969 Impulse! had left mono production behind for new titles, so there's no mono/stereo decision to make here as there is with some earlier Impulse! or Riverside titles.
+Charles Stewart took the cover photograph. He shot roughly 2,000 album covers over his career, many of them for Impulse!.
 
----
+The master tapes remain in good condition with Universal, through the Verve Label Group that now administers the Impulse! catalogue. The 2022 reissue was cut from them.
+
+## Stereo only
+
+*Karma* was recorded and released in stereo alone. Impulse! had left mono production behind for new titles by 1969, so there is no mono-against-stereo decision here.
 
 ## Original Impulse! pressings (1969)
 
-Collectors distinguish original stereo copies by label design rather than by mono/stereo split:
+Collectors date [original stereo copies](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) by label design. The earliest first pressing has a single ABC/Impulse box logo with no registration mark beside it.
 
-- **Earliest first pressing:** single ABC/Impulse "box" logo, no ® registration mark next to it.
-- **Slightly later original pressing (still 1969):** two-box ABC/Impulse logo with the ® mark appearing twice, black label with red rim – the variant most commonly found and described online. Both carry a laminated gatefold jacket; later 1970s repressings dropped the lamination.
+A slightly later 1969 pressing has the two-box ABC/Impulse logo with the registration mark appearing twice, on a black label with a red rim. That is the variant most often found and described.
 
-Catalog number appears as A-9181 on the jacket and AS-9181 on the labels. A contemporaneous **Capitol Record Club edition** exists on the same black/red-rim label, identifiable by "SMAS" matrix numbers and pressed at the Jacksonville plant – a legitimate period pressing, but a club edition rather than a standard retail copy, and generally valued lower by collectors.
+Both come in a laminated gatefold jacket. Later 1970s repressings dropped the lamination.
 
----
+The catalogue number appears as A-9181 on the jacket and AS-9181 on the labels.
+
+A [Capitol Record Club edition](https://www.discogs.com/release/2954469-Pharoah-Sanders-Karma) exists on the same black and red-rim label, identified by "SMAS" matrix numbers and pressed at the Jacksonville plant. It is a period pressing rather than a standard retail copy, and collectors value it accordingly.
+
+## Verve Acoustic Sounds Series (2022)
+
+The [Acoustic Sounds edition](https://www.discogs.com/release/25484281-Pharoah-Sanders-Karma), catalogue B0035572-01, was remastered by Ryan K. Smith at Sterling Sound from the original analog tapes. It was pressed at Quality Record Pressings in a Stoughton tip-on gatefold. It arrived shortly after Sanders's death in September 2022.
+
+The Absolute Sound rated it 5 out of 5 for both music and sonics in its March 2023 issue.
+
+The package carries one labelling error. The centre labels and gatefold list side B as "Colors" alone. The side actually opens with the unlisted second part of "The Creator Has a Master Plan," and "Colors" itself runs only 5:43.
+
+Two independent comparisons against originals both favoured the reissue. [WCB Jazz Vinyl](https://www.youtube.com/watch?v=w0evcuODGgw) compared it with a standard original, and [Concert Buddie](https://www.youtube.com/watch?v=vnQtRFIdH8g) with a 1969 Capitol Record Club copy.
+
+Both cite more low-end detail, including audible bass vibrato they had not noticed before, a more forward Sanders solo and better instrument separation. Both also found that a distracting echo on Leon Thomas's vocal entrance, present on the originals, is substantially reduced.
+
+Not every point favoured the reissue. [Concert Buddie](https://www.youtube.com/watch?v=vnQtRFIdH8g) found the auxiliary hand percussion, chimes and bells, more evident on the vintage Capitol Club copy. That copy of the reissue also had a mild non-flat wobble near the spindle, audible but not a serious playback problem.
 
 ## International pressings
 
-**France (Barclay/Impulse!, early 1970s):** green/blue labels, "Made in France," some copies with a "Gravure Universelle" gold sticker. **Japan (1973 gatefold reissue, IMP-88062):** a promo-style Japanese gatefold pressing from the black/neon-logo Impulse! era. Neither has developed a dedicated audiophile reputation comparable to the US original or the Acoustic Sounds reissue, but both are legitimate, collectible period pressings for those building out a fuller Sanders collection.
+A [French pressing](https://www.discogs.com/release/3378018-Pharoah-Sanders-Karma) from Barclay and Impulse! in the early 1970s has green and blue labels and "Made in France." Some copies carry a "Gravure Universelle" gold sticker.
 
----
-
-## The reissue hierarchy
-
-### Verve Acoustic Sounds Series (2022) – the definitive modern pressing
-
-**Cat. B0035572-01** | Format: Stereo, 180g, gatefold, 2022 | **Remastered by Ryan K. Smith at Sterling Sound from the original analog tape recordings, pressed at Quality Record Pressings, Stoughton tip-on gatefold jacket.** Released as a tribute reissue shortly after Sanders's death in September 2022, closing out that year's Acoustic Sounds Series calendar. Rated 5/5 for music and 5/5 for sonics by The Absolute Sound in its March 2023 issue – an unusually clean sweep. One packaging quirk worth knowing: the center labels and gatefold list side B as just "Colors," but the side actually opens with the unlisted second part of "The Creator Has a Master Plan" before "Colors" itself, which runs only 5:43.
-
-Two independent direct A/Bs against original pressings ([WCB Jazz Vinyl](https://www.youtube.com/watch?v=w0evcuODGgw) against a standard original; [Concert Buddie](https://www.youtube.com/watch?v=vnQtRFIdH8g) against a 1969 Capitol Record Club copy) both preferred the reissue overall, citing more low-end detail (audible bass vibrato not previously noticed), a more forward and dynamic Sanders solo, and better instrument separation generally. One specific improvement worth flagging: on the original pressing, Leon Thomas's vocal entrance carries a distracting echo/distance that isn't part of the intended sound – both reviewers who checked found this substantially reduced on the reissue. Not every comparison point favored the reissue outright, though: one reviewer found the auxiliary hand percussion (chimes, bells) more prominent and evident on their vintage Capitol Club copy than on the reissue. One reviewer also noted their reissue copy had a mild "wobble" or non-flat pressing near the center spindle – audible but not described as a serious playback problem, and possibly an isolated QC variance rather than a systemic issue.
-
----
+A Japanese gatefold reissue from 1973, catalogue IMP-88062, comes from the black and neon-logo Impulse! era. Neither has a published sound comparison against the US original or the Acoustic Sounds cut.
 
 ## Pressings to avoid
 
-An unofficial, unlicensed pressing (catalog ACL0087) circulates outside the main Discogs master listing – a straightforward bootleg rather than a legitimate reissue from any era, and worth steering clear of regardless of price.
-
----
+An unlicensed pressing, catalogue ACL0087, circulates outside the main Discogs master listing. It is a bootleg rather than a reissue from any era.
 
 ## Buyer's guide by budget
 
-**$ (Budget):** [Verve Acoustic Sounds Series (2022)](https://www.discogs.com/release/25484281-Pharoah-Sanders-Karma) – genuinely the easiest recommendation in this guide; new, tape-sourced, and critically acclaimed.
+**$:** The [Verve Acoustic Sounds Series edition](https://www.discogs.com/release/25484281-Pharoah-Sanders-Karma), new, tape-sourced and the easiest recommendation here.
 
-**$$$ (Mid-range):** A clean [original Impulse! stereo pressing](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) – genuinely realistic to find a decent original at this tier, unlike many equally sought-after titles from the same era.
+**$$$:** A clean [original Impulse! stereo pressing](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma), realistic to find at this level unlike many titles of comparable stature.
 
-**$$$$$ (Grail / Rare):** A near-mint, laminated-gatefold original first pressing (single-box logo, no ®) for collectors chasing the earliest possible copy.
-
----
+**$$$$$:** A near-mint laminated-gatefold first pressing with the single-box logo and no registration mark.
 
 ## Pressing tier summary
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Verve Acoustic Sounds Series | B0035572-01 | 2022 | Stereo, 180g | Ryan K. Smith, Sterling Sound, QRP | TAS 5/5 music, 5/5 sonics (Mar 2023); under $40 new | [Discogs](https://www.discogs.com/release/25484281-Pharoah-Sanders-Karma) |
-| **A** | Original Impulse! stereo, first pressing | AS-9181 | 1969 | Stereo | Original 1969 mastering | Single-box logo, no ®; laminated gatefold | [Discogs](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) |
-| **A** | Original Impulse! stereo, black/red-rim | AS-9181 | 1969 | Stereo | Original 1969 mastering | Two-box logo, 2x ®; most commonly found original | [Discogs](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) |
-| **B** | Capitol Record Club edition | AS-9181 | 1969 | Stereo | Original mastering, Jacksonville plant | Club edition on the same label design; SMAS matrix; valued below standard retail copies | [Discogs](https://www.discogs.com/release/2954469-Pharoah-Sanders-Karma) |
-| **C** | French pressing (Barclay/Impulse!) | A-9181 | early 1970s | Stereo | French pressing | Green/blue labels; a collectible period curiosity; no established audiophile premium | [Discogs](https://www.discogs.com/release/3378018-Pharoah-Sanders-Karma) |
-| **C** | Japanese gatefold reissue | IMP-88062 | 1973 | Stereo | Japanese pressing, black/neon Impulse! era | No dedicated audiophile reputation established | – |
+| **S** | Verve Acoustic Sounds Series | B0035572-01 | 2022 | Stereo, 33⅓, 180g | Ryan K. Smith, Sterling Sound, from the original tapes. Pressed at QRP | TAS 5/5 music and sonics. Side B mislabelled, opening with part two of "Master Plan" | [Discogs](https://www.discogs.com/release/25484281-Pharoah-Sanders-Karma) |
+| **A** | Impulse! original, first pressing | AS-9181 | 1969 | Stereo, 33⅓ | Original 1969 mastering | Single-box logo, no registration mark. Laminated gatefold | [Discogs](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) |
+| **A** | Impulse! original, black and red rim | AS-9181 | 1969 | Stereo, 33⅓ | Original 1969 mastering | Two-box logo with the mark twice. The commonly found original | [Discogs](https://www.discogs.com/release/873261-Pharoah-Sanders-Karma) |
+| **B** | Capitol Record Club edition | AS-9181 | 1969 | Stereo, 33⅓ | Original mastering. Pressed at Jacksonville | Club edition on the same label design. "SMAS" matrix. Valued under retail copies | [Discogs](https://www.discogs.com/release/2954469-Pharoah-Sanders-Karma) |
+| **–** | Barclay/Impulse! (France) | A-9181 | Early 1970s | Stereo, 33⅓ | French pressing | Not rated. Green and blue labels. No published comparison | [Discogs](https://www.discogs.com/release/3378018-Pharoah-Sanders-Karma) |
+| **–** | Impulse! (Japan) | IMP-88062 | 1973 | Stereo, 33⅓ | Japanese pressing | Not rated. Black and neon-logo era. No published comparison | – |
 
 ## References
 
-- Discogs (master): [https://www.discogs.com/master/54110-Pharoah-Sanders-Karma](https://www.discogs.com/master/54110-Pharoah-Sanders-Karma)
-- Discogs release and community listings for all pressings referenced in the tier table above (original AS-9181 first pressing and black/red-rim variant, Capitol Record Club edition, Acoustic Sounds Series B0035572-01, French Barclay/Impulse!, Japanese IMP-88062)
-- YouTube, WCB Jazz Vinyl, "Pharoah Sanders' Karma - Original vs Acoustic Sounds shoot-out": [https://www.youtube.com/watch?v=w0evcuODGgw](https://www.youtube.com/watch?v=w0evcuODGgw)
-- YouTube, Concert Buddie, "Vinyl Record Shootout: Karma by Pharoah Sanders": [https://www.youtube.com/watch?v=vnQtRFIdH8g](https://www.youtube.com/watch?v=vnQtRFIdH8g)
+- Discogs (master, all versions): [https://www.discogs.com/master/54110-Pharoah-Sanders-Karma](https://www.discogs.com/master/54110-Pharoah-Sanders-Karma)
+- WCB Jazz Vinyl, "Pharoah Sanders' Karma - Original vs Acoustic Sounds shoot-out": [https://www.youtube.com/watch?v=w0evcuODGgw](https://www.youtube.com/watch?v=w0evcuODGgw)
+- Concert Buddie, "Vinyl Record Shootout: Karma by Pharoah Sanders": [https://www.youtube.com/watch?v=vnQtRFIdH8g](https://www.youtube.com/watch?v=vnQtRFIdH8g)

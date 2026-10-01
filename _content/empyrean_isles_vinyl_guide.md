@@ -2,89 +2,108 @@
 
 ## Summary
 
-*Empyrean Isles* was recorded June 17, 1964 at Van Gelder Studio, Englewood Cliffs, New Jersey, and released that November as Blue Note BLP 4175 (mono) / BST 84175 (stereo) – Herbie Hancock's fourth album as a leader. Hancock (piano) is joined by Freddie Hubbard on cornet rather than his usual trumpet, with Ron Carter (bass) and Tony Williams (drums) – Hancock's rhythm-section partners from the Miles Davis Quintet, playing together here for the first time on Hancock's own compositions without Davis or Wayne Shorter present. Alfred Lion produced; Rudy Van Gelder engineered.
+*Empyrean Isles* was recorded on June 17, 1964 at Van Gelder Studio in Englewood Cliffs, New Jersey. Alfred Lion produced and Rudy Van Gelder engineered. Herbie Hancock plays piano, with Freddie Hubbard on cornet rather than his usual trumpet, Ron Carter on bass and Tony Williams on drums. Blue Note released it that November as BLP 4175 in mono and BST 84175 in stereo.
 
-All four tracks are Hancock originals, loosely conceived around myths of the titular isles, ranging from the hard-bop opener "One Finger Snap" through the modal "Oliloqui Valley," the now-standard "Cantaloupe Island" (later sampled by Us3 for their 1993 hit "Cantaloop"), and the extended, avant-garde-leaning closer "The Egg." With no second horn to fill out the bottom of the ensemble sound, Hancock deliberately wrote terse, minimal head arrangements rather than risk a thin texture – a constraint that pushed the record toward the open, exploratory character that's made it one of the most enduringly praised of Hancock's Blue Note albums.
+Two things distinguish the pressings here. The mono and stereo originals carry different label eras despite a shared release date, because Blue Note's sale to Liberty happened mid-stream. And a 1991 Jazz Heritage reissue is the only vinyl source for the alternate takes, which are usually assumed to be CD-only.
 
-**Best early pressing for audiophiles:** [Original Blue Note BST 84175 stereo, Liberty label](https://www.discogs.com/release/6798808-Herbie-Hancock-Empyrean-Isles) – Van Gelder stamp required.
+**Best early pressing for audiophiles:** An [original BST 84175 stereo pressing](https://www.discogs.com/release/6798808-Herbie-Hancock-Empyrean-Isles) on Liberty labels, with the Van Gelder stamp.
 
-**Best modern pressing for audiophiles:** [Music Matters 33⅓ (MMBST-84175)](https://www.discogs.com/release/6771572-Herbie-Hancock-Empyrean-Isles) – Kevin Gray at Cohearent Audio, RTI, limited to 3,500 copies.
+**Best modern pressing for audiophiles:** The [Music Matters 33⅓ edition](https://www.discogs.com/release/6771572-Herbie-Hancock-Empyrean-Isles), mastered by Kevin Gray at Cohearent Audio, limited to 3,500 copies.
 
-**Best-value modern:** Blue Note Classic Vinyl – Kevin Gray mastering, widely praised by owners as among the best-sounding entries in the whole Classic Vinyl series.
+**Best-value modern:** The [Blue Note Classic Vinyl edition](https://www.discogs.com/release/26441327-Herbie-Hancock-Empyrean-Isles) (2023), also a Kevin Gray cut.
 
 ## Recording history and tape provenance
 
-By mid-1964, Hancock had spent just over a year as pianist in Miles Davis's group alongside Ron Carter and Tony Williams, developing a rhythmic and harmonic language together that was already reshaping how the rhythm section functioned in Davis's own recordings. *Empyrean Isles* marks the first time that same trio recorded Hancock's own material without Davis or a saxophonist present, and the absence of a second horn forced a genuine compositional problem: how to avoid a thin, top-heavy sound with only cornet and piano carrying the melodic weight. Hancock's solution – writing heads that function more like compressed improvisations than fully worked-out ensemble melodies – gave the quartet unusual interpretive freedom, particularly on "The Egg," built from a repeating ostinato that opens onto extended solo space, including a bowed bass solo from Carter.
+By mid-1964 Hancock had spent just over a year as pianist in Miles Davis's group alongside Carter and Williams. The three had developed a rhythmic and harmonic language together that was already reshaping how the rhythm section functioned in Davis's recordings.
 
-Freddie Hubbard, playing cornet rather than his usual trumpet for a warmer, more burnished tone, had already demonstrated an affinity with Hancock on the pianist's 1962 debut *Takin' Off* and his own *Hub Tones*. DownBeat gave the album four stars on release; the Penguin Guide to Jazz selected it for its Core Collection, and it's since been widely regarded – alongside its 1965 follow-up *Maiden Voyage* – as the peak of Hancock's acoustic 1960s output. Later CD reissues added alternate takes of "One Finger Snap" and "Oliloqui Valley"; several critics, including Bob Belden in his liner notes for *The Complete Blue Note Sixties Sessions*, have argued the alternate "One Finger Snap" solo is actually superior to the issued master.
+This was the first time that trio recorded Hancock's own material without Davis or a saxophonist present. The absence of a second horn created a real compositional problem, since only cornet and piano carried the melodic weight.
 
----
+Hancock's solution was to write heads that work more like compressed improvisations than fully worked-out ensemble melodies. That gave the quartet unusual interpretive freedom.
+
+All four tracks are Hancock originals, loosely conceived around myths of the titular isles. They run from the hard-bop opener "One Finger Snap" through the modal "Oliloqui Valley" and "Cantaloupe Island" to the closing "The Egg."
+
+"The Egg" is built from a repeating ostinato that opens onto extended solo space, including a bowed bass solo from Carter. "Cantaloupe Island" later became a standard, sampled by Us3 for their 1993 hit "Cantaloop."
+
+Hubbard played cornet rather than trumpet for a warmer, more burnished tone. He had already shown an affinity with Hancock on the pianist's 1962 debut *Takin' Off* and on his own *Hub Tones*.
+
+## The alternate takes
+
+Later CD reissues added alternate takes of "One Finger Snap" and "Oliloqui Valley." Bob Belden, in his notes for *The Complete Blue Note Sixties Sessions*, argues the alternate "One Finger Snap" solo is better than the issued master. Other critics agree.
+
+Those takes are usually assumed to have first appeared on the 1999 Rudy Van Gelder Edition CD. They were already on vinyl eight years earlier, on a [1991 Jazz Heritage LP](https://www.discogs.com/release/4831551), catalogue 912944X.
+
+That pressing is not an audiophile cut and is rarely discussed. It is the only vinyl source for the alternate takes.
 
 ## Original Blue Note pressings (1964)
 
-**Mono: BLP 4175** on blue-and-white "New York, USA" labels / **Stereo: BST 84175** on "A Division of Liberty Records, Inc." labels – the two formats' original pressings carry different label eras despite sharing a release date, reflecting Blue Note's transition to Liberty ownership happening mid-stream. Genuine collector debate exists over which specific mono variant constitutes the true first pressing: per Fred Cohen's Blue Note collector's guide, a non-deep-groove copy is now considered the actual first pressing rather than the deep-groove copies some collectors previously assumed were earliest. Check the deadwax for the Van Gelder stamp on both sides – some stereo copies show it on side 2 only, a documented but lesser variant.
+The mono and stereo originals sit in different label eras despite sharing a release date. Blue Note's transition to Liberty ownership happened while this title was being manufactured.
 
----
+[BLP 4175](https://www.discogs.com/release/1102285-Herbie-Hancock-Empyrean-Isles) in mono carries blue and white "New York, USA" labels. [BST 84175](https://www.discogs.com/release/6798808-Herbie-Hancock-Empyrean-Isles) in stereo carries "A Division of Liberty Records, Inc." labels.
 
-## The reissue hierarchy
+Which mono variant is the true first pressing is disputed. Fred Cohen's Blue Note collector's guide holds that a non-deep-groove copy is the first pressing, against the assumption that deep-groove copies came earliest.
 
-### Music Matters 33⅓ – the audiophile benchmark
+The Van Gelder stamp is worth checking on both sides. Some stereo copies show it on side 2 only, a documented but lesser variant.
 
-**Cat. MMBST-84175** | Format: 180g LP, 33⅓, gatefold with session photos, limited to 3,500 copies. **Remastered by Kevin Gray at Cohearent Audio, from the original Rudy Van Gelder master tapes. Pressed at RTI.** Reviews are enthusiastic and consistent: "clarity, air, ambience, punch, beautiful drum + cymbals, dead quiet vinyl." Out of print. [Discogs](https://www.discogs.com/release/6771572-Herbie-Hancock-Empyrean-Isles)
+## Music Matters 33⅓
 
-### Blue Note Classic Vinyl – the recommended entry point
+The [Music Matters edition](https://www.discogs.com/release/6771572-Herbie-Hancock-Empyrean-Isles), catalogue MMBST-84175, is a 180g LP in a gatefold with session photos, limited to 3,500 copies. Kevin Gray remastered it at Cohearent Audio from the original Van Gelder master tapes, pressed at RTI.
 
-**Cat. 4859562** | Format: 180g LP, stereo, 2023. **Mastered by Kevin Gray at Cohearent Audio, from the original master tapes, pressed at Optimal.** One especially detailed owner review calls it flatly one of the best-sounding entries in the whole Classic Vinyl series: "there is no way any other version is as free of background noise, making me able to hear Ron Carter's jaw dropping bass solo on 'Oliloqui Valley' like never before." [At least one reviewer](https://www.youtube.com/watch?v=Z4H_1T3PGnI) has reported an individual copy shipping with minor cosmetic surface scuffs – an isolated report, not evidence of a systemic issue like the 75th Anniversary series below, but worth knowing if you're buying without a return option. [Discogs](https://www.discogs.com/release/26441327-Herbie-Hancock-Empyrean-Isles)
+Owner reviews are consistent, citing clarity, air, ambience, drum and cymbal detail, and dead-quiet vinyl. It is out of print.
 
-### Jazz Heritage LP (1991) – the vinyl alternate-takes reissue
+## Blue Note Classic Vinyl (2023)
 
-**Cat. 912944X** | Format: LP, stereo, expanded reissue. A specialty reissue that's easy to overlook, since it's usually not what people mean by "reissue" for this title, but it fills a real gap: [confirmed via Discogs](https://www.discogs.com/release/4831551) and cross-referenced discography sources, this pressing includes the alternate takes of "One Finger Snap" and "Oliloqui Valley" – material commonly assumed to have first appeared on the 1999 Blue Note Rudy Van Gelder Edition CD, but which was actually already available on vinyl eight years earlier via this Jazz Heritage release. Not a high-fidelity audiophile pick and not widely discussed, but the only vinyl source for the alternate takes if you want them on wax rather than CD. **Pricing not well-established; check current listings.**
+The [Classic Vinyl edition](https://www.discogs.com/release/26441327-Herbie-Hancock-Empyrean-Isles), catalogue 4859562, was mastered by Kevin Gray at Cohearent Audio from the original tapes and pressed at Optimal.
 
-### Mid-1960s to mid-1970s US reissue, dark blue label – an underrated tier
+One detailed review on its [Discogs page](https://www.discogs.com/release/26441327-Herbie-Hancock-Empyrean-Isles) calls it among the best-sounding entries in the whole Classic Vinyl series. That owner singles out how free of background noise it is, which made Carter's bass solo on "Oliloqui Valley" audible as never before.
 
-A dark blue Liberty/UA-era label reissue retains the Van Gelder stamp on both sides, since it shares metalwork with the original pressing – [confirmed by a dealer inventory video](https://www.youtube.com/watch?v=yikSYWWQ-EY) showing an NM example of this exact variant. As with similarly-treated late represses of other titles in this catalogue, a genuine RVG stamp on a later reissue is a legitimate way to get close to original-pressing sound without first-press pricing. No single confirmed catalogue number; look for the dark blue label design and confirm the RVG stamp in the deadwax yourself.
+[One reviewer](https://www.youtube.com/watch?v=Z4H_1T3PGnI) reports a copy arriving with minor cosmetic surface scuffs. That is an isolated report rather than evidence of a systemic problem.
 
-### Blue Note 75th Anniversary (2015) – mixed pressing quality
+## Later US pressings
 
-**Cat. B0022238-01** | Format: 180g LP, stereo. **Lacquers cut by Bernie Grundman and Chris Bellman** (with at least one variant showing side B cut at Masterdisk instead). This title falls within Blue Note's broadly criticized 75th Anniversary series, and reception is genuinely split at the pressing level – some owners report clean, quiet copies with no issues, while a substantial number report warping, non-fill, and off-center spindle holes, particularly on copies pressed at United Record Pressing (URP), a plant widely blamed across the whole 75th Anniversary line for inconsistent QC. Worth buying only from a seller with an easy return policy.
+A dark blue Liberty and United Artists-era reissue retains the Van Gelder stamp on both sides, since it shares metalwork with the original pressing. [A dealer inventory video](https://www.youtube.com/watch?v=yikSYWWQ-EY) shows a near-mint example of this variant.
 
----
+An RVG stamp on a later reissue is a legitimate route to original-pressing sound without first-press pricing. No single catalogue number is confirmed, so identification means the dark blue label design plus checking the dead wax.
+
+## Blue Note 75th Anniversary (2015)
+
+The [75th Anniversary edition](https://www.discogs.com/release/6595630-Herbie-Hancock-Empyrean-Isles), catalogue B0022238-01, has lacquers cut by Bernie Grundman and Chris Bellman. At least one variant shows side B cut at Masterdisk instead.
+
+Reception splits at the pressing level rather than the mastering. Some owners report clean, quiet copies. A substantial number report warping, non-fill and off-centre spindle holes. Those cluster on copies pressed at United Record Pressing, a plant blamed across the whole 75th Anniversary line for inconsistent quality control.
+
+A seller with an easy return policy matters for this one.
 
 ## Pressings to avoid
 
-**Unofficial clear-vinyl pressing:** A clear-vinyl edition limited to 500 copies circulates that multiple Discogs reviewers have identified as an unofficial, unlicensed release rather than a legitimate Blue Note product – one buyer noted being surprised to learn this after purchase. Sound quality reports are mixed to acceptable, but treat it as a budget curiosity rather than a genuine collector target, and verify what you're buying before paying above nominal prices for it.
+A clear-vinyl edition limited to 500 copies circulates. Reviewers on its [Discogs page](https://www.discogs.com/master/47777-Herbie-Hancock-Empyrean-Isles) identify it as unofficial and unlicensed rather than a Blue Note product. One buyer notes learning this only after purchase.
 
----
+Sound reports on it range from mixed to acceptable. It is a budget curiosity rather than a collector target.
 
 ## Buyer's guide by budget
 
-**$ (Budget):** The **Blue Note 75th Anniversary (2015)** if you find a confirmed clean copy, or prefer buying from a seller with an easy return policy given documented QC variance.
+**$:** The [Blue Note Classic Vinyl edition](https://www.discogs.com/release/26441327-Herbie-Hancock-Empyrean-Isles), or a [75th Anniversary copy](https://www.discogs.com/release/6595630-Herbie-Hancock-Empyrean-Isles) bought with a return policy.
 
-**$ (Budget):** The **Blue Note Classic Vinyl** – Kevin Gray mastering, widely praised as one of the finest sounding entries in its series.
+**$$:** A [dark blue label Liberty-era reissue](https://www.youtube.com/watch?v=yikSYWWQ-EY) with the Van Gelder stamp confirmed in the dead wax.
 
-**$$$$ (Premium):** The [**Music Matters 33⅓ (MMBST-84175)**](https://www.discogs.com/release/6771572-Herbie-Hancock-Empyrean-Isles) on the secondary market – the definitive modern pressing for serious collectors.
+**$$$$:** The [Music Matters 33⅓ edition](https://www.discogs.com/release/6771572-Herbie-Hancock-Empyrean-Isles) on the secondary market.
 
-**$$$$$ (Grail / Rare):** An original [**Blue Note BST 84175 stereo, Liberty label**](https://www.discogs.com/release/6798808-Herbie-Hancock-Empyrean-Isles) in honest condition, with Van Gelder stamp confirmed.
-
----
+**$$$$$:** An original [BST 84175 stereo](https://www.discogs.com/release/6798808-Herbie-Hancock-Empyrean-Isles) on Liberty labels, with the stamp confirmed.
 
 ## Pressing tier summary
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **S** | Music Matters 33⅓ | MMBST-84175 | 2015 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Cohearent Audio, RTI | Limited/3,500; definitive modern pressing | [Discogs](https://www.discogs.com/release/6771572-Herbie-Hancock-Empyrean-Isles) |
-| **A** | Original BST 84175 stereo, Liberty label | BST 84175 | 1964 | Stereo, 33⅓ | RVG stamp | Non-DG considered true first per Cohen's guide | [Discogs](https://www.discogs.com/release/6798808-Herbie-Hancock-Empyrean-Isles) |
-| **A** | Original BLP 4175 mono, NY USA label | BLP 4175 | 1964 | Mono, 33⅓ | RVG stamp | | [Discogs](https://www.discogs.com/release/1102285-Herbie-Hancock-Empyrean-Isles) |
-| **B** | Blue Note Classic Vinyl | 4859562 | 2023 | Stereo, 33⅓, 180g | Orig tape → Kevin Gray, Cohearent Audio, Optimal | Best value; exceptionally well-reviewed | [Discogs](https://www.discogs.com/release/26441327-Herbie-Hancock-Empyrean-Isles) |
-| **B** | Jazz Heritage LP (alternate takes) | 912944X | 1991 | Stereo, 33⅓ | Expanded reissue | Only vinyl source for the alternate "One Finger Snap"/"Oliloqui Valley" takes; not audiophile-grade | [Discogs](https://www.discogs.com/release/4831551) |
-| **B** | Mid-1960s–70s dark blue label reissue | – | 1966–70s | Stereo, 33⅓ | RVG stamp, same metalwork as original | Underrated; genuine RVG sound without first-press pricing | – |
-| **C** | Blue Note 75th Anniversary | B0022238-01 | 2015 | Stereo, 33⅓, 180g | Orig tape → Bernie Grundman/Chris Bellman | Genuinely split QC reports; buy with return policy | [Discogs](https://www.discogs.com/release/6595630-Herbie-Hancock-Empyrean-Isles) |
+| **S** | Music Matters 33⅓ | MMBST-84175 | 2015 | Stereo, 33⅓, 180g | Kevin Gray, Cohearent Audio, from the original tapes. Pressed at RTI | 3,500 copies, out of print. Gatefold with session photos | [Discogs](https://www.discogs.com/release/6771572-Herbie-Hancock-Empyrean-Isles) |
+| **A** | Blue Note original, stereo | BST 84175 | 1964 | Stereo, 33⅓ | Rudy Van Gelder | Liberty labels. Some copies carry the RVG stamp on side 2 only | [Discogs](https://www.discogs.com/release/6798808-Herbie-Hancock-Empyrean-Isles) |
+| **A** | Blue Note original, mono | BLP 4175 | 1964 | Mono, 33⅓ | Rudy Van Gelder | "New York, USA" labels. Cohen's guide holds the non-deep-groove copy is the first pressing | [Discogs](https://www.discogs.com/release/1102285-Herbie-Hancock-Empyrean-Isles) |
+| **B** | Blue Note Classic Vinyl | 4859562 | 2023 | Stereo, 33⅓, 180g | Kevin Gray, Cohearent Audio. Pressed at Optimal | Rated among the best in the series by one owner for low noise | [Discogs](https://www.discogs.com/release/26441327-Herbie-Hancock-Empyrean-Isles) |
+| **B** | Jazz Heritage reissue | 912944X | 1991 | Stereo, 33⅓ | Expanded reissue | The only vinyl source for the alternate "One Finger Snap" and "Oliloqui Valley" takes | [Discogs](https://www.discogs.com/release/4831551) |
+| **B** | Liberty and United Artists reissue, dark blue label | – | 1966–70s | Stereo, 33⅓ | Same metalwork, RVG stamp | RVG sound without first-press pricing. No confirmed catalogue number | – |
+| **C** | Blue Note 75th Anniversary | B0022238-01 | 2015 | Stereo, 33⅓, 180g | Bernie Grundman and Chris Bellman. One variant cut at Masterdisk | Split QC reports. Warping and non-fill on URP-pressed copies | [Discogs](https://www.discogs.com/release/6595630-Herbie-Hancock-Empyrean-Isles) |
 
 ## References
 
-- Discogs (master): [https://www.discogs.com/master/47777-Herbie-Hancock-Empyrean-Isles](https://www.discogs.com/master/47777-Herbie-Hancock-Empyrean-Isles)
-- Discogs release and community listings for all pressings referenced in the tier table above (original BLP 4175/BST 84175, Music Matters MMBST-84175, Blue Note Classic Vinyl, dark blue label reissue, 75th Anniversary B0022238-01)
-- YouTube, JazzLoveJapan, "Herbie Hancock The Empyrean Isles Blue Note RVG US Vinyl LP": [https://www.youtube.com/watch?v=yikSYWWQ-EY](https://www.youtube.com/watch?v=yikSYWWQ-EY)
-- YouTube, Surcos de Jazz, "Herbie Hancock - Empyrean Isles (Blue Note Classic 2023)": [https://www.youtube.com/watch?v=Z4H_1T3PGnI](https://www.youtube.com/watch?v=Z4H_1T3PGnI)
-- YouTube, Ten-Minute Record Reviews, "Herbie Hancock - Empyrean Isles (Episode 153)": [https://www.youtube.com/watch?v=NUoFbRQHHGA](https://www.youtube.com/watch?v=NUoFbRQHHGA)
+- Discogs (master, all versions): [https://www.discogs.com/master/47777-Herbie-Hancock-Empyrean-Isles](https://www.discogs.com/master/47777-Herbie-Hancock-Empyrean-Isles)
+- JazzLoveJapan, "Herbie Hancock The Empyrean Isles Blue Note RVG US Vinyl LP": [https://www.youtube.com/watch?v=yikSYWWQ-EY](https://www.youtube.com/watch?v=yikSYWWQ-EY)
+- Surcos de Jazz, "Herbie Hancock - Empyrean Isles (Blue Note Classic 2023)": [https://www.youtube.com/watch?v=Z4H_1T3PGnI](https://www.youtube.com/watch?v=Z4H_1T3PGnI)
+- Ten-Minute Record Reviews, "Herbie Hancock - Empyrean Isles (Episode 153)": [https://www.youtube.com/watch?v=NUoFbRQHHGA](https://www.youtube.com/watch?v=NUoFbRQHHGA)
 - Progrography, "Herbie Hancock - Empyrean Isles (1964) Review": [https://progrography.com/herbie-hancock/herbie-hancock-empyrean-isles-1964/](https://progrography.com/herbie-hancock/herbie-hancock-empyrean-isles-1964/)

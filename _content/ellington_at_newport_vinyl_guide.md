@@ -2,78 +2,98 @@
 
 ## Summary
 
-*Ellington at Newport* documents Duke Ellington and His Orchestra's performance at the Newport Jazz Festival on July 7–8, 1956, and was released that November as Columbia CL 934 (mono only – stereo LPs weren't mass-produced until 1957). George Avakian produced. The orchestra on the night included Paul Gonsalves and Jimmy Hamilton (tenor sax and clarinet), Johnny Hodges (alto sax), Harry Carney (baritone sax), Ray Nance, Willie Cook, Clark Terry, and Cat Anderson (trumpets), Britt Woodman and Quentin Jackson (trombones), Jimmy Woode (bass), and Sam Woodyard (drums), with Ellington himself on piano.
+*Ellington at Newport* documents Duke Ellington and His Orchestra at the Newport Jazz Festival on July 7 and 8, 1956. George Avakian produced it for Columbia. Columbia released it that November as CL 934, in mono only, since stereo LPs were not mass-produced until 1957. It became Ellington's best-selling record.
 
-The album's official story and its real story are different things. What actually happened on stage revived Ellington's career and put him on the cover of *Time* a month later; what ended up on the record was substantially rebuilt in the studio the next day, because the microphones on stage had failed to capture the single most important moment of the night.
+The record's official story and its real story are different. What happened on stage revived Ellington's career and put him on the cover of *Time* a month later. What ended up on the LP was substantially rebuilt in the studio the next day. The microphones on stage had missed the most important moment of the night.
 
-**Best early pressing for audiophiles:** [Original Columbia six-eye mono, CL 934](https://www.discogs.com/release/689458-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) – the original 1956 release, mono only.
-**Best modern pressing for audiophiles:** [Mobile Fidelity MOFI 1-035](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) – numbered mono LP; reception is good but several long-time collectors still prefer a clean original for Ellington's spoken introductions.
-**Best-value modern:** A clean secondhand [**original six-eye mono**](https://www.discogs.com/release/689458-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) – this title was pressed and repressed heavily given its commercial success, keeping prices reasonable.
+**Best early pressing for audiophiles:** An [original Columbia six-eye mono pressing](https://www.discogs.com/release/689458-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport), CL 934.
+
+**Best modern pressing for audiophiles:** The [Mobile Fidelity numbered mono LP](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport), MOFI 1-035, mastered by Krieg Wunderlich.
+
+**Best-value modern:** A clean secondhand [original six-eye mono](https://www.discogs.com/release/689458-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport), kept affordable by how heavily this title was pressed.
 
 ## Recording history and tape provenance
 
-By 1956, Ellington's orchestra had spent nearly a decade in commercial decline; big bands were expensive to keep on the road, and Ellington had been subsidizing his musicians' salaries from his own songwriting royalties. The Newport Jazz Festival date wasn't expected to change that. The band's early set – a sluggish account of a new "Newport Jazz Festival Suite" that Ellington had composed for the occasion, performed after several members had been pulled offstage by festival organizers and had to be retrieved – was going poorly. Then, well past midnight, the band closed with a 1937 piece, "Diminuendo and Crescendo in Blue," bridged by an open-ended solo feature for tenor saxophonist Paul Gonsalves.
+By 1956 Ellington's orchestra had spent nearly a decade in commercial decline. Big bands were expensive to keep on the road, and Ellington had been subsidising his musicians' salaries from his own songwriting royalties.
 
-What followed became one of the most famous moments in jazz history. Gonsalves played 27 continuous choruses, driven by Jimmy Woode's bass and Sam Woodyard's drums, with Ellington himself pounding out chords and shouting encouragement ("Come on, Paul – dig in!"). A platinum-blonde amateur dancer named Elaine Anderson – misidentified for decades afterward simply as "the anonymous woman in black" – got up and began dancing in the aisle near the stage; much of the crowd of roughly 7,000 followed her lead, and festival officials struggled to end the show as the audience refused to leave. The performance made international news and put Ellington on the cover of *Time* within weeks, reviving a career that had been fading for most of the decade.
+The Newport date was not expected to change that. The band's early set went poorly, a sluggish account of a new "Newport Jazz Festival Suite" written for the occasion. Festival organisers had pulled several members offstage beforehand and they had to be retrieved.
 
-The trouble was that the stage microphones – arranged for Columbia's recording rig – had missed much of Gonsalves's solo; separate microphones set up onstage for Willis Conover's Voice of America broadcast had captured it properly, but Columbia didn't have access to that feed. When George Avakian reviewed the tapes, he judged the crucial performance unusable for release. Rather than let the moment go unrecorded, Ellington and the band went into the studio the day after the festival and re-recorded large portions of the material – including a full re-creation of the Gonsalves solo – which Avakian then blended with usable live material and augmented with dubbed-in crowd noise to disguise the seams. The resulting LP, released within months, became Ellington's best-selling record ever. Only around 40% of what listeners heard on the original release was actually captured live at Newport; the rest was a studio reconstruction dressed up as a concert document.
+Then, well past midnight, the band closed with a 1937 piece, "Diminuendo and Crescendo in Blue." An open-ended solo feature for tenor saxophonist Paul Gonsalves bridged its two halves.
 
-This wasn't confirmed publicly until 1996, when a tape surfaced in the Voice of America's own broadcast archive containing the true, unedited live performance – Gonsalves's actual solo, correctly captured on the VOA's own stage microphones. Producer Phil Schaap used this tape alongside Columbia's original live reels to assemble a full, accurate account of the concert, released in 1999 as the double-CD *Ellington at Newport 1956 (Complete)* – the first time the real performance had been heard by the public, in a mix of mono and stereo, more than four decades after the fact.
+Gonsalves played 27 continuous choruses, driven by Jimmy Woode's bass and Sam Woodyard's drums, with Ellington pounding out chords and shouting encouragement. A platinum-blonde amateur dancer named Elaine Anderson, misidentified for decades as the anonymous woman in black, began dancing in the aisle near the stage.
 
----
+Much of the crowd of roughly 7,000 followed her, and festival officials struggled to end the show as the audience refused to leave.
+
+The orchestra that night included Paul Gonsalves and Jimmy Hamilton on tenor and clarinet, Johnny Hodges on alto and Harry Carney on baritone. Ray Nance, Willie Cook, Clark Terry and Cat Anderson played trumpets, with Britt Woodman and Quentin Jackson on trombones and Ellington at the piano.
+
+## What the record actually is
+
+The stage microphones arranged for Columbia's rig missed much of Gonsalves's solo. Separate microphones set up for Willis Conover's Voice of America broadcast captured it properly, but Columbia had no access to that feed.
+
+Avakian reviewed the tapes and judged the crucial performance unusable. Rather than lose it, Ellington and the band went into the studio the day after the festival. They re-recorded large portions of the material, including a full re-creation of the Gonsalves solo.
+
+Avakian blended that with usable live material and added dubbed crowd noise to disguise the seams. Around 40 percent of what listeners heard on the original release was recorded live at Newport. The rest is a studio reconstruction presented as a concert document.
+
+This was not public until 1996. A tape then surfaced in the Voice of America's broadcast archive holding the true unedited performance, with Gonsalves's actual solo.
+
+Producer Phil Schaap used that tape alongside Columbia's original live reels to assemble an accurate account of the concert. It came out in 1999 as the double CD *Ellington at Newport 1956 (Complete)*, in a mix of mono and stereo.
+
+Every vinyl pressing of the original album carries the reconstruction. That is a property of the record rather than a fault in any pressing.
 
 ## Original Columbia pressings (1956)
 
-**Catalogue: CL 934**, mono only, issued on Columbia's red/black "six-eye" label. This title sold in very large quantities as Ellington's career-reviving hit record, and was repressed steadily through the following decade, which keeps clean originals more attainable than most mid-1950s Columbia jazz titles.
+[CL 934](https://www.discogs.com/release/689458-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) is mono only, on Columbia's red and black six-eye label.
 
-A later stereo pressing also exists – catalog **CS 8648** (1963) – once Columbia had adopted stereo more broadly; given the source material is fundamentally a 1956 mono production (studio-reconstructed as described above), any "stereo" on this catalog number would be a rechannel/reprocessing of that mono source rather than a discrete stereo recording. No dedicated sound-quality comparison against the mono original has surfaced; treat as a period curiosity rather than a recommended purchase.
+This sold in very large quantities as Ellington's career-reviving hit and was repressed steadily through the following decade. Clean originals are more attainable than most mid-1950s Columbia jazz titles.
 
----
+A later stereo pressing exists as CS 8648 from 1963. The source is a 1956 mono production, so any stereo on that number is a rechannelling rather than a discrete stereo recording. No sound comparison against the mono original has been published.
 
-## The reissue hierarchy
+## Mobile Fidelity (MOFI 1-035)
 
-### Mobile Fidelity MOFI 1-035 – the modern standard
+The [Mobile Fidelity edition](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) is a numbered mono LP in the Silver Label Series. Krieg Wunderlich mastered it from the original master tapes, assisted by Rob LoVerde, and it was pressed at RTI.
 
-**Cat. MOFI 1-035** | Format: Mono, numbered LP, Silver Label Series | **Mastered from the original master tapes by Krieg Wunderlich (assisted by Rob LoVerde) at Mobile Fidelity, pressed at RTI (Record Technology Incorporated).** Reception is generally strong – several owners describe the pressing as remarkably quiet and the crowd's reaction as viscerally present – though a meaningful minority of long-time Ellington collectors who own both an original and the MoFi still prefer the original specifically for how Ellington's own spoken introductions come through, describing the MoFi as comparatively flatter on his voice. Worth owning either way; just don't assume it automatically supersedes a clean original. [Discogs](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport)
+Reception is generally strong. Several owners describe the pressing as remarkably quiet and the crowd's reaction as viscerally present.
 
-### "Complete concert on vinyl" reissue (2013)
+A meaningful minority of collectors who own both an original and this pressing still prefer the original. The reason they give is how Ellington's spoken introductions come through. They describe the Mobile Fidelity as flatter on his voice.
 
-A vinyl reissue (catalog DOX904) advertises itself as the complete Newport concert on vinyl for the first time, drawing on the same expanded material assembled for the 1999 CD reissue. This falls into the same category as the wave of European small-label reissues that have proliferated in recent years – likely sourced digitally rather than from analog tape, and of uncertain licensing status, though such releases are commonly sold openly through major retailers under a legal framework that differs from US copyright law. Useful for collectors who want the fuller performance in a physical vinyl format rather than only on CD, but go in with modest sonic expectations and awareness that its licensing status isn't clearly documented. [Discogs](https://www.discogs.com/release/15625375-Duke-Ellington-Ellington-at-Newport)
+## The 2013 "complete concert" reissue
 
----
+A vinyl reissue, catalogue [DOX904](https://www.discogs.com/release/15625375-Duke-Ellington-Ellington-at-Newport), advertises the complete Newport concert on vinyl for the first time, drawing on the material assembled for the 1999 CD.
+
+It belongs to the wave of European small-label reissues of recent years, likely sourced digitally rather than from analog tape. Its licensing status is not clearly documented. Such releases are commonly sold through major retailers under a legal framework that differs from US copyright law.
+
+It is the only way to get the fuller, more accurate performance on vinyl. Sonic expectations should be modest.
 
 ## Japanese pressings
 
-CBS/Sony issued this title in Japan on more than one occasion, including a 1971 promotional pressing and a later-1970s standard release (catalog SOPN-150, c. 1975), both with Japanese liner notes. The SOPN-150 pressing carries a shorter selection than the standard US LP (the Newport Jazz Festival Suite excerpts, "Jeep's Blues," and "Diminuendo and Crescendo in Blue," rather than the full program), so it's worth confirming tracklist before buying if completeness matters. Neither Japanese pressing has developed a strong dedicated audiophile reputation distinct from the US pressings, but both are legitimate period items for collectors building out a fuller run of Ellington pressings, typically found with insert. [Discogs (1975)](https://www.discogs.com/release/3630941-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport)
+CBS/Sony issued this title in Japan more than once. There is a 1971 promotional pressing and a [later standard release](https://www.discogs.com/release/3630941-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) around 1975, catalogue SOPN-150, both with Japanese liner notes.
 
----
+SOPN-150 carries a shorter selection than the US LP. It holds the Newport Jazz Festival Suite excerpts, "Jeep's Blues" and "Diminuendo and Crescendo in Blue" rather than the full programme. Confirming the tracklist matters if completeness does.
+
+Neither Japanese pressing has a published sound comparison against the US pressings.
 
 ## Pressings to avoid
 
-No specific bootleg or notably compromised pressing of this title is widely documented; the DOX904 "complete concert" release noted above is worth buying with modest sonic expectations given its likely digital sourcing and unclear licensing status, but the main thing to understand before buying *any* pressing, original or reissue, is that the record itself is a 1956 studio reconstruction dressed as a live document, not an accuracy issue specific to any particular pressing.
-
----
+No bootleg or notably compromised pressing of this title is widely documented.
 
 ## Buyer's guide by budget
 
-**$ (Budget):** The [**DOX904 "complete concert" reissue**](https://www.discogs.com/release/15625375-Duke-Ellington-Ellington-at-Newport) if you specifically want the expanded, more accurate account of the concert on vinyl rather than the original's studio-reconstructed version – likely digitally sourced, with unclear licensing.
+**$:** The [DOX904 reissue](https://www.discogs.com/release/15625375-Duke-Ellington-Ellington-at-Newport), for the expanded and more accurate concert rather than the original's reconstruction, likely digitally sourced.
 
-**$$ (Affordable):** The [**Mobile Fidelity MOFI 1-035**](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) if you want a guaranteed-quiet modern pressing.
+**$$:** The [Mobile Fidelity MOFI 1-035](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport), for a quiet modern pressing.
 
-**$$$ (Mid-range):** A clean [**original six-eye mono, CL 934**](https://www.discogs.com/release/689458-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) – genuinely attainable given how many copies were pressed, and arguably the most characterful-sounding option for Ellington's introductions.
-
----
+**$$$:** A clean [original six-eye mono CL 934](https://www.discogs.com/release/689458-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport), attainable given how many were pressed.
 
 ## Pressing tier summary
 
 | Tier | Pressing | Cat# | Year | Format | Source / Mastering | Notes | Discogs |
 |---|---|---|---|---|---|---|---|
-| **A** | Original Columbia six-eye mono | CL 934 | 1956 | Mono, 33⅓ | Original 1956 Columbia mastering | Attainable given large original pressing run | [Discogs](https://www.discogs.com/release/689458-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
-| **A** | Mobile Fidelity numbered mono | MOFI 1-035 | 2013 | Mono, 33⅓ | MoFi remastering | Quiet, strong pressing; some prefer original for Duke's voice | [Discogs](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
-| **B** | Japanese CBS/Sony pressing | SOPN-150 | c.1975 | Mono, 33⅓ | Licensed Japanese pressing | Shorter track selection than US LP; no distinct audiophile reputation | [Discogs](https://www.discogs.com/release/3630941-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
-| **B** | "Complete concert" 2LP reissue | DOX904 | 2013 | Stereo, 33⅓, 2×LP | Compiled from 1999 Complete reissue material | Likely digital source, unclear licensing; the fuller, more accurate concert account on vinyl | [Discogs](https://www.discogs.com/release/15625375-Duke-Ellington-Ellington-at-Newport) |
+| **A** | Columbia original, six-eye | CL 934 | 1956 | Mono, 33⅓ | Original 1956 Columbia mastering | Attainable given the large original run. Preferred by some for Ellington's spoken introductions | [Discogs](https://www.discogs.com/release/689458-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
+| **A** | Mobile Fidelity numbered mono | MOFI 1-035 | 2013 | Mono, 33⅓ | Krieg Wunderlich and Rob LoVerde, from the original tapes. Pressed at RTI | Quiet pressing. A minority find it flatter on Ellington's voice than an original | [Discogs](https://www.discogs.com/release/4271873-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
+| **B** | "Complete concert" 2LP reissue | DOX904 | 2013 | Stereo, 33⅓, 2LP | Compiled from the 1999 Complete reissue material | Likely digital source, licensing not documented. The fuller concert on vinyl | [Discogs](https://www.discogs.com/release/15625375-Duke-Ellington-Ellington-at-Newport) |
+| **–** | CBS/Sony (Japan) | SOPN-150 | c. 1975 | Mono, 33⅓ | Licensed Japanese pressing | Not rated. Shorter selection than the US LP. No published comparison | [Discogs](https://www.discogs.com/release/3630941-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport) |
+| **–** | Columbia stereo reissue | CS 8648 | 1963 | Rechannelled stereo, 33⅓ | Reprocessed from the 1956 mono production | Not rated. No discrete stereo recording exists | – |
 
 ## References
 
-- Discogs (master): [https://www.discogs.com/master/136190-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport](https://www.discogs.com/master/136190-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport)
-- Discogs release and community listings for all pressings referenced in the tier table above (original CL 934 six-eye mono, MOFI 1-035, Japanese CBS/Sony SOPN-150, "Complete concert" DOX904 reissue)
+- Discogs (master, all versions): [https://www.discogs.com/master/136190-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport](https://www.discogs.com/master/136190-Duke-Ellington-And-His-Orchestra-Ellington-At-Newport)

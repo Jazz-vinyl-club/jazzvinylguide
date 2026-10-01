@@ -31,11 +31,22 @@ SITE_REF_RE = re.compile(
 SECOND_PERSON_RE = re.compile(r"\b(you|your|you're|you'll|yourself)\b", re.I)
 REFERENCE_WORD_RE = re.compile(
     r"\b(review|reviewer|reviewers|video|forum|thread|interview|article|podcast|"
-    r"YouTube channel|blog|write-up|liner notes)\b", re.I)
+    r"YouTube channel|blog|write-up)\b", re.I)
+# "liner notes" is deliberately absent: notes printed on a jacket are a primary
+# source with no URL, so requiring a hyperlink for them cannot be satisfied.
 CONSENSUS_RE = re.compile(
     r"\b(widely (rated|regarded|considered|praised|cited)|generally (considered|regarded|agreed)|"
     r"most (agree|listeners|collectors|reviewers)|universally|often cited|commonly (cited|regarded))\b", re.I)
-POSITIONAL_RE = re.compile(r"\b(see )?(below|above)\b(?! average)", re.I)
+# Only flag document-positional uses. "rates it above the original" and "valued
+# under/below retail" are comparisons, not cross-references.
+POSITIONAL_RE = re.compile(
+    r"(\bsee (the \w+ )?(below|above)\b"
+    r"|\b(described|noted|listed|discussed|mentioned|covered|shown|set out|flagged|"
+    r"detailed|outlined|explained|rated|summarised|summarized)\s+(below|above)\b"
+    r"|\b(table|section|list|row|rows|guide|paragraph|note|checklist|hierarchy|"
+    r"pressings?|editions?|options?|variants?|detail|details)\s+(below|above)\b"
+    r"|\b(below|above)\s+(before|for more|for details)\b)",
+    re.I)
 FLOURISH_PHRASES = [
     "by circumstance rather than design", "both are probably true", "worth knowing",
     "worth being precise", "worth noting", "worth making", "surfaces a real correction",
